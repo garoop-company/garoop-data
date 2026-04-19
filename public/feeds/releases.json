@@ -1,0 +1,10 @@
+{
+  "type": "release-feed",
+  "items": [
+    {
+      "id": "launch-data-hub",
+      "title": "公開データハブの初期構成を追加",
+      "date": "2026-04-19"
+    }
+  ]
+}

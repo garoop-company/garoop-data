@@ -1,0 +1,25 @@
+{
+  "name": "garoop-data",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run validate:public && next dev --turbopack",
+    "build": "npm run validate:public && next build",
+    "start": "next start",
+    "validate:public": "node scripts/validate-public-json.mjs"
+  },
+  "dependencies": {
+    "next": "16.2.4",
+    "react": "19.2.5",
+    "react-dom": "19.2.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.2.2",
+    "@types/node": "^24.5.2",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "postcss": "^8.5.6",
+    "tailwindcss": "4.2.2",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "SF Pro Display", "Segoe UI Variable", "Helvetica Neue", "Hiragino Sans",
+    "Noto Sans JP", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Iowan Old Style", "Palatino Linotype", "Yu Mincho", "Hiragino Mincho ProN",
+    Georgia, ui-serif, serif;
+}
+
+:root {
+  --surface-0: #f6f8fc;
+  --surface-1: rgba(255, 255, 255, 0.74);
+  --surface-strong: #edf4fb;
+  --ink-strong: #152235;
+  --ink-soft: #506076;
+  --ink-faint: #7c8aa0;
+  --accent: #72dfef;
+  --accent-strong: #0f766e;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top, rgba(114, 223, 239, 0.28), transparent 28%),
+    linear-gradient(180deg, #fcfdff 0%, #f4f7fb 48%, #eef2f7 100%);
+  color: var(--ink-strong);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: rgba(114, 223, 239, 0.4);
+  color: #08111c;
+}
+
+.panel {
+  border: 1px solid rgba(255, 255, 255, 0.65);
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.78), rgba(255, 255, 255, 0.64)),
+    rgba(255, 255, 255, 0.68);
+  backdrop-filter: blur(24px);
+  border-radius: 36px;
+  box-shadow:
+    0 30px 90px rgba(15, 23, 42, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+.eyebrow {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.stat-tile {
+  border-radius: 24px;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.84);
+  padding: 1rem;
+  box-shadow: 0 18px 44px rgba(15, 23, 42, 0.05);
+}
+
+.animate-enter {
+  animation: enter 0.7s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes enter {
+  from {
+    opacity: 0;
+    transform: translateY(18px) scale(0.98);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service-list",
+  "services": [
+    {
+      "id": "json-distribution",
+      "name": "JSON Distribution"
+    },
+    {
+      "id": "media-automation",
+      "name": "Media Automation"
+    }
+  ]
+}
