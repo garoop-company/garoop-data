@@ -1,21 +1,21 @@
 @import "tailwindcss";
 
 @theme {
-  --font-sans: "SF Pro Display", "Segoe UI Variable", "Helvetica Neue", "Hiragino Sans",
-    "Noto Sans JP", ui-sans-serif, system-ui, sans-serif;
-  --font-serif: "Iowan Old Style", "Palatino Linotype", "Yu Mincho", "Hiragino Mincho ProN",
-    Georgia, ui-serif, serif;
+  --font-sans: "Avenir Next", "Segoe UI Variable", "Hiragino Sans", "Noto Sans JP",
+    ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Georgia", "Iowan Old Style", "Yu Mincho", "Hiragino Mincho ProN",
+    ui-serif, serif;
 }
 
 :root {
-  --surface-0: #f6f8fc;
-  --surface-1: rgba(255, 255, 255, 0.74);
-  --surface-strong: #edf4fb;
-  --ink-strong: #152235;
-  --ink-soft: #506076;
-  --ink-faint: #7c8aa0;
-  --accent: #72dfef;
-  --accent-strong: #0f766e;
+  --surface-0: #fff7fb;
+  --surface-1: rgba(255, 255, 255, 0.78);
+  --surface-strong: #fff0f6;
+  --ink-strong: #5a3450;
+  --ink-soft: #8a6880;
+  --ink-faint: #b58ea4;
+  --accent: #ffb6cc;
+  --accent-strong: #d75d8b;
 }
 
 * {
@@ -29,26 +29,26 @@ html {
 body {
   min-height: 100vh;
   background:
-    radial-gradient(circle at top, rgba(114, 223, 239, 0.28), transparent 28%),
-    linear-gradient(180deg, #fcfdff 0%, #f4f7fb 48%, #eef2f7 100%);
+    radial-gradient(circle at top, rgba(255, 202, 222, 0.68), transparent 28%),
+    linear-gradient(180deg, #fffafd 0%, #fff5f8 45%, #fff8f1 100%);
   color: var(--ink-strong);
   font-family: var(--font-sans);
 }
 
 ::selection {
-  background: rgba(114, 223, 239, 0.4);
-  color: #08111c;
+  background: rgba(255, 182, 204, 0.4);
+  color: #48253c;
 }
 
 .panel {
-  border: 1px solid rgba(255, 255, 255, 0.65);
+  border: 1px solid rgba(255, 255, 255, 0.72);
   background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.78), rgba(255, 255, 255, 0.64)),
-    rgba(255, 255, 255, 0.68);
+    linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(255, 248, 250, 0.74)),
+    rgba(255, 255, 255, 0.72);
   backdrop-filter: blur(24px);
   border-radius: 36px;
   box-shadow:
-    0 30px 90px rgba(15, 23, 42, 0.08),
+    0 30px 90px rgba(215, 93, 139, 0.12),
     inset 0 1px 0 rgba(255, 255, 255, 0.7);
 }
 
@@ -65,7 +65,68 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.7);
   background: rgba(255, 255, 255, 0.84);
   padding: 1rem;
-  box-shadow: 0 18px 44px rgba(15, 23, 42, 0.05);
+  box-shadow: 0 18px 44px rgba(215, 93, 139, 0.08);
+}
+
+.stat-tile-pink {
+  background: linear-gradient(180deg, rgba(255, 242, 246, 0.96), rgba(255, 255, 255, 0.88));
+}
+
+.stat-tile-cream {
+  background: linear-gradient(180deg, rgba(255, 249, 236, 0.96), rgba(255, 255, 255, 0.88));
+}
+
+.stat-tile-lilac {
+  background: linear-gradient(180deg, rgba(250, 243, 255, 0.96), rgba(255, 255, 255, 0.88));
+}
+
+.speech-card {
+  border: 1px solid rgba(255, 255, 255, 0.76);
+  background:
+    linear-gradient(180deg, rgba(255, 252, 253, 0.92), rgba(255, 244, 248, 0.84)),
+    rgba(255, 255, 255, 0.86);
+  box-shadow:
+    0 26px 70px rgba(215, 93, 139, 0.14),
+    inset 0 1px 0 rgba(255, 255, 255, 0.75);
+}
+
+.speech-card::after {
+  content: "";
+  position: absolute;
+  left: 48px;
+  bottom: -18px;
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  transform: rotate(45deg);
+  background: linear-gradient(180deg, rgba(255, 248, 250, 0.92), rgba(255, 239, 245, 0.88));
+  border-right: 1px solid rgba(255, 255, 255, 0.76);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.76);
+}
+
+.character-glow {
+  background:
+    radial-gradient(circle at center, rgba(255, 214, 226, 0.92), rgba(255, 255, 255, 0) 68%);
+  filter: blur(20px);
+}
+
+.character-bounce {
+  animation: floaty 4.6s ease-in-out infinite;
+}
+
+.sparkle-dot {
+  position: absolute;
+  z-index: 0;
+  height: 18px;
+  width: 18px;
+  border-radius: 9999px;
+  background: radial-gradient(circle at 30% 30%, #fff, rgba(255, 201, 220, 0.88));
+  box-shadow: 0 0 24px rgba(255, 188, 210, 0.9);
+  animation: twinkle 2.8s ease-in-out infinite;
+}
+
+.sparkle-dot-delayed {
+  animation-delay: 1.3s;
 }
 
 .animate-enter {
@@ -81,5 +142,29 @@ body {
   to {
     opacity: 1;
     transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes floaty {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes twinkle {
+  0%,
+  100% {
+    opacity: 0.45;
+    transform: scale(0.9);
+  }
+
+  50% {
+    opacity: 1;
+    transform: scale(1.15);
   }
 }
