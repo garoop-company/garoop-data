@@ -6,13 +6,11 @@ import type { DirectorySummary, PublicJsonFile } from "@/lib/public-catalog";
 type DatasetBrowserProps = {
   files: PublicJsonFile[];
   directories: DirectorySummary[];
-  invalidFiles: string[];
 };
 
 export function DatasetBrowser({
   files,
   directories,
-  invalidFiles,
 }: DatasetBrowserProps) {
   const [query, setQuery] = useState("");
   const [activeFolder, setActiveFolder] = useState<string>("all");
@@ -48,7 +46,7 @@ export function DatasetBrowser({
             </h2>
             <p className="max-w-2xl text-sm leading-6 text-[var(--ink-soft)] sm:text-base">
               フォルダを増やすだけでURL階層が増えます。トップページでは公開済みJSONを検索でき、
-              運用ミスになりやすい非JSONファイルも検知します。
+              アプリ側で `/` と `*.json` 以外の直接アクセスを遮断します。
             </p>
           </div>
 
@@ -91,25 +89,6 @@ export function DatasetBrowser({
             </button>
           ))}
         </div>
-
-        {invalidFiles.length > 0 ? (
-          <div className="rounded-3xl border border-rose-200 bg-rose-50/95 px-5 py-4 text-sm text-rose-900">
-            <p className="font-semibold">`public/` にJSON以外のファイルがあります</p>
-            <p className="mt-1 text-rose-800/80">
-              `npm run dev` と `npm run build` は失敗します。対象:
-            </p>
-            <div className="mt-3 flex flex-wrap gap-2">
-              {invalidFiles.map((filePath) => (
-                <span
-                  key={filePath}
-                  className="rounded-full bg-white px-3 py-1 font-mono text-xs text-rose-900"
-                >
-                  {filePath}
-                </span>
-              ))}
-            </div>
-          </div>
-        ) : null}
 
         {visibleFiles.length > 0 ? (
           <div className="grid gap-4 lg:grid-cols-2">

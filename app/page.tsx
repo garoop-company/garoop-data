@@ -11,15 +11,15 @@ const principles = [
     body: "トップページは説明と一覧だけに絞り、実データはJSONとして直接参照できる形にします。",
   },
   {
-    title: "Guardrails for mistakes",
-    body: "画像やメモを混ぜないように、`public/` にJSON以外があると開発とビルドを止めます。",
+    title: "Route-level access control",
+    body: "既存の画像や資料が `public/` に残っていても、外部公開は `/` と `*.json` に限定します。",
   },
 ];
 
 const operations = [
   "JSONを置く場所: `public/<任意のフォルダ>/<任意の名前>.json`",
   "公開URL: 先頭に `/` を付けた同じパス",
-  "運用ルール: `public/` にはJSON以外を置かない",
+  "公開制御: `/` と `*.json` 以外は直接アクセス不可",
 ];
 
 export default async function Home() {
@@ -49,7 +49,8 @@ export default async function Home() {
                 </h1>
                 <p className="max-w-3xl text-base leading-7 text-[var(--ink-soft)] sm:text-lg">
                   このプロジェクトは、株式会社Garoopで扱うJSONデータを `public/` 配下で整理し、
-                  トップページでは公開ルールと現在の配布一覧だけを見せるためのNext.jsアプリです。
+                  トップページでは公開ルールと現在の配布一覧だけを見せ、JSON以外の直接配信は遮断する
+                  Next.jsアプリです。
                 </p>
               </div>
 
@@ -121,7 +122,6 @@ export default async function Home() {
         <DatasetBrowser
           files={catalog.files}
           directories={catalog.directories}
-          invalidFiles={catalog.invalidFiles}
         />
       </div>
     </main>

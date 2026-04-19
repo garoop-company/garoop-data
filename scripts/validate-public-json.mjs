@@ -2,7 +2,6 @@ import { readdir } from "node:fs/promises";
 import path from "node:path";
 
 const publicDirectory = path.join(process.cwd(), "public");
-const invalidFiles = [];
 let jsonCount = 0;
 
 async function walk(directory) {
@@ -18,12 +17,9 @@ async function walk(directory) {
 
     const relativePath = path.relative(publicDirectory, entryPath).split(path.sep).join("/");
 
-    if (path.extname(entry.name).toLowerCase() !== ".json") {
-      invalidFiles.push(relativePath);
-      continue;
+    if (path.extname(entry.name).toLowerCase() === ".json") {
+      jsonCount += 1;
     }
-
-    jsonCount += 1;
   }
 }
 
@@ -38,12 +34,4 @@ try {
   throw error;
 }
 
-if (invalidFiles.length > 0) {
-  console.error("Only JSON files are allowed under public/.");
-  for (const filePath of invalidFiles) {
-    console.error(`- ${filePath}`);
-  }
-  process.exit(1);
-}
-
-console.log(`Validated ${jsonCount} JSON file(s) under public/.`);
+console.log(`Indexed ${jsonCount} JSON file(s) under public/.`);

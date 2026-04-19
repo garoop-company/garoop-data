@@ -19,7 +19,6 @@ export type DirectorySummary = {
 export type PublicCatalog = {
   files: PublicJsonFile[];
   directories: DirectorySummary[];
-  invalidFiles: string[];
   totalBytes: number;
 };
 
@@ -39,7 +38,6 @@ async function walkDirectory(
   directory: string,
   root: string,
   files: PublicJsonFile[],
-  invalidFiles: string[],
 ) {
   const entries = await readdir(directory, { withFileTypes: true });
   entries.sort((left, right) => left.name.localeCompare(right.name));
@@ -48,14 +46,13 @@ async function walkDirectory(
     const entryPath = path.join(directory, entry.name);
 
     if (entry.isDirectory()) {
-      await walkDirectory(entryPath, root, files, invalidFiles);
+      await walkDirectory(entryPath, root, files);
       continue;
     }
 
     const relativePath = path.relative(root, entryPath).split(path.sep).join("/");
 
     if (path.extname(entry.name).toLowerCase() !== ".json") {
-      invalidFiles.push(relativePath);
       continue;
     }
 
@@ -76,15 +73,13 @@ async function walkDirectory(
 export async function getPublicCatalog(): Promise<PublicCatalog> {
   const publicDirectory = path.join(process.cwd(), "public");
   const files: PublicJsonFile[] = [];
-  const invalidFiles: string[] = [];
 
   try {
-    await walkDirectory(publicDirectory, publicDirectory, files, invalidFiles);
+    await walkDirectory(publicDirectory, publicDirectory, files);
   } catch {
     return {
       files: [],
       directories: [],
-      invalidFiles: [],
       totalBytes: 0,
     };
   }
@@ -111,7 +106,6 @@ export async function getPublicCatalog(): Promise<PublicCatalog> {
   return {
     files,
     directories,
-    invalidFiles,
     totalBytes,
   };
 }
