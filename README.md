@@ -21,3 +21,25 @@ npm run dev
 ```
 
 `dev` と `build` の前に公開JSONカタログを検査します。
+
+## Daily Update
+
+`public/data/` の日次更新は GitHub Actions で自動実行します。
+
+- workflow: `.github/workflows/codex-daily-plan.yml`
+- schedule: 毎日 JST 02:00 (`cron: 0 17 * * *`)
+- outputs:
+  - `public/data/personnel.json`
+  - `public/data/schedule.json`
+  - `public/data/daily/tasks/YYYY-MM-DD.json`
+  - `public/data/daily/schedules/YYYY-MM-DD.json`
+
+手動実行:
+
+```bash
+chmod +x scripts/codex/run-daily-plan.sh
+export GROQ_API_KEY='your-groq-api-key'
+export GROQ_MODEL='llama-3.1-8b-instant'
+export GROQ_MODEL_CANDIDATES='llama-3.1-8b-instant,llama-3.3-70b-versatile,gemma2-9b-it'
+./scripts/codex/run-daily-plan.sh 2026-02-20
+```

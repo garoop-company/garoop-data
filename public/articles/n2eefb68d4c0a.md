@@ -1,35 +1,22 @@
 ---
-title: "Garoopの技術スタック バックエンド＆インフラ"
-description: "Garoopは、10歳からスタートアップできる力を育てる支援サービスを目指しています。kids apiは、子ども向けプラットフォームのバックエンドAPIです。Go + GraphQL（gqlgen）を中心に、認証・案件管理・学習コンテンツ・ポイント・AI連携ま..."
+title: "Garoopの技術スタック"
+description: "Garoopの技術スタックを紹介します。バックエンド＆インフラの詳細について解説します。"
 sourceUrl: "https://note.com/garoop_company/n/n2eefb68d4c0a"
 publishedAt: "2026-02-14T09:24:45.000Z"
 imageUrl: "https://assets.st-note.com/production/uploads/images/251692190/rectangle_large_type_2_096b80ca8b8d36dda95be5788944938a.png?fit=bounds&quality=85&width=1280"
-hashtags: "Garoop,kids api,バックエンドAPI,GraphQL,Go"
-faq1Question: "kids apiは何で構成されていますか?"
-faq1Answer: "kids apiはGoとGraphQL（gqlgen）で構成されています。"
-faq2Question: "kids apiはどのような機能を提供していますか?"
-faq2Answer: "kids apiは認証、案件管理、学習コンテンツ、ポイント、AI連携までを提供しています。"
+hashtags: "Garoop,技術スタック,バックエンド,インフラ,GraphQL"
+faq1Question: "Garoopの技術スタックの目的は何ですか？"
+faq1Answer: "Garoopの技術スタックの目的は、子ども向けプラットフォームのバックエンドAPIを提供することです。"
+faq2Question: "Garoopの技術スタックはどのような技術を使用していますか？"
+faq2Answer: "Garoopの技術スタックは、Go + GraphQL（gqlgen）を中心に、認証・案件管理・学習コンテンツ・ポイント・AI連携までを1つのAPIで提供しています。"
 ---
 
-### Garoopの技術スタック
+## Garoopの技術スタック
+Garoopの技術スタックは、子ども向けプラットフォームのバックエンドAPIを提供するために構築されています。
 
-Garoopは、10歳からスタートアップできる力を育てる支援サービスを目指しています。kids apiは、子ども向けプラットフォームのバックエンドAPIです。
+## アーキテクチャ
+アーキテクチャは、役割分担に基づいて設計されています。
+* server.go: HTTPサーバ起動、GraphQLエンドポイント公開、CORS制御、セッションCookieの受け渡しを担当します。
+* graph/: GraphQL層。schema.graphqls でAPI契約を定義し、schema.resolvers.go が実装を担当します。
 
-#### 技術スタック
-
-* Go
-* GraphQL（gqlgen）
-* 認証
-* 案件管理
-* 学習コンテンツ
-* ポイント
-* AI連携
-
-#### アーキテクチャ
-
-* server.go: HTTPサーバ起動、GraphQLエンドポイント公開、CORS制御、セッションCookieの受け渡しを担当。
-* graph/: GraphQL層。schema.graphqlsでAPI契約を定義し、schema.resolvers.goがquery、mutation、subscriptionを実装します。
-
-#### 使い方
-
-kids apiは、子ども向けプラットフォームのバックエンドAPIです。認証、案件管理、学習コンテンツ、ポイント、AI連携までを1つのAPIで提供しています。
+Garoopの技術スタックは、Go + GraphQL（gqlgen）を中心に、認証・案件管理・学習コンテンツ・ポイント・AI連携までを1つのAPIで提供しています。

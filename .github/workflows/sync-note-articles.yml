@@ -1,0 +1,131 @@
+name: Sync Note Articles
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_sync:
+        description: "Force generation even when RSS has no update"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+      groq_model:
+        description: "Groq model name (example: llama-3.1-8b-instant)"
+        required: false
+        default: "llama-3.1-8b-instant"
+        type: string
+  schedule:
+    - cron: "0 18 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-note-articles
+  cancel-in-progress: true
+
+jobs:
+  check-latest-note:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      FORCE_SYNC: ${{ github.event.inputs.force_sync || 'false' }}
+    outputs:
+      skip: ${{ steps.latest.outputs.skip }}
+      latest: ${{ steps.latest.outputs.latest }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Check latest Note post
+        id: latest
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+          const statePath = "automation/note/note-feed-state.json";
+          const forceSync = process.env.FORCE_SYNC === "true";
+          const run = async () => {
+            if (forceSync) {
+              fs.appendFileSync(process.env.GITHUB_OUTPUT, "skip=false\n");
+              fs.appendFileSync(process.env.GITHUB_OUTPUT, "latest=\n");
+              console.log("Force sync enabled.");
+              return;
+            }
+
+            const res = await fetch("https://note.com/garoop_company/rss", {
+              headers: { "User-Agent": "garoop-note-sync/1.0 (+https://www.garoop.jp)" },
+            });
+            if (!res.ok) {
+              throw new Error(`Failed to fetch RSS: ${res.status}`);
+            }
+            const xml = await res.text();
+            const latest = (xml.match(/<pubDate>([\s\S]*?)<\/pubDate>/) || [])[1]?.trim() || "";
+            const latestIso = latest ? new Date(latest).toISOString() : "";
+
+            let previous = "";
+            if (fs.existsSync(statePath)) {
+              try {
+                const state = JSON.parse(fs.readFileSync(statePath, "utf8"));
+                previous = String(state.latestPublishedAt || "").trim();
+              } catch {}
+            }
+
+            const skip = latestIso && previous && latestIso === previous ? "true" : "false";
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, `skip=${skip}\n`);
+            fs.appendFileSync(process.env.GITHUB_OUTPUT, `latest=${latestIso}\n`);
+            console.log(`latest=${latestIso} previous=${previous} skip=${skip}`);
+          };
+          run().catch((err) => {
+            console.error(err);
+            process.exit(1);
+          });
+          NODE
+
+  sync-note-articles:
+    needs: check-latest-note
+    if: needs.check-latest-note.outputs.skip != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      FORCE_SYNC: ${{ github.event.inputs.force_sync || 'false' }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      GROQ_MODEL: ${{ github.event.inputs.groq_model || 'llama-3.1-8b-instant' }}
+      GROQ_MODEL_CANDIDATES: ${{ github.event.inputs.groq_model || 'llama-3.1-8b-instant' }},llama-3.3-70b-versatile,gemma2-9b-it
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Sync Note articles
+        run: node scripts/note/sync_note_articles.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            amplify-studio/public/articles \
+            automation/note/note-feed-state.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore(note): sync note articles"
+          git push
