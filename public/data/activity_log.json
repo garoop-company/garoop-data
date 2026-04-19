@@ -1,0 +1,33 @@
+[
+    {
+        "timestamp": "2026-01-23T09:05:00Z",
+        "member_id": "representative",
+        "action": "朝会を開始しました",
+        "status": "COMPLETED"
+    },
+    {
+        "timestamp": "2026-01-23T10:15:00Z",
+        "member_id": "ai_garuchan",
+        "action": "Note下書き生成開始",
+        "status": "IN_PROGRESS"
+    },
+    {
+        "timestamp": "2026-01-23T10:30:00Z",
+        "member_id": "ai_garuchan",
+        "action": "Note下書き生成完了 → 代表に提案",
+        "status": "COMPLETED",
+        "artifact_url": "https://note.com/garoop/n/draft123"
+    },
+    {
+        "timestamp": "2026-01-23T20:45:00Z",
+        "member_id": "engineer",
+        "action": "APIエンドポイントの最適化中",
+        "status": "IN_PROGRESS"
+    },
+    {
+        "timestamp": "2026-01-23T21:00:00Z",
+        "member_id": "designer",
+        "action": "新しいバナー案の書き出し",
+        "status": "COMPLETED"
+    }
+]

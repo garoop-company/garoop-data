@@ -1,0 +1,142 @@
+{
+    "date": "2026-02-23",
+    "generated_at": "2026-02-22T17:20:18.776Z",
+    "task_pool_updates": [
+        {
+            "member_id": "representative",
+            "task_pool": [
+                {
+                    "text": "意思決定/戦略",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "プロジェクト計画",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "チームリーダーシップ",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "designer",
+            "task_pool": [
+                {
+                    "text": "デザインコンセプト",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "ビジュアルデザイン",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "ブランディング",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "engineer",
+            "task_pool": [
+                {
+                    "text": "プロダクト開発",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "テスト実施",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "デプロイ管理",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "marketing",
+            "task_pool": [
+                {
+                    "text": "マーケティング戦略",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "コンテンツ作成",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "キャンペーン実施",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "tax_accountant",
+            "task_pool": [
+                {
+                    "text": "会計処理",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "税務調査",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "財務管理",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "labor_consultant",
+            "task_pool": [
+                {
+                    "text": "労務管理",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "就業規則設計",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "法令遵守",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "ambassador_yui",
+            "task_pool": [
+                {
+                    "text": "AI解説",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "コミュニケーション",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "イベントMC",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "talent_uka",
+            "task_pool": [
+                {
+                    "text": "モデリング",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "表現力",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "ブランド体現",
+                    "mood": "OFF"
+                }
+            ]
+        }
+    ]
+}

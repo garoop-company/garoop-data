@@ -1,0 +1,516 @@
+[
+    {
+        "id": "representative",
+        "name": "Taiki Yamashita",
+        "role": "REPRESENTATIVE",
+        "imageSrc": "/images/town/representative.jpg",
+        "mapConfig": {
+            "x": 50,
+            "y": 25,
+            "state": "static"
+        },
+        "taskPool": [
+            {
+                "text": "意思決定/戦略",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "プロジェクト計画",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "会議準備",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "ai_garuchan",
+        "name": "Garuchan AI",
+        "role": "AI CHARACTER",
+        "imageSrc": "/images/town/garoo_kawaii.webp",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 50,
+            "y": 45,
+            "state": "static"
+        },
+        "taskPool": [
+            {
+                "text": "ユーザーをモチベート中",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "ナビゲーション中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "伴走支援中",
+                "mood": "CREATIVE"
+            }
+        ]
+    },
+    {
+        "id": "tax_accountant",
+        "name": "清水小綾",
+        "role": "FINANCE",
+        "imageSrc": "/images/town/tax_accountant.webp",
+        "mapConfig": {
+            "x": 88,
+            "y": 28,
+            "state": "static"
+        },
+        "taskPool": [
+            {
+                "text": "会計設計",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "税務戦略",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "資金管理",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "labor_consultant",
+        "name": "須田 朋美",
+        "role": "HR & LEGAL",
+        "imageSrc": "/images/town/labor_consultant.webp",
+        "mapConfig": {
+            "x": 32,
+            "y": 80,
+            "state": "static"
+        },
+        "taskPool": [
+            {
+                "text": "労務管理",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "就業規則設計",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "組織づくり",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "partner_himanshu",
+        "name": "Himanshu Godara",
+        "role": "PARTNER",
+        "imageSrc": "/images/town/himanshu.webp",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 75,
+            "y": 70,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "グローバル市場を分析中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "海外パートナーと交渉中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "次世代戦略を構想中",
+                "mood": "CREATIVE"
+            }
+        ]
+    },
+    {
+        "id": "ambassador_yui",
+        "name": "松下由依",
+        "role": "AMBASSADOR",
+        "imageSrc": "/images/town/yui.webp",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 35,
+            "y": 55,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "アナウンス",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "イラストレーション",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "AI解説",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "talent_uka",
+        "name": "uka",
+        "role": "TALENT",
+        "imageSrc": "/images/town/uka.webp",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 65,
+            "y": 55,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "モデリング",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "表現力",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "ビジュアル表現",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "ai_uka",
+        "name": "uka AI",
+        "role": "AI TALENT",
+        "imageSrc": "",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 85,
+            "y": 60,
+            "state": "static"
+        },
+        "taskPool": [
+            {
+                "text": "AI表現を実験中",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "デジタル拡張中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "次世代タレント像を探索中",
+                "mood": "CREATIVE"
+            }
+        ]
+    },
+    {
+        "id": "hr_manager",
+        "name": "HR MANAGER [AI]",
+        "role": "PEOPLE",
+        "imageSrc": "",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 10,
+            "y": 55,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "ポジティブなバイブスを最大化中",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "最高の才能をパークへ誘致中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "昼寝して英気を養い中",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "sales_leader",
+        "name": "SALES LEADER [AI]",
+        "role": "PARTNERSHIP",
+        "imageSrc": "",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 92,
+            "y": 35,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "新しい提携先と交渉中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "Garoopのファンを増やし中",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "お祝いのシャンパンを予約中",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "security",
+        "name": "SECURITY [AI]",
+        "role": "DEFENSE",
+        "imageSrc": "",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 85,
+            "y": 75,
+            "state": "static"
+        },
+        "taskPool": [
+            {
+                "text": "デジタル障壁を強化中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "未知の脅威を予測中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "ロボットのメンテナンス中",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "announcer",
+        "name": "ANNOUNCER [AI]",
+        "role": "PR & MEDIA",
+        "imageSrc": "",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 55,
+            "y": 70,
+            "state": "static"
+        },
+        "taskPool": [
+            {
+                "text": "アップデートを放送中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "ナレーションを収録中",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "ニュース原稿をチェック中",
+                "mood": "FOCUSED"
+            }
+        ]
+    },
+    {
+        "id": "model",
+        "name": "MODEL [AI]",
+        "role": "FASHION",
+        "imageSrc": "",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 8,
+            "y": 30,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "ウォーキングを練習中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "AIファッションをフィッティング中",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "エステでデータメンテナンス中",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "backoffice",
+        "name": "BACK OFFICE [AI]",
+        "role": "SUPPORT",
+        "imageSrc": "",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 90,
+            "y": 85,
+            "state": "static"
+        },
+        "taskPool": [
+            {
+                "text": "100万通のメールを配信中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "業務フローを全自動化中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "コーヒーを淹れて一息つき中",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "investigator",
+        "name": "GaruScope-03",
+        "role": "調査員",
+        "imageSrc": "/images/town/investigator.webp",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 45,
+            "y": 15,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "謎のシグナルを追跡中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "データの裏側を潜行調査中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "ミッションの全容を解明中",
+                "mood": "CREATIVE"
+            }
+        ]
+    },
+    {
+        "id": "coordinator",
+        "name": "GaruOps-04",
+        "role": "潜行調整官",
+        "imageSrc": "/images/town/coordinator.webp",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 15,
+            "y": 70,
+            "state": "static"
+        },
+        "taskPool": [
+            {
+                "text": "バックドアの脆弱性を診断中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "暗号化プロトコルを調整中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "秘密の合流地点を確認中",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "negotiator",
+        "name": "GaruDeal-05",
+        "role": "ステルス・ネゴシエーター",
+        "imageSrc": "/images/town/negotiator.webp",
+        "isPlaceholder": true,
+        "mapConfig": {
+            "x": 70,
+            "y": 20,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "影のスポンサーと交渉中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "情報の対価を計算中",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "不可能な契約を可能に調整中",
+                "mood": "CREATIVE"
+            }
+        ]
+    },
+    {
+        "id": "designer",
+        "name": "GaruPalette-00",
+        "role": "DESIGNER",
+        "imageSrc": "/images/town/designer.webp",
+        "mapConfig": {
+            "x": 20,
+            "y": 42,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "デザインレビュー",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "ビジュアルデザイン",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "ブランディング",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "engineer",
+        "name": "GaruCode-01",
+        "role": "ENGINEER",
+        "imageSrc": "/images/town/engineer.webp",
+        "mapConfig": {
+            "x": 80,
+            "y": 45,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "プロダクト開発",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "AI/ML",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "クラウドアーキテクチャ",
+                "mood": "OFF"
+            }
+        ]
+    },
+    {
+        "id": "marketing",
+        "name": "GaruBuzz-02",
+        "role": "MARKETING",
+        "imageSrc": "/images/town/marketing.webp",
+        "mapConfig": {
+            "x": 12,
+            "y": 28,
+            "state": "patrol"
+        },
+        "taskPool": [
+            {
+                "text": "デジタルマーケティング",
+                "mood": "FOCUSED"
+            },
+            {
+                "text": "グロースハック",
+                "mood": "CREATIVE"
+            },
+            {
+                "text": "コンテンツ戦略",
+                "mood": "OFF"
+            }
+        ]
+    }
+]

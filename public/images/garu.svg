@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 700">
+  <defs>
+    <style>
+      /* まばたきのアニメーション */
+      .blink {
+        animation: blink-anim 3s infinite;
+        transform-origin: center;
+        transform-box: fill-box;
+      }
+      @keyframes blink-anim {
+        0%, 90%, 100% { transform: scaleY(1); }
+        95% { transform: scaleY(0.05); }
+      }
+      
+      /* 赤ちゃんのぴょこぴょこアニメーション */
+      .jump {
+        animation: jump-anim 1.2s infinite ease-in-out;
+      }
+      @keyframes jump-anim {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-15px); }
+      }
+
+      /* 線のスタイル */
+      .outline {
+        stroke: #6A2A3A;
+        stroke-width: 4;
+      }
+    </style>
+  </defs>
+
+  <path d="M 340 500 C 420 520, 470 480, 480 430 C 450 470, 400 480, 350 460 Z" fill="#FFB7C5" class="outline"/>
+
+  <ellipse cx="180" cy="580" rx="40" ry="25" fill="#FFB7C5" class="outline"/>
+  <ellipse cx="320" cy="580" rx="40" ry="25" fill="#FFB7C5" class="outline"/>
+
+  <ellipse cx="250" cy="450" rx="110" ry="120" fill="#FFB7C5" class="outline"/>
+
+  <g class="jump">
+    <ellipse cx="215" cy="425" rx="12" ry="22" fill="#FFB7C5" class="outline" transform="rotate(-20 215 425)"/>
+    <ellipse cx="285" cy="425" rx="12" ry="22" fill="#FFB7C5" class="outline" transform="rotate(20 285 425)"/>
+    <circle cx="250" cy="445" r="45" fill="#FFB7C5" class="outline"/>
+    <circle cx="230" cy="445" r="7" fill="#6A2A3A"/>
+    <circle cx="228" cy="442" r="2" fill="#FFFFFF"/>
+    <circle cx="270" cy="445" r="7" fill="#6A2A3A"/>
+    <circle cx="268" cy="442" r="2" fill="#FFFFFF"/>
+    <circle cx="250" cy="455" r="3" fill="#6A2A3A"/>
+    <path d="M 245 460 Q 250 465 255 460" fill="none" class="outline" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <path d="M 155 460 Q 250 500 345 460 C 345 580, 155 580, 155 460 Z" fill="#FFF0F5" class="outline"/>
+
+  <path d="M 150 380 C 110 400, 110 470, 150 480 C 170 470, 170 420, 150 380 Z" fill="#FFB7C5" class="outline"/>
+  <path d="M 350 380 C 390 400, 390 470, 350 480 C 330 470, 330 420, 350 380 Z" fill="#FFB7C5" class="outline"/>
+
+  <g transform="rotate(-25 120 220)">
+    <ellipse cx="120" cy="220" rx="55" ry="100" fill="#FFB7C5" class="outline"/>
+    <ellipse cx="120" cy="220" rx="30" ry="70" fill="#FFF0F5" />
+  </g>
+  <g transform="rotate(25 380 220)">
+    <ellipse cx="380" cy="220" rx="55" ry="100" fill="#FFB7C5" class="outline"/>
+    <ellipse cx="380" cy="220" rx="30" ry="70" fill="#FFF0F5" />
+  </g>
+
+  <ellipse cx="250" cy="280" rx="140" ry="120" fill="#FFB7C5" class="outline"/>
+
+  <path d="M 220 165 Q 235 130 250 160 Q 265 130 280 165 Z" fill="#FFB7C5" class="outline" stroke-linejoin="round"/>
+
+  <path d="M 160 210 Q 180 190 200 205" fill="none" class="outline" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 340 210 Q 320 190 300 205" fill="none" class="outline" stroke-width="6" stroke-linecap="round"/>
+
+  <path d="M 140 260 Q 180 210 220 260" fill="none" class="outline" stroke-width="6" stroke-linecap="round"/>
+  <g class="blink">
+    <ellipse cx="180" cy="280" rx="35" ry="50" fill="#6A2A3A"/>
+    <circle cx="180" cy="260" r="12" fill="#FFFFFF"/>
+    <polygon points="180,285 185,295 195,300 185,305 180,315 175,305 165,300 175,295" fill="#FFFFFF"/>
+  </g>
+
+  <path d="M 280 260 Q 320 210 360 260" fill="none" class="outline" stroke-width="6" stroke-linecap="round"/>
+  <g class="blink">
+    <ellipse cx="320" cy="280" rx="35" ry="50" fill="#6A2A3A"/>
+    <circle cx="320" cy="260" r="12" fill="#FFFFFF"/>
+    <polygon points="320,285 325,295 335,300 325,305 320,315 315,305 305,300 315,295" fill="#FFFFFF"/>
+  </g>
+
+  <ellipse cx="250" cy="340" rx="45" ry="35" fill="#FFF0F5"/>
+  
+  <ellipse cx="250" cy="325" rx="15" ry="10" fill="#D25C75" class="outline"/>
+  <ellipse cx="245" cy="322" rx="4" ry="2" fill="#FFFFFF"/>
+
+  <path d="M 230 340 Q 250 360 270 340" fill="none" class="outline" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 235 345 C 235 380, 265 380, 265 345 Z" fill="#F495A5" class="outline" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,383 @@
+{
+    "representative": {
+        "id": "representative",
+        "name": "山下大貴",
+        "nameEn": "Daiki Yamashita",
+        "role": "代表取締役",
+        "roleEn": "Representative / Founder",
+        "avatar": "/images/town/representative.jpg",
+        "bio": "長崎を拠点に、生成AI×教育×メディアを軸とした事業を展開する株式会社Garoopの代表。「子どもがAIと共に成長する社会をつくる」をミッションに、AI教育コンテンツ、動画メディア、キャラクターIP、地域連携プロジェクトを横断的に企画・推進している。生成AIを大人の生産性向上ツールに留めず、子ども・家族・地域に開放するという独自の思想を持ち、GaroopTV、AI Kids School、キャラクターIP「ガルちゃん」などを通じて、学び・遊び・経済活動をつなぐ新しいエコシステムの構築を目指す。",
+        "skills": [
+            "経営戦略",
+            "事業開発",
+            "AI×教育",
+            "地方創生",
+            "メディア企画"
+        ],
+        "experience": [
+            {
+                "period": "2020 - 現在",
+                "title": "株式会社Garoop 代表取締役",
+                "description": "生成AI×教育×メディアを軸とした事業を展開。地方発スタートアップとして、地方創生×AI×エンタメ×教育を同時に成立させる実験を続けている。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    },
+    "tax_accountant": {
+        "id": "tax_accountant",
+        "name": "清水小綾",
+        "nameEn": "Saaya Shimizu",
+        "role": "顧問税理士",
+        "roleEn": "Tax Advisor",
+        "avatar": "/images/town/tax_accountant.webp",
+        "bio": "神奈川県を拠点とする税理士。スタートアップや個人事業主を中心に、会計・税務・資金計画の支援を行う。Garoopでは顧問税理士として、成長フェーズに合わせた会計設計・税務戦略・資金管理を担当。スピード感のある事業展開においても、事業者が安心して挑戦できる基盤づくりを支えている。「数字を縛りにするのではなく、挑戦を後押しするためのツールに」というスタンスで、クリエイティブ領域・IT領域の事業を多くサポートしている。",
+        "skills": [
+            "会計設計",
+            "税務戦略",
+            "資金管理",
+            "スタートアップ支援"
+        ],
+        "experience": [
+            {
+                "period": "現在",
+                "title": "Garoop 顧問税理士",
+                "description": "成長フェーズに合わせた会計設計・税務戦略・資金管理を担当。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": "",
+            "website": "https://kamacloud.jp/"
+        }
+    },
+    "labor_consultant": {
+        "id": "labor_consultant",
+        "name": "須田 朋美",
+        "nameEn": "Tomomi Suda",
+        "role": "顧問社労士",
+        "roleEn": "Labor & Social Security Advisor",
+        "avatar": "/images/town/labor_consultant.webp",
+        "bio": "東京・長崎を拠点に活動する社会保険労務士。労務管理、就業規則設計、組織づくりを専門とする。Garoopでは顧問社労士として、スタートアップ特有の柔軟な働き方と、法令遵守の両立を支援。多様なメンバー・業務委託・AIキャラクターが共存する組織設計をサポートしている。「人が最大限に力を発揮できる環境づくり」を重視し、形式的な管理に留まらない、実態に即した労務支援を行う。",
+        "skills": [
+            "労務管理",
+            "就業規則設計",
+            "組織づくり",
+            "法令遵守"
+        ],
+        "experience": [
+            {
+                "period": "現在",
+                "title": "Garoop 顧問社労士",
+                "description": "スタートアップ特有の柔軟な働き方と法令遵守の両立を支援。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": "",
+            "website": "https://oar-sr.com/"
+        }
+    },
+    "partner_himanshu": {
+        "id": "partner_himanshu",
+        "name": "Himanshu Godara",
+        "nameEn": "Himanshu Godara",
+        "role": "パートナー",
+        "roleEn": "Partner / Global Business",
+        "avatar": "/images/town/himanshu.webp",
+        "bio": "インド工科大学（IIT）出身のスタートアップ経営者。グローバル視点での事業立ち上げ・海外展開・プロダクト戦略を得意とする。Garoopでは海外パートナーとして、国境を越えた事業連携・技術トレンド・スタートアップ視点のアドバイスを提供。日本発のAI・教育・キャラクターコンテンツが世界へ広がるための橋渡し役を担う。",
+        "skills": [
+            "グローバル事業",
+            "海外展開",
+            "プロダクト戦略",
+            "スタートアップ経営"
+        ],
+        "experience": [
+            {
+                "period": "現在",
+                "title": "Garoop 海外パートナー",
+                "description": "国境を越えた事業連携・技術トレンド・スタートアップ視点のアドバイスを提供。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "https://www.linkedin.com/in/himanshu-godara-87b2907/",
+            "github": ""
+        }
+    },
+    "ambassador_yui": {
+        "id": "ambassador_yui",
+        "name": "松下由依",
+        "nameEn": "Yui Matsushita",
+        "role": "アンバサダー",
+        "roleEn": "Ambassador",
+        "avatar": "/images/town/yui.webp",
+        "bio": "フリーアナウンサー・イラストレーターとして活動。福岡拠点。「伝える」「描く」両面の表現力を活かし、AIをやさしく・わかりやすく伝える存在。GaroopではAIアンバサダーとしてプロジェクトに関わり、生成AIやテクノロジーを人の言葉と感情に翻訳する役割を担う。子ども・保護者・一般層にも届く表現力が強み。",
+        "skills": [
+            "アナウンス",
+            "イラストレーション",
+            "AI解説",
+            "コミュニケーション"
+        ],
+        "experience": [
+            {
+                "period": "現在",
+                "title": "Garoop AIアンバサダー",
+                "description": "生成AIやテクノロジーを人の言葉と感情に翻訳する役割を担当。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    },
+    "talent_uka": {
+        "id": "talent_uka",
+        "name": "uka",
+        "nameEn": "uka",
+        "role": "タレント・モデル",
+        "roleEn": "Talent / Model",
+        "avatar": "/images/town/uka.webp",
+        "bio": "長崎を拠点に活動するタレント・モデル。Garoopの世界観を体現する存在として、ビジュアル・表現面でプロジェクトに参加。リアルとデジタル、ヒトとAIの境界を越える試みの中で、「人がいるからこそ生まれる感性」を担うポジション。",
+        "skills": [
+            "モデリング",
+            "表現力",
+            "ビジュアル表現",
+            "ブランド体現"
+        ],
+        "experience": [
+            {
+                "period": "現在",
+                "title": "Garoop タレント・モデル",
+                "description": "Garoopの世界観を体現する存在として、ビジュアル・表現面でプロジェクトに参加。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    },
+    "designer": {
+        "id": "designer",
+        "name": "GaruPalette-00",
+        "nameEn": "GaruPalette-00",
+        "role": "デザイナー",
+        "roleEn": "Designer",
+        "avatar": "/images/town/designer.webp",
+        "bio": "Garuchan AIから派生した子どもLLM部隊のデザイン担当。世界観設計、ビジュアル制作、ブランド表現を担い、運用を通じて学習・成長していく。",
+        "skills": [
+            "グラフィックデザイン",
+            "ビジュアルデザイン",
+            "世界観設計",
+            "ブランディング"
+        ],
+        "experience": [
+            {
+                "period": "現在",
+                "title": "Garoop デザイナー",
+                "description": "キャラクターやブランドに関わるデザインを中心に、世界観を視覚で伝える役割を担当。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    },
+    "ai_garuchan": {
+        "id": "ai_garuchan",
+        "name": "Garuchan AI",
+        "nameEn": "Garuchan AI",
+        "role": "AIメンバー",
+        "roleEn": "Motivator AI",
+        "avatar": "/images/town/garoo_kawaii.webp",
+        "bio": "Garoopの象徴的キャラクター「ガルちゃん」をAI化した存在。モチベーション支援・ナビゲーターとして、コンテンツ内外でユーザーに寄り添う役割を担う。「AIは冷たいものではなく、伴走者になれる」という思想を体現するキャラクター。",
+        "skills": [
+            "モチベーション支援",
+            "ナビゲーション",
+            "ユーザー伴走",
+            "AI対話"
+        ],
+        "experience": [
+            {
+                "period": "現在",
+                "title": "Garoop AIキャラクター",
+                "description": "モチベーション支援・ナビゲーターとして、コンテンツ内外でユーザーに寄り添う。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    },
+    "ai_uka": {
+        "id": "ai_uka",
+        "name": "uka AI",
+        "nameEn": "uka AI",
+        "role": "AIメンバー",
+        "roleEn": "Talent AI",
+        "avatar": "",
+        "bio": "ukaをベースにしたAIキャラクター。リアルの表現とAIの拡張性を融合し、次世代のタレント像を探る実験的存在。",
+        "skills": [
+            "AI表現",
+            "デジタル拡張",
+            "次世代タレント",
+            "実験的表現"
+        ],
+        "experience": [
+            {
+                "period": "現在",
+                "title": "Garoop AIタレント",
+                "description": "リアルの表現とAIの拡張性を融合し、次世代のタレント像を探る。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    },
+    "engineer": {
+        "id": "engineer",
+        "name": "GaruCode-01",
+        "nameEn": "GaruCode-01",
+        "role": "エンジニア",
+        "roleEn": "Engineer",
+        "avatar": "/images/town/engineer.webp",
+        "bio": "Garuchan AIが育成する子どもLLM部隊の開発担当。アプリ実装、インフラ設計、運用改善を通じて継続学習し、実務精度を高める。",
+        "skills": [
+            "Next.js",
+            "React",
+            "AI/ML",
+            "クラウドアーキテクチャ"
+        ],
+        "experience": [
+            {
+                "period": "2021 - 現在",
+                "title": "Garoop テクニカルリード",
+                "description": "AIプラットフォームの技術基盤を構築。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    },
+    "marketing": {
+        "id": "marketing",
+        "name": "GaruBuzz-02",
+        "nameEn": "GaruBuzz-02",
+        "role": "マーケティング",
+        "roleEn": "Marketing",
+        "avatar": "/images/town/marketing.webp",
+        "bio": "Garuchan AI由来の子どもLLM部隊で、情報発信とグロースを担う。データ分析とコンテンツ運用を反復し、顧客理解と訴求力を強化する。",
+        "skills": [
+            "デジタルマーケティング",
+            "グロースハック",
+            "コンテンツ戦略",
+            "データ分析"
+        ],
+        "experience": [
+            {
+                "period": "2022 - 現在",
+                "title": "Garoop グロースマネージャー",
+                "description": "マーケティング戦略の立案と実行を担当。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    },
+    "investigator": {
+        "id": "investigator",
+        "name": "GaruScope-03",
+        "nameEn": "GaruScope-03",
+        "role": "調査員",
+        "roleEn": "Investigator",
+        "avatar": "/images/town/investigator.webp",
+        "bio": "Garuchan AIの子どもLLM部隊における調査担当。公開情報の収集、検証、整理を高速で行い、意思決定に必要な一次情報を提供する。",
+        "skills": [
+            "OSINT",
+            "浸透調査",
+            "高度暗号解析",
+            "脅威インテリジェンス"
+        ],
+        "experience": [
+            {
+                "period": "秘密",
+                "title": "Garoop インテリジェンス部門長",
+                "description": "非公開プロジェクトにおける情報収集および解析の指揮。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    },
+    "coordinator": {
+        "id": "coordinator",
+        "name": "GaruOps-04",
+        "nameEn": "GaruOps-04",
+        "role": "潜行調整官",
+        "roleEn": "Infiltration Coordinator",
+        "avatar": "/images/town/coordinator.webp",
+        "bio": "Garuchan AIが育てる子どもLLM部隊の運用調整担当。進行管理、リスク検知、緊急時の切り替えを行い、全体の実行効率を維持する。",
+        "skills": [
+            "作戦調整",
+            "脆弱性ハンドリング",
+            "緊急対応プロトコル",
+            "バックドア監視"
+        ],
+        "experience": [
+            {
+                "period": "秘密",
+                "title": "Garoop オペレーション・コントロール",
+                "description": "グローバル規模の潜行任務における後方支援および戦術調整。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    },
+    "negotiator": {
+        "id": "negotiator",
+        "name": "GaruDeal-05",
+        "nameEn": "GaruDeal-05",
+        "role": "ステルス・ネゴシエーター",
+        "roleEn": "Stealth Negotiator",
+        "avatar": "/images/town/negotiator.webp",
+        "bio": "Garuchan AIの子どもLLM部隊で交渉を担うユニット。条件整理と合意形成を最適化し、関係者の利害を調整して実行可能な着地を作る。",
+        "skills": [
+            "高度心理交渉",
+            "戦略的誘導",
+            "利害関係調整",
+            "非公開外交"
+        ],
+        "experience": [
+            {
+                "period": "秘密",
+                "title": "Garoop 戦略交渉室",
+                "description": "企業の最重要事項に関わる非公開交渉および戦略策定。"
+            }
+        ],
+        "social": {
+            "twitter": "",
+            "linkedin": "",
+            "github": ""
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "tasks": [
+        {
+            "id": "morning_sync",
+            "name": "朝会",
+            "category": "MEETING",
+            "default_duration": 30,
+            "tags": [
+                "Sync",
+                "Communication"
+            ]
+        },
+        {
+            "id": "product_dev",
+            "name": "プロダクト開発",
+            "category": "DEVELOPMENT",
+            "default_duration": 120,
+            "tags": [
+                "Coding",
+                "Sprint"
+            ]
+        },
+        {
+            "id": "sns_op",
+            "name": "SNS運用",
+            "category": "MARKETING",
+            "default_duration": 60,
+            "tags": [
+                "X",
+                "Insta",
+                "Communication"
+            ]
+        },
+        {
+            "id": "design_review",
+            "name": "デザインレビュー",
+            "category": "DESIGN",
+            "default_duration": 60,
+            "tags": [
+                "Review",
+                "UI/UX"
+            ]
+        },
+        {
+            "id": "release",
+            "name": "リリース作業",
+            "category": "DEVELOPMENT",
+            "default_duration": 60,
+            "tags": [
+                "Deploy",
+                "CI/CD"
+            ]
+        },
+        {
+            "id": "break",
+            "name": "休憩",
+            "category": "OFF",
+            "default_duration": 60,
+            "tags": [
+                "Rest"
+            ]
+        },
+        {
+            "id": "strategy",
+            "name": "意思決定/戦略",
+            "category": "MANAGEMENT",
+            "default_duration": 90,
+            "tags": [
+                "Focus",
+                "Strategy"
+            ]
+        },
+        {
+            "id": "ai_research",
+            "name": "AIリサーチ",
+            "category": "RESEARCH",
+            "default_duration": 60,
+            "tags": [
+                "AI",
+                "Tech"
+            ]
+        },
+        {
+            "id": "video_production",
+            "name": "動画制作",
+            "category": "CREATIVE",
+            "default_duration": 120,
+            "tags": [
+                "Video",
+                "Creative"
+            ]
+        },
+        {
+            "id": "voice_recording",
+            "name": "ナレーション収録",
+            "category": "MEDIA",
+            "default_duration": 60,
+            "tags": [
+                "Voice",
+                "Media"
+            ]
+        },
+        {
+            "id": "photoshoot",
+            "name": "撮影",
+            "category": "CREATIVE",
+            "default_duration": 90,
+            "tags": [
+                "Photo",
+                "Brand"
+            ]
+        },
+        {
+            "id": "accounting",
+            "name": "会計処理",
+            "category": "FINANCE",
+            "default_duration": 60,
+            "tags": [
+                "Accounting",
+                "Finance"
+            ]
+        },
+        {
+            "id": "labor_compliance",
+            "name": "労務対応",
+            "category": "HR",
+            "default_duration": 60,
+            "tags": [
+                "Labor",
+                "Compliance"
+            ]
+        },
+        {
+            "id": "market_research",
+            "name": "市場調査",
+            "category": "RESEARCH",
+            "default_duration": 60,
+            "tags": [
+                "Research",
+                "Market"
+            ]
+        }
+    ]
+}

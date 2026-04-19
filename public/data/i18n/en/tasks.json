@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    { "id": "morning_sync", "name": "Morning Sync", "category": "MEETING", "default_duration": 30, "tags": ["Sync", "Communication"] },
+    { "id": "product_dev", "name": "Product Development", "category": "DEVELOPMENT", "default_duration": 120, "tags": ["Coding", "Sprint"] },
+    { "id": "sns_op", "name": "Social Media Ops", "category": "MARKETING", "default_duration": 60, "tags": ["X", "Insta", "Communication"] },
+    { "id": "design_review", "name": "Design Review", "category": "DESIGN", "default_duration": 60, "tags": ["Review", "UI/UX"] },
+    { "id": "release", "name": "Release", "category": "DEVELOPMENT", "default_duration": 60, "tags": ["Deploy", "CI/CD"] },
+    { "id": "break", "name": "Break", "category": "OFF", "default_duration": 60, "tags": ["Rest"] },
+    { "id": "strategy", "name": "Decision / Strategy", "category": "MANAGEMENT", "default_duration": 90, "tags": ["Focus", "Strategy"] },
+    { "id": "ai_research", "name": "AI Research", "category": "RESEARCH", "default_duration": 60, "tags": ["AI", "Tech"] },
+    { "id": "video_production", "name": "Video Production", "category": "CREATIVE", "default_duration": 120, "tags": ["Video", "Creative"] },
+    { "id": "voice_recording", "name": "Narration Recording", "category": "MEDIA", "default_duration": 60, "tags": ["Voice", "Media"] },
+    { "id": "photoshoot", "name": "Photo Shoot", "category": "CREATIVE", "default_duration": 90, "tags": ["Photo", "Brand"] },
+    { "id": "accounting", "name": "Accounting", "category": "FINANCE", "default_duration": 60, "tags": ["Accounting", "Finance"] },
+    { "id": "labor_compliance", "name": "Labor Compliance", "category": "HR", "default_duration": 60, "tags": ["Labor", "Compliance"] },
+    { "id": "market_research", "name": "Market Research", "category": "RESEARCH", "default_duration": 60, "tags": ["Research", "Market"] }
+  ]
+}

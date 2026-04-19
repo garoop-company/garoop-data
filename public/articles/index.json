@@ -1,0 +1,334 @@
+{
+  "sourceTopUrl": "https://note.com/garoop_company",
+  "generatedAt": "2026-03-10T18:32:35.720Z",
+  "feedHash": "eab98f84964b7cd6a9b2dd5111843553ca792c8969c108bf7663c2977f8a8095",
+  "model": "llama-3.1-8b-instant",
+  "modelCandidates": [
+    "llama-3.1-8b-instant",
+    "llama-3.3-70b-versatile",
+    "gemma2-9b-it"
+  ],
+  "items": [
+    {
+      "slug": "n8c9c99ae64b4",
+      "title": "「論理」は、心が折れないための防衛本能である。｜AIとうつ病、そして事業の伸ばし方",
+      "sourceUrl": "https://note.com/garoop_company/n/n8c9c99ae64b4",
+      "publishedAt": "2026-03-06T15:55:52.000Z",
+      "description": "株式会社Garoop代表の山下大貴氏がAIとうつ病と論理的思考について語ります。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/257089537/rectangle_large_type_2_4880a1fecd8a1f11932bbbddd6054445.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "AIとうつ病",
+        "論理的思考",
+        "人間の精神",
+        "病気",
+        "AI",
+        "思考"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n4311ebdcbeca",
+      "title": "Garoopでたくさん使ってる生成AI",
+      "sourceUrl": "https://note.com/garoop_company/n/n4311ebdcbeca",
+      "publishedAt": "2026-03-04T15:11:23.000Z",
+      "description": "Garoopで使ってる生成AIを紹介します。代表の山下大貴が、ピンクのカンガルー「ガルちゃん」と一緒にAIを使ったコンテンツやサービスを作っています。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/256538311/rectangle_large_type_2_801be6f8daead45c2bd7a22702cc7086.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Garoop",
+        "生成AI",
+        "ChatGPT",
+        "LLaMA",
+        "AI",
+        "コンテンツ",
+        "サービス"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n21825700369a",
+      "title": "🦘AIとワクワク！カンガルーの会社「Garoop（ガループ）」のひみつ✨",
+      "sourceUrl": "https://note.com/garoop_company/n/n21825700369a",
+      "publishedAt": "2026-02-25T00:45:05.000Z",
+      "description": "長崎県からやってきた、とってもおもしろい会社「株式会社Garoop（ガループ）」を紹介する。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/254449124/rectangle_large_type_2_603ccbbe464d71399b81e87f01ae7d5c.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "カンガルー",
+        "Garoop",
+        "生成AI",
+        "スタートアップ",
+        "子供投資",
+        "ファンド"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n2eefb68d4c0a",
+      "title": "Garoopの技術スタック バックエンド＆インフラ",
+      "sourceUrl": "https://note.com/garoop_company/n/n2eefb68d4c0a",
+      "publishedAt": "2026-02-14T09:24:45.000Z",
+      "description": "Garoopは、10歳からスタートアップできる力を育てる支援サービスを目指しています。kids apiは、子ども向けプラットフォームのバックエンドAPIです。Go + GraphQL（gqlgen）を中心に、認証・案件管理・学習コンテンツ・ポイント・AI連携ま...",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/251692190/rectangle_large_type_2_096b80ca8b8d36dda95be5788944938a.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Garoop",
+        "kids api",
+        "バックエンドAPI",
+        "GraphQL",
+        "Go"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "nb7f317930dff",
+      "title": "AI時代は俺がわからないくらいがちょうどいい",
+      "sourceUrl": "https://note.com/garoop_company/n/nb7f317930dff",
+      "publishedAt": "2026-02-05T14:47:14.000Z",
+      "description": "カンガルーのガルちゃんです。株式会社Garoop 代表の山下大貴がAI時代について語ります。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/249452738/rectangle_large_type_2_022fd9cb9843865f2d7332e73eee4635.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "AI",
+        "Garoop",
+        "山下大貴",
+        "カンガルー",
+        "ガルちゃん"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n9bd1dd74b7ac",
+      "title": "今日のワーゲンニュース(PR)",
+      "sourceUrl": "https://note.com/garoop_company/n/n9bd1dd74b7ac",
+      "publishedAt": "2026-01-28T15:25:42.000Z",
+      "description": "フォルクスワーゲン専門店54baseのニュースを紹介します。35年以上の整備実績と専用診断機で、VW整備・修理・車検・中古車販売を提供しています。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/247387080/rectangle_large_type_2_a62f8b77e668062c6b569eb039f08de2.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "フォルクスワーゲン",
+        "54base",
+        "VW",
+        "整備",
+        "修理",
+        "車検",
+        "中古車販売"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n1ed280c17445",
+      "title": "1/23 今日のワーゲンニュース（PR）",
+      "sourceUrl": "https://note.com/garoop_company/n/n1ed280c17445",
+      "publishedAt": "2026-01-23T13:28:33.000Z",
+      "description": "福岡市西区のフォルクスワーゲン専門店54base。35年以上の整備実績と専用診断機で、VW整備・修理・車検・中古車販売",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/246097181/rectangle_large_type_2_e2b985da640473e228e89ac296e42363.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "VW",
+        "フォルクスワーゲン",
+        "中古車",
+        "車検",
+        "整備"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "n9f927c63c179",
+      "title": "国に税金を大量に納めるために、会社をでかくする。そして気持ちよくなる。",
+      "sourceUrl": "https://note.com/garoop_company/n/n9f927c63c179",
+      "publishedAt": "2026-01-21T12:56:09.000Z",
+      "description": "株式会社Garoopは、10歳から生成AIスタートアップ企業を立ち上げ事業を伸ばすことを支援します。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/245601884/rectangle_large_type_2_70ff705f31abb8599b5155b07298a0be.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Garoop",
+        "起業",
+        "税金",
+        "地方創生"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "nc52b31e30ac9",
+      "title": "トープ 起動への必要なヘランド",
+      "sourceUrl": "https://note.com/garoop_company/n/nc52b31e30ac9",
+      "publishedAt": "2026-01-18T14:04:37.000Z",
+      "description": "起動を定習するたるの必要なヘランドを読んだ",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/244884579/rectangle_large_type_2_0fecc783083381d9a596e68081968769.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Startup",
+        "Entrepreneur",
+        "Business",
+        "Success"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "nfe460f0ddd2d",
+      "title": "フォルクスワーゲンは「次の時代」を淡々と進めている",
+      "sourceUrl": "https://note.com/garoop_company/n/nfe460f0ddd2d",
+      "publishedAt": "2026-01-18T13:55:40.000Z",
+      "description": "フォルクスワーゲンは昔から、流行を煽らず、声高に未来を語らず、でも一番長く生き残る選び方をしている",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/244882031/rectangle_large_type_2_382b619da3b5977190d6e7d214e675db.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "フォルクスワーゲン",
+        "未来",
+        "長く生き残る",
+        "選び方"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n3d77ca6a2730",
+      "title": "1/16 今日のワーゲンニュース（PR）",
+      "sourceUrl": "https://note.com/garoop_company/n/n3d77ca6a2730",
+      "publishedAt": "2026-01-15T13:57:43.000Z",
+      "description": "フォルクスワーゲン専門店54baseのご紹介。35年以上の整備実績と専用診断機でVW整備・修理・車検・中古車販売",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/244120401/rectangle_large_type_2_2a7d2a91665b479229324dc085e122db.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "VW",
+        "フォルクスワーゲン",
+        "自動車",
+        "整備",
+        "中古車"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "n2d129144ac64",
+      "title": "エピソード3：疑いと選択 ― ガルちゃん、信じる力を試される",
+      "sourceUrl": "https://note.com/garoop_company/n/n2d129144ac64",
+      "publishedAt": "2026-01-14T16:08:06.000Z",
+      "description": "ガルちゃんは初めてのお金を稼ぎ、生活が変わり始める。仕事は増えていくが、同時に過去の記憶がよぎる",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/243909162/rectangle_large_type_2_dc3f9d79d88dc7a3a07c6ffdb71a78a3.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Garoop",
+        "AI",
+        "仕事",
+        "信頼"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "ne7305ea9a0f5",
+      "title": "メンタリティとは。 やる気が出たから動くのではない。動いたから、やる気が生まれる。",
+      "sourceUrl": "https://note.com/garoop_company/n/ne7305ea9a0f5",
+      "publishedAt": "2026-01-13T10:33:25.000Z",
+      "description": "行動がすべてを決める。やる気が出たら動こうと考える人が多いが、実際は順番が逆だ。行動→感情→思考の順番でしか人は本気になれない。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/243591626/rectangle_large_type_2_872ba9534aaa9fede124c029ddb539ea.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "メンタリティ",
+        "行動",
+        "感情",
+        "思考",
+        "継続"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "nc4c024163786",
+      "title": "xも大喜び！！ 長崎を子作り特区に（国の重点地域に）",
+      "sourceUrl": "https://note.com/garoop_company/n/nc4c024163786",
+      "publishedAt": "2026-01-11T13:43:55.000Z",
+      "description": "長崎市を子作り特区にするというアイデアは、地方創生の重要な政策である。子どもを産み育てる経済合理を提供することで、地域の発展に貢献することができる。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/243120082/rectangle_large_type_2_fcf12903b21bd7cd7f4a4e239e57c001.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "地方創生",
+        "子作り特区",
+        "経済合理",
+        "地域発展",
+        "子育て支援"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "nbea6509ef2c2",
+      "title": "エピソード2：ガルちゃん、AIと仕事を始める",
+      "sourceUrl": "https://note.com/garoop_company/n/nbea6509ef2c2",
+      "publishedAt": "2026-01-11T05:21:04.000Z",
+      "description": "ガルちゃんがAIと出会い、仕事を始めるエピソードの続きです。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/242989978/rectangle_large_type_2_4d6d1c57a2f755bd5172148e73a5b694.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "AI",
+        "仕事",
+        "協力",
+        "効率",
+        "効果"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "na98dc45aa65c",
+      "title": "エピソード1: シングルマザーになった「カンガルーガルちゃん」",
+      "sourceUrl": "https://note.com/garoop_company/n/na98dc45aa65c",
+      "publishedAt": "2026-01-10T15:40:24.000Z",
+      "description": "ガルちゃんは、カンガルーの町に住む、まじめで優しいお母さん。浮気によりパートナーと別れ、シングルマザーになる",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/242883292/rectangle_large_type_2_24bb334955af46c9decee035e68fa91c.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "シングルマザー",
+        "カンガルー",
+        "ガルちゃん",
+        "コタロウ",
+        "家族",
+        "浮気"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "nfd05c68fc570",
+      "title": "カンガルーの遊園地",
+      "sourceUrl": "https://note.com/garoop_company/n/nfd05c68fc570",
+      "publishedAt": "2026-01-10T14:51:45.000Z",
+      "description": "夢の遊園地で様々なゲームを楽しもう",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/242875007/rectangle_large_type_2_c93ea6d5c9b3e085e2d671ceb3c407ba.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "ゲーム",
+        "遊園地",
+        "AI",
+        "夢",
+        "カンガルー"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "ne71ef0c7a053",
+      "title": "ワーゲン・ゴーゲン・超ご機嫌 🚗✨",
+      "sourceUrl": "https://note.com/garoop_company/n/ne71ef0c7a053",
+      "publishedAt": "2026-01-09T13:26:14.000Z",
+      "description": "福岡のワーゲン専門店「54base」を紹介します。フォルクスワーゲンが好きな人たちの場所です。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/242616468/rectangle_large_type_2_84888de829914996b4647597d8e1d32b.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "ワーゲン",
+        "フォルクスワーゲン",
+        "54base",
+        "福岡"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "nf68d1df996bb",
+      "title": "SEOからAIOへ",
+      "sourceUrl": "https://note.com/garoop_company/n/nf68d1df996bb",
+      "publishedAt": "2026-01-09T10:44:45.000Z",
+      "description": "検索エンジンの進化に合わせた、新しい時代の最適化戦略。SEOの限界を超え、AIによる回答エンジン(AIO)への対策を。",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/242577974/rectangle_large_type_2_8456c9a3a371a280ebf9448d4ee2b912.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "SEO",
+        "AIO",
+        "AI",
+        "Optimization"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "n4ea348ac60ee",
+      "title": "生成AIは、なぜ「子供」に最適なのか",
+      "sourceUrl": "https://note.com/garoop_company/n/n4ea348ac60ee",
+      "publishedAt": "2026-01-08T02:39:01.000Z",
+      "description": "──脳の構造から考える未来の競争優位 こんにちわー株式会社Garoopです！ https://www.garoop.jp/",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/242240547/rectangle_large_type_2_39fe9082e37cd7dabac6da6c93b78d1e.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "生成AI",
+        "子供",
+        "教育",
+        "創造性",
+        "将来"
+      ],
+      "model": "llama-3.1-8b-instant"
+    }
+  ]
+}

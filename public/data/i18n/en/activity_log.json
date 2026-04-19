@@ -1,0 +1,33 @@
+[
+    {
+        "timestamp": "2026-01-23T09:05:00Z",
+        "member_id": "representative",
+        "action": "Started the morning sync.",
+        "status": "COMPLETED"
+    },
+    {
+        "timestamp": "2026-01-23T10:15:00Z",
+        "member_id": "ai_garuchan",
+        "action": "Started generating a Note draft.",
+        "status": "IN_PROGRESS"
+    },
+    {
+        "timestamp": "2026-01-23T10:30:00Z",
+        "member_id": "ai_garuchan",
+        "action": "Completed Note draft generation and proposed it to the representative.",
+        "status": "COMPLETED",
+        "artifact_url": "https://note.com/garoop/n/draft123"
+    },
+    {
+        "timestamp": "2026-01-23T20:45:00Z",
+        "member_id": "engineer",
+        "action": "Optimizing API endpoints.",
+        "status": "IN_PROGRESS"
+    },
+    {
+        "timestamp": "2026-01-23T21:00:00Z",
+        "member_id": "designer",
+        "action": "Exported a new banner proposal.",
+        "status": "COMPLETED"
+    }
+]
