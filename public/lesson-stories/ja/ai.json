@@ -1,0 +1,65 @@
+{
+  "title": "AIって何？",
+  "description": "コンピューターが賢くなる仕組みを探ろう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "AIってすごいよね！一緒に探検しよう！",
+      "background": "space",
+      "title": "AIの世界へようこそ！",
+      "emoji": "🤖",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIはたくさんのデータから自分でルールを学ぶんだよ！",
+      "background": "space",
+      "title": "AIは学習する！",
+      "content": "人が例を見て覚えるように、AIも大量のデータから学ぶよ。",
+      "emoji": "🧠",
+      "highlight": "データ -> 学習 -> 賢いAI"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ChatGPTやClaudeも、たくさんの文章を読んで賢くなったんだよ！",
+      "background": "city",
+      "title": "AIチャットを知ってる？",
+      "content": "大規模言語モデルという技術で、自然な文章が生成できるんだ！",
+      "emoji": "💬",
+      "highlight": "📚 大量のテキスト -> LLM -> 会話できるAI"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIを使ってプログラムを作ったり、絵を描いたりもできるよ！",
+      "background": "candy",
+      "title": "AIでできること",
+      "content": "文章生成、画像生成、音楽生成など、AIはいろいろなお手伝いができるよ！",
+      "emoji": "🎨",
+      "highlight": "文章 / 画像 / 音楽 / コード生成"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "AIのことが少しわかったかな？ぜひ使ってみてね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "⭐",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

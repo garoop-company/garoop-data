@@ -1,0 +1,53 @@
+{
+  "title": "Let's Make a Game!",
+  "description": "The first step toward creating your own game!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "bounce",
+      "speech": "Wouldn't it be cool to build your own game? Let's try it together!",
+      "background": "candy",
+      "title": "Welcome to Game Development!",
+      "emoji": "🎮",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Games run in a loop. They keep checking, updating, and drawing the screen!",
+      "background": "city",
+      "title": "What Is a Game Loop?",
+      "content": "A game keeps repeating input, update, and draw. That loop keeps everything alive.",
+      "emoji": "🔄",
+      "highlight": "Input -> Update -> Draw -> Repeat"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Unity is a great tool for starting game development!",
+      "background": "forest",
+      "title": "Build Games with Unity",
+      "content": "You can place objects visually and also learn programming while making games.",
+      "emoji": "🛠️",
+      "highlight": "Unity = A popular game engine"
+    },
+    {
+      "id": 4,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Game development is exciting. Keep building!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

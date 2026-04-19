@@ -1,0 +1,41 @@
+{
+  "title": "Lesson Start!",
+  "description": "Let's have fun learning together with Garuchan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Welcome! Let's have fun learning together with Garuchan!",
+      "background": "space",
+      "title": "Lesson Start!",
+      "emoji": "🌟",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Try to remember today's lesson well. You can watch it again anytime!",
+      "background": "city",
+      "title": "Let's Learn Together",
+      "content": "Learning something new matters a lot. Let's move forward one step at a time!",
+      "emoji": "📚",
+      "highlight": "Knowledge = Power for the future!"
+    },
+    {
+      "id": 3,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Great job! Keep going with the next lesson too!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

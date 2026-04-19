@@ -1,0 +1,41 @@
+{
+  "title": "算数を楽しもう！",
+  "description": "数字の魔法を一緒に体験しよう！",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "算数って難しそう？実は楽しいんだよ！一緒にやってみよう！",
+      "background": "classroom",
+      "title": "算数の魔法！",
+      "emoji": "🔢",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "足し算はまとめること！3つのリンゴと2つのリンゴを合わせると？",
+      "background": "forest",
+      "title": "足し算 = まとめる",
+      "content": "3 + 2 = 5。3つと2つを合わせると5つになるよ！",
+      "emoji": "🍎",
+      "highlight": "🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎"
+    },
+    {
+      "id": 3,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "算数の基本がわかったね！練習すればどんどん得意になるよ！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "⭐",
+      "effects": ["confetti"]
+    }
+  ]
+}

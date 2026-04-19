@@ -1,0 +1,41 @@
+{
+  "title": "Let's Enjoy Math!",
+  "description": "Let's experience the magic of numbers together!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Does math look hard? It can actually be fun!",
+      "background": "classroom",
+      "title": "The Magic of Math!",
+      "emoji": "🔢",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Addition means putting things together. What happens with 3 apples and 2 apples?",
+      "background": "forest",
+      "title": "Addition = Put Together",
+      "content": "3 + 2 = 5. When you combine 3 and 2, you get 5!",
+      "emoji": "🍎",
+      "highlight": "🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎"
+    },
+    {
+      "id": 3,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You learned the basics of math. Practice will make you even better!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "⭐",
+      "effects": ["confetti"]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "What Is AI?",
+  "description": "Let's explore how computers can become smart!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "AI is amazing, right? Let's explore it together!",
+      "background": "space",
+      "title": "Welcome to the World of AI!",
+      "emoji": "🤖",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI learns patterns by looking at a lot of data!",
+      "background": "space",
+      "title": "AI Learns",
+      "content": "Just like people learn from examples, AI studies many examples and finds useful patterns.",
+      "emoji": "🧠",
+      "highlight": "Data -> Learning -> Smarter AI"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tools like ChatGPT and Claude became smart by learning from huge amounts of text!",
+      "background": "city",
+      "title": "Do You Know AI Chat?",
+      "content": "Large language models can understand and generate natural language conversations.",
+      "emoji": "💬",
+      "highlight": "📚 Lots of text -> LLM -> AI chat"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI can also help make pictures, music, programs, and more!",
+      "background": "candy",
+      "title": "What Can AI Do?",
+      "content": "AI can help create text, images, music, videos, and even code.",
+      "emoji": "🎨",
+      "highlight": "Text / Images / Music / Code"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Now you know a little more about AI. Try using it!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "⭐",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

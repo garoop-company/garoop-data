@@ -1,0 +1,65 @@
+{
+  "title": "Pythonって何？",
+  "description": "プログラミング言語 Python を楽しく学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "やあ！ガルちゃんだよ！今日はPythonについて一緒に学ぼう！",
+      "background": "forest",
+      "title": "Python へようこそ！",
+      "emoji": "🐍",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Pythonはヘビじゃないよ！コンピューターと話すための言葉なんだ！",
+      "background": "forest",
+      "title": "Python = プログラミング言語",
+      "content": "コンピューターに命令を出すための言葉だよ。英語みたいなものだね！",
+      "emoji": "💻",
+      "highlight": "🐍 Python = コンピューターへの命令書"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "printって書くと、コンピューターが文字を表示してくれるよ！",
+      "background": "classroom",
+      "title": "print で文字を出そう！",
+      "content": "print(\"こんにちは\") と書くと画面に「こんにちは」と出るよ！",
+      "emoji": "📺",
+      "highlight": "print(\"こんにちは！\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "変数はものを入れる箱みたいなものだよ！",
+      "background": "city",
+      "title": "変数 = 魔法の箱",
+      "content": "x = 5 と書くと、xという箱に5が入るよ。後で取り出せるんだ！",
+      "emoji": "📦",
+      "highlight": "x = 5\nprint(x)  # -> 5"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "すごい！Pythonの基本がわかったね！次のレッスンも楽しみにしてね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

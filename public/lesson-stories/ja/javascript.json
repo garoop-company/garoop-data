@@ -1,0 +1,65 @@
+{
+  "title": "JavaScriptって何？",
+  "description": "Webページを動かす魔法の言語！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "こんにちは！今日はJavaScriptを一緒に学ぼう！",
+      "background": "city",
+      "title": "JavaScript へようこそ！",
+      "emoji": "🟨",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JavaScriptはWebページをぴょんぴょん動かせる言語だよ！",
+      "background": "city",
+      "title": "Webページを動かす言語",
+      "content": "ボタンを押したらアニメーションが出たり、ゲームが動いたり。全部 JS の力！",
+      "emoji": "⚡",
+      "highlight": "🌐 Web = HTML + CSS + JavaScript"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "console.logで文字を表示できるよ！デバッグにも使うんだ！",
+      "background": "classroom",
+      "title": "console.log を使おう",
+      "content": "ブラウザの開発者ツールを開くと、メッセージが見えるよ！",
+      "emoji": "🖥️",
+      "highlight": "console.log(\"Hello World!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "関数はレシピみたいなもの！何度でも使い回せるよ！",
+      "background": "ocean",
+      "title": "関数 = 魔法のレシピ",
+      "content": "function と書いて、処理をまとめておける。便利だね！",
+      "emoji": "🧑‍🍳",
+      "highlight": "function hello() {\n  alert(\"やあ！\");\n}"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "やったね！JavaScriptの第一歩を踏み出せたよ！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🚀",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

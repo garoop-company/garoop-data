@@ -1,0 +1,65 @@
+{
+  "title": "What Is Python?",
+  "description": "Let's learn the Python programming language in a fun way!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hi! It's Garuchan. Today, let's learn Python together!",
+      "background": "forest",
+      "title": "Welcome to Python!",
+      "emoji": "🐍",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Python is not just a snake. It's a language for talking to computers!",
+      "background": "forest",
+      "title": "Python = A Programming Language",
+      "content": "It is a language used to give instructions to a computer, like writing simple commands.",
+      "emoji": "💻",
+      "highlight": "🐍 Python = Instructions for a computer"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "When you write print, the computer can show words on the screen!",
+      "background": "classroom",
+      "title": "Show Text with print",
+      "content": "If you write print(\"Hello\"), the screen will show Hello!",
+      "emoji": "📺",
+      "highlight": "print(\"Hello!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Variables are like magic boxes that store things for later!",
+      "background": "city",
+      "title": "Variables = Magic Boxes",
+      "content": "If you write x = 5, the box named x stores the number 5.",
+      "emoji": "📦",
+      "highlight": "x = 5\nprint(x)  # -> 5"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Great job! You learned the basics of Python!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

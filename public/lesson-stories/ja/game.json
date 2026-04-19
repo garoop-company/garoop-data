@@ -1,0 +1,53 @@
+{
+  "title": "ゲームを作ろう！",
+  "description": "自分だけのゲームを作る第一歩！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "bounce",
+      "speech": "ゲームを自分で作れたらかっこいいよね！一緒にやってみよう！",
+      "background": "candy",
+      "title": "ゲーム開発の世界へ！",
+      "emoji": "🎮",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ゲームはループで動いているよ！毎秒たくさん画面を描き直してるんだ！",
+      "background": "city",
+      "title": "ゲームループって何？",
+      "content": "入力チェック、状態更新、画面描画。この繰り返しがゲームの心臓部！",
+      "emoji": "🔄",
+      "highlight": "入力 -> 更新 -> 描画 -> くり返し"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Unityを使えばゲーム作りを始めやすいよ！",
+      "background": "forest",
+      "title": "Unity でゲームを作ろう",
+      "content": "ドラッグ＆ドロップでも遊べるし、プログラミングも学べる便利な道具だよ！",
+      "emoji": "🛠️",
+      "highlight": "Unity = 世界中で使われるゲームエンジン"
+    },
+    {
+      "id": 4,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ゲーム開発、楽しそうでしょ？どんどん作っていこう！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

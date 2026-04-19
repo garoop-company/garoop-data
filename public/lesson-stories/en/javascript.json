@@ -1,0 +1,65 @@
+{
+  "title": "What Is JavaScript?",
+  "description": "The magical language that makes web pages move!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hello! Today, let's learn JavaScript together!",
+      "background": "city",
+      "title": "Welcome to JavaScript!",
+      "emoji": "🟨",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JavaScript is the language that makes web pages move and react!",
+      "background": "city",
+      "title": "The Language of Interactive Web Pages",
+      "content": "Buttons, games, animations, and popups on the web often run with JavaScript.",
+      "emoji": "⚡",
+      "highlight": "🌐 Web = HTML + CSS + JavaScript"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "You can use console.log to show messages for testing and debugging!",
+      "background": "classroom",
+      "title": "Try console.log",
+      "content": "Open the browser developer tools and you will see the message there.",
+      "emoji": "🖥️",
+      "highlight": "console.log(\"Hello World!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Functions are like recipes. You can reuse them again and again!",
+      "background": "ocean",
+      "title": "Functions = Magic Recipes",
+      "content": "Write a function once, then call it whenever you need the same action.",
+      "emoji": "🧑‍🍳",
+      "highlight": "function hello() {\n  alert(\"Hi!\");\n}"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Nice work! You took your first step into JavaScript!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🚀",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

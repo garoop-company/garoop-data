@@ -1,0 +1,41 @@
+{
+  "title": "レッスンスタート！",
+  "description": "ガルちゃんと一緒に楽しく学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ようこそ！ガルちゃんと一緒に楽しく学ぼう！",
+      "background": "space",
+      "title": "レッスンスタート！",
+      "emoji": "🌟",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "今日のレッスンをしっかり覚えてね！わからなかったら何度でも見ていいよ！",
+      "background": "city",
+      "title": "いっしょに学ぼう",
+      "content": "新しいことを学ぶのはとても大事なこと。一歩ずつ進んでいこう！",
+      "emoji": "📚",
+      "highlight": "知識 = 未来の力！"
+    },
+    {
+      "id": 3,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "よくできました！次のレッスンも頑張ろう！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}
