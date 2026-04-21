@@ -1,0 +1,44 @@
+name: daily-blog-generation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 15 * * *" # 00:30 JST
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: |
+          npm install groq-sdk
+
+      - name: Generate blog post
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TARGET_LOCALES: ja,zh,ne
+        run: |
+          node scripts/generate-blog.mjs
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/blog
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: generate daily blog [skip ci]"
+          git push
