@@ -1,0 +1,131 @@
+{
+  "title": "関数",
+  "description": "コードを再利用できる仕組みを学ぼう",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "同じコードを何度も書かない！関数の魔法を学ぼう！",
+      "background": "ocean",
+      "title": "関数",
+      "emoji": "📦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "コードをまとめて再利用できる仕組みだよ！",
+      "background": "ocean",
+      "title": "関数の基本",
+      "content": "def greet(name): print('こんにちは、'+name) のように関数を定義。何度でも呼び出せます！",
+      "emoji": "📦",
+      "highlight": "def 関数名(引数): → 処理を定義"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "関数に値を渡して結果を受け取れる！",
+      "background": "forest",
+      "title": "引数と返り値",
+      "content": "def add(a, b): return a + b で result = add(3, 5) → result = 8。引数で入力、return で出力！",
+      "emoji": "↩️",
+      "highlight": "引数 → 入力  return → 出力"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "引数に初期値を設定できるよ！",
+      "background": "classroom",
+      "title": "デフォルト引数",
+      "content": "def greet(name='ゲスト'): で引数なしでも動きます。greet() → 'こんにちは、ゲスト'",
+      "emoji": "⚙️",
+      "highlight": "def greet(name='ゲスト'): → 省略時はゲスト"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "引数を名前で指定できるよ！",
+      "background": "city",
+      "title": "キーワード引数",
+      "content": "greet(name='花子') のように引数名を指定して渡せます。順番を間違えても安全！",
+      "emoji": "🏷️",
+      "highlight": "func(key=value) → 名前付きで安全に"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "引数の数を決めなくてもいいよ！",
+      "background": "candy",
+      "title": "可変長引数(*args)",
+      "content": "def total(*args): return sum(args) で total(1,2,3,4,5)など引数の数が自由です！",
+      "emoji": "🔢",
+      "highlight": "*args → 引数いくつでも受け取れる！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "変数が使える範囲のことだよ！",
+      "background": "ocean",
+      "title": "スコープ",
+      "content": "関数の中で作った変数は外から使えません（ローカルスコープ）。関数の外の変数はグローバルスコープ！",
+      "emoji": "🔭",
+      "highlight": "関数内 = ローカル  関数外 = グローバル"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "1行で書ける短い関数だよ！",
+      "background": "forest",
+      "title": "ラムダ関数",
+      "content": "add = lambda x, y: x + y でシンプルな関数を1行で書けます。mapやfilterと組み合わせて使うことが多い！",
+      "emoji": "⚡",
+      "highlight": "lambda 引数: 式 → 1行の無名関数"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "良い関数を設計するポイントを学ぼう！",
+      "background": "space",
+      "title": "関数の設計",
+      "content": "1つの関数は1つのことをする、名前は動詞で始める、短く保つ…コードが読みやすく保守しやすくなります！",
+      "emoji": "🎨",
+      "highlight": "1関数1役割 + 分かりやすい名前 = 良いコード"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "関数を使いこなせるようになったね！コードがスッキリした！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

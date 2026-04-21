@@ -1,0 +1,131 @@
+{
+  "title": "Perulangan",
+  "description": "Belajar Python: Perulangan",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ayo belajar Python bersama Garuchan!",
+      "background": "forest",
+      "title": "Perulangan",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Perulangan!",
+      "background": "forest",
+      "title": "Perulangan (1)",
+      "content": "This lesson covers Perulangan — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Perulangan!",
+      "background": "classroom",
+      "title": "Perulangan (2)",
+      "content": "This lesson covers Perulangan — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Perulangan!",
+      "background": "city",
+      "title": "Perulangan (3)",
+      "content": "This lesson covers Perulangan — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Perulangan!",
+      "background": "candy",
+      "title": "Perulangan (4)",
+      "content": "This lesson covers Perulangan — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Perulangan!",
+      "background": "ocean",
+      "title": "Perulangan (5)",
+      "content": "This lesson covers Perulangan — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Perulangan!",
+      "background": "space",
+      "title": "Perulangan (6)",
+      "content": "This lesson covers Perulangan — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Perulangan!",
+      "background": "classroom",
+      "title": "Perulangan (7)",
+      "content": "This lesson covers Perulangan — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Perulangan!",
+      "background": "forest",
+      "title": "Perulangan (8)",
+      "content": "This lesson covers Perulangan — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pelajaran selesai!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

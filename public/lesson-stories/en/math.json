@@ -8,7 +8,7 @@
       "type": "intro",
       "duration": 5000,
       "garuchanAnimation": "wave",
-      "speech": "Does math look hard? It can actually be fun!",
+      "speech": "Does math look hard? It can actually be super fun! Let's dive in!",
       "background": "classroom",
       "title": "The Magic of Math!",
       "emoji": "🔢",
@@ -21,21 +21,105 @@
       "garuchanAnimation": "float",
       "speech": "Addition means putting things together. What happens with 3 apples and 2 apples?",
       "background": "forest",
-      "title": "Addition = Put Together",
-      "content": "3 + 2 = 5. When you combine 3 and 2, you get 5!",
+      "title": "Addition",
+      "content": "3 + 2 = 5. When you combine 3 and 2, you get 5! Addition is all around us every day.",
       "emoji": "🍎",
       "highlight": "🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎"
     },
     {
       "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Subtraction means taking away. You have 8 cakes and eat 3 — how many left?",
+      "background": "candy",
+      "title": "Subtraction",
+      "content": "8 - 3 = 5. When you take some away, you use subtraction! Useful for counting change at a store.",
+      "emoji": "🍰",
+      "highlight": "8 - 3 = 5\n🍰🍰🍰🍰🍰 (5 remain)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Multiplication is the fast way to add the same number many times!",
+      "background": "classroom",
+      "title": "Multiplication",
+      "content": "4 × 3 = 12. That's 4 added three times! Once you learn the times tables, math becomes lightning fast.",
+      "emoji": "⭐",
+      "highlight": "4 × 3 = 12\n(4 + 4 + 4 = 12)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Division is the fair way to share things equally!",
+      "background": "forest",
+      "title": "Division",
+      "content": "12 ÷ 4 = 3. Divide 12 into 4 equal groups and each gets 3! Perfect for sharing pizza.",
+      "emoji": "🍕",
+      "highlight": "12 ÷ 4 = 3\n🍕🍕🍕 for each person"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Fractions show a part of something whole. Like slicing a pizza!",
+      "background": "candy",
+      "title": "Fractions",
+      "content": "1/2 means one out of two equal parts. 3/4 means three out of four. Used in cooking and shopping every day!",
+      "emoji": "🥧",
+      "highlight": "1/2 = half\n3/4 = three-quarters"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Percent means 'out of 100'. A 50% discount means half price!",
+      "background": "city",
+      "title": "Percentages (%)",
+      "content": "100% = everything, 50% = half, 25% = a quarter. Used in test scores, sales, and bank interest!",
+      "emoji": "💯",
+      "highlight": "50% of 100 = 50\n25% of 80 = 20"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Geometry is math about shapes and space!",
+      "background": "classroom",
+      "title": "Geometry: Shapes",
+      "content": "Triangles have 3 sides, squares have 4 equal sides, circles have no corners. Geometry is in buildings, art, and nature!",
+      "emoji": "📐",
+      "highlight": "△ Triangle  □ Square  ○ Circle"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Math is used by doctors, architects, scientists, and programmers!",
+      "background": "space",
+      "title": "Math Powers the World",
+      "content": "Coding, finance, architecture, and science all need math. Learning math is the best investment you can make!",
+      "emoji": "🌍",
+      "highlight": "💰 Finance  🏛️ Architecture  🚀 Science  💻 Coding"
+    },
+    {
+      "id": 10,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "bounce",
-      "speech": "You learned the basics of math. Practice will make you even better!",
+      "speech": "You learned the basics of math and so much more. Keep practicing — you'll get amazing!",
       "background": "space",
       "title": "Lesson Complete!",
       "emoji": "⭐",
-      "effects": ["confetti"]
+      "effects": ["confetti", "stars"]
     }
   ]
 }

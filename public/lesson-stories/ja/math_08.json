@@ -1,0 +1,131 @@
+{
+  "title": "統計",
+  "description": "データを分析する数学",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "データを集めて分析する統計の世界へ！",
+      "background": "space",
+      "title": "統計",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "データから意味を見つけ出す学問！",
+      "background": "space",
+      "title": "統計とは？",
+      "content": "統計はデータを収集・分析して傾向や法則を見つける数学。ビジネス・医療・研究で必須！",
+      "emoji": "📊",
+      "highlight": "統計 = データ → 意味を見つける"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "データの真ん中の値の求め方！",
+      "background": "forest",
+      "title": "平均値",
+      "content": "平均＝合計÷個数。5人のテストの点数合計が350点なら平均は70点！",
+      "emoji": "📈",
+      "highlight": "平均 = 合計 ÷ 個数"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "外れ値に強い中央値と最頻値！",
+      "background": "classroom",
+      "title": "中央値と最頻値",
+      "content": "中央値：並び替えて真ん中の値。最頻値：最も多く出る値。外れ値に強い指標です！",
+      "emoji": "📉",
+      "highlight": "中央値(真ん中) 最頻値(最多)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "データのばらつきを数値化しよう！",
+      "background": "city",
+      "title": "範囲と分散",
+      "content": "範囲＝最大値－最小値。データのばらつきが分かります。分散・標準偏差はより精密な指標！",
+      "emoji": "📏",
+      "highlight": "範囲 = 最大 - 最小"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "棒グラフ・折れ線・円グラフを使いこなそう！",
+      "background": "candy",
+      "title": "グラフの種類",
+      "content": "棒グラフ：比較。折れ線：変化。円グラフ：割合。目的に合ったグラフを選ぼう！",
+      "emoji": "📊",
+      "highlight": "棒グラフ 折れ線 円グラフ"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "アンケートや実験でデータを集めよう！",
+      "background": "ocean",
+      "title": "データの収集",
+      "content": "アンケート：全員に聞けないとき。標本調査：一部を調べて全体を推測。公正に集めることが大切！",
+      "emoji": "📋",
+      "highlight": "全数調査 vs 標本調査"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "2つのデータの関係を分析しよう！",
+      "background": "classroom",
+      "title": "相関関係",
+      "content": "身長と体重、勉強時間と成績…2つのデータの関係を散布図で表します。正相関・負相関！",
+      "emoji": "🔭",
+      "highlight": "散布図 → 正・負・無相関"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "実生活での統計活用！",
+      "background": "forest",
+      "title": "統計の応用",
+      "content": "選挙予測・気候変動・新薬効果…統計なしに現代社会は成り立ちません！",
+      "emoji": "🌍",
+      "highlight": "医療・ビジネス・選挙予測に活用！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "統計の基本をマスターしたね！データが読めるようになった！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

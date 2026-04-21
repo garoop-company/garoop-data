@@ -1,0 +1,131 @@
+{
+  "title": "Pythonプロジェクト",
+  "description": "実際にPythonでプロジェクトを作ろう",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "今まで学んだ知識を使って本物のプロジェクトを作ろう！",
+      "background": "space",
+      "title": "Pythonプロジェクト",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "自分が作りたいものを見つけよう！",
+      "background": "space",
+      "title": "プロジェクトの選び方",
+      "content": "計算機、天気アプリ、クイズゲーム、家計簿…身近で面白いプロジェクトから始めよう！",
+      "emoji": "💡",
+      "highlight": "小さくシンプルなプロジェクトから始めよう！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "基本的な計算機を作ってみよう！",
+      "background": "forest",
+      "title": "計算機を作る",
+      "content": "入力を受け取り、四則演算を行い、結果を表示する。関数を使って整理されたコードを書こう！",
+      "emoji": "🧮",
+      "highlight": "input() → 計算 → print() → 計算機完成！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "問題を出して正解を判定するゲームだよ！",
+      "background": "classroom",
+      "title": "クイズゲームを作る",
+      "content": "問題リストを辞書で管理、ランダムに出題、スコアを集計…楽しいクイズゲームが作れます！",
+      "emoji": "🎯",
+      "highlight": "問題辞書 + random + スコア = クイズゲーム！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "APIを使って天気情報を取ってこよう！",
+      "background": "city",
+      "title": "天気データを取得する",
+      "content": "OpenWeatherMap APIとrequestsライブラリで現在の天気が取得できます！JSONデータを解析しよう！",
+      "emoji": "⛅",
+      "highlight": "requests.get(API_URL) → 天気データ取得！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "フォルダの整理を自動化しよう！",
+      "background": "candy",
+      "title": "ファイル管理ツールを作る",
+      "content": "osライブラリで特定フォルダのファイルを拡張子ごとに自動整理！実際に役立つツールが作れます！",
+      "emoji": "📁",
+      "highlight": "os + ファイル操作 = 自動整理ツール！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Webから情報を自動で集めよう！",
+      "background": "ocean",
+      "title": "簡単なWebスクレイピング",
+      "content": "BeautifulSoupライブラリでWebページの情報を自動取得できます。ニュースや価格情報の収集に！",
+      "emoji": "🕷️",
+      "highlight": "requests + BeautifulSoup = Webスクレイピング！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ウィンドウ付きのGUIアプリを作ろう！",
+      "background": "forest",
+      "title": "Tkinterでアプリを作る",
+      "content": "Tkinterでボタン、テキスト入力、画像表示など本格的なGUIアプリが作れます！インストール不要！",
+      "emoji": "🖥️",
+      "highlight": "import tkinter → GUI付きアプリ完成！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "作ったコードを世界に公開しよう！",
+      "background": "space",
+      "title": "GitHubで共有しよう",
+      "content": "GitHubにコードを公開してフィードバックをもらいましょう。ポートフォリオとして就職・受験に役立ちます！",
+      "emoji": "🌍",
+      "highlight": "GitHub → コード公開 → 世界とつながる！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pythonで本物のプロジェクトを完成させた！素晴らしい！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "長崎の文化",
+  "description": "ガルちゃんと楽しく長崎の文化を学ぼう！",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと長崎の文化を学ぼう！",
+      "background": "ocean",
+      "title": "長崎の文化",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと長崎の文化を学ぼう！",
+      "background": "space",
+      "title": "長崎の文化 - Part 1",
+      "content": "This is lesson 2 about 長崎の文化. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 長崎の文化 - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと長崎の文化を学ぼう！",
+      "background": "forest",
+      "title": "長崎の文化 - Part 2",
+      "content": "This is lesson 2 about 長崎の文化. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 長崎の文化 - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと長崎の文化を学ぼう！",
+      "background": "classroom",
+      "title": "長崎の文化 - Part 3",
+      "content": "This is lesson 2 about 長崎の文化. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 長崎の文化 - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと長崎の文化を学ぼう！",
+      "background": "city",
+      "title": "長崎の文化 - Part 4",
+      "content": "This is lesson 2 about 長崎の文化. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 長崎の文化 - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと長崎の文化を学ぼう！",
+      "background": "candy",
+      "title": "長崎の文化 - Part 5",
+      "content": "This is lesson 2 about 長崎の文化. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 長崎の文化 - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと長崎の文化を学ぼう！",
+      "background": "ocean",
+      "title": "長崎の文化 - Part 6",
+      "content": "This is lesson 2 about 長崎の文化. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 長崎の文化 - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと長崎の文化を学ぼう！",
+      "background": "classroom",
+      "title": "長崎の文化 - Part 7",
+      "content": "This is lesson 2 about 長崎の文化. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 長崎の文化 - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと長崎の文化を学ぼう！",
+      "background": "forest",
+      "title": "長崎の文化 - Part 8",
+      "content": "This is lesson 2 about 長崎の文化. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 長崎の文化 - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レッスン完了！よくできました！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

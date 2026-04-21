@@ -1,0 +1,125 @@
+{
+  "title": "JavaScript के हो?",
+  "description": "वेबपेज जीवन्त बनाउने जादुई भाषा!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "नमस्ते! आज हामी JavaScript सिक्छौं, वेबसाइट राम्रो बनाउने भाषा!",
+      "background": "city",
+      "title": "JavaScript मा स्वागत छ!",
+      "emoji": "🟨",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JavaScript वेबपेज चल्न र प्रतिक्रिया दिन सक्ने भाषा हो!",
+      "background": "city",
+      "title": "JavaScript = अन्तरक्रियात्मक वेब भाषा",
+      "content": "बटन, गेम, एनिमेशन र पप-अप सामान्यतः JavaScript प्रयोग गर्छन्। वेबको तिनकुने: HTML + CSS + JS!",
+      "emoji": "⚡",
+      "highlight": "🌐 वेब = HTML + CSS + JavaScript"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "console.log ब्राउजरमा सन्देश हेर्न प्रयोग गरिन्छ। परीक्षणका लागि उपयोगी!",
+      "background": "classroom",
+      "title": "console.log प्रयास गर्नुस्",
+      "content": "ब्राउजरको developer tools खोल्नुस्, तपाईंले लेखेको सन्देश देखिनेछ। प्रोग्रामरहरू यसरी कोड जाँच गर्छन्!",
+      "emoji": "🖥️",
+      "highlight": "console.log(\"नमस्ते दुनिया!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "let र const चर JavaScript मा डेटा राख्न प्रयोग गरिन्छ!",
+      "background": "forest",
+      "title": "चर: let र const",
+      "content": "परिवर्तन हुन सक्ने डेटाका लागि 'let', स्थिर डेटाका लागि 'const' प्रयोग गर्नुस्।",
+      "emoji": "📝",
+      "highlight": "let umar = 10;\nconst naam = 'राम';"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "फङ्सन धेरैपटक बोलाउन सकिने कोड ब्लक हो। खाना पकाउने विधि जस्तै!",
+      "background": "ocean",
+      "title": "फङ्सन = पुनः प्रयोग गर्न सकिने कोड",
+      "content": "एकपटक फङ्सन लेख्नुस्, धेरैपटक बोलाउनुस्! यसले कोड सफा र बुझ्न सजिलो बनाउँछ।",
+      "emoji": "🧑‍🍳",
+      "highlight": "function namaste() {\n  alert('नमस्ते!');\n}\nnamaste();"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "DOM भनेको JavaScript ले वेबपेजको इन्टरफेस सीधै परिवर्तन गर्ने तरिका हो!",
+      "background": "city",
+      "title": "DOM हेरफेर",
+      "content": "JavaScript ले वेबपेजमा पाठ, रङ र तत्वहरू परिवर्तन गर्न सक्छ। वेबसाइट गतिशील र अन्तरक्रियात्मक बन्छ!",
+      "emoji": "✏️",
+      "highlight": "document.getElementById('shirshak')\n  .textContent = 'नयाँ!';"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "इभेन्ट लिसनरले वेबसाइटलाई क्लिक जस्ता प्रयोगकर्ता कार्यमा प्रतिक्रिया दिन सक्षम बनाउँछ!",
+      "background": "candy",
+      "title": "इभेन्ट = प्रयोगकर्ता कार्य",
+      "content": "बटन थिच्नु, माउस सार्नु, किबोर्ड थिच्नु - ती सबै JavaScript ले प्रतिक्रिया गर्न सक्ने 'इभेन्ट' हुन्!",
+      "emoji": "👆",
+      "highlight": "batan.addEventListener('click',\n  () => alert('थिचियो!'));"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "एरे एउटै चरमा भण्डारण गरिएका मानहरूको सूची हो!",
+      "background": "classroom",
+      "title": "एरे = डेटा सङ्कलन",
+      "content": "एरेले एकैपटक धेरै मानहरू भण्डारण गर्न दिन्छ। ० बाट सुरु हुने क्रम सङ्ख्याले पहुँच गर्न सकिन्छ!",
+      "emoji": "📋",
+      "highlight": "const rang = ['रातो','निलो','हरियो'];\nconsole.log(rang[1]); // निलो"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "आधुनिक JavaScript सँग धेरै उत्कृष्ट विशेषताहरू छन्। विश्वका ठूला वेबसाइटहरूमा प्रयोग!",
+      "background": "space",
+      "title": "वास्तविक दुनियामा JavaScript",
+      "content": "Facebook, YouTube, Twitter र लगभग सबै ठूला वेबसाइटहरूले JavaScript प्रयोग गर्छन्। यो अत्यधिक माग गरिएको सीप हो!",
+      "emoji": "🌍",
+      "highlight": "📱 वेब एप  🎮 ब्राउजर गेम  🤖 Node.js सर्भर"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "सानदार! तपाईं JavaScript को संसारमा प्रवेश गर्नुभयो! सिकाइ जारी राख्नुस्!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🚀",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "AIで何が作れる？",
+  "description": "AIを使った創作と実用の可能性",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "AIを使って何を作ってみたい？可能性は無限大だよ！",
+      "background": "candy",
+      "title": "AIで何が作れる？",
+      "emoji": "🎨",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "言葉だけで素敵な絵が作れるよ！",
+      "background": "candy",
+      "title": "AIで絵を描く",
+      "content": "Stable Diffusion、Midjourney、DALL-Eを使えば、「夕暮れの富士山と桜」と書くだけで画像が生成されます！",
+      "emoji": "🎨",
+      "highlight": "📝 文章 → 🎨 AI生成画像"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "作曲の知識ゼロでも音楽が作れる！",
+      "background": "forest",
+      "title": "AIで音楽を作る",
+      "content": "Suno AI、Udio、MusicLMでメロディや歌詞まで生成できます。「ジャズ風のリラックスした曲を作って」で完成！",
+      "emoji": "🎵",
+      "highlight": "🎵 テキスト → AI作曲 → 🎶 音楽"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "映像制作もAIでできる時代が来たよ！",
+      "background": "city",
+      "title": "AIで動画を作る",
+      "content": "Runway、Pika、Soraで短い動画を生成できます。「海辺を走る犬」というテキストから動画が作れます！",
+      "emoji": "🎬",
+      "highlight": "📝 プロンプト → 🎬 AI動画生成"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "プログラミング知識ゼロでもゲームが作れる！",
+      "background": "classroom",
+      "title": "AIでゲームを作る",
+      "content": "ChatGPTやGitHub Copilotでゲームのコードを書いてもらえます。アイデアをAIに伝えるだけで動くゲームが！",
+      "emoji": "🎮",
+      "highlight": "💡 アイデア → AI → 🎮 ゲーム完成"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIは最高の共著者になれるよ！",
+      "background": "space",
+      "title": "AIで本を書く",
+      "content": "物語の骨格を作り、キャラクターを作り、文章を書いてもらう。人間のアイデア×AIの文章力で本が完成！",
+      "emoji": "📖",
+      "highlight": "💡 ストーリー + ✍️ AI = 📚 本の完成"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIが起業を手伝ってくれるよ！",
+      "background": "ocean",
+      "title": "AIでビジネスを作る",
+      "content": "ビジネスアイデア出し、マーケティング文章、ロゴデザイン…AIを使えば一人でもビジネスを立ち上げられます！",
+      "emoji": "💼",
+      "highlight": "💡 アイデア + 🤖 AI = 🚀 ビジネス"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ノーコード×AIでアプリが作れるよ！",
+      "background": "candy",
+      "title": "AIでアプリを作る",
+      "content": "Bubble、Adalo、Glideなどのノーコードツール+AIで、プログラミング知識がなくてもアプリが作れます！",
+      "emoji": "📱",
+      "highlight": "0コード + 🤖 AI = 📱 アプリ完成"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "さあ、あなたのアイデアで何を作る？",
+      "background": "space",
+      "title": "あなたのAIプロジェクト",
+      "content": "世界中の子どもたちがAIで素晴らしいものを作っています。あなたのアイデアが世界を変えるかもしれません！",
+      "emoji": "🌟",
+      "highlight": "💡 あなたのアイデア × 🤖 AI = 🌍 変革"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "アイデアを持ってAIを使えば、何でも作れる！さあ挑戦しよう！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

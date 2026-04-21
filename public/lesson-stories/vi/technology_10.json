@@ -1,0 +1,131 @@
+{
+  "title": "Công nghệ tương lai",
+  "description": "Học Công nghệ tương lai theo cách thú vị cùng Garuchan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Công nghệ tương lai cùng Garuchan!",
+      "background": "space",
+      "title": "Công nghệ tương lai",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Công nghệ tương lai cùng Garuchan!",
+      "background": "space",
+      "title": "Công nghệ tương lai - Part 1",
+      "content": "This is lesson 10 about Công nghệ tương lai. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Công nghệ tương lai - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Công nghệ tương lai cùng Garuchan!",
+      "background": "forest",
+      "title": "Công nghệ tương lai - Part 2",
+      "content": "This is lesson 10 about Công nghệ tương lai. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Công nghệ tương lai - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Công nghệ tương lai cùng Garuchan!",
+      "background": "classroom",
+      "title": "Công nghệ tương lai - Part 3",
+      "content": "This is lesson 10 about Công nghệ tương lai. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Công nghệ tương lai - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Công nghệ tương lai cùng Garuchan!",
+      "background": "city",
+      "title": "Công nghệ tương lai - Part 4",
+      "content": "This is lesson 10 about Công nghệ tương lai. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Công nghệ tương lai - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Công nghệ tương lai cùng Garuchan!",
+      "background": "candy",
+      "title": "Công nghệ tương lai - Part 5",
+      "content": "This is lesson 10 about Công nghệ tương lai. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Công nghệ tương lai - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Công nghệ tương lai cùng Garuchan!",
+      "background": "ocean",
+      "title": "Công nghệ tương lai - Part 6",
+      "content": "This is lesson 10 about Công nghệ tương lai. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Công nghệ tương lai - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Công nghệ tương lai cùng Garuchan!",
+      "background": "classroom",
+      "title": "Công nghệ tương lai - Part 7",
+      "content": "This is lesson 10 about Công nghệ tương lai. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Công nghệ tương lai - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Công nghệ tương lai cùng Garuchan!",
+      "background": "forest",
+      "title": "Công nghệ tương lai - Part 8",
+      "content": "This is lesson 10 about Công nghệ tương lai. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Công nghệ tương lai - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

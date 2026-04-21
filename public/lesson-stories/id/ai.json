@@ -1,0 +1,125 @@
+{
+  "title": "Apa itu AI?",
+  "description": "Pelajari bagaimana komputer bisa menjadi pintar!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hai teman! Sudah siap menjelajahi dunia AI? Ayo mulai!",
+      "background": "space",
+      "title": "Selamat Datang di Dunia AI!",
+      "emoji": "🤖",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI adalah singkatan dari Kecerdasan Buatan. Komputer yang bisa berpikir seperti manusia!",
+      "background": "space",
+      "title": "AI = Kecerdasan Buatan",
+      "content": "Artificial Intelligence (AI) adalah teknologi yang membuat komputer bisa belajar, berpikir, dan membuat keputusan sendiri.",
+      "emoji": "🧠",
+      "highlight": "AI = Komputer yang bisa belajar sendiri"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI belajar dari banyak data, seperti kamu belajar dari pengalaman!",
+      "background": "classroom",
+      "title": "Bagaimana AI Belajar?",
+      "content": "Machine Learning adalah cara AI belajar dari contoh. Semakin banyak data, semakin pintar AI-nya!",
+      "emoji": "📚",
+      "highlight": "Data Banyak → Belajar → AI Makin Pintar"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Otak AI mirip dengan otak manusia, tapi dibuat dari angka-angka!",
+      "background": "city",
+      "title": "Neural Network = Otak Digital",
+      "content": "Neural Network meniru cara kerja neuron di otak manusia. Jutaan koneksi digital yang bekerja bersama!",
+      "emoji": "⚡",
+      "highlight": "Neuron Otak 🧠 → Neural Network 💻"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ChatGPT dan Claude bisa ngobrol karena sudah membaca miliaran kata!",
+      "background": "forest",
+      "title": "AI Percakapan (Chatbot)",
+      "content": "Large Language Model (LLM) seperti ChatGPT belajar dari teks yang sangat banyak, lalu bisa menjawab pertanyaan.",
+      "emoji": "💬",
+      "highlight": "📖 Teks Triliunan → LLM → Bisa Ngobrol!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI bisa mengenali foto dan gambar! Seperti mata yang sangat tajam!",
+      "background": "ocean",
+      "title": "AI Pengenalan Gambar",
+      "content": "AI bisa membedakan foto kucing dan anjing, bahkan bisa mendeteksi wajah manusia. Digunakan di kamera HP!",
+      "emoji": "👁️",
+      "highlight": "📸 Foto → AI Analisis → 'Ini kucing!'"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI generatif bisa membuat gambar, musik, dan video dari teks biasa!",
+      "background": "candy",
+      "title": "AI Generatif = AI Kreatif",
+      "content": "Tools seperti Midjourney, DALL-E, dan Suno AI bisa menciptakan karya seni baru berdasarkan deskripsi kamu!",
+      "emoji": "🎨",
+      "highlight": "Teks → 🖼️ Gambar / 🎵 Musik / 🎬 Video"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI sudah ada di sekitar kita! Di HP, di mobil, di rumah sakit!",
+      "background": "city",
+      "title": "AI dalam Kehidupan Sehari-hari",
+      "content": "Rekomendasi YouTube, filter foto Instagram, navigasi Google Maps - semua menggunakan AI! Kamu sudah pakai AI setiap hari!",
+      "emoji": "📱",
+      "highlight": "YouTube 📺 / Maps 🗺️ / Terjemahan 🌐 / Kesehatan 🏥"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Di masa depan, AI akan membantu dokter, ilmuwan, dan bahkan guru!",
+      "background": "space",
+      "title": "Masa Depan AI",
+      "content": "AI akan terus berkembang dan membantu manusia menyelesaikan masalah besar. Kamu bisa ikut membuat AI yang baik!",
+      "emoji": "🌟",
+      "highlight": "🔬 Sains  🏥 Kesehatan  🌍 Lingkungan  🎓 Pendidikan"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Selamat! Kamu sekarang tahu banyak tentang AI! Gunakan AI untuk hal yang baik ya!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "⭐",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

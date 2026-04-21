@@ -1,0 +1,131 @@
+{
+  "title": "Bố cục trang",
+  "description": "Học Bố cục trang theo cách thú vị cùng Garuchan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Bố cục trang cùng Garuchan!",
+      "background": "candy",
+      "title": "Bố cục trang",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Bố cục trang cùng Garuchan!",
+      "background": "space",
+      "title": "Bố cục trang - Part 1",
+      "content": "This is lesson 6 about Bố cục trang. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Bố cục trang - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Bố cục trang cùng Garuchan!",
+      "background": "forest",
+      "title": "Bố cục trang - Part 2",
+      "content": "This is lesson 6 about Bố cục trang. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Bố cục trang - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Bố cục trang cùng Garuchan!",
+      "background": "classroom",
+      "title": "Bố cục trang - Part 3",
+      "content": "This is lesson 6 about Bố cục trang. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Bố cục trang - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Bố cục trang cùng Garuchan!",
+      "background": "city",
+      "title": "Bố cục trang - Part 4",
+      "content": "This is lesson 6 about Bố cục trang. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Bố cục trang - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Bố cục trang cùng Garuchan!",
+      "background": "candy",
+      "title": "Bố cục trang - Part 5",
+      "content": "This is lesson 6 about Bố cục trang. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Bố cục trang - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Bố cục trang cùng Garuchan!",
+      "background": "ocean",
+      "title": "Bố cục trang - Part 6",
+      "content": "This is lesson 6 about Bố cục trang. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Bố cục trang - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Bố cục trang cùng Garuchan!",
+      "background": "classroom",
+      "title": "Bố cục trang - Part 7",
+      "content": "This is lesson 6 about Bố cục trang. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Bố cục trang - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Bố cục trang cùng Garuchan!",
+      "background": "forest",
+      "title": "Bố cục trang - Part 8",
+      "content": "This is lesson 6 about Bố cục trang. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Bố cục trang - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "機械学習の基本",
+  "description": "コンピューターが学ぶ仕組みを理解しよう",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "機械学習ってどういう意味？一緒に解き明かそう！",
+      "background": "forest",
+      "title": "機械学習の基本",
+      "emoji": "📈",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "機械学習はAIの中心にある技術だよ！",
+      "background": "forest",
+      "title": "機械学習とは？",
+      "content": "機械学習とは、コンピューターがデータから自動的にルールを見つけ出す技術です。プログラマーが全部のルールを書く必要がなくなりました！",
+      "emoji": "📈",
+      "highlight": "データ → 自動学習 → 予測・判断"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "正解を教えながら学ばせる方法だよ！",
+      "background": "classroom",
+      "title": "教師あり学習",
+      "content": "「これは猫」「これは犬」と正解を教えながら学習させます。テストの答え合わせをしながら勉強するのと同じです！",
+      "emoji": "📚",
+      "highlight": "例: ✉️スパムメール判定 🏠不動産価格予測"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "正解なしで自分でパターンを見つけるよ！",
+      "background": "city",
+      "title": "教師なし学習",
+      "content": "正解を教えずに、AIが自分でグループ分けをします。お客さんのタイプを自動で分類したり、異常を検知したりします！",
+      "emoji": "🔍",
+      "highlight": "👥 グループ分け → 似たものをまとめる"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ゲームみたいに試行錯誤しながら学ぶよ！",
+      "background": "candy",
+      "title": "強化学習",
+      "content": "成功したら「ご褒美」、失敗したら「罰」を与えながら学習します。AIが囲碁の世界チャンピオンに勝ったのもこの方法！",
+      "emoji": "🎮",
+      "highlight": "✅成功→報酬 ❌失敗→ペナルティ → 上達！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "勉強しすぎも問題なんだよ！",
+      "background": "forest",
+      "title": "過学習と汎化",
+      "content": "特定のデータだけ覚えすぎると、新しいデータに対応できなくなります。これを「過学習」といいます。バランスが大事！",
+      "emoji": "⚖️",
+      "highlight": "📖暗記 vs 💡理解 → 理解が大事！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIに何を見せるかがとても重要だよ！",
+      "background": "ocean",
+      "title": "特徴量エンジニアリング",
+      "content": "どのデータの「特徴」をAIに学ばせるかで、精度が大きく変わります。良いデータを選ぶのは人間の仕事！",
+      "emoji": "🔧",
+      "highlight": "🎯 良いデータ + 良い特徴 = 賢いAI"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIがどれくらい賢いか測る方法があるよ！",
+      "background": "classroom",
+      "title": "モデルの評価",
+      "content": "正解率、精度、再現率などの指標でAIの性能を評価します。テストの点数みたいなものです！",
+      "emoji": "📊",
+      "highlight": "精度 🎯 再現率 📊 F値 📈"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "機械学習はいろんな場所で活躍しているよ！",
+      "background": "space",
+      "title": "機械学習の応用",
+      "content": "医療診断、金融予測、自動翻訳、画像認識…あらゆる分野で機械学習が革命を起こしています！",
+      "emoji": "🌍",
+      "highlight": "🏥医療 💰金融 🌐翻訳 📸画像"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "機械学習の仕組みが分かってきたね！続けて学ぼう！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

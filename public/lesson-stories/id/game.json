@@ -1,0 +1,125 @@
+{
+  "title": "Ayo Buat Game!",
+  "description": "Langkah pertama menuju membuat game sendiri!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bayangkan kamu bisa buat game sendiri! Yuk, kita mulai petualangan ini!",
+      "background": "candy",
+      "title": "Selamat Datang di Dunia Game!",
+      "emoji": "🎮",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Game development adalah proses membuat game dari nol menggunakan komputer!",
+      "background": "city",
+      "title": "Apa itu Game Development?",
+      "content": "Game developer menggabungkan programming, seni, musik, dan desain untuk menciptakan pengalaman bermain yang seru!",
+      "emoji": "🛠️",
+      "highlight": "Code + Seni + Musik + Desain = Game!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Game berjalan dalam loop! Terus memeriksa, memperbarui, dan menggambar layar!",
+      "background": "classroom",
+      "title": "Game Loop = Jantung Game",
+      "content": "Setiap game punya siklus: baca input pengguna → perbarui dunia game → gambar di layar → ulangi! Ini terjadi 60 kali per detik!",
+      "emoji": "🔄",
+      "highlight": "Input → Update → Render → Ulangi!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Player input adalah cara pemain mengendalikan karakter dalam game!",
+      "background": "forest",
+      "title": "Input Pemain",
+      "content": "Tekan tombol, gerakkan joystick, sentuh layar - semua itu adalah input yang harus ditangkap dan diproses game!",
+      "emoji": "🕹️",
+      "highlight": "⬆️⬇️⬅️➡️ Tombol → Karakter Bergerak!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Sprite adalah gambar 2D yang digunakan untuk karakter dan objek dalam game!",
+      "background": "candy",
+      "title": "Sprite & Animasi",
+      "content": "Karakter game terbuat dari sprite. Animasi dibuat dengan mengganti sprite dengan cepat, seperti flip book!",
+      "emoji": "🏃",
+      "highlight": "🖼️→🖼️→🖼️ (cepat) = Animasi!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Fisika dalam game membuat dunia virtual terasa nyata!",
+      "background": "ocean",
+      "title": "Fisika Game",
+      "content": "Gravitasi, tabrakan, lompatan - semua ini dihitung oleh mesin fisika. Bola yang memantul, karakter yang jatuh, semua pakai fisika!",
+      "emoji": "🌍",
+      "highlight": "⬇️ Gravitasi  💥 Tabrakan  🏀 Pantulan"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Musik dan suara membuat game jauh lebih seru dan mengasyikkan!",
+      "background": "city",
+      "title": "Desain Suara",
+      "content": "Efek suara, musik latar, dan dialog suara semua menambah keseruan game. Bayangkan Minecraft tanpa suara - membosankan!",
+      "emoji": "🎵",
+      "highlight": "🎮 + 🎵 = Pengalaman Seru!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Unity dan Scratch adalah tools populer untuk mulai membuat game!",
+      "background": "classroom",
+      "title": "Tools Membuat Game",
+      "content": "Scratch cocok untuk pemula - drag and drop! Unity digunakan oleh profesional. Godot gratis dan open source. Pilih yang sesuai!",
+      "emoji": "⚙️",
+      "highlight": "🟠 Scratch (Pemula)  🔵 Unity (Pro)  🟣 Godot (Gratis)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Banyak game terkenal dibuat oleh tim kecil atau bahkan satu orang!",
+      "background": "space",
+      "title": "Game Indie = Bisa Kamu Buat!",
+      "content": "Minecraft dibuat 1 orang! Undertale dibuat 1 orang! Kamu pun bisa membuat game yang dinikmati jutaan orang!",
+      "emoji": "🌟",
+      "highlight": "💡 Ide + 💻 Skill + ❤️ Semangat = Game Sukses!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Luar biasa! Sekarang kamu tahu cara kerja game. Mulai buat game pertamamu!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

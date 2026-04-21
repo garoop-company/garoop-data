@@ -1,0 +1,131 @@
+{
+  "title": "画像認識AI",
+  "description": "AIがものを見て理解する仕組み",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "AIが写真を見て「これは猫！」と分かる！その仕組みを学ぼう！",
+      "background": "city",
+      "title": "画像認識AI",
+      "emoji": "👁️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "コンピューターが画像を理解する技術だよ！",
+      "background": "city",
+      "title": "画像認識とは？",
+      "content": "画像認識とは、写真や動画から物体・顔・文字などを自動的に識別する技術です。スマホのカメラにも使われています！",
+      "emoji": "👁️",
+      "highlight": "📸 画像 → 🤖AI → 🏷️ ラベル付け"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "画像はたくさんの数字でできているんだ！",
+      "background": "classroom",
+      "title": "ピクセルとデータ",
+      "content": "デジタル画像はRGB値（赤・緑・青）の数字の集まりです。1000×1000ピクセルの画像は300万個の数字からできています！",
+      "emoji": "🎨",
+      "highlight": "赤(0-255) + 緑(0-255) + 青(0-255) = 色"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "画像専用のニューラルネットワークだよ！",
+      "background": "forest",
+      "title": "CNNで画像を分析",
+      "content": "CNNは画像の特徴（エッジ、形、テクスチャ）を段階的に学習します。浅い層では線を、深い層では顔を認識！",
+      "emoji": "🔍",
+      "highlight": "線→形→テクスチャ→物体 (段階的認識)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "画像の中の物を探し出す技術だよ！",
+      "background": "city",
+      "title": "物体検出",
+      "content": "「どこに何がある？」をリアルタイムで検出します。自動運転車が歩行者を避けられるのもこの技術のおかげ！",
+      "emoji": "🎯",
+      "highlight": "🚶人間 🚗車 🌲木 を同時検出！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "顔を見て誰か分かるAIだよ！",
+      "background": "candy",
+      "title": "顔認識",
+      "content": "スマホのロック解除、犯罪捜査、コンサートのチケット確認…顔認識は世界中で使われています。プライバシーの議論も大切！",
+      "emoji": "😀",
+      "highlight": "😀 顔 → 特徴点抽出 → ID識別"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIが病気を見つけるよ！",
+      "background": "ocean",
+      "title": "医療画像診断",
+      "content": "レントゲン・MRI画像からがんや骨折を検出するAI。医師よりも早く、高精度に診断できるケースもあります！",
+      "emoji": "🏥",
+      "highlight": "🏥 X線/MRI → AI診断 → 早期発見"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIが新しい画像を作り出すよ！",
+      "background": "space",
+      "title": "画像生成AI",
+      "content": "Stable Diffusion、DALL-E、Midjourneyはテキストから画像を生成します。「宇宙を旅する猫」という文章から画像が作れます！",
+      "emoji": "🎨",
+      "highlight": "📝文章 → 🤖AI → 🎨新しい画像"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "画像認識はどんな未来を作る？",
+      "background": "classroom",
+      "title": "画像認識の未来",
+      "content": "完全自動運転、AIによる農業管理、水中の生き物のモニタリング…画像認識が変える世界はまだまだ広がっています！",
+      "emoji": "🌍",
+      "highlight": "🚗自動運転 🌾農業 🌊海洋 🏙️スマートシティ"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "画像認識AIの仕組みが分かったね！すごい技術だよね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

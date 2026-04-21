@@ -1,0 +1,131 @@
+{
+  "title": "सर्त शाखा",
+  "description": "Python सिक्नुस्: सर्त शाखा",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Garuchan सँग Python सिकौं!",
+      "background": "forest",
+      "title": "सर्त शाखा",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about सर्त शाखा!",
+      "background": "forest",
+      "title": "सर्त शाखा (1)",
+      "content": "This lesson covers सर्त शाखा — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about सर्त शाखा!",
+      "background": "classroom",
+      "title": "सर्त शाखा (2)",
+      "content": "This lesson covers सर्त शाखा — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about सर्त शाखा!",
+      "background": "city",
+      "title": "सर्त शाखा (3)",
+      "content": "This lesson covers सर्त शाखा — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about सर्त शाखा!",
+      "background": "candy",
+      "title": "सर्त शाखा (4)",
+      "content": "This lesson covers सर्त शाखा — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about सर्त शाखा!",
+      "background": "ocean",
+      "title": "सर्त शाखा (5)",
+      "content": "This lesson covers सर्त शाखा — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about सर्त शाखा!",
+      "background": "space",
+      "title": "सर्त शाखा (6)",
+      "content": "This lesson covers सर्त शाखा — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about सर्त शाखा!",
+      "background": "classroom",
+      "title": "सर्त शाखा (7)",
+      "content": "This lesson covers सर्त शाखा — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about सर्त शाखा!",
+      "background": "forest",
+      "title": "सर्त शाखा (8)",
+      "content": "This lesson covers सर्त शाखा — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "पाठ सम्पन्न!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

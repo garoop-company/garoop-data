@@ -1,0 +1,131 @@
+{
+  "title": "Python Projects",
+  "description": "Build real projects with Python",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Use everything you've learned to build a real project!",
+      "background": "space",
+      "title": "Python Projects",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Find something you want to build!",
+      "background": "space",
+      "title": "Choosing a Project",
+      "content": "Calculator, weather app, quiz game, budget tracker… start with something familiar and fun!",
+      "emoji": "💡",
+      "highlight": "Start small and simple!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's build a basic calculator!",
+      "background": "forest",
+      "title": "Build a Calculator",
+      "content": "Accept input, perform arithmetic, display the result. Use functions to keep the code organized!",
+      "emoji": "🧮",
+      "highlight": "input() → calculate → print() → calculator done!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "A game that quizzes and scores answers!",
+      "background": "classroom",
+      "title": "Build a Quiz Game",
+      "content": "Manage questions in a dictionary, pick randomly, tally scores… build a fun quiz game!",
+      "emoji": "🎯",
+      "highlight": "Question dict + random + score = Quiz game!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Get weather info using an API!",
+      "background": "city",
+      "title": "Fetch Weather Data",
+      "content": "Use OpenWeatherMap API and requests library to get current weather. Parse the JSON data!",
+      "emoji": "⛅",
+      "highlight": "requests.get(API_URL) → weather data!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Automate folder organization!",
+      "background": "candy",
+      "title": "Build a File Organizer",
+      "content": "Use the os library to automatically sort files by extension. A genuinely useful tool!",
+      "emoji": "📁",
+      "highlight": "os + file operations = auto-organizer!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Automatically collect data from the web!",
+      "background": "ocean",
+      "title": "Simple Web Scraping",
+      "content": "Use BeautifulSoup library to extract data from web pages automatically. Great for news or price tracking!",
+      "emoji": "🕷️",
+      "highlight": "requests + BeautifulSoup = web scraping!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Build a window-based GUI app!",
+      "background": "forest",
+      "title": "Build a GUI App with Tkinter",
+      "content": "Tkinter lets you build full GUI apps with buttons, text inputs, and images — no extra install needed!",
+      "emoji": "🖥️",
+      "highlight": "import tkinter → GUI app complete!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Share your code with the world!",
+      "background": "space",
+      "title": "Share on GitHub",
+      "content": "Publish your code on GitHub and get feedback. Build a portfolio for school, college, or jobs!",
+      "emoji": "🌍",
+      "highlight": "GitHub → publish → connect with the world!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You completed a real Python project! Incredible!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

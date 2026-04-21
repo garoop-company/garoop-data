@@ -1,0 +1,131 @@
+{
+  "title": "ニューラルネットワーク",
+  "description": "脳みそを真似した仕組みを探ってみよう",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "人間の脳をコンピューターで再現！どんな仕組みか見てみよう！",
+      "background": "space",
+      "title": "ニューラルネットワーク",
+      "emoji": "🧠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "脳の中には何億もの神経細胞があるんだ！",
+      "background": "space",
+      "title": "神経細胞（ニューロン）って何？",
+      "content": "人間の脳には約860億個の神経細胞（ニューロン）があります。これらが電気信号でつながって、思考や感情が生まれます！",
+      "emoji": "🧠",
+      "highlight": "🧠 脳 = 860億個のニューロン"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "コンピューターで神経細胞を再現したよ！",
+      "background": "forest",
+      "title": "人工ニューロン",
+      "content": "数字を入力して計算し、結果を次に渡す。シンプルな計算単位をたくさん繋げることで、複雑なことができます！",
+      "emoji": "⚡",
+      "highlight": "入力 → 計算 → 出力 → 次のニューロンへ"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ニューラルネットワークは層になっているよ！",
+      "background": "classroom",
+      "title": "層の構造",
+      "content": "入力層→隠れ層→出力層という構造です。深い層ほど複雑なパターンを学べます。これが「ディープラーニング」の由来！",
+      "emoji": "🏗️",
+      "highlight": "[入力層]→[隠れ層×N]→[出力層]"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "学習とは重みを調整することだよ！",
+      "background": "city",
+      "title": "重みとバイアス",
+      "content": "各接続には「重み」があります。正解に近づくよう重みを少しずつ調整するのが学習です。まるで楽器のチューニング！",
+      "emoji": "⚙️",
+      "highlight": "🎸 チューニング = 重みの調整"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ニューロンをON/OFFする仕組みだよ！",
+      "background": "candy",
+      "title": "活性化関数",
+      "content": "ReLU、Sigmoidなどの関数で、どのニューロンを「活性化」するか決めます。これがないと複雑なパターンを学べません！",
+      "emoji": "💡",
+      "highlight": "0以下 → OFF / 0以上 → ON (ReLU)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "間違いから学ぶ仕組みが逆伝播だよ！",
+      "background": "forest",
+      "title": "逆伝播（バックプロパゲーション）",
+      "content": "予測が間違っていたとき、その誤差を逆方向に伝えて重みを修正します。これが機械学習の核心です！",
+      "emoji": "🔄",
+      "highlight": "❌間違い → 🔄逆伝播 → ✅修正"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "画像認識に特化したネットワークだよ！",
+      "background": "ocean",
+      "title": "CNN（畳み込みニューラルネットワーク）",
+      "content": "画像の「局所的な特徴」を捉えるのが得意です。スマホの顔認証や自動運転の物体検出に使われています！",
+      "emoji": "📸",
+      "highlight": "📸 画像 → 特徴抽出 → 認識！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "文章や音声の処理が得意なネットワーク！",
+      "background": "space",
+      "title": "RNNと自然言語処理",
+      "content": "時系列データの処理が得意で、翻訳や文章生成に使われます。ChatGPTのベースになっている技術です！",
+      "emoji": "💬",
+      "highlight": "🗣️ 文章 → RNN → 翻訳・生成"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ニューラルネットワークの仕組みが分かったね！素晴らしい！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "什么是Python?",
+  "description": "学习Python: 什么是Python?",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "与Garuchan一起探索Python世界！",
+      "background": "forest",
+      "title": "什么是Python?",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about 什么是Python?!",
+      "background": "forest",
+      "title": "什么是Python? (1)",
+      "content": "This lesson covers 什么是Python? — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about 什么是Python?!",
+      "background": "classroom",
+      "title": "什么是Python? (2)",
+      "content": "This lesson covers 什么是Python? — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about 什么是Python?!",
+      "background": "city",
+      "title": "什么是Python? (3)",
+      "content": "This lesson covers 什么是Python? — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about 什么是Python?!",
+      "background": "candy",
+      "title": "什么是Python? (4)",
+      "content": "This lesson covers 什么是Python? — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about 什么是Python?!",
+      "background": "ocean",
+      "title": "什么是Python? (5)",
+      "content": "This lesson covers 什么是Python? — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about 什么是Python?!",
+      "background": "space",
+      "title": "什么是Python? (6)",
+      "content": "This lesson covers 什么是Python? — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about 什么是Python?!",
+      "background": "classroom",
+      "title": "什么是Python? (7)",
+      "content": "This lesson covers 什么是Python? — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about 什么是Python?!",
+      "background": "forest",
+      "title": "什么是Python? (8)",
+      "content": "This lesson covers 什么是Python? — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "课程完成！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

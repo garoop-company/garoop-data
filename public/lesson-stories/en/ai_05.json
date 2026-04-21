@@ -1,0 +1,131 @@
+{
+  "title": "Image Recognition AI",
+  "description": "How AI sees and understands the visual world",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "AI looks at a photo and says 'That's a cat!' Let's learn how!",
+      "background": "city",
+      "title": "Image Recognition AI",
+      "emoji": "👁️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Technology for computers to understand images!",
+      "background": "city",
+      "title": "What is Image Recognition?",
+      "content": "Image recognition automatically identifies objects, faces, and text in photos and videos. Used in smartphone cameras too!",
+      "emoji": "👁️",
+      "highlight": "📸 Image → 🤖 AI → 🏷️ Label"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Images are made of millions of numbers!",
+      "background": "classroom",
+      "title": "Pixels and Data",
+      "content": "Digital images are collections of RGB values (Red, Green, Blue). A 1000×1000 pixel image = 3 million numbers!",
+      "emoji": "🎨",
+      "highlight": "Red(0-255) + Green(0-255) + Blue(0-255) = Color"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "The neural network built for images!",
+      "background": "forest",
+      "title": "CNNs Analyze Images",
+      "content": "CNNs learn image features (edges, shapes, textures) step by step. Shallow layers recognize lines, deep layers recognize faces!",
+      "emoji": "🔍",
+      "highlight": "Lines → Shapes → Textures → Objects (step by step)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Finding and locating objects in images!",
+      "background": "city",
+      "title": "Object Detection",
+      "content": "'Where is what?' detected in real-time. Self-driving cars avoid pedestrians thanks to this technology!",
+      "emoji": "🎯",
+      "highlight": "🚶 Person 🚗 Car 🌲 Tree detected simultaneously!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI that identifies people by their face!",
+      "background": "candy",
+      "title": "Face Recognition",
+      "content": "Smartphone unlock, criminal investigation, concert ticket verification — face recognition is everywhere. Privacy debates matter too!",
+      "emoji": "😀",
+      "highlight": "😀 Face → Feature extraction → Identity"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI that detects diseases!",
+      "background": "ocean",
+      "title": "Medical Image Diagnosis",
+      "content": "AI that detects cancer and fractures in X-rays and MRI scans — sometimes faster and more accurately than doctors!",
+      "emoji": "🏥",
+      "highlight": "🏥 X-ray/MRI → AI diagnosis → Early detection"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI that creates brand new images!",
+      "background": "space",
+      "title": "Image Generation AI",
+      "content": "Stable Diffusion, DALL-E, Midjourney generate images from text. Type 'a cat traveling through space' and get an image!",
+      "emoji": "🎨",
+      "highlight": "📝 Text → 🤖 AI → 🎨 New image"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "What future will image recognition create?",
+      "background": "classroom",
+      "title": "Future of Image Recognition",
+      "content": "Fully autonomous driving, AI agricultural management, underwater creature monitoring — image recognition's world keeps expanding!",
+      "emoji": "🌍",
+      "highlight": "🚗 Autonomous 🌾 Agriculture 🌊 Ocean 🏙️ Smart cities"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You understand image recognition AI now! Amazing technology!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

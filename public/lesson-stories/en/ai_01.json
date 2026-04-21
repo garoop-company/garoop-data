@@ -1,0 +1,131 @@
+{
+  "title": "What is AI?",
+  "description": "Your gateway to the world of artificial intelligence",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's explore the world of AI with Garuchan!",
+      "background": "space",
+      "title": "What is AI?",
+      "emoji": "🤖",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI is computer technology that mimics the human brain!",
+      "background": "space",
+      "title": "What is Artificial Intelligence?",
+      "content": "AI (Artificial Intelligence) is technology that lets computers think and learn like humans. It's used in smartphones, cars, games, and much more!",
+      "emoji": "🤖",
+      "highlight": "🤖 AI = Computers that can think"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI history started back in the 1950s!",
+      "background": "classroom",
+      "title": "History of AI",
+      "content": "The term 'Artificial Intelligence' was coined in 1956. Since then, it has gone through many booms and winters. Today's AI is smarter than ever!",
+      "emoji": "📜",
+      "highlight": "1956: AI born → 2024: Super powerful AI"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "There are many different kinds of AI!",
+      "background": "city",
+      "title": "Types of AI",
+      "content": "Narrow AI (good at specific tasks) vs General AI (good at everything). Most current AI is narrow AI, but it beats humans at specific tasks!",
+      "emoji": "🎭",
+      "highlight": "🎯 Narrow AI (specialist) vs 💡 General AI"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI learns from massive amounts of data!",
+      "background": "forest",
+      "title": "How Does AI Learn?",
+      "content": "AI learns just like a baby — by seeing lots of examples. Show it 100 million photos and it can tell cats from dogs!",
+      "emoji": "📊",
+      "highlight": "Data → Learning → Smart AI"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI is already all around you!",
+      "background": "candy",
+      "title": "AI Around You",
+      "content": "Siri, Google Translate, Netflix recommendations, self-driving cars... they all use AI! You might be using AI every single day!",
+      "emoji": "🌍",
+      "highlight": "📱 Phone 🚗 Car 🎵 Music 🛒 Shopping"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "There are things AI is incredibly good at!",
+      "background": "ocean",
+      "title": "What AI is Good At",
+      "content": "Image recognition, translation, speech recognition, chess, and Go — AI beats world champions. AI excels at repetitive and pattern-based tasks!",
+      "emoji": "💪",
+      "highlight": "✅ Images ✅ Translation ✅ Chess ✅ Speech"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI has weaknesses too!",
+      "background": "classroom",
+      "title": "What AI Struggles With",
+      "content": "Understanding emotions, handling unexpected situations, and common sense reasoning are still hard for AI. Humans and AI make the best team!",
+      "emoji": "🤔",
+      "highlight": "❌ Emotions ❌ Common sense ❌ Creativity (evolving)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's imagine how AI will change the world!",
+      "background": "space",
+      "title": "AI and the Future",
+      "content": "Medicine, education, environment... AI might solve humanity's biggest challenges. You could be a future leader who uses AI!",
+      "emoji": "🌟",
+      "highlight": "🏥 Medicine 📚 Education 🌱 Environment 🚀 Space"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've mastered the basics of AI! Keep going!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

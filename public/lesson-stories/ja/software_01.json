@@ -1,0 +1,131 @@
+{
+  "title": "ソフトウェアとは",
+  "description": "ガルちゃんと楽しくソフトウェアとはを学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとソフトウェアとはを学ぼう！",
+      "background": "forest",
+      "title": "ソフトウェアとは",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとソフトウェアとはを学ぼう！",
+      "background": "space",
+      "title": "ソフトウェアとは - Part 1",
+      "content": "This is lesson 1 about ソフトウェアとは. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 ソフトウェアとは - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとソフトウェアとはを学ぼう！",
+      "background": "forest",
+      "title": "ソフトウェアとは - Part 2",
+      "content": "This is lesson 1 about ソフトウェアとは. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 ソフトウェアとは - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとソフトウェアとはを学ぼう！",
+      "background": "classroom",
+      "title": "ソフトウェアとは - Part 3",
+      "content": "This is lesson 1 about ソフトウェアとは. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 ソフトウェアとは - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとソフトウェアとはを学ぼう！",
+      "background": "city",
+      "title": "ソフトウェアとは - Part 4",
+      "content": "This is lesson 1 about ソフトウェアとは. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 ソフトウェアとは - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとソフトウェアとはを学ぼう！",
+      "background": "candy",
+      "title": "ソフトウェアとは - Part 5",
+      "content": "This is lesson 1 about ソフトウェアとは. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 ソフトウェアとは - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとソフトウェアとはを学ぼう！",
+      "background": "ocean",
+      "title": "ソフトウェアとは - Part 6",
+      "content": "This is lesson 1 about ソフトウェアとは. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 ソフトウェアとは - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとソフトウェアとはを学ぼう！",
+      "background": "classroom",
+      "title": "ソフトウェアとは - Part 7",
+      "content": "This is lesson 1 about ソフトウェアとは. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 ソフトウェアとは - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとソフトウェアとはを学ぼう！",
+      "background": "forest",
+      "title": "ソフトウェアとは - Part 8",
+      "content": "This is lesson 1 about ソフトウェアとは. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 ソフトウェアとは - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レッスン完了！よくできました！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

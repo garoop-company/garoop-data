@@ -1,0 +1,131 @@
+{
+  "title": "Cơ bản Machine Learning",
+  "description": "Học Cơ bản Machine Learning theo cách thú vị cùng Garuchan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Cơ bản Machine Learning cùng Garuchan!",
+      "background": "space",
+      "title": "Cơ bản Machine Learning",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Cơ bản Machine Learning cùng Garuchan!",
+      "background": "space",
+      "title": "Cơ bản Machine Learning - Part 1",
+      "content": "This is lesson 2 about Cơ bản Machine Learning. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Cơ bản Machine Learning - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Cơ bản Machine Learning cùng Garuchan!",
+      "background": "forest",
+      "title": "Cơ bản Machine Learning - Part 2",
+      "content": "This is lesson 2 about Cơ bản Machine Learning. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Cơ bản Machine Learning - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Cơ bản Machine Learning cùng Garuchan!",
+      "background": "classroom",
+      "title": "Cơ bản Machine Learning - Part 3",
+      "content": "This is lesson 2 about Cơ bản Machine Learning. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Cơ bản Machine Learning - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Cơ bản Machine Learning cùng Garuchan!",
+      "background": "city",
+      "title": "Cơ bản Machine Learning - Part 4",
+      "content": "This is lesson 2 about Cơ bản Machine Learning. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Cơ bản Machine Learning - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Cơ bản Machine Learning cùng Garuchan!",
+      "background": "candy",
+      "title": "Cơ bản Machine Learning - Part 5",
+      "content": "This is lesson 2 about Cơ bản Machine Learning. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Cơ bản Machine Learning - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Cơ bản Machine Learning cùng Garuchan!",
+      "background": "ocean",
+      "title": "Cơ bản Machine Learning - Part 6",
+      "content": "This is lesson 2 about Cơ bản Machine Learning. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Cơ bản Machine Learning - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Cơ bản Machine Learning cùng Garuchan!",
+      "background": "classroom",
+      "title": "Cơ bản Machine Learning - Part 7",
+      "content": "This is lesson 2 about Cơ bản Machine Learning. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Cơ bản Machine Learning - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Cơ bản Machine Learning cùng Garuchan!",
+      "background": "forest",
+      "title": "Cơ bản Machine Learning - Part 8",
+      "content": "This is lesson 2 about Cơ bản Machine Learning. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Cơ bản Machine Learning - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

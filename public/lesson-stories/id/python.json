@@ -1,0 +1,125 @@
+{
+  "title": "Apa itu Python?",
+  "description": "Belajar bahasa pemrograman Python dengan cara yang menyenangkan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Halo! Aku Garuchan! Hari ini kita belajar Python bersama-sama, yuk!",
+      "background": "forest",
+      "title": "Selamat Datang di Python!",
+      "emoji": "🐍",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Python bukan ular sungguhan! Ini adalah bahasa untuk berbicara dengan komputer!",
+      "background": "forest",
+      "title": "Python = Bahasa Pemrograman",
+      "content": "Python adalah bahasa yang digunakan untuk memberi perintah kepada komputer. Mudah dibaca, seperti bahasa manusia!",
+      "emoji": "💻",
+      "highlight": "🐍 Python = Perintah untuk komputer"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Dengan perintah print, komputer bisa menampilkan tulisan di layar!",
+      "background": "classroom",
+      "title": "Tampilkan Teks dengan print()",
+      "content": "Kalau kamu tulis print(\"Halo\"), layar akan menampilkan kata Halo! Coba sekarang!",
+      "emoji": "📺",
+      "highlight": "print(\"Halo Dunia!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Variabel adalah kotak ajaib untuk menyimpan informasi!",
+      "background": "city",
+      "title": "Variabel = Kotak Ajaib",
+      "content": "Tulis nama = 'Budi', maka kotak bernama 'nama' menyimpan kata 'Budi'. Bisa digunakan kapan saja!",
+      "emoji": "📦",
+      "highlight": "nama = 'Budi'\nprint(nama)  # -> Budi"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Kondisi if-else seperti pertanyaan ya-atau-tidak untuk komputer!",
+      "background": "forest",
+      "title": "Kondisi if / else",
+      "content": "Komputer bisa membuat keputusan! Kalau kondisinya benar, lakukan ini. Kalau tidak, lakukan itu!",
+      "emoji": "🤔",
+      "highlight": "if nilai >= 60:\n    print('Lulus!')\nelse:\n    print('Coba lagi!')"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Perulangan for membantu kamu melakukan hal yang sama berkali-kali tanpa capek!",
+      "background": "ocean",
+      "title": "Perulangan for",
+      "content": "Daripada menulis perintah 100 kali, cukup gunakan for! Komputer akan mengulanginya otomatis.",
+      "emoji": "🔄",
+      "highlight": "for i in range(5):\n    print(i)  # 0,1,2,3,4"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Fungsi adalah resep yang bisa dipakai berkali-kali! Tulis sekali, pakai selamanya!",
+      "background": "classroom",
+      "title": "Fungsi = Resep Ajaib",
+      "content": "Kamu bisa membuat fungsi untuk melakukan tugas tertentu. Panggil saja namanya kapan pun dibutuhkan!",
+      "emoji": "🧑‍🍳",
+      "highlight": "def sapa(nama):\n    print('Halo', nama)\n\nsapa('Budi')  # -> Halo Budi"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "List adalah daftar yang bisa menyimpan banyak benda sekaligus!",
+      "background": "candy",
+      "title": "List = Daftar Barang",
+      "content": "Bayangkan list seperti tas belanja. Kamu bisa memasukkan banyak benda dan mengaksesnya satu per satu!",
+      "emoji": "🛒",
+      "highlight": "buah = ['apel', 'mangga', 'jeruk']\nprint(buah[0])  # -> apel"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Dengan Python, kamu bisa membuat game, website, aplikasi AI, dan masih banyak lagi!",
+      "background": "space",
+      "title": "Apa yang Bisa Dibuat?",
+      "content": "Python digunakan oleh Instagram, Netflix, NASA, dan Google. Kamu pun bisa membuat sesuatu yang keren!",
+      "emoji": "🚀",
+      "highlight": "🎮 Game  🌐 Website  🤖 AI  📊 Data"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Luar biasa! Kamu sudah mempelajari dasar-dasar Python! Terus berlatih ya!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

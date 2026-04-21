@@ -1,0 +1,131 @@
+{
+  "title": "List và Dictionary",
+  "description": "Học Python: List và Dictionary",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Python cùng Garuchan!",
+      "background": "forest",
+      "title": "List và Dictionary",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about List và Dictionary!",
+      "background": "forest",
+      "title": "List và Dictionary (1)",
+      "content": "This lesson covers List và Dictionary — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about List và Dictionary!",
+      "background": "classroom",
+      "title": "List và Dictionary (2)",
+      "content": "This lesson covers List và Dictionary — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about List và Dictionary!",
+      "background": "city",
+      "title": "List và Dictionary (3)",
+      "content": "This lesson covers List và Dictionary — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about List và Dictionary!",
+      "background": "candy",
+      "title": "List và Dictionary (4)",
+      "content": "This lesson covers List và Dictionary — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about List và Dictionary!",
+      "background": "ocean",
+      "title": "List và Dictionary (5)",
+      "content": "This lesson covers List và Dictionary — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about List và Dictionary!",
+      "background": "space",
+      "title": "List và Dictionary (6)",
+      "content": "This lesson covers List và Dictionary — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about List và Dictionary!",
+      "background": "classroom",
+      "title": "List và Dictionary (7)",
+      "content": "This lesson covers List và Dictionary — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about List và Dictionary!",
+      "background": "forest",
+      "title": "List và Dictionary (8)",
+      "content": "This lesson covers List và Dictionary — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

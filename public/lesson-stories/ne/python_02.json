@@ -1,0 +1,131 @@
+{
+  "title": "भेरिएबल र डेटा टाइप",
+  "description": "Python सिक्नुस्: भेरिएबल र डेटा टाइप",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Garuchan सँग Python सिकौं!",
+      "background": "forest",
+      "title": "भेरिएबल र डेटा टाइप",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about भेरिएबल र डेटा टाइप!",
+      "background": "forest",
+      "title": "भेरिएबल र डेटा टाइप (1)",
+      "content": "This lesson covers भेरिएबल र डेटा टाइप — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about भेरिएबल र डेटा टाइप!",
+      "background": "classroom",
+      "title": "भेरिएबल र डेटा टाइप (2)",
+      "content": "This lesson covers भेरिएबल र डेटा टाइप — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about भेरिएबल र डेटा टाइप!",
+      "background": "city",
+      "title": "भेरिएबल र डेटा टाइप (3)",
+      "content": "This lesson covers भेरिएबल र डेटा टाइप — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about भेरिएबल र डेटा टाइप!",
+      "background": "candy",
+      "title": "भेरिएबल र डेटा टाइप (4)",
+      "content": "This lesson covers भेरिएबल र डेटा टाइप — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about भेरिएबल र डेटा टाइप!",
+      "background": "ocean",
+      "title": "भेरिएबल र डेटा टाइप (5)",
+      "content": "This lesson covers भेरिएबल र डेटा टाइप — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about भेरिएबल र डेटा टाइप!",
+      "background": "space",
+      "title": "भेरिएबल र डेटा टाइप (6)",
+      "content": "This lesson covers भेरिएबल र डेटा टाइप — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about भेरिएबल र डेटा टाइप!",
+      "background": "classroom",
+      "title": "भेरिएबल र डेटा टाइप (7)",
+      "content": "This lesson covers भेरिएबल र डेटा टाइप — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about भेरिएबल र डेटा टाइप!",
+      "background": "forest",
+      "title": "भेरिएबल र डेटा टाइप (8)",
+      "content": "This lesson covers भेरिएबल र डेटा टाइप — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "पाठ सम्पन्न!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

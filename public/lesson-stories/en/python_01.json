@@ -1,0 +1,131 @@
+{
+  "title": "What is Python?",
+  "description": "Learn the world's most popular programming language",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's dive into the world of Python with Garuchan!",
+      "background": "forest",
+      "title": "What is Python?",
+      "emoji": "🐍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Python is the world's most popular programming language!",
+      "background": "forest",
+      "title": "What is Python?",
+      "content": "Python is used in AI, data science, and web development. It's simple, readable, and perfect for beginners!",
+      "emoji": "🐍",
+      "highlight": "🐍 Python = Simple but powerful language"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Knowing Python opens doors to the future!",
+      "background": "city",
+      "title": "Why Learn Python?",
+      "content": "Google, Instagram, NASA, YouTube — they all use Python. It's the standard language for AI development with top global demand!",
+      "emoji": "🌟",
+      "highlight": "🌐 Google 📸 Instagram 🚀 NASA use Python"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's set up the environment first!",
+      "background": "classroom",
+      "title": "Setting Up Python",
+      "content": "Download from python.org and install VS Code or PyCharm. Or use Google Colab — free, runs in your browser!",
+      "emoji": "💻",
+      "highlight": "🆓 Google Colab → Start right now in browser!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's print 'Hello, World!'!",
+      "background": "forest",
+      "title": "Your First Code",
+      "content": "print('Hello, World!') — that's it! One line and the program runs. This is Python's charm!",
+      "emoji": "💡",
+      "highlight": "print('Hello, World!') → Displays on screen!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Tips for writing readable code!",
+      "background": "classroom",
+      "title": "Comments and Indentation",
+      "content": "Write comments with # and use 4 spaces for indentation. In Python, indentation is part of the grammar — very important!",
+      "emoji": "📝",
+      "highlight": "# Comment → explains the code\nIndent → shows structure"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "What can you make with Python?",
+      "background": "candy",
+      "title": "What Can You Build?",
+      "content": "Web services, AI/machine learning, data analysis, automation scripts, games… the possibilities are endless!",
+      "emoji": "🚀",
+      "highlight": "🌐 Web 🤖 AI 📊 Data 🔧 Automation 🎮 Games"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Python has a huge global community!",
+      "background": "ocean",
+      "title": "Python Community",
+      "content": "Stack Overflow, GitHub, PyPI (packages)… the world's largest programming community is there to help!",
+      "emoji": "🌍",
+      "highlight": "👥 Massive worldwide programming community"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's see the learning path!",
+      "background": "space",
+      "title": "Your Learning Roadmap",
+      "content": "Basic syntax → Data structures → Functions → Libraries → Projects. Advance step by step!",
+      "emoji": "🗺️",
+      "highlight": "Basics → Applied → Projects → Professional!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "First step into Python — awesome!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

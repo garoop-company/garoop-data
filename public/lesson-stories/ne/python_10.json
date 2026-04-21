@@ -1,0 +1,131 @@
+{
+  "title": "Python प्रोजेक्ट",
+  "description": "Python सिक्नुस्: Python प्रोजेक्ट",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Garuchan सँग Python सिकौं!",
+      "background": "forest",
+      "title": "Python प्रोजेक्ट",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Python प्रोजेक्ट!",
+      "background": "forest",
+      "title": "Python प्रोजेक्ट (1)",
+      "content": "This lesson covers Python प्रोजेक्ट — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Python प्रोजेक्ट!",
+      "background": "classroom",
+      "title": "Python प्रोजेक्ट (2)",
+      "content": "This lesson covers Python प्रोजेक्ट — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Python प्रोजेक्ट!",
+      "background": "city",
+      "title": "Python प्रोजेक्ट (3)",
+      "content": "This lesson covers Python प्रोजेक्ट — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Python प्रोजेक्ट!",
+      "background": "candy",
+      "title": "Python प्रोजेक्ट (4)",
+      "content": "This lesson covers Python प्रोजेक्ट — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Python प्रोजेक्ट!",
+      "background": "ocean",
+      "title": "Python प्रोजेक्ट (5)",
+      "content": "This lesson covers Python प्रोजेक्ट — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Python प्रोजेक्ट!",
+      "background": "space",
+      "title": "Python प्रोजेक्ट (6)",
+      "content": "This lesson covers Python प्रोजेक्ट — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Python प्रोजेक्ट!",
+      "background": "classroom",
+      "title": "Python प्रोजेक्ट (7)",
+      "content": "This lesson covers Python प्रोजेक्ट — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Python प्रोजेक्ट!",
+      "background": "forest",
+      "title": "Python प्रोजेक्ट (8)",
+      "content": "This lesson covers Python प्रोजेक्ट — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "पाठ सम्पन्न!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

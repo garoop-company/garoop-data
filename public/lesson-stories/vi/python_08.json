@@ -1,0 +1,131 @@
+{
+  "title": "Dùng Thư viện",
+  "description": "Học Python: Dùng Thư viện",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Python cùng Garuchan!",
+      "background": "forest",
+      "title": "Dùng Thư viện",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Dùng Thư viện!",
+      "background": "forest",
+      "title": "Dùng Thư viện (1)",
+      "content": "This lesson covers Dùng Thư viện — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Dùng Thư viện!",
+      "background": "classroom",
+      "title": "Dùng Thư viện (2)",
+      "content": "This lesson covers Dùng Thư viện — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Dùng Thư viện!",
+      "background": "city",
+      "title": "Dùng Thư viện (3)",
+      "content": "This lesson covers Dùng Thư viện — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Dùng Thư viện!",
+      "background": "candy",
+      "title": "Dùng Thư viện (4)",
+      "content": "This lesson covers Dùng Thư viện — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Dùng Thư viện!",
+      "background": "ocean",
+      "title": "Dùng Thư viện (5)",
+      "content": "This lesson covers Dùng Thư viện — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Dùng Thư viện!",
+      "background": "space",
+      "title": "Dùng Thư viện (6)",
+      "content": "This lesson covers Dùng Thư viện — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Dùng Thư viện!",
+      "background": "classroom",
+      "title": "Dùng Thư viện (7)",
+      "content": "This lesson covers Dùng Thư viện — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Dùng Thư viện!",
+      "background": "forest",
+      "title": "Dùng Thư viện (8)",
+      "content": "This lesson covers Dùng Thư viện — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "配列とオブジェクト",
+  "description": "JSのデータ構造を深く理解しよう",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "配列とオブジェクトを使いこなしてスマートなコードを書こう！",
+      "background": "forest",
+      "title": "配列とオブジェクト",
+      "emoji": "📋",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JSの配列の基本を復習しよう！",
+      "background": "space",
+      "title": "配列の基本",
+      "content": "const arr = [1,2,3]; arr.push(4), pop(), shift(), unshift(), slice(), splice()など豊富なメソッドがあります！",
+      "emoji": "📋",
+      "highlight": "push pop shift unshift slice splice"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "配列を変換・絞り込み・集計するメソッド！",
+      "background": "forest",
+      "title": "配列メソッド(map/filter/reduce)",
+      "content": "map: 全要素を変換、filter: 条件で絞り込み、reduce: 集計。この3つをマスターすれば配列操作は完璧！",
+      "emoji": "🔧",
+      "highlight": "map filter reduce → 配列の3種の神器！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "配列やオブジェクトを展開できる演算子！",
+      "background": "classroom",
+      "title": "スプレッド演算子",
+      "content": "[...arr1, ...arr2]で配列を展開してコピーや結合。{...obj1, ...obj2}でオブジェクトも同様！",
+      "emoji": "✨",
+      "highlight": "[...arr] {...obj} → スプレッド"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "JSのオブジェクトはPythonの辞書に似てる！",
+      "background": "city",
+      "title": "オブジェクトの基本",
+      "content": "const person = { name: 'Alice', age: 10, greet() { return 'Hi!'; } } メソッドも持てます！",
+      "emoji": "📦",
+      "highlight": "{ key: value, method() {} }"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "オブジェクトからスマートに値を取り出す！",
+      "background": "candy",
+      "title": "オブジェクトの分割代入",
+      "content": "const { name, age } = person; 変数を個別に取り出せる。関数の引数にも使えます！",
+      "emoji": "✂️",
+      "highlight": "const { name, age } = obj; 分割代入"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "変数名とキー名が同じときのショートカット！",
+      "background": "ocean",
+      "title": "ショートハンドプロパティ",
+      "content": "const name = 'Alice'; const obj = { name }; → { name: 'Alice' } と同じ！",
+      "emoji": "⚡",
+      "highlight": "const name='Alice'; { name } = { name: 'Alice' }"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "複数のオブジェクトを1つにまとめよう！",
+      "background": "classroom",
+      "title": "オブジェクトの結合",
+      "content": "const merged = {...obj1, ...obj2}でオブジェクトを結合。Object.assign()も使えます！",
+      "emoji": "🔀",
+      "highlight": "{ ...obj1, ...obj2 } → マージ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "データ交換の標準形式JSONを学ぼう！",
+      "background": "forest",
+      "title": "JSON形式",
+      "content": "JSON.stringify()でJSオブジェクト→JSON文字列、JSON.parse()でJSON→JSオブジェクトに変換！",
+      "emoji": "🌐",
+      "highlight": "JSON.stringify() / JSON.parse()"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "配列とオブジェクトの操作をマスターしたね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

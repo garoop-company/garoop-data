@@ -1,0 +1,131 @@
+{
+  "title": "代数",
+  "description": "文字式と方程式を学ぼう",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "文字を使った計算で数学の世界が広がる！",
+      "background": "forest",
+      "title": "代数",
+      "emoji": "🔤",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "文字を使って数学の問題を一般化しよう！",
+      "background": "space",
+      "title": "代数とは？",
+      "content": "代数は文字を使って数学の法則を一般化します。x+5=10のxは何？これが方程式の基本！",
+      "emoji": "🔤",
+      "highlight": "文字 = 未知の数（x, y, n）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "x, y, nで未知の数を表す方法！",
+      "background": "forest",
+      "title": "文字式の意味",
+      "content": "長方形の面積＝縦×横をA＝l×wと書ける。文字で一般化することで全ての長方形に使えます！",
+      "emoji": "📊",
+      "highlight": "A = l × w → 一般化"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "未知数を求める方程式の解法！",
+      "background": "classroom",
+      "title": "方程式の解き方",
+      "content": "x＋5＝10→両辺から5を引く→x＝5。等式の性質（両辺に同じ操作）が基本！",
+      "emoji": "⚖️",
+      "highlight": "x + 5 = 10 → x = 5"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "一次方程式の基本的な解き方！",
+      "background": "city",
+      "title": "一次方程式",
+      "content": "2x＋3＝11→2x＝8→x＝4。移項して文字を左辺、数を右辺にまとめます！",
+      "emoji": "✏️",
+      "highlight": "2x + 3 = 11 → x = 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "2つの未知数を求める方法！",
+      "background": "candy",
+      "title": "連立方程式",
+      "content": "x＋y＝10, x－y＝4を同時に解く。加減法や代入法を使います。x＝7, y＝3！",
+      "emoji": "🔢",
+      "highlight": "x+y=10, x-y=4 → x=7, y=3"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "=でなく不等号を使った式！",
+      "background": "ocean",
+      "title": "不等式",
+      "content": "2x＋1＞5→2x＞4→x＞2。不等号をひっくり返すときは符号に注意！",
+      "emoji": "↔️",
+      "highlight": "2x + 1 > 5 → x > 2"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "直線のグラフと関数の基礎！",
+      "background": "classroom",
+      "title": "関数（y=ax+b）",
+      "content": "y＝2x＋1は直線のグラフ。aは傾き（坂の急さ）、bはy切片（x=0の値）！",
+      "emoji": "📈",
+      "highlight": "y = ax + b → 直線のグラフ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "実生活での代数活用！",
+      "background": "forest",
+      "title": "代数の応用",
+      "content": "速さの問題、値段の計算、年齢の問題…文章問題を方程式で解こう！",
+      "emoji": "🌍",
+      "highlight": "速さ・値段・年齢 → 方程式で解こう！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "代数の考え方を理解できたね！数学の本質に触れた！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

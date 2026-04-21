@@ -1,0 +1,131 @@
+{
+  "title": "ब्रान्ड रणनीति",
+  "description": "Garuchan सँग ब्रान्ड रणनीति रमाईलो तरिकाले सिकौं!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Garuchan सँग ब्रान्ड रणनीति सिकौं!",
+      "background": "city",
+      "title": "ब्रान्ड रणनीति",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग ब्रान्ड रणनीति सिकौं!",
+      "background": "space",
+      "title": "ब्रान्ड रणनीति - Part 1",
+      "content": "This is lesson 10 about ब्रान्ड रणनीति. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 ब्रान्ड रणनीति - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग ब्रान्ड रणनीति सिकौं!",
+      "background": "forest",
+      "title": "ब्रान्ड रणनीति - Part 2",
+      "content": "This is lesson 10 about ब्रान्ड रणनीति. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 ब्रान्ड रणनीति - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग ब्रान्ड रणनीति सिकौं!",
+      "background": "classroom",
+      "title": "ब्रान्ड रणनीति - Part 3",
+      "content": "This is lesson 10 about ब्रान्ड रणनीति. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 ब्रान्ड रणनीति - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग ब्रान्ड रणनीति सिकौं!",
+      "background": "city",
+      "title": "ब्रान्ड रणनीति - Part 4",
+      "content": "This is lesson 10 about ब्रान्ड रणनीति. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 ब्रान्ड रणनीति - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग ब्रान्ड रणनीति सिकौं!",
+      "background": "candy",
+      "title": "ब्रान्ड रणनीति - Part 5",
+      "content": "This is lesson 10 about ब्रान्ड रणनीति. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 ब्रान्ड रणनीति - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग ब्रान्ड रणनीति सिकौं!",
+      "background": "ocean",
+      "title": "ब्रान्ड रणनीति - Part 6",
+      "content": "This is lesson 10 about ब्रान्ड रणनीति. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 ब्रान्ड रणनीति - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग ब्रान्ड रणनीति सिकौं!",
+      "background": "classroom",
+      "title": "ब्रान्ड रणनीति - Part 7",
+      "content": "This is lesson 10 about ब्रान्ड रणनीति. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 ब्रान्ड रणनीति - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग ब्रान्ड रणनीति सिकौं!",
+      "background": "forest",
+      "title": "ब्रान्ड रणनीति - Part 8",
+      "content": "This is lesson 10 about ब्रान्ड रणनीति. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 ब्रान्ड रणनीति - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "पाठ सम्पन्न! राम्रो काम!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Hãy dùng ChatGPT",
+  "description": "Học Hãy dùng ChatGPT theo cách thú vị cùng Garuchan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Hãy dùng ChatGPT cùng Garuchan!",
+      "background": "space",
+      "title": "Hãy dùng ChatGPT",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Hãy dùng ChatGPT cùng Garuchan!",
+      "background": "space",
+      "title": "Hãy dùng ChatGPT - Part 1",
+      "content": "This is lesson 6 about Hãy dùng ChatGPT. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Hãy dùng ChatGPT - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Hãy dùng ChatGPT cùng Garuchan!",
+      "background": "forest",
+      "title": "Hãy dùng ChatGPT - Part 2",
+      "content": "This is lesson 6 about Hãy dùng ChatGPT. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Hãy dùng ChatGPT - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Hãy dùng ChatGPT cùng Garuchan!",
+      "background": "classroom",
+      "title": "Hãy dùng ChatGPT - Part 3",
+      "content": "This is lesson 6 about Hãy dùng ChatGPT. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Hãy dùng ChatGPT - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Hãy dùng ChatGPT cùng Garuchan!",
+      "background": "city",
+      "title": "Hãy dùng ChatGPT - Part 4",
+      "content": "This is lesson 6 about Hãy dùng ChatGPT. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Hãy dùng ChatGPT - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Hãy dùng ChatGPT cùng Garuchan!",
+      "background": "candy",
+      "title": "Hãy dùng ChatGPT - Part 5",
+      "content": "This is lesson 6 about Hãy dùng ChatGPT. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Hãy dùng ChatGPT - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Hãy dùng ChatGPT cùng Garuchan!",
+      "background": "ocean",
+      "title": "Hãy dùng ChatGPT - Part 6",
+      "content": "This is lesson 6 about Hãy dùng ChatGPT. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Hãy dùng ChatGPT - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Hãy dùng ChatGPT cùng Garuchan!",
+      "background": "classroom",
+      "title": "Hãy dùng ChatGPT - Part 7",
+      "content": "This is lesson 6 about Hãy dùng ChatGPT. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Hãy dùng ChatGPT - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Hãy dùng ChatGPT cùng Garuchan!",
+      "background": "forest",
+      "title": "Hãy dùng ChatGPT - Part 8",
+      "content": "This is lesson 6 about Hãy dùng ChatGPT. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Hãy dùng ChatGPT - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

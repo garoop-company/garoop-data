@@ -1,0 +1,131 @@
+{
+  "title": "चित्रकारी आधार",
+  "description": "Garuchan सँग चित्रकारी आधार रमाईलो तरिकाले सिकौं!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Garuchan सँग चित्रकारी आधार सिकौं!",
+      "background": "candy",
+      "title": "चित्रकारी आधार",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग चित्रकारी आधार सिकौं!",
+      "background": "space",
+      "title": "चित्रकारी आधार - Part 1",
+      "content": "This is lesson 4 about चित्रकारी आधार. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 चित्रकारी आधार - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग चित्रकारी आधार सिकौं!",
+      "background": "forest",
+      "title": "चित्रकारी आधार - Part 2",
+      "content": "This is lesson 4 about चित्रकारी आधार. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 चित्रकारी आधार - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग चित्रकारी आधार सिकौं!",
+      "background": "classroom",
+      "title": "चित्रकारी आधार - Part 3",
+      "content": "This is lesson 4 about चित्रकारी आधार. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 चित्रकारी आधार - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग चित्रकारी आधार सिकौं!",
+      "background": "city",
+      "title": "चित्रकारी आधार - Part 4",
+      "content": "This is lesson 4 about चित्रकारी आधार. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 चित्रकारी आधार - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग चित्रकारी आधार सिकौं!",
+      "background": "candy",
+      "title": "चित्रकारी आधार - Part 5",
+      "content": "This is lesson 4 about चित्रकारी आधार. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 चित्रकारी आधार - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग चित्रकारी आधार सिकौं!",
+      "background": "ocean",
+      "title": "चित्रकारी आधार - Part 6",
+      "content": "This is lesson 4 about चित्रकारी आधार. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 चित्रकारी आधार - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग चित्रकारी आधार सिकौं!",
+      "background": "classroom",
+      "title": "चित्रकारी आधार - Part 7",
+      "content": "This is lesson 4 about चित्रकारी आधार. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 चित्रकारी आधार - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग चित्रकारी आधार सिकौं!",
+      "background": "forest",
+      "title": "चित्रकारी आधार - Part 8",
+      "content": "This is lesson 4 about चित्रकारी आधार. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 चित्रकारी आधार - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "पाठ सम्पन्न! राम्रो काम!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "APIとフェッチ",
+  "description": "WebAPIでデータを取得・送信しよう",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "APIを使ってリアルなデータを扱うWebアプリを作ろう！",
+      "background": "ocean",
+      "title": "APIとフェッチ",
+      "emoji": "🔌",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "APIは外部データを使う仕組みだよ！",
+      "background": "space",
+      "title": "APIとは？",
+      "content": "API（Application Programming Interface）は外部サービスのデータや機能を利用する窓口。天気、地図、SNSなど何でも使えます！",
+      "emoji": "🔌",
+      "highlight": "API = 外部との接続口"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Webで最もよく使われるAPIの種類！",
+      "background": "forest",
+      "title": "RESTful API",
+      "content": "REST: URL＝リソース、HTTPメソッドで操作。シンプルで直感的。今日のWebの標準方式！",
+      "emoji": "🌐",
+      "highlight": "REST: URL + HTTPメソッド"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "データの取得・送信・更新・削除！",
+      "background": "classroom",
+      "title": "HTTPメソッド",
+      "content": "GET(取得)、POST(作成)、PUT(更新)、DELETE(削除)。Webでのデータ操作の基本！",
+      "emoji": "📡",
+      "highlight": "GET取得 POST作成 PUT更新 DELETE削除"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "fetchでAPIからデータを取ってこよう！",
+      "background": "city",
+      "title": "fetchでデータ取得",
+      "content": "fetch('URL').then(r=>r.json()).then(data=>console.log(data)) でデータ取得！",
+      "emoji": "📥",
+      "highlight": "fetch(URL).then(r=>r.json())"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "取得したJSONデータを使おう！",
+      "background": "candy",
+      "title": "JSONデータの処理",
+      "content": "const data = await res.json(); data.title, data.nameなどでプロパティにアクセス！",
+      "emoji": "📦",
+      "highlight": "data.name data.age → アクセス！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "APIを使うための鍵！",
+      "background": "ocean",
+      "title": "APIキーと認証",
+      "content": "APIキーはURLパラメータやHTTPヘッダーで送ります。GitHubに公開しないよう注意！",
+      "emoji": "🔑",
+      "highlight": "APIキー → 大切に管理しよう！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Cross-Origin制限について知ろう！",
+      "background": "classroom",
+      "title": "CORSとは",
+      "content": "別ドメインへのリクエストはCORSエラーが出ることがあります。サーバー側の設定で解決！",
+      "emoji": "🚧",
+      "highlight": "CORS → サーバー側の設定が必要"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ポケモンのデータを取得してみよう！",
+      "background": "forest",
+      "title": "実践：PokeAPI",
+      "content": "fetch('https://pokeapi.co/api/v2/pokemon/pikachu') でピカチュウのデータが取れます！",
+      "emoji": "🎮",
+      "highlight": "PokeAPI → 無料で使えるポケモンAPI！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "APIとの連携ができるようになったね！実践的なスキルだ！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

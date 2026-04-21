@@ -1,0 +1,131 @@
+{
+  "title": "Start an AI Project",
+  "description": "Take on a real AI project challenge",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's build a real AI project together! Let's take on the challenge!",
+      "background": "forest",
+      "title": "Start an AI Project",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Thinking about what to build is the first step!",
+      "background": "forest",
+      "title": "Finding Project Ideas",
+      "content": "Find a problem → Think if AI can solve it → Set the project goal. Start with problems close to your life!",
+      "emoji": "💡",
+      "highlight": "❓ Find problem → 💡 Idea → 🎯 Set goal"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Data is the lifeblood of AI projects!",
+      "background": "classroom",
+      "title": "Collecting Data",
+      "content": "Kaggle, Google Dataset, Hugging Face have free datasets. You can also collect your own data!",
+      "emoji": "📊",
+      "highlight": "📊 Kaggle / Google Dataset / Self-collected"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Choose AI tools that fit your goal!",
+      "background": "city",
+      "title": "Choosing Your Tools",
+      "content": "Google Colab (Python environment), Teachable Machine (no-code), ChatGPT API (text AI)... choose by purpose!",
+      "emoji": "🔧",
+      "highlight": "🔰 Teachable Machine → 💻 Google Colab"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Build an image recognition AI without code!",
+      "background": "candy",
+      "title": "Try Teachable Machine",
+      "content": "Google's free 'Teachable Machine' tool lets you build an image recognition AI just by taking photos! Ready in 30 minutes!",
+      "emoji": "📸",
+      "highlight": "📸 Take photos → Train → 🤖 AI complete!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Embed ChatGPT in your own app!",
+      "background": "ocean",
+      "title": "Using ChatGPT API",
+      "content": "Using OpenAI's API, you can integrate ChatGPT into your own programs. Just a little Python code gets it running!",
+      "emoji": "⚙️",
+      "highlight": "Python + OpenAI API = Custom AI"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Test and improve your AI!",
+      "background": "forest",
+      "title": "Testing Your Project",
+      "content": "Test if AI works correctly → Find why it's failing → Improve → Test again. This is what AI engineers do!",
+      "emoji": "🔍",
+      "highlight": "✅ Test → ❌ Bug found → 🔧 Fix → ✅"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Show the world what you built!",
+      "background": "classroom",
+      "title": "Presenting Your Project",
+      "content": "Share your project on GitHub, dev.to, YouTube. Get feedback and apply it to your next project!",
+      "emoji": "🎤",
+      "highlight": "🚀 GitHub / Dev.to / YouTube — Share it!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "The road to AI engineer has opened up!",
+      "background": "space",
+      "title": "Next Steps",
+      "content": "Learn more Python, take machine learning courses, join Kaggle competitions... there are so many next steps!",
+      "emoji": "🚀",
+      "highlight": "🐍 Python → 📊 ML → 🏆 Kaggle → 🌍 Production"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've taken the first step toward your AI project! Wonderful!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

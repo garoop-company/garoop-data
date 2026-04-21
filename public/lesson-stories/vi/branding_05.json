@@ -1,0 +1,131 @@
+{
+  "title": "Câu chuyện thương hiệu",
+  "description": "Học Câu chuyện thương hiệu theo cách thú vị cùng Garuchan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Câu chuyện thương hiệu cùng Garuchan!",
+      "background": "city",
+      "title": "Câu chuyện thương hiệu",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Câu chuyện thương hiệu cùng Garuchan!",
+      "background": "space",
+      "title": "Câu chuyện thương hiệu - Part 1",
+      "content": "This is lesson 5 about Câu chuyện thương hiệu. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Câu chuyện thương hiệu - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Câu chuyện thương hiệu cùng Garuchan!",
+      "background": "forest",
+      "title": "Câu chuyện thương hiệu - Part 2",
+      "content": "This is lesson 5 about Câu chuyện thương hiệu. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Câu chuyện thương hiệu - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Câu chuyện thương hiệu cùng Garuchan!",
+      "background": "classroom",
+      "title": "Câu chuyện thương hiệu - Part 3",
+      "content": "This is lesson 5 about Câu chuyện thương hiệu. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Câu chuyện thương hiệu - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Câu chuyện thương hiệu cùng Garuchan!",
+      "background": "city",
+      "title": "Câu chuyện thương hiệu - Part 4",
+      "content": "This is lesson 5 about Câu chuyện thương hiệu. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Câu chuyện thương hiệu - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Câu chuyện thương hiệu cùng Garuchan!",
+      "background": "candy",
+      "title": "Câu chuyện thương hiệu - Part 5",
+      "content": "This is lesson 5 about Câu chuyện thương hiệu. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Câu chuyện thương hiệu - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Câu chuyện thương hiệu cùng Garuchan!",
+      "background": "ocean",
+      "title": "Câu chuyện thương hiệu - Part 6",
+      "content": "This is lesson 5 about Câu chuyện thương hiệu. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Câu chuyện thương hiệu - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Câu chuyện thương hiệu cùng Garuchan!",
+      "background": "classroom",
+      "title": "Câu chuyện thương hiệu - Part 7",
+      "content": "This is lesson 5 about Câu chuyện thương hiệu. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Câu chuyện thương hiệu - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Câu chuyện thương hiệu cùng Garuchan!",
+      "background": "forest",
+      "title": "Câu chuyện thương hiệu - Part 8",
+      "content": "This is lesson 5 about Câu chuyện thương hiệu. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Câu chuyện thương hiệu - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

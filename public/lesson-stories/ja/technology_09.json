@@ -1,0 +1,131 @@
+{
+  "title": "バイオテクノロジー",
+  "description": "ガルちゃんと楽しくバイオテクノロジーを学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとバイオテクノロジーを学ぼう！",
+      "background": "space",
+      "title": "バイオテクノロジー",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとバイオテクノロジーを学ぼう！",
+      "background": "space",
+      "title": "バイオテクノロジー - Part 1",
+      "content": "This is lesson 9 about バイオテクノロジー. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 バイオテクノロジー - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとバイオテクノロジーを学ぼう！",
+      "background": "forest",
+      "title": "バイオテクノロジー - Part 2",
+      "content": "This is lesson 9 about バイオテクノロジー. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 バイオテクノロジー - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとバイオテクノロジーを学ぼう！",
+      "background": "classroom",
+      "title": "バイオテクノロジー - Part 3",
+      "content": "This is lesson 9 about バイオテクノロジー. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 バイオテクノロジー - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとバイオテクノロジーを学ぼう！",
+      "background": "city",
+      "title": "バイオテクノロジー - Part 4",
+      "content": "This is lesson 9 about バイオテクノロジー. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 バイオテクノロジー - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとバイオテクノロジーを学ぼう！",
+      "background": "candy",
+      "title": "バイオテクノロジー - Part 5",
+      "content": "This is lesson 9 about バイオテクノロジー. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 バイオテクノロジー - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとバイオテクノロジーを学ぼう！",
+      "background": "ocean",
+      "title": "バイオテクノロジー - Part 6",
+      "content": "This is lesson 9 about バイオテクノロジー. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 バイオテクノロジー - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとバイオテクノロジーを学ぼう！",
+      "background": "classroom",
+      "title": "バイオテクノロジー - Part 7",
+      "content": "This is lesson 9 about バイオテクノロジー. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 バイオテクノロジー - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとバイオテクノロジーを学ぼう！",
+      "background": "forest",
+      "title": "バイオテクノロジー - Part 8",
+      "content": "This is lesson 9 about バイオテクノロジー. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 バイオテクノロジー - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レッスン完了！よくできました！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

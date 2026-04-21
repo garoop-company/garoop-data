@@ -1,0 +1,125 @@
+{
+  "title": "Python là gì?",
+  "description": "Học ngôn ngữ lập trình Python theo cách thú vị!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Xin chào! Mình là Garuchan! Hôm nay chúng ta cùng học Python nhé!",
+      "background": "forest",
+      "title": "Chào mừng đến với Python!",
+      "emoji": "🐍",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Python không phải là rắn thật đâu! Đây là ngôn ngữ để nói chuyện với máy tính!",
+      "background": "forest",
+      "title": "Python = Ngôn ngữ lập trình",
+      "content": "Python là ngôn ngữ dùng để ra lệnh cho máy tính. Dễ đọc như tiếng người thật!",
+      "emoji": "💻",
+      "highlight": "🐍 Python = Lệnh cho máy tính"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Với lệnh print, máy tính có thể hiển thị chữ trên màn hình!",
+      "background": "classroom",
+      "title": "Hiển thị văn bản với print()",
+      "content": "Nếu bạn viết print(\"Xin chào\"), màn hình sẽ hiện chữ Xin chào! Hãy thử ngay!",
+      "emoji": "📺",
+      "highlight": "print(\"Xin chào thế giới!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Biến là chiếc hộp ma thuật để lưu trữ thông tin!",
+      "background": "city",
+      "title": "Biến = Chiếc hộp ma thuật",
+      "content": "Viết ten = 'An', hộp tên 'ten' sẽ chứa chữ 'An'. Có thể sử dụng bất cứ lúc nào!",
+      "emoji": "📦",
+      "highlight": "ten = 'An'\nprint(ten)  # -> An"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Điều kiện if-else giống như câu hỏi đúng-hay-sai cho máy tính!",
+      "background": "forest",
+      "title": "Điều kiện if / else",
+      "content": "Máy tính có thể đưa ra quyết định! Nếu điều kiện đúng thì làm việc này, nếu không thì làm việc khác!",
+      "emoji": "🤔",
+      "highlight": "if diem >= 5:\n    print('Đậu!')\nelse:\n    print('Thi lại!')"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Vòng lặp for giúp bạn làm đi làm lại nhiều lần mà không mệt!",
+      "background": "ocean",
+      "title": "Vòng lặp for",
+      "content": "Thay vì viết lệnh 100 lần, dùng for! Máy tính sẽ tự động lặp lại.",
+      "emoji": "🔄",
+      "highlight": "for i in range(5):\n    print(i)  # 0,1,2,3,4"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hàm là công thức có thể dùng đi dùng lại! Viết một lần, dùng mãi!",
+      "background": "classroom",
+      "title": "Hàm = Công thức tái sử dụng",
+      "content": "Bạn có thể tạo hàm để thực hiện một nhiệm vụ cụ thể. Gọi tên nó bất cứ khi nào cần!",
+      "emoji": "🧑‍🍳",
+      "highlight": "def chao(ten):\n    print('Xin chào', ten)\n\nchao('An')  # -> Xin chào An"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Danh sách có thể chứa nhiều thứ trong một biến!",
+      "background": "candy",
+      "title": "Danh sách = Giỏ hàng",
+      "content": "Hãy tưởng tượng danh sách như giỏ hàng. Bạn có thể bỏ nhiều thứ vào và lấy ra từng cái một!",
+      "emoji": "🛒",
+      "highlight": "trai_cay = ['táo', 'xoài', 'cam']\nprint(trai_cay[0])  # -> táo"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Với Python, bạn có thể làm game, website, ứng dụng AI và nhiều thứ nữa!",
+      "background": "space",
+      "title": "Có thể làm gì với Python?",
+      "content": "Python được dùng bởi Google, Instagram, NASA. Bạn cũng có thể tạo ra điều thú vị!",
+      "emoji": "🚀",
+      "highlight": "🎮 Game  🌐 Web  🤖 AI  📊 Dữ liệu"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tuyệt vời! Bạn đã học được những điều cơ bản về Python! Tiếp tục luyện tập nhé!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "AI×サステナビリティ",
+  "description": "ガルちゃんと楽しくAI×サステナビリティを学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとAI×サステナビリティを学ぼう！",
+      "background": "space",
+      "title": "AI×サステナビリティ",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとAI×サステナビリティを学ぼう！",
+      "background": "space",
+      "title": "AI×サステナビリティ - Part 1",
+      "content": "This is lesson 9 about AI×サステナビリティ. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 AI×サステナビリティ - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとAI×サステナビリティを学ぼう！",
+      "background": "forest",
+      "title": "AI×サステナビリティ - Part 2",
+      "content": "This is lesson 9 about AI×サステナビリティ. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 AI×サステナビリティ - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとAI×サステナビリティを学ぼう！",
+      "background": "classroom",
+      "title": "AI×サステナビリティ - Part 3",
+      "content": "This is lesson 9 about AI×サステナビリティ. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 AI×サステナビリティ - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとAI×サステナビリティを学ぼう！",
+      "background": "city",
+      "title": "AI×サステナビリティ - Part 4",
+      "content": "This is lesson 9 about AI×サステナビリティ. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 AI×サステナビリティ - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとAI×サステナビリティを学ぼう！",
+      "background": "candy",
+      "title": "AI×サステナビリティ - Part 5",
+      "content": "This is lesson 9 about AI×サステナビリティ. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 AI×サステナビリティ - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとAI×サステナビリティを学ぼう！",
+      "background": "ocean",
+      "title": "AI×サステナビリティ - Part 6",
+      "content": "This is lesson 9 about AI×サステナビリティ. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 AI×サステナビリティ - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとAI×サステナビリティを学ぼう！",
+      "background": "classroom",
+      "title": "AI×サステナビリティ - Part 7",
+      "content": "This is lesson 9 about AI×サステナビリティ. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 AI×サステナビリティ - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとAI×サステナビリティを学ぼう！",
+      "background": "forest",
+      "title": "AI×サステナビリティ - Part 8",
+      "content": "This is lesson 9 about AI×サステナビリティ. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 AI×サステナビリティ - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レッスン完了！よくできました！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

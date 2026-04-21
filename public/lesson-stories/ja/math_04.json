@@ -1,0 +1,131 @@
+{
+  "title": "パーセント",
+  "description": "割合を使いこなそう",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "パーセントで割合を理解しよう！",
+      "background": "city",
+      "title": "パーセント",
+      "emoji": "💯",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "100分の何個かを表す方法！",
+      "background": "space",
+      "title": "パーセントとは？",
+      "content": "パーセント(%)は100を基準にした割合。50%は全体の半分、100%は全体、0%は何もない！",
+      "emoji": "💯",
+      "highlight": "% = 100分の一の割合"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "半分を数字で表すと50%！",
+      "background": "forest",
+      "title": "50%はどれくらい？",
+      "content": "50%オフ＝半額！100円のものが50円になります。ショッピングで大活躍の知識！",
+      "emoji": "🛒",
+      "highlight": "50% = 半分  100% = 全部"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "パーセントを使った計算！",
+      "background": "classroom",
+      "title": "パーセントの計算",
+      "content": "1000円の30%＝1000×0.3＝300円。パーセントを小数に直して掛け算！",
+      "emoji": "🧮",
+      "highlight": "値段 × 0.○○ = パーセント分の金額"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "セールの値段を計算しよう！",
+      "background": "city",
+      "title": "割引の計算",
+      "content": "2000円が20%オフ→2000×0.2＝400円引き→2000－400＝1600円！",
+      "emoji": "🏷️",
+      "highlight": "20%オフ = 0.8をかける！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "消費税の計算方法！",
+      "background": "candy",
+      "title": "税金の計算",
+      "content": "100円の消費税10%→100×0.1＝10円→合計110円！日本では10%が基本！",
+      "emoji": "💴",
+      "highlight": "消費税10% → ×1.1"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "増えた・減った割合を計算しよう！",
+      "background": "ocean",
+      "title": "パーセントの増減",
+      "content": "先月100個、今月120個→20÷100×100＝20%増！変化量÷元の量×100で計算！",
+      "emoji": "📈",
+      "highlight": "増加率 = 変化量 ÷ 元 × 100"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "グラフでパーセントを表そう！",
+      "background": "classroom",
+      "title": "データのパーセント",
+      "content": "円グラフはデータをパーセントで表示。全部足すと必ず100%になります！",
+      "emoji": "📊",
+      "highlight": "円グラフ = パーセント表示"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "実生活でのパーセント活用！",
+      "background": "forest",
+      "title": "パーセントの応用",
+      "content": "テストの点数、体重変化、株価変動…パーセントは数字の世界では必須スキル！",
+      "emoji": "🌍",
+      "highlight": "テスト・株・割引 = 日常で使う！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "パーセントを使いこなせるようになったね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

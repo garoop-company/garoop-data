@@ -1,0 +1,131 @@
+{
+  "title": "Menggunakan Library",
+  "description": "Belajar Python: Menggunakan Library",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ayo belajar Python bersama Garuchan!",
+      "background": "forest",
+      "title": "Menggunakan Library",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Menggunakan Library!",
+      "background": "forest",
+      "title": "Menggunakan Library (1)",
+      "content": "This lesson covers Menggunakan Library — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Menggunakan Library!",
+      "background": "classroom",
+      "title": "Menggunakan Library (2)",
+      "content": "This lesson covers Menggunakan Library — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Menggunakan Library!",
+      "background": "city",
+      "title": "Menggunakan Library (3)",
+      "content": "This lesson covers Menggunakan Library — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Menggunakan Library!",
+      "background": "candy",
+      "title": "Menggunakan Library (4)",
+      "content": "This lesson covers Menggunakan Library — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Menggunakan Library!",
+      "background": "ocean",
+      "title": "Menggunakan Library (5)",
+      "content": "This lesson covers Menggunakan Library — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Menggunakan Library!",
+      "background": "space",
+      "title": "Menggunakan Library (6)",
+      "content": "This lesson covers Menggunakan Library — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Menggunakan Library!",
+      "background": "classroom",
+      "title": "Menggunakan Library (7)",
+      "content": "This lesson covers Menggunakan Library — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Menggunakan Library!",
+      "background": "forest",
+      "title": "Menggunakan Library (8)",
+      "content": "This lesson covers Menggunakan Library — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pelajaran selesai!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

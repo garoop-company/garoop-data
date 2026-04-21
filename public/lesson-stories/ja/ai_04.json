@@ -1,0 +1,131 @@
+{
+  "title": "自然言語処理",
+  "description": "コンピューターが言葉を理解する方法",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "コンピューターが日本語や英語を理解できる！どうやって？",
+      "background": "classroom",
+      "title": "自然言語処理",
+      "emoji": "💬",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "人間の言葉をコンピューターが理解する技術だよ！",
+      "background": "classroom",
+      "title": "自然言語処理（NLP）とは？",
+      "content": "NLPはコンピューターが人間の言語を理解・生成できる技術です。翻訳、検索エンジン、チャットボットに使われています！",
+      "emoji": "💬",
+      "highlight": "📝 人間の言葉 → NLP → コンピューターが理解"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "文章を小さなかたまりに分割するよ！",
+      "background": "forest",
+      "title": "トークナイゼーション",
+      "content": "「AIはすごい」→「AI」「は」「すごい」と分割します。これがNLPの第一歩です！",
+      "emoji": "✂️",
+      "highlight": "文章 → 単語・文字に分割 → 処理"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "単語を数字のベクトルで表現するよ！",
+      "background": "city",
+      "title": "単語埋め込み（Word Embedding）",
+      "content": "「王様」-「男」+「女」=「女王様」という計算ができます！単語の意味を数字で表現する革命的な技術です。",
+      "emoji": "🔢",
+      "highlight": "👑王 - 👨男 + 👩女 = 👸女王"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "コンピューターが感情を読み取るよ！",
+      "background": "candy",
+      "title": "感情分析",
+      "content": "「この映画は最高！」→ポジティブ、「最悪だった」→ネガティブと判定します。レビューサイトや株価予測に活用！",
+      "emoji": "😊",
+      "highlight": "😊ポジティブ 😡ネガティブ 😐ニュートラル"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIが自動で言語を翻訳するよ！",
+      "background": "ocean",
+      "title": "機械翻訳",
+      "content": "Google翻訳は1日に1000億語以上を翻訳しています！Transformerという技術が翻訳の質を劇的に向上させました。",
+      "emoji": "🌐",
+      "highlight": "🇯🇵 日本語 → 🤖AI → 🇺🇸 英語"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIが質問に答えてくれるシステムだよ！",
+      "background": "forest",
+      "title": "質問応答システム",
+      "content": "検索エンジン、Siri、Alexa…これらは全部質問応答システムです。大量のテキストから答えを見つけ出します！",
+      "emoji": "🤔",
+      "highlight": "❓質問 → 📚知識ベース → ✅回答"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIが文章を書けるようになったよ！",
+      "background": "classroom",
+      "title": "テキスト生成",
+      "content": "ChatGPTは文章、詩、コード、メール…何でも書けます。GPT-4は数千億個のパラメータを持つ超巨大モデルです！",
+      "emoji": "✍️",
+      "highlight": "📝 プロンプト → 🤖 GPT → ✍️ 文章生成"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ChatGPTはどうやって会話するの？",
+      "background": "space",
+      "title": "ChatGPTの仕組み",
+      "content": "インターネット上の膨大なテキストで学習し、次に来る単語を予測し続けることで文章を生成します。シンプルだけど革命的！",
+      "emoji": "🤖",
+      "highlight": "次の単語予測 × 何億回 = 自然な文章"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "言葉とAIの関係が分かってきたね！ChatGPTの仕組みが見えた？",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

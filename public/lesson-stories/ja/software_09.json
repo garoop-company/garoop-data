@@ -1,0 +1,131 @@
+{
+  "title": "マイクロサービス",
+  "description": "ガルちゃんと楽しくマイクロサービスを学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとマイクロサービスを学ぼう！",
+      "background": "forest",
+      "title": "マイクロサービス",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとマイクロサービスを学ぼう！",
+      "background": "space",
+      "title": "マイクロサービス - Part 1",
+      "content": "This is lesson 9 about マイクロサービス. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 マイクロサービス - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとマイクロサービスを学ぼう！",
+      "background": "forest",
+      "title": "マイクロサービス - Part 2",
+      "content": "This is lesson 9 about マイクロサービス. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 マイクロサービス - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとマイクロサービスを学ぼう！",
+      "background": "classroom",
+      "title": "マイクロサービス - Part 3",
+      "content": "This is lesson 9 about マイクロサービス. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 マイクロサービス - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとマイクロサービスを学ぼう！",
+      "background": "city",
+      "title": "マイクロサービス - Part 4",
+      "content": "This is lesson 9 about マイクロサービス. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 マイクロサービス - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとマイクロサービスを学ぼう！",
+      "background": "candy",
+      "title": "マイクロサービス - Part 5",
+      "content": "This is lesson 9 about マイクロサービス. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 マイクロサービス - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとマイクロサービスを学ぼう！",
+      "background": "ocean",
+      "title": "マイクロサービス - Part 6",
+      "content": "This is lesson 9 about マイクロサービス. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 マイクロサービス - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとマイクロサービスを学ぼう！",
+      "background": "classroom",
+      "title": "マイクロサービス - Part 7",
+      "content": "This is lesson 9 about マイクロサービス. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 マイクロサービス - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとマイクロサービスを学ぼう！",
+      "background": "forest",
+      "title": "マイクロサービス - Part 8",
+      "content": "This is lesson 9 about マイクロサービス. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 マイクロサービス - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レッスン完了！よくできました！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

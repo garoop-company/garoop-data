@@ -1,0 +1,131 @@
+{
+  "title": "Sprite & Animasi",
+  "description": "Pelajari Sprite & Animasi dengan cara yang menyenangkan bersama Garuchan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ayo belajar Sprite & Animasi bersama Garuchan!",
+      "background": "candy",
+      "title": "Sprite & Animasi",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Sprite & Animasi bersama Garuchan!",
+      "background": "space",
+      "title": "Sprite & Animasi - Part 1",
+      "content": "This is lesson 4 about Sprite & Animasi. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Sprite & Animasi - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Sprite & Animasi bersama Garuchan!",
+      "background": "forest",
+      "title": "Sprite & Animasi - Part 2",
+      "content": "This is lesson 4 about Sprite & Animasi. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Sprite & Animasi - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Sprite & Animasi bersama Garuchan!",
+      "background": "classroom",
+      "title": "Sprite & Animasi - Part 3",
+      "content": "This is lesson 4 about Sprite & Animasi. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Sprite & Animasi - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Sprite & Animasi bersama Garuchan!",
+      "background": "city",
+      "title": "Sprite & Animasi - Part 4",
+      "content": "This is lesson 4 about Sprite & Animasi. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Sprite & Animasi - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Sprite & Animasi bersama Garuchan!",
+      "background": "candy",
+      "title": "Sprite & Animasi - Part 5",
+      "content": "This is lesson 4 about Sprite & Animasi. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Sprite & Animasi - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Sprite & Animasi bersama Garuchan!",
+      "background": "ocean",
+      "title": "Sprite & Animasi - Part 6",
+      "content": "This is lesson 4 about Sprite & Animasi. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Sprite & Animasi - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Sprite & Animasi bersama Garuchan!",
+      "background": "classroom",
+      "title": "Sprite & Animasi - Part 7",
+      "content": "This is lesson 4 about Sprite & Animasi. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Sprite & Animasi - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Sprite & Animasi bersama Garuchan!",
+      "background": "forest",
+      "title": "Sprite & Animasi - Part 8",
+      "content": "This is lesson 4 about Sprite & Animasi. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Sprite & Animasi - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pelajaran selesai! Kerja bagus!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

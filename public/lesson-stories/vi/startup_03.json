@@ -1,0 +1,131 @@
+{
+  "title": "Nghiên cứu thị trường",
+  "description": "Học Nghiên cứu thị trường theo cách thú vị cùng Garuchan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Nghiên cứu thị trường cùng Garuchan!",
+      "background": "city",
+      "title": "Nghiên cứu thị trường",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Nghiên cứu thị trường cùng Garuchan!",
+      "background": "space",
+      "title": "Nghiên cứu thị trường - Part 1",
+      "content": "This is lesson 3 about Nghiên cứu thị trường. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Nghiên cứu thị trường - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Nghiên cứu thị trường cùng Garuchan!",
+      "background": "forest",
+      "title": "Nghiên cứu thị trường - Part 2",
+      "content": "This is lesson 3 about Nghiên cứu thị trường. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Nghiên cứu thị trường - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Nghiên cứu thị trường cùng Garuchan!",
+      "background": "classroom",
+      "title": "Nghiên cứu thị trường - Part 3",
+      "content": "This is lesson 3 about Nghiên cứu thị trường. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Nghiên cứu thị trường - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Nghiên cứu thị trường cùng Garuchan!",
+      "background": "city",
+      "title": "Nghiên cứu thị trường - Part 4",
+      "content": "This is lesson 3 about Nghiên cứu thị trường. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Nghiên cứu thị trường - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Nghiên cứu thị trường cùng Garuchan!",
+      "background": "candy",
+      "title": "Nghiên cứu thị trường - Part 5",
+      "content": "This is lesson 3 about Nghiên cứu thị trường. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Nghiên cứu thị trường - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Nghiên cứu thị trường cùng Garuchan!",
+      "background": "ocean",
+      "title": "Nghiên cứu thị trường - Part 6",
+      "content": "This is lesson 3 about Nghiên cứu thị trường. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Nghiên cứu thị trường - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Nghiên cứu thị trường cùng Garuchan!",
+      "background": "classroom",
+      "title": "Nghiên cứu thị trường - Part 7",
+      "content": "This is lesson 3 about Nghiên cứu thị trường. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Nghiên cứu thị trường - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Nghiên cứu thị trường cùng Garuchan!",
+      "background": "forest",
+      "title": "Nghiên cứu thị trường - Part 8",
+      "content": "This is lesson 3 about Nghiên cứu thị trường. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Nghiên cứu thị trường - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Python के हो?",
+  "description": "रमाइलो तरिकाले Python प्रोग्रामिङ भाषा सिकौं!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "नमस्ते! म Garuchan हुँ! आज हामी सँगै Python सिकौं!",
+      "background": "forest",
+      "title": "Python मा स्वागत छ!",
+      "emoji": "🐍",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Python साँच्चिको सर्प होइन! यो कम्प्युटरसँग कुरा गर्ने भाषा हो!",
+      "background": "forest",
+      "title": "Python = प्रोग्रामिङ भाषा",
+      "content": "Python कम्प्युटरलाई आदेश दिन प्रयोग गरिने भाषा हो। यो पढ्न सजिलो र शुरुआतीहरूका लागि उत्कृष्ट!",
+      "emoji": "💻",
+      "highlight": "🐍 Python = कम्प्युटरका लागि आदेश"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "print आदेशले कम्प्युटर स्क्रिनमा अक्षर देखाउन सक्छ!",
+      "background": "classroom",
+      "title": "print() ले टेक्स्ट देखाउनुस्",
+      "content": "print(\"नमस्ते\") लेख्दा स्क्रिनमा 'नमस्ते' देखिन्छ! अहिले नै प्रयास गर्नुस्!",
+      "emoji": "📺",
+      "highlight": "print(\"नमस्ते दुनिया!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "चर भनेको जानकारी राख्ने जादुई बाकस हो!",
+      "background": "city",
+      "title": "चर = जादुई बाकस",
+      "content": "naam = 'राम' लेख्दा, 'naam' नामको बाकसमा 'राम' राखिन्छ। जुनसुकै बेला निकाल्न सकिन्छ!",
+      "emoji": "📦",
+      "highlight": "naam = 'राम'\nprint(naam)  # -> राम"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "if-else सर्त कम्प्युटरका लागि हो-वा-होइन प्रश्न जस्तै हो!",
+      "background": "forest",
+      "title": "सर्त if / else",
+      "content": "कम्प्युटर निर्णय गर्न सक्छ! सर्त सही भए यो गर, नभए त्यो गर!",
+      "emoji": "🤔",
+      "highlight": "if anka >= 40:\n    print('पास!')\nelse:\n    print('फेरि प्रयास!')"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "for लूपले एउटै काम धेरैपटक गर्न मद्दत गर्छ!",
+      "background": "ocean",
+      "title": "for लूप",
+      "content": "१०० पटक आदेश लेख्नुको सट्टा, for प्रयोग गर्नुस्! कम्प्युटरले आफैं दोहोर्याउँछ।",
+      "emoji": "🔄",
+      "highlight": "for i in range(5):\n    print(i)  # 0,1,2,3,4"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "फङ्सन भनेको पुनः प्रयोग गर्न सकिने जादुई विधि हो!",
+      "background": "classroom",
+      "title": "फङ्सन = पुनः प्रयोग गर्न सकिने विधि",
+      "content": "विशेष काम गर्न फङ्सन बनाउनुस्। जुनसुकै बेला यसको नाम बोलाउनुस्!",
+      "emoji": "🧑‍🍳",
+      "highlight": "def namaste(naam):\n    print('नमस्ते', naam)\n\nnamaste('राम')  # -> नमस्ते राम"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "सूची एउटै चरमा धेरै चिजहरू राख्न सक्छ!",
+      "background": "candy",
+      "title": "सूची = सामानको झोला",
+      "content": "सूचीलाई किनमेलको झोला सोच्नुस्। धेरै चिजहरू हाल्न र एकएक गरी निकाल्न सकिन्छ!",
+      "emoji": "🛒",
+      "highlight": "phal = ['स्याउ', 'आँप', 'सुन्तला']\nprint(phal[0])  # -> स्याउ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Python ले गेम, वेबसाइट, AI अपलिकेशन र धेरै कुरा बनाउन सकिन्छ!",
+      "background": "space",
+      "title": "Python ले के बनाउन सकिन्छ?",
+      "content": "Google, Instagram, NASA ले Python प्रयोग गर्छन्। तपाईं पनि उत्कृष्ट कुरा बनाउन सक्नुहुन्छ!",
+      "emoji": "🚀",
+      "highlight": "🎮 गेम  🌐 वेबसाइट  🤖 AI  📊 डेटा"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "बढिया! Python को आधारभूत कुराहरू सिक्नुभयो! अभ्यास जारी राख्नुस्!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

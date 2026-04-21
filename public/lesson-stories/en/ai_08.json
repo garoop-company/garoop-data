@@ -1,0 +1,131 @@
+{
+  "title": "Future of AI",
+  "description": "The world AI will bring us",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's imagine the future world AI will create together!",
+      "background": "space",
+      "title": "Future of AI",
+      "emoji": "🧠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI that can do anything at a human level might be coming!",
+      "background": "space",
+      "title": "What is AGI?",
+      "content": "Current AI only does specific tasks. AGI can learn anything, like a human. Whether it's achievable is still debated!",
+      "emoji": "🧠",
+      "highlight": "Now: Narrow AI → Future: AGI → Far future: Superintelligence"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI might eliminate diseases!",
+      "background": "forest",
+      "title": "AI and the Future of Medicine",
+      "content": "AI-powered drug development, personalized treatment, early diagnosis... AI will revolutionize healthcare. Average lifespan of 150 might not be a dream!",
+      "emoji": "🏥",
+      "highlight": "💊 Drug dev 🏥 Diagnosis 🧬 Gene therapy"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Personalized education for every student!",
+      "background": "classroom",
+      "title": "AI and the Future of Education",
+      "content": "AI teaches each student at their own pace, focusing on their strengths and interests. Focus extra on weak areas, race ahead in strong areas!",
+      "emoji": "📚",
+      "highlight": "👤 Personalized learning × 🤖 AI = Future education"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI might save the Earth!",
+      "background": "city",
+      "title": "AI and the Environment",
+      "content": "Climate prediction, renewable energy optimization, resource management... AI is tackling environmental challenges head-on!",
+      "emoji": "🌍",
+      "highlight": "🌱 Use AI to stop global warming!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI robots active in the physical world!",
+      "background": "candy",
+      "title": "AI Robots of the Future",
+      "content": "From factory automation to home robots to space exploration. The combination of AI and robots will dramatically change human work!",
+      "emoji": "🤖",
+      "highlight": "🏭 Factory 🏠 Home 🚀 Space transformed by robots"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "The fusion of virtual worlds and AI has begun!",
+      "background": "ocean",
+      "title": "Metaverse and AI",
+      "content": "Talking to AI characters in virtual spaces, learning, working. The boundary between reality and virtual is blurring!",
+      "emoji": "🕹️",
+      "highlight": "🌐 Virtual world + 🤖 AI = Metaverse"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "The day AI surpasses human intelligence?",
+      "background": "space",
+      "title": "The AI Singularity",
+      "content": "The Technological Singularity is the moment AI exceeds human intelligence. Some experts predict around 2045!",
+      "emoji": "⚡",
+      "highlight": "2045? AI > Human intelligence → Singularity"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Humans and AI can be the ultimate team!",
+      "background": "forest",
+      "title": "Coexisting with AI",
+      "content": "AI is not humanity's enemy — it's the ultimate partner. Creativity, emotion, and ethical judgment are the human domain. Let's collaborate with AI!",
+      "emoji": "🌟",
+      "highlight": "🤝 Human × AI = Infinite possibility"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've thought deeply about the AI future society!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

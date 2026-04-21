@@ -1,0 +1,131 @@
+{
+  "title": "Neural Networks",
+  "description": "Explore the brain-inspired computing system",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "The human brain — recreated in a computer! Let's see how it works!",
+      "background": "space",
+      "title": "Neural Networks",
+      "emoji": "🧠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Your brain has billions of neurons!",
+      "background": "space",
+      "title": "What is a Neuron?",
+      "content": "The human brain has about 86 billion neurons. They communicate via electrical signals, creating thoughts, emotions, and memories!",
+      "emoji": "🧠",
+      "highlight": "🧠 Brain = 86 billion neurons"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "We recreated neurons in computers!",
+      "background": "forest",
+      "title": "Artificial Neurons",
+      "content": "Numbers go in, calculations happen, results pass to the next unit. Connecting many simple units enables complex behavior!",
+      "emoji": "⚡",
+      "highlight": "Input → Calculate → Output → Next neuron"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Neural networks are organized in layers!",
+      "background": "classroom",
+      "title": "Layers",
+      "content": "Input layer → Hidden layers → Output layer. Deeper layers learn more complex patterns. This is why it's called 'Deep Learning'!",
+      "emoji": "🏗️",
+      "highlight": "[Input] → [Hidden×N] → [Output]"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Learning means adjusting weights!",
+      "background": "city",
+      "title": "Weights and Biases",
+      "content": "Each connection has a 'weight'. Training adjusts weights to get closer to the correct answer. Like tuning a musical instrument!",
+      "emoji": "⚙️",
+      "highlight": "🎸 Tuning = Adjusting weights"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Deciding which neurons fire!",
+      "background": "candy",
+      "title": "Activation Functions",
+      "content": "Functions like ReLU and Sigmoid decide which neurons 'activate'. Without them, complex patterns can't be learned!",
+      "emoji": "💡",
+      "highlight": "Below 0 → OFF / Above 0 → ON (ReLU)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Learning from mistakes — that's backpropagation!",
+      "background": "forest",
+      "title": "Backpropagation",
+      "content": "When prediction is wrong, the error is sent backwards to adjust weights. This is the heart of machine learning!",
+      "emoji": "🔄",
+      "highlight": "❌ Wrong → 🔄 Backprop → ✅ Corrected"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Neural networks specialized for images!",
+      "background": "ocean",
+      "title": "CNNs for Images",
+      "content": "CNNs capture local features in images. Used in smartphone face unlock and self-driving car object detection!",
+      "emoji": "📸",
+      "highlight": "📸 Image → Feature extraction → Recognition!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Neural networks specialized for text and audio!",
+      "background": "space",
+      "title": "RNNs for Language",
+      "content": "RNNs handle sequential data and are used for translation and text generation. The basis of ChatGPT!",
+      "emoji": "💬",
+      "highlight": "🗣️ Text → RNN → Translation/Generation"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You understand neural networks now! Amazing!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

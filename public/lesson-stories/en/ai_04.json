@@ -1,0 +1,131 @@
+{
+  "title": "Natural Language Processing",
+  "description": "How computers understand human language",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Computers can understand Japanese and English! How?",
+      "background": "classroom",
+      "title": "Natural Language Processing",
+      "emoji": "💬",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Technology for computers to understand human language!",
+      "background": "classroom",
+      "title": "What is NLP?",
+      "content": "NLP lets computers understand and generate human language. Used in translation, search engines, and chatbots!",
+      "emoji": "💬",
+      "highlight": "📝 Human language → NLP → Computer understands"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Breaking sentences into small pieces!",
+      "background": "forest",
+      "title": "Tokenization",
+      "content": "'The cat sat' → 'The', 'cat', 'sat'. This is the first step in NLP!",
+      "emoji": "✂️",
+      "highlight": "Sentence → Words/Tokens → Processing"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Representing words as numbers!",
+      "background": "city",
+      "title": "Word Embeddings",
+      "content": "'King' - 'Man' + 'Woman' = 'Queen'! Word2Vec represents meaning as numbers — revolutionary!",
+      "emoji": "🔢",
+      "highlight": "👑 King - 👨 Man + 👩 Woman = 👸 Queen"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Computers reading emotions in text!",
+      "background": "candy",
+      "title": "Sentiment Analysis",
+      "content": "'This movie is amazing!' → Positive. 'Terrible waste of time' → Negative. Used in review sites and stock prediction!",
+      "emoji": "😊",
+      "highlight": "😊 Positive 😡 Negative 😐 Neutral"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI translates languages automatically!",
+      "background": "ocean",
+      "title": "Machine Translation",
+      "content": "Google Translate handles over 100 billion words daily! The Transformer architecture dramatically improved translation quality.",
+      "emoji": "🌐",
+      "highlight": "🇯🇵 Japanese → 🤖 AI → 🇺🇸 English"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Systems where AI answers questions!",
+      "background": "forest",
+      "title": "Question Answering",
+      "content": "Search engines, Siri, Alexa — all use question answering. They find answers from massive text collections!",
+      "emoji": "🤔",
+      "highlight": "❓ Question → 📚 Knowledge base → ✅ Answer"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI can write text now!",
+      "background": "classroom",
+      "title": "Text Generation",
+      "content": "ChatGPT can write essays, poems, code, emails — anything! GPT-4 has hundreds of billions of parameters!",
+      "emoji": "✍️",
+      "highlight": "📝 Prompt → 🤖 GPT → ✍️ Generated text"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "How does ChatGPT have conversations?",
+      "background": "space",
+      "title": "How ChatGPT Works",
+      "content": "Trained on massive internet text, it predicts the next word over and over to generate natural responses. Simple but revolutionary!",
+      "emoji": "🤖",
+      "highlight": "Next word prediction × billions = Natural language"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You understand the connection between language and AI now!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

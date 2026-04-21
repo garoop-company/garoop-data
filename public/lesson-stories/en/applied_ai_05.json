@@ -1,0 +1,131 @@
+{
+  "title": "AI × Creative Arts",
+  "description": "Learn AI × Creative Arts in a fun and engaging way with Garuchan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn AI × Creative Arts with Garuchan!",
+      "background": "space",
+      "title": "AI × Creative Arts",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn AI × Creative Arts with Garuchan!",
+      "background": "space",
+      "title": "AI × Creative Arts - Part 1",
+      "content": "This is lesson 5 about AI × Creative Arts. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 AI × Creative Arts - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn AI × Creative Arts with Garuchan!",
+      "background": "forest",
+      "title": "AI × Creative Arts - Part 2",
+      "content": "This is lesson 5 about AI × Creative Arts. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 AI × Creative Arts - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn AI × Creative Arts with Garuchan!",
+      "background": "classroom",
+      "title": "AI × Creative Arts - Part 3",
+      "content": "This is lesson 5 about AI × Creative Arts. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 AI × Creative Arts - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn AI × Creative Arts with Garuchan!",
+      "background": "city",
+      "title": "AI × Creative Arts - Part 4",
+      "content": "This is lesson 5 about AI × Creative Arts. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 AI × Creative Arts - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn AI × Creative Arts with Garuchan!",
+      "background": "candy",
+      "title": "AI × Creative Arts - Part 5",
+      "content": "This is lesson 5 about AI × Creative Arts. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 AI × Creative Arts - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn AI × Creative Arts with Garuchan!",
+      "background": "ocean",
+      "title": "AI × Creative Arts - Part 6",
+      "content": "This is lesson 5 about AI × Creative Arts. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 AI × Creative Arts - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn AI × Creative Arts with Garuchan!",
+      "background": "classroom",
+      "title": "AI × Creative Arts - Part 7",
+      "content": "This is lesson 5 about AI × Creative Arts. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 AI × Creative Arts - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn AI × Creative Arts with Garuchan!",
+      "background": "forest",
+      "title": "AI × Creative Arts - Part 8",
+      "content": "This is lesson 5 about AI × Creative Arts. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 AI × Creative Arts - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Lesson complete! Great work!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

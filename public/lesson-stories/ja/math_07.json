@@ -1,0 +1,131 @@
+{
+  "title": "確率",
+  "description": "起こりやすさを数学で表そう",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "確率で「どれくらい起こりそうか」を数字で表そう！",
+      "background": "candy",
+      "title": "確率",
+      "emoji": "🎲",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "どれくらい起こりそうか数字で表す！",
+      "background": "space",
+      "title": "確率とは？",
+      "content": "確率は事象の起こりやすさを0〜1の数で表します。0は絶対起きない、1は必ず起きる！",
+      "emoji": "🎲",
+      "highlight": "確率 = 起こりやすさ (0〜1)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "0から1の数字で表す確率！",
+      "background": "forest",
+      "title": "確率の表し方",
+      "content": "確率＝起こりうる場合の数÷全体の場合の数。分数かパーセントで表すことが多い！",
+      "emoji": "📊",
+      "highlight": "確率 = 場合の数 ÷ 全体"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "サイコロを振った時の確率！",
+      "background": "classroom",
+      "title": "サイコロの確率",
+      "content": "サイコロ6面で1が出る確率：1/6≒16.7%。ゲームバランスの設計に使われます！",
+      "emoji": "🎲",
+      "highlight": "サイコロで1が出る = 1/6"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "コインを投げた時の確率！",
+      "background": "city",
+      "title": "コインの確率",
+      "content": "コイン表が出る確率：1/2＝50%。2回投げても毎回50%。過去の結果に影響されない！",
+      "emoji": "🪙",
+      "highlight": "コイン表 = 1/2 (毎回50%)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "トランプカードの確率！",
+      "background": "candy",
+      "title": "カードの確率",
+      "content": "トランプ52枚からハートを引く確率：13/52＝1/4＝25%。カードゲームの戦略に！",
+      "emoji": "🃏",
+      "highlight": "トランプでハート = 13/52"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ある事象が起きない確率！",
+      "background": "ocean",
+      "title": "余事象",
+      "content": "1が出ない確率＝1－1/6＝5/6。余事象の確率＝1－その事象の確率！",
+      "emoji": "🔄",
+      "highlight": "余事象 = 1 - 確率"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "独立した2つの事象の確率！",
+      "background": "classroom",
+      "title": "独立事象",
+      "content": "コインを2回投げて両方表：1/2×1/2＝1/4。独立事象は確率を掛け合わせます！",
+      "emoji": "✖️",
+      "highlight": "独立事象 = 確率を掛け合わせる"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "実生活での確率の活用！",
+      "background": "forest",
+      "title": "確率の応用",
+      "content": "天気予報・医療・保険・ゲーム設計…確率は現代社会の意思決定に欠かせません！",
+      "emoji": "🌍",
+      "highlight": "天気・医療・ゲーム設計に活用！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "確率の考え方が分かってきたね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

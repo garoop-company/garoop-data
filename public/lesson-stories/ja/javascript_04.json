@@ -1,0 +1,131 @@
+{
+  "title": "DOM操作",
+  "description": "HTMLをJSで動的に変えよう",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "JSでHTMLを動かそう！インタラクティブなWebの仕組み！",
+      "background": "city",
+      "title": "DOM操作",
+      "emoji": "🌐",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "WebページをJSで操作する仕組みだよ！",
+      "background": "space",
+      "title": "DOMって何？",
+      "content": "DOMはHTMLをオブジェクトとして表現したもの。JSはこれを通じてページを書き換えられます！",
+      "emoji": "🌐",
+      "highlight": "DOM = HTMLのオブジェクト表現"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "HTMLの要素をJSで取得する方法！",
+      "background": "forest",
+      "title": "要素の取得",
+      "content": "document.getElementById('id')、querySelector('.class')などで要素を取得！",
+      "emoji": "🔍",
+      "highlight": "getElementById / querySelector"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "取得した要素のテキストや内容を変えよう！",
+      "background": "classroom",
+      "title": "要素の変更",
+      "content": "element.textContent = 'New text'でテキスト変更。innerHTML でHTMLごと変更！",
+      "emoji": "✏️",
+      "highlight": "textContent / innerHTML"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "新しい要素を追加したり削除したりできる！",
+      "background": "city",
+      "title": "要素の追加・削除",
+      "content": "document.createElement('div')で作成、appendChild()で追加、remove()で削除！",
+      "emoji": "➕",
+      "highlight": "createElement / appendChild / remove"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JSでCSSを動的に変更できるよ！",
+      "background": "candy",
+      "title": "スタイルの変更",
+      "content": "element.style.color = 'red'でCSSをJS から設定！クラスの追加はclassList.add()！",
+      "emoji": "🎨",
+      "highlight": "style.color / classList.add"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "href、src、classなどの属性を操作しよう！",
+      "background": "ocean",
+      "title": "属性の操作",
+      "content": "element.getAttribute('href')で取得、setAttribute('href','URL')で設定！",
+      "emoji": "🏷️",
+      "highlight": "getAttribute / setAttribute"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "親・子・兄弟の要素にアクセスする方法！",
+      "background": "classroom",
+      "title": "DOMの走査",
+      "content": "parentNode、children、nextSiblingなどで要素ツリーを移動できます！",
+      "emoji": "🌳",
+      "highlight": "parentNode children nextSibling"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ボタンを押すたびカウントアップしよう！",
+      "background": "forest",
+      "title": "実践：カウンター",
+      "content": "let count = 0; button.onclick = () => { count++; display.textContent = count; }",
+      "emoji": "🖱️",
+      "highlight": "count++ → 表示更新！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "DOM操作でWebページが動かせるようになったね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "JavaScript是什么？",
+  "description": "让网页动起来的神奇语言！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "大家好！今天我们学JavaScript，让网站变得超酷的语言！",
+      "background": "city",
+      "title": "欢迎来到JavaScript的世界！",
+      "emoji": "🟨",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JavaScript是让网页能够移动和响应的语言！",
+      "background": "city",
+      "title": "JavaScript = 互动网页语言",
+      "content": "网页上的按钮、游戏、动画和弹窗通常都用JavaScript。网页三剑客：HTML + CSS + JS！",
+      "emoji": "⚡",
+      "highlight": "🌐 网页 = HTML + CSS + JavaScript"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "console.log可以在浏览器中显示消息，调试很方便！",
+      "background": "classroom",
+      "title": "试试console.log",
+      "content": "打开浏览器开发者工具，你就能看到你写的消息。这是程序员检查代码的方法！",
+      "emoji": "🖥️",
+      "highlight": "console.log(\"你好，世界！\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "let和const变量用来在JavaScript中存储数据！",
+      "background": "forest",
+      "title": "变量：let和const",
+      "content": "用'let'存储可变数据，'const'存储固定数据。就像可以改名或不能改名的牌子！",
+      "emoji": "📝",
+      "highlight": "let age = 10;\nconst name = '小明';"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "函数是可以多次调用的代码块，就像做饭的食谱！",
+      "background": "ocean",
+      "title": "函数 = 可复用代码块",
+      "content": "写一次函数，调用多次！这让代码更整洁易懂。",
+      "emoji": "🧑‍🍳",
+      "highlight": "function greet() {\n  alert('你好！');\n}\ngreet();"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "DOM是JavaScript直接修改网页界面的方式！",
+      "background": "city",
+      "title": "DOM操作",
+      "content": "JavaScript可以修改网页上的文字、颜色和元素，让网站变得动态和互动！",
+      "emoji": "✏️",
+      "highlight": "document.getElementById('title')\n  .textContent = '新标题！';"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "事件监听器让网站能响应用户动作比如点击！",
+      "background": "candy",
+      "title": "事件 = 用户行为",
+      "content": "点击按钮、移动鼠标、按键盘 - 这些都是JavaScript能响应的'事件'！",
+      "emoji": "👆",
+      "highlight": "btn.addEventListener('click',\n  () => alert('被点击了！'));"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "数组是存储在一个变量中的值的列表！",
+      "background": "classroom",
+      "title": "数组 = 数据集合",
+      "content": "数组可以同时存储多个值。用从0开始的序号访问！",
+      "emoji": "📋",
+      "highlight": "const colors = ['红','蓝','绿'];\nconsole.log(colors[1]); // 蓝"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "现代JavaScript有很多强大功能，被世界最大的网站使用！",
+      "background": "space",
+      "title": "JavaScript在真实世界",
+      "content": "Facebook、YouTube、Twitter几乎所有大网站都用JavaScript。这是非常抢手的技能！",
+      "emoji": "🌍",
+      "highlight": "📱 网页应用  🎮 浏览器游戏  🤖 Node.js服务器"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "太厉害了！你已经迈入了JavaScript的世界！继续学习吧！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🚀",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

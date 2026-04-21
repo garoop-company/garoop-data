@@ -1,0 +1,131 @@
+{
+  "title": "Lists and Dictionaries",
+  "description": "Collections for managing data together",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Manage data smartly with lists and dictionaries!",
+      "background": "forest",
+      "title": "Lists and Dictionaries",
+      "emoji": "📋",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "A container that holds multiple values!",
+      "background": "forest",
+      "title": "Basic Lists",
+      "content": "fruits = ['apple','orange','banana'] creates a list. Access with fruits[0]='apple'!",
+      "emoji": "📋",
+      "highlight": "list = [value1, value2, value3, ...]"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Add, remove, and change items in a list!",
+      "background": "classroom",
+      "title": "List Operations",
+      "content": "append() to add, remove() to delete, pop() to take last item, len() to get the length!",
+      "emoji": "⚙️",
+      "highlight": "append add  remove delete  pop take  len length"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Extract a portion of a list!",
+      "background": "city",
+      "title": "Slicing",
+      "content": "fruits[1:3] gets items 1-2. fruits[:2] gets the first 2. fruits[::2] skips every other!",
+      "emoji": "✂️",
+      "highlight": "list[start:end:step] → partial extraction"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Manage data with key-value pairs!",
+      "background": "candy",
+      "title": "Basic Dictionaries",
+      "content": "person = {'name':'Alice','age':10} manages data with names as keys!",
+      "emoji": "📖",
+      "highlight": "dict = {key: value, key: value, ...}"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Add, change, and delete dictionary data!",
+      "background": "ocean",
+      "title": "Dictionary Operations",
+      "content": "person['email'] = 'a@a.com' to add, del person['age'] to delete, person.keys() for all keys!",
+      "emoji": "✏️",
+      "highlight": "d[key] = value  del d[key]  d.keys()"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "An immutable list is called a tuple!",
+      "background": "forest",
+      "title": "Tuples",
+      "content": "point = (3, 5) creates a tuple with (). It can't be changed. Use for coordinates and config values!",
+      "emoji": "🔒",
+      "highlight": "(1, 2, 3) → immutable list"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Collections without duplicates!",
+      "background": "classroom",
+      "title": "Sets",
+      "content": "colors = {'red','blue','green'} — sets automatically remove duplicates. Union and intersection operations too!",
+      "emoji": "🎲",
+      "highlight": "{'a','b','c'} → no duplicates automatically"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Pick the right structure for the job!",
+      "background": "space",
+      "title": "Choosing Data Structures",
+      "content": "Ordered? → List. Lookup by key? → Dict. Immutable? → Tuple. No duplicates? → Set. Choose by purpose!",
+      "emoji": "🗂️",
+      "highlight": "List · Dict · Tuple · Set → choose by purpose!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You can now use data structures!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

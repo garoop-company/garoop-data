@@ -1,0 +1,131 @@
+{
+  "title": "Pythonとは",
+  "description": "最も人気のプログラミング言語を学ぼう",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと一緒にPythonの世界へ出発しよう！",
+      "background": "forest",
+      "title": "Pythonとは",
+      "emoji": "🐍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Pythonは世界で最も人気のプログラミング言語だよ！",
+      "background": "forest",
+      "title": "Pythonって何？",
+      "content": "PythonはAI、データサイエンス、Web開発に使われる言語です。シンプルで読みやすく、初心者にも最適！",
+      "emoji": "🐍",
+      "highlight": "🐍 Python = シンプルで強力な言語"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Pythonができると将来の扉が開く！",
+      "background": "city",
+      "title": "なぜPythonを学ぶ？",
+      "content": "Google、Instagram、NASA、YouTubeもPythonを使っています。AI開発の標準言語で、需要は世界トップクラス！",
+      "emoji": "🌟",
+      "highlight": "🌐 Google 📸 Instagram 🚀 NASA で使用"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "まず環境を整えよう！",
+      "background": "classroom",
+      "title": "Pythonのインストール",
+      "content": "python.orgからダウンロードして、VS CodeかPyCharmをインストール。またはGoogle Colabなら無料でブラウザから使えます！",
+      "emoji": "💻",
+      "highlight": "🆓 Google Colab → ブラウザで今すぐ開始！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "「Hello, World!」を表示させてみよう！",
+      "background": "forest",
+      "title": "最初のコード",
+      "content": "print('Hello, World!') たったこれだけ！1行でプログラムが動く。これがPythonの魅力です！",
+      "emoji": "💡",
+      "highlight": "print('Hello, World!') → 画面に表示！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "読みやすいコードを書くコツだよ！",
+      "background": "classroom",
+      "title": "コメントとインデント",
+      "content": "#でコメントを書き、スペース4つでインデントします。Pythonはインデントが文法の一部なのでとても重要！",
+      "emoji": "📝",
+      "highlight": "# コメント  →  コードの説明\nインデント → 構造を示す"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Pythonでどんなものが作れる？",
+      "background": "candy",
+      "title": "Pythonの用途",
+      "content": "Webサービス、AI・機械学習、データ分析、自動化スクリプト、ゲーム…可能性は無限大！",
+      "emoji": "🚀",
+      "highlight": "🌐Web 🤖AI 📊データ 🔧自動化 🎮ゲーム"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Pythonは世界中のプログラマーが使ってる！",
+      "background": "ocean",
+      "title": "Pythonコミュニティ",
+      "content": "Stack Overflow、GitHub、PyPI（パッケージ）…世界最大級のコミュニティが助けてくれます！",
+      "emoji": "🌍",
+      "highlight": "👥 世界最大級のプログラマーコミュニティ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "学習ロードマップを見てみよう！",
+      "background": "space",
+      "title": "Pythonへの第一歩",
+      "content": "基本文法 → データ構造 → 関数 → ライブラリ → プロジェクト。一歩一歩確実に進もう！",
+      "emoji": "🗺️",
+      "highlight": "基礎 → 応用 → プロジェクト → プロ！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pythonの世界への第一歩、すごいよ！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

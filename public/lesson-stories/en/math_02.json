@@ -1,0 +1,131 @@
+{
+  "title": "Multiplication & Division",
+  "description": "Learn Multiplication & Division in a fun and engaging way with Garuchan!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn Multiplication & Division with Garuchan!",
+      "background": "classroom",
+      "title": "Multiplication & Division",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Multiplication & Division with Garuchan!",
+      "background": "space",
+      "title": "Multiplication & Division - Part 1",
+      "content": "This is lesson 2 about Multiplication & Division. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Multiplication & Division - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Multiplication & Division with Garuchan!",
+      "background": "forest",
+      "title": "Multiplication & Division - Part 2",
+      "content": "This is lesson 2 about Multiplication & Division. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Multiplication & Division - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Multiplication & Division with Garuchan!",
+      "background": "classroom",
+      "title": "Multiplication & Division - Part 3",
+      "content": "This is lesson 2 about Multiplication & Division. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Multiplication & Division - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Multiplication & Division with Garuchan!",
+      "background": "city",
+      "title": "Multiplication & Division - Part 4",
+      "content": "This is lesson 2 about Multiplication & Division. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Multiplication & Division - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Multiplication & Division with Garuchan!",
+      "background": "candy",
+      "title": "Multiplication & Division - Part 5",
+      "content": "This is lesson 2 about Multiplication & Division. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Multiplication & Division - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Multiplication & Division with Garuchan!",
+      "background": "ocean",
+      "title": "Multiplication & Division - Part 6",
+      "content": "This is lesson 2 about Multiplication & Division. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Multiplication & Division - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Multiplication & Division with Garuchan!",
+      "background": "classroom",
+      "title": "Multiplication & Division - Part 7",
+      "content": "This is lesson 2 about Multiplication & Division. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Multiplication & Division - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Multiplication & Division with Garuchan!",
+      "background": "forest",
+      "title": "Multiplication & Division - Part 8",
+      "content": "This is lesson 2 about Multiplication & Division. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Multiplication & Division - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Lesson complete! Great work!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

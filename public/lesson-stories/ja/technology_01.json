@@ -1,0 +1,131 @@
+{
+  "title": "最新テクノロジーとは",
+  "description": "ガルちゃんと楽しく最新テクノロジーとはを学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと最新テクノロジーとはを学ぼう！",
+      "background": "space",
+      "title": "最新テクノロジーとは",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと最新テクノロジーとはを学ぼう！",
+      "background": "space",
+      "title": "最新テクノロジーとは - Part 1",
+      "content": "This is lesson 1 about 最新テクノロジーとは. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 最新テクノロジーとは - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと最新テクノロジーとはを学ぼう！",
+      "background": "forest",
+      "title": "最新テクノロジーとは - Part 2",
+      "content": "This is lesson 1 about 最新テクノロジーとは. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 最新テクノロジーとは - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと最新テクノロジーとはを学ぼう！",
+      "background": "classroom",
+      "title": "最新テクノロジーとは - Part 3",
+      "content": "This is lesson 1 about 最新テクノロジーとは. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 最新テクノロジーとは - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと最新テクノロジーとはを学ぼう！",
+      "background": "city",
+      "title": "最新テクノロジーとは - Part 4",
+      "content": "This is lesson 1 about 最新テクノロジーとは. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 最新テクノロジーとは - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと最新テクノロジーとはを学ぼう！",
+      "background": "candy",
+      "title": "最新テクノロジーとは - Part 5",
+      "content": "This is lesson 1 about 最新テクノロジーとは. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 最新テクノロジーとは - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと最新テクノロジーとはを学ぼう！",
+      "background": "ocean",
+      "title": "最新テクノロジーとは - Part 6",
+      "content": "This is lesson 1 about 最新テクノロジーとは. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 最新テクノロジーとは - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと最新テクノロジーとはを学ぼう！",
+      "background": "classroom",
+      "title": "最新テクノロジーとは - Part 7",
+      "content": "This is lesson 1 about 最新テクノロジーとは. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 最新テクノロジーとは - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと最新テクノロジーとはを学ぼう！",
+      "background": "forest",
+      "title": "最新テクノロジーとは - Part 8",
+      "content": "This is lesson 1 about 最新テクノロジーとは. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 最新テクノロジーとは - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レッスン完了！よくできました！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

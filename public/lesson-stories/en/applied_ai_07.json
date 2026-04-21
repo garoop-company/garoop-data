@@ -1,0 +1,131 @@
+{
+  "title": "Using AI Tools",
+  "description": "Learn Using AI Tools in a fun and engaging way with Garuchan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn Using AI Tools with Garuchan!",
+      "background": "space",
+      "title": "Using AI Tools",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Using AI Tools with Garuchan!",
+      "background": "space",
+      "title": "Using AI Tools - Part 1",
+      "content": "This is lesson 7 about Using AI Tools. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Using AI Tools - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Using AI Tools with Garuchan!",
+      "background": "forest",
+      "title": "Using AI Tools - Part 2",
+      "content": "This is lesson 7 about Using AI Tools. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Using AI Tools - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Using AI Tools with Garuchan!",
+      "background": "classroom",
+      "title": "Using AI Tools - Part 3",
+      "content": "This is lesson 7 about Using AI Tools. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Using AI Tools - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Using AI Tools with Garuchan!",
+      "background": "city",
+      "title": "Using AI Tools - Part 4",
+      "content": "This is lesson 7 about Using AI Tools. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Using AI Tools - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Using AI Tools with Garuchan!",
+      "background": "candy",
+      "title": "Using AI Tools - Part 5",
+      "content": "This is lesson 7 about Using AI Tools. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Using AI Tools - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Using AI Tools with Garuchan!",
+      "background": "ocean",
+      "title": "Using AI Tools - Part 6",
+      "content": "This is lesson 7 about Using AI Tools. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Using AI Tools - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Using AI Tools with Garuchan!",
+      "background": "classroom",
+      "title": "Using AI Tools - Part 7",
+      "content": "This is lesson 7 about Using AI Tools. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Using AI Tools - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Using AI Tools with Garuchan!",
+      "background": "forest",
+      "title": "Using AI Tools - Part 8",
+      "content": "This is lesson 7 about Using AI Tools. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Using AI Tools - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Lesson complete! Great work!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

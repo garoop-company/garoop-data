@@ -1,0 +1,131 @@
+{
+  "title": "Using Libraries",
+  "description": "Leverage Python's powerful library ecosystem",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Explore the treasure trove of Python libraries!",
+      "background": "space",
+      "title": "Using Libraries",
+      "emoji": "📚",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Collections of useful code made by others!",
+      "background": "space",
+      "title": "What are Libraries?",
+      "content": "Libraries let you skip writing from scratch! Just import them and use powerful features right away!",
+      "emoji": "📚",
+      "highlight": "import library_name → powerful features instantly!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "The command to install libraries!",
+      "background": "forest",
+      "title": "pip - Package Manager",
+      "content": "pip install numpy and similar commands install libraries. PyPI has over 300,000 packages!",
+      "emoji": "📦",
+      "highlight": "pip install package_name → installed!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ultra-fast numerical calculations!",
+      "background": "classroom",
+      "title": "NumPy - Numerical Computing",
+      "content": "NumPy handles matrix and statistical calculations at high speed. The foundational library for AI and ML!",
+      "emoji": "🔢",
+      "highlight": "import numpy as np → ultimate number crunching"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Analyze tabular data easily!",
+      "background": "city",
+      "title": "Pandas - Data Analysis",
+      "content": "Excel-like data manipulation in Python. Easy data loading, transformation, and aggregation!",
+      "emoji": "📊",
+      "highlight": "import pandas as pd → classic data analysis tool"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Visualize data with charts!",
+      "background": "candy",
+      "title": "Matplotlib - Graphing",
+      "content": "Line charts, bar charts, scatter plots… import matplotlib.pyplot as plt to create graphs!",
+      "emoji": "📈",
+      "highlight": "import matplotlib → graphs made easy!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Get data from the internet!",
+      "background": "ocean",
+      "title": "requests - Web Communication",
+      "content": "requests.get(URL) fetches web page data. The basic library for getting data from APIs!",
+      "emoji": "🌐",
+      "highlight": "requests.get(URL) → get web data!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Easy date and time operations!",
+      "background": "forest",
+      "title": "datetime - Dates and Times",
+      "content": "from datetime import datetime → now = datetime.now() gets the current time!",
+      "emoji": "🕐",
+      "highlight": "datetime.now() → get current date/time!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Libraries built into Python from the start!",
+      "background": "space",
+      "title": "Standard Library Treasure",
+      "content": "os (files), sys (system), math (math), random (random numbers)… no installation needed!",
+      "emoji": "🎁",
+      "highlight": "os / sys / math / random → built-in!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "With libraries, your capabilities just expanded enormously!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

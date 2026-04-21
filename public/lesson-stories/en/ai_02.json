@@ -1,0 +1,131 @@
+{
+  "title": "Machine Learning Basics",
+  "description": "Understand how computers learn on their own",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "What does machine learning mean? Let's discover it together!",
+      "background": "forest",
+      "title": "Machine Learning Basics",
+      "emoji": "📈",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Machine learning is the core of AI!",
+      "background": "forest",
+      "title": "What is Machine Learning?",
+      "content": "Machine learning is technology that lets computers automatically find patterns in data. Programmers no longer need to write every rule!",
+      "emoji": "📈",
+      "highlight": "Data → Automatic Learning → Predictions"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Teach it by showing the right answers!",
+      "background": "classroom",
+      "title": "Supervised Learning",
+      "content": "You label data as 'cat' or 'dog' and let the AI learn from examples. It's like studying with an answer key!",
+      "emoji": "📚",
+      "highlight": "Example: ✉️ Spam detection 🏠 Home price prediction"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Finding patterns without being told the answers!",
+      "background": "city",
+      "title": "Unsupervised Learning",
+      "content": "Without labels, AI finds its own groups and patterns. Great for customer segmentation and anomaly detection!",
+      "emoji": "🔍",
+      "highlight": "👥 Clustering → Grouping similar items"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Learning through trial and error like a game!",
+      "background": "candy",
+      "title": "Reinforcement Learning",
+      "content": "Reward for success, penalty for failure. This is how AI beat world champions at Go and chess!",
+      "emoji": "🎮",
+      "highlight": "✅ Success → Reward ❌ Fail → Penalty → Improve!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Too much memorizing can be a problem!",
+      "background": "forest",
+      "title": "Overfitting vs Generalization",
+      "content": "When AI memorizes training data too well, it fails on new data. This is 'overfitting'. Balance is key!",
+      "emoji": "⚖️",
+      "highlight": "📖 Memorize vs 💡 Understand → Understanding wins!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "What you show AI matters enormously!",
+      "background": "ocean",
+      "title": "Feature Engineering",
+      "content": "Which 'features' of data you train the AI on determines accuracy. Choosing good features is a human job!",
+      "emoji": "🔧",
+      "highlight": "🎯 Good data + Good features = Smart AI"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "How do you measure how smart an AI is?",
+      "background": "classroom",
+      "title": "Evaluating Models",
+      "content": "Accuracy, precision, recall, F1-score — these measure AI performance. Like a grade on a test!",
+      "emoji": "📊",
+      "highlight": "Accuracy 🎯 Recall 📊 F1-score 📈"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Machine learning is everywhere!",
+      "background": "space",
+      "title": "Machine Learning Applications",
+      "content": "Medical diagnosis, financial prediction, automatic translation, image recognition... ML is revolutionizing every industry!",
+      "emoji": "🌍",
+      "highlight": "🏥 Medicine 💰 Finance 🌐 Translation 📸 Images"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You're starting to understand machine learning! Keep it up!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

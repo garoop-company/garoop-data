@@ -1,0 +1,131 @@
+{
+  "title": "Kỹ thuật đọc to",
+  "description": "Học Kỹ thuật đọc to theo cách thú vị cùng Garuchan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Kỹ thuật đọc to cùng Garuchan!",
+      "background": "candy",
+      "title": "Kỹ thuật đọc to",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Kỹ thuật đọc to cùng Garuchan!",
+      "background": "space",
+      "title": "Kỹ thuật đọc to - Part 1",
+      "content": "This is lesson 9 about Kỹ thuật đọc to. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Kỹ thuật đọc to - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Kỹ thuật đọc to cùng Garuchan!",
+      "background": "forest",
+      "title": "Kỹ thuật đọc to - Part 2",
+      "content": "This is lesson 9 about Kỹ thuật đọc to. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Kỹ thuật đọc to - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Kỹ thuật đọc to cùng Garuchan!",
+      "background": "classroom",
+      "title": "Kỹ thuật đọc to - Part 3",
+      "content": "This is lesson 9 about Kỹ thuật đọc to. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Kỹ thuật đọc to - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Kỹ thuật đọc to cùng Garuchan!",
+      "background": "city",
+      "title": "Kỹ thuật đọc to - Part 4",
+      "content": "This is lesson 9 about Kỹ thuật đọc to. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Kỹ thuật đọc to - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Kỹ thuật đọc to cùng Garuchan!",
+      "background": "candy",
+      "title": "Kỹ thuật đọc to - Part 5",
+      "content": "This is lesson 9 about Kỹ thuật đọc to. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Kỹ thuật đọc to - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Kỹ thuật đọc to cùng Garuchan!",
+      "background": "ocean",
+      "title": "Kỹ thuật đọc to - Part 6",
+      "content": "This is lesson 9 about Kỹ thuật đọc to. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Kỹ thuật đọc to - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Kỹ thuật đọc to cùng Garuchan!",
+      "background": "classroom",
+      "title": "Kỹ thuật đọc to - Part 7",
+      "content": "This is lesson 9 about Kỹ thuật đọc to. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Kỹ thuật đọc to - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Kỹ thuật đọc to cùng Garuchan!",
+      "background": "forest",
+      "title": "Kỹ thuật đọc to - Part 8",
+      "content": "This is lesson 9 about Kỹ thuật đọc to. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Kỹ thuật đọc to - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "AIの倫理",
+  "description": "AIを正しく使うための考え方",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "AIを正しく、安全に使うための倫理を学ぼう！",
+      "background": "classroom",
+      "title": "AIの倫理",
+      "emoji": "⚖️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIを正しく使うためのルールだよ！",
+      "background": "classroom",
+      "title": "AIの倫理って何？",
+      "content": "AIの倫理とは、AIが社会に与える影響を考え、正しく・安全・公平に使うための考え方です。技術と人間の関係を考えます！",
+      "emoji": "⚖️",
+      "highlight": "🤖 AI技術 + 🧭 倫理 = 良い社会"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIが差別してしまうことがあるよ！",
+      "background": "city",
+      "title": "バイアス（偏見）の問題",
+      "content": "AIは学習データの偏りを反映します。男性のデータだけで学習した採用AIが女性を不公平に扱った例があります！",
+      "emoji": "⚠️",
+      "highlight": "⚠️ 偏ったデータ → ❌ 偏ったAI"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "個人情報をAIに渡してもいい？",
+      "background": "forest",
+      "title": "プライバシーの保護",
+      "content": "AIは大量の個人データで学習します。どのデータを使っていいか、どう保護するかが大きな問題です！",
+      "emoji": "🔒",
+      "highlight": "🔒 個人情報 + AI = プライバシー問題"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIが偽の情報を作り出せるよ！",
+      "background": "candy",
+      "title": "フェイクニュースとディープフェイク",
+      "content": "実在しない人の顔動画（ディープフェイク）や偽ニュースをAIで作れてしまいます。見分け方を学ぶことが大切！",
+      "emoji": "🎭",
+      "highlight": "👁️ 批判的に見る目を持とう"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIが仕事を奪う？一緒に考えよう",
+      "background": "ocean",
+      "title": "AIと仕事",
+      "content": "単純作業はAIに置き換わりますが、新しい仕事も生まれます。AIと協力できるスキルを身につけることが大切！",
+      "emoji": "💼",
+      "highlight": "❌ 単純作業 ✅ 創造的仕事 ✅ AI管理"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIに関するルールを作る動きがあるよ！",
+      "background": "classroom",
+      "title": "AI規制と法律",
+      "content": "EU AI法、日本のAI戦略…各国がAIのルールを作っています。安全で公平なAI社会のためのルール作りです！",
+      "emoji": "📋",
+      "highlight": "🇪🇺 EU AI法 🇯🇵 日本のAI戦略"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIを作る人たちの責任って何だろう？",
+      "background": "forest",
+      "title": "責任あるAI開発",
+      "content": "公平性、透明性、安全性、プライバシー…AI開発者はこれらを守る責任があります。良い技術は良い心から！",
+      "emoji": "🛡️",
+      "highlight": "✅ 公平 ✅ 透明 ✅ 安全 ✅ プライバシー"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "一人一人がAI社会の一員だよ！",
+      "background": "space",
+      "title": "私たちにできること",
+      "content": "情報を批判的に読む、AIの決定に疑問を持つ、プライバシーを守る…市民としてAI社会を賢く生きていきましょう！",
+      "emoji": "🌟",
+      "highlight": "🧠 批判的思考 + 🔍 情報確認 = 賢い市民"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "AIの倫理を考えられる賢い人になってきたね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "一起做游戏！",
+  "description": "迈向制作自己游戏的第一步！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "bounce",
+      "speech": "想象一下你能做自己的游戏！让我们开始这段冒险吧！",
+      "background": "candy",
+      "title": "欢迎来到游戏开发的世界！",
+      "emoji": "🎮",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "游戏开发是用电脑从零开始制作游戏的过程！",
+      "background": "city",
+      "title": "什么是游戏开发？",
+      "content": "游戏开发者结合编程、美术、音乐和设计，创造出有趣的游戏体验！",
+      "emoji": "🛠️",
+      "highlight": "代码 + 美术 + 音乐 + 设计 = 游戏！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "游戏在循环中运行！不断检测、更新和绘制屏幕！",
+      "background": "classroom",
+      "title": "游戏循环 = 游戏的心脏",
+      "content": "每个游戏都有循环：读取输入 → 更新游戏世界 → 渲染到屏幕 → 重复！每秒发生60次！",
+      "emoji": "🔄",
+      "highlight": "输入 → 更新 → 渲染 → 重复！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "玩家输入是在游戏中控制角色的方式！",
+      "background": "forest",
+      "title": "玩家输入",
+      "content": "按按钮、移动摇杆、触摸屏幕 - 这些都是游戏必须捕获和处理的输入！",
+      "emoji": "🕹️",
+      "highlight": "⬆️⬇️⬅️➡️ 按键 → 角色移动！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "精灵是游戏中角色和物体使用的2D图像！",
+      "background": "candy",
+      "title": "精灵 & 动画",
+      "content": "游戏角色由精灵构成。动画通过快速切换精灵来实现，就像翻页书！",
+      "emoji": "🏃",
+      "highlight": "🖼️→🖼️→🖼️ (快速) = 动画！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "游戏中的物理让虚拟世界感觉真实！",
+      "background": "ocean",
+      "title": "游戏物理",
+      "content": "重力、碰撞、跳跃 - 这些都由物理引擎计算。弹跳的球、落下的角色都用物理！",
+      "emoji": "🌍",
+      "highlight": "⬇️ 重力  💥 碰撞  🏀 弹跳"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "音乐和音效让游戏更有趣更令人兴奋！",
+      "background": "city",
+      "title": "音效设计",
+      "content": "音效、背景音乐和配音都增加了游戏的乐趣。想象没有声音的Minecraft - 无聊透了！",
+      "emoji": "🎵",
+      "highlight": "🎮 + 🎵 = 精彩体验！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Unity和Scratch是开始做游戏的热门工具！",
+      "background": "classroom",
+      "title": "游戏制作工具",
+      "content": "Scratch适合初学者 - 拖放操作！Unity供专业人士使用。Godot免费开源。选适合的！",
+      "emoji": "⚙️",
+      "highlight": "🟠 Scratch(初级)  🔵 Unity(专业)  🟣 Godot(免费)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "很多著名游戏是由小团队甚至一个人制作的！",
+      "background": "space",
+      "title": "独立游戏 = 你也能做到！",
+      "content": "Minecraft是1个人做的！Undertale是1个人做的！你也可以制作数百万人喜爱的游戏！",
+      "emoji": "🌟",
+      "highlight": "💡 创意 + 💻 技能 + ❤️ 热情 = 成功游戏！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "太棒了！现在你知道游戏是如何运作的了。开始做你的第一个游戏吧！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

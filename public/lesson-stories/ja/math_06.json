@@ -1,0 +1,131 @@
+{
+  "title": "面積と体積",
+  "description": "広さと容積を計算しよう",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "面積と体積で広さと深さを測ろう！",
+      "background": "ocean",
+      "title": "面積と体積",
+      "emoji": "📐",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "2次元の広さのことだよ！",
+      "background": "space",
+      "title": "面積とは？",
+      "content": "面積とは平面の広さのこと。畳の枚数、部屋の広さ、土地の大きさなどに使います！",
+      "emoji": "📐",
+      "highlight": "面積 = 平面の広さ"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "最も基本的な面積計算！",
+      "background": "forest",
+      "title": "正方形・長方形の面積",
+      "content": "正方形：一辺×一辺。長方形：縦×横。部屋の畳数を計算するときに使います！",
+      "emoji": "🟦",
+      "highlight": "正方形: 辺² 長方形: 縦×横"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "三角形の面積公式を覚えよう！",
+      "background": "classroom",
+      "title": "三角形の面積",
+      "content": "底辺×高さ÷2。直角三角形も同じ公式です。高さは底辺への垂線の長さ！",
+      "emoji": "🔺",
+      "highlight": "三角形: 底辺×高さ÷2"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "πを使った円の面積計算！",
+      "background": "city",
+      "title": "円の面積",
+      "content": "半径×半径×π（約3.14）。ピザやケーキの大きさ比較に使えます！",
+      "emoji": "⭕",
+      "highlight": "円: r²×π (r=半径)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "3次元の大きさのことだよ！",
+      "background": "candy",
+      "title": "体積とは？",
+      "content": "体積とは立体の大きさのこと。お風呂の水の量、箱の容量などに使います！",
+      "emoji": "📦",
+      "highlight": "体積 = 立体の大きさ"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "箱の体積の計算方法！",
+      "background": "ocean",
+      "title": "直方体の体積",
+      "content": "縦×横×高さ。引っ越しの荷物が箱に入るか確認するときに使います！",
+      "emoji": "🧊",
+      "highlight": "直方体: 縦×横×高さ"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "丸い柱の体積計算！",
+      "background": "classroom",
+      "title": "円柱の体積",
+      "content": "底面積（πr²）×高さ。ペットボトルやコップの容量計算に使います！",
+      "emoji": "🔄",
+      "highlight": "円柱: πr²×高さ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "実生活での面積・体積活用！",
+      "background": "forest",
+      "title": "面積・体積の応用",
+      "content": "プールの水の量、冷蔵庫の容量、畑の広さ…面積・体積は設計・建築に必須！",
+      "emoji": "🏗️",
+      "highlight": "建築・設計・料理で使う！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "面積と体積の計算ができるようになったね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

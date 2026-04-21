@@ -1,0 +1,131 @@
+{
+  "title": "टेस्ट-ड्रिभन डेभलपमेन्ट",
+  "description": "Garuchan सँग टेस्ट-ड्रिभन डेभलपमेन्ट रमाईलो तरिकाले सिकौं!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Garuchan सँग टेस्ट-ड्रिभन डेभलपमेन्ट सिकौं!",
+      "background": "forest",
+      "title": "टेस्ट-ड्रिभन डेभलपमेन्ट",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग टेस्ट-ड्रिभन डेभलपमेन्ट सिकौं!",
+      "background": "space",
+      "title": "टेस्ट-ड्रिभन डेभलपमेन्ट - Part 1",
+      "content": "This is lesson 6 about टेस्ट-ड्रिभन डेभलपमेन्ट. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 टेस्ट-ड्रिभन डेभलपमेन्ट - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग टेस्ट-ड्रिभन डेभलपमेन्ट सिकौं!",
+      "background": "forest",
+      "title": "टेस्ट-ड्रिभन डेभलपमेन्ट - Part 2",
+      "content": "This is lesson 6 about टेस्ट-ड्रिभन डेभलपमेन्ट. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 टेस्ट-ड्रिभन डेभलपमेन्ट - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग टेस्ट-ड्रिभन डेभलपमेन्ट सिकौं!",
+      "background": "classroom",
+      "title": "टेस्ट-ड्रिभन डेभलपमेन्ट - Part 3",
+      "content": "This is lesson 6 about टेस्ट-ड्रिभन डेभलपमेन्ट. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 टेस्ट-ड्रिभन डेभलपमेन्ट - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग टेस्ट-ड्रिभन डेभलपमेन्ट सिकौं!",
+      "background": "city",
+      "title": "टेस्ट-ड्रिभन डेभलपमेन्ट - Part 4",
+      "content": "This is lesson 6 about टेस्ट-ड्रिभन डेभलपमेन्ट. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 टेस्ट-ड्रिभन डेभलपमेन्ट - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग टेस्ट-ड्रिभन डेभलपमेन्ट सिकौं!",
+      "background": "candy",
+      "title": "टेस्ट-ड्रिभन डेभलपमेन्ट - Part 5",
+      "content": "This is lesson 6 about टेस्ट-ड्रिभन डेभलपमेन्ट. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 टेस्ट-ड्रिभन डेभलपमेन्ट - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग टेस्ट-ड्रिभन डेभलपमेन्ट सिकौं!",
+      "background": "ocean",
+      "title": "टेस्ट-ड्रिभन डेभलपमेन्ट - Part 6",
+      "content": "This is lesson 6 about टेस्ट-ड्रिभन डेभलपमेन्ट. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 टेस्ट-ड्रिभन डेभलपमेन्ट - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग टेस्ट-ड्रिभन डेभलपमेन्ट सिकौं!",
+      "background": "classroom",
+      "title": "टेस्ट-ड्रिभन डेभलपमेन्ट - Part 7",
+      "content": "This is lesson 6 about टेस्ट-ड्रिभन डेभलपमेन्ट. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 टेस्ट-ड्रिभन डेभलपमेन्ट - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग टेस्ट-ड्रिभन डेभलपमेन्ट सिकौं!",
+      "background": "forest",
+      "title": "टेस्ट-ड्रिभन डेभलपमेन्ट - Part 8",
+      "content": "This is lesson 6 about टेस्ट-ड्रिभन डेभलपमेन्ट. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 टेस्ट-ड्रिभन डेभलपमेन्ट - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "पाठ सम्पन्न! राम्रो काम!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

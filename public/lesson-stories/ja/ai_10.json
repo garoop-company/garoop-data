@@ -1,0 +1,131 @@
+{
+  "title": "AIプロジェクトを始めよう",
+  "description": "実際にAIを使ったプロジェクトに挑戦",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "実際にAIプロジェクトを作ってみよう！一緒に挑戦しよう！",
+      "background": "forest",
+      "title": "AIプロジェクトを始めよう",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "何を作りたいか考えることが最初の一歩！",
+      "background": "forest",
+      "title": "プロジェクトのアイデアを出す",
+      "content": "問題を見つける→AIで解決できるか考える→プロジェクトのゴールを決める。身近な問題から始めよう！",
+      "emoji": "💡",
+      "highlight": "❓ 問題発見 → 💡 アイデア → 🎯 ゴール設定"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIプロジェクトにはデータが命！",
+      "background": "classroom",
+      "title": "データを集める",
+      "content": "Kaggle、Google Dataset、Hugging Faceなどで無料のデータセットが手に入ります。自分でデータを集めることも！",
+      "emoji": "📊",
+      "highlight": "📊 Kaggle / Google Dataset / 自作"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "目的に合ったAIツールを選ぼう！",
+      "background": "city",
+      "title": "ツールを選ぶ",
+      "content": "Google Colab（Python環境）、Teachable Machine（ノーコード）、ChatGPT API（テキストAI）…目的で選ぼう！",
+      "emoji": "🔧",
+      "highlight": "🔰 Teachable Machine → 💻 Google Colab"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ノーコードで画像認識AIが作れる！",
+      "background": "candy",
+      "title": "Teachable Machineを使ってみる",
+      "content": "Googleの無料ツール「Teachable Machine」を使えば、写真を撮るだけで画像認識AIが作れます！30分でOK！",
+      "emoji": "📸",
+      "highlight": "📸 写真撮影 → 学習 → 🤖 AI完成！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "自分のアプリにChatGPTを組み込もう！",
+      "background": "ocean",
+      "title": "ChatGPT APIを使う",
+      "content": "OpenAIのAPIを使えば、自分のプログラムにChatGPTを組み込めます。少しのPythonコードで動かせます！",
+      "emoji": "⚙️",
+      "highlight": "Python + OpenAI API = カスタムAI"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "作ったAIをテストして改善しよう！",
+      "background": "forest",
+      "title": "プロジェクトをテストする",
+      "content": "AIが正しく動くかテスト→うまくいかない原因を探る→改善→また試す。この繰り返しがAIエンジニアの仕事！",
+      "emoji": "🔍",
+      "highlight": "✅ テスト → ❌ バグ発見 → 🔧 修正 → ✅"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "作ったものを世界に見せよう！",
+      "background": "classroom",
+      "title": "プロジェクトを発表する",
+      "content": "GitHub、Qiita、note、YouTubeでプロジェクトを発表しよう。フィードバックをもらって次のプロジェクトに活かそう！",
+      "emoji": "🎤",
+      "highlight": "🚀 GitHub / Qiita / YouTube で発表！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIエンジニアへの道が開けてきた！",
+      "background": "space",
+      "title": "次のステップへ",
+      "content": "Pythonをもっと学ぶ、機械学習のコースを受講する、Kaggleのコンテストに参加する…次のステップはたくさんあります！",
+      "emoji": "🚀",
+      "highlight": "🐍 Python → 📊 ML → 🏆 Kaggle → 🌍 本番"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "AIプロジェクトへの第一歩を踏み出したね！素晴らしい！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

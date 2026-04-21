@@ -1,0 +1,131 @@
+{
+  "title": "変数とデータ型",
+  "description": "JSのデータを管理しよう",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "変数とデータ型でJSのデータを管理しよう！",
+      "background": "classroom",
+      "title": "変数とデータ型",
+      "emoji": "📦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JSの変数宣言は3種類あるよ！",
+      "background": "space",
+      "title": "var/let/constの違い",
+      "content": "var（古い）→ let（ブロックスコープ）→ const（定数）。基本はconst、変える必要があればlet！",
+      "emoji": "📦",
+      "highlight": "var(古) → let → const(推奨)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "文字列は引用符で囲むよ！",
+      "background": "forest",
+      "title": "文字列(String)",
+      "content": "'Hello'または\"World\"またはバッククォートで作れます。+で連結、.lengthで長さ取得！",
+      "emoji": "📝",
+      "highlight": "'文字列' または \"文字列\""
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JSの数値は整数も小数も同じ型！",
+      "background": "classroom",
+      "title": "数値(Number)",
+      "content": "整数も小数も全部Numberです。NaN（Not a Number）やInfinityという特殊値もあります！",
+      "emoji": "🔢",
+      "highlight": "整数・小数 = すべてNumber"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "TrueかFalseの2つだけ！",
+      "background": "city",
+      "title": "真偽値(Boolean)",
+      "content": "比較結果や条件チェックに使います。if文とセットで使うことが多い！",
+      "emoji": "✅",
+      "highlight": "true / false"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "空を表す2種類の値があるよ！",
+      "background": "candy",
+      "title": "null と undefined",
+      "content": "null：意図的に空を入れた / undefined：値がまだ代入されていない。どちらも「空」ですが意味が違います！",
+      "emoji": "❓",
+      "highlight": "null(空) vs undefined(未定義)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "型を変換する方法を学ぼう！",
+      "background": "ocean",
+      "title": "型変換",
+      "content": "Number('5')→5、String(5)→'5'、Boolean(0)→false。型変換は頻繁に使います！",
+      "emoji": "🔄",
+      "highlight": "Number() String() Boolean()"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "文字列の中に変数を入れる方法！",
+      "background": "classroom",
+      "title": "テンプレートリテラル",
+      "content": "`こんにちは、${name}さん！`のように書ける。文字列の連結がスッキリします！",
+      "emoji": "✨",
+      "highlight": "`Hello, ${name}!` → 便利！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "JSは実行時に型が決まるんだ！",
+      "background": "forest",
+      "title": "動的型付けとは",
+      "content": "同じ変数に文字列も数値も入れられます。便利だけど注意が必要！",
+      "emoji": "🎭",
+      "highlight": "動的型付け → 実行時に型が決まる"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "JSの変数とデータ型をマスターしたね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

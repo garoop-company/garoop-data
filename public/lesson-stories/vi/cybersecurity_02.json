@@ -1,0 +1,131 @@
+{
+  "title": "Quản lý mật khẩu",
+  "description": "Học Quản lý mật khẩu theo cách thú vị cùng Garuchan!",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Quản lý mật khẩu cùng Garuchan!",
+      "background": "ocean",
+      "title": "Quản lý mật khẩu",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Quản lý mật khẩu cùng Garuchan!",
+      "background": "space",
+      "title": "Quản lý mật khẩu - Part 1",
+      "content": "This is lesson 2 about Quản lý mật khẩu. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Quản lý mật khẩu - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Quản lý mật khẩu cùng Garuchan!",
+      "background": "forest",
+      "title": "Quản lý mật khẩu - Part 2",
+      "content": "This is lesson 2 about Quản lý mật khẩu. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Quản lý mật khẩu - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Quản lý mật khẩu cùng Garuchan!",
+      "background": "classroom",
+      "title": "Quản lý mật khẩu - Part 3",
+      "content": "This is lesson 2 about Quản lý mật khẩu. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Quản lý mật khẩu - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Quản lý mật khẩu cùng Garuchan!",
+      "background": "city",
+      "title": "Quản lý mật khẩu - Part 4",
+      "content": "This is lesson 2 about Quản lý mật khẩu. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Quản lý mật khẩu - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Quản lý mật khẩu cùng Garuchan!",
+      "background": "candy",
+      "title": "Quản lý mật khẩu - Part 5",
+      "content": "This is lesson 2 about Quản lý mật khẩu. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Quản lý mật khẩu - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Quản lý mật khẩu cùng Garuchan!",
+      "background": "ocean",
+      "title": "Quản lý mật khẩu - Part 6",
+      "content": "This is lesson 2 about Quản lý mật khẩu. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Quản lý mật khẩu - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Quản lý mật khẩu cùng Garuchan!",
+      "background": "classroom",
+      "title": "Quản lý mật khẩu - Part 7",
+      "content": "This is lesson 2 about Quản lý mật khẩu. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Quản lý mật khẩu - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Quản lý mật khẩu cùng Garuchan!",
+      "background": "forest",
+      "title": "Quản lý mật khẩu - Part 8",
+      "content": "This is lesson 2 about Quản lý mật khẩu. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Quản lý mật khẩu - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

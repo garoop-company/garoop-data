@@ -1,0 +1,131 @@
+{
+  "title": "非同期処理",
+  "description": "データの取得など時間のかかる処理",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "非同期処理でスムーズなアプリを作ろう！",
+      "background": "space",
+      "title": "非同期処理",
+      "emoji": "⏱️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "なぜ非同期処理が必要なの？",
+      "background": "space",
+      "title": "同期 vs 非同期",
+      "content": "同期:一つずつ順番に実行 vs 非同期:待たずに次へ進む。画像読み込み中でもページが固まらない！",
+      "emoji": "⏱️",
+      "highlight": "同期(順番)  非同期(並行)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "古いやり方のコールバックだよ！",
+      "background": "forest",
+      "title": "コールバック関数",
+      "content": "getData(callback)形式。ネストが深くなると「コールバック地獄」になる問題があります！",
+      "emoji": "📞",
+      "highlight": "callback(err, data) → コールバック地獄"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Promiseで非同期をスッキリ書こう！",
+      "background": "classroom",
+      "title": "Promise",
+      "content": "new Promise((resolve, reject)=>{}).then().catch()でチェーン。コードがスッキリします！",
+      "emoji": "🤝",
+      "highlight": "Promise → .then().catch()"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "さらに読みやすいasync/awaitだよ！",
+      "background": "city",
+      "title": "async/await",
+      "content": "async function getData() { const result = await fetch(url); } まるで同期のように書ける！",
+      "emoji": "⚡",
+      "highlight": "async/await → 同期的な書き方"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Webからデータを取ってこよう！",
+      "background": "candy",
+      "title": "fetch API",
+      "content": "const res = await fetch('API_URL'); const data = await res.json(); でデータ取得！",
+      "emoji": "🌐",
+      "highlight": "await fetch(url).then(r=>r.json())"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "失敗したときの処理を書こう！",
+      "background": "ocean",
+      "title": "エラーハンドリング",
+      "content": "try { await fetch() } catch(e) { console.error(e) } でエラーを安全に処理！",
+      "emoji": "🛡️",
+      "highlight": "try/catch → エラーを安全に処理"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "複数の非同期処理を同時に走らせよう！",
+      "background": "classroom",
+      "title": "並列処理 Promise.all",
+      "content": "await Promise.all([fetch(url1), fetch(url2)])で複数の処理を同時に実行！",
+      "emoji": "🔀",
+      "highlight": "Promise.all([p1, p2]) → 並列実行"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "実際にAPIからデータを取得しよう！",
+      "background": "forest",
+      "title": "実践：天気API",
+      "content": "天気APIを叩いて現在の天気を表示するアプリを作ろう！",
+      "emoji": "⛅",
+      "highlight": "fetch API_URL → 天気データ取得！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "非同期処理をマスターできたね！モダンJSの核心だ！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

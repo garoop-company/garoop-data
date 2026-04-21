@@ -1,0 +1,125 @@
+{
+  "title": "AI के हो?",
+  "description": "कम्प्युटर कसरी बुद्धिमान हुन्छ भनेर अन्वेषण गरौं!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "नमस्ते साथी! AI को संसार अन्वेषण गर्न तयार हुनुहुन्छ? सुरु गरौं!",
+      "background": "space",
+      "title": "AI को संसारमा स्वागत छ!",
+      "emoji": "🤖",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI भनेको कृत्रिम बुद्धिमत्ता - मानिसजस्तै सोच्न सक्ने कम्प्युटर!",
+      "background": "space",
+      "title": "AI = कृत्रिम बुद्धिमत्ता",
+      "content": "Artificial Intelligence (AI) कम्प्युटरलाई आफैं सिक्न, सोच्न र निर्णय गर्न सक्षम बनाउने प्रविधि हो।",
+      "emoji": "🧠",
+      "highlight": "AI = आफैं सिक्न सक्ने कम्प्युटर"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI धेरै डेटाबाट सिक्छ, जसरी तपाईं अनुभवबाट सिक्नुहुन्छ!",
+      "background": "classroom",
+      "title": "AI कसरी सिक्छ?",
+      "content": "Machine Learning भनेको AI ले उदाहरणबाट सिक्ने तरिका हो। जति धेरै डेटा, AI त्यति नै बुद्धिमान!",
+      "emoji": "📚",
+      "highlight": "धेरै डेटा → सिकाइ → AI झन् चतुर"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI को दिमाग मानव दिमाग जस्तै छ तर अङ्कहरूले बनेको!",
+      "background": "city",
+      "title": "न्यूरल नेटवर्क = डिजिटल दिमाग",
+      "content": "Neural Network ले मानव मस्तिष्कको न्यूरोनको काम गर्ने तरिका नक्कल गर्छ। लाखौं डिजिटल जडानहरू सँगै काम गर्छन्!",
+      "emoji": "⚡",
+      "highlight": "मानव न्यूरोन 🧠 → डिजिटल नेटवर्क 💻"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ChatGPT कुरा गर्न सक्छ किनभने यसले अरबौं शब्दहरू पढेको छ!",
+      "background": "forest",
+      "title": "AI च्याटबोट",
+      "content": "LLM जस्तै ChatGPT ले ठूलो मात्रामा पाठबाट सिक्छ, त्यसपछि प्रश्नहरूको जवाफ दिन सक्छ।",
+      "emoji": "💬",
+      "highlight": "📖 खरबौं शब्द → LLM → कुरा गर्न सक्छ!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI ले फोटो र तस्बिर चिन्न सक्छ! अत्यन्त तीखो आँखा जस्तै!",
+      "background": "ocean",
+      "title": "AI तस्बिर पहिचान",
+      "content": "AI ले बिरालो र कुकुरको फोटो छुट्याउन सक्छ, अनुहार पनि पहिचान गर्न सक्छ। मोबाइल क्यामेरामा यो प्रयोग गरिन्छ!",
+      "emoji": "👁️",
+      "highlight": "📸 फोटो → AI विश्लेषण → 'यो बिरालो हो!'"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "जेनेरेटिभ AI ले साधारण पाठबाट तस्बिर, संगीत, भिडियो बनाउन सक्छ!",
+      "background": "candy",
+      "title": "जेनेरेटिभ AI = सिर्जनशील AI",
+      "content": "Midjourney, DALL-E, Suno AI ले तपाईंको विवरणको आधारमा नयाँ कलाकृति बनाउन सक्छन्!",
+      "emoji": "🎨",
+      "highlight": "पाठ → 🖼️ तस्बिर / 🎵 संगीत / 🎬 भिडियो"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI हाम्रो वरिपरि सर्वत्र छ! फोन, गाडी, अस्पतालमा!",
+      "background": "city",
+      "title": "दैनिक जीवनमा AI",
+      "content": "YouTube सिफारिस, Instagram फिल्टर, Google Maps - सबैमा AI छ! तपाईं प्रतिदिन AI प्रयोग गरिरहनुभएको छ!",
+      "emoji": "📱",
+      "highlight": "YouTube 📺 / नक्सा 🗺️ / अनुवाद 🌐 / स्वास्थ्य 🏥"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "भविष्यमा AI ले डाक्टर, वैज्ञानिक र शिक्षकलाई मद्दत गर्नेछ!",
+      "background": "space",
+      "title": "AI को भविष्य",
+      "content": "AI निरन्तर विकास भइरहनेछ र मानवजातिले ठूला समस्याहरू समाधान गर्न मद्दत गर्नेछ। तपाईं पनि राम्रो AI बनाउन सहभागी हुन सक्नुहुन्छ!",
+      "emoji": "🌟",
+      "highlight": "🔬 विज्ञान  🏥 स्वास्थ्य  🌍 वातावरण  🎓 शिक्षा"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "बधाई छ! AI बारे धेरै कुरा सिक्नुभयो! AI लाई राम्रो कामका लागि प्रयोग गर्नुस्!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "⭐",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Loops",
+  "description": "Master repetitive processing",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's automate repetitive tasks with the magic of loops!",
+      "background": "candy",
+      "title": "Loops",
+      "emoji": "🔄",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "A loop that repeats a set number of times!",
+      "background": "candy",
+      "title": "Basic for Loop",
+      "content": "for i in range(5): print(i) outputs 0,1,2,3,4. Also works with lists and strings!",
+      "emoji": "🔄",
+      "highlight": "for i in range(5): → repeats 0 to 4"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Repeats while a condition is True!",
+      "background": "forest",
+      "title": "while Loop",
+      "content": "while count < 10: count += 1 repeats until the condition is False. Watch out for infinite loops!",
+      "emoji": "♾️",
+      "highlight": "while condition: → repeats while True"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Escape from a loop mid-way!",
+      "background": "city",
+      "title": "break Statement",
+      "content": "break forcefully stops the loop. Use it when you've found the answer and don't need to continue!",
+      "emoji": "🛑",
+      "highlight": "break → force exit the loop!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Skip the current iteration!",
+      "background": "classroom",
+      "title": "continue Statement",
+      "content": "continue skips the current iteration and moves to the next. Use to process only even numbers, etc.!",
+      "emoji": "⏭️",
+      "highlight": "continue → skip this one, next!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Process all elements of a list in order!",
+      "background": "candy",
+      "title": "Looping Over Lists",
+      "content": "for item in ['apple','orange','banana']: print(item) processes every item in the list!",
+      "emoji": "📋",
+      "highlight": "for item in list: → process all elements"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Get index and value at the same time!",
+      "background": "ocean",
+      "title": "Using enumerate()",
+      "content": "for i, v in enumerate(['a','b','c']): gets i=0,1,2 and v='a','b','c' simultaneously!",
+      "emoji": "🔢",
+      "highlight": "enumerate() → get number + value at once"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Write loops in one line!",
+      "background": "forest",
+      "title": "List Comprehension",
+      "content": "[x*2 for x in range(5)] creates [0,2,4,6,8]. Code becomes short and clean!",
+      "emoji": "✨",
+      "highlight": "[expr for var in list] → write it short!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Loops inside loops!",
+      "background": "space",
+      "title": "Nested Loops",
+      "content": "Use nested loops for multiplication tables and 2D array processing. Watch out for computation time!",
+      "emoji": "🔲",
+      "highlight": "for i: → for j: → Multiplication table done"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You can now use loops like a pro!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

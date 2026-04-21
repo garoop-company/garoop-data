@@ -1,0 +1,131 @@
+{
+  "title": "Fungsi",
+  "description": "Belajar Python: Fungsi",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ayo belajar Python bersama Garuchan!",
+      "background": "forest",
+      "title": "Fungsi",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Fungsi!",
+      "background": "forest",
+      "title": "Fungsi (1)",
+      "content": "This lesson covers Fungsi — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Fungsi!",
+      "background": "classroom",
+      "title": "Fungsi (2)",
+      "content": "This lesson covers Fungsi — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Fungsi!",
+      "background": "city",
+      "title": "Fungsi (3)",
+      "content": "This lesson covers Fungsi — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Fungsi!",
+      "background": "candy",
+      "title": "Fungsi (4)",
+      "content": "This lesson covers Fungsi — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Fungsi!",
+      "background": "ocean",
+      "title": "Fungsi (5)",
+      "content": "This lesson covers Fungsi — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Fungsi!",
+      "background": "space",
+      "title": "Fungsi (6)",
+      "content": "This lesson covers Fungsi — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Fungsi!",
+      "background": "classroom",
+      "title": "Fungsi (7)",
+      "content": "This lesson covers Fungsi — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Fungsi!",
+      "background": "forest",
+      "title": "Fungsi (8)",
+      "content": "This lesson covers Fungsi — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pelajaran selesai!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

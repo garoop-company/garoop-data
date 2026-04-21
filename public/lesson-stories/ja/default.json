@@ -1,6 +1,6 @@
 {
   "title": "レッスンスタート！",
-  "description": "ガルちゃんと一緒に楽しく学ぼう！",
+  "description": "Garoopへようこそ！ガルちゃんと一緒に楽しく学ぼう！",
   "bgTheme": "space",
   "scenes": [
     {
@@ -10,7 +10,7 @@
       "garuchanAnimation": "wave",
       "speech": "ようこそ！ガルちゃんと一緒に楽しく学ぼう！",
       "background": "space",
-      "title": "レッスンスタート！",
+      "title": "Garoopへようこそ！",
       "emoji": "🌟",
       "effects": ["sparkle", "stars"]
     },
@@ -19,19 +19,67 @@
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "float",
-      "speech": "今日のレッスンをしっかり覚えてね！わからなかったら何度でも見ていいよ！",
+      "speech": "Garoopは子どもたちがテクノロジーとAIを楽しく学べる場所だよ！",
       "background": "city",
-      "title": "いっしょに学ぼう",
-      "content": "新しいことを学ぶのはとても大事なこと。一歩ずつ進んでいこう！",
-      "emoji": "📚",
-      "highlight": "知識 = 未来の力！"
+      "title": "Garoopって何？",
+      "content": "プログラミング、AI、算数、ゲーム開発を楽しい方法で学べるよ。一歩一歩、一緒に進もう！",
+      "emoji": "🎓",
+      "highlight": "💻 プログラミング  🤖 AI  🔢 算数  🎮 ゲーム"
     },
     {
       "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "一番良い学び方は、自分でやってみること！",
+      "background": "classroom",
+      "title": "効果的な学び方",
+      "content": "見るだけじゃなくて、実際に試してみよう！失敗してもOK。失敗こそが成長の証だよ！",
+      "emoji": "✏️",
+      "highlight": "見る → 試す → 失敗 → 直す → 成功！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIはもう私たちの周りにあるんだよ。未来の技術が今ここに！",
+      "background": "space",
+      "title": "AIの世界",
+      "content": "ChatGPT、画像生成AI、音楽AIなど、今すぐ使えるすごい技術がたくさんあるよ！",
+      "emoji": "🤖",
+      "highlight": "🎨 画像AI  🎵 音楽AI  💬 チャットAI  🔧 コードAI"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "プログラミングは未来に必要なスキルだよ！今から始めよう！",
+      "background": "forest",
+      "title": "なぜプログラミングを学ぶの？",
+      "content": "将来の仕事の多くがテクノロジーと関わってくる。今からプログラミングを学ぶことは明るい未来への準備だよ！",
+      "emoji": "💡",
+      "highlight": "2030年：今存在しない仕事の85%が生まれる！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "目標を決めよう！将来どんな人になりたい？",
+      "background": "ocean",
+      "title": "目標を設定しよう！",
+      "content": "プログラマー？ゲームクリエイター？AI研究者？起業家？どんな夢でも、今日から一歩ずつ進めるよ！",
+      "emoji": "🎯",
+      "highlight": "大きな夢 + 小さな一歩 = 成功！"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "bounce",
-      "speech": "よくできました！次のレッスンも頑張ろう！",
+      "speech": "一緒に学ぼう！ガルちゃんはいつでも君のそばにいるよ！",
       "background": "space",
       "title": "レッスン完了！",
       "emoji": "🎉",

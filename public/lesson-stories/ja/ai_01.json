@@ -1,0 +1,131 @@
+{
+  "title": "AIとは何か",
+  "description": "人工知能の世界への入口",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと一緒にAIの世界を探検しよう！",
+      "background": "space",
+      "title": "AIとは何か",
+      "emoji": "🤖",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIは人間の頭脳を真似したコンピューター技術だよ！",
+      "background": "space",
+      "title": "人工知能（AI）って何？",
+      "content": "AI（人工知能）とは、コンピューターが人間のように考えたり、学んだりできる技術のことです。今やスマホや車、ゲームにまで使われています！",
+      "emoji": "🤖",
+      "highlight": "🤖 AI = コンピューターが考える技術"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIの歴史は1950年代から始まったんだよ！",
+      "background": "classroom",
+      "title": "AIの歴史",
+      "content": "1956年に「人工知能」という言葉が生まれました。その後、何度もブームと冬の時代を繰り返し、今のAIは最高に賢くなっています！",
+      "emoji": "📜",
+      "highlight": "1956年→ AI誕生 → 2024年→ 超高性能AI"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIにはいろんな種類があるよ！どれが一番気になる？",
+      "background": "city",
+      "title": "AIの種類",
+      "content": "弱いAI（特定のことだけ得意）と強いAI（何でもできる）があります。今のAIはほとんどが弱いAIですが、特定のことでは人間を超えています！",
+      "emoji": "🎭",
+      "highlight": "🎯 弱いAI（専門家） vs 💡 強いAI（万能）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIは大量のデータから学習するんだ！",
+      "background": "forest",
+      "title": "AIはどうやって学ぶ？",
+      "content": "AIは人間の赤ちゃんと同じように、たくさんの例を見て学びます。写真を1億枚見れば、猫と犬を区別できるようになります！",
+      "emoji": "📊",
+      "highlight": "データ → 学習 → 賢いAI"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "実はAIはもうあちこちにいるんだよ！",
+      "background": "candy",
+      "title": "身の回りのAI",
+      "content": "Siri、Google翻訳、NetflixのおすすめAI、自動運転車…これらは全部AIです！あなたも毎日AIを使っているかもしれません！",
+      "emoji": "🌍",
+      "highlight": "📱スマホ 🚗自動車 🎵音楽 🛒ショッピング"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIがとても上手なことがあるよ！",
+      "background": "ocean",
+      "title": "AIの得意なこと",
+      "content": "画像認識、翻訳、音声認識、チェス・囲碁では世界チャンピオンを超えています。AIは繰り返しの作業がとても得意です！",
+      "emoji": "💪",
+      "highlight": "✅ 画像認識 ✅ 翻訳 ✅ チェス ✅ 音声認識"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIにも弱点があるんだ！",
+      "background": "classroom",
+      "title": "AIの苦手なこと",
+      "content": "感情を理解すること、予想外の状況への対応、常識的な判断はまだ苦手です。AIと人間がお互いの得意を活かすことが大切！",
+      "emoji": "🤔",
+      "highlight": "❌ 感情 ❌ 常識 ❌ 創造性（進化中）"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIが世界をどう変えるか一緒に考えよう！",
+      "background": "space",
+      "title": "AIと未来",
+      "content": "医療、教育、環境問題…AIは人類の大きな問題を解決するかもしれません。あなたもAIを使う未来のリーダーになれる！",
+      "emoji": "🌟",
+      "highlight": "🏥医療 📚教育 🌱環境 🚀宇宙"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "AIの基本をマスターしたね！次のレッスンも楽しみにしよう！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

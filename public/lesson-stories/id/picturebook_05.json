@@ -1,0 +1,131 @@
+{
+  "title": "Penggunaan Warna",
+  "description": "Pelajari Penggunaan Warna dengan cara yang menyenangkan bersama Garuchan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ayo belajar Penggunaan Warna bersama Garuchan!",
+      "background": "candy",
+      "title": "Penggunaan Warna",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Penggunaan Warna bersama Garuchan!",
+      "background": "space",
+      "title": "Penggunaan Warna - Part 1",
+      "content": "This is lesson 5 about Penggunaan Warna. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Penggunaan Warna - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Penggunaan Warna bersama Garuchan!",
+      "background": "forest",
+      "title": "Penggunaan Warna - Part 2",
+      "content": "This is lesson 5 about Penggunaan Warna. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Penggunaan Warna - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Penggunaan Warna bersama Garuchan!",
+      "background": "classroom",
+      "title": "Penggunaan Warna - Part 3",
+      "content": "This is lesson 5 about Penggunaan Warna. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Penggunaan Warna - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Penggunaan Warna bersama Garuchan!",
+      "background": "city",
+      "title": "Penggunaan Warna - Part 4",
+      "content": "This is lesson 5 about Penggunaan Warna. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Penggunaan Warna - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Penggunaan Warna bersama Garuchan!",
+      "background": "candy",
+      "title": "Penggunaan Warna - Part 5",
+      "content": "This is lesson 5 about Penggunaan Warna. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Penggunaan Warna - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Penggunaan Warna bersama Garuchan!",
+      "background": "ocean",
+      "title": "Penggunaan Warna - Part 6",
+      "content": "This is lesson 5 about Penggunaan Warna. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Penggunaan Warna - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Penggunaan Warna bersama Garuchan!",
+      "background": "classroom",
+      "title": "Penggunaan Warna - Part 7",
+      "content": "This is lesson 5 about Penggunaan Warna. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Penggunaan Warna - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Penggunaan Warna bersama Garuchan!",
+      "background": "forest",
+      "title": "Penggunaan Warna - Part 8",
+      "content": "This is lesson 5 about Penggunaan Warna. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Penggunaan Warna - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pelajaran selesai! Kerja bagus!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

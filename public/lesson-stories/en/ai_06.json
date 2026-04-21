@@ -1,0 +1,131 @@
+{
+  "title": "Let's Use ChatGPT",
+  "description": "Master using generative AI tools",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's try using ChatGPT! Let's explore what it can do together!",
+      "background": "space",
+      "title": "Let's Use ChatGPT",
+      "emoji": "🤖",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "The champion of conversational AI assistants!",
+      "background": "space",
+      "title": "What is ChatGPT?",
+      "content": "ChatGPT is a conversational AI made by OpenAI. It can answer questions, write text, create code, and translate — all in one!",
+      "emoji": "🤖",
+      "highlight": "💬 Chat + 🤖 GPT = ChatGPT"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "How you instruct AI makes all the difference!",
+      "background": "forest",
+      "title": "Writing Prompts",
+      "content": "'Explain for a 10-year-old', 'Give me 5 bullet points', 'Include a specific example'... more specific prompts get better answers!",
+      "emoji": "✍️",
+      "highlight": "Specific prompt → Better answers!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ChatGPT can be the ultimate tutor!",
+      "background": "classroom",
+      "title": "Using It for Learning",
+      "content": "Ask anything you don't understand and it explains clearly. Say 'simpler please' or 'give an example' to adjust!",
+      "emoji": "📚",
+      "highlight": "📚 Question → Explanation → Understand → Ask again"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Create stories and poems with AI!",
+      "background": "candy",
+      "title": "Using It for Creativity",
+      "content": "Novels, poetry, scripts, lyrics... share your idea and AI helps create. Human creativity × AI power!",
+      "emoji": "🎭",
+      "highlight": "💡 Idea + 🤖 AI = 🎨 Creative work"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI can help you program!",
+      "background": "ocean",
+      "title": "Writing Code",
+      "content": "Say 'write a calculator in Python' and it writes the code. Paste error messages and say 'fix this' — done!",
+      "emoji": "💻",
+      "highlight": "'Write Python code for...' → Code complete!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Not everything AI says is correct!",
+      "background": "forest",
+      "title": "Fact-Checking is Essential",
+      "content": "ChatGPT can confidently say wrong things (hallucination). Always verify important information from reliable sources!",
+      "emoji": "⚠️",
+      "highlight": "⚠️ AI answer → 🔍 Always verify!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Customize ChatGPT for your needs!",
+      "background": "city",
+      "title": "Plugins and GPTs",
+      "content": "Create custom GPTs or extend functionality with plugins. Build your own personalized AI assistant!",
+      "emoji": "⚙️",
+      "highlight": "🔌 Plugins + ⚙️ GPTs = Custom AI"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Using AI wisely is the skill of the future!",
+      "background": "space",
+      "title": "Using AI Wisely",
+      "content": "AI is a tool. If the person using it isn't smart, it won't help. Partner with AI and focus on what only humans can do!",
+      "emoji": "🌟",
+      "highlight": "🤖 AI power × 💪 Human wisdom = Dream team"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You're getting good at using ChatGPT! Great work!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

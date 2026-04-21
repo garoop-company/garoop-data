@@ -1,0 +1,131 @@
+{
+  "title": "ChatGPTを使ってみよう",
+  "description": "生成AIを実際に使いこなそう",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ChatGPTを使ってみよう！どんなことができるか一緒に体験しよう！",
+      "background": "space",
+      "title": "ChatGPTを使ってみよう",
+      "emoji": "🤖",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "対話型AIアシスタントのチャンピオンだよ！",
+      "background": "space",
+      "title": "ChatGPTって何？",
+      "content": "ChatGPTはOpenAIが作った対話型AIです。質問に答えたり、文章を書いたり、コードを作ったり、翻訳もできます！",
+      "emoji": "🤖",
+      "highlight": "💬 チャット + 🤖 GPT = ChatGPT"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIへの指示の仕方で結果が全然違うよ！",
+      "background": "forest",
+      "title": "プロンプトの書き方",
+      "content": "「小学生に分かるように説明して」「箇条書きで5個」「具体例を入れて」…指示が具体的なほど良い回答が得られます！",
+      "emoji": "✍️",
+      "highlight": "具体的なプロンプト → 良い回答！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ChatGPTは最強の家庭教師になれる！",
+      "background": "classroom",
+      "title": "学習に使う",
+      "content": "分からないことを質問すると、分かりやすく教えてくれます。「もっと簡単に」「例を出して」と言えば調整してくれます！",
+      "emoji": "📚",
+      "highlight": "📚 質問 → 解説 → 理解 → 再質問"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "物語や詩もAIと一緒に作れるよ！",
+      "background": "candy",
+      "title": "創作に使う",
+      "content": "小説、詩、脚本、歌詞…アイデアを伝えれば一緒に作ってくれます。人間の創造性×AIのパワー！",
+      "emoji": "🎭",
+      "highlight": "💡アイデア + 🤖AI = 🎨創作物"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "プログラミングもAIが手伝ってくれる！",
+      "background": "ocean",
+      "title": "コードを書かせる",
+      "content": "「Pythonで計算機を作って」と言えばコードを書いてくれます。エラーが出たら貼り付けて「直して」と言えばOK！",
+      "emoji": "💻",
+      "highlight": "「Pythonで○○して」→ コード完成！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIの言うことが全部正しいとは限らない！",
+      "background": "forest",
+      "title": "ファクトチェックが大事",
+      "content": "ChatGPTは間違ったことを自信満々に言うことがあります（ハルシネーション）。重要なことは必ず調べて確認しよう！",
+      "emoji": "⚠️",
+      "highlight": "⚠️ AIの回答 → 🔍 必ず確認！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ChatGPTをカスタマイズできるよ！",
+      "background": "city",
+      "title": "プラグインとGPTs",
+      "content": "自分だけのカスタムGPTを作ったり、プラグインで機能を拡張できます。あなただけのAIアシスタントが作れます！",
+      "emoji": "⚙️",
+      "highlight": "🔌 プラグイン + ⚙️ GPTs = カスタムAI"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIを賢く使うのが未来のスキルだよ！",
+      "background": "space",
+      "title": "AIとの上手な付き合い方",
+      "content": "AIは道具です。使う人間が賢くなければ意味がありません。AIと協力して、人間だからできることに集中しましょう！",
+      "emoji": "🌟",
+      "highlight": "🤖 AIの力 × 💪 人間の知恵 = 最強チーム"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ChatGPTをうまく使いこなせるようになってきたね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

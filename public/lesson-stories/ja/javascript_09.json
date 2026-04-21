@@ -1,0 +1,131 @@
+{
+  "title": "ReactとVue",
+  "description": "現代のWebフロントエンド開発",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "現代のWeb開発で使われるフレームワークを学ぼう！",
+      "background": "city",
+      "title": "ReactとVue",
+      "emoji": "⚛️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "フレームワークを使うと開発がスムーズに！",
+      "background": "space",
+      "title": "なぜフレームワーク？",
+      "content": "バニラJSは大規模になると管理困難。フレームワークはコードの整理・再利用・効率化を助けます！",
+      "emoji": "⚛️",
+      "highlight": "フレームワーク = 大きなプロジェクトの救世主"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Metaが作ったUIライブラリだよ！",
+      "background": "forest",
+      "title": "Reactとは？",
+      "content": "Facebookが作ったJSライブラリ。コンポーネントベース、仮想DOM、大きなエコシステムが特徴！",
+      "emoji": "⚛️",
+      "highlight": "React = コンポーネント + 仮想DOM"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "UIを部品に分けて考える考え方！",
+      "background": "classroom",
+      "title": "コンポーネント思考",
+      "content": "ボタン、カード、ヘッダーなどUIを部品（コンポーネント）に分けて管理。再利用性が高まります！",
+      "emoji": "🧩",
+      "highlight": "<Button/> <Card/> → 部品化！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "データの変化でUIが自動で更新される！",
+      "background": "city",
+      "title": "状態管理（useState）",
+      "content": "const [count, setCount] = useState(0); countが変わると自動でUIが更新されます！",
+      "emoji": "🔄",
+      "highlight": "useState → データ変更 → UI自動更新"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "日本でも大人気のフレームワーク！",
+      "background": "candy",
+      "title": "Vue.jsとは？",
+      "content": "日本・アジアで特に人気。学習曲線が緩やか、シングルファイルコンポーネントが直感的！",
+      "emoji": "💚",
+      "highlight": "Vue = 学びやすい・直感的"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "データが変わると画面が自動で変わる！",
+      "background": "ocean",
+      "title": "リアクティブデータ",
+      "content": "data: { message: 'Hello' } を変えると {{ message }} を表示している場所が自動で更新！",
+      "emoji": "✨",
+      "highlight": "data変更 → 画面自動更新"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ReactとVueどちらを選ぶ？",
+      "background": "classroom",
+      "title": "フレームワークの選び方",
+      "content": "React: 大規模・就職有利 vs Vue: 学びやすい・アジア圏人気。どちらも素晴らしい選択！",
+      "emoji": "⚖️",
+      "highlight": "React(大規模) vs Vue(学びやすい)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "To-Doアプリで学んだことを実践しよう！",
+      "background": "forest",
+      "title": "実践：To-Doアプリ",
+      "content": "To-Doの追加・削除・完了チェック機能を作ろう！コンポーネントとstateの理解が深まります！",
+      "emoji": "✅",
+      "highlight": "To-Do追加・削除・完了 → 実践！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "フレームワークの世界への第一歩を踏み出したね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

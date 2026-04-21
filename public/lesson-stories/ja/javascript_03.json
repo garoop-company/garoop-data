@@ -1,0 +1,131 @@
+{
+  "title": "関数とスコープ",
+  "description": "JSの関数の書き方を学ぼう",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "関数の3つの書き方を学ぼう！",
+      "background": "ocean",
+      "title": "関数とスコープ",
+      "emoji": "📦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "一番基本的な関数の書き方だよ！",
+      "background": "space",
+      "title": "function宣言",
+      "content": "function greet(name) { return 'Hello, '+name; } の形。巻き上げ（hoisting）されるため、宣言前でも使えます！",
+      "emoji": "📦",
+      "highlight": "function 名前(引数) { 処理 }"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "変数に関数を代入する書き方！",
+      "background": "forest",
+      "title": "関数式",
+      "content": "const greet = function(name) { return 'Hello, '+name; }; hoistingされません！",
+      "emoji": "📋",
+      "highlight": "const f = function() { }"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JSで最もよく使われる関数の書き方！",
+      "background": "classroom",
+      "title": "アロー関数",
+      "content": "const greet = (name) => 'Hello, '+name; シンプルで読みやすい。引数が1つなら()不要！",
+      "emoji": "⚡",
+      "highlight": "const f = () => 処理"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "引数に初期値を設定できるよ！",
+      "background": "city",
+      "title": "引数とデフォルト値",
+      "content": "function greet(name='Guest') { } 引数なしで呼んでもエラーにならない！",
+      "emoji": "⚙️",
+      "highlight": "function f(x = 10) { } → デフォルト値"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "関数から値を返す方法！",
+      "background": "candy",
+      "title": "return文",
+      "content": "returnで関数の結果を返す。returnなしの関数はundefinedを返します！",
+      "emoji": "↩️",
+      "highlight": "return 値 → 結果を返す"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "関数の中で外の変数を参照できるよ！",
+      "background": "ocean",
+      "title": "クロージャ",
+      "content": "外側の関数のスコープに内側の関数がアクセスできる仕組み。カウンターなどに使います！",
+      "emoji": "🔒",
+      "highlight": "クロージャ → 外の変数を参照"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "変数が使える範囲のこと！",
+      "background": "classroom",
+      "title": "スコープの種類",
+      "content": "グローバル・関数・ブロックの3種類。let/constはブロックスコープ、varは関数スコープ！",
+      "emoji": "🔭",
+      "highlight": "グローバル > 関数 > ブロック"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "関数を引数として受け取る関数！",
+      "background": "forest",
+      "title": "高階関数",
+      "content": "mapやfilterなど、関数を引数として受け取る関数。配列処理で大活躍！",
+      "emoji": "🔄",
+      "highlight": "map/filter/reduce → 高階関数"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "JSの関数を自在に使えるようになったね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

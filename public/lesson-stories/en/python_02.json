@@ -1,0 +1,131 @@
+{
+  "title": "Variables and Data Types",
+  "description": "Learn how to store and manage data",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's manage data with the magic boxes called variables!",
+      "background": "classroom",
+      "title": "Variables and Data Types",
+      "emoji": "📦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Variables are named boxes that hold data!",
+      "background": "classroom",
+      "title": "What are Variables?",
+      "content": "name = 'Alice' stores 'Alice' in a box named 'name'. You can use it again and again whenever you need it!",
+      "emoji": "📦",
+      "highlight": "name = 'Alice' → Store value in a box!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Know the types of numbers!",
+      "background": "forest",
+      "title": "Integers and Floats",
+      "content": "Integers (int): 1, 42, -5 / Floating point (float): 3.14, -0.5. Use the right type for each calculation!",
+      "emoji": "🔢",
+      "highlight": "int: 1,2,3  float: 1.5, 3.14"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "The data type for handling text!",
+      "background": "city",
+      "title": "Strings (str)",
+      "content": "'Hello' and \"World\" are strings (str). Use + to join them and * to repeat!",
+      "emoji": "📝",
+      "highlight": "'Hello' + ' World' = 'Hello World'"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "A simple type with just True or False!",
+      "background": "candy",
+      "title": "Booleans (bool)",
+      "content": "Only two values: True (yes) or False (no). Used in conditional branches!",
+      "emoji": "✅",
+      "highlight": "True / False → Yes · No"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "You can check and convert types!",
+      "background": "ocean",
+      "title": "Type Checking and Conversion",
+      "content": "type() checks the type; int(), str(), float() convert it. Converting '123' → 123 is very practical!",
+      "emoji": "🔄",
+      "highlight": "type(x) → check type  int('5') → 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Learn the rules for naming variables!",
+      "background": "forest",
+      "title": "Naming Rules",
+      "content": "Use letters, numbers, and underscores (_). Case-sensitive. Use meaningful names!",
+      "emoji": "📋",
+      "highlight": "✅ user_name  ❌ 1name  ❌ user-name"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "There's a smart way to assign!",
+      "background": "classroom",
+      "title": "Multiple Assignment",
+      "content": "a, b = 1, 2 assigns multiple at once! a, b = b, a swaps two values!",
+      "emoji": "⚡",
+      "highlight": "a, b = 1, 2 → assign at once!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Values that should never change!",
+      "background": "space",
+      "title": "Constants",
+      "content": "By convention, write in ALL_CAPS: MAX_SIZE = 100. Makes code more readable!",
+      "emoji": "🔒",
+      "highlight": "MAX_SIZE = 100 → value not to change"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've mastered variables and data types!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "チームビルディング",
+  "description": "ガルちゃんと楽しくチームビルディングを学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとチームビルディングを学ぼう！",
+      "background": "city",
+      "title": "チームビルディング",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとチームビルディングを学ぼう！",
+      "background": "space",
+      "title": "チームビルディング - Part 1",
+      "content": "This is lesson 7 about チームビルディング. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 チームビルディング - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとチームビルディングを学ぼう！",
+      "background": "forest",
+      "title": "チームビルディング - Part 2",
+      "content": "This is lesson 7 about チームビルディング. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 チームビルディング - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとチームビルディングを学ぼう！",
+      "background": "classroom",
+      "title": "チームビルディング - Part 3",
+      "content": "This is lesson 7 about チームビルディング. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 チームビルディング - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとチームビルディングを学ぼう！",
+      "background": "city",
+      "title": "チームビルディング - Part 4",
+      "content": "This is lesson 7 about チームビルディング. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 チームビルディング - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとチームビルディングを学ぼう！",
+      "background": "candy",
+      "title": "チームビルディング - Part 5",
+      "content": "This is lesson 7 about チームビルディング. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 チームビルディング - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとチームビルディングを学ぼう！",
+      "background": "ocean",
+      "title": "チームビルディング - Part 6",
+      "content": "This is lesson 7 about チームビルディング. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 チームビルディング - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとチームビルディングを学ぼう！",
+      "background": "classroom",
+      "title": "チームビルディング - Part 7",
+      "content": "This is lesson 7 about チームビルディング. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 チームビルディング - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとチームビルディングを学ぼう！",
+      "background": "forest",
+      "title": "チームビルディング - Part 8",
+      "content": "This is lesson 7 about チームビルディング. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 チームビルディング - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レッスン完了！よくできました！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

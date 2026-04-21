@@ -1,0 +1,131 @@
+{
+  "title": "JS项目",
+  "description": "与Garuchan一起有趣地学习JS项目！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "与Garuchan一起学习JS项目！",
+      "background": "city",
+      "title": "JS项目",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习JS项目！",
+      "background": "space",
+      "title": "JS项目 - Part 1",
+      "content": "This is lesson 10 about JS项目. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 JS项目 - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习JS项目！",
+      "background": "forest",
+      "title": "JS项目 - Part 2",
+      "content": "This is lesson 10 about JS项目. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 JS项目 - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习JS项目！",
+      "background": "classroom",
+      "title": "JS项目 - Part 3",
+      "content": "This is lesson 10 about JS项目. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 JS项目 - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习JS项目！",
+      "background": "city",
+      "title": "JS项目 - Part 4",
+      "content": "This is lesson 10 about JS项目. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 JS项目 - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习JS项目！",
+      "background": "candy",
+      "title": "JS项目 - Part 5",
+      "content": "This is lesson 10 about JS项目. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 JS项目 - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习JS项目！",
+      "background": "ocean",
+      "title": "JS项目 - Part 6",
+      "content": "This is lesson 10 about JS项目. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 JS项目 - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习JS项目！",
+      "background": "classroom",
+      "title": "JS项目 - Part 7",
+      "content": "This is lesson 10 about JS项目. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 JS项目 - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习JS项目！",
+      "background": "forest",
+      "title": "JS项目 - Part 8",
+      "content": "This is lesson 10 about JS项目. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 JS项目 - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "课程完成！做得好！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

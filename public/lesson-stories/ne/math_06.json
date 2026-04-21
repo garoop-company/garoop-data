@@ -1,0 +1,131 @@
+{
+  "title": "क्षेत्रफल र आयतन",
+  "description": "Garuchan सँग क्षेत्रफल र आयतन रमाईलो तरिकाले सिकौं!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Garuchan सँग क्षेत्रफल र आयतन सिकौं!",
+      "background": "classroom",
+      "title": "क्षेत्रफल र आयतन",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग क्षेत्रफल र आयतन सिकौं!",
+      "background": "space",
+      "title": "क्षेत्रफल र आयतन - Part 1",
+      "content": "This is lesson 6 about क्षेत्रफल र आयतन. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 क्षेत्रफल र आयतन - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग क्षेत्रफल र आयतन सिकौं!",
+      "background": "forest",
+      "title": "क्षेत्रफल र आयतन - Part 2",
+      "content": "This is lesson 6 about क्षेत्रफल र आयतन. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 क्षेत्रफल र आयतन - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग क्षेत्रफल र आयतन सिकौं!",
+      "background": "classroom",
+      "title": "क्षेत्रफल र आयतन - Part 3",
+      "content": "This is lesson 6 about क्षेत्रफल र आयतन. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 क्षेत्रफल र आयतन - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग क्षेत्रफल र आयतन सिकौं!",
+      "background": "city",
+      "title": "क्षेत्रफल र आयतन - Part 4",
+      "content": "This is lesson 6 about क्षेत्रफल र आयतन. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 क्षेत्रफल र आयतन - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग क्षेत्रफल र आयतन सिकौं!",
+      "background": "candy",
+      "title": "क्षेत्रफल र आयतन - Part 5",
+      "content": "This is lesson 6 about क्षेत्रफल र आयतन. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 क्षेत्रफल र आयतन - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग क्षेत्रफल र आयतन सिकौं!",
+      "background": "ocean",
+      "title": "क्षेत्रफल र आयतन - Part 6",
+      "content": "This is lesson 6 about क्षेत्रफल र आयतन. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 क्षेत्रफल र आयतन - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग क्षेत्रफल र आयतन सिकौं!",
+      "background": "classroom",
+      "title": "क्षेत्रफल र आयतन - Part 7",
+      "content": "This is lesson 6 about क्षेत्रफल र आयतन. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 क्षेत्रफल र आयतन - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग क्षेत्रफल र आयतन सिकौं!",
+      "background": "forest",
+      "title": "क्षेत्रफल र आयतन - Part 8",
+      "content": "This is lesson 6 about क्षेत्रफल र आयतन. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 क्षेत्रफल र आयतन - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "पाठ सम्पन्न! राम्रो काम!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

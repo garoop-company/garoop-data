@@ -1,0 +1,131 @@
+{
+  "title": "絵本とは",
+  "description": "ガルちゃんと楽しく絵本とはを学ぼう！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと絵本とはを学ぼう！",
+      "background": "candy",
+      "title": "絵本とは",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと絵本とはを学ぼう！",
+      "background": "space",
+      "title": "絵本とは - Part 1",
+      "content": "This is lesson 1 about 絵本とは. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 絵本とは - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと絵本とはを学ぼう！",
+      "background": "forest",
+      "title": "絵本とは - Part 2",
+      "content": "This is lesson 1 about 絵本とは. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 絵本とは - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと絵本とはを学ぼう！",
+      "background": "classroom",
+      "title": "絵本とは - Part 3",
+      "content": "This is lesson 1 about 絵本とは. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 絵本とは - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと絵本とはを学ぼう！",
+      "background": "city",
+      "title": "絵本とは - Part 4",
+      "content": "This is lesson 1 about 絵本とは. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 絵本とは - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと絵本とはを学ぼう！",
+      "background": "candy",
+      "title": "絵本とは - Part 5",
+      "content": "This is lesson 1 about 絵本とは. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 絵本とは - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと絵本とはを学ぼう！",
+      "background": "ocean",
+      "title": "絵本とは - Part 6",
+      "content": "This is lesson 1 about 絵本とは. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 絵本とは - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと絵本とはを学ぼう！",
+      "background": "classroom",
+      "title": "絵本とは - Part 7",
+      "content": "This is lesson 1 about 絵本とは. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 絵本とは - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと絵本とはを学ぼう！",
+      "background": "forest",
+      "title": "絵本とは - Part 8",
+      "content": "This is lesson 1 about 絵本とは. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 絵本とは - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レッスン完了！よくできました！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

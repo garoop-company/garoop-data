@@ -1,0 +1,125 @@
+{
+  "title": "Python是什么？",
+  "description": "用有趣的方式学习Python编程语言！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "大家好！我是Garuchan！今天我们一起来学Python吧！",
+      "background": "forest",
+      "title": "欢迎来到Python的世界！",
+      "emoji": "🐍",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Python不是真正的蛇！它是一种用来和电脑交流的语言！",
+      "background": "forest",
+      "title": "Python = 编程语言",
+      "content": "Python是用来给电脑下达指令的语言。读起来像英文，对初学者非常友好！",
+      "emoji": "💻",
+      "highlight": "🐍 Python = 给电脑的指令"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "用print命令，电脑就能在屏幕上显示文字！",
+      "background": "classroom",
+      "title": "用print()显示文字",
+      "content": "如果你写 print(\"你好\")，屏幕就会显示「你好」！快来试试！",
+      "emoji": "📺",
+      "highlight": "print(\"你好，世界！\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "变量是存储信息的魔法盒子！",
+      "background": "city",
+      "title": "变量 = 魔法盒子",
+      "content": "写 name = '小明'，名为'name'的盒子就存储了'小明'。随时可以取出来用！",
+      "emoji": "📦",
+      "highlight": "name = '小明'\nprint(name)  # -> 小明"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "if-else条件就像给电脑的是非问题！",
+      "background": "forest",
+      "title": "条件判断 if / else",
+      "content": "电脑可以做决定！如果条件成立就做这个，否则就做那个！",
+      "emoji": "🤔",
+      "highlight": "if score >= 60:\n    print('通过!')\nelse:\n    print('再试试!')"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "for循环帮你重复做同样的事情，不累不烦！",
+      "background": "ocean",
+      "title": "for循环",
+      "content": "不用写100遍命令，用for就好！电脑会自动重复执行。",
+      "emoji": "🔄",
+      "highlight": "for i in range(5):\n    print(i)  # 0,1,2,3,4"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "函数是可以反复使用的魔法配方！写一次，永远可用！",
+      "background": "classroom",
+      "title": "函数 = 可复用的魔法配方",
+      "content": "你可以创建函数来完成特定任务。需要的时候叫它名字就行！",
+      "emoji": "🧑‍🍳",
+      "highlight": "def greet(name):\n    print('你好', name)\n\ngreet('小明')  # -> 你好 小明"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "列表可以在一个变量里存储很多东西！",
+      "background": "candy",
+      "title": "列表 = 购物清单",
+      "content": "把列表想象成购物袋。你可以放入很多东西，然后一个一个取出来！",
+      "emoji": "🛒",
+      "highlight": "fruits = ['苹果', '芒果', '橙子']\nprint(fruits[0])  # -> 苹果"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "用Python你可以做游戏、网站、AI应用等等！",
+      "background": "space",
+      "title": "用Python能做什么？",
+      "content": "Google、Instagram、NASA都在用Python。你也可以创造很酷的东西！",
+      "emoji": "🚀",
+      "highlight": "🎮 游戏  🌐 网站  🤖 AI  📊 数据分析"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "太棒了！你已经学会了Python的基础知识！继续练习吧！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

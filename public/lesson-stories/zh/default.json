@@ -1,0 +1,89 @@
+{
+  "title": "开始学习！",
+  "description": "欢迎来到Garoop！和Garuchan一起学习有趣的东西！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "欢迎！我是Garuchan！让我们一起快乐学习吧！",
+      "background": "space",
+      "title": "欢迎来到Garoop！",
+      "emoji": "🌟",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garoop是一个为孩子们学习技术和AI的平台！",
+      "background": "city",
+      "title": "Garoop是什么？",
+      "content": "在Garoop，你可以用有趣的方式学习编程、AI、数学和游戏开发！",
+      "emoji": "🎓",
+      "highlight": "💻 编程  🤖 AI  🔢 数学  🎮 游戏"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "最好的学习方法是亲自尝试和创造！",
+      "background": "classroom",
+      "title": "有效的学习方法",
+      "content": "不要只是看 - 动手试！做小项目，探索，不怕犯错。犯错就是学习的方式！",
+      "emoji": "✏️",
+      "highlight": "看 → 试 → 失败 → 改正 → 成功！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI是已经在我们身边的未来技术！",
+      "background": "space",
+      "title": "AI的世界",
+      "content": "ChatGPT、AI图像、AI音乐 - 这些都是你可以学习和使用的技术！",
+      "emoji": "🤖",
+      "highlight": "🎨 图像AI  🎵 音乐AI  💬 聊天AI  🔧 代码AI"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "编程是未来的重要技能，从现在开始学！",
+      "background": "forest",
+      "title": "为什么要学编程？",
+      "content": "未来几乎所有工作都将与技术相关。现在学编程就是为光明未来做准备！",
+      "emoji": "💡",
+      "highlight": "2030年：85%的新工作今天还不存在！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "确定你的学习目标！你未来想成为什么？",
+      "background": "ocean",
+      "title": "设定你的目标！",
+      "content": "程序员？游戏开发者？AI科学家？企业家？无论什么梦想，今天就开始学！一小步改变一切！",
+      "emoji": "🎯",
+      "highlight": "大梦想 + 小步骤 = 成功！"
+    },
+    {
+      "id": 7,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "开始你的学习之旅吧！Garuchan永远陪伴着你！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

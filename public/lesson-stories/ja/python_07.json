@@ -1,0 +1,131 @@
+{
+  "title": "ファイル操作",
+  "description": "ファイルの読み書きを学ぼう",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Pythonでファイルを読んだり書いたりしよう！",
+      "background": "city",
+      "title": "ファイル操作",
+      "emoji": "📂",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "open()関数でファイルにアクセスするよ！",
+      "background": "city",
+      "title": "ファイルを開く",
+      "content": "with open('test.txt', 'r') as f: でファイルを開きます。withを使うと自動でファイルが閉じられます！",
+      "emoji": "📂",
+      "highlight": "with open(ファイル名, モード) as f:"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ファイルの内容を読み取る方法だよ！",
+      "background": "forest",
+      "title": "読み込み",
+      "content": "f.read()で全体、f.readline()で1行、f.readlines()で全行リストとして読み込みます！",
+      "emoji": "📖",
+      "highlight": "read()全体 readline()1行 readlines()全行"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ファイルにデータを書き込もう！",
+      "background": "classroom",
+      "title": "書き込み",
+      "content": "open('output.txt', 'w')で上書き、'a'で追記モード。f.write('テキスト')で書き込みます！",
+      "emoji": "✏️",
+      "highlight": "'w'上書き  'a'追記  write()書き込み"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "表形式のデータを扱うCSVファイルだよ！",
+      "background": "candy",
+      "title": "CSV形式",
+      "content": "import csvで読み書きできます。Excelで開けるCSVファイルをPythonで簡単に処理できます！",
+      "emoji": "📊",
+      "highlight": "import csv → Excelデータを処理！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Webでよく使われるJSONデータだよ！",
+      "background": "ocean",
+      "title": "JSON形式",
+      "content": "import jsonでPythonの辞書とJSONを相互変換できます。APIのデータはほぼJSONです！",
+      "emoji": "🌐",
+      "highlight": "import json → APIデータを処理！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ファイルの場所を扱うパス操作だよ！",
+      "background": "forest",
+      "title": "パスの操作",
+      "content": "import osやimport pathlibでフォルダ作成、ファイル一覧取得、パス結合などができます！",
+      "emoji": "📁",
+      "highlight": "os.path / pathlib → ファイルシステム操作"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ファイルが見つからない時の対処法だよ！",
+      "background": "classroom",
+      "title": "エラー処理",
+      "content": "try/except FileNotFoundErrorでファイルが存在しない場合のエラーを安全に処理できます！",
+      "emoji": "🛡️",
+      "highlight": "try: open() except FileNotFoundError: 対処"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "実際にログファイルを作ってみよう！",
+      "background": "space",
+      "title": "実践：ログファイル",
+      "content": "日付・時刻・メッセージをファイルに記録するログシステムが作れます。実際のシステムで使われる技術です！",
+      "emoji": "📝",
+      "highlight": "ログ記録 = 日付 + 時刻 + メッセージ"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ファイル操作をマスターしたね！実用的なスキルだ！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

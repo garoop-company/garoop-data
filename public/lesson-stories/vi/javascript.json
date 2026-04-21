@@ -1,0 +1,125 @@
+{
+  "title": "JavaScript là gì?",
+  "description": "Ngôn ngữ ma thuật làm cho trang web trở nên sống động!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Xin chào! Hôm nay chúng ta học JavaScript, ngôn ngữ làm web trở nên tuyệt vời!",
+      "background": "city",
+      "title": "Chào mừng đến với JavaScript!",
+      "emoji": "🟨",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JavaScript là ngôn ngữ làm cho website có thể di chuyển và phản ứng!",
+      "background": "city",
+      "title": "JavaScript = Ngôn ngữ Web tương tác",
+      "content": "Nút bấm, game, hoạt hình và hiệu ứng trên web thường dùng JavaScript. Ba bộ web: HTML + CSS + JS!",
+      "emoji": "⚡",
+      "highlight": "🌐 Web = HTML + CSS + JavaScript"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "console.log dùng để xem tin nhắn trong trình duyệt. Rất hữu ích để kiểm tra!",
+      "background": "classroom",
+      "title": "Thử console.log",
+      "content": "Mở developer tools trong trình duyệt, bạn sẽ thấy tin nhắn bạn viết. Đây là cách lập trình viên kiểm tra code!",
+      "emoji": "🖥️",
+      "highlight": "console.log(\"Xin chào Thế giới!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Biến let và const dùng để lưu dữ liệu trong JavaScript!",
+      "background": "forest",
+      "title": "Biến: let và const",
+      "content": "Dùng 'let' cho dữ liệu có thể thay đổi, 'const' cho dữ liệu cố định. Như tên bảng có thể đổi hoặc không!",
+      "emoji": "📝",
+      "highlight": "let tuoi = 10;\nconst ten = 'An';"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hàm là khối code có thể gọi nhiều lần. Như công thức nấu ăn!",
+      "background": "ocean",
+      "title": "Hàm = Khối code tái sử dụng",
+      "content": "Viết hàm một lần, gọi nhiều lần! Điều này làm code gọn gàng và dễ hiểu hơn.",
+      "emoji": "🧑‍🍳",
+      "highlight": "function chao() {\n  alert('Xin chào!');\n}\nchao();"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "DOM là cách JavaScript thay đổi giao diện trang web trực tiếp!",
+      "background": "city",
+      "title": "Thao tác DOM",
+      "content": "JavaScript có thể thay đổi văn bản, màu sắc và các phần tử trên trang web. Website trở nên động và tương tác!",
+      "emoji": "✏️",
+      "highlight": "document.getElementById('tieu_de')\n  .textContent = 'Mới!';"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Event listener làm cho website phản ứng với hành động của người dùng như nhấp chuột!",
+      "background": "candy",
+      "title": "Sự kiện = Hành động người dùng",
+      "content": "Nhấp nút, di chuột, nhấn bàn phím - tất cả là 'sự kiện' mà JavaScript có thể phản hồi!",
+      "emoji": "👆",
+      "highlight": "nut.addEventListener('click',\n  () => alert('Đã nhấp!'));"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Mảng là danh sách giá trị được lưu trong một biến!",
+      "background": "classroom",
+      "title": "Mảng = Bộ sưu tập dữ liệu",
+      "content": "Mảng cho phép lưu nhiều giá trị cùng lúc. Truy cập bằng số thứ tự bắt đầu từ 0!",
+      "emoji": "📋",
+      "highlight": "const mau = ['đỏ','xanh','vàng'];\nconsole.log(mau[1]); // xanh"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "JavaScript hiện đại có nhiều tính năng tuyệt vời. Dùng ở các website lớn nhất thế giới!",
+      "background": "space",
+      "title": "JavaScript trong thực tế",
+      "content": "Facebook, YouTube, Twitter và hầu hết các website lớn đều dùng JavaScript. Đây là kỹ năng rất được tìm kiếm!",
+      "emoji": "🌍",
+      "highlight": "📱 Web App  🎮 Browser Game  🤖 Node.js Server"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Xuất sắc! Bạn đã bước vào thế giới JavaScript! Tiếp tục học nhé!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🚀",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

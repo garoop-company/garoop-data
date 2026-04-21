@@ -1,0 +1,131 @@
+{
+  "title": "数学の応用",
+  "description": "数学が世界でどう使われているか",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "数学が世界をどう動かしているか見てみよう！",
+      "background": "space",
+      "title": "数学の応用",
+      "emoji": "🌍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "数学が世界で使われている場面を見てみよう！",
+      "background": "space",
+      "title": "数学はなぜ大切？",
+      "content": "数学は自然の言語。物理・化学・生物・経済学…全ての科学の基盤が数学です！",
+      "emoji": "🌍",
+      "highlight": "数学 = 全科学の言語"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "プログラミングの根底にある数学！",
+      "background": "forest",
+      "title": "数学とプログラミング",
+      "content": "ループ（反復）は掛け算、条件分岐は論理演算、データ構造は集合論。数学＝プログラミングの基礎！",
+      "emoji": "💻",
+      "highlight": "ループ=掛け算 条件=論理 データ=集合論"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIと機械学習に必要な数学！",
+      "background": "classroom",
+      "title": "数学とAI",
+      "content": "機械学習は線形代数（行列計算）と微積分（勾配降下法）が核心。AIエンジニアに数学は必須！",
+      "emoji": "🤖",
+      "highlight": "ML = 線形代数 + 微積分"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "暗号技術の数学的基礎！",
+      "background": "city",
+      "title": "数学と暗号",
+      "content": "RSA暗号は大きな数の素因数分解が困難なことを利用。スーパーコンピューターでも解けない！",
+      "emoji": "🔒",
+      "highlight": "暗号 = 素因数分解の難しさ"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "お金を増やす数学！",
+      "background": "candy",
+      "title": "数学と金融",
+      "content": "複利計算：元本×(1＋利率)^年数。投資の魔法！お金と数学の関係を理解することが資産形成の第一歩！",
+      "emoji": "💰",
+      "highlight": "複利 = 元本 × (1+r)^n"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "建物を設計する数学！",
+      "background": "ocean",
+      "title": "数学と建築",
+      "content": "橋や建物の設計に物理と数学が不可欠。オイラーの公式やフーリエ変換が現代建築を支えます！",
+      "emoji": "🏗️",
+      "highlight": "橋・建物 = 数学で設計される"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "自然界を説明する数学！",
+      "background": "classroom",
+      "title": "数学と科学",
+      "content": "E＝mc²(相対性理論)、F＝ma（運動の法則）…物理法則は全て数式で表せます！",
+      "emoji": "🚀",
+      "highlight": "E=mc² F=ma → 数式が物理を支配"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "数学で世界を変えよう！",
+      "background": "forest",
+      "title": "未来の数学者へ",
+      "content": "数学を学んで解決できる問題を広げよう。数学者・データサイエンティスト・エンジニアへの道が開けます！",
+      "emoji": "⭐",
+      "highlight": "数学 → データサイエンス → AI → 未来！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "数学の本当のすごさが分かったね！数学は世界の言語だ！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

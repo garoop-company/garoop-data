@@ -1,0 +1,131 @@
+{
+  "title": "Class và Đối tượng",
+  "description": "Học Python: Class và Đối tượng",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Python cùng Garuchan!",
+      "background": "forest",
+      "title": "Class và Đối tượng",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Class và Đối tượng!",
+      "background": "forest",
+      "title": "Class và Đối tượng (1)",
+      "content": "This lesson covers Class và Đối tượng — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Class và Đối tượng!",
+      "background": "classroom",
+      "title": "Class và Đối tượng (2)",
+      "content": "This lesson covers Class và Đối tượng — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Class và Đối tượng!",
+      "background": "city",
+      "title": "Class và Đối tượng (3)",
+      "content": "This lesson covers Class và Đối tượng — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Class và Đối tượng!",
+      "background": "candy",
+      "title": "Class và Đối tượng (4)",
+      "content": "This lesson covers Class và Đối tượng — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Class và Đối tượng!",
+      "background": "ocean",
+      "title": "Class và Đối tượng (5)",
+      "content": "This lesson covers Class và Đối tượng — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Class và Đối tượng!",
+      "background": "space",
+      "title": "Class và Đối tượng (6)",
+      "content": "This lesson covers Class và Đối tượng — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Class và Đối tượng!",
+      "background": "classroom",
+      "title": "Class và Đối tượng (7)",
+      "content": "This lesson covers Class và Đối tượng — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Class và Đối tượng!",
+      "background": "forest",
+      "title": "Class và Đối tượng (8)",
+      "content": "This lesson covers Class và Đối tượng — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "什么是AI？",
+  "description": "探索电脑是如何变聪明的！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "大家好！准备好探索AI的世界了吗？出发！",
+      "background": "space",
+      "title": "欢迎来到AI的世界！",
+      "emoji": "🤖",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI是人工智能的缩写，能像人类一样思考的电脑！",
+      "background": "space",
+      "title": "AI = 人工智能",
+      "content": "人工智能(AI)是让电脑能够自主学习、思考和做决策的技术。",
+      "emoji": "🧠",
+      "highlight": "AI = 能自主学习的电脑"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI从大量数据中学习，就像你从经验中学习一样！",
+      "background": "classroom",
+      "title": "AI如何学习？",
+      "content": "机器学习是AI从例子中学习的方式。数据越多，AI就越聪明！",
+      "emoji": "📚",
+      "highlight": "大量数据 → 学习 → AI更聪明"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI的大脑类似人类大脑，但是由数字构成的！",
+      "background": "city",
+      "title": "神经网络 = 数字大脑",
+      "content": "神经网络模拟人脑神经元的工作方式。数百万个数字连接协同工作！",
+      "emoji": "⚡",
+      "highlight": "人脑神经元 🧠 → 数字神经网络 💻"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ChatGPT能聊天，是因为它读了数十亿个词！",
+      "background": "forest",
+      "title": "AI聊天机器人",
+      "content": "大语言模型(LLM)如ChatGPT从大量文本中学习，然后能回答问题和创作内容。",
+      "emoji": "💬",
+      "highlight": "📖 万亿字 → LLM → 能对话！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI能识别照片和图像！就像超级敏锐的眼睛！",
+      "background": "ocean",
+      "title": "AI图像识别",
+      "content": "AI能区分猫和狗的照片，甚至能识别人脸。手机相机就在用这项技术！",
+      "emoji": "👁️",
+      "highlight": "📸 照片 → AI分析 → '这是猫！'"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "生成式AI可以从普通文字创作图像、音乐、视频！",
+      "background": "candy",
+      "title": "生成式AI = 创意AI",
+      "content": "Midjourney、DALL-E、Suno AI可以根据你的描述创作全新作品！",
+      "emoji": "🎨",
+      "highlight": "文字 → 🖼️ 图像 / 🎵 音乐 / 🎬 视频"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI无处不在！在手机里、汽车里、医院里！",
+      "background": "city",
+      "title": "AI在日常生活中",
+      "content": "YouTube推荐、Instagram滤镜、谷歌地图导航 - 这些都用了AI！你每天都在用AI！",
+      "emoji": "📱",
+      "highlight": "YouTube 📺 / 地图 🗺️ / 翻译 🌐 / 医疗 🏥"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "未来AI将帮助医生、科学家甚至老师！",
+      "background": "space",
+      "title": "AI的未来",
+      "content": "AI将持续发展并帮助人类解决重大问题。你也可以参与创造更好的AI！",
+      "emoji": "🌟",
+      "highlight": "🔬 科学  🏥 医疗  🌍 环境  🎓 教育"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "恭喜你！你已经了解了很多关于AI的知识！要用AI做好事哦！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "⭐",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

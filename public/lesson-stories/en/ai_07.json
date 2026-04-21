@@ -1,0 +1,131 @@
+{
+  "title": "AI Ethics",
+  "description": "How to use AI responsibly",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn the ethics behind using AI correctly and safely!",
+      "background": "classroom",
+      "title": "AI Ethics",
+      "emoji": "⚖️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "The rules for using AI correctly!",
+      "background": "classroom",
+      "title": "What is AI Ethics?",
+      "content": "AI ethics is about thinking through AI's impact on society and using it fairly, safely, and responsibly. It's about the relationship between technology and people!",
+      "emoji": "⚖️",
+      "highlight": "🤖 AI + 🧭 Ethics = Good society"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI can sometimes be discriminatory!",
+      "background": "city",
+      "title": "Bias Problems",
+      "content": "AI reflects the bias in its training data. A hiring AI trained mostly on male data unfairly disadvantaged women in real cases!",
+      "emoji": "⚠️",
+      "highlight": "⚠️ Biased data → ❌ Biased AI"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Is it okay to give personal info to AI?",
+      "background": "forest",
+      "title": "Privacy Protection",
+      "content": "AI trains on massive personal data. What data to use and how to protect it is a major issue!",
+      "emoji": "🔒",
+      "highlight": "🔒 Personal info + AI = Privacy problem"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI can create fake information!",
+      "background": "candy",
+      "title": "Fake News and Deepfakes",
+      "content": "AI can generate videos of people saying things they never said (deepfakes) and fake news. Learning to spot them is essential!",
+      "emoji": "🎭",
+      "highlight": "👁️ Develop a critical eye"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Will AI take away jobs? Let's think together",
+      "background": "ocean",
+      "title": "AI and Jobs",
+      "content": "Simple tasks will be replaced by AI, but new jobs will emerge. Building skills to collaborate with AI is what matters!",
+      "emoji": "💼",
+      "highlight": "❌ Repetitive work ✅ Creative work ✅ AI management"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "There's a movement to create AI rules!",
+      "background": "classroom",
+      "title": "AI Regulation and Laws",
+      "content": "EU AI Act, Japan's AI Strategy... countries are creating AI rules. Building a safe and fair AI society requires regulation!",
+      "emoji": "📋",
+      "highlight": "🇪🇺 EU AI Act 🇯🇵 Japan AI Strategy"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "What's the responsibility of AI developers?",
+      "background": "forest",
+      "title": "Responsible AI Development",
+      "content": "Fairness, transparency, safety, privacy... AI developers have a responsibility to uphold these values. Good tech comes from good hearts!",
+      "emoji": "🛡️",
+      "highlight": "✅ Fair ✅ Transparent ✅ Safe ✅ Private"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "We're all members of the AI society!",
+      "background": "space",
+      "title": "What We Can Do",
+      "content": "Read information critically, question AI decisions, protect privacy... let's live wisely in the AI society as informed citizens!",
+      "emoji": "🌟",
+      "highlight": "🧠 Critical thinking + 🔍 Verify info = Smart citizen"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You're becoming a thoughtful person about AI ethics!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

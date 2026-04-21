@@ -1,0 +1,131 @@
+{
+  "title": "Classes and Objects",
+  "description": "Learn object-oriented programming",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Build objects with classes! Programs become organized!",
+      "background": "classroom",
+      "title": "Classes and Objects",
+      "emoji": "🏗️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "A way of representing the real world in code!",
+      "background": "classroom",
+      "title": "What is OOP?",
+      "content": "Create a Dog class, then make individual dog objects like Spot, Rex. Code becomes organized and reusable!",
+      "emoji": "🏗️",
+      "highlight": "Class (blueprint) → Object (instance)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "The basic way to create a class!",
+      "background": "forest",
+      "title": "Defining a Class",
+      "content": "class Dog: defines a class. __init__ method initializes it. Group attributes and behavior together!",
+      "emoji": "📐",
+      "highlight": "class ClassName: → create a blueprint"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Define a class's data and functionality!",
+      "background": "city",
+      "title": "Attributes and Methods",
+      "content": "Attributes (self.name) are data, methods (def bark()) are functions. Use self to refer to the instance!",
+      "emoji": "⚙️",
+      "highlight": "Attribute = data  Method = function"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Create objects from a class!",
+      "background": "candy",
+      "title": "Instantiation",
+      "content": "dog = Dog('Spot') creates a Dog instance. Use dog.name and dog.bark() to access attributes and methods!",
+      "emoji": "✨",
+      "highlight": "object = ClassName(args) → create instance"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Extend existing classes with inheritance!",
+      "background": "ocean",
+      "title": "Inheritance",
+      "content": "class Poodle(Dog): inherits from Dog to make a new class. Reuse existing code!",
+      "emoji": "🧬",
+      "highlight": "class Child(Parent): → inheritance!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Protecting data from outside access!",
+      "background": "forest",
+      "title": "Encapsulation",
+      "content": "By convention, attributes starting with _ shouldn't be changed externally. Protects data integrity!",
+      "emoji": "🔒",
+      "highlight": "self._name → convention: don't change externally"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Magic methods Python calls automatically!",
+      "background": "classroom",
+      "title": "Special Methods",
+      "content": "__str__() for display, __len__() for length, __eq__() for comparison. Define your own behaviors!",
+      "emoji": "✨",
+      "highlight": "__init__ __str__ __len__ → special methods"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Build a card game with classes!",
+      "background": "space",
+      "title": "Practical: Card Game",
+      "content": "Create Card, Deck, Player classes and build a card game. Feel the power of object-oriented programming!",
+      "emoji": "🃏",
+      "highlight": "Card + Deck + Player = Card game complete!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "First step in OOP — mastered!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "AI Nhận dạng hình ảnh",
+  "description": "Học AI Nhận dạng hình ảnh theo cách thú vị cùng Garuchan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học AI Nhận dạng hình ảnh cùng Garuchan!",
+      "background": "space",
+      "title": "AI Nhận dạng hình ảnh",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học AI Nhận dạng hình ảnh cùng Garuchan!",
+      "background": "space",
+      "title": "AI Nhận dạng hình ảnh - Part 1",
+      "content": "This is lesson 5 about AI Nhận dạng hình ảnh. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 AI Nhận dạng hình ảnh - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học AI Nhận dạng hình ảnh cùng Garuchan!",
+      "background": "forest",
+      "title": "AI Nhận dạng hình ảnh - Part 2",
+      "content": "This is lesson 5 about AI Nhận dạng hình ảnh. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 AI Nhận dạng hình ảnh - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học AI Nhận dạng hình ảnh cùng Garuchan!",
+      "background": "classroom",
+      "title": "AI Nhận dạng hình ảnh - Part 3",
+      "content": "This is lesson 5 about AI Nhận dạng hình ảnh. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 AI Nhận dạng hình ảnh - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học AI Nhận dạng hình ảnh cùng Garuchan!",
+      "background": "city",
+      "title": "AI Nhận dạng hình ảnh - Part 4",
+      "content": "This is lesson 5 about AI Nhận dạng hình ảnh. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 AI Nhận dạng hình ảnh - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học AI Nhận dạng hình ảnh cùng Garuchan!",
+      "background": "candy",
+      "title": "AI Nhận dạng hình ảnh - Part 5",
+      "content": "This is lesson 5 about AI Nhận dạng hình ảnh. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 AI Nhận dạng hình ảnh - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học AI Nhận dạng hình ảnh cùng Garuchan!",
+      "background": "ocean",
+      "title": "AI Nhận dạng hình ảnh - Part 6",
+      "content": "This is lesson 5 about AI Nhận dạng hình ảnh. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 AI Nhận dạng hình ảnh - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học AI Nhận dạng hình ảnh cùng Garuchan!",
+      "background": "classroom",
+      "title": "AI Nhận dạng hình ảnh - Part 7",
+      "content": "This is lesson 5 about AI Nhận dạng hình ảnh. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 AI Nhận dạng hình ảnh - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học AI Nhận dạng hình ảnh cùng Garuchan!",
+      "background": "forest",
+      "title": "AI Nhận dạng hình ảnh - Part 8",
+      "content": "This is lesson 5 about AI Nhận dạng hình ảnh. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 AI Nhận dạng hình ảnh - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

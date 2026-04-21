@@ -1,0 +1,131 @@
+{
+  "title": "図形",
+  "description": "形と空間の数学を学ぼう",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "三角形・四角形・円…形の世界を探ろう！",
+      "background": "classroom",
+      "title": "図形",
+      "emoji": "📐",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "三角形・四角形・円などの基本形を学ぼう！",
+      "background": "space",
+      "title": "2D図形の種類",
+      "content": "三角形：3辺3角、四角形：4辺4角、五角形：5辺5角…辺の数で名前が変わります！",
+      "emoji": "📐",
+      "highlight": "三角形 四角形 五角形 六角形..."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "三角形の内角の和は何度？",
+      "background": "forest",
+      "title": "三角形の角度",
+      "content": "三角形の3つの角を全部足すと必ず180°！直角三角形は90°の角が1つあります！",
+      "emoji": "🔺",
+      "highlight": "内角の和 = 180°"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "正方形・長方形・ひし形の違い！",
+      "background": "classroom",
+      "title": "四角形の種類",
+      "content": "正方形：4辺等しい・全角90°。長方形：向かい合う辺が等しい。ひし形：4辺等しい・対角が等しい！",
+      "emoji": "🔷",
+      "highlight": "正方形 長方形 ひし形 平行四辺形"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "直径・半径・円周の関係！",
+      "background": "city",
+      "title": "円の性質",
+      "content": "直径＝半径×2。円周＝直径×π(3.14)。円は全ての点が中心から等距離！",
+      "emoji": "⭕",
+      "highlight": "直径 = 半径 × 2  円周 = 直径 × π"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "面積の公式を覚えよう！",
+      "background": "candy",
+      "title": "面積の計算",
+      "content": "長方形：縦×横、三角形：底辺×高さ÷2、円：半径×半径×π。公式を使おう！",
+      "emoji": "📏",
+      "highlight": "面積：長方形=縦×横 三角形=底×高÷2"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "周りの長さの計算方法！",
+      "background": "ocean",
+      "title": "周の長さ",
+      "content": "三角形：3辺の合計。長方形：(縦＋横)×2。円周：直径×π（約3.14）！",
+      "emoji": "🔲",
+      "highlight": "周の長さ = 全辺の合計"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "同じ形・相似な形の違い！",
+      "background": "classroom",
+      "title": "合同と相似",
+      "content": "合同：同じ形・同じ大きさ。相似：同じ形・違う大きさ（コピーを縮小したような関係）！",
+      "emoji": "🔭",
+      "highlight": "合同 = 同じ  相似 = 形が同じ・大きさ違う"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "立体図形の世界へ！",
+      "background": "forest",
+      "title": "3D図形",
+      "content": "立方体：6面、球：面が曲面、円柱・円錐…3Dの世界は2Dの延長です！",
+      "emoji": "🧊",
+      "highlight": "立方体 球 円柱 円錐..."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "図形の世界が広がったね！いろんな形が見えてきた！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

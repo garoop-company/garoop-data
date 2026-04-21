@@ -1,0 +1,131 @@
+{
+  "title": "Publishing Your Book",
+  "description": "Learn Publishing Your Book in a fun and engaging way with Garuchan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn Publishing Your Book with Garuchan!",
+      "background": "candy",
+      "title": "Publishing Your Book",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Publishing Your Book with Garuchan!",
+      "background": "space",
+      "title": "Publishing Your Book - Part 1",
+      "content": "This is lesson 8 about Publishing Your Book. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Publishing Your Book - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Publishing Your Book with Garuchan!",
+      "background": "forest",
+      "title": "Publishing Your Book - Part 2",
+      "content": "This is lesson 8 about Publishing Your Book. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Publishing Your Book - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Publishing Your Book with Garuchan!",
+      "background": "classroom",
+      "title": "Publishing Your Book - Part 3",
+      "content": "This is lesson 8 about Publishing Your Book. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Publishing Your Book - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Publishing Your Book with Garuchan!",
+      "background": "city",
+      "title": "Publishing Your Book - Part 4",
+      "content": "This is lesson 8 about Publishing Your Book. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Publishing Your Book - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Publishing Your Book with Garuchan!",
+      "background": "candy",
+      "title": "Publishing Your Book - Part 5",
+      "content": "This is lesson 8 about Publishing Your Book. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Publishing Your Book - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Publishing Your Book with Garuchan!",
+      "background": "ocean",
+      "title": "Publishing Your Book - Part 6",
+      "content": "This is lesson 8 about Publishing Your Book. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Publishing Your Book - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Publishing Your Book with Garuchan!",
+      "background": "classroom",
+      "title": "Publishing Your Book - Part 7",
+      "content": "This is lesson 8 about Publishing Your Book. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Publishing Your Book - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Publishing Your Book with Garuchan!",
+      "background": "forest",
+      "title": "Publishing Your Book - Part 8",
+      "content": "This is lesson 8 about Publishing Your Book. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Publishing Your Book - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Lesson complete! Great work!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

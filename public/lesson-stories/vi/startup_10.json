@@ -1,0 +1,131 @@
+{
+  "title": "Tương lai của Startup",
+  "description": "Học Tương lai của Startup theo cách thú vị cùng Garuchan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Tương lai của Startup cùng Garuchan!",
+      "background": "city",
+      "title": "Tương lai của Startup",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Tương lai của Startup cùng Garuchan!",
+      "background": "space",
+      "title": "Tương lai của Startup - Part 1",
+      "content": "This is lesson 10 about Tương lai của Startup. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Tương lai của Startup - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Tương lai của Startup cùng Garuchan!",
+      "background": "forest",
+      "title": "Tương lai của Startup - Part 2",
+      "content": "This is lesson 10 about Tương lai của Startup. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Tương lai của Startup - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Tương lai của Startup cùng Garuchan!",
+      "background": "classroom",
+      "title": "Tương lai của Startup - Part 3",
+      "content": "This is lesson 10 about Tương lai của Startup. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Tương lai của Startup - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Tương lai của Startup cùng Garuchan!",
+      "background": "city",
+      "title": "Tương lai của Startup - Part 4",
+      "content": "This is lesson 10 about Tương lai của Startup. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Tương lai của Startup - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Tương lai của Startup cùng Garuchan!",
+      "background": "candy",
+      "title": "Tương lai của Startup - Part 5",
+      "content": "This is lesson 10 about Tương lai của Startup. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Tương lai của Startup - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Tương lai của Startup cùng Garuchan!",
+      "background": "ocean",
+      "title": "Tương lai của Startup - Part 6",
+      "content": "This is lesson 10 about Tương lai của Startup. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Tương lai của Startup - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Tương lai của Startup cùng Garuchan!",
+      "background": "classroom",
+      "title": "Tương lai của Startup - Part 7",
+      "content": "This is lesson 10 about Tương lai của Startup. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Tương lai của Startup - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Tương lai của Startup cùng Garuchan!",
+      "background": "forest",
+      "title": "Tương lai của Startup - Part 8",
+      "content": "This is lesson 10 about Tương lai của Startup. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Tương lai của Startup - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

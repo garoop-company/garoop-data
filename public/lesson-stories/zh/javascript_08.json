@@ -1,0 +1,131 @@
+{
+  "title": "API和Fetch",
+  "description": "与Garuchan一起有趣地学习API和Fetch！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "与Garuchan一起学习API和Fetch！",
+      "background": "city",
+      "title": "API和Fetch",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习API和Fetch！",
+      "background": "space",
+      "title": "API和Fetch - Part 1",
+      "content": "This is lesson 8 about API和Fetch. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 API和Fetch - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习API和Fetch！",
+      "background": "forest",
+      "title": "API和Fetch - Part 2",
+      "content": "This is lesson 8 about API和Fetch. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 API和Fetch - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习API和Fetch！",
+      "background": "classroom",
+      "title": "API和Fetch - Part 3",
+      "content": "This is lesson 8 about API和Fetch. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 API和Fetch - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习API和Fetch！",
+      "background": "city",
+      "title": "API和Fetch - Part 4",
+      "content": "This is lesson 8 about API和Fetch. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 API和Fetch - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习API和Fetch！",
+      "background": "candy",
+      "title": "API和Fetch - Part 5",
+      "content": "This is lesson 8 about API和Fetch. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 API和Fetch - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习API和Fetch！",
+      "background": "ocean",
+      "title": "API和Fetch - Part 6",
+      "content": "This is lesson 8 about API和Fetch. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 API和Fetch - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习API和Fetch！",
+      "background": "classroom",
+      "title": "API和Fetch - Part 7",
+      "content": "This is lesson 8 about API和Fetch. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 API和Fetch - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习API和Fetch！",
+      "background": "forest",
+      "title": "API和Fetch - Part 8",
+      "content": "This is lesson 8 about API和Fetch. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 API和Fetch - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "课程完成！做得好！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

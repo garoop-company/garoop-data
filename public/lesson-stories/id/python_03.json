@@ -1,0 +1,131 @@
+{
+  "title": "Percabangan Kondisi",
+  "description": "Belajar Python: Percabangan Kondisi",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ayo belajar Python bersama Garuchan!",
+      "background": "forest",
+      "title": "Percabangan Kondisi",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Percabangan Kondisi!",
+      "background": "forest",
+      "title": "Percabangan Kondisi (1)",
+      "content": "This lesson covers Percabangan Kondisi — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Percabangan Kondisi!",
+      "background": "classroom",
+      "title": "Percabangan Kondisi (2)",
+      "content": "This lesson covers Percabangan Kondisi — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Percabangan Kondisi!",
+      "background": "city",
+      "title": "Percabangan Kondisi (3)",
+      "content": "This lesson covers Percabangan Kondisi — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Percabangan Kondisi!",
+      "background": "candy",
+      "title": "Percabangan Kondisi (4)",
+      "content": "This lesson covers Percabangan Kondisi — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Percabangan Kondisi!",
+      "background": "ocean",
+      "title": "Percabangan Kondisi (5)",
+      "content": "This lesson covers Percabangan Kondisi — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Percabangan Kondisi!",
+      "background": "space",
+      "title": "Percabangan Kondisi (6)",
+      "content": "This lesson covers Percabangan Kondisi — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Percabangan Kondisi!",
+      "background": "classroom",
+      "title": "Percabangan Kondisi (7)",
+      "content": "This lesson covers Percabangan Kondisi — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Percabangan Kondisi!",
+      "background": "forest",
+      "title": "Percabangan Kondisi (8)",
+      "content": "This lesson covers Percabangan Kondisi — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pelajaran selesai!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

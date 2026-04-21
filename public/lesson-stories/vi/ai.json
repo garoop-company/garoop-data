@@ -1,0 +1,125 @@
+{
+  "title": "AI là gì?",
+  "description": "Khám phá cách máy tính trở nên thông minh!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Xin chào bạn! Sẵn sàng khám phá thế giới AI chưa? Bắt đầu thôi!",
+      "background": "space",
+      "title": "Chào mừng đến thế giới AI!",
+      "emoji": "🤖",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI là viết tắt của Trí tuệ nhân tạo - máy tính có thể suy nghĩ như con người!",
+      "background": "space",
+      "title": "AI = Trí tuệ nhân tạo",
+      "content": "Artificial Intelligence (AI) là công nghệ giúp máy tính học hỏi, suy nghĩ và đưa ra quyết định tự động.",
+      "emoji": "🧠",
+      "highlight": "AI = Máy tính tự học tập"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI học từ rất nhiều dữ liệu, giống như bạn học từ kinh nghiệm!",
+      "background": "classroom",
+      "title": "Cách AI học?",
+      "content": "Machine Learning là cách AI học từ ví dụ. Càng nhiều dữ liệu, AI càng thông minh hơn!",
+      "emoji": "📚",
+      "highlight": "Nhiều dữ liệu → Học → AI thông minh hơn"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Não AI giống não người, nhưng được tạo từ các con số!",
+      "background": "city",
+      "title": "Mạng thần kinh = Não kỹ thuật số",
+      "content": "Neural Network mô phỏng cách tế bào não con người hoạt động. Hàng triệu kết nối số làm việc cùng nhau!",
+      "emoji": "⚡",
+      "highlight": "Tế bào não 🧠 → Mạng thần kinh số 💻"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ChatGPT có thể trò chuyện vì đã đọc hàng tỷ từ ngữ!",
+      "background": "forest",
+      "title": "AI Trò chuyện (Chatbot)",
+      "content": "LLM như ChatGPT học từ văn bản rất nhiều, sau đó có thể trả lời câu hỏi và tạo nội dung.",
+      "emoji": "💬",
+      "highlight": "📖 Nghìn tỷ chữ → LLM → Có thể trò chuyện!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI có thể nhận biết ảnh và hình ảnh! Như đôi mắt siêu nhạy!",
+      "background": "ocean",
+      "title": "AI nhận dạng hình ảnh",
+      "content": "AI có thể phân biệt ảnh mèo và chó, nhận diện khuôn mặt. Được dùng trong camera điện thoại!",
+      "emoji": "👁️",
+      "highlight": "📸 Ảnh → AI phân tích → 'Đây là mèo!'"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI tạo sinh có thể tạo hình ảnh, âm nhạc, video từ văn bản thông thường!",
+      "background": "candy",
+      "title": "AI Tạo sinh = AI Sáng tạo",
+      "content": "Midjourney, DALL-E, Suno AI có thể tạo ra tác phẩm nghệ thuật mới dựa trên mô tả của bạn!",
+      "emoji": "🎨",
+      "highlight": "Văn bản → 🖼️ Hình ảnh / 🎵 Nhạc / 🎬 Video"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI đã có mặt khắp nơi! Trong điện thoại, xe hơi, bệnh viện!",
+      "background": "city",
+      "title": "AI trong cuộc sống hàng ngày",
+      "content": "Gợi ý YouTube, lọc ảnh Instagram, điều hướng Google Maps - tất cả đều dùng AI! Bạn đã dùng AI mỗi ngày rồi!",
+      "emoji": "📱",
+      "highlight": "YouTube 📺 / Maps 🗺️ / Dịch thuật 🌐 / Y tế 🏥"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Trong tương lai, AI sẽ hỗ trợ bác sĩ, nhà khoa học và giáo viên!",
+      "background": "space",
+      "title": "Tương lai của AI",
+      "content": "AI sẽ tiếp tục phát triển và giúp con người giải quyết những vấn đề lớn. Bạn có thể tham gia tạo ra AI tốt!",
+      "emoji": "🌟",
+      "highlight": "🔬 Khoa học  🏥 Y tế  🌍 Môi trường  🎓 Giáo dục"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chúc mừng! Bạn đã biết nhiều về AI! Hãy dùng AI cho điều tốt nhé!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "⭐",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

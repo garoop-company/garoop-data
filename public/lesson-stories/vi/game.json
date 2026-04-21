@@ -1,0 +1,125 @@
+{
+  "title": "Hãy làm game!",
+  "description": "Bước đầu tiên hướng tới việc tạo ra game của riêng bạn!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn có muốn tự làm game không? Hãy cùng bắt đầu cuộc phiêu lưu này!",
+      "background": "candy",
+      "title": "Chào mừng đến thế giới Game!",
+      "emoji": "🎮",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Phát triển game là quá trình tạo ra game từ đầu bằng máy tính!",
+      "background": "city",
+      "title": "Phát triển game là gì?",
+      "content": "Game developer kết hợp lập trình, nghệ thuật, âm nhạc và thiết kế để tạo ra trải nghiệm chơi game thú vị!",
+      "emoji": "🛠️",
+      "highlight": "Code + Nghệ thuật + Nhạc + Thiết kế = Game!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Game chạy trong vòng lặp! Liên tục kiểm tra, cập nhật và vẽ màn hình!",
+      "background": "classroom",
+      "title": "Game Loop = Trái tim của game",
+      "content": "Mọi game đều có chu kỳ: đọc input → cập nhật thế giới game → vẽ lên màn hình → lặp lại! Xảy ra 60 lần mỗi giây!",
+      "emoji": "🔄",
+      "highlight": "Input → Cập nhật → Render → Lặp lại!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Input của người chơi là cách điều khiển nhân vật trong game!",
+      "background": "forest",
+      "title": "Input người chơi",
+      "content": "Nhấn nút, di joystick, chạm màn hình - tất cả là input phải được game xử lý!",
+      "emoji": "🕹️",
+      "highlight": "⬆️⬇️⬅️➡️ Nút → Nhân vật di chuyển!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Sprite là hình ảnh 2D dùng cho nhân vật và vật thể trong game!",
+      "background": "candy",
+      "title": "Sprite & Hoạt hình",
+      "content": "Nhân vật game được tạo từ sprite. Hoạt hình được tạo bằng cách thay đổi sprite nhanh, như sách lật!",
+      "emoji": "🏃",
+      "highlight": "🖼️→🖼️→🖼️ (nhanh) = Hoạt hình!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Vật lý trong game làm cho thế giới ảo cảm thấy thật!",
+      "background": "ocean",
+      "title": "Vật lý Game",
+      "content": "Trọng lực, va chạm, nhảy - tất cả được tính bởi engine vật lý. Bóng nảy, nhân vật rơi, đều dùng vật lý!",
+      "emoji": "🌍",
+      "highlight": "⬇️ Trọng lực  💥 Va chạm  🏀 Nảy"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Âm nhạc và âm thanh làm cho game thú vị hơn rất nhiều!",
+      "background": "city",
+      "title": "Thiết kế âm thanh",
+      "content": "Hiệu ứng âm thanh, nhạc nền và lời thoại tất cả tăng thêm niềm vui cho game. Thử tưởng tượng Minecraft không có âm thanh!",
+      "emoji": "🎵",
+      "highlight": "🎮 + 🎵 = Trải nghiệm tuyệt vời!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Unity và Scratch là công cụ phổ biến để bắt đầu làm game!",
+      "background": "classroom",
+      "title": "Công cụ làm game",
+      "content": "Scratch phù hợp cho người mới - kéo thả! Unity dùng cho chuyên nghiệp. Godot miễn phí và mã nguồn mở!",
+      "emoji": "⚙️",
+      "highlight": "🟠 Scratch (Mới)  🔵 Unity (Pro)  🟣 Godot (Miễn phí)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Nhiều game nổi tiếng được tạo bởi nhóm nhỏ hoặc thậm chí một người!",
+      "background": "space",
+      "title": "Game Indie = Bạn có thể làm!",
+      "content": "Minecraft do 1 người làm! Undertale do 1 người làm! Bạn cũng có thể tạo game được hàng triệu người chơi!",
+      "emoji": "🌟",
+      "highlight": "💡 Ý tưởng + 💻 Kỹ năng + ❤️ Nhiệt huyết = Game thành công!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tuyệt vời! Bây giờ bạn biết cách game hoạt động. Bắt đầu làm game đầu tiên đi!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "File Operations",
+  "description": "Learn to read and write files",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's read and write files with Python!",
+      "background": "city",
+      "title": "File Operations",
+      "emoji": "📂",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Access files with the open() function!",
+      "background": "city",
+      "title": "Opening Files",
+      "content": "with open('test.txt', 'r') as f: opens a file. Using 'with' automatically closes it!",
+      "emoji": "📂",
+      "highlight": "with open(filename, mode) as f:"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ways to read file contents!",
+      "background": "forest",
+      "title": "Reading Files",
+      "content": "f.read() reads all content, f.readline() reads one line, f.readlines() reads all lines as a list!",
+      "emoji": "📖",
+      "highlight": "read() all  readline() one line  readlines() all lines"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Write data to files!",
+      "background": "classroom",
+      "title": "Writing Files",
+      "content": "open('output.txt', 'w') for overwrite mode, 'a' for append mode. f.write('text') to write!",
+      "emoji": "✏️",
+      "highlight": "'w' overwrite  'a' append  write() writes text"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "CSV files for tabular data!",
+      "background": "candy",
+      "title": "CSV Format",
+      "content": "import csv to read and write. Process Excel-friendly CSV files easily with Python!",
+      "emoji": "📊",
+      "highlight": "import csv → Process Excel data!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JSON data used widely on the web!",
+      "background": "ocean",
+      "title": "JSON Format",
+      "content": "import json converts between Python dicts and JSON. Almost all API data is JSON!",
+      "emoji": "🌐",
+      "highlight": "import json → Process API data!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Handling file locations!",
+      "background": "forest",
+      "title": "Path Operations",
+      "content": "import os or import pathlib for creating folders, listing files, joining paths!",
+      "emoji": "📁",
+      "highlight": "os.path / pathlib → filesystem operations"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "What to do when a file isn't found!",
+      "background": "classroom",
+      "title": "Error Handling",
+      "content": "try/except FileNotFoundError safely handles the case when a file doesn't exist!",
+      "emoji": "🛡️",
+      "highlight": "try: open() except FileNotFoundError: handle it"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's build a real log file system!",
+      "background": "space",
+      "title": "Practical: Log Files",
+      "content": "Record date, time, and messages to a file. A real-world technique used in production systems!",
+      "emoji": "📝",
+      "highlight": "Log = Date + Time + Message"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've mastered file operations — practical skills!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

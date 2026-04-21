@@ -1,0 +1,131 @@
+{
+  "title": "掛け算と割り算",
+  "description": "九九と割り算をマスターしよう",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "掛け算と割り算で計算の達人になろう！",
+      "background": "forest",
+      "title": "掛け算と割り算",
+      "emoji": "✖️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "同じ数を何度も足すより速い方法！",
+      "background": "space",
+      "title": "掛け算の意味",
+      "content": "3×4は3を4回足すのと同じ＝12。掛け算を覚えると計算が超速くなります！",
+      "emoji": "✖️",
+      "highlight": "3 × 4 = 12 (3を4回足したのと同じ)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "1から9までの掛け算表！",
+      "background": "forest",
+      "title": "九九を覚えよう",
+      "content": "1の段から9の段まで覚えよう！2×1=2から9×9=81まで。歌って覚えると楽しい！",
+      "emoji": "📖",
+      "highlight": "2×1=2 ... 9×9=81 暗記しよう！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "大きな数の掛け算の方法！",
+      "background": "classroom",
+      "title": "掛け算の筆算",
+      "content": "123×45の計算方法。位ごとに計算して足し合わせます。練習すれば必ずできる！",
+      "emoji": "📐",
+      "highlight": "位ごとに計算 → 足し合わせる"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "等しく分ける操作が割り算！",
+      "background": "city",
+      "title": "割り算の意味",
+      "content": "12÷4＝3。12個を4人で等しく分けると1人3個。公平に分けるときに使います！",
+      "emoji": "➗",
+      "highlight": "12 ÷ 4 = 3 (4人で等しく分ける)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "大きな数の割り算の方法！",
+      "background": "candy",
+      "title": "割り算の筆算",
+      "content": "96÷8の計算方法。大きな数は商を立てて計算します。コツをつかめば簡単！",
+      "emoji": "📊",
+      "highlight": "商 → 確認 → 余り"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "割り切れないときの余り！",
+      "background": "ocean",
+      "title": "余りのある割り算",
+      "content": "17÷5＝3余り2。5×3＝15、17－15＝2が余り。余りは割る数より小さい！",
+      "emoji": "🔣",
+      "highlight": "17 ÷ 5 = 3 余り 2"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "計算を楽にする便利な法則！",
+      "background": "classroom",
+      "title": "分配法則",
+      "content": "(2＋3)×4＝2×4＋3×4＝8＋12＝20。分配法則で計算が楽になります！",
+      "emoji": "⚖️",
+      "highlight": "(a+b)×c = a×c + b×c"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "実生活での使い方を学ぼう！",
+      "background": "forest",
+      "title": "掛け算・割り算の応用",
+      "content": "買い物の合計、料理の分量、時間の計算…掛け算割り算は日常の必須スキルです！",
+      "emoji": "🌍",
+      "highlight": "買い物・料理・時間 = 毎日使う！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "掛け算と割り算をマスターしたね！計算が速くなった！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Ayo Belajar Matematika!",
+  "description": "Rasakan keajaiban angka bersama Garuchan!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Halo! Matematika itu seru, lho! Ayo kita belajar bersama-sama!",
+      "background": "classroom",
+      "title": "Keajaiban Matematika!",
+      "emoji": "🔢",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Penjumlahan artinya menggabungkan. 3 apel plus 2 apel jadi berapa?",
+      "background": "forest",
+      "title": "Penjumlahan",
+      "content": "3 + 2 = 5. Ketika kita menggabungkan 3 dan 2, hasilnya 5! Penjumlahan ada di mana-mana dalam kehidupan kita.",
+      "emoji": "🍎",
+      "highlight": "🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Pengurangan artinya mengambil. Kalau ada 8 kue, dimakan 3, sisa berapa?",
+      "background": "candy",
+      "title": "Pengurangan",
+      "content": "8 - 3 = 5. Ketika kita mengambil sesuatu dari yang lain, kita menggunakan pengurangan!",
+      "emoji": "🍰",
+      "highlight": "8 - 3 = 5\n🍰🍰🍰🍰🍰 (sisa 5)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Perkalian adalah cara cepat menjumlahkan angka yang sama berkali-kali!",
+      "background": "classroom",
+      "title": "Perkalian",
+      "content": "4 x 3 = 12. Artinya 4 ditambah 4 ditambah 4 (tiga kali). Lebih cepat dari penjumlahan berulang!",
+      "emoji": "⭐",
+      "highlight": "4 × 3 = 12\n(4 + 4 + 4 = 12)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Pembagian adalah cara membagi sesuatu secara merata untuk semua orang!",
+      "background": "forest",
+      "title": "Pembagian",
+      "content": "12 ÷ 4 = 3. Artinya 12 dibagi rata menjadi 4 kelompok, setiap kelompok dapat 3!",
+      "emoji": "🍕",
+      "highlight": "12 ÷ 4 = 3\n🍕🍕🍕 untuk setiap orang"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Pecahan menunjukkan bagian dari sesuatu yang utuh. Seperti memotong pizza!",
+      "background": "candy",
+      "title": "Pecahan",
+      "content": "1/2 artinya satu dari dua bagian yang sama. 3/4 artinya tiga dari empat bagian. Digunakan saat memasak dan berbelanja!",
+      "emoji": "🥧",
+      "highlight": "1/2 = setengah\n3/4 = tiga perempat"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Persen artinya dari 100 bagian. Diskon 50% artinya setengah harga!",
+      "background": "city",
+      "title": "Persen (%)",
+      "content": "100% = semuanya, 50% = setengah, 25% = seperempat. Persen digunakan di mana-mana: belanja, nilai sekolah, bank!",
+      "emoji": "💯",
+      "highlight": "50% dari 100 = 50\n25% dari 80 = 20"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Geometri adalah matematika tentang bentuk dan ruang!",
+      "background": "classroom",
+      "title": "Geometri: Bentuk-Bentuk",
+      "content": "Segitiga punya 3 sisi, persegi 4 sisi sama panjang, lingkaran tidak punya sudut. Geometri ada di bangunan, seni, dan alam!",
+      "emoji": "📐",
+      "highlight": "△ Segitiga  □ Persegi  ○ Lingkaran"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Matematika digunakan oleh dokter, arsitek, ilmuwan, dan programmer!",
+      "background": "space",
+      "title": "Matematika di Dunia Nyata",
+      "content": "Coding, keuangan, arsitektur, dan sains semuanya butuh matematika. Belajar matematika adalah investasi terbaik!",
+      "emoji": "🌍",
+      "highlight": "💰 Keuangan  🏛️ Arsitektur  🚀 Sains  💻 Coding"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bagus sekali! Kamu sudah belajar banyak matematika hari ini! Terus berlatih!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

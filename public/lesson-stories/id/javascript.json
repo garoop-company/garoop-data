@@ -1,0 +1,125 @@
+{
+  "title": "Apa itu JavaScript?",
+  "description": "Bahasa ajaib yang membuat halaman web menjadi hidup!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Halo! Hari ini kita belajar JavaScript, bahasa yang bikin web jadi keren!",
+      "background": "city",
+      "title": "Selamat Datang di JavaScript!",
+      "emoji": "🟨",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JavaScript adalah bahasa yang membuat website bisa bergerak dan bereaksi!",
+      "background": "city",
+      "title": "JavaScript = Bahasa Web Interaktif",
+      "content": "Tombol, game, animasi, dan efek di website biasanya menggunakan JavaScript. Tiga serangkai web: HTML + CSS + JS!",
+      "emoji": "⚡",
+      "highlight": "🌐 Web = HTML + CSS + JavaScript"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "console.log bisa digunakan untuk melihat pesan di browser. Berguna untuk testing!",
+      "background": "classroom",
+      "title": "Coba console.log",
+      "content": "Buka developer tools di browser, dan kamu akan melihat pesan yang kamu tulis. Ini cara programmer cek kode mereka!",
+      "emoji": "🖥️",
+      "highlight": "console.log(\"Halo Dunia!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Variabel let dan const digunakan untuk menyimpan data di JavaScript!",
+      "background": "forest",
+      "title": "Variabel: let dan const",
+      "content": "Gunakan 'let' untuk data yang bisa berubah, dan 'const' untuk data yang tetap. Seperti papan nama yang bisa diganti atau tidak!",
+      "emoji": "📝",
+      "highlight": "let umur = 10;\nconst nama = 'Budi';"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Fungsi adalah blok kode yang bisa dipanggil berkali-kali. Seperti resep masak!",
+      "background": "ocean",
+      "title": "Fungsi = Blok Kode Reusable",
+      "content": "Tulis fungsi sekali, panggil berkali-kali! Ini membuat kode lebih rapi dan mudah dipahami.",
+      "emoji": "🧑‍🍳",
+      "highlight": "function sapa() {\n  alert('Halo!');\n}\nsapa();"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "DOM adalah cara JavaScript mengubah tampilan halaman web secara langsung!",
+      "background": "city",
+      "title": "Manipulasi DOM",
+      "content": "JavaScript bisa mengubah teks, warna, dan elemen di halaman web. Website jadi dinamis dan interaktif!",
+      "emoji": "✏️",
+      "highlight": "document.getElementById('judul')\n  .textContent = 'Baru!';"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Event listener membuat website bisa merespons aksi pengguna seperti klik!",
+      "background": "candy",
+      "title": "Event = Aksi Pengguna",
+      "content": "Klik tombol, gerakkan mouse, tekan keyboard - semua itu adalah 'event' yang bisa direspons JavaScript!",
+      "emoji": "👆",
+      "highlight": "tombol.addEventListener('click',\n  () => alert('Diklik!'));"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Array adalah daftar nilai yang tersimpan dalam satu variabel!",
+      "background": "classroom",
+      "title": "Array = Koleksi Data",
+      "content": "Array memungkinkan kamu menyimpan banyak nilai sekaligus. Bisa diakses dengan nomor urut mulai dari 0!",
+      "emoji": "📋",
+      "highlight": "const warna = ['merah','biru','hijau'];\nconsole.log(warna[1]); // biru"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "JavaScript modern punya banyak fitur keren. Digunakan di website terbesar dunia!",
+      "background": "space",
+      "title": "JavaScript di Dunia Nyata",
+      "content": "Facebook, YouTube, Twitter, dan hampir semua website besar menggunakan JavaScript. Ini adalah skill yang sangat dicari!",
+      "emoji": "🌍",
+      "highlight": "📱 App Web  🎮 Game Browser  🤖 Node.js Server"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hebat! Kamu sudah melangkah pertama ke dunia JavaScript! Terus belajar ya!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🚀",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

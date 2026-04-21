@@ -1,0 +1,131 @@
+{
+  "title": "リストと辞書",
+  "description": "データをまとめて管理するコレクション",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "リストと辞書でデータをスマートに管理しよう！",
+      "background": "forest",
+      "title": "リストと辞書",
+      "emoji": "📋",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "複数の値をひとまとめにする入れ物だよ！",
+      "background": "forest",
+      "title": "リストの基本",
+      "content": "fruits = ['りんご','みかん','バナナ'] でリスト作成。インデックスで fruits[0]='りんご' が取れます！",
+      "emoji": "📋",
+      "highlight": "リスト = [値1, 値2, 値3, ...]"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "リストに追加・削除・変更ができるよ！",
+      "background": "classroom",
+      "title": "リストの操作",
+      "content": "append()で追加、remove()で削除、pop()で末尾を取り出し、len()で長さが分かります！",
+      "emoji": "⚙️",
+      "highlight": "append追加 remove削除 pop取り出し len長さ"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "リストの一部を取り出せるよ！",
+      "background": "city",
+      "title": "スライス",
+      "content": "fruits[1:3]で1〜2番目を取得。fruits[:2]で最初の2つ。fruits[::2]で1つ飛ばし！",
+      "emoji": "✂️",
+      "highlight": "リスト[start:end:step] → 部分取得"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "キーと値のペアでデータを管理するよ！",
+      "background": "candy",
+      "title": "辞書の基本",
+      "content": "person = {'name':'太郎','age':10} のように、名前をキーにしてデータを管理できます！",
+      "emoji": "📖",
+      "highlight": "辞書 = {キー: 値, キー: 値, ...}"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "辞書のデータを追加・変更・削除しよう！",
+      "background": "ocean",
+      "title": "辞書の操作",
+      "content": "person['email'] = 'test@test.com'で追加、del person['age']で削除、キー一覧はperson.keys()！",
+      "emoji": "✏️",
+      "highlight": "d[key] = value  del d[key]  d.keys()"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "変更できないリストがタプルだよ！",
+      "background": "forest",
+      "title": "タプル",
+      "content": "point = (3, 5) のように()で作るタプルは変更不可。座標や設定値など変えてはいけない値に使います！",
+      "emoji": "🔒",
+      "highlight": "(1, 2, 3) → 変更不可のリスト"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "重複のないコレクションだよ！",
+      "background": "classroom",
+      "title": "セット（集合）",
+      "content": "colors = {'赤','青','緑'} のようにセットは重複を自動で除去。和集合・積集合などの集合演算もできます！",
+      "emoji": "🎲",
+      "highlight": "{'a','b','c'} → 重複なし自動除去"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "状況に合ったデータ構造を選ぼう！",
+      "background": "space",
+      "title": "データ構造の選び方",
+      "content": "順序が大事→リスト、キーで検索→辞書、変更しない→タプル、重複除去→セット。目的で使い分けよう！",
+      "emoji": "🗂️",
+      "highlight": "リスト・辞書・タプル・セット → 目的で選ぶ！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "データ構造を使いこなせるようになったね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

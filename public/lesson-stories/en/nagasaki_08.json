@@ -1,0 +1,131 @@
+{
+  "title": "Technology in Nagasaki",
+  "description": "Learn Technology in Nagasaki in a fun and engaging way with Garuchan!",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn Technology in Nagasaki with Garuchan!",
+      "background": "ocean",
+      "title": "Technology in Nagasaki",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Technology in Nagasaki with Garuchan!",
+      "background": "space",
+      "title": "Technology in Nagasaki - Part 1",
+      "content": "This is lesson 8 about Technology in Nagasaki. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Technology in Nagasaki - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Technology in Nagasaki with Garuchan!",
+      "background": "forest",
+      "title": "Technology in Nagasaki - Part 2",
+      "content": "This is lesson 8 about Technology in Nagasaki. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Technology in Nagasaki - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Technology in Nagasaki with Garuchan!",
+      "background": "classroom",
+      "title": "Technology in Nagasaki - Part 3",
+      "content": "This is lesson 8 about Technology in Nagasaki. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Technology in Nagasaki - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Technology in Nagasaki with Garuchan!",
+      "background": "city",
+      "title": "Technology in Nagasaki - Part 4",
+      "content": "This is lesson 8 about Technology in Nagasaki. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Technology in Nagasaki - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Technology in Nagasaki with Garuchan!",
+      "background": "candy",
+      "title": "Technology in Nagasaki - Part 5",
+      "content": "This is lesson 8 about Technology in Nagasaki. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Technology in Nagasaki - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Technology in Nagasaki with Garuchan!",
+      "background": "ocean",
+      "title": "Technology in Nagasaki - Part 6",
+      "content": "This is lesson 8 about Technology in Nagasaki. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Technology in Nagasaki - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Technology in Nagasaki with Garuchan!",
+      "background": "classroom",
+      "title": "Technology in Nagasaki - Part 7",
+      "content": "This is lesson 8 about Technology in Nagasaki. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Technology in Nagasaki - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Technology in Nagasaki with Garuchan!",
+      "background": "forest",
+      "title": "Technology in Nagasaki - Part 8",
+      "content": "This is lesson 8 about Technology in Nagasaki. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Technology in Nagasaki - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Lesson complete! Great work!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

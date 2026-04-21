@@ -1,0 +1,131 @@
+{
+  "title": "Phần trăm",
+  "description": "Học Phần trăm theo cách thú vị cùng Garuchan!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Phần trăm cùng Garuchan!",
+      "background": "classroom",
+      "title": "Phần trăm",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Phần trăm cùng Garuchan!",
+      "background": "space",
+      "title": "Phần trăm - Part 1",
+      "content": "This is lesson 4 about Phần trăm. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Phần trăm - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Phần trăm cùng Garuchan!",
+      "background": "forest",
+      "title": "Phần trăm - Part 2",
+      "content": "This is lesson 4 about Phần trăm. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Phần trăm - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Phần trăm cùng Garuchan!",
+      "background": "classroom",
+      "title": "Phần trăm - Part 3",
+      "content": "This is lesson 4 about Phần trăm. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Phần trăm - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Phần trăm cùng Garuchan!",
+      "background": "city",
+      "title": "Phần trăm - Part 4",
+      "content": "This is lesson 4 about Phần trăm. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Phần trăm - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Phần trăm cùng Garuchan!",
+      "background": "candy",
+      "title": "Phần trăm - Part 5",
+      "content": "This is lesson 4 about Phần trăm. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Phần trăm - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Phần trăm cùng Garuchan!",
+      "background": "ocean",
+      "title": "Phần trăm - Part 6",
+      "content": "This is lesson 4 about Phần trăm. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Phần trăm - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Phần trăm cùng Garuchan!",
+      "background": "classroom",
+      "title": "Phần trăm - Part 7",
+      "content": "This is lesson 4 about Phần trăm. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Phần trăm - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Phần trăm cùng Garuchan!",
+      "background": "forest",
+      "title": "Phần trăm - Part 8",
+      "content": "This is lesson 4 about Phần trăm. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Phần trăm - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

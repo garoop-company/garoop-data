@@ -1,0 +1,131 @@
+{
+  "title": "Package & Module",
+  "description": "Học Package & Module theo cách thú vị cùng Garuchan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Package & Module cùng Garuchan!",
+      "background": "forest",
+      "title": "Package & Module",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Package & Module cùng Garuchan!",
+      "background": "space",
+      "title": "Package & Module - Part 1",
+      "content": "This is lesson 9 about Package & Module. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Package & Module - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Package & Module cùng Garuchan!",
+      "background": "forest",
+      "title": "Package & Module - Part 2",
+      "content": "This is lesson 9 about Package & Module. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Package & Module - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Package & Module cùng Garuchan!",
+      "background": "classroom",
+      "title": "Package & Module - Part 3",
+      "content": "This is lesson 9 about Package & Module. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Package & Module - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Package & Module cùng Garuchan!",
+      "background": "city",
+      "title": "Package & Module - Part 4",
+      "content": "This is lesson 9 about Package & Module. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Package & Module - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Package & Module cùng Garuchan!",
+      "background": "candy",
+      "title": "Package & Module - Part 5",
+      "content": "This is lesson 9 about Package & Module. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Package & Module - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Package & Module cùng Garuchan!",
+      "background": "ocean",
+      "title": "Package & Module - Part 6",
+      "content": "This is lesson 9 about Package & Module. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Package & Module - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Package & Module cùng Garuchan!",
+      "background": "classroom",
+      "title": "Package & Module - Part 7",
+      "content": "This is lesson 9 about Package & Module. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Package & Module - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Package & Module cùng Garuchan!",
+      "background": "forest",
+      "title": "Package & Module - Part 8",
+      "content": "This is lesson 9 about Package & Module. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Package & Module - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

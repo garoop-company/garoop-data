@@ -1,0 +1,131 @@
+{
+  "title": "Variabel dan Tipe Data",
+  "description": "Belajar Python: Variabel dan Tipe Data",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ayo belajar Python bersama Garuchan!",
+      "background": "forest",
+      "title": "Variabel dan Tipe Data",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Variabel dan Tipe Data!",
+      "background": "forest",
+      "title": "Variabel dan Tipe Data (1)",
+      "content": "This lesson covers Variabel dan Tipe Data — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Variabel dan Tipe Data!",
+      "background": "classroom",
+      "title": "Variabel dan Tipe Data (2)",
+      "content": "This lesson covers Variabel dan Tipe Data — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Variabel dan Tipe Data!",
+      "background": "city",
+      "title": "Variabel dan Tipe Data (3)",
+      "content": "This lesson covers Variabel dan Tipe Data — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Variabel dan Tipe Data!",
+      "background": "candy",
+      "title": "Variabel dan Tipe Data (4)",
+      "content": "This lesson covers Variabel dan Tipe Data — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Variabel dan Tipe Data!",
+      "background": "ocean",
+      "title": "Variabel dan Tipe Data (5)",
+      "content": "This lesson covers Variabel dan Tipe Data — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Variabel dan Tipe Data!",
+      "background": "space",
+      "title": "Variabel dan Tipe Data (6)",
+      "content": "This lesson covers Variabel dan Tipe Data — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Variabel dan Tipe Data!",
+      "background": "classroom",
+      "title": "Variabel dan Tipe Data (7)",
+      "content": "This lesson covers Variabel dan Tipe Data — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Variabel dan Tipe Data!",
+      "background": "forest",
+      "title": "Variabel dan Tipe Data (8)",
+      "content": "This lesson covers Variabel dan Tipe Data — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pelajaran selesai!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

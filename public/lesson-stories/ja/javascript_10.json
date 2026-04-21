@@ -1,0 +1,131 @@
+{
+  "title": "JSプロジェクト",
+  "description": "実際にJSプロジェクトを作ろう",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "今まで学んだJSで本物のWebアプリを作ろう！",
+      "background": "space",
+      "title": "JSプロジェクト",
+      "emoji": "📋",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "何を作るか計画しよう！",
+      "background": "space",
+      "title": "プロジェクト計画",
+      "content": "ワイヤーフレームを書く、機能リストを作る、HTMLで骨格を作る、CSSで見た目、JSで動き。順番通りに進めよう！",
+      "emoji": "📋",
+      "highlight": "計画→HTML→CSS→JS → 順番通りに！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "HTML+CSS+JSで電卓を作ろう！",
+      "background": "forest",
+      "title": "電卓アプリ",
+      "content": "数字ボタンのDOM操作、クリックイベント、計算ロジック。JS・CSS・HTMLを全部使う集大成！",
+      "emoji": "🧮",
+      "highlight": "数字ボタン + 計算ロジック = 電卓！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "インタラクティブなクイズを作ろう！",
+      "background": "classroom",
+      "title": "クイズアプリ",
+      "content": "問題配列、random出題、スコア管理。fetch APIでオンラインクイズデータベースも使えます！",
+      "emoji": "❓",
+      "highlight": "問題配列 + random + スコア = クイズ！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "カウントダウンタイマーを作ろう！",
+      "background": "city",
+      "title": "タイマーアプリ",
+      "content": "setInterval()でカウントダウン、audioを使ってアラーム音も追加できます！",
+      "emoji": "⏰",
+      "highlight": "setInterval() → タイマー！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "天気APIを使ったアプリを作ろう！",
+      "background": "candy",
+      "title": "天気予報アプリ",
+      "content": "天気APIから取得したデータを美しく表示。アイコン、気温、天気の説明を表示しよう！",
+      "emoji": "⛅",
+      "highlight": "fetch + APIデータ = 天気アプリ！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "localStorageでメッセージを保存しよう！",
+      "background": "ocean",
+      "title": "簡易チャットアプリ",
+      "content": "localStorage.setItem/getItemでデータを保存。ページを閉じても消えないアプリが作れます！",
+      "emoji": "💬",
+      "highlight": "localStorage → データを永続保存！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "自分の作品を見せるサイトを作ろう！",
+      "background": "classroom",
+      "title": "ポートフォリオサイト",
+      "content": "これまで作ったプロジェクトを全部載せた個人サイトを作ろう。就職・受験に役立ちます！",
+      "emoji": "🌐",
+      "highlight": "ポートフォリオ = 就職の切り札！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "作ったものをGitHubで世界に公開！",
+      "background": "forest",
+      "title": "GitHubで公開",
+      "content": "git init → git add → git commit → git push → GitHub Pages で公開！",
+      "emoji": "🚀",
+      "highlight": "GitHub Pages → 無料でWeb公開！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "JavaScriptで本格的なWebアプリを完成させた！すごい！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

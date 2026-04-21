@@ -1,0 +1,131 @@
+{
+  "title": "Xử lý Sự kiện",
+  "description": "Học Xử lý Sự kiện theo cách thú vị cùng Garuchan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Xử lý Sự kiện cùng Garuchan!",
+      "background": "city",
+      "title": "Xử lý Sự kiện",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Xử lý Sự kiện cùng Garuchan!",
+      "background": "space",
+      "title": "Xử lý Sự kiện - Part 1",
+      "content": "This is lesson 5 about Xử lý Sự kiện. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Xử lý Sự kiện - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Xử lý Sự kiện cùng Garuchan!",
+      "background": "forest",
+      "title": "Xử lý Sự kiện - Part 2",
+      "content": "This is lesson 5 about Xử lý Sự kiện. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Xử lý Sự kiện - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Xử lý Sự kiện cùng Garuchan!",
+      "background": "classroom",
+      "title": "Xử lý Sự kiện - Part 3",
+      "content": "This is lesson 5 about Xử lý Sự kiện. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Xử lý Sự kiện - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Xử lý Sự kiện cùng Garuchan!",
+      "background": "city",
+      "title": "Xử lý Sự kiện - Part 4",
+      "content": "This is lesson 5 about Xử lý Sự kiện. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Xử lý Sự kiện - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Xử lý Sự kiện cùng Garuchan!",
+      "background": "candy",
+      "title": "Xử lý Sự kiện - Part 5",
+      "content": "This is lesson 5 about Xử lý Sự kiện. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Xử lý Sự kiện - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Xử lý Sự kiện cùng Garuchan!",
+      "background": "ocean",
+      "title": "Xử lý Sự kiện - Part 6",
+      "content": "This is lesson 5 about Xử lý Sự kiện. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Xử lý Sự kiện - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Xử lý Sự kiện cùng Garuchan!",
+      "background": "classroom",
+      "title": "Xử lý Sự kiện - Part 7",
+      "content": "This is lesson 5 about Xử lý Sự kiện. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Xử lý Sự kiện - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Xử lý Sự kiện cùng Garuchan!",
+      "background": "forest",
+      "title": "Xử lý Sự kiện - Part 8",
+      "content": "This is lesson 5 about Xử lý Sự kiện. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Xử lý Sự kiện - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

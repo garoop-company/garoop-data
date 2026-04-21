@@ -1,0 +1,89 @@
+{
+  "title": "सिकाइ सुरु गरौं!",
+  "description": "Garoop मा स्वागत छ! Garuchan सँगै रोचक कुराहरू सिकौं!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "स्वागत छ! म Garuchan हुँ! सँगै रमाइलोसँग सिकौं!",
+      "background": "space",
+      "title": "Garoop मा स्वागत छ!",
+      "emoji": "🌟",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garoop बच्चाहरूका लागि प्रविधि र AI सिक्ने प्लेटफर्म हो!",
+      "background": "city",
+      "title": "Garoop के हो?",
+      "content": "Garoop मा, तपाईं मजेदार तरिकाले प्रोग्रामिङ, AI, गणित र गेम विकास सिक्न सक्नुहुन्छ!",
+      "emoji": "🎓",
+      "highlight": "💻 कोडिङ  🤖 AI  🔢 गणित  🎮 गेम"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "सिक्ने सबैभन्दा राम्रो तरिका भनेको आफैं प्रयास गरेर केही बनाउनु हो!",
+      "background": "classroom",
+      "title": "प्रभावकारी सिकाइ तरिका",
+      "content": "केवल हेर्नु होइन - आफैं गर्नुस्! साना परियोजनाहरू बनाउनुस्, अन्वेषण गर्नुस् र गल्ती गर्न नडराउनुस्। गल्ती नै सिकाइ हो!",
+      "emoji": "✏️",
+      "highlight": "हेर्नु → प्रयास → असफल → सुधार → सफल!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI भविष्यको प्रविधि हो जुन अहिले नै हाम्रो वरिपरि छ!",
+      "background": "space",
+      "title": "AI को संसार",
+      "content": "ChatGPT, AI तस्बिर, AI संगीत - यी सबै प्रविधि हुन् जुन तपाईं सिक्न र प्रयोग गर्न सक्नुहुन्छ!",
+      "emoji": "🤖",
+      "highlight": "🎨 तस्बिर AI  🎵 संगीत AI  💬 च्याट AI  🔧 कोड AI"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "प्रोग्रामिङ भविष्यको महत्वपूर्ण सीप हो। अहिलेबाट सुरु गर्नुस्!",
+      "background": "forest",
+      "title": "किन कोडिङ सिक्ने?",
+      "content": "भविष्यमा लगभग सबै कामहरू प्रविधिसँग सम्बन्धित हुनेछन्। अहिले कोडिङ सिक्नु उज्यालो भविष्यको तयारी हो!",
+      "emoji": "💡",
+      "highlight": "२०३०: ८५% नयाँ काम अहिले अवस्थित छैनन्!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "आफ्नो सिकाइ लक्ष्य निर्धारण गर्नुस्! भविष्यमा के हुन चाहनुहुन्छ?",
+      "background": "ocean",
+      "title": "आफ्नो लक्ष्य निर्धारण गर्नुस्!",
+      "content": "प्रोग्रामर? गेम विकासकर्ता? AI वैज्ञानिक? उद्यमी? जे सपना भए पनि, आजैबाट सिक्न सुरु गर्नुस्!",
+      "emoji": "🎯",
+      "highlight": "ठूलो सपना + सानो कदम = सफलता!"
+    },
+    {
+      "id": 7,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "आफ्नो सिकाइ यात्रा सुरु गर्नुस्! Garuchan सधैं तपाईंको साथमा छ!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

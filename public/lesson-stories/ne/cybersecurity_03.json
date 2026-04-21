@@ -1,0 +1,131 @@
+{
+  "title": "फिसिङ आक्रमण",
+  "description": "Garuchan सँग फिसिङ आक्रमण रमाईलो तरिकाले सिकौं!",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Garuchan सँग फिसिङ आक्रमण सिकौं!",
+      "background": "ocean",
+      "title": "फिसिङ आक्रमण",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग फिसिङ आक्रमण सिकौं!",
+      "background": "space",
+      "title": "फिसिङ आक्रमण - Part 1",
+      "content": "This is lesson 3 about फिसिङ आक्रमण. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 फिसिङ आक्रमण - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग फिसिङ आक्रमण सिकौं!",
+      "background": "forest",
+      "title": "फिसिङ आक्रमण - Part 2",
+      "content": "This is lesson 3 about फिसिङ आक्रमण. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 फिसिङ आक्रमण - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग फिसिङ आक्रमण सिकौं!",
+      "background": "classroom",
+      "title": "फिसिङ आक्रमण - Part 3",
+      "content": "This is lesson 3 about फिसिङ आक्रमण. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 फिसिङ आक्रमण - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग फिसिङ आक्रमण सिकौं!",
+      "background": "city",
+      "title": "फिसिङ आक्रमण - Part 4",
+      "content": "This is lesson 3 about फिसिङ आक्रमण. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 फिसिङ आक्रमण - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग फिसिङ आक्रमण सिकौं!",
+      "background": "candy",
+      "title": "फिसिङ आक्रमण - Part 5",
+      "content": "This is lesson 3 about फिसिङ आक्रमण. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 फिसिङ आक्रमण - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग फिसिङ आक्रमण सिकौं!",
+      "background": "ocean",
+      "title": "फिसिङ आक्रमण - Part 6",
+      "content": "This is lesson 3 about फिसिङ आक्रमण. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 फिसिङ आक्रमण - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग फिसिङ आक्रमण सिकौं!",
+      "background": "classroom",
+      "title": "फिसिङ आक्रमण - Part 7",
+      "content": "This is lesson 3 about फिसिङ आक्रमण. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 फिसिङ आक्रमण - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग फिसिङ आक्रमण सिकौं!",
+      "background": "forest",
+      "title": "फिसिङ आक्रमण - Part 8",
+      "content": "This is lesson 3 about फिसिङ आक्रमण. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 फिसिङ आक्रमण - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "पाठ सम्पन्न! राम्रो काम!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

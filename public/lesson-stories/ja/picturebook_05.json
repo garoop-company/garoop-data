@@ -1,0 +1,131 @@
+{
+  "title": "色使い",
+  "description": "ガルちゃんと楽しく色使いを学ぼう！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと色使いを学ぼう！",
+      "background": "candy",
+      "title": "色使い",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと色使いを学ぼう！",
+      "background": "space",
+      "title": "色使い - Part 1",
+      "content": "This is lesson 5 about 色使い. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 色使い - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと色使いを学ぼう！",
+      "background": "forest",
+      "title": "色使い - Part 2",
+      "content": "This is lesson 5 about 色使い. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 色使い - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと色使いを学ぼう！",
+      "background": "classroom",
+      "title": "色使い - Part 3",
+      "content": "This is lesson 5 about 色使い. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 色使い - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと色使いを学ぼう！",
+      "background": "city",
+      "title": "色使い - Part 4",
+      "content": "This is lesson 5 about 色使い. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 色使い - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと色使いを学ぼう！",
+      "background": "candy",
+      "title": "色使い - Part 5",
+      "content": "This is lesson 5 about 色使い. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 色使い - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと色使いを学ぼう！",
+      "background": "ocean",
+      "title": "色使い - Part 6",
+      "content": "This is lesson 5 about 色使い. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 色使い - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと色使いを学ぼう！",
+      "background": "classroom",
+      "title": "色使い - Part 7",
+      "content": "This is lesson 5 about 色使い. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 色使い - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと色使いを学ぼう！",
+      "background": "forest",
+      "title": "色使い - Part 8",
+      "content": "This is lesson 5 about 色使い. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 色使い - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レッスン完了！よくできました！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

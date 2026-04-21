@@ -1,0 +1,131 @@
+{
+  "title": "Page Layout",
+  "description": "Learn Page Layout in a fun and engaging way with Garuchan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn Page Layout with Garuchan!",
+      "background": "candy",
+      "title": "Page Layout",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Page Layout with Garuchan!",
+      "background": "space",
+      "title": "Page Layout - Part 1",
+      "content": "This is lesson 6 about Page Layout. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Page Layout - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Page Layout with Garuchan!",
+      "background": "forest",
+      "title": "Page Layout - Part 2",
+      "content": "This is lesson 6 about Page Layout. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Page Layout - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Page Layout with Garuchan!",
+      "background": "classroom",
+      "title": "Page Layout - Part 3",
+      "content": "This is lesson 6 about Page Layout. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Page Layout - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Page Layout with Garuchan!",
+      "background": "city",
+      "title": "Page Layout - Part 4",
+      "content": "This is lesson 6 about Page Layout. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Page Layout - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Page Layout with Garuchan!",
+      "background": "candy",
+      "title": "Page Layout - Part 5",
+      "content": "This is lesson 6 about Page Layout. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Page Layout - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Page Layout with Garuchan!",
+      "background": "ocean",
+      "title": "Page Layout - Part 6",
+      "content": "This is lesson 6 about Page Layout. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Page Layout - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn Page Layout with Garuchan!",
+      "background": "classroom",
+      "title": "Page Layout - Part 7",
+      "content": "This is lesson 6 about Page Layout. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Page Layout - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn Page Layout with Garuchan!",
+      "background": "forest",
+      "title": "Page Layout - Part 8",
+      "content": "This is lesson 6 about Page Layout. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Page Layout - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Lesson complete! Great work!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

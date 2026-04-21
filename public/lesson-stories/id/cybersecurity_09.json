@@ -1,0 +1,131 @@
+{
+  "title": "Hacking Etis",
+  "description": "Pelajari Hacking Etis dengan cara yang menyenangkan bersama Garuchan!",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ayo belajar Hacking Etis bersama Garuchan!",
+      "background": "ocean",
+      "title": "Hacking Etis",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Hacking Etis bersama Garuchan!",
+      "background": "space",
+      "title": "Hacking Etis - Part 1",
+      "content": "This is lesson 9 about Hacking Etis. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Hacking Etis - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Hacking Etis bersama Garuchan!",
+      "background": "forest",
+      "title": "Hacking Etis - Part 2",
+      "content": "This is lesson 9 about Hacking Etis. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Hacking Etis - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Hacking Etis bersama Garuchan!",
+      "background": "classroom",
+      "title": "Hacking Etis - Part 3",
+      "content": "This is lesson 9 about Hacking Etis. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Hacking Etis - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Hacking Etis bersama Garuchan!",
+      "background": "city",
+      "title": "Hacking Etis - Part 4",
+      "content": "This is lesson 9 about Hacking Etis. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Hacking Etis - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Hacking Etis bersama Garuchan!",
+      "background": "candy",
+      "title": "Hacking Etis - Part 5",
+      "content": "This is lesson 9 about Hacking Etis. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Hacking Etis - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Hacking Etis bersama Garuchan!",
+      "background": "ocean",
+      "title": "Hacking Etis - Part 6",
+      "content": "This is lesson 9 about Hacking Etis. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Hacking Etis - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Hacking Etis bersama Garuchan!",
+      "background": "classroom",
+      "title": "Hacking Etis - Part 7",
+      "content": "This is lesson 9 about Hacking Etis. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Hacking Etis - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Hacking Etis bersama Garuchan!",
+      "background": "forest",
+      "title": "Hacking Etis - Part 8",
+      "content": "This is lesson 9 about Hacking Etis. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Hacking Etis - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pelajaran selesai! Kerja bagus!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

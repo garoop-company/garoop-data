@@ -1,0 +1,131 @@
+{
+  "title": "DOM म्यानिपुलेसन",
+  "description": "Garuchan सँग DOM म्यानिपुलेसन रमाईलो तरिकाले सिकौं!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Garuchan सँग DOM म्यानिपुलेसन सिकौं!",
+      "background": "city",
+      "title": "DOM म्यानिपुलेसन",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग DOM म्यानिपुलेसन सिकौं!",
+      "background": "space",
+      "title": "DOM म्यानिपुलेसन - Part 1",
+      "content": "This is lesson 4 about DOM म्यानिपुलेसन. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 DOM म्यानिपुलेसन - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग DOM म्यानिपुलेसन सिकौं!",
+      "background": "forest",
+      "title": "DOM म्यानिपुलेसन - Part 2",
+      "content": "This is lesson 4 about DOM म्यानिपुलेसन. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 DOM म्यानिपुलेसन - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग DOM म्यानिपुलेसन सिकौं!",
+      "background": "classroom",
+      "title": "DOM म्यानिपुलेसन - Part 3",
+      "content": "This is lesson 4 about DOM म्यानिपुलेसन. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 DOM म्यानिपुलेसन - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग DOM म्यानिपुलेसन सिकौं!",
+      "background": "city",
+      "title": "DOM म्यानिपुलेसन - Part 4",
+      "content": "This is lesson 4 about DOM म्यानिपुलेसन. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 DOM म्यानिपुलेसन - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग DOM म्यानिपुलेसन सिकौं!",
+      "background": "candy",
+      "title": "DOM म्यानिपुलेसन - Part 5",
+      "content": "This is lesson 4 about DOM म्यानिपुलेसन. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 DOM म्यानिपुलेसन - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग DOM म्यानिपुलेसन सिकौं!",
+      "background": "ocean",
+      "title": "DOM म्यानिपुलेसन - Part 6",
+      "content": "This is lesson 4 about DOM म्यानिपुलेसन. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 DOM म्यानिपुलेसन - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garuchan सँग DOM म्यानिपुलेसन सिकौं!",
+      "background": "classroom",
+      "title": "DOM म्यानिपुलेसन - Part 7",
+      "content": "This is lesson 4 about DOM म्यानिपुलेसन. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 DOM म्यानिपुलेसन - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuchan सँग DOM म्यानिपुलेसन सिकौं!",
+      "background": "forest",
+      "title": "DOM म्यानिपुलेसन - Part 8",
+      "content": "This is lesson 4 about DOM म्यानिपुलेसन. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 DOM म्यानिपुलेसन - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "पाठ सम्पन्न! राम्रो काम!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

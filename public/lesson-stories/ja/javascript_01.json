@@ -1,0 +1,131 @@
+{
+  "title": "JavaScriptとは",
+  "description": "Webブラウザで動くプログラミング言語",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Webページを動かすJavaScriptを一緒に学ぼう！",
+      "background": "city",
+      "title": "JavaScriptとは",
+      "emoji": "🌐",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JSはWebを動かす言語だよ！",
+      "background": "space",
+      "title": "JavaScriptって何？",
+      "content": "JavaScriptはHTML/CSSと組み合わせてWebサイトに動きを加えます。ボタンクリック、アニメーション、データ取得が全部JSです！",
+      "emoji": "🌐",
+      "highlight": "🌐 JS = Webの標準言語"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "JSができると就職に有利！",
+      "background": "forest",
+      "title": "なぜJSを学ぶ？",
+      "content": "2023年で11年連続Stack Overflow最人気言語！フロントエンド・バックエンド・モバイルアプリ全部作れます！",
+      "emoji": "📊",
+      "highlight": "📊 11年連続最人気言語！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "JSはブラウザでそのまま動く！",
+      "background": "classroom",
+      "title": "ブラウザで動く",
+      "content": "Pythonと違い、インストール不要。ブラウザを開くだけで実行できます。開発者ツール(F12)で試せます！",
+      "emoji": "💻",
+      "highlight": "🖥️ ブラウザで即実行！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "VS CodeとブラウザのDevToolsを使おう！",
+      "background": "city",
+      "title": "開発環境のセットアップ",
+      "content": "VS Code + Node.js + ブラウザのDevToolsがあれば完璧。全部無料で揃います！",
+      "emoji": "⚙️",
+      "highlight": "VS Code + Node.js = 完璧な環境"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "console.log()でデバッグできる！",
+      "background": "candy",
+      "title": "コンソールを使う",
+      "content": "console.log('Hello!')でコンソールに表示。デバッグの基本ツール！",
+      "emoji": "🖥️",
+      "highlight": "console.log() → デバッグの必需品"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "変数の宣言はletとconstを使おう！",
+      "background": "ocean",
+      "title": "変数 let と const",
+      "content": "let: 変更可能 const: 変更不可。基本はconstを使い、変える必要があるときだけlet！",
+      "emoji": "📦",
+      "highlight": "let: 変更可 / const: 変更不可"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "//で1行、/**/で複数行コメント！",
+      "background": "classroom",
+      "title": "コメントの書き方",
+      "content": "コメントでコードの意図を説明。他の人（未来の自分）のために書こう！",
+      "emoji": "📝",
+      "highlight": "// 1行コメント  /* */ 複数行"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "フロント・バック・モバイル全部できる！",
+      "background": "forest",
+      "title": "JSの可能性",
+      "content": "React, Vue, Node.js, React Native…JSでほぼ何でも作れる時代！",
+      "emoji": "🚀",
+      "highlight": "React Vue Node.js React Native"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "JavaScriptの世界への第一歩！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

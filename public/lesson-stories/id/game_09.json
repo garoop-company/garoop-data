@@ -1,0 +1,131 @@
+{
+  "title": "Sistem Multiplayer",
+  "description": "Pelajari Sistem Multiplayer dengan cara yang menyenangkan bersama Garuchan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ayo belajar Sistem Multiplayer bersama Garuchan!",
+      "background": "candy",
+      "title": "Sistem Multiplayer",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Sistem Multiplayer bersama Garuchan!",
+      "background": "space",
+      "title": "Sistem Multiplayer - Part 1",
+      "content": "This is lesson 9 about Sistem Multiplayer. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Sistem Multiplayer - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Sistem Multiplayer bersama Garuchan!",
+      "background": "forest",
+      "title": "Sistem Multiplayer - Part 2",
+      "content": "This is lesson 9 about Sistem Multiplayer. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Sistem Multiplayer - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Sistem Multiplayer bersama Garuchan!",
+      "background": "classroom",
+      "title": "Sistem Multiplayer - Part 3",
+      "content": "This is lesson 9 about Sistem Multiplayer. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Sistem Multiplayer - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Sistem Multiplayer bersama Garuchan!",
+      "background": "city",
+      "title": "Sistem Multiplayer - Part 4",
+      "content": "This is lesson 9 about Sistem Multiplayer. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Sistem Multiplayer - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Sistem Multiplayer bersama Garuchan!",
+      "background": "candy",
+      "title": "Sistem Multiplayer - Part 5",
+      "content": "This is lesson 9 about Sistem Multiplayer. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Sistem Multiplayer - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Sistem Multiplayer bersama Garuchan!",
+      "background": "ocean",
+      "title": "Sistem Multiplayer - Part 6",
+      "content": "This is lesson 9 about Sistem Multiplayer. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Sistem Multiplayer - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Ayo belajar Sistem Multiplayer bersama Garuchan!",
+      "background": "classroom",
+      "title": "Sistem Multiplayer - Part 7",
+      "content": "This is lesson 9 about Sistem Multiplayer. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Sistem Multiplayer - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ayo belajar Sistem Multiplayer bersama Garuchan!",
+      "background": "forest",
+      "title": "Sistem Multiplayer - Part 8",
+      "content": "This is lesson 9 about Sistem Multiplayer. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Sistem Multiplayer - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pelajaran selesai! Kerja bagus!",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

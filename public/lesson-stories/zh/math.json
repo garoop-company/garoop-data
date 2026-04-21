@@ -1,0 +1,125 @@
+{
+  "title": "快乐学数学！",
+  "description": "和Garuchan一起体验数字的魔法！",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "大家好！数学其实很有趣！让我们一起学习吧！",
+      "background": "classroom",
+      "title": "数学的魔法！",
+      "emoji": "🔢",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "加法就是把东西合在一起。3个苹果加2个苹果是多少？",
+      "background": "forest",
+      "title": "加法",
+      "content": "3 + 2 = 5。把3和2合在一起就得到5！加法在生活中无处不在。",
+      "emoji": "🍎",
+      "highlight": "🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "减法就是拿走一些。有8块蛋糕，吃掉3块，还剩几块？",
+      "background": "candy",
+      "title": "减法",
+      "content": "8 - 3 = 5。当我们从某个数中取走一些，就用减法！",
+      "emoji": "🍰",
+      "highlight": "8 - 3 = 5\n🍰🍰🍰🍰🍰 (还剩5块)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "乘法是重复加同一个数的快速方法！",
+      "background": "classroom",
+      "title": "乘法",
+      "content": "4 × 3 = 12。就是4加4加4（三次）。比重复加法快多了！",
+      "emoji": "⭐",
+      "highlight": "4 × 3 = 12\n(4 + 4 + 4 = 12)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "除法是把东西均匀分给大家的方法！",
+      "background": "forest",
+      "title": "除法",
+      "content": "12 ÷ 4 = 3。就是把12均匀分成4组，每组得到3！",
+      "emoji": "🍕",
+      "highlight": "12 ÷ 4 = 3\n🍕🍕🍕 每人得到"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "分数表示整体的一部分，就像切披萨！",
+      "background": "candy",
+      "title": "分数",
+      "content": "1/2意味着两等份中的一份。3/4意味着四等份中的三份。做饭和购物时经常用到！",
+      "emoji": "🥧",
+      "highlight": "1/2 = 一半\n3/4 = 四分之三"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "百分比表示100份中的多少份。打五折就是一半价格！",
+      "background": "city",
+      "title": "百分比（%）",
+      "content": "100% = 全部，50% = 一半，25% = 四分之一。百分比无处不在：购物、成绩、银行！",
+      "emoji": "💯",
+      "highlight": "100的50% = 50\n80的25% = 20"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "几何是关于形状和空间的数学！",
+      "background": "classroom",
+      "title": "几何：各种形状",
+      "content": "三角形有3条边，正方形有4条等边，圆形没有角。几何出现在建筑、艺术和自然界中！",
+      "emoji": "📐",
+      "highlight": "△ 三角形  □ 正方形  ○ 圆形"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "数学被医生、建筑师、科学家和程序员使用！",
+      "background": "space",
+      "title": "数学在真实世界",
+      "content": "编程、金融、建筑和科学都需要数学。学数学是最好的投资！",
+      "emoji": "🌍",
+      "highlight": "💰 金融  🏛️ 建筑  🚀 科学  💻 编程"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "做得很棒！今天你学到了很多数学知识！继续练习吧！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

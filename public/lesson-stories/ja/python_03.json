@@ -1,0 +1,131 @@
+{
+  "title": "条件分岐",
+  "description": "プログラムに判断をさせよう",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "if文を使って、プログラムに選択をさせよう！",
+      "background": "city",
+      "title": "条件分岐",
+      "emoji": "🔀",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "条件が正しいときだけ実行するコードだよ！",
+      "background": "city",
+      "title": "if文の基本",
+      "content": "if score >= 60: print('合格！') のように使います。条件がTrueのときだけ実行されます！",
+      "emoji": "🔀",
+      "highlight": "if 条件: → 条件がTrueなら実行"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "条件がFalseのときの処理だよ！",
+      "background": "forest",
+      "title": "else文",
+      "content": "if ... else ... で「もし〜なら〜、そうでなければ〜」という処理ができます！",
+      "emoji": "↔️",
+      "highlight": "if 条件: → True処理\nelse: → False処理"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "複数の条件を連続でチェックできるよ！",
+      "background": "classroom",
+      "title": "elif文",
+      "content": "elif（else if）で3つ以上の場合分けができます。score段階評価などに便利！",
+      "emoji": "📊",
+      "highlight": "if 90以上: S\nelif 80以上: A\nelif 70以上: B\nelse: C"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "条件を作る記号を覚えよう！",
+      "background": "candy",
+      "title": "比較演算子",
+      "content": "== 等しい, != 等しくない, >, <, >=, <=。これらで条件式を作ります！",
+      "emoji": "⚖️",
+      "highlight": "== != > < >= <="
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "複数の条件を組み合わせるよ！",
+      "background": "ocean",
+      "title": "論理演算子",
+      "content": "and（両方True）、or（どちらかTrue）、not（反転）。複雑な条件が作れます！",
+      "emoji": "🔗",
+      "highlight": "and / or / not"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "1行で条件分岐できるテクニック！",
+      "background": "forest",
+      "title": "条件式（三項演算子）",
+      "content": "result = '合格' if score >= 60 else '不合格' のように1行で書けます！",
+      "emoji": "⚡",
+      "highlight": "値A if 条件 else 値B"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "条件の中に条件を入れることもできる！",
+      "background": "classroom",
+      "title": "ネストした条件分岐",
+      "content": "if文の中にif文を入れられます。ただし深すぎると読みにくくなるので注意！",
+      "emoji": "🪆",
+      "highlight": "if 条件1:\n  if 条件2: ... (最大3段くらいに)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "新しい条件分岐の書き方だよ！",
+      "background": "space",
+      "title": "match文（Python3.10+）",
+      "content": "match/case文でよりスッキリした条件分岐が書けます。JavaのswithcやCのswitchに似た書き方！",
+      "emoji": "✨",
+      "highlight": "match 値:\n  case 'a': ...\n  case 'b': ..."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "条件分岐を使いこなせるようになったね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

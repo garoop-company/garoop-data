@@ -1,0 +1,131 @@
+{
+  "title": "変数とデータ型",
+  "description": "データを保存する仕組みを学ぼう",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "変数という魔法の箱でデータを管理しよう！",
+      "background": "classroom",
+      "title": "変数とデータ型",
+      "emoji": "📦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "変数はデータを入れる名前のついた箱だよ！",
+      "background": "classroom",
+      "title": "変数とは？",
+      "content": "name = '太郎' のように書くと、'太郎'という文字を'name'という箱に入れておけます。後で何度でも使えます！",
+      "emoji": "📦",
+      "highlight": "name = '太郎'  →  箱に値を保存！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "数字の種類を知っておこう！",
+      "background": "forest",
+      "title": "整数と浮動小数点",
+      "content": "整数(int): 1, 42, -5 / 浮動小数点(float): 3.14, -0.5。計算に合わせて使い分けよう！",
+      "emoji": "🔢",
+      "highlight": "int: 1,2,3  float: 1.5, 3.14"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "文字を扱うデータ型だよ！",
+      "background": "city",
+      "title": "文字列（str）",
+      "content": "'こんにちは' や \"Hello\" が文字列（str）。+で連結、*で繰り返しができます！",
+      "emoji": "📝",
+      "highlight": "'Hello' + ' World' = 'Hello World'"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "True か False だけのシンプルな型だよ！",
+      "background": "candy",
+      "title": "真偽値（bool）",
+      "content": "True（はい）かFalse（いいえ）の2つだけ。条件分岐に使います！",
+      "emoji": "✅",
+      "highlight": "True / False → はい・いいえ"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "型を調べたり変換したりできるよ！",
+      "background": "ocean",
+      "title": "型の確認と変換",
+      "content": "type()で型を確認、int()、str()、float()で変換できます。'123'→123のような変換が実用的！",
+      "emoji": "🔄",
+      "highlight": "type(x) → 型確認  int('5') → 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "変数名のルールを覚えよう！",
+      "background": "forest",
+      "title": "変数の命名規則",
+      "content": "英数字とアンダースコア（_）が使える。大文字小文字区別あり。分かりやすい名前をつけよう！",
+      "emoji": "📋",
+      "highlight": "✅ user_name  ❌ 1name  ❌ user-name"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "スマートな代入の仕方があるよ！",
+      "background": "classroom",
+      "title": "複数の変数代入",
+      "content": "a, b = 1, 2 で複数同時代入！a, b = b, a で2つの値を入れ替えもできます！",
+      "emoji": "⚡",
+      "highlight": "a, b = 1, 2 → 一度に代入！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "変えてはいけない値を定数と呼ぶよ！",
+      "background": "space",
+      "title": "定数の使い方",
+      "content": "Pythonでは慣習で全て大文字で書きます。MAX_SIZE = 100 のように。コードが読みやすくなります！",
+      "emoji": "🔒",
+      "highlight": "MAX_SIZE = 100 → 変更しない値"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "変数とデータ型をマスターしたね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "足し算と引き算",
+  "description": "基本の計算をマスターしよう",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "計算の基本、足し算と引き算から始めよう！",
+      "background": "classroom",
+      "title": "足し算と引き算",
+      "emoji": "🍎",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "足し算はものを合わせること！",
+      "background": "space",
+      "title": "足し算の意味",
+      "content": "足し算は量を合わせる操作です。3個のりんご＋2個のりんご＝5個。日常生活でいつも使います！",
+      "emoji": "🍎",
+      "highlight": "🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "引き算はものを取ること！",
+      "background": "forest",
+      "title": "引き算の意味",
+      "content": "引き算は量を減らす操作です。8個のケーキから3個食べると5個残ります！",
+      "emoji": "🍰",
+      "highlight": "🍰🍰🍰🍰🍰 (8-3=5 残り)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "10を超える足し算の計算方法！",
+      "background": "classroom",
+      "title": "繰り上がりの計算",
+      "content": "例：17＋5。7＋5＝12なので1繰り上がって答えは22。ステップで考えると分かりやすい！",
+      "emoji": "🔢",
+      "highlight": "10超えたら繰り上がり！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "10を下回る引き算の計算方法！",
+      "background": "city",
+      "title": "繰り下がりの計算",
+      "content": "例：21－9。まず1－9はできないので20から9を借りて11－9＝2、残り10で答えは12！",
+      "emoji": "🔣",
+      "highlight": "10未満は繰り下がり！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "日常の問題を算数で解こう！",
+      "background": "candy",
+      "title": "文章問題に挑戦",
+      "content": "太郎君は15円持っています。8円のお菓子を買いました。残りは何円？→ 15－8＝7円！",
+      "emoji": "📝",
+      "highlight": "文章 → 式 → 計算 → 答え"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "素早く計算する秘訣を学ぼう！",
+      "background": "ocean",
+      "title": "暗算のコツ",
+      "content": "10のかたまりで考える！16＋7なら16＋4＝20、そして20＋3＝23と分解して計算！",
+      "emoji": "💡",
+      "highlight": "10のかたまり → 分解して計算！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "間違いを減らすコツだよ！",
+      "background": "classroom",
+      "title": "計算ミスを減らす方法",
+      "content": "指で確認、式を書いてから計算、答えを確かめる。この3ステップで間違いが減ります！",
+      "emoji": "✅",
+      "highlight": "式を書く → 計算 → 確認 ✓"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "実生活での使い方を学ぼう！",
+      "background": "forest",
+      "title": "足し算・引き算の応用",
+      "content": "お金の計算、時間の計算、料理の材料計算…足し算・引き算は生活のあちこちで使います！",
+      "emoji": "🌍",
+      "highlight": "お金 時間 料理 = 日常の計算！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "足し算と引き算をマスターしたね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

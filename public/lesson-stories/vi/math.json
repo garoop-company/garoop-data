@@ -1,0 +1,125 @@
+{
+  "title": "Học Toán vui!",
+  "description": "Cùng Garuchan khám phá phép màu của những con số!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Xin chào! Toán học rất thú vị đó! Hãy cùng học nhé!",
+      "background": "classroom",
+      "title": "Phép màu của Toán học!",
+      "emoji": "🔢",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Phép cộng nghĩa là gộp lại. 3 quả táo cộng 2 quả táo thì bằng mấy?",
+      "background": "forest",
+      "title": "Phép cộng",
+      "content": "3 + 2 = 5. Khi gộp 3 và 2 lại, ta được 5! Phép cộng có mặt khắp nơi trong cuộc sống.",
+      "emoji": "🍎",
+      "highlight": "🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Phép trừ nghĩa là lấy đi. Có 8 cái bánh, ăn 3 cái thì còn mấy?",
+      "background": "candy",
+      "title": "Phép trừ",
+      "content": "8 - 3 = 5. Khi lấy bớt đi từ số, ta dùng phép trừ!",
+      "emoji": "🍰",
+      "highlight": "8 - 3 = 5\n🍰🍰🍰🍰🍰 (còn 5 cái)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Phép nhân là cách nhanh để cộng nhiều số giống nhau!",
+      "background": "classroom",
+      "title": "Phép nhân",
+      "content": "4 × 3 = 12. Nghĩa là 4 cộng 4 cộng 4 (ba lần). Nhanh hơn cộng nhiều lần!",
+      "emoji": "⭐",
+      "highlight": "4 × 3 = 12\n(4 + 4 + 4 = 12)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Phép chia là cách chia đều cho mọi người!",
+      "background": "forest",
+      "title": "Phép chia",
+      "content": "12 ÷ 4 = 3. Nghĩa là 12 chia đều thành 4 nhóm, mỗi nhóm được 3!",
+      "emoji": "🍕",
+      "highlight": "12 ÷ 4 = 3\n🍕🍕🍕 cho mỗi người"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Phân số biểu thị một phần của cái gì đó. Như cắt bánh pizza!",
+      "background": "candy",
+      "title": "Phân số",
+      "content": "1/2 nghĩa là một trong hai phần bằng nhau. 3/4 nghĩa là ba trong bốn phần. Dùng khi nấu ăn và mua sắm!",
+      "emoji": "🥧",
+      "highlight": "1/2 = một nửa\n3/4 = ba phần tư"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Phần trăm nghĩa là trong 100 phần. Giảm giá 50% nghĩa là nửa giá!",
+      "background": "city",
+      "title": "Phần trăm (%)",
+      "content": "100% = tất cả, 50% = một nửa, 25% = một phần tư. Phần trăm dùng ở khắp nơi: mua sắm, điểm học, ngân hàng!",
+      "emoji": "💯",
+      "highlight": "50% của 100 = 50\n25% của 80 = 20"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hình học là toán học về hình dạng và không gian!",
+      "background": "classroom",
+      "title": "Hình học: Các hình",
+      "content": "Tam giác có 3 cạnh, hình vuông có 4 cạnh bằng nhau, hình tròn không có góc. Hình học có trong kiến trúc, nghệ thuật và thiên nhiên!",
+      "emoji": "📐",
+      "highlight": "△ Tam giác  □ Hình vuông  ○ Hình tròn"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Toán học được dùng bởi bác sĩ, kiến trúc sư, nhà khoa học và lập trình viên!",
+      "background": "space",
+      "title": "Toán học trong thực tế",
+      "content": "Lập trình, tài chính, kiến trúc và khoa học đều cần toán học. Học toán là đầu tư tốt nhất!",
+      "emoji": "🌍",
+      "highlight": "💰 Tài chính  🏛️ Kiến trúc  🚀 Khoa học  💻 Lập trình"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tuyệt lắm! Bạn đã học nhiều về toán học hôm nay! Tiếp tục luyện tập!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

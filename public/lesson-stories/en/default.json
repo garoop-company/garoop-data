@@ -1,6 +1,6 @@
 {
   "title": "Lesson Start!",
-  "description": "Let's have fun learning together with Garuchan!",
+  "description": "Welcome to Garoop! Let's learn amazing things with Garuchan!",
   "bgTheme": "space",
   "scenes": [
     {
@@ -10,7 +10,7 @@
       "garuchanAnimation": "wave",
       "speech": "Welcome! Let's have fun learning together with Garuchan!",
       "background": "space",
-      "title": "Lesson Start!",
+      "title": "Welcome to Garoop!",
       "emoji": "🌟",
       "effects": ["sparkle", "stars"]
     },
@@ -19,19 +19,67 @@
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "float",
-      "speech": "Try to remember today's lesson well. You can watch it again anytime!",
+      "speech": "Garoop is a platform for kids to learn technology and AI in a fun way!",
       "background": "city",
-      "title": "Let's Learn Together",
-      "content": "Learning something new matters a lot. Let's move forward one step at a time!",
-      "emoji": "📚",
-      "highlight": "Knowledge = Power for the future!"
+      "title": "What Is Garoop?",
+      "content": "At Garoop, you can learn programming, AI, math, and game development in an exciting way. One step at a time!",
+      "emoji": "🎓",
+      "highlight": "💻 Coding  🤖 AI  🔢 Math  🎮 Game"
     },
     {
       "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "The best way to learn is to try things and build something yourself!",
+      "background": "classroom",
+      "title": "How to Learn Effectively",
+      "content": "Don't just watch — try it! Build small projects, explore, and don't be afraid to fail. Failure is how you grow!",
+      "emoji": "✏️",
+      "highlight": "See → Try → Fail → Fix → Succeed!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI is the technology of the future — and it's already here today!",
+      "background": "space",
+      "title": "The World of AI",
+      "content": "ChatGPT, AI images, AI music — these are all technologies you can learn and use right now!",
+      "emoji": "🤖",
+      "highlight": "🎨 Image AI  🎵 Music AI  💬 Chat AI  🔧 Code AI"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Programming is an essential skill for the future. Start now!",
+      "background": "forest",
+      "title": "Why Learn Coding?",
+      "content": "In the future, almost every job will involve technology. Learning to code today prepares you for a bright future!",
+      "emoji": "💡",
+      "highlight": "2030: 85% of future jobs don't exist yet!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Set your learning goals! What do you want to become in the future?",
+      "background": "ocean",
+      "title": "Set Your Goals!",
+      "content": "Programmer? Game developer? AI scientist? Entrepreneur? Whatever your dream, start learning today! One small step changes everything.",
+      "emoji": "🎯",
+      "highlight": "Big Dream + Small Steps = Success!"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "bounce",
-      "speech": "Great job! Keep going with the next lesson too!",
+      "speech": "Let's start your learning journey! Garuchan will always be by your side!",
       "background": "space",
       "title": "Lesson Complete!",
       "emoji": "🎉",

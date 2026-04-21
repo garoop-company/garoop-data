@@ -1,0 +1,131 @@
+{
+  "title": "ライブラリの使い方",
+  "description": "便利なPythonライブラリを活用しよう",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Pythonの宝庫、ライブラリの世界を探検しよう！",
+      "background": "space",
+      "title": "ライブラリの使い方",
+      "emoji": "📚",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "他の人が作った便利なコードの集まりだよ！",
+      "background": "space",
+      "title": "ライブラリとは？",
+      "content": "ライブラリを使えば、ゼロから書かなくていい！import文で取り込むだけで強力な機能が使えます！",
+      "emoji": "📚",
+      "highlight": "import ライブラリ名 → 強力な機能が即使える！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ライブラリをインストールするコマンドだよ！",
+      "background": "forest",
+      "title": "pip - パッケージ管理",
+      "content": "pip install numpy などでライブラリをインストールできます。PyPIには30万以上のパッケージがあります！",
+      "emoji": "📦",
+      "highlight": "pip install パッケージ名 → インストール完了！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "大量の数値計算を超高速でこなすよ！",
+      "background": "classroom",
+      "title": "NumPy - 数値計算",
+      "content": "NumPyは行列計算、統計計算を高速に処理します。AI・機械学習の基盤ライブラリです！",
+      "emoji": "🔢",
+      "highlight": "import numpy as np → 数値計算の最強ツール"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "表データを簡単に分析できるよ！",
+      "background": "city",
+      "title": "Pandas - データ分析",
+      "content": "Excelのようなデータ操作がPythonでできます。データの読み込み、加工、集計が簡単！",
+      "emoji": "📊",
+      "highlight": "import pandas as pd → データ分析の定番"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "データをグラフで可視化しよう！",
+      "background": "candy",
+      "title": "Matplotlib - グラフ描画",
+      "content": "折れ線グラフ、棒グラフ、散布図…import matplotlib.pyplot as plt でグラフが作れます！",
+      "emoji": "📈",
+      "highlight": "import matplotlib → グラフ描画が簡単！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "インターネットのデータを取得しよう！",
+      "background": "ocean",
+      "title": "requests - Web通信",
+      "content": "requests.get(URL)でWebページのデータを取得できます。APIからデータを取得する基本ライブラリ！",
+      "emoji": "🌐",
+      "highlight": "requests.get(URL) → Webデータを取得！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "日付や時刻の操作が簡単にできるよ！",
+      "background": "forest",
+      "title": "datetime - 日付と時刻",
+      "content": "from datetime import datetime で now = datetime.now()で現在時刻が取れます！",
+      "emoji": "🕐",
+      "highlight": "datetime.now() → 現在の日時を取得！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Pythonに最初から入っているライブラリたち！",
+      "background": "space",
+      "title": "標準ライブラリの宝庫",
+      "content": "os（ファイル）、sys（システム）、math（数学）、random（乱数）…インストール不要で使えます！",
+      "emoji": "🎁",
+      "highlight": "os / sys / math / random → 標準装備！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ライブラリを使いこなすことで、できることが一気に広がったね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

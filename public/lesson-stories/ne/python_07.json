@@ -1,0 +1,131 @@
+{
+  "title": "फाइल अपरेसन",
+  "description": "Python सिक्नुस्: फाइल अपरेसन",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Garuchan सँग Python सिकौं!",
+      "background": "forest",
+      "title": "फाइल अपरेसन",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about फाइल अपरेसन!",
+      "background": "forest",
+      "title": "फाइल अपरेसन (1)",
+      "content": "This lesson covers फाइल अपरेसन — concept 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Key concept 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about फाइल अपरेसन!",
+      "background": "classroom",
+      "title": "फाइल अपरेसन (2)",
+      "content": "This lesson covers फाइल अपरेसन — concept 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Key concept 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about फाइल अपरेसन!",
+      "background": "city",
+      "title": "फाइल अपरेसन (3)",
+      "content": "This lesson covers फाइल अपरेसन — concept 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Key concept 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about फाइल अपरेसन!",
+      "background": "candy",
+      "title": "फाइल अपरेसन (4)",
+      "content": "This lesson covers फाइल अपरेसन — concept 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Key concept 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about फाइल अपरेसन!",
+      "background": "ocean",
+      "title": "फाइल अपरेसन (5)",
+      "content": "This lesson covers फाइल अपरेसन — concept 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Key concept 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about फाइल अपरेसन!",
+      "background": "space",
+      "title": "फाइल अपरेसन (6)",
+      "content": "This lesson covers फाइल अपरेसन — concept 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Key concept 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about फाइल अपरेसन!",
+      "background": "classroom",
+      "title": "फाइल अपरेसन (7)",
+      "content": "This lesson covers फाइल अपरेसन — concept 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Key concept 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about फाइल अपरेसन!",
+      "background": "forest",
+      "title": "फाइल अपरेसन (8)",
+      "content": "This lesson covers फाइल अपरेसन — concept 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Key concept 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "पाठ सम्पन्न!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "分数と小数",
+  "description": "分数と小数の世界を探ろう",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "分数と小数でもっと細かい数を表そう！",
+      "background": "candy",
+      "title": "分数と小数",
+      "emoji": "🍕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ものを等分に分けた1つ分が分数！",
+      "background": "space",
+      "title": "分数の意味",
+      "content": "ピザを4等分して1切れ＝1/4。分子（上）が部分の数、分母（下）が全体の分け方！",
+      "emoji": "🍕",
+      "highlight": "1/4 = ピザ4等分の1切れ"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "真分数・仮分数・帯分数を覚えよう！",
+      "background": "forest",
+      "title": "分数の種類",
+      "content": "真分数(1未満)：1/2, 仮分数(1以上)：5/3, 帯分数(整数+分数)：1と2/3！",
+      "emoji": "📊",
+      "highlight": "真分数 < 1  仮分数 > 1  帯分数"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "分数の足し算と引き算の方法！",
+      "background": "classroom",
+      "title": "分数の足し算引き算",
+      "content": "同じ分母なら分子を足すだけ！1/4＋2/4＝3/4。異なる分母は通分してから計算！",
+      "emoji": "➕",
+      "highlight": "通分 → 分子を足す/引く"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "分数の掛け算と割り算！",
+      "background": "city",
+      "title": "分数の掛け算割り算",
+      "content": "分数×分数は分子同士・分母同士を掛けます。割り算は逆数を掛けます！",
+      "emoji": "✖️",
+      "highlight": "掛算: 分子×分子/分母×分母"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "1より小さい数を表す方法！",
+      "background": "candy",
+      "title": "小数とは？",
+      "content": "3.14は3と0.14を合わせた数。小数点の位置が大切です！",
+      "emoji": "🔢",
+      "highlight": "0.1, 0.25, 3.14...小数点の数"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "小数の計算のコツ！",
+      "background": "ocean",
+      "title": "小数の計算",
+      "content": "小数の足し算は小数点を揃えて計算。1.5＋2.8＝4.3。位を揃えることが大切！",
+      "emoji": "📐",
+      "highlight": "小数点を揃えて計算！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "分数と小数を変換しよう！",
+      "background": "classroom",
+      "title": "分数と小数の変換",
+      "content": "1/2＝0.5、1/4＝0.25、1/5＝0.2。よく使う変換を覚えておこう！",
+      "emoji": "🔄",
+      "highlight": "1/2 = 0.5  1/4 = 0.25"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "料理や買い物で使う分数・小数！",
+      "background": "forest",
+      "title": "分数・小数の応用",
+      "content": "料理で「3/4カップ」「0.5リットル」など分数・小数は実生活でよく使います！",
+      "emoji": "🍳",
+      "highlight": "料理・ショッピング・計測に使う！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "分数と小数をマスターしたね！数の世界が広がった！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

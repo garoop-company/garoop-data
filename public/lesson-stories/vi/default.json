@@ -1,0 +1,89 @@
+{
+  "title": "Bắt đầu học!",
+  "description": "Chào mừng đến Garoop! Hãy học những điều thú vị cùng Garuchan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Chào mừng! Mình là Garuchan! Hãy cùng học thật vui nhé!",
+      "background": "space",
+      "title": "Chào mừng đến Garoop!",
+      "emoji": "🌟",
+      "effects": ["sparkle", "stars"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Garoop là nền tảng học tập về công nghệ và AI cho trẻ em!",
+      "background": "city",
+      "title": "Garoop là gì?",
+      "content": "Tại Garoop, bạn có thể học lập trình, AI, toán học và phát triển game theo cách vui nhộn!",
+      "emoji": "🎓",
+      "highlight": "💻 Lập trình  🤖 AI  🔢 Toán  🎮 Game"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cách học tốt nhất là thử và tự tạo ra thứ gì đó!",
+      "background": "classroom",
+      "title": "Cách học hiệu quả",
+      "content": "Đừng chỉ xem - hãy thử ngay! Làm dự án nhỏ, khám phá và đừng sợ sai. Sai là cách học!",
+      "emoji": "✏️",
+      "highlight": "Xem → Thử → Thất bại → Sửa → Thành công!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI là công nghệ tương lai đã có mặt xung quanh chúng ta rồi!",
+      "background": "space",
+      "title": "Thế giới AI",
+      "content": "ChatGPT, hình ảnh AI, âm nhạc AI - tất cả đây là công nghệ bạn có thể học và sử dụng!",
+      "emoji": "🤖",
+      "highlight": "🎨 Hình AI  🎵 Nhạc AI  💬 Chat AI  🔧 Code AI"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Lập trình là kỹ năng quan trọng cho tương lai. Bắt đầu từ bây giờ!",
+      "background": "forest",
+      "title": "Tại sao phải học lập trình?",
+      "content": "Trong tương lai, hầu hết công việc đều liên quan đến công nghệ. Học lập trình ngay hôm nay là chuẩn bị cho tương lai sáng!",
+      "emoji": "💡",
+      "highlight": "2030: 85% việc làm mới chưa tồn tại hôm nay!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Xác định mục tiêu học của bạn! Bạn muốn trở thành gì trong tương lai?",
+      "background": "ocean",
+      "title": "Xác định mục tiêu!",
+      "content": "Lập trình viên? Game developer? Nhà khoa học AI? Doanh nhân? Dù mơ ước gì, hãy bắt đầu học ngay hôm nay!",
+      "emoji": "🎯",
+      "highlight": "Ước mơ lớn + Bước nhỏ = Thành công!"
+    },
+    {
+      "id": 7,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy bắt đầu hành trình học của bạn! Garuchan luôn đồng hành với bạn!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

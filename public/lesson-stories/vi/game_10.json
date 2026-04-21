@@ -1,0 +1,131 @@
+{
+  "title": "Tạo Game của bạn",
+  "description": "Học Tạo Game của bạn theo cách thú vị cùng Garuchan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Tạo Game của bạn cùng Garuchan!",
+      "background": "candy",
+      "title": "Tạo Game của bạn",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Tạo Game của bạn cùng Garuchan!",
+      "background": "space",
+      "title": "Tạo Game của bạn - Part 1",
+      "content": "This is lesson 10 about Tạo Game của bạn. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Tạo Game của bạn - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Tạo Game của bạn cùng Garuchan!",
+      "background": "forest",
+      "title": "Tạo Game của bạn - Part 2",
+      "content": "This is lesson 10 about Tạo Game của bạn. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Tạo Game của bạn - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Tạo Game của bạn cùng Garuchan!",
+      "background": "classroom",
+      "title": "Tạo Game của bạn - Part 3",
+      "content": "This is lesson 10 about Tạo Game của bạn. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Tạo Game của bạn - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Tạo Game của bạn cùng Garuchan!",
+      "background": "city",
+      "title": "Tạo Game của bạn - Part 4",
+      "content": "This is lesson 10 about Tạo Game của bạn. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Tạo Game của bạn - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Tạo Game của bạn cùng Garuchan!",
+      "background": "candy",
+      "title": "Tạo Game của bạn - Part 5",
+      "content": "This is lesson 10 about Tạo Game của bạn. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Tạo Game của bạn - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Tạo Game của bạn cùng Garuchan!",
+      "background": "ocean",
+      "title": "Tạo Game của bạn - Part 6",
+      "content": "This is lesson 10 about Tạo Game của bạn. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Tạo Game của bạn - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Tạo Game của bạn cùng Garuchan!",
+      "background": "classroom",
+      "title": "Tạo Game của bạn - Part 7",
+      "content": "This is lesson 10 about Tạo Game của bạn. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Tạo Game của bạn - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Tạo Game của bạn cùng Garuchan!",
+      "background": "forest",
+      "title": "Tạo Game của bạn - Part 8",
+      "content": "This is lesson 10 about Tạo Game của bạn. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Tạo Game của bạn - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

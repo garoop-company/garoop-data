@@ -1,0 +1,131 @@
+{
+  "title": "What Can You Make with AI?",
+  "description": "The possibilities of creation with AI",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "What do you want to make with AI? The possibilities are endless!",
+      "background": "candy",
+      "title": "What Can You Make with AI?",
+      "emoji": "🎨",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Create beautiful art with just words!",
+      "background": "candy",
+      "title": "Draw with AI",
+      "content": "Using Stable Diffusion, Midjourney, or DALL-E, type 'Mount Fuji at sunset with cherry blossoms' and get the image!",
+      "emoji": "🎨",
+      "highlight": "📝 Text → 🎨 AI-generated image"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Create music without any knowledge!",
+      "background": "forest",
+      "title": "Make Music with AI",
+      "content": "Suno AI, Udio, MusicLM generate melodies and lyrics. 'Make a relaxing jazz track' and it's done!",
+      "emoji": "🎵",
+      "highlight": "🎵 Text → AI composition → 🎶 Music"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Video production is possible with AI!",
+      "background": "city",
+      "title": "Create Videos with AI",
+      "content": "Runway, Pika, Sora generate short videos. 'A dog running on the beach' becomes a video from text!",
+      "emoji": "🎬",
+      "highlight": "📝 Prompt → 🎬 AI video generation"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Create games without programming knowledge!",
+      "background": "classroom",
+      "title": "Make Games with AI",
+      "content": "ChatGPT and GitHub Copilot write game code for you. Just describe your idea to AI and get a working game!",
+      "emoji": "🎮",
+      "highlight": "💡 Idea → AI → 🎮 Game complete"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AI can be your ultimate co-author!",
+      "background": "space",
+      "title": "Write a Book with AI",
+      "content": "Build the story skeleton, create characters, write the prose. Human ideas × AI writing power = a complete book!",
+      "emoji": "📖",
+      "highlight": "💡 Story + ✍️ AI = 📚 Book complete"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI can help you start a business!",
+      "background": "ocean",
+      "title": "Build a Business with AI",
+      "content": "Brainstorming ideas, writing marketing copy, designing logos... with AI you can launch a business on your own!",
+      "emoji": "💼",
+      "highlight": "💡 Idea + 🤖 AI = 🚀 Business"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "No-code + AI means anyone can make apps!",
+      "background": "candy",
+      "title": "Build an App with AI",
+      "content": "No-code tools like Bubble, Adalo, Glide + AI let you build apps without programming knowledge!",
+      "emoji": "📱",
+      "highlight": "0 code + 🤖 AI = 📱 App complete"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "What will you create with your ideas?",
+      "background": "space",
+      "title": "Your AI Project",
+      "content": "Kids around the world are creating amazing things with AI. Your idea might just change the world!",
+      "emoji": "🌟",
+      "highlight": "💡 Your idea × 🤖 AI = 🌍 Revolution"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "With ideas and AI, you can make anything! Let's go for it!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

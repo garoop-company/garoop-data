@@ -1,0 +1,131 @@
+{
+  "title": "ループ",
+  "description": "繰り返し処理をマスターしよう",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "同じ処理を何度も自動でやってもらおう！ループの魔法だ！",
+      "background": "candy",
+      "title": "ループ",
+      "emoji": "🔄",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "決まった回数繰り返すループだよ！",
+      "background": "candy",
+      "title": "forループの基本",
+      "content": "for i in range(5): print(i) で0,1,2,3,4を表示できます。リストや文字列にも使えます！",
+      "emoji": "🔄",
+      "highlight": "for i in range(5): → 0〜4を繰り返す"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "条件がTrueの間ずっと繰り返すよ！",
+      "background": "forest",
+      "title": "whileループ",
+      "content": "while count < 10: count += 1 のように条件がFalseになるまで繰り返します。無限ループに注意！",
+      "emoji": "♾️",
+      "highlight": "while 条件: → Trueの間ずっと繰り返す"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ループを途中で抜け出す方法だよ！",
+      "background": "city",
+      "title": "break文",
+      "content": "breakでループを強制終了できます。答えが見つかったらすぐ終了するなどに使います！",
+      "emoji": "🛑",
+      "highlight": "break → ループを強制終了！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "今の繰り返しをスキップする方法だよ！",
+      "background": "classroom",
+      "title": "continue文",
+      "content": "continueで現在の繰り返しをスキップして次へ進みます。偶数だけ処理するなどに使います！",
+      "emoji": "⏭️",
+      "highlight": "continue → 今回をスキップ、次へ！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "リストの全要素を順番に処理できる！",
+      "background": "candy",
+      "title": "リストのループ",
+      "content": "for item in ['りんご','みかん','バナナ']: print(item) でリストの中身を全部処理できます！",
+      "emoji": "📋",
+      "highlight": "for item in リスト: → 全要素を処理"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "インデックスと値を同時に取得できる！",
+      "background": "ocean",
+      "title": "enumerate()の使い方",
+      "content": "for i, v in enumerate(['a','b','c']): で i=0,1,2, v='a','b','c'が同時に取れます！",
+      "emoji": "🔢",
+      "highlight": "enumerate() → 番号+値を同時に取得"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ループを1行で書くスマートな方法！",
+      "background": "forest",
+      "title": "リスト内包表記",
+      "content": "[x*2 for x in range(5)] で [0,2,4,6,8] が作れます。コードが短くスッキリします！",
+      "emoji": "✨",
+      "highlight": "[式 for 変数 in リスト] → 短く書ける！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ループの中にループを入れることもできる！",
+      "background": "space",
+      "title": "ネストしたループ",
+      "content": "九九の表や2次元配列の処理にネストしたループを使います。計算量に注意しながら使おう！",
+      "emoji": "🔲",
+      "highlight": "for i: → for j: → 掛け算表の完成"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ループを使いこなすことができたね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

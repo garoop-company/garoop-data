@@ -1,0 +1,131 @@
+{
+  "title": "DevOpsとは",
+  "description": "ガルちゃんと楽しくDevOpsとはを学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとDevOpsとはを学ぼう！",
+      "background": "forest",
+      "title": "DevOpsとは",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとDevOpsとはを学ぼう！",
+      "background": "space",
+      "title": "DevOpsとは - Part 1",
+      "content": "This is lesson 7 about DevOpsとは. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 DevOpsとは - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとDevOpsとはを学ぼう！",
+      "background": "forest",
+      "title": "DevOpsとは - Part 2",
+      "content": "This is lesson 7 about DevOpsとは. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 DevOpsとは - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとDevOpsとはを学ぼう！",
+      "background": "classroom",
+      "title": "DevOpsとは - Part 3",
+      "content": "This is lesson 7 about DevOpsとは. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 DevOpsとは - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとDevOpsとはを学ぼう！",
+      "background": "city",
+      "title": "DevOpsとは - Part 4",
+      "content": "This is lesson 7 about DevOpsとは. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 DevOpsとは - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとDevOpsとはを学ぼう！",
+      "background": "candy",
+      "title": "DevOpsとは - Part 5",
+      "content": "This is lesson 7 about DevOpsとは. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 DevOpsとは - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとDevOpsとはを学ぼう！",
+      "background": "ocean",
+      "title": "DevOpsとは - Part 6",
+      "content": "This is lesson 7 about DevOpsとは. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 DevOpsとは - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとDevOpsとはを学ぼう！",
+      "background": "classroom",
+      "title": "DevOpsとは - Part 7",
+      "content": "This is lesson 7 about DevOpsとは. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 DevOpsとは - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとDevOpsとはを学ぼう！",
+      "background": "forest",
+      "title": "DevOpsとは - Part 8",
+      "content": "This is lesson 7 about DevOpsとは. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 DevOpsとは - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レッスン完了！よくできました！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

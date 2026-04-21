@@ -1,0 +1,131 @@
+{
+  "title": "Conditionals",
+  "description": "Make programs that can make decisions",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Use if statements to let programs make choices!",
+      "background": "city",
+      "title": "Conditionals",
+      "emoji": "🔀",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Code that only runs when condition is true!",
+      "background": "city",
+      "title": "Basic if Statement",
+      "content": "if score >= 60: print('Pass!') runs only when the condition is True!",
+      "emoji": "🔀",
+      "highlight": "if condition: → runs only if True"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Code for when the condition is False!",
+      "background": "forest",
+      "title": "else Statement",
+      "content": "if ... else ... lets you say 'if this, do that, otherwise do this'!",
+      "emoji": "↔️",
+      "highlight": "if condition: → True path\nelse: → False path"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Check multiple conditions in sequence!",
+      "background": "classroom",
+      "title": "elif Statement",
+      "content": "elif (else if) handles 3+ cases. Perfect for letter grade scoring!",
+      "emoji": "📊",
+      "highlight": "if 90+: A\nelif 80+: B\nelif 70+: C\nelse: D"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Learn the symbols used to build conditions!",
+      "background": "candy",
+      "title": "Comparison Operators",
+      "content": "== equal, != not equal, >, <, >=, <=. Use these to build condition expressions!",
+      "emoji": "⚖️",
+      "highlight": "== != > < >= <="
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Combine multiple conditions!",
+      "background": "ocean",
+      "title": "Logical Operators",
+      "content": "and (both True), or (either True), not (reverse). Create complex conditions!",
+      "emoji": "🔗",
+      "highlight": "and / or / not"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Conditional in one line!",
+      "background": "forest",
+      "title": "Ternary Operator",
+      "content": "result = 'Pass' if score >= 60 else 'Fail' — write it in one line!",
+      "emoji": "⚡",
+      "highlight": "value_A if condition else value_B"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Conditions inside conditions!",
+      "background": "classroom",
+      "title": "Nested Conditionals",
+      "content": "You can put if statements inside if statements. Just don't go too deep or it gets hard to read!",
+      "emoji": "🪆",
+      "highlight": "if cond1:\n  if cond2: ... (max ~3 levels)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "A new way to write conditions!",
+      "background": "space",
+      "title": "match Statement (Python 3.10+)",
+      "content": "The match/case statement lets you write cleaner conditionals. Similar to switch in Java or C!",
+      "emoji": "✨",
+      "highlight": "match value:\n  case 'a': ...\n  case 'b': ..."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You can now use conditional branches!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "クラスとオブジェクト",
+  "description": "オブジェクト指向プログラミングを学ぼう",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "クラスでオブジェクトを作ろう！プログラムが整理される！",
+      "background": "classroom",
+      "title": "クラスとオブジェクト",
+      "emoji": "🏗️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "現実世界をコードで表現する考え方だよ！",
+      "background": "classroom",
+      "title": "オブジェクト指向とは？",
+      "content": "犬というクラスを作ると、ポチ・タロウなど個別の犬オブジェクトを作れます。コードが整理されて再利用しやすくなります！",
+      "emoji": "🏗️",
+      "highlight": "クラス(設計図) → オブジェクト(実体)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "クラスを作る基本の書き方だよ！",
+      "background": "forest",
+      "title": "クラスの定義",
+      "content": "class Dog: のように定義し、__init__メソッドで初期化します。属性と振る舞いをひとまとめにします！",
+      "emoji": "📐",
+      "highlight": "class クラス名: → 設計図を作成"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "クラスのデータと機能を定義しよう！",
+      "background": "city",
+      "title": "属性とメソッド",
+      "content": "属性(self.name)はデータ、メソッド(def bark())は機能です。クラス内でselfを使って自分自身を参照します！",
+      "emoji": "⚙️",
+      "highlight": "属性 = データ  メソッド = 機能"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "クラスからオブジェクトを作ろう！",
+      "background": "candy",
+      "title": "インスタンス化",
+      "content": "dog = Dog('ポチ') でDogクラスのインスタンスを作成。dog.name、dog.bark()で属性・メソッドを使えます！",
+      "emoji": "✨",
+      "highlight": "オブジェクト = クラス名(引数) → 実体の生成"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "既存のクラスを拡張できる継承！",
+      "background": "ocean",
+      "title": "継承",
+      "content": "class Poodle(Dog): のように既存クラスを継承して新クラスを作れます。コードの再利用ができます！",
+      "emoji": "🧬",
+      "highlight": "class 子クラス(親クラス): → 継承！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "データを外から守る仕組みだよ！",
+      "background": "forest",
+      "title": "カプセル化",
+      "content": "_(アンダースコア)で始まる属性は外から直接変えないという慣習。データの保護と安全性！",
+      "emoji": "🔒",
+      "highlight": "self._name → 外部から変更しない慣習"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Pythonが自動で呼ぶ魔法のメソッドだよ！",
+      "background": "classroom",
+      "title": "特殊メソッド",
+      "content": "__str__()は表示用、__len__()は長さ、__eq__()は比較に使います。自分だけの動作を定義できます！",
+      "emoji": "✨",
+      "highlight": "__init__ __str__ __len__ → 特殊メソッド"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "クラスを使ってカードゲームを作ろう！",
+      "background": "space",
+      "title": "実践：カードゲーム",
+      "content": "Card、Deck、Playerクラスを作ってカードゲームが作れます。オブジェクト指向の威力を実感！",
+      "emoji": "🃏",
+      "highlight": "Card + Deck + Player = カードゲーム完成！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "オブジェクト指向の第一歩をマスターしたね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

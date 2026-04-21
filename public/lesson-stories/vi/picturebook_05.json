@@ -1,0 +1,131 @@
+{
+  "title": "Sử dụng màu sắc",
+  "description": "Học Sử dụng màu sắc theo cách thú vị cùng Garuchan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Sử dụng màu sắc cùng Garuchan!",
+      "background": "candy",
+      "title": "Sử dụng màu sắc",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Sử dụng màu sắc cùng Garuchan!",
+      "background": "space",
+      "title": "Sử dụng màu sắc - Part 1",
+      "content": "This is lesson 5 about Sử dụng màu sắc. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Sử dụng màu sắc - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Sử dụng màu sắc cùng Garuchan!",
+      "background": "forest",
+      "title": "Sử dụng màu sắc - Part 2",
+      "content": "This is lesson 5 about Sử dụng màu sắc. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Sử dụng màu sắc - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Sử dụng màu sắc cùng Garuchan!",
+      "background": "classroom",
+      "title": "Sử dụng màu sắc - Part 3",
+      "content": "This is lesson 5 about Sử dụng màu sắc. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Sử dụng màu sắc - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Sử dụng màu sắc cùng Garuchan!",
+      "background": "city",
+      "title": "Sử dụng màu sắc - Part 4",
+      "content": "This is lesson 5 about Sử dụng màu sắc. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Sử dụng màu sắc - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Sử dụng màu sắc cùng Garuchan!",
+      "background": "candy",
+      "title": "Sử dụng màu sắc - Part 5",
+      "content": "This is lesson 5 about Sử dụng màu sắc. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Sử dụng màu sắc - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Sử dụng màu sắc cùng Garuchan!",
+      "background": "ocean",
+      "title": "Sử dụng màu sắc - Part 6",
+      "content": "This is lesson 5 about Sử dụng màu sắc. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Sử dụng màu sắc - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Sử dụng màu sắc cùng Garuchan!",
+      "background": "classroom",
+      "title": "Sử dụng màu sắc - Part 7",
+      "content": "This is lesson 5 about Sử dụng màu sắc. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Sử dụng màu sắc - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Sử dụng màu sắc cùng Garuchan!",
+      "background": "forest",
+      "title": "Sử dụng màu sắc - Part 8",
+      "content": "This is lesson 5 about Sử dụng màu sắc. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Sử dụng màu sắc - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

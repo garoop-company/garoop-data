@@ -1,0 +1,131 @@
+{
+  "title": "Functions",
+  "description": "Learn to write reusable code",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Don't write the same code twice! Learn the magic of functions!",
+      "background": "ocean",
+      "title": "Functions",
+      "emoji": "📦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "A mechanism to bundle and reuse code!",
+      "background": "ocean",
+      "title": "Basic Functions",
+      "content": "def greet(name): print('Hello, '+name) defines a function. Call it as many times as you want!",
+      "emoji": "📦",
+      "highlight": "def function_name(param): → define the process"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Pass values in, get results out!",
+      "background": "forest",
+      "title": "Parameters and Return Values",
+      "content": "def add(a, b): return a + b → result = add(3, 5) → result = 8. Params = input, return = output!",
+      "emoji": "↩️",
+      "highlight": "params → input  return → output"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Set default values for parameters!",
+      "background": "classroom",
+      "title": "Default Arguments",
+      "content": "def greet(name='Guest'): works even without arguments. greet() → 'Hello, Guest'",
+      "emoji": "⚙️",
+      "highlight": "def greet(name='Guest'): → default when omitted"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Specify arguments by name!",
+      "background": "city",
+      "title": "Keyword Arguments",
+      "content": "greet(name='Alice') specifies the argument by name. Safe even if you mix up the order!",
+      "emoji": "🏷️",
+      "highlight": "func(key=value) → safe named passing"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Accept any number of arguments!",
+      "background": "candy",
+      "title": "Variable Arguments (*args)",
+      "content": "def total(*args): return sum(args) lets total(1,2,3,4,5) work with any number of args!",
+      "emoji": "🔢",
+      "highlight": "*args → accept any number of arguments!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "The range where variables can be used!",
+      "background": "ocean",
+      "title": "Scope",
+      "content": "Variables inside a function can't be used outside (local scope). Variables outside are global scope!",
+      "emoji": "🔭",
+      "highlight": "Inside function = local  Outside = global"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Short functions you can write in one line!",
+      "background": "forest",
+      "title": "Lambda Functions",
+      "content": "add = lambda x, y: x + y writes a simple function on one line. Often used with map and filter!",
+      "emoji": "⚡",
+      "highlight": "lambda params: expression → one-line function"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tips for designing great functions!",
+      "background": "space",
+      "title": "Function Design",
+      "content": "One function does one thing, starts with a verb, stays short... code becomes readable and maintainable!",
+      "emoji": "🎨",
+      "highlight": "1 function 1 job + clear name = good code"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You can now write clean, reusable code with functions!",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

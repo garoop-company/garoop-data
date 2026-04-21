@@ -1,6 +1,6 @@
 {
   "title": "算数を楽しもう！",
-  "description": "数字の魔法を一緒に体験しよう！",
+  "description": "数の魔法をガルちゃんと一緒に体験しよう！",
   "bgTheme": "classroom",
   "scenes": [
     {
@@ -19,23 +19,107 @@
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "float",
-      "speech": "足し算はまとめること！3つのリンゴと2つのリンゴを合わせると？",
+      "speech": "足し算は「合わせる」ことだよ！りんご3個とりんご2個、合わせると？",
       "background": "forest",
-      "title": "足し算 = まとめる",
-      "content": "3 + 2 = 5。3つと2つを合わせると5つになるよ！",
+      "title": "足し算",
+      "content": "3 + 2 = 5。3と2を合わせると5になる！足し算は毎日の生活のあちこちで使うよ。",
       "emoji": "🍎",
       "highlight": "🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎"
     },
     {
       "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "引き算は「取り去る」ことだよ！ケーキ8個から3個食べたら？",
+      "background": "candy",
+      "title": "引き算",
+      "content": "8 - 3 = 5。8から3つ取ると5つ残る！引き算もお店のお釣りなど日常でよく使うよ。",
+      "emoji": "🍰",
+      "highlight": "8 - 3 = 5\n🍰🍰🍰🍰🍰 (5個残った)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "かけ算は足し算をもっと速くやる方法だよ！",
+      "background": "classroom",
+      "title": "かけ算",
+      "content": "4 × 3 = 12。4を3回足すのと同じこと！九九を覚えると計算がとっても速くなるよ。",
+      "emoji": "⭐",
+      "highlight": "4 × 3 = 12\n(4 + 4 + 4 = 12)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "割り算は「均等に分ける」ことだよ！",
+      "background": "forest",
+      "title": "割り算",
+      "content": "12 ÷ 4 = 3。12を4つに均等に分けると、ひとつ3になる！ピザを分けるときに使えるね。",
+      "emoji": "🍕",
+      "highlight": "12 ÷ 4 = 3\n🍕🍕🍕 ずつもらえる"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "分数は全体の一部を表す方法だよ！ピザを切り分けるとき使うね！",
+      "background": "candy",
+      "title": "分数",
+      "content": "1/2はふたつに分けたうちの1つ。3/4は4つに分けたうちの3つ。料理やお買い物でよく出てくるよ！",
+      "emoji": "🥧",
+      "highlight": "1/2 = 半分\n3/4 = 4分の3"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "パーセントは「100のうちいくつ？」を表す方法だよ！50%オフって半額だよ！",
+      "background": "city",
+      "title": "パーセント（%）",
+      "content": "100% = 全部、50% = 半分、25% = 4分の1。テストの点数やセールの割引で使うよ！",
+      "emoji": "💯",
+      "highlight": "100の50% = 50\n80の25% = 20"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "図形の勉強は建物の設計やゲームのマップ作りに役立つよ！",
+      "background": "classroom",
+      "title": "図形",
+      "content": "三角形は3辺、正方形は4辺すべて等しい、円は角がない！図形は建築、アート、自然界にあふれてる。",
+      "emoji": "📐",
+      "highlight": "△ 三角形  □ 正方形  ○ 円"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "算数は医者、建築家、科学者、そしてプログラマーも使うんだよ！",
+      "background": "space",
+      "title": "算数は世界を動かす！",
+      "content": "プログラミング、お金の計算、宇宙の探検... 算数がわかると、できることがうんと増えるよ！",
+      "emoji": "🌍",
+      "highlight": "💰 お金  🏛️ 建築  🚀 宇宙  💻 プログラミング"
+    },
+    {
+      "id": 10,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "bounce",
-      "speech": "算数の基本がわかったね！練習すればどんどん得意になるよ！",
+      "speech": "すごい！たくさんの算数を学んだね！毎日練習してどんどん上手になろう！",
       "background": "space",
       "title": "レッスン完了！",
-      "emoji": "⭐",
-      "effects": ["confetti"]
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
     }
   ]
 }

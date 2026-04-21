@@ -1,0 +1,131 @@
+{
+  "title": "Xây dựng đội nhóm",
+  "description": "Học Xây dựng đội nhóm theo cách thú vị cùng Garuchan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Xây dựng đội nhóm cùng Garuchan!",
+      "background": "city",
+      "title": "Xây dựng đội nhóm",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Xây dựng đội nhóm cùng Garuchan!",
+      "background": "space",
+      "title": "Xây dựng đội nhóm - Part 1",
+      "content": "This is lesson 7 about Xây dựng đội nhóm. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Xây dựng đội nhóm - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Xây dựng đội nhóm cùng Garuchan!",
+      "background": "forest",
+      "title": "Xây dựng đội nhóm - Part 2",
+      "content": "This is lesson 7 about Xây dựng đội nhóm. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Xây dựng đội nhóm - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Xây dựng đội nhóm cùng Garuchan!",
+      "background": "classroom",
+      "title": "Xây dựng đội nhóm - Part 3",
+      "content": "This is lesson 7 about Xây dựng đội nhóm. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Xây dựng đội nhóm - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Xây dựng đội nhóm cùng Garuchan!",
+      "background": "city",
+      "title": "Xây dựng đội nhóm - Part 4",
+      "content": "This is lesson 7 about Xây dựng đội nhóm. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Xây dựng đội nhóm - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Xây dựng đội nhóm cùng Garuchan!",
+      "background": "candy",
+      "title": "Xây dựng đội nhóm - Part 5",
+      "content": "This is lesson 7 about Xây dựng đội nhóm. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Xây dựng đội nhóm - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Xây dựng đội nhóm cùng Garuchan!",
+      "background": "ocean",
+      "title": "Xây dựng đội nhóm - Part 6",
+      "content": "This is lesson 7 about Xây dựng đội nhóm. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Xây dựng đội nhóm - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Xây dựng đội nhóm cùng Garuchan!",
+      "background": "classroom",
+      "title": "Xây dựng đội nhóm - Part 7",
+      "content": "This is lesson 7 about Xây dựng đội nhóm. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Xây dựng đội nhóm - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Xây dựng đội nhóm cùng Garuchan!",
+      "background": "forest",
+      "title": "Xây dựng đội nhóm - Part 8",
+      "content": "This is lesson 7 about Xây dựng đội nhóm. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Xây dựng đội nhóm - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

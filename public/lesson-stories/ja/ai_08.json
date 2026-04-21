@@ -1,0 +1,131 @@
+{
+  "title": "AIの未来",
+  "description": "AIがもたらす未来の世界",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "AIが作る未来の世界を一緒に想像してみよう！",
+      "background": "space",
+      "title": "AIの未来",
+      "emoji": "🧠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "何でも人間並みにできるAIが来るかも！",
+      "background": "space",
+      "title": "AGI（汎用人工知能）とは？",
+      "content": "現在のAIは特定のことしかできません。AGIは人間と同様に何でも学べる知能です。実現するかどうか専門家も議論中！",
+      "emoji": "🧠",
+      "highlight": "現在:弱いAI → 未来:AGI → 遠い未来:超知能"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIが病気をなくせるかもしれない！",
+      "background": "forest",
+      "title": "AIと医療の未来",
+      "content": "AIによる新薬開発、個人に合わせた治療、早期診断…AIが医療を革命します。平均寿命150歳も夢ではないかも！",
+      "emoji": "🏥",
+      "highlight": "💊新薬開発 🏥診断 🧬遺伝子治療"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "一人一人に合わせた教育が実現する！",
+      "background": "classroom",
+      "title": "AIと教育の未来",
+      "content": "AIが生徒一人一人のペース・強み・興味に合わせて教えます。苦手な分野を重点的に、得意な分野はどんどん先へ！",
+      "emoji": "📚",
+      "highlight": "👤 個別最適化学習 × 🤖 AI = 未来の教育"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIが地球を救うかもしれない！",
+      "background": "city",
+      "title": "AIと環境問題",
+      "content": "気候変動予測、再生可能エネルギー最適化、資源管理…AIが地球環境の課題解決に挑戦しています！",
+      "emoji": "🌍",
+      "highlight": "🌱 AIで地球温暖化を止める！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "物理的な世界でも活躍するAIロボット！",
+      "background": "candy",
+      "title": "AIロボットの未来",
+      "content": "工場の自動化から家事ロボット、宇宙探査まで。AIとロボットの組み合わせで人間の仕事が大きく変わります！",
+      "emoji": "🤖",
+      "highlight": "🏭工場 🏠家事 🚀宇宙 を変えるロボット"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "仮想世界とAIの融合が始まっている！",
+      "background": "ocean",
+      "title": "メタバースとAI",
+      "content": "仮想空間でAIキャラクターと会話したり、学んだり、仕事したり。現実と仮想の境界線が曖昧になっていきます！",
+      "emoji": "🕹️",
+      "highlight": "🌐 仮想世界 + 🤖 AI = メタバース"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "AIが人間の知能を超える日が来る？",
+      "background": "space",
+      "title": "AIシンギュラリティ",
+      "content": "技術的特異点（シンギュラリティ）は、AIが人間の知能を超える瞬間。2045年頃と予測する専門家もいます！",
+      "emoji": "⚡",
+      "highlight": "2045年？ AI > 人間の知能 → シンギュラリティ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "人間とAIが最高のチームになれる！",
+      "background": "forest",
+      "title": "AIと共存する未来",
+      "content": "AIは人間の敵ではなく、最強のパートナーです。創造性、感情、倫理判断は人間の領域。AIと上手に協力しよう！",
+      "emoji": "🌟",
+      "highlight": "🤝 人間 × AI = 無限の可能性"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "未来のAI社会について深く考えられたね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Thế giới IoT",
+  "description": "Học Thế giới IoT theo cách thú vị cùng Garuchan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học Thế giới IoT cùng Garuchan!",
+      "background": "space",
+      "title": "Thế giới IoT",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Thế giới IoT cùng Garuchan!",
+      "background": "space",
+      "title": "Thế giới IoT - Part 1",
+      "content": "This is lesson 5 about Thế giới IoT. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 Thế giới IoT - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Thế giới IoT cùng Garuchan!",
+      "background": "forest",
+      "title": "Thế giới IoT - Part 2",
+      "content": "This is lesson 5 about Thế giới IoT. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 Thế giới IoT - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Thế giới IoT cùng Garuchan!",
+      "background": "classroom",
+      "title": "Thế giới IoT - Part 3",
+      "content": "This is lesson 5 about Thế giới IoT. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 Thế giới IoT - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Thế giới IoT cùng Garuchan!",
+      "background": "city",
+      "title": "Thế giới IoT - Part 4",
+      "content": "This is lesson 5 about Thế giới IoT. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 Thế giới IoT - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Thế giới IoT cùng Garuchan!",
+      "background": "candy",
+      "title": "Thế giới IoT - Part 5",
+      "content": "This is lesson 5 about Thế giới IoT. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 Thế giới IoT - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Thế giới IoT cùng Garuchan!",
+      "background": "ocean",
+      "title": "Thế giới IoT - Part 6",
+      "content": "This is lesson 5 about Thế giới IoT. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 Thế giới IoT - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy học Thế giới IoT cùng Garuchan!",
+      "background": "classroom",
+      "title": "Thế giới IoT - Part 7",
+      "content": "This is lesson 5 about Thế giới IoT. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 Thế giới IoT - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy học Thế giới IoT cùng Garuchan!",
+      "background": "forest",
+      "title": "Thế giới IoT - Part 8",
+      "content": "This is lesson 5 about Thế giới IoT. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 Thế giới IoT - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bài học hoàn thành! Thật tuyệt!",
+      "background": "space",
+      "title": "Hoàn Thành Bài Học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

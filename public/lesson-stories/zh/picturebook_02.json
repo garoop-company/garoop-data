@@ -1,0 +1,131 @@
+{
+  "title": "故事创作",
+  "description": "与Garuchan一起有趣地学习故事创作！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "与Garuchan一起学习故事创作！",
+      "background": "candy",
+      "title": "故事创作",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习故事创作！",
+      "background": "space",
+      "title": "故事创作 - Part 1",
+      "content": "This is lesson 2 about 故事创作. Part 1 of 8.",
+      "emoji": "💡",
+      "highlight": "📌 故事创作 - Key point 1"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习故事创作！",
+      "background": "forest",
+      "title": "故事创作 - Part 2",
+      "content": "This is lesson 2 about 故事创作. Part 2 of 8.",
+      "emoji": "📚",
+      "highlight": "📌 故事创作 - Key point 2"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习故事创作！",
+      "background": "classroom",
+      "title": "故事创作 - Part 3",
+      "content": "This is lesson 2 about 故事创作. Part 3 of 8.",
+      "emoji": "🔧",
+      "highlight": "📌 故事创作 - Key point 3"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习故事创作！",
+      "background": "city",
+      "title": "故事创作 - Part 4",
+      "content": "This is lesson 2 about 故事创作. Part 4 of 8.",
+      "emoji": "⚡",
+      "highlight": "📌 故事创作 - Key point 4"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习故事创作！",
+      "background": "candy",
+      "title": "故事创作 - Part 5",
+      "content": "This is lesson 2 about 故事创作. Part 5 of 8.",
+      "emoji": "🎯",
+      "highlight": "📌 故事创作 - Key point 5"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习故事创作！",
+      "background": "ocean",
+      "title": "故事创作 - Part 6",
+      "content": "This is lesson 2 about 故事创作. Part 6 of 8.",
+      "emoji": "🌟",
+      "highlight": "📌 故事创作 - Key point 6"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "与Garuchan一起学习故事创作！",
+      "background": "classroom",
+      "title": "故事创作 - Part 7",
+      "content": "This is lesson 2 about 故事创作. Part 7 of 8.",
+      "emoji": "💻",
+      "highlight": "📌 故事创作 - Key point 7"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "与Garuchan一起学习故事创作！",
+      "background": "forest",
+      "title": "故事创作 - Part 8",
+      "content": "This is lesson 2 about 故事创作. Part 8 of 8.",
+      "emoji": "🚀",
+      "highlight": "📌 故事创作 - Key point 8"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "课程完成！做得好！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

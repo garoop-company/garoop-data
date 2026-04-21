@@ -1,0 +1,125 @@
+{
+  "title": "गणित सिकौं!",
+  "description": "Garuchan सँगै सङ्ख्याको जादु अनुभव गरौं!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "नमस्ते! गणित धेरै मजेदार छ! सँगै सिकौं!",
+      "background": "classroom",
+      "title": "गणितको जादु!",
+      "emoji": "🔢",
+      "effects": ["sparkle"]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "जोड भनेको चिजहरू एकसाथ राख्नु हो। ३ स्याउ जोड्दा २ स्याउ कति हुन्छ?",
+      "background": "forest",
+      "title": "जोड",
+      "content": "३ + २ = ५। ३ र २ एकसाथ राख्दा ५ हुन्छ! जोड जीवनको सर्वत्र छ।",
+      "emoji": "🍎",
+      "highlight": "🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "घटाउ भनेको लिनु हो। ८ वटा केक छन्, ३ खाए, कति बाँकी?",
+      "background": "candy",
+      "title": "घटाउ",
+      "content": "८ - ३ = ५। कुनै सङ्ख्याबाट केही लिँदा घटाउ प्रयोग गर्छौं!",
+      "emoji": "🍰",
+      "highlight": "८ - ३ = ५\n🍰🍰🍰🍰🍰 (५ वटा बाँकी)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "गुणन भनेको एउटै सङ्ख्याको जोड धेरैपटक गर्ने छिटो तरिका हो!",
+      "background": "classroom",
+      "title": "गुणन",
+      "content": "४ × ३ = १२। अर्थात् ४ जोड्नु ४ जोड्नु ४ (तीनपटक)। पुनरावृत्ति जोडभन्दा छिटो!",
+      "emoji": "⭐",
+      "highlight": "४ × ३ = १२\n(४ + ४ + ४ = १२)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "भाग भनेको सबैलाई बराबर भाग दिनु हो!",
+      "background": "forest",
+      "title": "भाग",
+      "content": "१२ ÷ ४ = ३। अर्थात् १२ लाई बराबर ४ समूहमा बाँड्दा, प्रत्येकले ३ पाउँछन्!",
+      "emoji": "🍕",
+      "highlight": "१२ ÷ ४ = ३\n🍕🍕🍕 प्रत्येकलाई"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "भिन्नाङ्कले कुनै चिजको भाग देखाउँछ। पिज्जा काट्नु जस्तै!",
+      "background": "candy",
+      "title": "भिन्नाङ्क",
+      "content": "१/२ भनेको दुई बराबर भागमध्ये एउटा। ३/४ भनेको चार भागमध्ये तीन। खाना पकाउँदा र किनमेलमा प्रयोग!",
+      "emoji": "🥧",
+      "highlight": "१/२ = आधा\n३/४ = तीन चौथाई"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "प्रतिशत भनेको १०० भागमध्ये कति भन्ने हो। ५०% छुट भनेको आधा मूल्य!",
+      "background": "city",
+      "title": "प्रतिशत (%)",
+      "content": "१००% = सबै, ५०% = आधा, २५% = एक चौथाई। प्रतिशत सर्वत्र: किनमेल, अङ्क, बैंक!",
+      "emoji": "💯",
+      "highlight": "१०० को ५०% = ५०\n८० को २५% = २०"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ज्यामिति भनेको आकार र ठाउँको गणित हो!",
+      "background": "classroom",
+      "title": "ज्यामिति: आकारहरू",
+      "content": "त्रिकोणमा ३ भुजाहरू, वर्गमा ४ बराबर भुजाहरू, वृत्तमा कुनै कुना छैन। ज्यामिति भवन, कला र प्रकृतिमा!",
+      "emoji": "📐",
+      "highlight": "△ त्रिकोण  □ वर्ग  ○ वृत्त"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "गणित डाक्टर, वास्तुकार, वैज्ञानिक र प्रोग्रामरहरूले प्रयोग गर्छन्!",
+      "background": "space",
+      "title": "वास्तविक दुनियामा गणित",
+      "content": "कोडिङ, वित्त, वास्तुकला र विज्ञान सबैलाई गणित चाहिन्छ। गणित सिक्नु सबैभन्दा राम्रो लगानी!",
+      "emoji": "🌍",
+      "highlight": "💰 वित्त  🏛️ वास्तुकला  🚀 विज्ञान  💻 कोडिङ"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "उत्कृष्ट! आज धेरै गणित सिक्नुभयो! अभ्यास जारी राख्नुस्!",
+      "background": "space",
+      "title": "पाठ सम्पन्न!",
+      "emoji": "🏆",
+      "effects": ["confetti", "stars"]
+    }
+  ]
+}

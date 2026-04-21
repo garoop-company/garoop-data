@@ -1,0 +1,131 @@
+{
+  "title": "イベント処理",
+  "description": "ユーザーの操作に反応しよう",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "クリックや入力などのイベントを処理しよう！",
+      "background": "candy",
+      "title": "イベント処理",
+      "emoji": "🖱️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "ユーザーの操作をJSが検知できるよ！",
+      "background": "space",
+      "title": "イベントとは？",
+      "content": "マウスクリック、キー押下、ページ読み込み…ユーザーの行動全部がイベントです！",
+      "emoji": "🖱️",
+      "highlight": "クリック・キー・送信 = イベント"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "イベントを登録する基本的な方法！",
+      "background": "forest",
+      "title": "addEventListener",
+      "content": "button.addEventListener('click', handler)でイベントを登録。複数登録も可能！",
+      "emoji": "👂",
+      "highlight": "addEventListener(type, handler)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "クリックに反応するコードを書こう！",
+      "background": "classroom",
+      "title": "クリックイベント",
+      "content": "button.onclick = () => { ... } または addEventListener('click', ...)で反応！",
+      "emoji": "🔘",
+      "highlight": "button.onclick = () => { }"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "フォームの入力や送信を処理しよう！",
+      "background": "city",
+      "title": "フォームイベント",
+      "content": "input.addEventListener('input', ...)で入力検知。form.addEventListener('submit', ...)でフォーム送信処理！",
+      "emoji": "📋",
+      "highlight": "input submit change focus blur"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "キーを押したことを検知しよう！",
+      "background": "candy",
+      "title": "キーボードイベント",
+      "content": "document.addEventListener('keydown', e => { if(e.key === 'Enter') ... })でEnterキーに反応！",
+      "emoji": "⌨️",
+      "highlight": "keydown keyup keypress"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "イベントの詳細情報を取得しよう！",
+      "background": "ocean",
+      "title": "イベントオブジェクト",
+      "content": "イベントハンドラの第1引数eにイベント情報が入っています。e.target、e.key、e.preventDefaultなど！",
+      "emoji": "ℹ️",
+      "highlight": "e.target e.key e.preventDefault()"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "イベントが親要素に伝わる仕組み！",
+      "background": "classroom",
+      "title": "イベントのバブリング",
+      "content": "クリックイベントは子→親と伝わります。stopPropagation()で伝播を止められます！",
+      "emoji": "🫧",
+      "highlight": "子 → 親 への伝播（バブリング）"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "入力内容をリアルタイムで検証しよう！",
+      "background": "forest",
+      "title": "実践：フォームバリデーション",
+      "content": "フォームの入力値をリアルタイムチェック。空欄チェック、メール形式チェックなど！",
+      "emoji": "✅",
+      "highlight": "リアルタイムバリデーション！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "イベント処理でインタラクティブなページが作れるね！",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}
