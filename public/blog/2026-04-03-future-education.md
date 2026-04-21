@@ -3,7 +3,7 @@ title: "未来の教育があなたを驚かせる！"
 date: 2026-04-03
 description: "未来の教育とは？子供たちが何を学ぶのか？"
 tags: ["未来の教育", "子ども", "学習"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-03.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 未来の教育の時代がやってくる！
 未来の教育とは、子供たちが新しい技術やスキルを学び、世界を変える力を手に入れるための教育です。すでに、AIやロボットなどの teknologie が進化し、社会が変わり始めています。

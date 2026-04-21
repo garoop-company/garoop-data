@@ -3,7 +3,7 @@ title: "小小创业家，展翅高飞"
 date: 2026-04-18
 description: "在GaroopTV，我们相信每个孩子都拥有创业的潜力。通过鼓励创造力和实践能力，孩子们可以开发出自己的商业计划，并实现自己的梦想。"
 tags: ["创业", "教育", "儿童发展"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-18.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 小小创业家，展翅高飞
 作为一个孩子，你是否曾经想过开创自己的生意？也许你想开一家小店，或者提供一种独特的服务。创业可以是一种非常有趣和充实的经历，它不仅可以帮助你赚钱，还可以让你发展出重要的技能，如领导力、沟通和问题解决能力。

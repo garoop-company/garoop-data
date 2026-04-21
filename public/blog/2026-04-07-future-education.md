@@ -3,7 +3,7 @@ title: "未来の教育で夢を叶える!"
 date: 2026-04-07
 description: "未来の教育とは? 子供たちの可能性を広げるワクワクした話"
 tags: ["未来の教育", "子ども", "学習", "起業"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-07.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 未来の教育とは?
 未来の教育は、技術の進歩によって変化する世界で、子どもたちが何ができるかを考えることが大切です。

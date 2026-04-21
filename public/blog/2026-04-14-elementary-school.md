@@ -3,7 +3,7 @@ title: "小学生の可能性を広げる！夢の中の夢をつかむ方法"
 date: 2026-04-14
 description: "小学生の可能性を広げるためのワクワクした話"
 tags: ["小学生", "可能性", "夢", "起業"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-14.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 小学生の可能性を広げる！
 小学生のあなた、梦の中で何になりたいと思っているんですか？宇宙飛行士？科学者？芸能人？夢は無限大です！あなたの夢を叶えるためには、まずはその夢を明確にする必要があります。何が好きで、 何が得意なのかを考えます。夢に向かって、少しずつですが毎日ステップを踏み出してみましょう。

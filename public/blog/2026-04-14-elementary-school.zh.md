@@ -3,7 +3,7 @@ title: "小学生的大世界：发挥创造力，点燃行动力"
 date: 2026-04-14
 description: "小学生的成长过程中，创造力和行动力至关重要。让我们一起探索如何激发孩子的想象力和实践能力。"
 tags: ["小学生", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-14.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 小学生的大世界：发挥创造力，点燃行动力
 大家好，我是卡鲁酱！今天，我们要谈论一个非常重要的话题：小学生如何发挥创造力和行动力。在这个充满创新的时代，我们要鼓励孩子们跳出思维框架，敢于尝试和探索新的事物。

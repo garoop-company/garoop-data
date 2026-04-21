@@ -3,7 +3,7 @@ title: "小小创业家：点燃你的创造力"
 date: 2026-04-15
 description: "让孩子们认识创业的乐趣，激发他们的创造力和行动力，培养小小创业家的精神。"
 tags: ["创业", "小学生", "创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-15.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 小小创业家：点燃你的创造力
 你好，小朋友们！我是卡鲁酱，从今天开始，我们要一起踏上创业的冒险之旅！你可能会问，什么是创业？其实，创业就是把你的想法变成现实，并通过它帮助自己和他人。

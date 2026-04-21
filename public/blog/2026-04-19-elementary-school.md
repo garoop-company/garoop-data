@@ -3,7 +3,7 @@ title: "小学生の大冒険！夢を追うために必要なもの"
 date: 2026-04-19
 description: "小学生が夢を追うためのステップを紹介します"
 tags: ["小学生", " 起業", "創作"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-19.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 小学生の大冒険！
 こんにちは、ガルちゃんです！今日は、小学生の中にある無限の可能性について話しましょう。小学生のあなたは、まだまだ夢や希望に溢れた明るい未来を持っています。これから先、どんなことに挑戦して、どんな夢を追うべきか、今日はそのヒントについて語りたいと思います。

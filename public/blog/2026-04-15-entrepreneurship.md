@@ -3,7 +3,7 @@ title: "起業の世界を夢中に！キミもできる、自分のビジネス
 date: 2026-04-15
 description: "起業の世界に入門してみよう！キミの夢を叶えるために、ビジネスを始める方法を学んでみよう。"
 tags: ["起業", "ビジネス", "児童向け", "創造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-15.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 起業の世界を夢中に！
 キミも起業家になれるんだよ！起業とは、自分のビジネスを始めることを意味するんだ。

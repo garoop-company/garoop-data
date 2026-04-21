@@ -3,7 +3,7 @@ title: "解锁小学生的创造力"
 date: 2026-04-19
 description: "激发小学生的创造力和行动力，帮助他们成长为优秀的创新者。"
 tags: ["小学生", "创造力", "创新"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-19.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 解锁小学生的创造力
 作为小学生，你们的想象力和创造力是无限的。你们可以想象出各种各样的故事，画出最美丽的图画，甚至创造出新的游戏规则。那么，如何能将这些创造力转化为行动力呢？

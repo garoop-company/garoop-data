@@ -3,7 +3,7 @@ title: "让创造力闪耀——未来教育的无限可能"
 date: 2026-04-07
 description: "未来教育不仅仅是学习知识，还要激发创造力和行动力。让我们一起探索未来教育的奇妙世界。"
 tags: ["未来教育", "创造力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-07.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 让创造力闪耀——未来教育的无限可能
 你好，小朋友们！我是卡鲁酱，欢迎来到GaroopTV的官方博客！

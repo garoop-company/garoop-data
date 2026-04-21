@@ -164,14 +164,13 @@ function getOutputPath(baseSlug, locale) {
   return path.join(outputDirectory, `${baseSlug}.${locale}.md`);
 }
 
-function ensureThumbnailAsset(date) {
-  const thumbnailFileName = `thumbnail-${date}.webp`;
-  const thumbnailOutputPath = path.join(outputDirectory, thumbnailFileName);
+function ensureThumbnailAsset() {
+  const thumbnailOutputPath = path.join(outputDirectory, "thumbnail.webp");
   if (!fs.existsSync(thumbnailOutputPath)) {
     fs.copyFileSync(thumbnailTemplatePath, thumbnailOutputPath);
-    console.log(`Generated thumbnail asset: ${thumbnailOutputPath}`);
+    console.log(`Copied thumbnail asset: ${thumbnailOutputPath}`);
   }
-  return `${BLOG_BASE_URL}/${thumbnailFileName}`;
+  return `${BLOG_BASE_URL}/thumbnail.webp`;
 }
 
 function parseFrontMatter(content) {
@@ -227,7 +226,7 @@ function regenerateIndex() {
 async function generateLocalizedPost(theme, locale, date) {
   const localeConfig = localeConfigs[locale];
   const baseSlug = `${date}-${theme.slug}`;
-  const thumbnail = ensureThumbnailAsset(date);
+  const thumbnail = ensureThumbnailAsset();
 
   console.log(
     `Generating ${localeConfig.languageName} blog post for theme: ${localeConfig.themeLabel(theme)}`,

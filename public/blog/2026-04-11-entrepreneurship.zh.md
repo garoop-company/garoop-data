@@ -3,7 +3,7 @@ title: "创业的魔法世界：让你的梦想成真"
 date: 2026-04-11
 description: "想成为自己的老板，创造属于自己的世界？让我们一起探索创业的奇妙世界，激发你的创造力和行动力！"
 tags: ["创业", "小学生创业", "创新"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-11.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 创业的魔法世界：让你的梦想成真
 

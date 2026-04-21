@@ -3,7 +3,7 @@ title: "ガルちゃんの起業アドベンチャー!"
 date: 2026-04-11
 description: "起業とは何か? 子供たちも起業することができます!"
 tags: ["起業", "創造性", "挑戦"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-11.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 起業って何?
 こんにちは、ガルちゃんです！今日は「起業」というワクワクしたことについて話します。起業とは、自分で事業を始めることです。例えば、手作りのクッキーを販売したり、ペットシッターのサービスを始めたりすることですね。

@@ -3,7 +3,7 @@ title: "起業ってなんだろう？夢を持って大きな冒険に出よう
 date: 2026-04-18
 description: "起業の魅力に触れて、自分の可能性を広げよう！"
 tags: ["起業", "小学生", "創造性"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-18.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 起業ってなんだろう？
 起業とは、新しいビジネスやサービスを創造することです。つまり、自分でアイデアを思いついて、実際にやってみるということよ！誰にでもできるんだって思いませんか？

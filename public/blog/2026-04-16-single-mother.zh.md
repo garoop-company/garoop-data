@@ -3,7 +3,7 @@ title: 为单亲妈妈加油
 date: 2026-04-16
 description: 今天，卡鲁酱要和大家谈谈单亲妈妈。他们是如何独自抚养孩子、工作和生活的？我们可以做什么来支持他们呢？
 tags: ["单亲妈妈", "家庭", "支持"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-16.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 为单亲妈妈加油
 大家好，我是卡鲁酱！今天，我们要谈论一个很特别的主题——单亲妈妈。单亲妈妈是指那些独自抚养孩子、工作和生活的妈妈们。我们可以想象，这对于他们来说，并不是一件容易的事情。

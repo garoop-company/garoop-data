@@ -3,7 +3,7 @@ title: "未来教育：点燃你的创造力和行动力"
 date: 2026-04-10
 description: "未来教育不仅仅是学习知识，还要激发孩子的创造力和行动力。让我们一起探索未来教育的精彩之处。"
 tags: ["未来教育", "创造力", "行动力", "小学生教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-10.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 未来教育：点燃你的创造力和行动力
 

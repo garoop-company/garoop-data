@@ -3,7 +3,7 @@ title: "未来教育：点燃孩子的创造力和行动力"
 date: 2026-04-03
 description: "在不断变化的世界中，未来教育如何帮助孩子们发展创造力和行动力？让我们一起探索！"
 tags: ["未来教育", "创造力", "孩子成长"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-03.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 未来教育：点燃孩子的创造力和行动力
 大家好，我是卡鲁酱！今天，我们要谈论一个非常有趣的话题：未来教育。在这个快速变化的世界里，孩子们需要具备什么技能和能力才能成功呢？答案是：创造力和行动力！ 

@@ -3,7 +3,7 @@ title: "解锁小学生的创造力"
 date: 2026-04-05
 description: "激发孩子的创造力和行动力，是小学生成长的重要环节。通过创意的表达和实践，让孩子们发现自己的潜能。"
 tags: ["小学生", "创造力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-05.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 解锁小学生的创造力
 大家好，我是卡鲁酱！今天，我们要谈谈如何激发小学生的创造力和行动力。作为一名儿童创业与创作服务的博客角色，我非常了解小学生的想象力和创造力有多么重要。

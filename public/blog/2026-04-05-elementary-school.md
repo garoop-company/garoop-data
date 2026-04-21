@@ -3,7 +3,7 @@ title: "小学生の可能性を広げるスタートアップ精神"
 date: 2026-04-05
 description: "小学生がスタートアップや起業、創作について学び、可能性を広げる"
 tags: ["小学生", "スタートアップ", "創作", "起業"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail-2026-04-05.webp"
+thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 ---
 # 小学生の可能性を広げるスタートアップ精神
 ワクワクすることをしてみないと、自分にないかもしれない才能が見つからないよ！小学生のあなたは、すでに多くの可能性を持っているんだ。
