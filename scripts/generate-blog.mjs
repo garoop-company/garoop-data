@@ -174,6 +174,30 @@ function ensureThumbnailAsset(date) {
   return `${BLOG_BASE_URL}/${thumbnailFileName}`;
 }
 
+function parseFrontMatter(content) {
+  const match = content.match(/^---\s*\n([\s\S]*?)\n---/);
+  if (!match) return {};
+  const yaml = match[1];
+  const result = {};
+
+  const titleM = yaml.match(/^title:\s*"([^"]*)"$/m);
+  if (titleM) result.title = titleM[1];
+
+  const dateM = yaml.match(/^date:\s*(\S+)$/m);
+  if (dateM) result.date = String(dateM[1]).replace(/^["']|["']$/g, "");
+
+  const descM = yaml.match(/^description:\s*"([^"]*)"$/m);
+  if (descM) result.description = descM[1];
+
+  const tagsM = yaml.match(/^tags:\s*\[([^\]]*)\]$/m);
+  if (tagsM) result.tags = tagsM[1].split(",").map((t) => t.trim().replace(/^["']|["']$/g, ""));
+
+  const thumbM = yaml.match(/^thumbnail:\s*"([^"]*)"$/m);
+  if (thumbM) result.thumbnail = thumbM[1];
+
+  return result;
+}
+
 function regenerateIndex() {
   const fileNames = fs.readdirSync(outputDirectory).filter((f) => f.endsWith(".md"));
   const entries = {};
@@ -181,14 +205,18 @@ function regenerateIndex() {
   for (const fileName of fileNames) {
     const localizedMatch = fileName.match(LOCALIZED_POST_PATTERN);
     const slug = localizedMatch ? localizedMatch[1] : fileName.replace(/\.md$/, "");
-    const locale = localizedMatch?.[2];
+    const fileLocale = localizedMatch?.[2] ?? defaultLocale;
 
-    if (!entries[slug]) entries[slug] = { default: null, locales: {} };
-    if (locale) {
-      entries[slug].locales[locale] = fileName;
+    if (!entries[slug]) entries[slug] = { default: null, locales: {}, meta: {} };
+
+    if (localizedMatch) {
+      entries[slug].locales[fileLocale] = fileName;
     } else {
       entries[slug].default = fileName;
     }
+
+    const content = fs.readFileSync(path.join(outputDirectory, fileName), "utf8");
+    entries[slug].meta[fileLocale] = parseFrontMatter(content);
   }
 
   const indexPath = path.join(outputDirectory, "index.json");
