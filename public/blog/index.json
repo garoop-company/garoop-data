@@ -966,6 +966,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-04-22-future-education": {
+      "default": "2026-04-22-future-education.md",
+      "locales": {
+        "ne": "2026-04-22-future-education.ne.md",
+        "zh": "2026-04-22-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "未来の教育があなたを超凄い才能に！",
+          "date": "2026-04-22",
+          "description": "未来の教育について学ぶ",
+          "tags": [
+            "未来の教育",
+            "小学生",
+            "学習"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा",
+          "date": "2026-04-22",
+          "description": "भविष्यको शिक्षा बारे जानिन्छ",
+          "tags": [
+            "भविष्यको शिक्षा",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "未来教育：点燃孩子的创造力与行动力",
+          "date": "2026-04-22",
+          "description": "让孩子在未来教育中找回乐趣和成就感，点燃他们的创造力与行动力，成为未来的创造者和领导者。",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "行动力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
