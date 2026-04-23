@@ -1009,6 +1009,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-04-23-creation": {
+      "default": "2026-04-23-creation.md",
+      "locales": {
+        "ne": "2026-04-23-creation.ne.md",
+        "zh": "2026-04-23-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作の世界で夢を追いかけよう!",
+          "date": "2026-04-23",
+          "description": "創作の世界で自由につくり出し、夢を追いかける楽しさを知ろう！",
+          "tags": [
+            "創作",
+            "子ども",
+            "夢追い"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जना र तिम्रो कल्पनाशिलता",
+          "date": "2026-04-23",
+          "description": "सिर्जना र तिम्रो कल्पनाशिलता बारे जान्नुوس, कसरी तिम्रो सिर्जनशीलता बढाउनु होला",
+          "tags": [
+            "सिर्जना",
+            "कल्पनाशिलता",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "发挥创造力，成为小小艺术家",
+          "date": "2026-04-23",
+          "description": "创作是孩子们发挥想象力和创造力的最佳方式。通过绘画、写作、演奏音乐等形式，孩子们可以表达自己，展现独特的想法和才华。",
+          "tags": [
+            "创作",
+            "绘画",
+            "音乐",
+            "写作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
