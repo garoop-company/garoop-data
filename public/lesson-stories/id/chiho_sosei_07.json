@@ -1,0 +1,131 @@
+{
+  "title": "Branding Produk Unggulan Lokal ~Harta Karun Daerah ke Dunia~",
+  "description": "Mari belajar branding produk unggulan lokal dengan Gal-chan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita buat produk unggulan lokal menjadi merek global!",
+      "background": "forest",
+      "title": "Branding Produk Unggulan Lokal ~Harta Karun Daerah ke Dunia~",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar branding produk unggulan lokal dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Apa itu Sistem Perlindungan Indikasi Geografis (GI)?",
+      "content": "GI (Indikasi Geografis) adalah sistem yang melindungi produk khas daerah seperti 'Daging Sapi Kobe', 'Melon Yubari King', dan 'Kain Chirimen Tango Kyoto'. Dilindungi oleh hukum di UE dan Jepang, menghilangkan palsu dan meningkatkan nilai merek!",
+      "emoji": "🛡️",
+      "highlight": "Produk GI terdaftar di Jepang: 141 item (2024). 'Daging Sapi Tajima', 'Daging Sapi Iki', dll."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar branding produk unggulan lokal dengan Gal-chan!",
+      "background": "space",
+      "title": "Sake Jepang Menjadi Merek Global!",
+      "content": "Nilai ekspor sake Jepang: 47,4 miliar yen pada 2022, rekor tertinggi! Populer di Perancis, Amerika, dan Cina. 'Sake' adalah merek yang berfungsi bahkan dalam bahasa Inggris. Tradisi × kualitas × cerita menaklukkan pasar global.",
+      "emoji": "🍶",
+      "highlight": "Nilai ekspor sake Jepang: lebih dari tiga kali lipat dalam 10 tahun. Tujuan ekspor utama: AS, Hong Kong, dan Cina"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar branding produk unggulan lokal dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Mengapa Daging Sapi Jepang Begitu Mahal di Dunia?",
+      "content": "Daging Sapi Kobe, Matsusaka, dan Yonezawa adalah merek daging sapi berkualitas tertinggi di dunia. Beberapa dapat dijual dengan harga lebih dari 10 juta yen! Manajemen ketat area produksi, metode pembiakan, dan standar kualitas, bersama dengan 'cerita', menciptakan nilai merek.",
+      "emoji": "🥩",
+      "highlight": "Nilai ekspor daging sapi Jepang: pada level tertinggi. Sangat populer di restoran di Singapura, Hong Kong, dan AS"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar branding produk unggulan lokal dengan Gal-chan!",
+      "background": "forest",
+      "title": "Strategi 'Kerajaan Buah', Yamanashi",
+      "content": "Shine Muscat Yamanashi, persik, Gunung Fuji, dan anggur memiliki kekuatan merek yang tinggi baik di dalam maupun luar negeri. Dengan branding area produksi, penjualan harga tinggi dicapai. Beberapa anggur dijual dengan harga puluhan ribu yen!",
+      "emoji": "🍇",
+      "highlight": "Shine Muscat: dijual dengan harga 2.000 yen hingga lebih dari 10.000 yen per tandan, pada rentang harga tinggi"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar branding produk unggulan lokal dengan Gal-chan!",
+      "background": "city",
+      "title": "Inbound × Makanan untuk Penghasilan Daerah",
+      "content": "Wisatawan asing yang datang ke Jepang sangat tertarik dengan makanan! Kelas memasak, pengalaman pertanian, dan tur pabrik bir yang menyediakan 'pengalaman makanan Jepang asli' sangat populer. 'Makanan' adalah salah satu merek daerah yang paling kuat.",
+      "emoji": "🍱",
+      "highlight": "Konsumsi wisatawan asing di Jepang: 'biaya makan' adalah item pengeluaran kedua setelah akomodasi"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar branding produk unggulan lokal dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Kebangkitan Kerajinan dan Seni Tradisional",
+      "content": "Produk kerajinan tradisional Jepang seperti perabotan kayu, kertas washi, kain tenun, dan keramik populer di kalangan wisatawan inbound dan orang kaya. Pengrajin muda memposting di SNS, dan ada peningkatan kasus penjualan kepada kolektor luar negeri dengan harga tinggi!",
+      "emoji": "⛏️",
+      "highlight": "Populeritas perabotan kayu dan perabotan Jepang di Instagram: banyak pengikut asing. Beberapa item dijual dengan harga puluhan ribu hingga ratusan ribu yen"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari belajar branding produk unggulan lokal dengan Gal-chan!",
+      "background": "space",
+      "title": "Branding SNS dari Lokal ke Global",
+      "content": " 'Bukit Biei', 'Aliran Oirase', dan 'Gokayama' — tempat-tempat wisata lokal yang menjadi populer di SNS, menarik wisatawan dari seluruh dunia! Satu akun SNS yang mengirimkan pesona lokal dapat mengubah daerah.",
+      "emoji": "📱",
+      "highlight": "Banyak tempat wisata lokal mengalami peningkatan 100 kali lipat dalam jumlah wisatawan setelah diposting di Instagram"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar branding produk unggulan lokal dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Memperkuat Merek Daerah melalui Kerja Sama dengan Perusahaan Besar",
+      "content": "Ketika bahan-bahan lokal dan kerajinan diadopsi oleh department store besar, hotel terkenal, dan restoran mewah, kepercayaan meningkat! Membangun 'rantai nilai' dari produksi hingga pengolahan, distribusi, dan konsumsi sangat penting.",
+      "emoji": "🏨",
+      "highlight": "Resor Hoshino: secara aktif mengadopsi bahan-bahan lokal → dampak besar pada ekonomi daerah"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Gal-chan, Ahli Branding Daerah! Selanjutnya adalah Pemuda dan Revitalisasi Daerah 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

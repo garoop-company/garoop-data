@@ -1,0 +1,131 @@
+{
+  "title": "Belajar dari Kegagalan: Membangun Ketahanan",
+  "description": "Mari belajar dari kegagalan dengan Gal-chan dengan cara yang menyenangkan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Kegagalan adalah jalan menuju kesuksesan! Mari belajar tentang ketahanan!",
+      "background": "forest",
+      "title": "Belajar dari Kegagalan: Membangun Ketahanan",
+      "emoji": "💪",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar dari kegagalan dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Kegagalan adalah 'Penemuan'",
+      "content": "Edison gagal lebih dari 10.000 kali saat mengembangkan bola lampu. 'Saya tidak gagal. Saya hanya menemukan 10.000 cara yang tidak berhasil.' - Kata-kata ini mengatakan semuanya!",
+      "emoji": "💡",
+      "highlight": "Edison: Catatan eksperimen dengan lebih dari 10.000 catatan kegagalan. Semua tercatat sebagai 'data untuk mencoba berikutnya'"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar dari kegagalan dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Budaya 'Kegagalan' di Silicon Valley",
+      "content": "Di Silicon Valley, kegagalan adalah 'lencana kehormatan'. Wirausaha yang telah mengalami kegagalan sekali memiliki tingkat keberhasilan yang lebih tinggi berikutnya! Di Jepang, budaya 'satu kegagalan dan selesai' menghambat kewirausahaan. Penting untuk menciptakan budaya yang tidak takut gagal.",
+      "emoji": "🏅",
+      "highlight": "Pengalaman Kegagalan Wirausaha AS: VC cenderung berinvestasi pada wirausaha dengan pengalaman kegagalan sebelumnya"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar dari kegagalan dengan Gal-chan!",
+      "background": "space",
+      "title": "Teknik 'Post-Mortem'",
+      "content": "Setelah gagal, analisis 'post-mortem' berarti menganalisis 'mengapa gagal' dengan tenang. ① Apa yang terjadi ② Mengapa terjadi ③ Apa yang akan dilakukan berikutnya - Menulis tiga langkah ini mengubah kegagalan menjadi 'aset'!",
+      "emoji": "📝",
+      "highlight": "Post-Mortem: Metode review kegagalan proyek Google. Bukan kritik, tapi perbaikan adalah tujuannya"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar dari kegagalan dengan Gal-chan!",
+      "background": "forest",
+      "title": "Membangun Ketahanan (Pemulihan Mental)",
+      "content": "Kemampuan untuk pulih dari kesulitan, 'ketahanan', bukanlah bakat, tapi keterampilan yang dapat dikembangkan melalui latihan. ① Mengakui emosi ② Mencari dukungan ③ Mengumpulkan keberhasilan kecil ④ 'Ini juga belajar' - 4 langkah!",
+      "emoji": "🌱",
+      "highlight": "Penelitian Ketahanan: Pengalaman kesulitan 'sedang' pada masa kanak-kanak meningkatkan ketahanan orang dewasa"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar dari kegagalan dengan Gal-chan!",
+      "background": "city",
+      "title": "Jangan Takut Berubah Arah (Pivoting)",
+      "content": "Saat Anda melihat reaksi pasar dan menilai bahwa 'pendekatan ini tidak berhasil', penting untuk mengubah arah (pivot) lebih awal. Instagram awalnya adalah aplikasi permainan berbasis lokasi! YouTube awalnya adalah layanan video kencan!",
+      "emoji": "🔄",
+      "highlight": "Contoh Pivot Terkenal: Slack (perusahaan permainan → alat komunikasi) · YouTube (video kencan → video umum)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar dari kegagalan dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Kesehatan Mental dan Wirausaha",
+      "content": "Banyak wirausaha yang mengalami tekanan mental karena tekanan memulai bisnis. Yang penting adalah ① mengambil istirahat yang cukup ② berbicara dengan rekan ③ berkonsultasi dengan ahli ④ mengakui 'tidak apa-apa tidak sempurna'. Melindungi diri sendiri adalah kunci keberhasilan jangka panjang!",
+      "emoji": "❤️",
+      "highlight": "Depresi Wirausaha: Prevalensi lebih tinggi daripada populasi umum. Perawatan kesehatan mental langsung mengarah pada keberhasilan wirausaha"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari belajar dari kegagalan dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Mindset Pertumbuhan",
+      "content": "Mindset tetap: 'Bakat adalah tetap' vs. Mindset pertumbuhan: 'Upaya dapat menyebabkan pertumbuhan'. Penelitian Carol Dweck membuktikan bahwa orang dengan mindset pertumbuhan lebih kuat dalam menghadapi kesulitan dan mencapai lebih banyak!",
+      "emoji": "🌟",
+      "highlight": "Mindset Pertumbuhan: Penelitian Profesor Dweck Universitas Stanford. Persepsi positif terhadap tantangan, kegagalan, dan upaya"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar dari kegagalan dengan Gal-chan!",
+      "background": "forest",
+      "title": "'Mengapa' untuk Terus Berjuang",
+      "content": "Wirausaha dapat mengatasi kesulitan karena memiliki 'mengapa yang kuat'. Bukan hanya untuk uang. 'Saya ingin mengubah dunia' atau 'Saya ingin membantu seseorang' - Semangat adalah mesin terkuat!",
+      "emoji": "🔥",
+      "highlight": "Simon Sinek 'Mulai dengan Mengapa': Organisasi dan pemimpin besar bertindak dari Mengapa mereka"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kuasai ketahanan! Selanjutnya, mulai bisnis digital 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

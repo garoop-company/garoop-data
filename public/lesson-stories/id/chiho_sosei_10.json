@@ -1,0 +1,131 @@
+{
+  "title": "Menciptakan Masa Depan yang Cerah untuk Komunitas Kita〜Ringkasan Komprehensif Revitalisasi Daerah〜",
+  "description": "Mari kita pelajari dengan gembira tentang menciptakan masa depan yang cerah untuk komunitas kita dengan Garu-chan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Anda telah mempelajari semua tentang revitalisasi daerah! Mari kita ciptakan masa depan yang cerah bersama!",
+      "background": "forest",
+      "title": "Menciptakan Masa Depan yang Cerah untuk Komunitas Kita〜Ringkasan Komprehensif Revitalisasi Daerah〜",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari dengan gembira tentang menciptakan masa depan yang cerah untuk komunitas kita dengan Garu-chan!",
+      "background": "classroom",
+      "title": "10 Konsep Kunci untuk Revitalisasi Daerah",
+      "content": "①Populasi terkait②Pertanian pintar③Mendorong relokasi④Branding daerah⑤Kewirausahaan pemuda⑥Kota pintar⑦Promosi pariwisata⑧Dekarbonisasi⑨Tim kerja sama revitalisasi daerah⑩Komunitas——Ini semua terkait dan membuat komunitas kita berkembang!",
+      "emoji": "🗝️",
+      "highlight": "Anda sekarang ahli dalam revitalisasi daerah dengan 10 konsep kunci!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari dengan gembira tentang menciptakan masa depan yang cerah untuk komunitas kita dengan Garu-chan!",
+      "background": "ocean",
+      "title": "Ciri-ciri Umum Daerah yang Sukses",
+      "content": "①Visi pemimpin tertinggi②Partisipasi komunitas③Menggunakan pendatang④Terfokus pada kekuatan⑤Tidak takut gagal——Keseimbangan adalah kunci!",
+      "emoji": "✅",
+      "highlight": "Ciri-ciri umum daerah yang sukses: pemimpin yang mendorong tantangan dan partisipasi komunitas"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari dengan gembira tentang menciptakan masa depan yang cerah untuk komunitas kita dengan Garu-chan!",
+      "background": "space",
+      "title": "Apa yang Akan Terjadi pada Daerah di Tahun 2050?",
+      "content": "Di tahun 2050, dengan teknologi yang matang, daerah mungkin menjadi lebih menarik. Mobil otonom memecahkan masalah transportasi, perawatan medis jarak jauh menghilangkan kesenjangan kesehatan, dan AI meningkatkan efisiensi pertanian——masa depan di mana teknologi menghilangkan ketidaknyamanan daerah!",
+      "emoji": "🔮",
+      "highlight": "Jepang di tahun 2050: AI dan robot mendukung banyak pekerjaan, manusia fokus pada kreativitas, emosi, dan koneksi"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari dengan gembira tentang menciptakan masa depan yang cerah untuk komunitas kita dengan Garu-chan!",
+      "background": "forest",
+      "title": "Anda Bisa Menjadi Pemimpin Revitalisasi Daerah",
+      "content": "Revitalisasi daerah bukan hanya untuk ahli! Pajak furusato, membagikan informasi daerah di SNS, membeli produk daerah, bepergian ke daerah——setiap tindakan Anda mendukung komunitas. Anda bisa memulai hari ini!",
+      "emoji": "💪",
+      "highlight": "Total pajak furusato: lebih dari 1 triliun yen (2023). Dukungan setiap individu bertambah"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari dengan gembira tentang menciptakan masa depan yang cerah untuk komunitas kita dengan Garu-chan!",
+      "background": "city",
+      "title": "Daerah Bisa Membuat Jepang Menjadi Lebih Cerah Secara Keseluruhan",
+      "content": "Beranjak dari konsentrasi Tokyo, setiap daerah bersinar dengan karakteristik unik——masyarakat yang terdesentralisasi dan multi-polar. Jika daerah berkembang, Jepang secara keseluruhan akan berkembang. Anda bisa menjadi pemimpin daerah masa depan!",
+      "emoji": "🌏",
+      "highlight": "Era daerah: daerah yang beragam bersaing dan berkembang, kekuatan bagi Jepang"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari dengan gembira tentang menciptakan masa depan yang cerah untuk komunitas kita dengan Garu-chan!",
+      "background": "classroom",
+      "title": "Revitalisasi Daerah dan SDGs",
+      "content": "Banyak SDGs (Tujuan Pembangunan Berkelanjutan) terkait langsung dengan revitalisasi daerah.①Menghapuskan kemiskinan②Keamanan pangan③Kesehatan④Pendidikan⑤Energi⑥Industri⑦Perencanaan kota⑧Perubahan iklim——revitalisasi daerah terkait dengan tujuan global.",
+      "emoji": "🌱",
+      "highlight": "Banyak dari 17 SDGs sedang dipraktikkan di daerah. Daerah adalah lahan eksperimental untuk SDGs!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari dengan gembira tentang menciptakan masa depan yang cerah untuk komunitas kita dengan Garu-chan!",
+      "background": "forest",
+      "title": "Dari Daerah ke Dunia——Pemikiran Glokal",
+      "content": "Glokal (global + lokal)——memiliki perspektif global sambil berakar pada komunitas lokal sangat penting. Era telah datang bagi spesialisasi daerah, budaya, dan teknologi untuk bersaing di pasar global!",
+      "emoji": "🌍",
+      "highlight": "Berpikir global, bertindak lokal"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari dengan gembira tentang menciptakan masa depan yang cerah untuk komunitas kita dengan Garu-chan!",
+      "background": "ocean",
+      "title": "Apa yang Bisa Anda Lakukan Hari Ini untuk Revitalisasi Daerah",
+      "content": "①Makan spesialisasi daerah②Membagikan informasi daerah kepada teman di SNS③Meneliti pajak furusato④Mengikuti acara daerah⑤Mendengarkan cerita dari lansia daerah——tindakan kecil dapat menggerakkan komunitas!",
+      "emoji": "🏡",
+      "highlight": "Revitalisasi daerah tidak sulit! Mulai dari apa yang bisa Anda lakukan. Anda adalah pemimpin masa depan komunitas!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Selamat telah menyelesaikan seri revitalisasi daerah! Mari kita ubah masa depan komunitas kita! 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

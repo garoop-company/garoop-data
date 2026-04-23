@@ -1,0 +1,70 @@
+{
+  "title": "Vercel Deployment Mission",
+  "description": "A mission to publish your created page on the internet!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agent! This is a top-priority mission! Publish your work to the world! 🚀",
+      "background": "hq",
+      "title": "Top-Priority Mission Briefing",
+      "content": "Mission: Use Vercel to publish your web page on the internet! It will be visible to people all around the world!",
+      "emoji": "🚀",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Things to check before publishing! Make sure there's no personal info! ",
+      "background": "spy",
+      "title": "Security Check",
+      "content": "Before publishing on the internet, make sure there's no personal info! Ask your family to check too.",
+      "emoji": "🔒",
+      "highlight": "Checklist:\n❌ No full name\n❌ No school name\n❌ No address or phone number\n✅ Family approval"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Vercel is like a magic express that delivers your page to the world! ",
+      "background": "lab",
+      "title": "What is Vercel?",
+      "content": "Vercel is a service that automatically turns GitHub code into a website. It's free!",
+      "emoji": "✈️",
+      "highlight": "How Vercel works:\nGitHub → Vercel → Published on the internet\n(Just add the code and it's automatic!)"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Log in to Vercel and deploy your project! ",
+      "background": "hq",
+      "title": "Deployment Plan Execution!",
+      "content": "Open Vercel with your family, select your GitHub project, and deploy it!",
+      "emoji": "⚡",
+      "highlight": "Steps:\n1. Open vercel.com/new\n2. Log in with GitHub\n3. Select project\n4. Deploy!\n5. Check URL"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mission accomplished! Get 480 points by submitting your URL! 🎉",
+      "background": "spy",
+      "title": "Mission Complete!",
+      "content": "You've created a page that people worldwide can access! Submit your public URL and screenshot to Slack!",
+      "emoji": "🌐",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

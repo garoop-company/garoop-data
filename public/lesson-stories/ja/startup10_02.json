@@ -1,0 +1,132 @@
+{
+  "title": "アイデアの見つけ方〜問題を宝に変えよう〜",
+  "description": "ガルちゃんと楽しくアイデアの見つけ方を学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ビジネスアイデアはどこにある？一緒に探そう！",
+      "background": "space",
+      "title": "アイデアの見つけ方〜問題を宝に変えよう〜",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「アイデアの見つけ方〜問題を宝に変えよう〜」をテーマに、子どもの視点で挑戦を形にする力を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとアイデアの見つけ方を学ぼう！",
+      "background": "classroom",
+      "title": "アイデアの源泉は「不満」",
+      "content": "「これ不便だな」「なぜこうなっているの？」という感覚がビジネスの種。Uber：「タクシーが呼べない！」から生まれた。Airbnb：「ホテル代が高い！」から生まれた。あなたの不満に価値がある！",
+      "emoji": "😤",
+      "highlight": "Uber誕生：タクシーが捕まらない夜に「タクシーを即座に呼べるアプリ」を思いついた"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとアイデアの見つけ方を学ぼう！",
+      "background": "ocean",
+      "title": "問題を見つける「5W1H分析」",
+      "content": "Why（なぜこうなの？）What（何が問題？）Who（誰が困っている？）When（いつ起きる？）Where（どこで？）How（どう解決する？）——日常の出来事をこの6つで分析するとビジネスが見えてくる！",
+      "emoji": "❓",
+      "highlight": "5W1H思考：全てのビジネス課題発見・解決に使える普遍的なフレームワーク"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとアイデアの見つけ方を学ぼう！",
+      "background": "forest",
+      "title": "「ペインポイント」を探せ！",
+      "content": "顧客が痛みを感じている点（ペインポイント）こそがビジネスチャンス。①不便②時間がかかりすぎる③高すぎる④品質が悪い⑤選択肢がない——これら5つのペインポイントを探すと宝を見つけられます！",
+      "emoji": "🎯",
+      "highlight": "ペインポイント発見法：身近な人に「最近何に困ってる？」と聞くだけで宝の山が！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとアイデアの見つけ方を学ぼう！",
+      "background": "space",
+      "title": "インタビューで本当のニーズを知る",
+      "content": "「こんなサービスがあったら使いたいですか？」と聞くと「YES」と言われがち。本当のニーズは「最後に困ったのはいつ？その時どうした？」という過去の行動から見えてきます！",
+      "emoji": "🎙️",
+      "highlight": "顧客インタビューの鉄則：「こんなサービスが欲しい？」より「最後に困ったのはいつ？」"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとアイデアの見つけ方を学ぼう！",
+      "background": "city",
+      "title": "観察が最強の調査方法",
+      "content": "図書館で人が何に困っているか観察する・お店で何が売れているか見る・SNSで何が話題か分析する——「現場観察（エスノグラフィー）」がビジネスアイデアの宝の山！",
+      "emoji": "👁️",
+      "highlight": "デザイン思考：「観察・共感・定義・発想・試作・テスト」——世界の一流企業が使う問題解決法"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとアイデアの見つけ方を学ぼう！",
+      "background": "classroom",
+      "title": "トレンドから未来を読む",
+      "content": "流行しているもの・技術トレンド・社会変化——これらから「次に来るもの」を予測するのが「トレンド分析」。AI・高齢化・気候変動・地方移住——大きなトレンドに乗るビジネスは成功しやすい！",
+      "emoji": "📈",
+      "highlight": "「トレンドの坂道を登れ」：成長トレンドに乗ることが最も楽に事業を拡大する方法"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとアイデアの見つけ方を学ぼう！",
+      "background": "forest",
+      "title": "ブレインストーミングで爆発的アイデア出し",
+      "content": "1人より2人・2人より3人でアイデアを出す。ルール：①批判禁止②量を重視（質より量）③どんな変なアイデアもOK④他者のアイデアに乗っかる——このルールで最初の15分で100個のアイデアを出してみよう！",
+      "emoji": "🌪️",
+      "highlight": "ブレインストーミングの効果：批判なしの環境でアイデア量が通常の3〜5倍に"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとアイデアの見つけ方を学ぼう！",
+      "background": "ocean",
+      "title": "ビジネスモデルの9要素（BMC）",
+      "content": "ビジネスモデルキャンバス（BMC）：①顧客セグメント②価値提案③チャネル④顧客関係⑤収益の流れ⑥リソース⑦活動⑧パートナー⑨コスト構造——この9つを1枚の紙にまとめると事業が見えてきます！",
+      "emoji": "🗺️",
+      "highlight": "BMC（Biz Model Canvas）：Alex Osterwalderが開発。世界中のスタートアップが使用"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "アイデア発見をマスター！次はMVPを作ろう🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

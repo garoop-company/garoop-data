@@ -1,0 +1,131 @@
+{
+  "title": "数字时代的育儿 - 智能手机与孩子",
+  "description": "和Garu一起愉快地学习数字时代的育儿知识！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "让我们一起探索数字时代的育儿之道！",
+      "background": "space",
+      "title": "数字时代的育儿 - 智能手机与孩子",
+      "emoji": "📱",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习数字时代的育儿知识！",
+      "background": "city",
+      "title": "数字原生代的特征",
+      "content": "2010年后出生的'阿尔法世代'在智能手机普及的环境中成长。他们习惯于使用社交媒体、视频和游戏 - 这需要全新的育儿方法！",
+      "emoji": "📱",
+      "highlight": "阿尔法世代：2010年出生，到2025年将达到20亿。史上最大的一代。"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习数字时代的育儿知识！",
+      "background": "classroom",
+      "title": "合理管理屏幕时间",
+      "content": "WHO建议：0-1岁不使用屏幕，2-5岁每天不超过1小时。美国儿科学会也建议睡前1小时不使用电子设备。重要的是管理时间和内容！",
+      "emoji": "⏱️",
+      "highlight": "屏幕时间超过2小时的孩子：容易影响睡眠、注意力和情绪（多项研究）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习数字时代的育儿知识！",
+      "background": "forest",
+      "title": "编程教育是未来的读写能力",
+      "content": "2020年起，日本小学编程教育成为必修课程。编程不仅是技术，还能培养逻辑思维、问题解决能力和创造力。可以从Scratch、Minecraft开始！",
+      "emoji": "💻",
+      "highlight": "编程思维：把问题分解成小部分并解决 - 在所有领域都很有用"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习数字时代的育儿知识！",
+      "background": "ocean",
+      "title": "保护孩子免受网络危险",
+      "content": "孩子在网络上可能面临的风险：①个人信息泄露 ②遇到陌生人、色情内容 ③网络欺凌 ④游戏成瘾、充值。安装防护过滤器和与孩子沟通非常重要！",
+      "emoji": "🛡️",
+      "highlight": "网络欺凌受害：约17%的中小学生经历过（文部科学省2022年调查）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习数字时代的育儿知识！",
+      "background": "space",
+      "title": "与YouTube的正确相处方式",
+      "content": "一味禁止孩子看YouTube是不现实的。与孩子一起观看并交流很重要。培养媒体素养（批判性地看待信息）！",
+      "emoji": "▶️",
+      "highlight": "媒体素养教育：在芬兰，小学开始教授如何识别'假新闻'"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习数字时代的育儿知识！",
+      "background": "classroom",
+      "title": "与社交媒体的健康关系",
+      "content": "12-13岁孩子开始使用社交媒体。Instagram、TikTok可能会产生比较、被认可和被落后的恐惧等问题。教孩子'社交媒体只显示最好的瞬间'很重要。",
+      "emoji": "📸",
+      "highlight": "社交媒体使用与青年心理健康：使用时间越长，越容易出现抑郁、焦虑和自尊心低落"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习数字时代的育儿知识！",
+      "background": "city",
+      "title": "游戏成瘾（游戏障碍）",
+      "content": "世界卫生组织（WHO）承认'游戏障碍'是一种疾病（2019年）。症状：①优先于日常生活 ②无法控制 ③继续使用尽管有负面影响。建立规则和增加线下活动有助于预防！",
+      "emoji": "🎮",
+      "highlight": "游戏障碍的发病率：日本约3-5%的初中和高中生处于'有问题'的水平"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习数字时代的育儿知识！",
+      "background": "forest",
+      "title": "科技支持育儿",
+      "content": "科技不仅是育儿的对手，也是伙伴。睡眠管理应用、电子书应用、位置共享、与祖父母的视频通话 - 合理使用可以提高育儿质量！",
+      "emoji": "🤝",
+      "highlight": "育儿应用的使用：记录、跟踪发展 - 减轻父母的负担"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "学习了数字时代的育儿知识！接下来是为孩子创造更美好的未来 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

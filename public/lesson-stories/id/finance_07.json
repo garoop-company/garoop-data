@@ -1,0 +1,131 @@
+{
+  "title": "Kriptokurensi dan Web3: Dunia Uang Digital",
+  "description": "Jelajahi dunia uang digital bersama Garu-chan, dari Bitcoin hingga Web3!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita mulai petualangan ke dunia uang digital! ₿🚀",
+      "background": "space",
+      "title": "Kriptokurensi dan Web3",
+      "emoji": "₿",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apa itu Bitcoin?",
+      "background": "city",
+      "title": "Apa itu Bitcoin?",
+      "content": "Uang digital yang dibuat oleh individu misterius 'Satoshi Nakamoto' pada 2009. Mata uang desentralisasi tanpa administrator seperti bank. Dapat dikirim ke mana saja di dunia, dan tidak ada yang dapat memalsukannya. Jumlah total emisi terbatas pada 21 juta.",
+      "emoji": "₿",
+      "highlight": "Nilai tertinggi Bitcoin: sekitar 1 BTC = Rp 1 miliar (Maret 2024)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Apa itu Blockchain?",
+      "background": "space",
+      "title": "Cara Kerja Blockchain",
+      "content": "Blockchain adalah teknologi yang menggabungkan catatan transaksi menjadi 'blok' dan menghubungkannya dengan 'rantai'. Karena komputer di seluruh dunia menyimpan catatan, pengubahan tidak mungkin dilakukan!",
+      "emoji": "🔗",
+      "highlight": "Blockchain = 'ledger publik' anti-pengubahan yang diawasi oleh seluruh dunia"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Ada banyak kriptokurensi lain selain Bitcoin!",
+      "background": "ocean",
+      "title": "Dunia Altcoin",
+      "content": "Kriptokurensi selain Bitcoin disebut 'altcoin'. Ada beberapa ribu jenis, seperti Ethereum (kontrak pintar), Ripple (spesialisasi pengiriman uang), dan Solana (kecepatan tinggi). Masing-masing memiliki kegunaan yang berbeda.",
+      "emoji": "🌐",
+      "highlight": "Jumlah jenis kriptokurensi: lebih dari 20.000 (2024). Ethereum adalah yang kedua terbesar dalam kapitalisasi pasar."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "NFT seperti item game!",
+      "background": "city",
+      "title": "NFT (Token Non-Fungible)",
+      "content": "NFT (Token Non-Fungible) adalah teknologi yang menambahkan 'bukti keunikan' pada data digital. Seni, musik, item game, dll., dapat dibeli dan dijual dengan bukti keaslian. Pada 2021, sebuah karya terjual seharga $75 juta!",
+      "emoji": "🖼️",
+      "highlight": "Nilai tertinggi NFT: Beeple's 'Everydays' → terjual seharga $69 juta (sekitar $75 juta)!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Web3 adalah dunia di mana 'data Anda adalah milik Anda'!",
+      "background": "space",
+      "title": "Apa itu Web3?",
+      "content": "Web1: hanya membaca. Web2: membaca dan menulis (SNS, YouTube), tapi perusahaan mengelola data. Web3: membaca, menulis, dan memiliki! Internet generasi berikutnya di mana pengguna memiliki kontrol penuh atas data dan aset mereka.",
+      "emoji": "🌐",
+      "highlight": "Kata kunci Web3: desentralisasi, kepemilikan, privasi, DAO (Organisasi Otonom Desentralisasi)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Jangan lupa bahwa kriptokurensi memiliki risiko besar!",
+      "background": "classroom",
+      "title": "Risiko Kriptokurensi",
+      "content": "Harga kriptokurensi dapat berfluktuasi sangat besar! Bitcoin dapat meningkat 10 kali lipat atau menurun menjadi 1/10 dalam setahun. Waspadai risiko seperti penipuan (rug pulls), peretasan, dan perubahan regulasi. Investasikan hanya dengan dana surplus dan dalam jumlah kecil!",
+      "emoji": "⚠️",
+      "highlight": "Tingkat penurunan maksimum Bitcoin: sekitar 84% (2022). Investasikan dengan dana surplus!"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Bagaimana cara mencoba kriptokurensi dengan aman?",
+      "background": "candy",
+      "title": "Langkah Pertama untuk Mempelajari Kriptokurensi",
+      "content": "Sebelum benar-benar membeli, coba ① akun demo bursa kriptokurensi atau ② simulator kriptokurensi! Bursa besar seperti GMO Coin dan Coincheck memiliki keandalan yang tinggi. Yang paling penting adalah 'mengetahui' terlebih dahulu!",
+      "emoji": "🎮",
+      "highlight": "'CoinGecko' dan 'CoinMarketCap': pemeriksaan harga kriptokurensi waktu nyata gratis"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Kenali aturan kriptokurensi di Jepang!",
+      "background": "city",
+      "title": "Regulasi Kriptokurensi di Jepang",
+      "content": "Jepang adalah negara pertama yang mengatur bursa kriptokurensi dengan hukum. Hanya bursa yang disetujui oleh Badan Layanan Keuangan yang sah. Keuntungan kriptokurensi dianggap sebagai 'penghasilan lain-lain' dan memerlukan pelaporan pajak. Tarif pajak maksimum dapat mencapai 55%!",
+      "emoji": "🏛️",
+      "highlight": "Keuntungan kriptokurensi → penghasilan lain-lain → pajak progresif (hingga 55%). Tarif pajak lebih tinggi daripada saham (20,315%)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Anda telah menjelajahi dunia uang digital! 🎉",
+      "background": "space",
+      "title": "Selesai Pelajaran!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

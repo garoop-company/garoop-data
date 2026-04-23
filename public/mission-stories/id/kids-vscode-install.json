@@ -1,0 +1,69 @@
+{
+  "title": "Misi Instal VS Code",
+  "description": "Misi untuk menyiapkan lingkungan pengembangan!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agen! Misi kamu adalah 'Membangun Basis Pengembangan'! 🏗️",
+      "background": "hq",
+      "title": "Briefing Misi: Konstruksi Basis",
+      "content": "Tugas: Instal VS Code dan buat file pertama kamu! Ini adalah tempat tinggal para programmer!",
+      "emoji": "🖥️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "VS Code seperti 'rumah untuk kode'! Digunakan oleh programmer di seluruh dunia!",
+      "background": "spy",
+      "title": "Apa itu VS Code?",
+      "content": "VS Code adalah 'editor' terbaik untuk menulis kode. Mudah digunakan dengan fitur seperti kode warna dan pelengkapan otomatis!",
+      "emoji": "🏠",
+      "highlight": "Fitur VS Code:\n・Gratis digunakan\n・Dicintai oleh insinyur di seluruh dunia\n・Kode warna untuk membaca mudah\n・Dapat diperluas dengan fitur tambahan"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita instal dengan bantuan orang dewasa!",
+      "background": "lab",
+      "title": "Rencana Instalasi",
+      "content": "Unduh dan instal VS Code dari situs web resmi. Jika kamu stuck, tanya orang dewasa untuk bantuan!",
+      "emoji": "⬇️",
+      "highlight": "Langkah-langkah:\n1. Buka code.visualstudio.com\n2. Klik tombol 'Download'\n3. Jalankan installer\n4. Luncurkan VS Code!"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Sekarang, mari kita buat file pertama kamu!",
+      "background": "spy",
+      "title": "Rencana Pembuatan File",
+      "content": "Buka VS Code, buat folder bernama 'my-first-app', dan di dalamnya, buat file bernama 'memo.txt'!",
+      "emoji": "📁",
+      "highlight": "Tantangan:\n① Nama folder: my-first-app\n② Nama file: memo.txt\n③ Tulis dan simpan 3 baris pilihan kamu"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Misi selesai! Ambil screenshot dan kirimkan untuk mendapatkan 260 poin! 🎯",
+      "background": "hq",
+      "title": "Misi Selesai!",
+      "content": "Basis programmer kamu sudah lengkap! Ambil screenshot VS Code kamu dan kirimkan di Slack!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

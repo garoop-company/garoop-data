@@ -1,0 +1,132 @@
+{
+  "title": "0〜3歳の脳発達〜赤ちゃんの頭の中〜",
+  "description": "ガルちゃんと楽しく0を学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "赤ちゃんの脳の秘密を一緒に解き明かそう！",
+      "background": "space",
+      "title": "0〜3歳の脳発達〜赤ちゃんの頭の中〜",
+      "emoji": "🧠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「0〜3歳の脳発達〜赤ちゃんの頭の中〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと0を学ぼう！",
+      "background": "classroom",
+      "title": "赤ちゃんの脳は宇宙より複雑！",
+      "content": "生まれた時、赤ちゃんの脳はすでに1000億個の神経細胞を持っています！その後3歳までに100兆個のシナプス（神経の接続）が形成。まるで宇宙の星の数より多い接続が脳内に作られます。",
+      "emoji": "🌌",
+      "highlight": "赤ちゃんの脳神経細胞：1000億個。シナプス接続は3歳で最大100兆個以上！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと0を学ぼう！",
+      "background": "ocean",
+      "title": "言語の臨界期を知ろう",
+      "content": "言語習得には「臨界期（sensitive period）」がある。3歳までに多くの言語に触れると複数言語を母語レベルで習得できます！幼少期のバイリンガル教育が効果的な科学的根拠がここにあります。",
+      "emoji": "🗣️",
+      "highlight": "バイリンガル教育：3歳以前から始めると母語同様に第二言語を習得できる"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと0を学ぼう！",
+      "background": "forest",
+      "title": "音楽と脳の関係",
+      "content": "音楽を聴くこと・演奏することは脳の広範囲を活性化します。特に3〜5歳から楽器を始めた子供は言語能力・数学能力・注意力が高い傾向。「モーツァルト効果」は証明されていませんが、音楽教育の効果は科学的に実証！",
+      "emoji": "🎵",
+      "highlight": "楽器演奏の子供：言語・記憶・注意制御テストで演奏しない子より高スコア（研究多数）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと0を学ぼう！",
+      "background": "classroom",
+      "title": "睡眠が脳を育てる",
+      "content": "子供の成長ホルモンは睡眠中に分泌！3歳は12〜14時間、小学生でも10〜11時間の睡眠が推奨。昼寝も記憶の定着に重要。スマホ・ゲームで夜更かしは子供の脳発達に大きなダメージ！",
+      "emoji": "😴",
+      "highlight": "成長ホルモン：90%以上が睡眠中（特にノンレム睡眠時）に分泌される"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと0を学ぼう！",
+      "background": "space",
+      "title": "感情調整能力（EQ）を育てる",
+      "content": "IQ（知能指数）より EQ（感情知性）が人生の成功を予測する！怒り・不安・悲しみを自分でコントロールする力を「感情調整能力」といい、3〜6歳に発達します。感情の言語化を親がサポートすることが大切。",
+      "emoji": "💕",
+      "highlight": "EQとIQ：長期的な人生の成功にはEQの方がIQより影響大（Goleman研究）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと0を学ぼう！",
+      "background": "city",
+      "title": "脳への最悪の影響：慢性ストレス",
+      "content": "慢性的なストレス（虐待・貧困・家庭内不和）は子供の脳（特に扁桃体・前頭前皮質）に実際の物理的ダメージを与えます。安全で安心できる家庭環境が脳発達の絶対条件。",
+      "emoji": "⚠️",
+      "highlight": "慢性ストレスの子供：コルチゾール（ストレスホルモン）が海馬を縮小させる"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと0を学ぼう！",
+      "background": "forest",
+      "title": "栄養と脳発達の関係",
+      "content": "脳は体重の2%の重さだけど、エネルギーの20%を消費。母乳・DHA・鉄分・ビタミンD——栄養が脳発達を支えます。偏食の子供には特に不足しがちな栄養素に注意！",
+      "emoji": "🥦",
+      "highlight": "DHA（魚油）：脳の神経膜の主成分。子供のDHA摂取で認知機能向上の研究が多数"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと0を学ぼう！",
+      "background": "classroom",
+      "title": "自然体験が脳に与える効果",
+      "content": "外遊び・自然体験は好奇心・リスク判断力・運動神経・免疫機能・創造力を育てます。「自然欠乏症候群」という概念が注目される現代、意識的に外で遊ぶ時間を作ることが重要！",
+      "emoji": "🌿",
+      "highlight": "週2時間以上の自然体験：健康・幸福感・創造性が顕著に向上（国際研究）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "赤ちゃんの脳の秘密を解明！次は遊びの科学へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

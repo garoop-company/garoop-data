@@ -1,0 +1,70 @@
+{
+  "title": "Gal-chan Dojo Training",
+  "description": "Let's start training with Gal-chan!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Welcome to Gal-chan Dojo! Gal-chan is here to train with you! 🥷",
+      "background": "dojo",
+      "title": "Welcome to the Dojo!",
+      "content": "This is Gal-chan Dojo! Let's practice a little every day and polish our skills!",
+      "emoji": "⚔️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Remember the three rules of the dojo!",
+      "background": "bamboo",
+      "title": "Three Rules of the Dojo",
+      "content": "Let's check the important rules to progress in our training!",
+      "emoji": "📜",
+      "highlight": "Dojo Rules:\n1. Practice a little every day\n2. Ask Gal-chan if you're unsure\n3. Record what you've accomplished"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "AI tools are your training 'equipment'! Use them wisely, Gal-chan! ",
+      "background": "mountain",
+      "title": "Use AI as Your Weapon",
+      "content": "AI is a very powerful 'tool'. If you use it correctly, you can make difficult things easier!",
+      "emoji": "🤖",
+      "highlight": "Main Tools:\n· NotebookLM → Research and organize\n· Suno AI → Create music\n· Codex → Create programs"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Choose today's training course and let's get started!",
+      "background": "dojo",
+      "title": "Choose Your Course",
+      "content": "Select a course from the training categories. If you're unsure what to start with, ask Gal-chan!",
+      "emoji": "🎯",
+      "highlight": "Recommended Courses:\n🎬 Animation Training\n💻 Programming Training\n🎵 Music Training\n🎥 Video Training"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Gal-chan, dojo training preparation is complete! Let's start training! 🌟",
+      "background": "temple",
+      "title": "Training Begins!",
+      "content": "You've learned the dojo rules and how to use the tools! Gal-chan is always cheering you on. Let's start training!",
+      "emoji": "🥷",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

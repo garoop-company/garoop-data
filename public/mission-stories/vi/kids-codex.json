@@ -1,0 +1,81 @@
+{
+  "title": "Nhiệm vụ Codex",
+  "description": "Nhiệm vụ gián điệp tạo ứng dụng mini với Codex!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đại lý mã! Nhiệm vụ lần này là phát triển ứng dụng với AI trong Codex! 🕵️💻",
+      "background": "lab",
+      "title": "Chỉ thị nhiệm vụ: Chiến dịch Codex",
+      "content": "Nhiệm vụ: Sử dụng Codex (trợ lý mã AI) để tạo ứng dụng mini thay đổi thông điệp khi nhấn nút!",
+      "emoji": "🤖",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Codex là AI 'viết mã cho bạn'! Nó có thể tạo ra bất kỳ ứng dụng nào!",
+      "background": "spy",
+      "title": "Codex là gì?",
+      "content": "Chỉ cần yêu cầu Codex 'tạo ứng dụng như thế này' và nó sẽ viết mã cho bạn! Đó là một AI tuyệt vời!",
+      "emoji": "⚡",
+      "highlight": "Đặc điểm của Codex:\n・Tạo bất kỳ chương trình nào\n・Có giải thích kèm theo\n・Có thể hỏi phần không hiểu\n・Xuất mã hoạt động thực tế"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Trước tiên, hãy mô tả 'điều bạn muốn tạo' trong một câu!",
+      "background": "hq",
+      "title": "Luyện tập xác định yêu cầu",
+      "content": "Trước khi tạo chương trình, hãy làm rõ 'điều bạn muốn tạo'. Càng đơn giản càng tốt!",
+      "emoji": "📋",
+      "highlight": "Chiến dịch lần này:\n「Tạo trang web thay đổi thông điệp\n  khi nhấn nút」\n\nVật liệu: HTML + CSS + JavaScript"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Hãy sao chép lời nhắc này và gửi cho Codex!",
+      "background": "lab",
+      "title": "Thực hiện chiến dịch!",
+      "content": "Mở chatgpt.com và nhập lời nhắc dưới đây. Hãy xem mã nó tạo ra!",
+      "emoji": "💡",
+      "highlight": "Lời nhắc gửi đi:\n「Tạo trang web cho trẻ em với\n HTML, CSS và JavaScript.\n Khi nhấn nút, hiển thị\n『がんばれ！』và giải thích rõ ràng」"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy thử thay đổi mã một chút!",
+      "background": "spy",
+      "title": "Chiến dịch tùy chỉnh",
+      "content": "Xem mã đã tạo và thay đổi thông điệp hoặc màu sắc theo ý thích của bạn!",
+      "emoji": "🎨",
+      "highlight": "Thay đổi:\n・Thông điệp → Từ ngữ yêu thích\n・Màu nút → Màu yêu thích\n・Tiêu đề → Tự tùy chỉnh"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hoàn thành nhiệm vụ! Chụp ảnh màn hình và nhận 420 điểm! 🎯",
+      "background": "lab",
+      "title": "Hoàn thành nhiệm vụ!",
+      "content": "Bạn đã có khả năng tạo ứng dụng với AI! Hãy gửi ảnh chụp màn hình và điểm nhấn vào Slack!",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "育儿的第一步〜依恋与纽带的科学〜",
+  "description": "和Garu一起愉快地学习育儿的第一步！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "和宝宝建立纽带！我们将学习育儿的科学知识！",
+      "background": "candy",
+      "title": "育儿的第一步〜依恋与纽带的科学〜",
+      "emoji": "👶",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习育儿的第一步！",
+      "background": "classroom",
+      "title": "育儿中最重要的事情",
+      "content": "育儿中最重要的是形成「依恋（Attachment）」。当宝宝哭泣时，立即回应 - 进行眼神交流 - 轻声细语 - 这样就能帮助宝宝的大脑健康发展！",
+      "emoji": "💕",
+      "highlight": "依恋理论（约翰·鲍尔比）：有了一个安全的基地，孩子就能勇于尝试"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习育儿的第一步！",
+      "background": "forest",
+      "title": "0〜3岁是人生基础的形成期！",
+      "content": "从脑科学的角度来看，0〜3岁是脑部发育最迅速的时期。神经元之间的连接（synapse）会急剧增加。在这个时期，给孩子提供丰富的刺激（语言 - 音乐 - 游戏 - 自然）将为孩子一生的智力发展打下基础！",
+      "emoji": "🧠",
+      "highlight": "0〜3岁时，脑部神经元连接最多。3岁后，未被使用的神经元连接会被修剪"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习育儿的第一步！",
+      "background": "space",
+      "title": "站在平等的角度是最佳的育儿方式",
+      "content": "育儿中，父母常犯的错误是：自上而下地命令孩子。重要的是与孩子站在同一高度，一起探索世界，一起惊讶和感动！好奇心是会传染的 - 如果父母快乐，孩子也会快乐。",
+      "emoji": "👀",
+      "highlight": "共同注意：父母和孩子关注同一事物 → 语言发展和社会性发展的基础"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习育儿的第一步！",
+      "background": "ocean",
+      "title": "多说话有助于智力发展",
+      "content": "在语言爆发期（1.5〜3岁），让孩子听更多的语言非常重要。阅读 - 交谈 - 唱歌 - 无论数量还是质量都很重要。父母的收入和学历并不如对话的数量对孩子词汇量的影响大！",
+      "emoji": "📚",
+      "highlight": "哈特和里斯利研究：0〜3岁期间的语言输入与10岁时的学业成绩相关"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习育儿的第一步！",
+      "background": "classroom",
+      "title": "游戏是最佳的学习方式！",
+      "content": "皮亚杰（发展心理学家）证明，游戏有助于智力发展。积木 - 沙子游戏 - 假装游戏 - 这些都是帮助孩子发展问题解决能力 - 创造力 - 社会性的最佳「学习」方式！",
+      "emoji": "🧩",
+      "highlight": "游戏是孩子的工作（玛丽亚·蒙特梭利）→ 让孩子玩耍是最佳的教育方式"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习育儿的第一步！",
+      "background": "city",
+      "title": "批评和表扬方式可以改变孩子",
+      "content": "不要说：你是一个坏孩子（否定孩子的存在）。应该说：这个行为不好，因为...（指出行为）。表扬时，也要表扬过程：你已经非常努力了！",
+      "emoji": "⭐",
+      "highlight": "表扬过程有助于培养成长型思维（德韦克理论）"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习育儿的第一步！",
+      "background": "forest",
+      "title": "互联网、智能手机与育儿",
+      "content": "2岁以下的孩子应尽量限制屏幕时间（WHO推荐）。如果一起观看视频并交流，则可以！在数字原生代的育儿中，教孩子如何使用科技非常重要。",
+      "emoji": "📱",
+      "highlight": "WHO推荐：0〜1岁不看屏幕，2〜5岁每天不超过1小时"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习育儿的第一步！",
+      "background": "classroom",
+      "title": "育儿没有绝对正确的方式！",
+      "content": "在日本、法国、北欧，育儿方式大不相同！重要的是为孩子创造一个安全和成长的环境。父母自己感到快乐和充实，就是最好的育儿方式！",
+      "emoji": "🌍",
+      "highlight": "不同文化下的育儿方式：可以和孩子同床睡或不睡，母乳喂养的时间等..."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "已经学习了育儿的基础知识！接下来是脑发育科学 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

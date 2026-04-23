@@ -1,0 +1,131 @@
+{
+  "title": "育儿的未来〜爱是最好的教育〜",
+  "description": "和Garu一起愉快地学习育儿的未来吧！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "育儿系列总结！来学习爱的育儿学吧！",
+      "background": "candy",
+      "title": "育儿的未来〜爱是最好的教育〜",
+      "emoji": "💕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习育儿的未来吧！",
+      "background": "classroom",
+      "title": "育儿10大总结",
+      "content": "①依恋形成②脑发育的环境③玩耍④食育⑤情感教育⑥与数字的相处方式⑦全球教育⑧运动⑨与社区的联系⑩自我肯定感——所有这些都基于「爱」！",
+      "emoji": "💕",
+      "highlight": "育儿最重要的变量：亲子「依恋」的质量（几乎所有研究都一致）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习育儿的未来吧！",
+      "background": "space",
+      "title": "自我肯定感是最好的礼物",
+      "content": "「你就是你自己，很棒」——自我肯定感高的孩子具有挑战力、恢复力和幸福感。日本孩子的自我肯定感是发达国家中最低的。每天的「我爱你」可以改变一切！",
+      "emoji": "🌟",
+      "highlight": "日本高中生的自我肯定感：在7个国家的比较中最低（国立青少年教育振兴机构2021年）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习育儿的未来吧！",
+      "background": "ocean",
+      "title": "父母自身要幸福",
+      "content": "「飞机颠簸时，首先给自己戴上氧气面罩，然后再给孩子」——父母不幸福，孩子也不容易幸福。父母自身的休息、兴趣、朋友关系和心理健康将创造最好的育儿环境！",
+      "emoji": "✈️",
+      "highlight": "父母的心理幸福感：与孩子的情感稳定性直接相关（发展心理学的基本认知）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习育儿的未来吧！",
+      "background": "city",
+      "title": "没有完美的父母",
+      "content": "所有的父母都会失败。有时父母会因为情绪而责骂孩子，或者因为工作而无法顾及孩子——这是理所当然的。重要的是拥有「修复」的能力，说「对不起，刚才我太过分了」！",
+      "emoji": "🤗",
+      "highlight": "「足够好的父母（good enough parent）」：不追求完美，与孩子修复关系是关键（Winnicott）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习育儿的未来吧！",
+      "background": "forest",
+      "title": "AI与育儿的未来",
+      "content": "AI可以个性化孩子的学习，机器人可以陪伴孩子玩耍，智能设备可以守护安全——科技正在支持育儿。但是，「情感和纽带」只有人类才能给予！",
+      "emoji": "🤖",
+      "highlight": "AI教育工具：可以根据每个孩子的学习风格和进度进行个性化优化"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习育儿的未来吧！",
+      "background": "classroom",
+      "title": "从孩子身上学习，父母成长",
+      "content": "育儿也是父母成长的旅程！孩子无限的好奇心、诚实和活在当下的力量——从孩子身上学习可以丰富父母的人生。育儿不是单向的，而是「共育」的进程！",
+      "emoji": "🌱",
+      "highlight": "「孩子是父母的镜子」：孩子的问题也可能反映出父母自身的问题"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习育儿的未来吧！",
+      "background": "space",
+      "title": "接受多样化的家庭形态",
+      "content": "核心家庭、单亲家庭、继亲家庭、双职工家庭、主夫家庭、同性恋父母——家庭形态是多样化的。不管是什么形态，只要有「爱和安全」，孩子就能健康成长。没有完美的家庭！",
+      "emoji": "🌈",
+      "highlight": "多样化的家庭形态：依恋的质量比家庭形态更影响孩子的发展"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习育儿的未来吧！",
+      "background": "candy",
+      "title": "给未来育儿世代的信息",
+      "content": "你正在学习的这些课程将与未来的孩子们息息相关。育儿知识、情感和社区联系——拥有这些的成年人越多，日本孩子的未来就会变得更加光明。你正在改变未来！",
+      "emoji": "🌟",
+      "highlight": "所有参与育儿支持的人：老师、保育员、医生、社区居民——全社会共同育儿！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "育儿系列完全攻略！你就是未来的育儿达人！🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

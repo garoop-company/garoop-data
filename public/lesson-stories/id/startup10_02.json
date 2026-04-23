@@ -1,0 +1,131 @@
+{
+  "title": "Cara Menemukan Ide 〜Mengubah Masalah menjadi Harta Karun〜",
+  "description": "Mari kita pelajari cara menemukan ide dengan Gal-chan dengan menyenangkan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Di mana ide bisnis bersembunyi? Mari kita cari bersama!",
+      "background": "space",
+      "title": "Cara Menemukan Ide 〜Mengubah Masalah menjadi Harta Karun〜",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari cara menemukan ide dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Sumber Ide: 'Kekecewaan'",
+      "content": "Perasaan 'ini tidak nyaman' atau 'mengapa ini begitu?' adalah benih bisnis. Uber lahir dari 'saya tidak bisa mendapatkan taksi!' dan Airbnb dari 'harga hotel terlalu mahal!'. Kekecewaanmu memiliki nilai!",
+      "emoji": "😤",
+      "highlight": "Kelahiran Uber: Pada malam ketika taksi tidak bisa didapatkan, ide untuk 'aplikasi yang dapat memanggil taksi secara instan' lahir"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari cara menemukan ide dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Analisis 5W1H: Menemukan Masalah",
+      "content": "Mengapa (mengapa ini begitu?), Apa (apa masalahnya?), Siapa (siapa yang kesulitan?), Kapan (kapan terjadi?), Di mana (di mana terjadi?), Bagaimana (bagaimana menyelesaikannya?) - menganalisis kejadian sehari-hari dengan 6 pertanyaan ini mengungkapkan peluang bisnis!",
+      "emoji": "❓",
+      "highlight": "Pemikiran 5W1H: Kerangka universal untuk menemukan dan menyelesaikan semua tantangan bisnis"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari cara menemukan ide dengan Gal-chan!",
+      "background": "forest",
+      "title": "Cari 'Titik Sakit'!",
+      "content": "Titik di mana pelanggan merasa sakit adalah peluang bisnis. ① Tidak nyaman ② Memakan waktu terlalu lama ③ Terlalu mahal ④ Kualitas buruk ⑤ Tidak ada pilihan - menemukan 5 titik sakit ini mengarah ke harta karun!",
+      "emoji": "🎯",
+      "highlight": "Metode Penemuan Titik Sakit: Hanya bertanya kepada orang di sekitar 'apa yang kamu kesulitan akhir-akhir ini?' dan gunung harta karun muncul!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari cara menemukan ide dengan Gal-chan!",
+      "background": "space",
+      "title": "Memahami Kebutuhan Sejati melalui Wawancara",
+      "content": "Ketika ditanya 'apakah kamu akan menggunakan layanan seperti ini?', orang sering menjawab 'ya'. Tapi kebutuhan sejati terungkap dari tindakan masa lalu: 'kapan kamu terakhir kesulitan dengan ini?' dan 'apa yang kamu lakukan saat itu?'",
+      "emoji": "🎙️",
+      "highlight": "Aturan Emas Wawancara Pelanggan: 'apa yang kamu butuhkan?' daripada 'apakah kamu ingin layanan seperti ini?'"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari cara menemukan ide dengan Gal-chan!",
+      "background": "city",
+      "title": "Pengamatan adalah Metode Riset Terbaik",
+      "content": "Amati apa yang orang kesulitan di perpustakaan, apa yang laris di toko, dan apa yang sedang tren di media sosial - 'pengamatan lapangan (etnografi)' adalah harta karun ide bisnis!",
+      "emoji": "👁️",
+      "highlight": "Pemikiran Desain: 'pengamatan, empati, definisi, generasi ide, prototyping, pengujian' - metode penyelesaian masalah yang digunakan oleh perusahaan top dunia"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari cara menemukan ide dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Membaca Masa Depan dari Tren",
+      "content": "Tren, tren teknologi, dan perubahan sosial - memprediksi 'apa yang akan datang' dari ini adalah 'analisis tren'. AI, populasi tua, perubahan iklim, dan migrasi lokal - bisnis yang mengikuti tren besar lebih mudah sukses!",
+      "emoji": "📈",
+      "highlight": " 'Naik gelombang tren': mengikuti tren pertumbuhan adalah cara termudah untuk memperluas bisnis"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari cara menemukan ide dengan Gal-chan!",
+      "background": "forest",
+      "title": "Generasi Ide Eksplosif dengan Brainstorming",
+      "content": "Lebih banyak orang menghasilkan lebih banyak ide. Aturan: ① tidak ada kritik ② kuantitas daripada kualitas ③ ide gila apa pun diperbolehkan ④ membangun ide orang lain - coba hasilkan 100 ide dalam 15 menit dengan aturan ini!",
+      "emoji": "🌪️",
+      "highlight": "Efek Brainstorming: kuantitas ide meningkat 3-5 kali dalam lingkungan tanpa kritik"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari cara menemukan ide dengan Gal-chan!",
+      "background": "ocean",
+      "title": "9 Elemen Model Bisnis (BMC)",
+      "content": "Kanvas Model Bisnis (BMC): ① segmen pelanggan ② proposisi nilai ③ saluran ④ hubungan pelanggan ⑤ aliran pendapatan ⑥ sumber daya ⑦ aktivitas ⑧ mitra ⑨ struktur biaya - meringkas 9 elemen ini pada satu lembar mengungkapkan bisnis!",
+      "emoji": "🗺️",
+      "highlight": "BMC (Kanvas Model Bisnis): dikembangkan oleh Alex Osterwalder, digunakan oleh startup di seluruh dunia"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Telah menguasai penemuan ide! Selanjutnya, buat MVP 🎉",
+      "background": "space",
+      "title": "Selesai Pelajaran!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

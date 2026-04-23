@@ -1,0 +1,131 @@
+{
+  "title": "Tiền điện tử và Web3 - Thế giới tiền kỹ thuật số",
+  "description": "Khám phá thế giới tiền kỹ thuật số với Garu từ Bitcoin đến Web3!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Khởi hành vào thế giới tiền kỹ thuật số! ₿🚀",
+      "background": "space",
+      "title": "Tiền điện tử và Web3",
+      "emoji": "₿",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Bitcoin là gì?",
+      "background": "city",
+      "title": "Bitcoin là gì",
+      "content": "Năm 2009, một nhân vật bí ẩn 'Satoshi Nakamoto' đã tạo ra một loại tiền tệ kỹ thuật số. Một loại tiền tệ 'phi tập trung' không cần người quản lý như ngân hàng. Có thể gửi đến bất kỳ đâu trên thế giới và không ai có thể làm giả. Tổng số lượng phát hành là 21 triệu.",
+      "emoji": "₿",
+      "highlight": "Giá cao nhất của Bitcoin: khoảng 1 BTC = 10 triệu yên (tháng 3 năm 2024)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Blockchain là gì?",
+      "background": "space",
+      "title": "Cơ chế của Blockchain",
+      "content": "Blockchain là công nghệ kết nối các bản ghi giao dịch thành 'khối' và nối chúng thành 'chuỗi'. Tất cả máy tính trên thế giới đều lưu trữ bản ghi, vì vậy việc giả mạo là không thể!",
+      "emoji": "🔗",
+      "highlight": "Blockchain = Sổ sách công khai không thể giả mạo được toàn cầu giám sát"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Còn nhiều loại tiền điện tử khác ngoài Bitcoin!",
+      "background": "ocean",
+      "title": "Thế giới Altcoin",
+      "content": "Các loại tiền điện tử khác ngoài Bitcoin được gọi là 'Altcoin'. Ethereum (hợp đồng thông minh), Ripple (chuyên về chuyển tiền), Solana (tốc độ cao) và hàng nghìn loại khác! Mỗi loại có mục đích sử dụng khác nhau.",
+      "emoji": "🌐",
+      "highlight": "Số lượng loại tiền điện tử: hơn 20.000 (năm 2024). Vốn hóa thị trường thứ 2 là Ethereum"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "NFT giống như vật phẩm trong game!",
+      "background": "city",
+      "title": "NFT (Token không thể thay thế)",
+      "content": "NFT (Non-Fungible Token) là công nghệ cung cấp 'bằng chứng duy nhất' cho dữ liệu kỹ thuật số. Các tác phẩm nghệ thuật, âm nhạc, vật phẩm trong game, v.v. có thể được mua bán với bằng chứng xác thực. Năm 2021, một tác phẩm có giá 7,5 tỷ yên!",
+      "emoji": "🖼️",
+      "highlight": "Giá cao nhất của NFT: Beeple's 'Everydays' → 69 triệu USD (khoảng 7,5 tỷ yên)!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Web3 là thế giới mà 'dữ liệu của bạn là của bạn'!",
+      "background": "space",
+      "title": "Web3 là gì",
+      "content": "Web1: chỉ đọc. Web2: đọc và viết (SNS, YouTube) nhưng doanh nghiệp quản lý dữ liệu. Web3: đọc, viết và sở hữu! Người dùng hoàn toàn kiểm soát dữ liệu và tài sản của mình trong thế hệ internet tiếp theo.",
+      "emoji": "🌐",
+      "highlight": "Từ khóa của Web3: phân tán, sở hữu, quyền riêng tư, DAO (tổ chức tự trị phân tán)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Đừng quên rằng tiền điện tử cũng có rủi ro lớn!",
+      "background": "classroom",
+      "title": "Rủi ro của tiền điện tử",
+      "content": "Biến động giá của tiền điện tử rất lớn! Bitcoin có thể tăng 10 lần trong 1 năm, cũng có thể giảm còn 1/10. Rủi ro lừa đảo (rug pull), hack, quy định pháp luật, v.v. Khi đầu tư, hãy bắt đầu với số vốn nhỏ!",
+      "emoji": "⚠️",
+      "highlight": "Tỷ lệ giảm giá lớn nhất của Bitcoin: khoảng 84% (năm 2022). Đầu tư với số vốn nhỏ!"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Làm thế nào để thử nghiệm tiền điện tử một cách an toàn?",
+      "background": "candy",
+      "title": "Bước đầu tiên để học tiền điện tử",
+      "content": "Trước khi mua thực tế, hãy thử nghiệm với ① tài khoản demo của sàn giao dịch tiền điện tử hoặc ② trình mô phỏng tiền điện tử! Các sàn giao dịch lớn như GMO Coin, Coincheck có độ tin cậy cao. Điều quan trọng nhất là 'hiểu biết'!",
+      "emoji": "🎮",
+      "highlight": "'CoinGecko', 'CoinMarketCap': xác nhận giá tiền điện tử theo thời gian thực miễn phí"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy tìm hiểu quy định về tiền điện tử ở Nhật Bản!",
+      "background": "city",
+      "title": "Quy định về tiền điện tử ở Nhật Bản",
+      "content": "Nhật Bản là quốc gia đầu tiên quy định sàn giao dịch tiền điện tử bằng luật. Chỉ các sàn giao dịch được Cơ quan Tài chính Nhật Bản cấp phép mới được phép hoạt động. Lợi nhuận từ tiền điện tử phải khai báo thuế thu nhập. Thuế suất tối đa có thể lên đến 55%!",
+      "emoji": "🏛️",
+      "highlight": "Lợi nhuận từ tiền điện tử → thu nhập khác → thuế lũy tiến (tối đa 55%). Thuế suất cao hơn chứng khoán (20,315%)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chúng ta đã khám phá xong thế giới tiền kỹ thuật số! 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

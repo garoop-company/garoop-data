@@ -1,0 +1,82 @@
+{
+  "title": "Tu luyện âm nhạc",
+  "description": "Tạo nhạc với Suno!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Chào mừng đến với Đạo trường Âm nhạc! Tạo một bản nhạc duy nhất trên thế giới với AI 🎵",
+      "background": "bamboo",
+      "title": "Chào mừng đến với Đạo trường Âm nhạc!",
+      "content": "Sử dụng Suno AI, bạn có thể tạo nhạc chỉ với lời nói! Pop, rock, cổ điển... bất kỳ loại nhạc nào bạn muốn!",
+      "emoji": "🎵",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Hãy nghĩ về 'thể loại', 'cảm xúc', và 'chủ đề' để tạo nhạc!",
+      "background": "dojo",
+      "title": "Tưởng tượng về bản nhạc",
+      "content": "Hãy diễn tả bản nhạc bạn muốn tạo bằng lời nói. Bạn muốn cảm thấy thế nào? Bạn muốn bản nhạc được phát trong hoàn cảnh nào?",
+      "emoji": "🎼",
+      "highlight": "Ví dụ:\nThể loại → Pop năng động\nCảm xúc → Hào hứng!\nChủ đề → Giờ nghỉ trưa ở trường"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy viết 'yêu cầu' cho Suno bằng tiếng Nhật!",
+      "background": "bamboo",
+      "title": "Tu luyện Prompt",
+      "content": "Hãy học cách truyền đạt hiệu quả cho AI. Càng mô tả chi tiết, bản nhạc càng接近 với ý tưởng của bạn!",
+      "emoji": "✍️",
+      "highlight": "Ví dụ Prompt:\n'Tạo một bản nhạc pop năng động cho học sinh tiểu học đi tham quan.\nTốc độ nhanh. Lời bài hát bằng tiếng Nhật.'"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Bây giờ, hãy mở Suno và tạo nhạc!",
+      "background": "mountain",
+      "title": "Thực hành! Tạo nhạc",
+      "content": "Hãy mở trang web Suno AI và nhập Prompt bạn đã nghĩ. Bản nhạc nào sẽ được tạo ra?",
+      "emoji": "🎤",
+      "highlight": "Hướng dẫn:\n1. Mở suno.com\n2. Nhập Prompt\n3. Tạo nhạc\n4. Nghe thử!"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Nếu không hài lòng, hãy thay đổi một chút và tạo lại!",
+      "background": "dojo",
+      "title": "Hoàn thiện bản nhạc",
+      "content": "Không cần phải hoàn hảo ngay từ đầu! Hãy thay đổi dần dần và tiến gần đến bản nhạc lý tưởng.",
+      "emoji": "🔧",
+      "highlight": "Mẹo cải thiện:\n・Thay đổi tốc độ từ 'nhanh' → 'chậm'\n・Thêm thể loại\n・Nhập tên nhạc cụ"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Tu luyện âm nhạc hoàn thành! Chia sẻ bản nhạc với mọi người 🎉",
+      "background": "temple",
+      "title": "Hoàn thành!",
+      "content": "Bản nhạc duy nhất trên thế giới đã được hoàn thành! Hãy chia sẻ liên kết đến bản nhạc trên Slack!",
+      "emoji": "🎸",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

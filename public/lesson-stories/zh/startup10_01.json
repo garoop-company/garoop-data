@@ -1,0 +1,131 @@
+{
+  "title": "10岁可以做的事情〜培养孩子创业精神〜",
+  "description": "和Garu一起愉快地学习10岁可以做的事情!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "10岁也可以创业！让我们学习其中的秘密！",
+      "background": "city",
+      "title": "10岁可以做的事情〜培养孩子创业精神〜",
+      "emoji": "🚀",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习10岁可以做的事情!",
+      "background": "classroom",
+      "title": "什么是创业精神？",
+      "content": "发现问题并尝试解决的态度——这就是创业精神的本质。许多成功的企业家在小时候就具有好奇心：'为什么？' '能不能做得更好？'",
+      "emoji": "💡",
+      "highlight": "Facebook创始人扎克伯格：11岁开始编程。小时候就是'问题解决者'"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习10岁可以做的事情!",
+      "background": "ocean",
+      "title": "世界上的青少年创业者",
+      "content": "Moshe Hogeg（15岁开发应用程序）・Akshay Ruparelia（英国最年轻的不动产仲介，17岁）・Mikaila Ulmer（4岁卖柠檬水→获得大企业合同）——年龄不是问题！",
+      "emoji": "🌟",
+      "highlight": "最年轻的创业者Mikaila Ulmer：4岁开始创业→11岁与Target和Whole Foods签订合同"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习10岁可以做的事情!",
+      "background": "space",
+      "title": "10岁可以做的5种商业",
+      "content": "①手工艺品销售（饰品・自制甜点）②数字内容（YouTube・插图）③帮忙服务（除草・搬运货物）④回收・跳蚤市场⑤编程服务。所有这些都可以从小学生开始！",
+      "emoji": "💰",
+      "highlight": "日本最年轻的创业者事例：小学生YouTuber・初中生程序员的商业事例有很多"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习10岁可以做的事情!",
+      "background": "forest",
+      "title": "失败是'学费'！",
+      "content": "戴森（吸尘器）的创始人经历了5,127次失败后才成功！Airbnb最初被3个投资者拒绝。重要的事情是不要害怕失败——10岁的失败是人生中最便宜的学费！",
+      "emoji": "🔄",
+      "highlight": "'失败是成功之母'：在硅谷，'快速失败，快速学习'是基本文化"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习10岁可以做的事情!",
+      "background": "city",
+      "title": "创意来自于帮助",
+      "content": "寻找生活中的问题 = 商业的种子！'学校午餐剩余' → 食品浪费应用程序。'老年人无法搬运重物' → 配送服务。你身边的困扰就是宝藏！",
+      "emoji": "🔍",
+      "highlight": "解决社会问题的创业公司：解决社会问题并产生利润的企业正在增加"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习10岁可以做的事情!",
+      "background": "classroom",
+      "title": "创造价值的3种方法",
+      "content": "①'制造'（制造产品并销售）②'连接'（连接人与人、商品与消费者）③'教授'（教授知识和技能）——只要能做到其中之一就可以创业！你擅长哪一个？",
+      "emoji": "🔑",
+      "highlight": "价值创造的3种类型：所有商业都属于这3种类型之一"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习10岁可以做的事情!",
+      "background": "ocean",
+      "title": "团队创业",
+      "content": "不需要一个人做所有事情！'自己不擅长但是朋友擅长' - 组合在一起就是团队的力量。苹果：史蒂夫・乔布斯（愿景）+ 史蒂夫・沃兹尼亚克（技术）- 完美的组合！",
+      "emoji": "🤝",
+      "highlight": "最强的组合：有远见的人和技术人员组合最多"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习10岁可以做的事情!",
+      "background": "forest",
+      "title": "从小开始，逐渐发展",
+      "content": "不需要从一开始就追求大商业！'首先让一个顾客满意' 开始吧。亚马逊和谷歌也从车库或宿舍开始，规模很小！",
+      "emoji": "🌱",
+      "highlight": "亚马逊：杰夫・贝佐斯在1994年开始在车库里卖书。现在已经成为市值数万亿美元的公司！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "10岁的创业精神就此养成！接下来是寻找创意的方法 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

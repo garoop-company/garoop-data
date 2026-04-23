@@ -1,0 +1,131 @@
+{
+  "title": "地方創生ってなに？〜日本の地方を元気にしよう〜",
+  "description": "Cùng khám phá sức mạnh của các vùng miền Nhật Bản và tìm hiểu về '地方創生' - một cách để làm cho vùng miền trở nên sôi động hơn!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng khám phá sức mạnh của vùng miền nhé! 🏡",
+      "background": "forest",
+      "title": "地方創生とは",
+      "emoji": "🏡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Tại sao地方創生 lại cần thiết?",
+      "background": "classroom",
+      "title": "地方が直面する課題",
+      "content": "Khoảng 30% dân số Nhật Bản (khoảng 38 triệu người) tập trung ở khu vực Tokyo. Các vùng miền đang đối mặt với giảm dân số, già hóa dân số và suy thoái công nghiệp. Nếu tình hình này tiếp tục, đến năm 2050, nhiều chính quyền địa phương sẽ phải đối mặt với 'nguy cơ biến mất'.",
+      "emoji": "📉",
+      "highlight": "Khu vực Tokyo (Tokyo, Kanagawa, Saitama, Chiba): Dân số chiếm 28% dân số Nhật Bản"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Chính sách地方創生 bắt đầu từ năm 2014!",
+      "background": "city",
+      "title": "地方創生とは何か",
+      "content": "Chính sách 'まち・ひと・しごと創生' của chính phủ Nhật Bản bắt đầu từ năm 2014. Ba mục tiêu chính là: ① tạo việc làm, ② thu hút người dân, ③ làm cho thị trấn trở nên sôi động hơn. Ngân sách hàng năm hơn 1 nghìn tỷ yên đã được đầu tư.",
+      "emoji": "🏛️",
+      "highlight": "Ngân sách地方創生: khoảng 1 nghìn tỷ yên/năm. Mục tiêu đến năm 2060 là duy trì dân số 100 triệu người"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Vùng miền có những điều tuyệt vời mà Tokyo không có!",
+      "background": "forest",
+      "title": "地方の強みと魅力",
+      "content": "Vùng miền có thiên nhiên phong phú, văn hóa truyền thống, sản phẩm đặc trưng, không gian rộng lớn và mối quan hệ giữa người dân... Đây là những điều mà các thành phố không có. Sau đại dịch COVID-19, số người muốn chuyển đến vùng miền đã tăng đột biến! Đặc biệt, giới trẻ ngày càng quan tâm đến vùng miền.",
+      "emoji": "🌾",
+      "highlight": "Số người muốn chuyển đến vùng miền (20-30 tuổi): đạt mức cao nhất sau đại dịch COVID-19 (theo khảo sát của Bộ Đất đai, Cơ sở hạ tầng, Giao thông và Du lịch)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng xem xét các ví dụ thành công của地方創生!",
+      "background": "ocean",
+      "title": "地方創生の成功事例",
+      "content": "Làng Nishiawakura, tỉnh Okayama: Dự án '百年の森林' đã hồi sinh ngành lâm nghiệp và thu hút người dân chuyển đến. Thị trấn Kamiyama, tỉnh Tokushima: Thu hút các công ty CNTT đến đặt trụ sở và số người chuyển đến tăng đột biến. Tỉnh Toyama: Xây dựng hệ thống giao thông công cộng để tạo ra một thành phố compact.",
+      "emoji": "✅",
+      "highlight": "Thị trấn Kamiyama (dân số 5.000 người): 12 công ty CNTT đặt trụ sở → số người chuyển đến vượt qua số người rời đi"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Công nghệ sẽ cứu vùng miền!",
+      "background": "space",
+      "title": "テクノロジーと地方創生",
+      "content": "5G, AI, máy bay không người lái, IoT đang giải quyết các thách thức của vùng miền. Máy bay không người lái phun thuốc trừ sâu giúp tăng hiệu suất lên 5 lần. Dịch vụ y tế từ xa giúp giải quyết tình trạng thiếu hụt y tế ở vùng miền. Sự phổ biến của làm việc từ xa đã thúc đẩy việc chuyển từ thành phố đến vùng miền!",
+      "emoji": "📡",
+      "highlight": "Máy bay không người lái phun thuốc trừ sâu: thời gian phun thuốc giảm xuống 1/10 so với phương pháp truyền thống"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn biết về 'quan hệ dân số' không?",
+      "background": "forest",
+      "title": "関係人口という新概念",
+      "content": "'Dân số thường trú' và 'khách du lịch' không phải là tất cả. 'Quan hệ dân số' - những người có mối quan hệ liên tục với vùng miền đang được chú ý. Họ đến thăm vài lần một năm, tham gia vào các hoạt động tình nguyện, chia sẻ thông tin trên mạng xã hội...",
+      "emoji": "🤝",
+      "highlight": "Quan hệ dân số: hơn 10 triệu người (năm 2022, theo khảo sát của Bộ Nội vụ và Truyền thông). Đạt mức cao nhất mọi thời đại"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy nghĩ về những điều tuyệt vời của quê hương hoặc vùng miền bạn yêu thích!",
+      "background": "candy",
+      "title": "地方の魅力を探してみよう！",
+      "content": "Hãy liệt kê 3 điều bạn thích về vùng miền (quê hương, nơi bạn đã đến du lịch...). Ẩm thực, thiên nhiên, văn hóa, con người, sản phẩm đặc trưng... không giới hạn. Hãy nghĩ về cách bạn có thể chia sẻ những điều tuyệt vời này với mọi người!",
+      "emoji": "💭",
+      "highlight": "Chia sẻ sản phẩm đặc trưng của vùng miền trên mạng xã hội cũng là một cách để trở thành 'quan hệ dân số'!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Giới trẻ có sức mạnh thay đổi vùng miền!",
+      "background": "city",
+      "title": "若者と地方創生",
+      "content": "Vùng miền cần ý tưởng và hành động của giới trẻ. Các chương trình như '地域おこし協力隊' (Đội hợp tác phát triển vùng miền), các doanh nghiệp địa phương, tái thiết nhà cửa, khởi nghiệp nông nghiệp... đang ngày càng tăng lên.",
+      "emoji": "👦",
+      "highlight": "地域おこし協力隊: 2008 có 89 người → 2022 có khoảng 6.500 người! Chính sách này cho phép giới trẻ chuyển đến vùng miền và nhận lương"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hoàn thành khóa học地方創生! Tiếp theo, hãy tìm hiểu về giảm dân số 🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

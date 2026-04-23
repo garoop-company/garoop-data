@@ -1,0 +1,131 @@
+{
+  "title": "地方×育儿〜打造适合育儿的地区〜",
+  "description": "和Garu一起愉快地学习地方×育儿！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "一起来思考地方育儿的魅力吧！",
+      "background": "forest",
+      "title": "地方×育儿〜打造适合育儿的地区〜",
+      "emoji": "🏡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习地方×育儿！",
+      "background": "forest",
+      "title": "选择地方育儿的理由",
+      "content": "丰富的自然环境 - 宽敞的房子 - 低廉的生活成本 - 地区社区的互助 - 地方育儿正在受到关注。在东京，3LDK的房子价值6000万日元，而在地方，同等条件的房子价值不到1000万日元！",
+      "emoji": "🌿",
+      "highlight": "地方移居的育儿家庭满意度：高于都市地区（内阁府调查）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习地方×育儿！",
+      "background": "city",
+      "title": "育儿支援逐渐增加的自治体",
+      "content": "支援移居者的育儿自治体逐渐增加。① 保育费免费② 医疗费免费（至18岁）③ 住宅取得补助④ 学习支援⑤ 移居补助金 - 地方育儿移居在经济上占有优势的案例急剧增加！",
+      "emoji": "💰",
+      "highlight": "最先端的育儿支援自治体：明石市、流山市等。育儿支援完善，人口增加"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习地方×育儿！",
+      "background": "space",
+      "title": "地区社区的育儿支援",
+      "content": "传统的“整个村庄育儿”在现代重现。儿童食堂 - 地区监护 - 多代交流 - 祖父母和孩子世代相连的地方育儿环境，精神上非常丰富！",
+      "emoji": "🤝",
+      "highlight": "儿童食堂：日本全国超过9000个（2023年）。地区纽带对儿童贫困对策也有帮助"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习地方×育儿！",
+      "background": "ocean",
+      "title": "农业体验对孩子的影响",
+      "content": "触摸土壤 - 种植种子 - 收获 - 农业体验教孩子们生命的宝贵 - 劳动的价值 - 对食物的感恩 - 与自然的联系。城市孩子参加农业体验，可以改善情绪稳定性和饮食偏好！",
+      "emoji": "🌱",
+      "highlight": "农业体验计划：日本全国的农户和农业高校接受。感动体验众多，评价很高"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习地方×育儿！",
+      "background": "forest",
+      "title": "自然能增强孩子的免疫力",
+      "content": "玩泥 - 玩水 - 捉虫 - 接触自然的多样性微生物环境，能锻炼免疫系统（卫生假设）。过敏和自身免疫性疾病在城市地区多于农村地区。‘接触土壤’是健康的源泉！",
+      "emoji": "🤧",
+      "highlight": "卫生假设：过度清洁的环境阻碍免疫系统的发育 → 过敏性疾病增加"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习地方×育儿！",
+      "background": "classroom",
+      "title": "地方学校教育的特色",
+      "content": "小规模教育（地方小学一个年级只有10-20人）- 使用自然的体验式学习 - 学习地区产业的职业教育 - 城市大规模学校没有的‘紧密支持和体验’是地方学校的优势！",
+      "emoji": "🏫",
+      "highlight": "小规模班级：一个老师的关注时间增加 → 学习支援质量提高 - 不去学校的学生减少"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习地方×育儿！",
+      "background": "city",
+      "title": "双区域居住的选择",
+      "content": "平日在城市远程工作 - 周末在地方的房子里度过是新的育儿风格。孩子们可以同时享受自然体验和城市便利！周末农业 - 山地游玩 - 河流垂钓成为日常生活。",
+      "emoji": "🏠",
+      "highlight": "双区域居住者：约50万户（估计）。疫情后急剧增加，政府也在考虑促进政策"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习地方×育儿！",
+      "background": "forest",
+      "title": "地方创业和育儿的平衡",
+      "content": "在地方，育儿和工作更容易平衡！ 保育时间短，但附近有祖父母 - 可以远程工作的职场增加 - 选择灵活就业的父母也增加！",
+      "emoji": "💼",
+      "highlight": "地方移居 × 创业：远程工作 + 农业 - 咖啡馆 - 民宿等地方特有的工作 × 育儿平衡"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "学习了地方育儿的魅力！育儿系列总结へ🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

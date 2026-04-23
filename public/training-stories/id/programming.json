@@ -1,0 +1,81 @@
+{
+  "title": "Pelatihan Pemrograman",
+  "description": "Mari kita latih menulis kode! ",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Selamat datang di Dojo Pemrograman! Mari kita buat sihir dengan kode! 💻",
+      "background": "mountain",
+      "title": "Dojo Pemrograman",
+      "content": "Pemrograman seperti menulis instruksi untuk komputer. Kita akan mulai dengan perintah sederhana dan secara bertahap menguasai sihir yang lebih kompleks!",
+      "emoji": "💻",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Pertama, mari kita pelajari tentang 'variabel'. Seperti memberi label pada kotak! ",
+      "background": "dojo",
+      "title": "Pelatihan Variabel",
+      "content": "Variabel adalah 'kotak' untuk menyimpan data. Anda dapat memasukkan hal-hal favorit ke dalam kotak dengan nama.",
+      "emoji": "📦",
+      "highlight": "Contoh:\nname = \"Gal-chan\"\nage = 5\nfavorite = \"bambu\""
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Menggunakan loop dapat menyelamatkan Anda dari mengulangi tindakan yang sama! ",
+      "background": "bamboo",
+      "title": "Pelatihan Loop",
+      "content": "Loop digunakan untuk mengulangi perintah yang sama beberapa kali. Anda dapat dengan mudah menulis kode seperti 'berjalan, berjalan, berjalan...' tiga kali!",
+      "emoji": "🔄",
+      "highlight": "Contoh:\nfor i in range(3):\n    print(\"Ayo!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Cabang bersyarat membuat program Anda lebih pintar! ",
+      "background": "mountain",
+      "title": "Pelatihan Cabang Bersyarat",
+      "content": "Cabang bersyarat seperti 'jika sesuatu, maka lakukan ini, jika tidak maka lakukan itu'. Program Anda dapat membuat pilihan!",
+      "emoji": "🤔",
+      "highlight": "Contoh:\nif score > 80:\n    print(\"Kerja bagus!\")\nelse:\n    print(\"Coba lebih keras nanti\")"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita minta Codex membuat permainan 'Tebak-Tebakan' untuk kita! ",
+      "background": "dojo",
+      "title": "Praktik: Permainan Tebak-Tebakan",
+      "content": "Menggunakan AI Codex, mari kita buat permainan Tebak-Tebakan. Kode apa yang akan dihasilkan?",
+      "emoji": "✊",
+      "highlight": "Tantangan:\nMinta Codex!\n\"Buat permainan Tebak-Tebakan dalam Python. Sertakan penjelasan\""
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Selamat, Anda telah menyelesaikan pelatihan pemrograman! Bagikan karya Anda di Slack! 🎉",
+      "background": "temple",
+      "title": "Pelatihan Selesai!",
+      "content": "Anda telah menguasai tiga alat penting: variabel, loop, dan cabang bersyarat. Selanjutnya, tantang diri Anda untuk membuat program asli!",
+      "emoji": "⚔️",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

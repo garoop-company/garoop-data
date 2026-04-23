@@ -1,0 +1,131 @@
+{
+  "title": "复利的魔法〜世界第八大奇迹〜",
+  "description": "一起来探索爱因斯坦称为“世界第八大奇迹”的复利的强大力量！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "复利就像魔法！一起来体验吧 ✨",
+      "background": "space",
+      "title": "复利的魔法",
+      "emoji": "✨",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "单利和复利有什么不同？",
+      "background": "classroom",
+      "title": "单利 vs 复利",
+      "content": "单利：只对本金计算利息。复利：利息也要计算利息！例如：100万元，年利率10%，10年。单利 → 200万元。复利 → 约259万元！相差59万元。",
+      "emoji": "🌱",
+      "highlight": "单利：100万 × 10% × 10年 = 200万 | 复利：100万 × (1.1)^10 = 约259万"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "你知道72法则吗？",
+      "background": "city",
+      "title": "72法则",
+      "content": "资金翻倍所需年数 = 72 ÷ 年利率！年利率6%时，72 ÷ 6 = 12年翻倍。年利率12%时，6年翻倍。从另一个角度看，通货膨胀率3%时，24年后资金价值将减半！",
+      "emoji": "🔢",
+      "highlight": "72法则：年利率3% → 24年翻倍 | 6% → 12年翻倍 | 12% → 6年翻倍"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "越早开始越占优势！",
+      "background": "forest",
+      "title": "越早开始越占优势",
+      "content": "A君：20岁开始每月存1万元（年利率7%）→ 60岁时约2600万元。B君：30岁开始每月存2万元（年利率7%）→ 60岁时约2400万元。投资金额一半，A君却比B君多！时间是最强大的助力！",
+      "emoji": "👶",
+      "highlight": "20岁开始（月1万）vs 30岁开始（月2万）→ 20岁开始多200万！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "如果1枚1元硬币每天翻倍，30天后有多少？",
+      "background": "space",
+      "title": "指数级增长",
+      "content": "1元每天翻倍 → 30天后竟高达约10亿元！复利是“指数级增长” - 开始时增长缓慢，但后半段却会迅速加速。",
+      "emoji": "🚀",
+      "highlight": "1元 × 2^30 = 1,073,741,824元（约10亿元！）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "复利的“敌人”是费用和时间！",
+      "background": "ocean",
+      "title": "活用复利的秘诀",
+      "content": "最大化复利效果的秘诀①越早开始②降低手续费（管理费）③利用税收优惠制度（NISA）④不提现。“时间、低成本、税收优惠、持续”这4个关键！",
+      "emoji": "🔑",
+      "highlight": "手续费1%的差异，30年后可能造成数百万的差距 → 低成本的指数基金更具优势"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "沃伦·巴菲特的秘密是复利！",
+      "background": "city",
+      "title": "巴菲特与复利",
+      "content": "投资之神沃伦·巴菲特的资产99%以上是在60岁后创造的！65年来，年利率约20%的复利投资结果。只要有复利和时间，任何人都可以积累财富！",
+      "emoji": "👴",
+      "highlight": "巴菲特资产：11岁 $114 → 92岁 $1,140亿（年利率20%复利 × 80年）"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "来试试复利模拟吧！",
+      "background": "candy",
+      "title": "计算复利",
+      "content": "假设从今天开始，每月存5,000元，年利率5%，持续30年。可以用计算器或手机上的“投资模拟器”计算！银行和证券公司网站都有免费工具。",
+      "emoji": "🧮",
+      "highlight": "每月5,000元 × 年利率5% × 30年 = 180万元本金 → 约416万元！（约2.3倍）"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "债务的复利是“反复利”，很危险！",
+      "background": "classroom",
+      "title": "注意债务的复利",
+      "content": "复利可能是你的朋友，也可能是敌人。信用卡分期付款年利率15-18%是复利，会像雪球一样越滚越大！10万元，年利率18%，5年后超过22万元！注意债务的复利。",
+      "emoji": "⚠️",
+      "highlight": "信用卡分期付款18%/年，10万元：5年后 → 约22万，10年后 → 约48万！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "已经掌握复利的魔法！接下来学加密货币吧 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

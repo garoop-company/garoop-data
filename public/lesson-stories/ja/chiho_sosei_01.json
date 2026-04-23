@@ -1,0 +1,132 @@
+{
+  "title": "地方創生ってなに？〜日本の地方を元気にしよう〜",
+  "description": "日本各地の魅力を活かして地域を元気にする「地方創生」を学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "地方の魅力を一緒に発見しよう！🏡",
+      "background": "forest",
+      "title": "地方創生とは",
+      "emoji": "🏡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「地方創生ってなに？〜日本の地方を元気にしよう〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "なぜ地方創生が必要なの？",
+      "background": "classroom",
+      "title": "地方が直面する課題",
+      "content": "日本の人口の約30%（約3,800万人）が東京圏に集中。地方では人口減少・高齢化・産業の衰退が進んでいます。このままでは2050年には多くの自治体が「消滅可能性」に直面します。",
+      "emoji": "📉",
+      "highlight": "東京圏（東京・神奈川・埼玉・千葉）人口：日本全体の28%が集中"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "地方創生政策は2014年から始まったんだよ！",
+      "background": "city",
+      "title": "地方創生とは何か",
+      "content": "2014年に始まった国の政策「まち・ひと・しごと創生」。①しごとを作る②人を集める③まちを活性化させる——この3つを柱に地域の活性化を目指します。年間1兆円以上の予算が投入されています。",
+      "emoji": "🏛️",
+      "highlight": "地方創生予算：約1兆円/年。2060年に人口1億人維持が目標"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "地方には東京にない宝物がいっぱい！",
+      "background": "forest",
+      "title": "地方の強みと魅力",
+      "content": "地方には豊かな自然・伝統文化・特産品・広いスペース・人との絆など、都市にはない魅力があります。コロナ以降、地方移住希望者が急増！特に若者の地方への関心が高まっています。",
+      "emoji": "🌾",
+      "highlight": "地方移住希望者（20〜30代）：コロナ後に過去最高を記録（国交省調査）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "成功している地方創生の例を見てみよう！",
+      "background": "ocean",
+      "title": "地方創生の成功事例",
+      "content": "岡山県西粟倉村：「百年の森林」プロジェクトで林業を復活させ移住者増加。徳島県神山町：ITサテライトオフィス誘致で移住者急増。富山県：路面電車網の整備でコンパクトシティを実現。",
+      "emoji": "✅",
+      "highlight": "神山町（人口5,000人）：IT企業12社がサテライトオフィス設置→移住者が転出者を上回る"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "テクノロジーが地方を救う！",
+      "background": "space",
+      "title": "テクノロジーと地方創生",
+      "content": "5G・AI・ドローン・IoTが地方の課題を解決しています。農業ドローンで農薬散布の効率が5倍に。遠隔医療で地方の医療不足を補う。リモートワーク普及で都市から地方への移住が加速！",
+      "emoji": "📡",
+      "highlight": "ドローン農薬散布：従来の農薬散布と比べ作業時間が1/10に短縮"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "関係人口って知ってる？",
+      "background": "forest",
+      "title": "関係人口という新概念",
+      "content": "「定住人口」でも「観光客」でもない、地域と継続的に関わる「関係人口」が注目されています。年に数回訪れる・ふるさと納税をする・SNSで情報発信するなど、様々な形の地域との関わり。",
+      "emoji": "🤝",
+      "highlight": "関係人口：1,000万人超（2022年、総務省調査）。過去最多を更新"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "あなたの故郷や好きな地方の魅力を考えてみよう！",
+      "background": "candy",
+      "title": "地方の魅力を探してみよう！",
+      "content": "あなたが知っている地方（出身地・旅行先など）の魅力を3つ挙げてみよう！食べ物・自然・文化・人・特産品…何でもOK。その魅力をどう全国に伝えられるか考えると地方創生の第一歩！",
+      "emoji": "💭",
+      "highlight": "地方の特産品をSNSで紹介するだけでも立派な「関係人口」！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "若者が地方を変える力を持っている！",
+      "background": "city",
+      "title": "若者と地方創生",
+      "content": "地方では若いアイデアと行動力が求められています。地域おこし協力隊・ローカルベンチャー・空き家リノベ・農業スタートアップ——若者が地方で活躍する機会が急増しています。",
+      "emoji": "👦",
+      "highlight": "地域おこし協力隊：2008年89人→2022年約6,500人！給料付きで地方移住できる制度"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "地方創生の入門完了！次は人口減少を学ぼう🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

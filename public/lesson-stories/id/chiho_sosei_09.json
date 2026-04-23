@@ -1,0 +1,131 @@
+{
+  "title": "Kota Cerdas dan Daerah: Memecahkan Tantangan dengan Teknologi",
+  "description": "Mari kita pelajari kota cerdas dan daerah dengan Gal-chan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pecahkan tantangan daerah dengan teknologi di kota cerdas!",
+      "background": "space",
+      "title": "Kota Cerdas dan Daerah: Memecahkan Tantangan dengan Teknologi",
+      "emoji": "🏙️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari kota cerdas dan daerah dengan Gal-chan!",
+      "background": "city",
+      "title": "Apa itu Kota Cerdas?",
+      "content": "Kota yang menggunakan IoT, AI, data besar, dan 5G untuk meningkatkan layanan administrasi, transportasi, energi, dan kesehatan. Konsep ini juga diterapkan di daerah sebagai 'kota cerdas'!",
+      "emoji": "🌐",
+      "highlight": "Ukuran pasar kota cerdas global: diprediksi melebihi $1 triliun (sekitar Rp 1.500 triliun) pada tahun 2030"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari kota cerdas dan daerah dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Prosedur Administratif yang Efisien dengan AI",
+      "content": "Digitalisasi prosedur administratif, seperti aplikasi online dan konter AI, memungkinkan akses 24/7 dari rumah. Ini membantu mengatasi kekurangan staf di daerah pedesaan.",
+      "emoji": "🤖",
+      "highlight": "Prosedur administratif online: meningkat pesat setelah COVID-19, dengan penerbitan sertifikat online dan pelaporan pajak menjadi lebih umum"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari kota cerdas dan daerah dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Memecahkan Masalah Transportasi dengan Mengemudi Otonom dan MaaS",
+      "content": "Daerah pedesaan menghadapi tantangan transportasi yang parah. Bus otonom, transportasi berdasarkan permintaan, dan MaaS (Mobility as a Service) sedang diuji sebagai solusi!",
+      "emoji": "🚌",
+      "highlight": "Eksperimen demonstrasi bus otonom: sedang dilakukan di berbagai lokasi, termasuk Ibaraki, Fukui, dan Okinawa"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari kota cerdas dan daerah dengan Gal-chan!",
+      "background": "forest",
+      "title": "Menghilangkan Disparitas Medis di Daerah Pedesaan dengan Telemedisin",
+      "content": "Daerah pedesaan menghadapi kekurangan dokter dan akses terbatas ke rumah sakit. Telemedisin menjadi lebih umum, memungkinkan pasien berkonsultasi dengan dokter dari jarak jauh. Diagnosis AI dan perangkat wearable juga memungkinkan pemantauan kesehatan jarak jauh!",
+      "emoji": "🏥",
+      "highlight": "Pengguna telemedisin: meningkat pesat setelah COVID-19, berkontribusi pada pengurangan disparitas akses medis di daerah pedesaan"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari kota cerdas dan daerah dengan Gal-chan!",
+      "background": "space",
+      "title": "5G Mengubah Pertanian dan Industri Lokal",
+      "content": "5G (komunikasi seluler generasi kelima) sedang diperkenalkan tidak hanya di kota-kota tetapi juga di desa-desa dan desa nelayan. Ini memungkinkan operasi jarak jauh drone pertanian dan mesin, serta otomatisasi pabrik!",
+      "emoji": "📡",
+      "highlight": "5G Lokal: jaringan 5G khusus untuk pabrik, lahan pertanian, dan lokasi konstruksi, memungkinkan konstruksi sendiri"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari kota cerdas dan daerah dengan Gal-chan!",
+      "background": "city",
+      "title": "Pengiriman Drone Mengubah Logistik Lokal",
+      "content": "Daerah pedesaan dan pulau-pulau menghadapi biaya logistik yang tinggi dan waktu pengiriman yang lama. Pengiriman drone dapat memungkinkan pengiriman hari yang sama! Rakuten dan Grup JAL sedang melakukan eksperimen demonstrasi di pulau-pulau terpencil.",
+      "emoji": "🚁",
+      "highlight": "Pengiriman drone: eksperimen demonstrasi sedang dilakukan di pulau-pulau, seperti Pulau Izu Oshima dan Kepulauan Goto, menuju implementasi praktis"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari kota cerdas dan daerah dengan Gal-chan!",
+      "background": "classroom",
+      "title": "AI Menganalisis Tantangan Lokal",
+      "content": "AI dan data besar sedang digunakan untuk memvisualisasikan dan mengatasi tantangan lokal, seperti prediksi populasi, optimalisasi biaya administratif, dan analisis pariwisata. Pemerintah daerah di seluruh negeri sedang mempromosikan layanan administratif yang didukung AI.",
+      "emoji": "📊",
+      "highlight": "Pemerintah daerah yang didukung AI: meningkat pesat di seluruh negeri, dengan aplikasi di pertanian, kesejahteraan, dan pencegahan bencana"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari kota cerdas dan daerah dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Mencapai Netralitas Karbon dengan Energi Terbarukan di Daerah Lokal",
+      "content": "Daerah pedesaan memiliki potensi energi terbarukan yang melimpah, termasuk surya, angin, biomassa, dan panas bumi. Inisiatif 'energi lokal' bertujuan untuk mempromosikan kemandirian energi dan meningkatkan pendapatan lokal.",
+      "emoji": "🌱",
+      "highlight": "Pembangkitan energi terbarukan (daerah pedesaan): kasus di mana surya dan angin memenuhi 100% permintaan energi lokal"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kemungkinan kota cerdas dan daerah tidak terbatas! Mari kita lanjutkan ke pelajaran terakhir 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

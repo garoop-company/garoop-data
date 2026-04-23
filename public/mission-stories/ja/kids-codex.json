@@ -1,0 +1,81 @@
+{
+  "title": "Codexミッション",
+  "description": "Codexでミニアプリを作るスパイミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "コードエージェント！今回のミッションはAIでアプリ開発だガル！🕵️💻",
+      "background": "lab",
+      "title": "ミッション指令：Codex作戦",
+      "content": "任務は、Codexを相棒にして小さくても動くアプリを完成させること。完成条件は、ねらいを1文で説明できること、動作する画面があること、自分の工夫を1つ入れることの3つだ。",
+      "emoji": "🤖",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Codexは「コードを書いてくれるAI」ガル！どんなアプリでも作ってくれるよ！",
+      "background": "spy",
+      "title": "Codexとは？",
+      "content": "Codexは、コードを書く、修正する、説明するを同時に助けてくれる開発パートナーだ。ただし丸投げではなく、「何を作るか」「誰向けか」「どこまで必要か」を具体的に伝えるほど、返ってくる案の質が上がる。",
+      "emoji": "⚡",
+      "highlight": "依頼のコツ:\n・作るものを1文で言う\n・見た目と動きを分けて頼む\n・最後に説明も求める"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "まず「作りたいもの」を1文で説明できるようにしよう！",
+      "background": "hq",
+      "title": "要件定義修行",
+      "content": "要件定義では、機能を増やすより「今日は何を完成にするか」を決めることが重要だ。今回はボタン、表示エリア、変化するメッセージの3点に絞ると、短時間でも達成感のある作品になる。",
+      "emoji": "📋",
+      "highlight": "今回の最低ライン:\n・タイトルが見える\n・ボタンを押せる\n・メッセージが変わる"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "このプロンプトをCodexにコピペして送ってみよう！",
+      "background": "lab",
+      "title": "作戦実行！",
+      "content": "プロンプトを送るときは、見た目・動き・対象年齢・説明の有無まで書くと精度が上がる。返ってきたコードはすぐ完成品扱いせず、まず実行して、動きと見た目が依頼どおりかを観察しよう。",
+      "emoji": "💡",
+      "highlight": "例: 「小学生向けの応援ページをHTML/CSS/JavaScriptで作成。ボタンを押すたびにメッセージを切り替え、コードの説明もつける」"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "コードを少し自分で変えてみよう！色やメッセージを変えるだけでOK！",
+      "background": "spy",
+      "title": "カスタマイズ作戦",
+      "content": "本当に力がつくのは、生成されたコードを1か所でも自分で変えたときだ。色、言葉、ボタンの形、背景の雰囲気などを少し変えて、「ここは自分で決めた」と言える部分を増やしていこう。",
+      "emoji": "🎨",
+      "highlight": "おすすめ改造:\n・メッセージを3種類に増やす\n・好きな色に変更する\n・タイトルを自分用にする"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "ミッション完了ガル！動いた画面のスクショを提出して420ポイントゲット！🎯",
+      "background": "lab",
+      "title": "ミッション完了！",
+      "content": "ミッション完了の合図は、動く画面と自分の工夫を説明できる状態だ。スクリーンショットに加えて「どこをAIに頼み、どこを自分で直したか」まで言えると、単なる体験ではなく開発経験になる。",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

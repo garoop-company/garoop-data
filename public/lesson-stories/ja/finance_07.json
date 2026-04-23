@@ -1,0 +1,132 @@
+{
+  "title": "仮想通貨とWeb3〜デジタルお金の世界〜",
+  "description": "ビットコインからWeb3まで、デジタルお金の世界をガルちゃんと探検！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "デジタルお金の世界へ出発！₿🚀",
+      "background": "space",
+      "title": "仮想通貨とWeb3",
+      "emoji": "₿",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「仮想通貨とWeb3〜デジタルお金の世界〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ビットコインって何者？",
+      "background": "city",
+      "title": "ビットコインとは",
+      "content": "2009年、謎の人物「サトシ・ナカモト」が作ったデジタル通貨。銀行などの管理者がいらない「分散型」の通貨。世界中どこでも送れて、誰も偽造できない。総発行量は2100万枚と決まっています。",
+      "emoji": "₿",
+      "highlight": "ビットコイン最高値：約1BTC＝1,000万円超（2024年3月）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ブロックチェーンって何？",
+      "background": "space",
+      "title": "ブロックチェーンの仕組み",
+      "content": "ブロックチェーンは取引記録を「ブロック」というかたまりにして「チェーン（鎖）」でつなぐ技術。世界中のコンピュータが記録を保存するため、改ざんが事実上不可能！",
+      "emoji": "🔗",
+      "highlight": "ブロックチェーン＝世界中が監視する改ざん不可能な「公開台帳」"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ビットコイン以外にも色々あるよ！",
+      "background": "ocean",
+      "title": "アルトコインの世界",
+      "content": "ビットコイン以外の仮想通貨を「アルトコイン」と呼びます。イーサリアム（スマートコントラクト）・リップル（送金特化）・ソラナ（高速）など数千種類以上！それぞれ用途が違います。",
+      "emoji": "🌐",
+      "highlight": "仮想通貨の種類：2万種以上（2024年）。時価総額2位はイーサリアム"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "NFTってゲームのアイテムみたいな感じ！",
+      "background": "city",
+      "title": "NFT（非代替性トークン）",
+      "content": "NFT（Non-Fungible Token）はデジタルデータに「唯一性の証明」をつける技術。絵・音楽・ゲームアイテム等が本物の証明付きで売買できます。2021年には1枚75億円の作品も！",
+      "emoji": "🖼️",
+      "highlight": "NFT最高値：Beepleの「Everydays」→6,900万ドル（約75億円）で落札！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Web3は「自分のデータは自分のもの」の世界！",
+      "background": "space",
+      "title": "Web3とは",
+      "content": "Web1：読むだけ。Web2：読み書き（SNS・YouTube）でも企業がデータを管理。Web3：読み書き＋所有！ユーザーが自分のデータや資産を完全にコントロールできる次世代インターネット。",
+      "emoji": "🌐",
+      "highlight": "Web3のキーワード：分散・所有・プライバシー・DAO（分散型自律組織）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "仮想通貨は大きなリスクもあることを忘れずに！",
+      "background": "classroom",
+      "title": "仮想通貨のリスク",
+      "content": "仮想通貨の価格変動は激しい！ビットコインは1年で10倍になることも、10分の1になることも。詐欺（ラグプル）・ハッキング・法規制のリスクも。投資する場合は余剰資金で少額から！",
+      "emoji": "⚠️",
+      "highlight": "ビットコインの最大下落率：約84%（2022年）。投資は余剰資金で！"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "仮想通貨を安全に試すには？",
+      "background": "candy",
+      "title": "仮想通貨を学ぶ第一歩",
+      "content": "実際に購入する前に①仮想通貨取引所のデモ口座や②仮想通貨シミュレーターで体験！GMOコイン・コインチェックなどの大手取引所は信頼性が高い。まず「知る」ことが最重要！",
+      "emoji": "🎮",
+      "highlight": "「CoinGecko」「コインマーケットキャップ」：仮想通貨の価格を無料でリアルタイム確認"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "日本の仮想通貨のルールも知っておこう！",
+      "background": "city",
+      "title": "日本の仮想通貨規制",
+      "content": "日本は世界で最初に仮想通貨取引所を法律で規制した国。金融庁が認可した取引所のみ合法。仮想通貨の利益は「雑所得」として確定申告が必要。最大税率55%になる場合も！",
+      "emoji": "🏛️",
+      "highlight": "仮想通貨の利益→雑所得→累進課税（最大55%）。株式（20.315%）より高い税率"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "デジタルお金の世界を探検できたね！🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

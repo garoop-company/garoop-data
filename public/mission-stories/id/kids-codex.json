@@ -1,0 +1,81 @@
+{
+  "title": "Misi Codex",
+  "description": "Misi spy untuk membuat mini-aplikasi dengan Codex!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agen Kode! Misi kamu adalah mengembangkan aplikasi dengan AI menggunakan Codex! 🕵️💻",
+      "background": "lab",
+      "title": "Briefing Misi: Operasi Codex",
+      "content": "Tugas kamu: Gunakan Codex ( asisten kode AI) untuk membuat mini-aplikasi yang mengubah pesan ketika tombol ditekan!",
+      "emoji": "🤖",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Codex adalah AI yang 'menulis kode untukmu'! Ia dapat membuat aplikasi apa saja yang kamu inginkan!",
+      "background": "spy",
+      "title": "Apa itu Codex?",
+      "content": "Codex adalah AI yang luar biasa yang menulis kode untukmu ketika kamu meminta untuk membuat aplikasi!",
+      "emoji": "⚡",
+      "highlight": "Fitur Codex:\n・Membuat program apa saja\n・Memberikan penjelasan\n・Menjawab pertanyaan\n・Menghasilkan kode yang berfungsi"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pertama, mari kita definisikan apa yang ingin kamu buat dalam satu kalimat!",
+      "background": "hq",
+      "title": "Pelatihan Definisi Kebutuhan",
+      "content": "Sebelum membuat program, jelaskan apa yang ingin kamu buat. Keep it simple!",
+      "emoji": "📋",
+      "highlight": "Misi:\n「Buat halaman web yang mengubah\n  pesan dukungan ketika tombol ditekan」\n\nBahan: HTML + CSS + JavaScript"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita salin dan tempelkan prompt ini ke Codex!",
+      "background": "lab",
+      "title": "Eksekusi Operasi!",
+      "content": "Buka chatgpt.com dan masukkan prompt di bawah. Mari kita lihat kode apa yang keluar!",
+      "emoji": "💡",
+      "highlight": "Prompt:\n「Buat halaman dukungan anak dengan HTML, CSS, dan JavaScript.\n Ketika tombol ditekan, tampilkan '_Semangat!' dan jelaskan dengan jelas."
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Coba ubah kode sedikit! Cukup ubah warna atau pesan!",
+      "background": "spy",
+      "title": "Operasi Kustomisasi",
+      "content": "Lihat kode dan ubah pesan atau warna sesuai keinginanmu. Bahkan satu perubahan saja sudah cukup!",
+      "emoji": "🎨",
+      "highlight": "Ubah:\n・Pesan → Kata favorit\n・Warna tombol → Warna favorit\n・Judul → Asli"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Misi selesai! Serahkan tangkapan layar layar yang berfungsi dan dapatkan 420 poin! 🎯",
+      "background": "lab",
+      "title": "Misi Selesai!",
+      "content": "Kamu telah memperoleh keterampilan membuat aplikasi dengan AI! Serahkan tangkapan layar dan ide-ide kamu di Slack!",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

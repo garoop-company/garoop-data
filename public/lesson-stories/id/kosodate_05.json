@@ -1,0 +1,131 @@
+{
+  "title": "Pendidikan Emosi dan Empati ~Kembangkan EQ Kita!~",
+  "description": "Mari belajar pendidikan emosi dan empati dengan Gal-chan dengan cara yang menyenangkan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita kembangkan emosi anak! Pelajari ilmu EQ!",
+      "background": "candy",
+      "title": "Pendidikan Emosi dan Empati ~Kembangkan EQ Kita!~",
+      "emoji": "💕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar pendidikan emosi dan empati dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Apa itu EQ (Inteligensi Emosi)?",
+      "content": "EQ (Inteligensi Emosi) = ① Kenali emosi Anda sendiri, ② Atur emosi Anda, ③ Pahami emosi orang lain (empati), ④ Atur hubungan manusia dengan efektif - 4 kemampuan. Lebih berkorelasi dengan kebahagiaan dan kesuksesan dalam hidup daripada IQ!",
+      "emoji": "❤️",
+      "highlight": "IQ vs EQ: IQ hanya menjelaskan 20% kesuksesan. 80% sisanya adalah EQ dan faktor lain (Goleman)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar pendidikan emosi dan empati dengan Gal-chan!",
+      "background": "forest",
+      "title": "Berikan Nama pada Emosi",
+      "content": "Ketika anak marah, penting untuk memberi label pada emosi mereka, misalnya, 'Kamu sangat marah sekarang.' Ini membantu mengembangkan kontrol diri dan empati!",
+      "emoji": "🏷️",
+      "highlight": "Pelabelan Emosi: Mengurangi respons otak terhadap kemarahan sebesar 30% (studi ilmu saraf UCLA)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar pendidikan emosi dan empati dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Cara Mengembangkan Empati",
+      "content": "Buatlah kebiasaan untuk bertanya kepada anak, 'Bagaimana menurutmu orang lain merasa?' Membaca buku gambar, menonton film, dan bermain peran dapat membantu membayangkan perspektif dan perasaan orang lain!",
+      "emoji": "🤝",
+      "highlight": "Anak dengan empati tinggi: Kurang cenderung untuk meng bullying, memiliki hubungan persahabatan yang lebih baik, dan potensi kepemimpinan yang lebih tinggi"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar pendidikan emosi dan empati dengan Gal-chan!",
+      "background": "space",
+      "title": "Cara Berhadapan dengan Kemarahan",
+      "content": "Kemarahan bukanlah emosi yang buruk! Masalahnya adalah bagaimana kita mengungkapkannya. ① Tarik napas dalam (10 detik), ② Ekspresikan emosi dengan kata-kata, ③ Tenangkan diri - melakukan 3 langkah ini sejak kecil mengembangkan kontrol emosi!",
+      "emoji": "😤",
+      "highlight": "Aturan 6 Detik: Puncak kemarahan adalah 6 detik. Tarik napas dalam selama waktu ini dapat menekan perilaku impulsif"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar pendidikan emosi dan empati dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Efek 'Terima Kasih' pada Otak",
+      "content": "Mengungkapkan rasa terima kasih meningkatkan kebahagiaan, mencegah depresi, dan memperkuat ikatan sosial. Menulis 'jurnal terima kasih' dengan 3 hal yang baik atau hal yang patut disyukuri setiap hari dapat meningkatkan kesejahteraan anak!",
+      "emoji": "🙏",
+      "highlight": "Jurnal Terima Kasih: Menulis 3 kali seminggu meningkatkan kebahagiaan sebesar 25% (studi Emmons & McCullough)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar pendidikan emosi dan empati dengan Gal-chan!",
+      "background": "city",
+      "title": "Kasih Sayang pada Diri Sendiri Saat Gagal",
+      "content": "Kasih sayang pada diri sendiri berarti bersikap baik pada diri sendiri, yang berbeda dengan kritik diri. Daripada menyalahkan diri sendiri karena gagal, pikirkan, 'Semua orang membuat kesalahan; mari kita coba lagi!' Ini mengembangkan ketahanan mental!",
+      "emoji": "🌸",
+      "highlight": "Kasih Sayang pada Diri Sendiri: Pemulihan dari kegagalan lebih cepat dan motivasi untuk mencoba meningkat (studi Neff)"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari belajar pendidikan emosi dan empati dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Masalah Kesehatan Mental Anak",
+      "content": "Jumlah siswa Jepang yang tidak bersekolah mencapai rekor tertinggi (lebih dari 290.000 pada 2022). Sangat penting untuk melindungi kesehatan mental anak! Tanda-tanda meliputi ① gangguan tidur, ② perubahan nafsu makan, ③ penarikan diri - orang tua harus menyadari dan berkonsultasi dengan ahli!",
+      "emoji": "🆘",
+      "highlight": "Kegagalan Bersekolah: Lebih dari 290.000 (2022), meningkat pesat setelah COVID-19. Deteksi dini dan konsultasi ahli sangat penting"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar pendidikan emosi dan empati dengan Gal-chan!",
+      "background": "forest",
+      "title": "'Buku Gambar' adalah Alat Terbaik untuk Pendidikan Emosi",
+      "content": "Empati dengan emosi karakter buku gambar mengembangkan empati, kosakata emosi, dan imajinasi anak! Berbagai buku gambar, seperti 'Mofi Kelinci,' 'Ano Ko,' dan 'Kota Kertas,' mengembangkan hati anak!",
+      "emoji": "📚",
+      "highlight": "Membaca sebelum tidur: Efektif untuk kosakata, empati, imajinasi, dan pembentukan ikatan orang tua-anak (berbagai studi)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Anda telah belajar pendidikan emosi! Berikutnya adalah pengasuhan di era digital 🎉",
+      "background": "space",
+      "title": "Selesai Pelajaran!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

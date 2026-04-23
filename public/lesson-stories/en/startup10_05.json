@@ -1,0 +1,131 @@
+{
+  "title": "Pitch Practice ~ Communication Skills That Change Your Life ~",
+  "description": "Let's have fun learning pitch practice with Gal-chan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Move your business with communication skills! Let's learn pitching!",
+      "background": "city",
+      "title": "Pitch Practice ~ Communication Skills That Change Your Life ~",
+      "emoji": "🎤",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn pitch practice with Gal-chan!",
+      "background": "classroom",
+      "title": "What is Pitch?",
+      "content": "Pitch = Present your business to investors, customers, and partners in a short time. Elevator Pitch is an explanation that can be conveyed in 30 seconds to 2 minutes while riding an elevator!",
+      "emoji": "🎤",
+      "highlight": "Elevator Pitch: Convey your idea to an investor you meet by chance in an elevator"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn pitch practice with Gal-chan!",
+      "background": "forest",
+      "title": "Three Elements of a Good Pitch",
+      "content": "① Problem (what the customer is struggling with) ② Solution (how your product/service solves it) ③ Why your team is the best - If you can convey these three points in 1-2 minutes, it's a perfect pitch!",
+      "emoji": "🔢",
+      "highlight": "Golden Pitch Structure: Problem → Solution → Market Size → Business Model → Team → Request"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn pitch practice with Gal-chan!",
+      "background": "space",
+      "title": "Steve Jobs' Presentation Techniques",
+      "content": " '1,000 songs in your pocket' - iPod presentation. Instead of numbers (1GB), he moved people's hearts by talking about the experience. Rules: ① Keep it simple ② Tell a story ③ Rehearse thoroughly!",
+      "emoji": "🎯",
+      "highlight": "Jobs' Presentation: 1 slide 1 message, words that appeal to emotions, thorough rehearsal"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn pitch practice with Gal-chan!",
+      "background": "ocean",
+      "title": "The Flow of 'Problem → Solution → Evidence → Action'",
+      "content": "PAPA Structure: ① Problem (problem statement) ② Agitation (worsening the problem) ③ Solution (presenting a solution) ④ Action (prompting action) - If you present in this flow, the audience will feel 'I want to buy!' or 'I want to support!'",
+      "emoji": "📋",
+      "highlight": "PAPA Structure: Common persuasive structure in sales writing, pitching, and presenting worldwide"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn pitch practice with Gal-chan!",
+      "background": "forest",
+      "title": "Convey with Both Data and Emotions",
+      "content": "People won't move with logic (numbers, facts, data) alone. Nor will they trust with emotions (story, empathy, surprise) alone. Combine 'Aristotle's persuasive techniques: Logos (logic), Pathos (emotion), Ethos (trust)'!",
+      "emoji": "⚖️",
+      "highlight": "Three Elements of Persuasion: Balance of Logos (data) + Pathos (story) + Ethos (track record, trust)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn pitch practice with Gal-chan!",
+      "background": "city",
+      "title": "Dealing with Rejection (No)",
+      "content": "It's normal to be rejected by investors! Airbnb was rejected 7 times, WhatsApp was rejected by Facebook - The next 'NO' gets closer to 'YES'. When rejected, ask 'why?' and turn it into data to improve your pitch!",
+      "emoji": "💪",
+      "highlight": "Airbnb's Fundraising: After being rejected by 7 investors, accepted by Y Combinator → now a 9 trillion yen company"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn pitch practice with Gal-chan!",
+      "background": "classroom",
+      "title": "Practice Makes Perfect",
+      "content": "Pitching is determined by 'practice' not 'talent'! Practice in front of a mirror, with family, friends, and record yourself - repeating practice refines your speaking style, timing, eye contact, and word choice. TED speakers practice an average of 200 hours!",
+      "emoji": "🎬",
+      "highlight": "TED Speakers: Average 200+ hours of preparation and practice for an 18-minute speech"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn pitch practice with Gal-chan!",
+      "background": "ocean",
+      "title": "Global Kids Pitch Contest",
+      "content": "Kids TEDx, High School Business Contest, Youths For Youth for junior and senior high school students - There are stages worldwide for kids to present their business ideas! You can grow just by participating. Challenge yourself!",
+      "emoji": "🌍",
+      "highlight": "High School Business Contest: Some win millions of yen in startup funding at national competitions"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Master your pitch! Next, let's build a team 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

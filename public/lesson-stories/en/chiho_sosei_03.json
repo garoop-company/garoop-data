@@ -1,0 +1,131 @@
+{
+  "title": "Agricultural DX: Revolutionizing Agriculture with Cutting-Edge Technology",
+  "description": "Let's learn about the future of agriculture with Garu-chan, where smart agriculture, agricultural drones, and AI come together!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Agriculture is changing with cutting-edge technology! 🌾",
+      "background": "forest",
+      "title": "Agricultural DX: Revolutionizing Agriculture with Cutting-Edge Technology",
+      "emoji": "🌾",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Agricultural DX with Garu-chan!",
+      "background": "classroom",
+      "title": "The Current State of Japanese Agriculture",
+      "content": "The number of people working in Japanese agriculture has drastically decreased from approximately 3.5 million in 2000 to around 1.22 million in 2022. The average age is over 68. Although this presents a challenge, it also offers an opportunity to solve problems with technology!",
+      "emoji": "👨‍🌾",
+      "highlight": "Average age of agricultural workers: 68.4 years old (2022 Ministry of Agriculture, Forestry and Fisheries survey). 1/3 will retire in the next 10 years"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Agricultural DX with Garu-chan!",
+      "background": "space",
+      "title": "What is Smart Agriculture?",
+      "content": "Smart agriculture involves using sensors, AI, IoT, drones, and robots to 'visualize', 'automate', and 'streamline' farming. Data is used to understand the state of farmland and make optimal decisions on watering, fertilizers, and harvest timing.",
+      "emoji": "🤖",
+      "highlight": "Smart agriculture demonstrations: over 1,000 locations nationwide (Ministry of Agriculture, Forestry and Fisheries) are conducting experiments"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Agricultural DX with Garu-chan!",
+      "background": "forest",
+      "title": "How Will Agricultural Drones Change Agriculture?",
+      "content": "Drones for pesticide spraying complete tasks 10 times faster than traditional methods. Aerial photography allows for early detection of crop diseases and pests. Automated seeding is also possible. The area that one person can manage can increase by more than 10 times! Costs can also be significantly reduced.",
+      "emoji": "🚁",
+      "highlight": "Drone pesticide spraying: 5 hectares/hour (about 10 times faster than traditional manual spraying)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Agricultural DX with Garu-chan!",
+      "background": "ocean",
+      "title": "The Potential of Plant Factories and Vertical Agriculture",
+      "content": "Plant factories use LED and hydroponic cultivation to grow crops indoors, unaffected by weather, pests, or pesticides. This allows for agriculture in urban areas, such as inside buildings! Stable production throughout the year, reduced transportation costs, and food safety are ensured.",
+      "emoji": "🏭",
+      "highlight": "Plant factory lettuce: 100 times more productive than outdoor cultivation. No pesticides used, ensuring safety and security"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Agricultural DX with Garu-chan!",
+      "background": "city",
+      "title": "AI Becomes the 'Mentor' for Agriculture",
+      "content": "AI cameras analyze crop growth daily. The knowledge and experience of skilled farmers are taught to AI, allowing young farmers to make the same judgments as veterans. Traditional agricultural knowledge is preserved digitally for future generations!",
+      "emoji": "🧠",
+      "highlight": "AI-based disease diagnosis: 90% or higher accuracy rate compared to skilled farmers' judgments (National Agricultural Research Organization)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about Agricultural DX with Garu-chan!",
+      "background": "forest",
+      "title": "Agriculture × Business: Young People Return",
+      "content": "The number of young people viewing agriculture as a business, or 'agri-business', is increasing. New businesses are emerging, such as direct sales, branding, 6th industry transformation (processing and sales), and inbound agricultural experiences!",
+      "emoji": "🚀",
+      "highlight": "Agricultural startup funding: rapidly increasing since 2020, with a cumulative total of over 100 billion yen"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about Agricultural DX with Garu-chan!",
+      "background": "classroom",
+      "title": "The Big Theme of Food Security",
+      "content": "Japan's food self-sufficiency rate (calorie-based): 38% (2022). This is the lowest level among developed countries! There is a risk that food supplies may be insufficient in times of crisis. Increasing productivity through Agricultural DX is also a matter of national security.",
+      "emoji": "🌏",
+      "highlight": "Japan's food self-sufficiency rate: 38% (calorie-based), the lowest level among OECD countries"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about Agricultural DX with Garu-chan!",
+      "background": "ocean",
+      "title": "Advanced Cases of Agricultural Technology Overseas",
+      "content": "Netherlands: Despite having a land area comparable to Kyushu, they are the world's second-largest exporter of agricultural products (a leader in greenhouse agriculture). Israel: They export drip irrigation technology worldwide. Japan also has the potential to export technology globally!",
+      "emoji": "🇳🇱",
+      "highlight": "Netherlands' agricultural export value: over 100 billion dollars (world's second-largest, following the United States). A country the size of Kyushu!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Master Agricultural DX! Next Stop: Tourism and Local Revitalization 🎉",
+      "background": "space",
+      "title": "Lesson Completed!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

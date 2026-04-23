@@ -1,0 +1,81 @@
+{
+  "title": "编程修行",
+  "description": "锻炼写代码的能力！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "欢迎来到编程道场！用代码创造魔法！💻",
+      "background": "mountain",
+      "title": "编程道场",
+      "content": "编程是一本给计算机的指令书。从简单的指令开始，逐渐可以创造出复杂的魔法！",
+      "emoji": "💻",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "首先，学习变量。想象给盒子取名！",
+      "background": "dojo",
+      "title": "变量修行",
+      "content": "变量是一个装数据的盒子。你可以给盒子取名并放入喜欢的东西。",
+      "emoji": "📦",
+      "highlight": "例：\nname = \"加尔ちゃん\"\nage = 5\nfavorite = \"竹\""
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "使用循环（loop）可以避免重复做同一件事！",
+      "background": "bamboo",
+      "title": "循环修行",
+      "content": "循环是重复执行同一指令。例：你可以轻松写出重复3次的\"加油！\"。",
+      "emoji": "🔄",
+      "highlight": "例：\nfor i in range(3):\n    print(\"加油！\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "学会条件分支\"如果~就\"，程序就会变得更聪明！",
+      "background": "mountain",
+      "title": "条件分支修行",
+      "content": "如果可以说\"如果是这样就这样，如果不是就那样\"，程序就可以进行选择。",
+      "emoji": "🤔",
+      "highlight": "例：\nif score > 80:\n    print(\"很棒！\")\nelse:\n    print(\"下次加油\")"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "请Codex帮你创建\"猜拳游戏\"！",
+      "background": "dojo",
+      "title": "实战！猜拳游戏",
+      "content": "使用AI Codex创建猜拳游戏的代码。你会得到什么代码？",
+      "emoji": "✊",
+      "highlight": "挑战：\n问问Codex！\n\"用Python创建猜拳游戏\n并附上说明\""
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "编程修行完成！在Slack上展示你的作品 🎉",
+      "background": "temple",
+      "title": "修行完成！",
+      "content": "你已经掌握了变量、循环和条件分支这3种武器。接下来挑战你自己的原创程序！",
+      "emoji": "⚔️",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

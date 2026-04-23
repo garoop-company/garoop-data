@@ -1,0 +1,82 @@
+{
+  "title": "音乐修行",
+  "description": "用Suno创作音乐！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "欢迎来到音乐道场！用AI创作独一无二的曲子 🎵",
+      "background": "bamboo",
+      "title": "欢迎来到音乐道场！",
+      "content": "使用Suno AI，只需用语言就能创作曲子！流行、摇滚、古典…… どんな曲子都可以创作！",
+      "emoji": "🎵",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "想想曲子的「类型」、「心情」、「主题」吧！",
+      "background": "dojo",
+      "title": "构思曲子イメージ",
+      "content": "用语言描述你想创作的曲子。你想表达什么样的心情？你想在什么样的场景中播放？",
+      "emoji": "🎼",
+      "highlight": "例：\n类型 → 轻快的流行曲\n心情  → 令人兴奋！\n主题  → 学校的午休时间"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "为Suno写一个「请求文」吧！",
+      "background": "bamboo",
+      "title": "Prompt修行",
+      "content": "学习如何有效地向AI传达你的想法。越是详细描述，曲子就越接近你的イメージ！",
+      "emoji": "✍️",
+      "highlight": "例Prompt：\n「小学生在远足时播放的轻快流行曲。\n节奏要快。歌词用中文。」"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "现在，打开Suno来实际创作曲子吧！",
+      "background": "mountain",
+      "title": "实战！创作曲子",
+      "content": "打开Suno AI的网站，输入你想好的Prompt。什么样的曲子会被创作出来呢？",
+      "emoji": "🎤",
+      "highlight": "步骤：\n1. 打开suno.com\n2. 输入Prompt\n3. 生成曲子\n4. 听听看！"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "如果不满意，可以稍微修改一下，再创作一次！",
+      "background": "dojo",
+      "title": "完善曲子",
+      "content": "一次不一定要完美！逐渐修改，逐步接近理想的曲子。",
+      "emoji": "🔧",
+      "highlight": "改进小贴士：\n・把节奏从「快」改为「慢」\n・添加类型\n・输入乐器名"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "音乐修行完成！分享你的曲子给大伙儿吧 🎉",
+      "background": "temple",
+      "title": "修行完成！",
+      "content": "独一无二的曲子已经完成了！在Slack上分享你的曲子链接吧！",
+      "emoji": "🎸",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "智慧城市与地方 〜用科技解决课题〜",
+  "description": "和Garu一起愉快地学习智慧城市与地方！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "用科技在智慧城市中解决地方的课题！",
+      "background": "space",
+      "title": "智慧城市与地方 〜用科技解决课题〜",
+      "emoji": "🏙️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习智慧城市与地方！",
+      "background": "city",
+      "title": "什么是智慧城市？",
+      "content": "利用IoT、AI、大数据、5G等技术，优化行政服务、交通、能源、医疗等。不仅在城市，在地方也开始展开「智慧城镇」！",
+      "emoji": "🌐",
+      "highlight": "智慧城市的全球市场规模：预计到2030年将超过1万亿美元（约150万亿日元）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习智慧城市与地方！",
+      "background": "classroom",
+      "title": "用AI优化行政手续",
+      "content": "利用个人编号卡、电子申请、AI窗口——行政手续实现数字化，可以在家中24小时办理。特别是在过疎地，DX可以弥补人员不足的问题。",
+      "emoji": "🤖",
+      "highlight": "在线行政手续：新冠疫情后迅速增加。正在推进证明书获取、税务申报的在线化"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习智慧城市与地方！",
+      "background": "ocean",
+      "title": "用自动驾驶、MaaS解决交通问题",
+      "content": "在过疎地，「交通难民（没有车就无法出行的人）」是一个严重的问题。自动驾驶巴士、需求交通、MaaS（将各种交通方式整合在一个应用程序中）正在各地进行实验，作为解决方案！",
+      "emoji": "🚌",
+      "highlight": "自动驾驶巴士实证实验：在茨城、福井、冲绳等地进行"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习智慧城市与地方！",
+      "background": "forest",
+      "title": "用远程医疗解决地方医疗差距",
+      "content": "在地方，医生不足、医院距离远是一个严重的问题。通过智能手机与医生咨询的「远程医疗」正在普及。利用AI诊断、穿戴式设备进行健康管理，也可以远程进行！",
+      "emoji": "🏥",
+      "highlight": "远程医疗使用者：新冠疫情后迅速增加。减少过疎地医疗访问差距"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习智慧城市与地方！",
+      "background": "space",
+      "title": "5G改变地方农业、产业",
+      "content": "5G（第五代移动通信）不仅在城市，在农村、渔村也正在普及。农业无人机、机械远程操作、工厂自动化——5G × Local 5G正在改变地方产业！",
+      "emoji": "📡",
+      "highlight": "Local 5G：针对工厂、农田、建设现场等专门的5G。可以自行建设"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习智慧城市与地方！",
+      "background": "city",
+      "title": "无人机配送改变地方物流",
+      "content": "在山区、离岛，物流成本高，配送时间长。如果无人机配送实用化，就可以实现当日配送。乐天、JAL集团正在离岛进行无人机配送实证实验！",
+      "emoji": "🚁",
+      "highlight": "无人机配送：在伊豆大岛、五岛列岛等地进行实用化实证实验"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习智慧城市与地方！",
+      "background": "classroom",
+      "title": "AI分析地方课题",
+      "content": "人口预测、行政成本优化、旅游流动分析——AI和大数据正在使地方课题可视化，制定对策。全国的自治体正在推进利用AI的行政服务效率化。",
+      "emoji": "📊",
+      "highlight": "利用AI的自治体：全国急剧增加。在农业、福利、防灾等领域推进利用"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习智慧城市与地方！",
+      "background": "ocean",
+      "title": "在地方可再生能源实现脱碳",
+      "content": "太阳能、风能、生物质能、地热能……地方拥有丰富的可再生能源潜力。通过可再生能源发电实现「能源的本地消费」，同时增加地方收入。",
+      "emoji": "🌱",
+      "highlight": "可再生能源发电量（农村）：有使用太阳能、风能实现100%电力需求的案例"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "智慧城市的地方可能性无限大！最后的课程 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "NotebookLM Slide Mission",
+  "description": "A spy mission to create slides with NotebookLM!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agent, can you hear me? Let's start the mission briefing now! 🕵️",
+      "background": "hq",
+      "title": "Mission Directive!",
+      "content": "Mission: Create a slide using NotebookLM! Choose one theme you'd like to explore and summarize it into a 3-page slide.",
+      "emoji": "📊",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "NotebookLM is the 'ultimate tool for organizing information'!",
+      "background": "spy",
+      "title": "Tool Explanation",
+      "content": "When you input data (text, URL, etc.) into NotebookLM, AI analyzes the content for you.",
+      "emoji": "🔍",
+      "highlight": "How to use NotebookLM:\n1. Open notebooklm.google.com\n2. Create a new notebook\n3. Add materials\n4. Ask AI for help"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Choosing a theme is your first mission!",
+      "background": "hq",
+      "title": "Choose a Theme",
+      "content": "Pick a theme you'd like to introduce in your slide. Anything you're interested in is okay!",
+      "emoji": "🎯",
+      "highlight": "Theme examples:\n・ Secrets of your favorite animal\n・ Wonders of the universe\n・ Global warming\n・ History of your favorite game"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Let's send this prompt to NotebookLM!",
+      "background": "lab",
+      "title": "Operation Execution!",
+      "content": "Open NotebookLM, add materials, and then use the prompt below to create a slide!",
+      "emoji": "💻",
+      "highlight": "Usable prompts:\n「Make a 3-page slide for elementary school students.\n Write a heading and a short explanation for each page.」"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Once you have your slide, let's check the completion conditions!",
+      "background": "spy",
+      "title": "Clear Conditions Check",
+      "content": "To clear the mission, check these three conditions!",
+      "emoji": "✅",
+      "highlight": "Clear conditions:\n□ A 3-page slide plan is complete\n□ Difficult words are rephrased in simpler terms\n□ Your opinion is included at the end"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mission accomplished! Submit a screenshot and get 300 points! 🎯",
+      "background": "hq",
+      "title": "Mission Completion Report",
+      "content": "Great job! Once your slide is complete, submit an image or text to Slack to get your points!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

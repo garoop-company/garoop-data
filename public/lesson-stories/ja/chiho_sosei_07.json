@@ -1,0 +1,132 @@
+{
+  "title": "地域特産品のブランディング〜地方の宝を世界へ〜",
+  "description": "ガルちゃんと楽しく地域特産品のブランディングを学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "地域の特産品を世界ブランドにしよう！",
+      "background": "forest",
+      "title": "地域特産品のブランディング〜地方の宝を世界へ〜",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「地域特産品のブランディング〜地方の宝を世界へ〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと地域特産品のブランディングを学ぼう！",
+      "background": "classroom",
+      "title": "GI（地理的表示）保護制度って？",
+      "content": "「神戸牛」「夕張メロン」「京都丹後ちりめん」など地域特有の産品を守る制度がGI（Geographical Indication）。EU・日本で法律で保護され偽物を排除できます。ブランド価値を高めます！",
+      "emoji": "🛡️",
+      "highlight": "日本のGI登録産品：141品（2024年）。「但馬牛」「壱岐牛」など"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと地域特産品のブランディングを学ぼう！",
+      "background": "space",
+      "title": "日本酒が世界ブランドになった！",
+      "content": "日本酒の輸出額：2022年に過去最高の474億円！フランス・アメリカ・中国に人気。「Sake」は英語でも通用するブランドに。伝統×品質×ストーリーが世界市場を攻略しました。",
+      "emoji": "🍶",
+      "highlight": "日本酒輸出額：10年で3倍以上。米国・香港・中国が主な輸出先"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと地域特産品のブランディングを学ぼう！",
+      "background": "ocean",
+      "title": "和牛が世界で最高値をつける理由",
+      "content": "神戸牛・松阪牛・米沢牛は世界最高峰の牛肉ブランド。1頭1,000万円以上になることも！産地・飼育方法・品質基準の厳格な管理と「ストーリー」がブランド価値を生み出します。",
+      "emoji": "🥩",
+      "highlight": "和牛輸出額：過去最高水準。シンガポール・香港・米国のレストランで高人気"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと地域特産品のブランディングを学ぼう！",
+      "background": "forest",
+      "title": "フルーツ王国・山梨の戦略",
+      "content": "山梨県のシャインマスカット・桃・富士山・ワインは国内外で高ブランド力。産地ブランディングで高価格販売を実現。1房のブドウが数万円で売れることも！",
+      "emoji": "🍇",
+      "highlight": "シャインマスカット：1房2,000円〜1万円以上の高価格帯でも売れる"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと地域特産品のブランディングを学ぼう！",
+      "background": "city",
+      "title": "インバウンド×食で地域が稼ぐ",
+      "content": "訪日外国人の食への関心は非常に高い！本物の「日本食体験」を提供する料理教室・農場体験・酒蔵ツアーが人気。「食」は最も強力な地域ブランドの一つです。",
+      "emoji": "🍱",
+      "highlight": "訪日外国人の消費：「飲食費」が宿泊に次いで2番目に多い費目"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと地域特産品のブランディングを学ぼう！",
+      "background": "classroom",
+      "title": "クラフト・伝統工芸の復活",
+      "content": "漆器・和紙・染め物・陶磁器など日本の伝統工芸品がインバウンドや富裕層に人気。若い職人がSNSで世界へ発信し、海外のコレクターに高値で売れる事例が増えています！",
+      "emoji": "⛏️",
+      "highlight": "和食器・漆器のInstagram人気：外国人フォロワー多数。一点物が数万円〜数十万円"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと地域特産品のブランディングを学ぼう！",
+      "background": "space",
+      "title": "SNSブランディングで地方から世界へ",
+      "content": "「美瑛の丘」「奥入瀬渓流」「五箇山」——SNSで話題になった地方の景勝地に世界中から観光客が！地元の魅力を発信するSNSアカウント一つが地域を変えることがあります。",
+      "emoji": "📱",
+      "highlight": "インスタ投稿がきっかけで観光客が100倍増した地方スポットが多数"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと地域特産品のブランディングを学ぼう！",
+      "background": "ocean",
+      "title": "大企業との連携で地域ブランドを強化",
+      "content": "地方の食材・工芸品が大手百貨店・有名ホテル・高級レストランに採用されると信頼度が一気にUP！産地→加工→流通→消費の連携で付加価値を高める「バリューチェーン構築」が大切。",
+      "emoji": "🏨",
+      "highlight": "星野リゾート：地元食材の積極採用→地域経済への波及効果が大きい"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "地域ブランディングの達人！次は若者と地方創生へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

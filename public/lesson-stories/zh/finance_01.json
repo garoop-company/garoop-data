@@ -1,0 +1,131 @@
+{
+  "title": "什么是钱？——货币入门",
+  "description": "和Garu一起愉快地学习货币的起源和机制！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "欢迎来到货币的世界！让我们一起学习！💰",
+      "background": "city",
+      "title": "什么是钱？",
+      "emoji": "💰",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "古代没有钱！真是厉害呢",
+      "background": "forest",
+      "title": "物物交换时代",
+      "content": "很久以前，人们用物品交换来获得需要的东西。例如，用鱼交换蔬菜，或用布交换工具。这种交换方式叫做'物物交换'。",
+      "emoji": "🐟",
+      "highlight": "🍎＋🐟 → 交换 → 双方都能得到想要的东西"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "钱是一种很方便的工具！",
+      "background": "classroom",
+      "title": "钱为什么会出现",
+      "content": "物物交换有许多问题。想要鱼的人必须和有鱼的人同时出现！因此，货币作为一种'共同价值'被创造出来，大家都可以接受。",
+      "emoji": "🪙",
+      "highlight": "货币的3个功能：①交换 ②价值储存 ③价值尺度"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "最早的钱是贝壳和石头！",
+      "background": "ocean",
+      "title": "货币的历史",
+      "content": "最早的货币是金属硬币（公元前700年左右，吕底亚王国）。之后，中国出现了纸币（10世纪）。在日本，江户时代使用的是両、朱、文等货币。",
+      "emoji": "📜",
+      "highlight": "世界上最古老的硬币：公元前7世纪，吕底亚王国（现土耳其）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "你知道现在有哪些种类的钱吗？",
+      "background": "city",
+      "title": "现代货币的种类",
+      "content": "现代的钱大致分为3种：①现金（硬币和纸币）②银行存款（存在账户里的钱）③电子货币和数字货币。使用手机二维码支付的方式也越来越普遍！",
+      "emoji": "📱",
+      "highlight": "日本的无现金比率：约39%（2023年）→ 全球平均约60%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "世界上有各种各样的货币！日元、美元、欧元……",
+      "background": "space",
+      "title": "世界货币",
+      "content": "每个国家都有自己的货币。日本：日元（¥），美国：美元（$），欧洲：欧元（€），中国：元（¥）。汇率每天都在变化。",
+      "emoji": "🌏",
+      "highlight": "1美元 ≈ 150日元（2024年）※汇率每天都会变"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "货币是靠信用来运转的！",
+      "background": "classroom",
+      "title": "货币的价值",
+      "content": "货币本身并没有价值！大家都相信'这有价值'，所以它才有价值。日本的货币由日本政府和日本银行共同担保。",
+      "emoji": "🤝",
+      "highlight": "信用是货币的本质 → 信用丧失时会发生通货膨胀"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "思考一下！你今天想用钱做什么？",
+      "background": "candy",
+      "title": "思考一下！",
+      "content": "如果你今天有1000日元，你会怎么做？①全部花掉 ②存一半 ③全部存起来 — 你是哪种类型？每个人的用钱方式都不同，但重要的是要有'目标'！",
+      "emoji": "💭",
+      "highlight": "消费・储蓄・投资 — 三者的平衡很重要！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "学习货币知识会改变你的未来！",
+      "background": "city",
+      "title": "金融素养是什么？",
+      "content": "金融素养是指关于货币的知识和判断力。日本被认为是全球金融素养较低的国家。但现在你在这里学习！这就是第一步！",
+      "emoji": "📚",
+      "highlight": "日本的金融素养：全球第33位（S&P Global调查）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "你已经了解了货币的基本知识！接下来我们来学习储蓄吧！🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

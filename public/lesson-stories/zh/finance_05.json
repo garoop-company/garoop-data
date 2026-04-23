@@ -1,0 +1,131 @@
+{
+  "title": "股票市场 〜 购买公司的一部分 〜",
+  "description": "和Garu一起轻松学习股票市场的机制！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "什么是股票？让我们一起探索！📊",
+      "background": "city",
+      "title": "股票市场",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "购买股票是什么意思？",
+      "background": "classroom",
+      "title": "什么是股票",
+      "content": "公司会发行股票来筹集创业资金。当你购买一股股票时，你就成为了该公司的一部分所有者！如果公司发展良好，股票价值也会上升。",
+      "emoji": "🏢",
+      "highlight": "股东 = 公司所有者。还可以获得股息（利润分成）！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "东京证券交易所是什么样的地方？",
+      "background": "city",
+      "title": "证券交易所的机制",
+      "content": "东京证券交易所（TSE）是买卖股票的市场。目前有Prime、Standard和Growth三个市场。世界上有著名的NYSE（纽约）和NASDAQ（纳斯达克）。",
+      "emoji": "🏛️",
+      "highlight": "TSE Prime：约有1800家公司上市。市值超过800万亿日元（2024年）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "为什么股票价格会涨跌？",
+      "background": "space",
+      "title": "股票价格变动的原因",
+      "content": "股票价格由'需求（想买的人）'和'供给（想卖的人）'的平衡决定。公司业绩良好 → 想买的人增加 → 股票价格上涨。新闻、经济指标和国际形势也会产生很大影响。",
+      "emoji": "📉📈",
+      "highlight": "股票价格 = 对该公司的'期望值'"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "日经平均指数和TOPIX是什么？",
+      "background": "ocean",
+      "title": "了解股票指数",
+      "content": "日经平均指数：日本代表性的225家公司的平均股价。TOPIX：东证整体的走势指数。S&P500：美国500家公司的指数。道琼斯：美国30家公司的指数。是经济的'温度计'！",
+      "emoji": "🌡️",
+      "highlight": "日经平均指数：约4万日元（2024年3月创历史新高）→ 泡沫后首次！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "拥有知名公司股票会发生什么？",
+      "background": "classroom",
+      "title": "股东权益",
+      "content": "成为股东后，您将获得①股息（公司利润的一部分）②股东优惠（商品、折扣券等）③表决权（可对公司重大决策进行投票）的权益！丰田的股东还可以享受丰田汽车的折扣！",
+      "emoji": "🎁",
+      "highlight": "股东优惠示例：麦当劳股票 → 免费汉堡券，任天堂 → 游戏折扣"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "教你们股票投资不失败的秘诀！",
+      "background": "forest",
+      "title": "股票投资的基本策略",
+      "content": "① Buy & Hold（买入并长期持有）② 分散投资（持有多个股票）③ 美元成本平均法（每月购买固定金额）。不要试图'读懂'市场时机，而是让时间站在你这边！",
+      "emoji": "🧠",
+      "highlight": "美元成本平均法：价格高时买入少，价格低时买入多 → 平均成本降低"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "试着调查你感兴趣的公司股票！",
+      "background": "candy",
+      "title": "挑战虚拟投资！",
+      "content": "试着调查你喜欢的品牌（Apple、丰田、任天堂等）的股票价格。与一年前的股价比较，你会发现它的波动！可以在股票应用程序或证券公司网站上确认！",
+      "emoji": "🔍",
+      "highlight": "股票价格可以每天在免费应用程序上确认：Yahoo! Finance, SBI证券等"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "未上市股票（IPO）就像彩票一样！",
+      "background": "space",
+      "title": "IPO（首次公开募股）是什么",
+      "content": "IPO（Initial Public Offering）是指公司首次在股票市场上市。热门IPO股票在上市首日可能会几倍！但也可能会失败。需要抽签，竞争率很高。",
+      "emoji": "🚀",
+      "highlight": "知名IPO示例：LINE（2016年）、Mercari（2018年）、Rare Job → 上市首日价格2-5倍"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "股票市场的机制已经清楚了！接下来是复利的魔法！🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

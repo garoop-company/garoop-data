@@ -1,0 +1,69 @@
+{
+  "title": "VS Code Installation Mission",
+  "description": "Mission to set up your development environment!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agent! Your mission is to 'Build a Development Base'! 🏗️",
+      "background": "hq",
+      "title": "Mission Briefing: Base Construction",
+      "content": "Task: Install VS Code and create your first file! This is where programmers live!",
+      "emoji": "🖥️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "VS Code is like a 'home for code'! It's used by programmers all around the world!",
+      "background": "spy",
+      "title": "What is VS Code?",
+      "content": "VS Code is the best 'editor' for writing code. It's easy to use with features like color coding and auto-completion!",
+      "emoji": "🏠",
+      "highlight": "VS Code Features:\n・Free to use\n・Loved by engineers worldwide\n・Color-coded for easy reading\n・Extensible with additional features"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's install it with a grown-up's help!",
+      "background": "lab",
+      "title": "Installation Plan",
+      "content": "Download and install VS Code from the official website. If you're stuck, ask an adult for help!",
+      "emoji": "⬇️",
+      "highlight": "Steps:\n1. Open code.visualstudio.com\n2. Click the 'Download' button\n3. Run the installer\n4. Launch VS Code!"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Now, let's create your first file!",
+      "background": "spy",
+      "title": "File Creation Plan",
+      "content": "Open VS Code, create a folder called 'my-first-app', and inside it, create a file called 'memo.txt'!",
+      "emoji": "📁",
+      "highlight": "Challenge:\n① Folder name: my-first-app\n② File name: memo.txt\n③ Write and save 3 lines of your choice"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mission accomplished! Take a screenshot and submit it to get 260 points! 🎯",
+      "background": "hq",
+      "title": "Mission Complete!",
+      "content": "Your programmer's base is complete! Take a screenshot of your VS Code and submit it on Slack!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

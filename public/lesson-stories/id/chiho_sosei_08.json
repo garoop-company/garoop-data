@@ -1,0 +1,131 @@
+{
+  "title": "Pemuda Mengubah Masyarakat Lokal ~ Tantangan Pemimpin Generasi Muda ~",
+  "description": "Mari kita pelajari tentang masyarakat lokal yang diubah oleh pemuda dengan Garu-chan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Pemuda sedang mengubah masyarakat lokal! Mari kita pelajari tentang tantangan mereka yang penuh semangat!",
+      "background": "city",
+      "title": "Pemuda Mengubah Masyarakat Lokal ~ Tantangan Pemimpin Generasi Muda ~",
+      "emoji": "👦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang masyarakat lokal yang diubah oleh pemuda dengan Garu-chan!",
+      "background": "forest",
+      "title": "Mengapa Pemuda Memilih Masyarakat Lokal",
+      "content": "Setelah COVID-19, minat untuk pindah ke dan bekerja di daerah lokal di kalangan orang berusia 20-30 tahun meningkat drastis! Latar belakangnya termasuk perubahan nilai, seperti 'ingin hidup di alam,' 'ingin bekerja dengan cara yang sesuai dengan diri sendiri,' dan 'ingin berkontribusi pada masyarakat.'",
+      "emoji": "🌱",
+      "highlight": "Jumlah orang yang ingin pindah ke daerah lokal (20-30 tahun): Lebih dari dua kali lipat sebelum COVID-19"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang masyarakat lokal yang diubah oleh pemuda dengan Garu-chan!",
+      "background": "classroom",
+      "title": "Pemuda dalam Kerja Sama Pembangunan Daerah",
+      "content": "Rata-rata usia lebih dari 6.000 anggota kerja sama pembangunan daerah di seluruh negeri adalah 35 tahun atau lebih muda! Mereka aktif dalam bidang yang beragam seperti pertanian, IT, pariwisata, pendidikan, dan kesejahteraan. Sekitar 60% dari mereka tinggal di daerah dan memulai bisnis sendiri setelah menyelesaikan masa jabatan 3 tahun!",
+      "emoji": "🤝",
+      "highlight": "Tingkat penyelesaian anggota kerja sama pembangunan daerah: Sekitar 60% menetap di daerah yang sama atau sekitarnya setelah masa jabatan berakhir"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang masyarakat lokal yang diubah oleh pemuda dengan Garu-chan!",
+      "background": "space",
+      "title": "Wirausaha Lokal yang Dimulai oleh Pemuda",
+      "content": "Seorang wanita berusia 20-an yang mengambil alih bengkel pencelupan di Kyoto's Danjo wilayah berhasil mengubahnya menjadi merek. Seorang pria berusia 30-an yang membuka kantor satelit dan penginapan tradisional Jepang di daerah terpencil Prefektur Kochi. Tantangan seperti ini oleh pemuda membawa vitalitas kembali ke masyarakat lokal!",
+      "emoji": "🚀",
+      "highlight": "Contoh wirausaha lokal yang sukses: Banyak didirikan oleh orang berusia 20-30 tahun yang pindah ke atau kembali ke daerah"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang masyarakat lokal yang diubah oleh pemuda dengan Garu-chan!",
+      "background": "ocean",
+      "title": "Mahasiswa × Lokal 'Pembangunan Daerah'",
+      "content": "Jumlah mahasiswa yang berpartisipasi dalam proyek daerah meningkat pesat. Magang pertanian, kerja lapangan, dan seminar tentang memecahkan masalah daerah - perspektif segar mahasiswa membawa ide-ide baru ke masyarakat lokal!",
+      "emoji": "🎓",
+      "highlight": "Magang mahasiswa di pedesaan: Pengalaman pertanian dan pembelajaran memecahkan masalah daerah dilaksanakan di seluruh negeri"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang masyarakat lokal yang diubah oleh pemuda dengan Garu-chan!",
+      "background": "forest",
+      "title": "Siswa SMA Mengubah Masyarakat Lokal",
+      "content": "Siswa SMA lokal mengembangkan produk menggunakan spesialisasi daerah, mengoperasikan toko, dan memposting di SNS - 'bisnis siswa SMA' menarik perhatian. Contoh siswa SMA yang berkontribusi pada masyarakat dengan ide dan tindakan yang setara dengan orang dewasa tersebar di seluruh negeri!",
+      "emoji": "📚",
+      "highlight": "Kontes bisnis siswa SMA: Diadakan di seluruh negeri, dengan beberapa mengarah ke komersialisasi dan kewirausahaan"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang masyarakat lokal yang diubah oleh pemuda dengan Garu-chan!",
+      "background": "city",
+      "title": "Pilihan untuk Kembali atau Pindah ke Masyarakat Lokal",
+      "content": "Jumlah pemuda yang memilih untuk kembali ke kampung halaman (U-turn) atau pindah ke daerah lokal baru (I-turn) meningkat. Mereka menggunakan karier urban mereka untuk memulai bisnis, berganti pekerjaan, atau bekerja di bidang pertanian di daerah lokal. Ide bahwa 'masyarakat lokal adalah pilihan' tersebar.",
+      "emoji": "🏠",
+      "highlight": "Profesi migran I-turn: Bidang IT, desain, dan kreatif adalah yang paling umum"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari tentang masyarakat lokal yang diubah oleh pemuda dengan Garu-chan!",
+      "background": "classroom",
+      "title": "Sistem Dukungan untuk Wirausaha Pemuda di Masyarakat Lokal",
+      "content": "① Anggota kerja sama pembangunan daerah ② Program wirausaha lokal ③ Subsidi startup dari prefektur dan kota ④ Rumah kosong yang disediakan untuk pemuda ⑤ Sistem mentor (dukungan dari wirausaha senior) - Lingkungan untuk memulai bisnis di daerah lokal disiapkan!",
+      "emoji": "💡",
+      "highlight": "Dukungan wirausaha lokal: Menyediakan dukungan untuk penciptaan bisnis dan pendanaan"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang masyarakat lokal yang diubah oleh pemuda dengan Garu-chan!",
+      "background": "ocean",
+      "title": "Olahraga dan Aktivitas Klub Menghubungkan Masyarakat Lokal",
+      "content": "Tim olahraga lokal, baseball, dan klub sepak bola menjadi kebanggaan lokal. Klub-klub Liga J di daerah menjadi pusat komunitas (contohnya, Matsumoto Yamaga FC, Montedio Yamagata).",
+      "emoji": "⚽",
+      "highlight": "Matsumoto Yamaga FC: Berkontribusi pada ekonomi dan pariwisata Matsumoto sambil bersaing di J1"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Masyarakat lokal bersinar dengan kekuatan pemuda! Tujuan berikutnya: Kota Cerdas 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

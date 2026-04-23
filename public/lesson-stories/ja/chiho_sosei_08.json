@@ -1,0 +1,132 @@
+{
+  "title": "若者が変える地方〜次世代リーダーの挑戦〜",
+  "description": "ガルちゃんと楽しく若者が変える地方を学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "若者が地方を変えている！その熱い挑戦を学ぼう！",
+      "background": "city",
+      "title": "若者が変える地方〜次世代リーダーの挑戦〜",
+      "emoji": "👦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「若者が変える地方〜次世代リーダーの挑戦〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと若者が変える地方を学ぼう！",
+      "background": "forest",
+      "title": "若者が地方を選ぶ理由",
+      "content": "コロナ以降、20〜30代の地方移住・地方就職への関心が急上昇！「自然の中で暮らしたい」「自分らしく働きたい」「地域に貢献したい」という価値観の変化が背景にあります。",
+      "emoji": "🌱",
+      "highlight": "地方移住希望者（20〜30代）：コロナ前の2倍以上に増加"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと若者が変える地方を学ぼう！",
+      "background": "classroom",
+      "title": "地域おこし協力隊の若者たち",
+      "content": "全国6,000人超の地域おこし協力隊の平均年齢は35歳以下！農業・IT・観光・教育・福祉など多様な分野で活躍。3年の任期終了後も地域に残って起業する人が約6割！",
+      "emoji": "🤝",
+      "highlight": "地域おこし協力隊の定着率：任期終了後の約6割が同じ地域・近隣に定住"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと若者が変える地方を学ぼう！",
+      "background": "space",
+      "title": "若者が起こしたローカルベンチャー",
+      "content": "京都・丹後の染め物工房を継いだ20代女性がブランド化に成功。高知県の過疎集落でサテライトオフィス×古民家宿を開業した30代男性。こうした若者の挑戦が地方に活気を戻しています！",
+      "emoji": "🚀",
+      "highlight": "ローカルベンチャー成功例：多くが20〜30代の移住者・Uターン者が創業"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと若者が変える地方を学ぼう！",
+      "background": "ocean",
+      "title": "学生×地域の「地域おこし」",
+      "content": "全国の大学生が地域プロジェクトに参加するケースが急増。農業インターン・フィールドワーク・地域課題解決ゼミ——学生のフレッシュな視点が地域に新しいアイデアをもたらします！",
+      "emoji": "🎓",
+      "highlight": "大学生の農村インターン：農業体験・地域課題解決型学習が全国で実施"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと若者が変える地方を学ぼう！",
+      "background": "forest",
+      "title": "高校生が地域を変えるプロジェクト",
+      "content": "地元高校生が地域の特産品を使った商品開発・店舗運営・SNS発信を行う「高校生ビジネス」が注目。大人顔負けのアイデアと行動力で地域に貢献する事例が全国に！",
+      "emoji": "📚",
+      "highlight": "高校生ビジネスコンテスト：全国各地で開催。商品化・起業につながる事例も"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと若者が変える地方を学ぼう！",
+      "background": "city",
+      "title": "Uターン・Iターンという選択",
+      "content": "Uターン（地元に帰る）・Iターン（縁もゆかりもない地方へ移住）を選ぶ若者が増加中。都市でのキャリアを活かしながら地方で起業・転職・農業。「地方は選択肢」という考え方が広がっています。",
+      "emoji": "🏠",
+      "highlight": "Iターン移住者の職業：IT・デザイン・クリエイティブ系が最多"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと若者が変える地方を学ぼう！",
+      "background": "classroom",
+      "title": "若者の地方起業を支援する仕組み",
+      "content": "①地域おこし協力隊②ローカルベンチャープログラム③県・市の起業補助金④若者向け空き家提供⑤メンター制度（先輩起業家がサポート）——地方起業の環境が整備されています！",
+      "emoji": "💡",
+      "highlight": "ローカルベンチャー支援：事業化までの伴走支援・資金調達サポートを提供"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと若者が変える地方を学ぼう！",
+      "background": "ocean",
+      "title": "部活動・スポーツが地域をつなぐ",
+      "content": "地方のスポーツチーム・野球・サッカークラブが地域の誇りに。Jリーグの地方クラブがコミュニティの核になる事例（松本山雅FC・モンテディオ山形など）が増えています。",
+      "emoji": "⚽",
+      "highlight": "松本山雅FC：J1でも戦いながら松本の経済・観光を活性化"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "若者の力で地方が輝く！次はスマートシティへ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

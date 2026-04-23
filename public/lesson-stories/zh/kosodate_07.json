@@ -1,0 +1,131 @@
+{
+  "title": "全球时代的育儿方式 - 培养多样性",
+  "description": "和Garu一起愉快地学习全球时代的育儿方式！",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "让我们学习如何培养适应多元化时代的孩子！",
+      "background": "ocean",
+      "title": "全球时代的育儿方式 - 培养多样性",
+      "emoji": "🌍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习全球时代的育儿方式！",
+      "background": "classroom",
+      "title": "全球时代所需的技能",
+      "content": "未来孩子们生活的世界将充满来自不同文化和价值观的人们。①英语能力②跨文化理解③尊重多样性④批判性思维⑤沟通能力 - 这些是21世纪的技能！",
+      "emoji": "🌐",
+      "highlight": "21世纪技能（经OECD定义）：批判性思维 - 沟通 - 协作 - 创造力"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习全球时代的育儿方式！",
+      "background": "forest",
+      "title": "双语教育的真相",
+      "content": "如果孩子在3岁前接触第二语言，他们可以像母语一样掌握。创造一个让孩子们可以'玩耍'和'享受'英语的环境，而不是'教授'英语。说英语的外国朋友，英语歌曲和动画是最佳工具！",
+      "emoji": "🗣️",
+      "highlight": "双语脑：大脑前额叶发育 → 提高专注力，解决问题能力和预防痴呆症"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习全球时代的育儿方式！",
+      "background": "space",
+      "title": "异文化体验改变孩子",
+      "content": "体验外国的饮食，音乐和游戏可以拓宽孩子们的世界观。寄宿家庭，国际交流活动和外国语言的动画 - 有多样化视野的孩子往往具有更高的解决问题的能力和创造力！",
+      "emoji": "✈️",
+      "highlight": "海外经验（即使是短期的）：对同理心，适应性和身份认同有重大影响"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习全球时代的育儿方式！",
+      "background": "ocean",
+      "title": "通过SDGs教育培养全球公民",
+      "content": "了解世界贫困，环境和平等问题，可以让孩子们思考自己能做什么。通过SDGs，培养孩子们的全球视野，社会问题意识和行动力！",
+      "emoji": "🌱",
+      "highlight": "SDGs教育：在日本学校中逐渐普及。培养下一代解决问题的人"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习全球时代的育儿方式！",
+      "background": "forest",
+      "title": "多样性和融合教育",
+      "content": "残疾儿童，外国儿童，LGBTQ+儿童 - 让不同背景的孩子一起学习的融合教育正在成为全球标准。从小培养孩子不怕不同，乐于学习多样性的态度非常重要。",
+      "emoji": "🌈",
+      "highlight": "融合教育：无论是否有残疾，都在同一地点学习 → 对理解多样性最有效"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习全球时代的育儿方式！",
+      "background": "city",
+      "title": "阅读拓展全球视野",
+      "content": "描述世界孩子们生活方式的书籍，翻译绘本和外国文学 - 阅读可以间接体验不同的文化，价值观和人生。安妮日记，狮子与女巫，哈利波特是连接世界的故事。",
+      "emoji": "📖",
+      "highlight": "阅读量与同理心：孩子们阅读量越大，理解他人情感的能力越高"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习全球时代的育儿方式！",
+      "background": "classroom",
+      "title": "自然与环境教育培养环保意识",
+      "content": "森林浴，海边清洁和生物观察 - 自然体验可以培养孩子们对环境的关注和责任感。让孩子们了解环境问题（气候变化，海洋塑料垃圾）并思考自己能做什么！",
+      "emoji": "🌿",
+      "highlight": "有环境教育经验的孩子：对长大后的环保行为和投票行为有明显影响"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习全球时代的育儿方式！",
+      "background": "ocean",
+      "title": "父母自身具备全球意识",
+      "content": "父母的价值观对孩子的国际化性格有很大影响。即使不能说英语，也要'对差异感兴趣'，'享受旅行'和'欢迎外国朋友' - 父母的态度会传递给孩子对世界的求知欲！",
+      "emoji": "💕",
+      "highlight": "父母的国际经验：与孩子的多元文化接受度和外语学习积极性呈正相关"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "学习了全球育儿方式！接下来是育儿的未来 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

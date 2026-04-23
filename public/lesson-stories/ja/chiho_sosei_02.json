@@ -1,0 +1,132 @@
+{
+  "title": "人口減少問題〜縮む日本を知ろう〜",
+  "description": "日本の人口減少の実態と対策をガルちゃんと学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "人口減少は日本最大の課題！一緒に考えよう📊",
+      "background": "city",
+      "title": "人口減少問題〜縮む日本を知ろう〜",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「人口減少問題〜縮む日本を知ろう〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと人口減少問題を学ぼう！",
+      "background": "classroom",
+      "title": "日本の人口ピークはいつ？",
+      "content": "日本の人口は2008年の約1億2,800万人をピークに減少中。2050年には約1億人、2100年には約6,000万人になると予測されています。これは明治初期の水準まで戻ることを意味します！",
+      "emoji": "📉",
+      "highlight": "2008年がピーク→2023年：約1億2,400万→2100年：約6,000万の予測"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと人口減少問題を学ぼう！",
+      "background": "forest",
+      "title": "少子化の原因は何？",
+      "content": "少子化の原因：①晩婚化・非婚化の進展②育児コストの高騰③保育所不足④女性の社会進出と仕事と育児の両立困難⑤若者の経済的不安定。複数の問題が絡み合っています。",
+      "emoji": "👶",
+      "highlight": "合計特殊出生率2.07以上で人口維持。日本：1.20（2023年、過去最低）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと人口減少問題を学ぼう！",
+      "background": "space",
+      "title": "高齢化社会ってどういうこと？",
+      "content": "65歳以上の人口が総人口の21%超の社会を「超高齢社会」と言います。日本は世界最高水準の29%（2023年）。医療・介護費増大・年金財政悪化・労働力不足が深刻な問題に。",
+      "emoji": "👴",
+      "highlight": "日本は世界で最も高齢化が進んだ国。65歳以上：約3,600万人（2023年）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと人口減少問題を学ぼう！",
+      "background": "ocean",
+      "title": "外国人労働者・移民はどう？",
+      "content": "労働力不足を補うため外国人労働者が増加。日本の外国人数は約340万人（2023年過去最多）。技能実習制度改革・特定技能ビザ拡大。多文化共生社会をどう作るかが重要課題です。",
+      "emoji": "🌏",
+      "highlight": "在留外国人：340万人超（2023年）。最多はベトナム・中国・フィリピン"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと人口減少問題を学ぼう！",
+      "background": "city",
+      "title": "人口減少でどんな問題が起きる？",
+      "content": "①労働力不足→経済縮小②税収減少→公共サービス低下③空き家急増→まちの荒廃④学校・病院の閉鎖⑤インフラ維持困難。でも逆転の発想で「チャンス」に変えることもできます！",
+      "emoji": "🏚️",
+      "highlight": "空き家数：約900万戸（2023年、過去最多）。全住宅の約14%が空き家"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと人口減少問題を学ぼう！",
+      "background": "forest",
+      "title": "コンパクトシティという解決策",
+      "content": "人口が減るなら「集める」という発想。富山市は全国初のコンパクトシティ政策を成功させ、公共交通沿線に居住・商業施設を集中。移動しやすく・サービスが維持できる街づくり！",
+      "emoji": "🏙️",
+      "highlight": "富山市：路面電車の新設→中心市街地の居住人口が2倍に！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと人口減少問題を学ぼう！",
+      "background": "candy",
+      "title": "少子化対策はどんなものがある？",
+      "content": "①児童手当・保育無償化②育休の充実③子育て支援拠点の整備④住宅支援⑤地方での子育てしやすい環境整備。岸田政権の「異次元の少子化対策」で年3.5兆円を投入！",
+      "emoji": "💰",
+      "highlight": "異次元の少子化対策：2024年〜3.6兆円/年を子育て支援に投入予定"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと人口減少問題を学ぼう！",
+      "background": "classroom",
+      "title": "AIとロボットが労働力不足を解決？",
+      "content": "工場の自動化・配送ロボット・介護ロボット・農業ドローンなどがAIとロボットで労働力不足をカバー。将来的にはAIが事務仕事の大半を担うことも。人間の仕事が変わっていきます！",
+      "emoji": "🤖",
+      "highlight": "農業ロボット市場：2030年に全世界で1.5兆円超に成長予測"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "人口問題の全体像が見えたね！次は農業DX🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

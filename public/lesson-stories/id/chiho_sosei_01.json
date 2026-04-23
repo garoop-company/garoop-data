@@ -1,0 +1,131 @@
+{
+  "title": "Apa itu Revitalisasi Daerah? 〜Mari Kita Hidupkan Kembali Daerah di Jepang〜",
+  "description": "Mari kita pelajari tentang 'Revitalisasi Daerah' yang menggunakan keunikan setiap daerah di Jepang untuk mengaktifkan kembali komunitas lokal!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita temukan keunikan daerah bersama! 🏡",
+      "background": "forest",
+      "title": "Apa itu Revitalisasi Daerah?",
+      "emoji": "🏡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mengapa Revitalisasi Daerah diperlukan?",
+      "background": "classroom",
+      "title": "Tantangan yang Dihadapi Daerah",
+      "content": "Sekitar 30% populasi Jepang (sekitar 38 juta orang) terkonsentrasi di wilayah metropolitan Tokyo. Di daerah pedesaan, penurunan populasi, penuaan, dan kemerosotan industri sedang berlangsung. Jika hal ini terus berlanjut, banyak pemerintah daerah yang akan menghadapi 'risiko kepunahan' pada tahun 2050.",
+      "emoji": "📉",
+      "highlight": "Wilayah metropolitan Tokyo (Tokyo, Kanagawa, Saitama, Chiba): 28% dari total populasi Jepang terkonsentrasi"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Kebijakan Revitalisasi Daerah dimulai pada tahun 2014!",
+      "background": "city",
+      "title": "Apa itu Revitalisasi Daerah?",
+      "content": "Kebijakan nasional 'Menciptakan Masyarakat Baru: Kota, Orang, dan Pekerjaan' dimulai pada tahun 2014. Tiga pilar utama adalah: ① menciptakan pekerjaan, ② menarik orang, dan ③ mengaktifkan kota. Lebih dari 1 triliun yen dialokasikan setiap tahun.",
+      "emoji": "🏛️",
+      "highlight": "Anggaran Revitalisasi Daerah: sekitar 1 triliun yen/tahun. Tujuan adalah mempertahankan populasi 100 juta pada tahun 2060"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Daerah memiliki harta karun yang tidak dimiliki Tokyo!",
+      "background": "forest",
+      "title": "Kekuatan dan Keunikan Daerah",
+      "content": "Daerah memiliki sumber daya alam yang kaya, budaya tradisional, produk lokal, ruang yang luas, dan ikatan komunitas yang tidak dimiliki kota. Sejak COVID, ada peningkatan orang yang ingin pindah ke daerah pedesaan! Terutama kaum muda menjadi lebih tertarik dengan daerah.",
+      "emoji": "🌾",
+      "highlight": "Orang yang ingin pindah ke daerah pedesaan (20-30an): mencatat rekor tertinggi setelah COVID (survei Kementerian Lahan, Infrastruktur, Transportasi, dan Pariwisata)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita lihat contoh Revitalisasi Daerah yang sukses!",
+      "background": "ocean",
+      "title": "Kasus Revitalisasi Daerah yang Sukses",
+      "content": "Desa Nishiawakura, Prefektur Okayama: menghidupkan kembali kehutanan dengan proyek 'hutan 100 tahun', meningkatkan populasi migran. Kota Kamiyama, Prefektur Tokushima: menarik banyak migran dengan menginduksi kantor satelit IT. Prefektur Toyama: mencapai kota yang kompak dengan mengembangkan jaringan trem.",
+      "emoji": "✅",
+      "highlight": "Kota Kamiyama (populasi 5.000): 12 perusahaan IT mengatur kantor satelit → migran melebihi out-migrasi"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Teknologi menyelamatkan daerah!",
+      "background": "space",
+      "title": "Teknologi dan Revitalisasi Daerah",
+      "content": "5G, AI, drone, dan IoT sedang memecahkan masalah daerah. Drone pertanian meningkatkan efisiensi penyemprotan pestisida sebanyak 5 kali. Perawatan medis jarak jauh mengkompensasi kekurangan medis di daerah pedesaan. Dengan penyebaran kerja jarak jauh, migrasi dari kota ke daerah meningkat!",
+      "emoji": "📡",
+      "highlight": "Penyemprotan pestisida drone: mengurangi waktu kerja menjadi 1/10 dibandingkan dengan penyemprotan tradisional"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Apakah Anda tahu tentang 'populasi terkait'?",
+      "background": "forest",
+      "title": "Konsep Baru Populasi Terkait",
+      "content": "Bukan 'populasi penduduk' maupun 'wisatawan', tapi 'populasi terkait' yang terus-menerus terlibat dengan daerah sedang menarik perhatian. Mengunjungi beberapa kali setahun, melakukan donasi pajak kampung halaman, atau memposting informasi di SNS adalah berbagai bentuk keterlibatan daerah.",
+      "emoji": "🤝",
+      "highlight": "Populasi terkait: lebih dari 10 juta orang (2022, survei Kementerian Dalam Negeri dan Komunikasi). Memperbarui rekor tertinggi"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Coba pikirkan keunikan kampung halaman atau daerah favorit Anda!",
+      "background": "candy",
+      "title": "Temukan Keunikan Daerah!",
+      "content": "Sebutkan 3 keunikan daerah yang Anda kenal (kampung halaman, tujuan wisata, dll.)! Makanan, alam, budaya, orang, produk lokal... apa saja boleh. Jika Anda berpikir tentang bagaimana menyampaikan keunikan tersebut secara nasional, itu adalah langkah pertama Revitalisasi Daerah!",
+      "emoji": "💭",
+      "highlight": "Mengenalkan produk lokal daerah di SNS adalah kegiatan 'populasi terkait' yang baik!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Kaum muda memiliki kekuatan untuk mengubah daerah!",
+      "background": "city",
+      "title": "Kaum Muda dan Revitalisasi Daerah",
+      "content": "Daerah membutuhkan ide dan tindakan kaum muda. Peluang kaum muda untuk aktif di daerah meningkat, seperti Tim Kerja Sama Revitalisasi Daerah, usaha lokal, renovasi rumah kosong, dan startup pertanian.",
+      "emoji": "👦",
+      "highlight": "Tim Kerja Sama Revitalisasi Daerah: 2008 89 orang → 2022 sekitar 6.500 orang! Sistem yang memungkinkan Anda pindah ke daerah dengan gaji"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Selesai pengenalan Revitalisasi Daerah! Selanjutnya, mari kita pelajari tentang penurunan populasi 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

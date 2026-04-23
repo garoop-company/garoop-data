@@ -1,0 +1,132 @@
+{
+  "title": "みんなで作る地域の未来〜地方創生の総まとめ〜",
+  "description": "ガルちゃんと楽しくみんなで作る地域の未来を学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "地方創生の全てを学んだ！一緒に未来を描こう！",
+      "background": "forest",
+      "title": "みんなで作る地域の未来〜地方創生の総まとめ〜",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「みんなで作る地域の未来〜地方創生の総まとめ〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとみんなで作る地域の未来を学ぼう！",
+      "background": "classroom",
+      "title": "地方創生の10のキーワード",
+      "content": "①関係人口②スマート農業③移住促進④地域ブランディング⑤若者起業⑥スマートシティ⑦観光振興⑧脱炭素⑨地域おこし協力隊⑩コミュニティ——これらが絡み合って地域が元気になります！",
+      "emoji": "🗝️",
+      "highlight": "地方創生のキーワードを10個言えるようになったあなたはもう地方創生の専門家！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとみんなで作る地域の未来を学ぼう！",
+      "background": "ocean",
+      "title": "成功している地域の共通点",
+      "content": "①トップ（首長・リーダー）のビジョン②地域住民の参加③よそ者（移住者）の活用④一点突破（強みに集中）⑤失敗を恐れない挑戦文化——どれか一つ欠けても難しい。バランスが大切！",
+      "emoji": "✅",
+      "highlight": "地方創生成功地域の共通点：挑戦を推奨するリーダーと住民の主体的参加"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとみんなで作る地域の未来を学ぼう！",
+      "background": "space",
+      "title": "2050年の地方はどうなっている？",
+      "content": "テクノロジーが成熟した2050年、地方はより魅力的になるかもしれません。自動運転で交通問題解決・遠隔医療で医療格差解消・AIで農業効率化——「地方の不便さ」が技術で消える未来が来ます！",
+      "emoji": "🔮",
+      "highlight": "2050年の日本：AIとロボットが多くの仕事をサポート。人間は創造性・感情・つながりに集中"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとみんなで作る地域の未来を学ぼう！",
+      "background": "forest",
+      "title": "あなたも地方創生の担い手",
+      "content": "地方創生は専門家だけの仕事じゃない！ふるさと納税・SNSで地方情報を発信・地方産品を買う・地方に旅行する——あなたの行動一つ一つが地域を支えています。今日から始められます！",
+      "emoji": "💪",
+      "highlight": "ふるさと納税年間総額：1兆円超（2023年）。一人ひとりの応援が積み重なる"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとみんなで作る地域の未来を学ぼう！",
+      "background": "city",
+      "title": "地方から日本全体が元気になる",
+      "content": "東京一極集中から脱却し、各地域が個性を活かして輝く「多極分散型」の社会へ。地方が元気になれば日本全体が元気になります。あなたが未来の地域リーダーになれる！",
+      "emoji": "🌏",
+      "highlight": "「地方の時代」：多様な地域が個性を競い合う「地域版ガラパゴス進化」が日本の強みに"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとみんなで作る地域の未来を学ぼう！",
+      "background": "classroom",
+      "title": "地方創生×SDGs",
+      "content": "SDGs（持続可能な開発目標）の多くが地方創生と直結。①貧困解消②食料安全保障③健康④教育⑤エネルギー⑥産業⑦まちづくり⑧気候変動——地方創生は地球全体のゴールにつながっています。",
+      "emoji": "🌱",
+      "highlight": "SDGs17目標の多くが地方で実践されている。地方がSDGsの実験場！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとみんなで作る地域の未来を学ぼう！",
+      "background": "forest",
+      "title": "地方から世界へ——グローカル思考",
+      "content": "「グローカル（グローバル＋ローカル）」——地域に根ざしながら世界を見渡す視野を持つことが大切。地方の特産品・文化・技術が世界市場で勝負できる時代が来ています！",
+      "emoji": "🌍",
+      "highlight": "「考えはグローバルに、行動はローカルに（Think Global, Act Local）」"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとみんなで作る地域の未来を学ぼう！",
+      "background": "ocean",
+      "title": "地方創生のために今日できること",
+      "content": "①地元の特産品を食べる②SNSで地方の情報を友達に広める③ふるさと納税を調べる④地域イベントに参加する⑤地元の高齢者から話を聞く——小さな行動が地域を動かします！",
+      "emoji": "🏡",
+      "highlight": "地方創生は難しくない！できることから始めよう。あなたが未来の地域の主役！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "地方創生シリーズ完全制覇！地域の未来を変えよう！🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "The Magic of Compound Interest - The 8th Wonder of the World",
+  "description": "Let's learn about the power of compound interest, which Einstein called 'The 8th Wonder of the World'!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Compound interest is like magic! Let's experience it together ✨",
+      "background": "space",
+      "title": "The Magic of Compound Interest",
+      "emoji": "✨",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "What's the difference between simple interest and compound interest?",
+      "background": "classroom",
+      "title": "Simple Interest vs Compound Interest",
+      "content": "Simple Interest: Interest only on the principal. Compound Interest: Interest on both the principal and the interest! Example: $1,000,000 at 10% interest for 10 years. Simple Interest → $2,000,000. Compound Interest → approximately $2,590,000! A difference of $590,000.",
+      "emoji": "🌱",
+      "highlight": "Simple Interest: $1,000,000 x 10% x 10 years = $2,000,000 | Compound Interest: $1,000,000 x (1.1)^10 = approximately $2,590,000"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Do you know the Rule of 72?",
+      "background": "city",
+      "title": "The Rule of 72",
+      "content": "The number of years for your money to double = 72 ÷ annual interest rate! At 6% interest, it takes 12 years to double. At 12% interest, it takes 6 years to double. Conversely, if the inflation rate is 3%, then in 24 years, the value of your money will be halved!",
+      "emoji": "🔢",
+      "highlight": "The Rule of 72: 3% interest → 24 years to double | 6% interest → 12 years to double | 12% interest → 6 years to double"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "The earlier you start, the more advantageous it is!",
+      "background": "forest",
+      "title": "The Earlier You Start, The Better",
+      "content": "Person A: starts saving $10,000 per year at age 20 (7% interest) → at age 60, approximately $26,000,000. Person B: starts saving $20,000 per year at age 30 (7% interest) → at age 60, approximately $24,000,000. With half the investment, Person A has more! Time is your greatest ally!",
+      "emoji": "👶",
+      "highlight": "Starting at 20 (saving $10,000/month) vs starting at 30 (saving $20,000/month) → starting at 20 is $200,000 more!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "If you double a 1-yen coin every day, how much will it be after 30 days?",
+      "background": "space",
+      "title": "Exponential Growth",
+      "content": "If you double 1 yen every day → after 30 days, it's approximately $10,000,000! Compound interest leads to 'exponential growth' - it's slow at first, but accelerates rapidly.",
+      "emoji": "🚀",
+      "highlight": "1 yen x 2^30 = 1,073,741,824 yen (approximately $10,000,000!)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "The enemies of compound interest are fees and time!",
+      "background": "ocean",
+      "title": "Maximizing Compound Interest",
+      "content": "Tips to maximize compound interest: ① Start early ② Keep fees low ③ Use tax-advantaged accounts (e.g. NISA) ④ Don't withdraw. The 4 keys are time, low costs, tax advantages, and consistency!",
+      "emoji": "🔑",
+      "highlight": "A 1% difference in fees can lead to hundreds of thousands of dollars in difference after 30 years → low-cost index funds are advantageous"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Warren Buffett's secret is compound interest!",
+      "background": "city",
+      "title": "Buffett and Compound Interest",
+      "content": "The 'Oracle of Omaha' Warren Buffett earned over 99% of his wealth after age 60! He achieved this by compounding his wealth at approximately 20% interest per year for 65 years. With compound interest and time, anyone can build wealth!",
+      "emoji": "👴",
+      "highlight": "Buffett's wealth: $114 at age 11 → $11.4 billion at age 92 (20% compound interest x 80 years)"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Try a compound interest simulation!",
+      "background": "candy",
+      "title": "Calculating Compound Interest",
+      "content": "What if you invest $5,000 per month at 5% interest for 30 years? Try calculating it with a financial calculator or a 'compound interest calculator' on a bank or brokerage website!",
+      "emoji": "🧮",
+      "highlight": "Saving $5,000/month at 5% interest x 30 years = $1,800,000 principal → approximately $4,160,000 (about 2.3x)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Be careful of compound interest on debt!",
+      "background": "classroom",
+      "title": "Beware of Compound Interest on Debt",
+      "content": "Compound interest can be both a friend and a foe. Credit card debt with 15-18% interest can snowball rapidly! If you leave $100,000 debt with 18% interest for 5 years, it will become over $220,000!",
+      "emoji": "⚠️",
+      "highlight": "Credit card debt at 18% interest: $100,000 → $220,000 in 5 years, $480,000 in 10 years!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Master the magic of compound interest! Next, let's learn about cryptocurrency 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

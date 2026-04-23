@@ -1,0 +1,131 @@
+{
+  "title": "Exercise and Child Development ~ Moving Makes You Smarter ~",
+  "description": "Let's learn about exercise and child development with Gal-chan in a fun way!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Exercise helps children's brains and minds grow! Let's learn together!",
+      "background": "forest",
+      "title": "Exercise and Child Development ~ Moving Makes You Smarter ~",
+      "emoji": "🏃",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about exercise and child development with Gal-chan!",
+      "background": "classroom",
+      "title": "The Deep Connection Between Exercise and the Brain",
+      "content": "Aerobic exercise increases 'BDNF (Brain-Derived Neurotrophic Factor)' in the brain, improving memory, learning, and concentration! Research shows that physical education can improve math scores. 'Exercise makes you smarter' is a scientific fact!",
+      "emoji": "🧠",
+      "highlight": "BDNF: Called the 'brain's fertilizer'. Increases after exercise, improving learning efficiency by over 30%"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about exercise and child development with Gal-chan!",
+      "background": "ocean",
+      "title": "What Sport is Best for What Age?",
+      "content": "0-3 years: Free play using the whole body. 3-6 years: Various movements like swimming, gymnastics, and ball games. 6-10 years: Introduction to competitive sports. Specializing too early can lead to burnout. It's essential to acquire 'diverse movements' at a young age!",
+      "emoji": "⚽",
+      "highlight": "Early specialization in sports: High risk of injury, burnout, and not being able to continue. Diverse exercise is recommended"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about exercise and child development with Gal-chan!",
+      "background": "forest",
+      "title": "Modern Children Lack Outdoor Play",
+      "content": "Japanese children's outdoor playtime has significantly decreased over the past 30 years. Excessive concern for COVID, smartphones, and safety is the background. Ensuring 60 minutes or more of physical activity (WHO recommendation) daily is crucial for children's health, brain development, and emotional stability!",
+      "emoji": "🌳",
+      "highlight": "Outdoor playtime: 60 minutes recommended (WHO). Many Japanese children fall below the recommended amount"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about exercise and child development with Gal-chan!",
+      "background": "space",
+      "title": "Team Sports Foster Sociality",
+      "content": "Team sports like soccer, basketball, and baseball teach ① communication, ② role-sharing, ③ emotional management, ④ coping with failure, and ⑤ accepting wins and losses — the ultimate place to foster sociality!",
+      "emoji": "⚾",
+      "highlight": "Team sports experience: Leadership, cooperation, and stress resistance tend to be higher than individual sports"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about exercise and child development with Gal-chan!",
+      "background": "city",
+      "title": "Martial Arts and Gymnastics Foster Mental Strength",
+      "content": "Martial arts like kendo, judo, and karate, and gymnastics teach ① etiquette, ② concentration, ③ self-control, ④ resilience to failure, and ⑤ perseverance — mental toughness through sports has a positive impact on studies and relationships!",
+      "emoji": "🥋",
+      "highlight": "Martial arts experience: Children tend to have higher self-control and resilience"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about exercise and child development with Gal-chan!",
+      "background": "classroom",
+      "title": "The Combined Effect of Exercise and Sleep",
+      "content": "Quality sleep after exercise increases growth hormone, maximizing physical and brain growth! Conversely, intense exercise without sleep increases injury risk. 'Exercise + sleep' is essential for child development!",
+      "emoji": "😴",
+      "highlight": "Deep sleep after exercise: Maximizes growth hormone, memory consolidation, and muscle repair"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about exercise and child development with Gal-chan!",
+      "background": "ocean",
+      "title": "Learning to 'Lose' through Sports",
+      "content": "The ability to 'learn from losing' is more important in the long run than 'the joy of winning'! Top athletes share the ability to turn failures into opportunities. When children cry in frustration, encourage them with 'What can we do to win next time?'",
+      "emoji": "🏆",
+      "highlight": "Resilience to failure: A common trait among world-class athletes. Using failure as a 'learning opportunity'"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about exercise and child development with Gal-chan!",
+      "background": "forest",
+      "title": "The Interplay of Art, Music, and Physicality",
+      "content": "Ballet, dance, music, and drawing activities are also forms of physical expression! Artistic activities foster creativity, emotional expression, concentration, and cooperation, positively impacting academics. Both sports and art expand children's possibilities!",
+      "emoji": "🎨",
+      "highlight": "Music + Exercise (Rhythm Education): Simultaneously improves math skills, language skills, and coordination"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "We've learned about exercise and development! Let's think about the future of parenting 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

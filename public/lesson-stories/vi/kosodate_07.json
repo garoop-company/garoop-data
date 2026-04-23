@@ -1,0 +1,131 @@
+{
+  "title": "Nuôi dạy con trong thời đại toàn cầu - Hãy nuôi dạy sự đa dạng",
+  "description": "Cùng Garu học cách nuôi dạy con trong thời đại toàn cầu một cách thú vị!",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy học cách nuôi dạy con để chúng có thể thích nghi với thời đại đa dạng!",
+      "background": "ocean",
+      "title": "Nuôi dạy con trong thời đại toàn cầu - Hãy nuôi dạy sự đa dạng",
+      "emoji": "🌍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại toàn cầu!",
+      "background": "classroom",
+      "title": "Kỹ năng cần thiết trong thời đại toàn cầu",
+      "content": "Thế giới mà các con sẽ sống sẽ đầy rẫy những người đến từ nhiều nền văn hóa và giá trị khác nhau. ① Kỹ năng tiếng Anh ② Hiểu biết về các nền văn hóa khác nhau ③ Tôn trọng sự đa dạng ④ Tư duy phản biện ⑤ Kỹ năng giao tiếp - Đây là những kỹ năng của thế kỷ 21!",
+      "emoji": "🌐",
+      "highlight": "Kỹ năng thế kỷ 21 (được OECD định nghĩa): Tư duy phản biện - Giao tiếp - Hợp tác - Sáng tạo"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại toàn cầu!",
+      "background": "forest",
+      "title": "Sự thật về giáo dục song ngữ",
+      "content": "Nếu trẻ em được tiếp xúc với ngôn ngữ thứ hai trước 3 tuổi, chúng có thể đạt được trình độ ngôn ngữ tương tự như ngôn ngữ mẹ đẻ. Tạo môi trường cho trẻ em 'chơi' và 'thưởng thức' tiếng Anh hơn là 'dạy' tiếng Anh một cách hiệu quả. Bạn bè nước ngoài nói tiếng Anh, các bài hát tiếng Anh và phim hoạt hình là những công cụ tuyệt vời!",
+      "emoji": "🗣️",
+      "highlight": "Não song ngữ: Phát triển não bộ trước trán → Tăng khả năng tập trung, giải quyết vấn đề và phòng chống sa sút trí tuệ"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại toàn cầu!",
+      "background": "space",
+      "title": "Trải nghiệm văn hóa khác biệt giúp thay đổi trẻ em",
+      "content": "Trải nghiệm ẩm thực, âm nhạc và trò chơi của nước ngoài giúp trẻ em mở rộng quan điểm về thế giới. Các chương trình homestay, sự kiện giao lưu quốc tế và phim hoạt hình tiếng nước ngoài - Trẻ em có nhiều quan điểm khác nhau có xu hướng có khả năng giải quyết vấn đề và sáng tạo cao hơn!",
+      "emoji": "✈️",
+      "highlight": "Kinh nghiệm du lịch nước ngoài (ngắn hạn cũng được): Ảnh hưởng lớn đến khả năng đồng cảm, khả năng thích nghi và thiết lập bản sắc"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại toàn cầu!",
+      "background": "ocean",
+      "title": "Giáo dục SDGs giúp nuôi dạy công dân toàn cầu",
+      "content": "Biết về các vấn đề của thế giới như nghèo đói, môi trường và hòa bình giúp trẻ em suy nghĩ về việc 'mình có thể làm gì'. Thông qua SDGs, hãy nuôi dạy trẻ em có 'quan điểm kết nối với thế giới', 'quan tâm đến các vấn đề xã hội' và 'sức mạnh hành động'!",
+      "emoji": "🌱",
+      "highlight": "Giáo dục SDGs: Được triển khai tại các trường học Nhật Bản. Nuôi dạy những người giải quyết vấn đề cho thế hệ tiếp theo"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại toàn cầu!",
+      "background": "forest",
+      "title": "Sự đa dạng và 'giáo dục hòa nhập'",
+      "content": "Trẻ em có khuyết tật, trẻ em nước ngoài, trẻ em LGBTQ+ - Giáo dục hòa nhập, nơi trẻ em từ các nền tảng khác nhau học tập cùng nhau, đang trở thành tiêu chuẩn toàn cầu. Điều quan trọng là nuôi dạy trẻ em có thái độ 'không sợ khác biệt' và 'học hỏi từ sự đa dạng' từ khi còn nhỏ.",
+      "emoji": "🌈",
+      "highlight": "Giáo dục hòa nhập: Học cùng nhau tại cùng một nơi, không phân biệt có khuyết tật hay không → Hiệu quả nhất trong việc hiểu sự đa dạng"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại toàn cầu!",
+      "background": "city",
+      "title": "Đọc sách giúp mở rộng tầm nhìn toàn cầu",
+      "content": "Những cuốn sách kể về cách sống của trẻ em trên thế giới, sách tranh dịch, văn học nước ngoài - Đọc sách giúp trải nghiệm văn hóa, giá trị và cuộc sống khác nhau một cách gián tiếp. 'Nhật ký của Anne', 'Sư tử và phù thủy', 'Harry Potter' là những câu chuyện kết nối thế giới.",
+      "emoji": "📖",
+      "highlight": "Số lượng sách đọc và khả năng đồng cảm: Trẻ em đọc nhiều sách hơn có khả năng hiểu cảm xúc của người khác cao hơn"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại toàn cầu!",
+      "background": "classroom",
+      "title": "Giáo dục về thiên nhiên và môi trường giúp nuôi dạy trái tim bảo vệ Trái Đất",
+      "content": "Tắm trong rừng, dọn dẹp bờ biển, quan sát động vật - Trải nghiệm thiên nhiên giúp trẻ em quan tâm đến môi trường và có trách nhiệm. Hãy để trẻ em biết về các vấn đề môi trường (biến đổi khí hậu, nhựa trong đại dương) và suy nghĩ về việc mình có thể làm!",
+      "emoji": "🌿",
+      "highlight": "Trẻ em có kinh nghiệm giáo dục môi trường: Ảnh hưởng rõ ràng đến hành vi bảo vệ môi trường và bỏ phiếu của người lớn sau này"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại toàn cầu!",
+      "background": "ocean",
+      "title": "Cha mẹ tự có tinh thần toàn cầu",
+      "content": "Quan điểm của cha mẹ ảnh hưởng lớn đến tính cách quốc tế của con cái. Ngay cả khi không nói được tiếng Anh, hãy 'có hứng thú với sự khác biệt', 'thưởng thức du lịch' và 'chào đón bạn bè nước ngoài' - Thái độ của cha mẹ truyền cho con cái sự tò mò về thế giới!",
+      "emoji": "💕",
+      "highlight": "Kinh nghiệm quốc tế của cha mẹ: Có mối tương quan tích cực với khả năng tiếp nhận đa văn hóa của con cái và động lực học ngoại ngữ"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Học cách nuôi dạy con trong thời đại toàn cầu! Tiếp theo là tương lai của việc nuôi dạy con 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

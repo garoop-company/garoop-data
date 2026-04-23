@@ -1,0 +1,131 @@
+{
+  "title": "Bisnis Lokal ~Gelombang Baru Kewirausahaan di Daerah~",
+  "description": "Mari belajar tentang bisnis lokal dengan Gal-chan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Semakin banyak anak muda yang memulai bisnis di daerah! Mari kita pelajari rahasia di balik tren ini!",
+      "background": "city",
+      "title": "Bisnis Lokal ~Gelombang Baru Kewirausahaan di Daerah~",
+      "emoji": "💼",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang bisnis lokal dengan Gal-chan!",
+      "background": "forest",
+      "title": "Apa kelebihan memulai bisnis di daerah?",
+      "content": "Kelebihan memulai bisnis di daerah: ① Biaya tanah dan sewa rendah ② Persaingan kurang ③ Kebutuhan regional jelas ④ Dukungan administratif kuat ⑤ Komunitas dekat dengan promosi dari mulut ke mulut. Bahkan jika gagal di kota, bisa menjadi sangat sukses di daerah!",
+      "emoji": "🚀",
+      "highlight": "Biaya sewa kantor di daerah: 1/10 hingga 1/5 dari biaya sewa di Tokyo. Biaya awal dapat dikurangi secara signifikan"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar tentang bisnis lokal dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Revolusi industri ke-6: mengubah pertanian menjadi bisnis yang sukses!",
+      "content": "Industri ke-6 (1 × 2 × 3): pertanian yang memproduksi, mengolah, dan menjual produk langsung. Contoh: Pertanian stroberi → produksi selai → penjualan langsung di toko atau online. Nilai tambah dapat meningkat 10 hingga 100 kali!",
+      "emoji": "🍓",
+      "highlight": "Pertanian industri ke-6: pengolahan dan penjualan langsung dapat meningkatkan penjualan produk pertanian 3 hingga 10 kali"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang bisnis lokal dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Revolusi bir dan sake craft",
+      "content": "Bir craft, sake, dan wiski yang dibuat dengan bahan-bahan dan air lokal menjadi sangat populer di seluruh dunia! Pabrik-pabrik kecil (microbreweries) bermunculan di seluruh negeri. Produk-produk lokal ini dijual sebagai spesialisasi regional kepada wisatawan.",
+      "emoji": "🍺",
+      "highlight": "Pabrik bir craft: dari 100 pada tahun 2010 menjadi lebih dari 900 pada tahun 2023! Pertumbuhan pesat"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar tentang bisnis lokal dengan Gal-chan!",
+      "background": "space",
+      "title": "Munculnya bisnis yang memanfaatkan rumah dan bangunan tua",
+      "content": "Bisnis yang mengubah sekolah yang ditinggalkan, rumah tua, dan pabrik menjadi kafe, hotel, galeri, dan ruang kerja bersama sedang meningkat. Biaya awal rendah dan subsidi tersedia. Ruang unik dapat dibuat dengan memanfaatkan sejarah dan budaya regional!",
+      "emoji": "🏯",
+      "highlight": "Contoh penggunaan sekolah yang ditinggalkan: lebih dari 500 lokasi di seluruh negeri. Diubah menjadi fasilitas air panas, akomodasi, dan toko penjualan langsung produk pertanian"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang bisnis lokal dengan Gal-chan!",
+      "background": "forest",
+      "title": "Menjual spesialisasi lokal ke seluruh negeri melalui situs e-commerce",
+      "content": "Menjual spesialisasi lokal ke seluruh negeri dan dunia melalui belanja internet (e-commerce). Platform seperti Rakuten, Amazon, BASE, dan Toko Mercari memungkinkan penjualan ke seluruh negeri dari hari pertama! Gabungkan dengan iklan dan media sosial.",
+      "emoji": "🛒",
+      "highlight": "Hadiah pajak furusato: model e-commerce perintis untuk spesialisasi lokal. Pasar lebih dari ¥60 miliar per tahun"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar tentang bisnis lokal dengan Gal-chan!",
+      "background": "city",
+      "title": "Memecahkan masalah sosial melalui bisnis sosial",
+      "content": "Tidak hanya bisnis yang berorientasi pada keuntungan tetapi juga bisnis sosial yang bertujuan memecahkan masalah regional sedang berkembang. Jumlah pengusaha muda yang menangani masalah regional melalui bisnis di bidang perawatan, pengasuhan anak, pertanian, dan lingkungan meningkat.",
+      "emoji": "🌱",
+      "highlight": "Ukuran pasar bisnis sosial: sekitar ¥30 triliun. Termasuk NPO, perusahaan sosial, dan bisnis komunitas"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari belajar tentang bisnis lokal dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Membuat penggemar setia melalui layanan berlangganan",
+      "content": "Pajak furusato dan layanan berlangganan regional sedang menyebar. Layanan ini memungkinkan pelanggan menerima produk lokal atau manfaat dengan biaya bulanan tetap. Membuat pelanggan setia (pengulangan) menghasilkan pendapatan stabil untuk daerah.",
+      "emoji": "📦",
+      "highlight": "Contoh layanan berlangganan regional: layanan populer termasuk pengiriman sayuran secara teratur, pertemuan distribusi sake, dan kotak produk spesialisasi regional"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang bisnis lokal dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Menguatkan bisnis lokal melalui cara digital",
+      "content": "Situs web, media sosial, Google Maps, dan akuntansi cloud – dengan menguasai alat-alat digital, bahkan toko kecil di daerah dapat menarik pelanggan dari seluruh negeri. Digitalisasi adalah jalur hidup bagi bisnis daerah!",
+      "emoji": "💻",
+      "highlight": "Penjualan usaha kecil dan menengah yang telah didigitalkan: sekitar 1,5 kali lipat dari usaha yang tidak didigitalkan (survei METI)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Anda telah belajar tentang dunia bisnis lokal! Selanjutnya adalah branding produk spesialisasi 🎉",
+      "background": "space",
+      "title": "Pelajaran selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

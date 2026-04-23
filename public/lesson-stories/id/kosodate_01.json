@@ -1,0 +1,131 @@
+{
+  "title": "Langkah Pertama dalam Mengasuh Anak ~Ilmu Cinta dan Ikatan~",
+  "description": "Mari kita pelajari langkah pertama dalam mengasuh anak dengan Gal-chan dengan cara yang menyenangkan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita buat ikatan dengan bayi! Kita akan mempelajari ilmu mengasuh anak!",
+      "background": "candy",
+      "title": "Langkah Pertama dalam Mengasuh Anak ~Ilmu Cinta dan Ikatan~",
+      "emoji": "👶",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari langkah pertama dalam mengasuh anak dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Hal yang Paling Penting dalam Mengasuh Anak",
+      "content": "Hal yang paling penting dalam mengasuh anak adalah membentuk keterikatan. Menanggapi tangisan bayi segera, melakukan kontak mata, dan berbicara dengan lembut - tindakan sederhana ini membantu otak anak berkembang dengan sehat!",
+      "emoji": "💕",
+      "highlight": "Teori Keterikatan (John Bowlby): Memiliki basis yang aman memungkinkan anak untuk mengambil tantangan → ①②"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari langkah pertama dalam mengasuh anak dengan Gal-chan!",
+      "background": "forest",
+      "title": "Usia 0-3 Tahun Membentuk Dasar Kehidupan!",
+      "content": "Dari perspektif ilmu otak, usia 0-3 tahun adalah saat perkembangan otak paling cepat. Sinaps (koneksi antara sel saraf) meningkat secara eksplosif. Menyediakan stimulasi yang kaya (bahasa, musik, permainan, alam) selama periode ini membentuk dasar kecerdasan seumur hidup!",
+      "emoji": "🧠",
+      "highlight": "Sebagian besar sinaps terbentuk antara usia 0-3 tahun. Setelah usia 3 tahun, sinaps yang tidak digunakan dipangkas."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari langkah pertama dalam mengasuh anak dengan Gal-chan!",
+      "background": "space",
+      "title": "Berada di Tingkat yang Sama dengan Anak adalah Pengasuhan Terbaik",
+      "content": "Kesalahan umum dalam mengasuh anak adalah memberikan perintah dari atas. Yang penting adalah turun ke tingkat anak dan berbagi keajaiban dan kegembiraan! Rasa ingin tahu menular - jika Anda sedang bersenang-senang, anak Anda juga akan demikian.",
+      "emoji": "👀",
+      "highlight": "Perhatian Bersama: Ketika orang tua dan anak fokus pada hal yang sama → membangun pengembangan bahasa dan keterampilan sosial"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari langkah pertama dalam mengasuh anak dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Berbicara Banyak Membantu Mengembangkan Kecerdasan",
+      "content": "Selama periode ledakan bahasa (1,5-3 tahun), penting untuk memberikan anak banyak kata-kata. Membaca, percakapan, dan bernyanyi - baik kuantitas maupun kualitas penting. Jumlah percakapan memiliki dampak lebih besar pada kemampuan bahasa anak daripada tingkat pendapatan orang tua atau tingkat pendidikan!",
+      "emoji": "📚",
+      "highlight": "Studi Hart & Risley: Jumlah percakapan pada usia 3 tahun berkorelasi dengan kemampuan akademik pada usia 10 tahun"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari langkah pertama dalam mengasuh anak dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Bermain adalah Pembelajaran Terbaik!",
+      "content": "Piaget (psikolog perkembangan) membuktikan bahwa bermain mempromosikan pengembangan intelektual. Bermain dengan balok, pasir, dan pura-pura - ini adalah 'pembelajaran' terbaik untuk mengembangkan keterampilan memecahkan masalah, kreativitas, dan keterampilan sosial!",
+      "emoji": "🧩",
+      "highlight": "Bermain adalah pekerjaan anak (Maria Montessori) → membiarkan mereka bermain adalah pendidikan terbaik"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari langkah pertama dalam mengasuh anak dengan Gal-chan!",
+      "background": "city",
+      "title": "Menghukum dan Memuji dengan Benar Dapat Mengubah Anak",
+      "content": "Mengkritik keberadaan anak (misalnya, 'Kamu anak yang buruk') tidak boleh! Yang benar adalah menunjukkan perilaku tertentu (misalnya, 'Perilaku itu salah karena...'). Saat memuji, fokus pada proses (misalnya, 'Kamu bekerja sangat keras!') daripada hanya mengatakan 'Bagus! Kamu hebat!'",
+      "emoji": "⭐",
+      "highlight": "Memuji proses menumbuhkan pola pikir pertumbuhan (teori Dweck) daripada pola pikir tetap"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari langkah pertama dalam mengasuh anak dengan Gal-chan!",
+      "background": "forest",
+      "title": "Internet, Smartphone, dan Mengasuh Anak",
+      "content": "Waktu layar untuk anak di bawah 2 tahun harus minimal (rekomendasi WHO). Co-menonton dengan anak, berdiskusi sambil menonton video, diperbolehkan! Untuk generasi digital, mengajarkan penggunaan yang bertanggung jawab sangat penting.",
+      "emoji": "📱",
+      "highlight": "Rekomendasi WHO: 0-1 tahun = 0 waktu layar, 2-5 tahun = 1 jam atau kurang per hari"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari langkah pertama dalam mengasuh anak dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Tidak Ada Satu Cara 'Benar' untuk Mengasuh Anak!",
+      "content": "Norma mengasuh anak sangat berbeda di berbagai budaya dan negara (misalnya, Jepang, Perancis, Skandinavia). Yang penting adalah menciptakan lingkungan di mana anak merasa aman dan dapat tumbuh. Yang paling penting adalah orang tua memiliki waktu yang menyenangkan dan santai!",
+      "emoji": "🌍",
+      "highlight": "Perbedaan budaya dalam mengasuh anak: tidur bersama, menyusui, dll."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Anda telah mempelajari dasar-dasar mengasuh anak! Selanjutnya adalah ilmu perkembangan otak 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

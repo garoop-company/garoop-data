@@ -1,0 +1,70 @@
+{
+  "title": "Trường đạo Garu",
+  "description": "Bắt đầu hành trình rèn luyện với Garu!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Chào mừng! Đến với Trường đạo Garu! Cùng bắt đầu hành trình rèn luyện với Garu! 🥷",
+      "background": "dojo",
+      "title": "Chào mừng đến với Trường đạo!",
+      "content": "Đây là Trường đạo Garu! Mỗi ngày, hãy luyện tập một chút và trau dồi kỹ năng của mình!",
+      "emoji": "⚔️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Hãy nhớ 3 quy tắc quan trọng của Trường đạo nhé!",
+      "background": "bamboo",
+      "title": "3 Quy tắc của Trường đạo",
+      "content": "Hãy kiểm tra các quy tắc quan trọng để tiến hành rèn luyện!",
+      "emoji": "📜",
+      "highlight": "Quy tắc của Trường đạo:\n1. Luyện tập một chút mỗi ngày\n2. Nếu không hiểu, hãy hỏi Garu\n3. Ghi lại những gì bạn đã làm được"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Công cụ AI là 'vũ khí' của rèn luyện, Garu! Hãy sử dụng chúng một cách hiệu quả!",
+      "background": "mountain",
+      "title": "Sử dụng AI như một vũ khí",
+      "content": "AI là một 'vũ khí' rất mạnh mẽ. Nếu sử dụng đúng cách, bạn có thể làm được những điều khó khăn một cách dễ dàng!",
+      "emoji": "🤖",
+      "highlight": "Vũ khí chính:\n・NotebookLM → Tìm kiếm và tổng hợp\n・Suno AI → Tạo nhạc\n・Codex → Tạo chương trình"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Hãy chọn khóa học rèn luyện hôm nay và bắt đầu ngay!",
+      "background": "dojo",
+      "title": "Chọn khóa học",
+      "content": "Hãy chọn khóa học mà bạn muốn từ danh sách các khóa học rèn luyện. Nếu bạn không biết bắt đầu từ đâu, hãy hỏi Garu nhé!",
+      "emoji": "🎯",
+      "highlight": "Khóa học được đề xuất:\n🎬 Rèn luyện phim hoạt hình\n💻 Rèn luyện lập trình\n🎵 Rèn luyện âm nhạc\n🎥 Rèn luyện video"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Chuẩn bị xong! Bắt đầu hành trình rèn luyện với Trường đạo Garu! 🌟",
+      "background": "temple",
+      "title": "Bắt đầu rèn luyện!",
+      "content": "Bạn đã nhớ quy tắc và cách sử dụng Trường đạo! Garu luôn ủng hộ bạn. Hãy bắt đầu hành trình rèn luyện!",
+      "emoji": "🥷",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

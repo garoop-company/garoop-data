@@ -1,0 +1,81 @@
+{
+  "title": "Codex任务",
+  "description": "使用Codex创建迷你应用的间谍任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "代码代理！本次任务是使用Codex中的AI进行应用开发！🕵️💻",
+      "background": "lab",
+      "title": "任务指令：Codex作战",
+      "content": "任务：使用Codex（AI代码助手）创建一个点击按钮后改变信息的迷你应用！",
+      "emoji": "🤖",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Codex是AI「为你写代码」！它可以创建任何应用！",
+      "background": "spy",
+      "title": "什么是Codex？",
+      "content": "只要请求Codex「创建这样的应用」，它就会为你写代码！这是一个很厉害的AI！",
+      "emoji": "⚡",
+      "highlight": "Codex的特点：\n・可以创建任何程序\n・附带说明\n・可以询问不理解的部分\n・输出实际运行的代码"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "首先，用一句话描述「你想创建的东西」！",
+      "background": "hq",
+      "title": "需求定义修炼",
+      "content": "在创建程序之前，请明确「你想创建什么」。越简单越好！",
+      "emoji": "📋",
+      "highlight": "本次作战：\n「创建一个点击按钮后改变鼓励信息的\n  Web页面」\n\n材料：HTML + CSS + JavaScript"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "将这个提示复制并粘贴给Codex！",
+      "background": "lab",
+      "title": "作战执行！",
+      "content": "打开chatgpt.com，输入下面的提示。看看它会生成什么代码！",
+      "emoji": "💡",
+      "highlight": "发送的提示：\n「用HTML、CSS和JavaScript创建\n 适合儿童的鼓励页面。\n 点击按钮后显示『加油！』\n 并附上说明」"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "尝试自己修改代码！",
+      "background": "spy",
+      "title": "自定义作战",
+      "content": "查看生成的代码，尝试将信息或颜色改为自己喜欢的！",
+      "emoji": "🎨",
+      "highlight": "修改：\n・信息 → 喜欢的词语\n・按钮颜色 → 喜欢的颜色\n・标题 → 自定义"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "任务完成！截图提交并获得420积分！🎯",
+      "background": "lab",
+      "title": "任务完成！",
+      "content": "你已经获得了使用AI创建应用的能力！请将截图和心得提交到Slack！",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

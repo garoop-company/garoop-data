@@ -1,0 +1,132 @@
+{
+  "title": "株式市場〜会社の一部を買う〜",
+  "description": "株式市場の仕組みをガルちゃんと分かりやすく学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "株式ってなんだろう？一緒に探求しよう！📊",
+      "background": "city",
+      "title": "株式市場",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「株式市場〜会社の一部を買う〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "株を買うってどういうこと？",
+      "background": "classroom",
+      "title": "株式とは",
+      "content": "会社は事業を始めるためのお金を集めるために「株式」を発行します。株を1枚買うと、その会社の「一部のオーナー」になれます！会社が成長すれば株の価値も上がる。",
+      "emoji": "🏢",
+      "highlight": "株主＝会社のオーナー。配当金（利益の分け前）ももらえる！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "東京証券取引所ってどんな場所？",
+      "background": "city",
+      "title": "証券取引所の仕組み",
+      "content": "東京証券取引所（東証）は株を売り買いできる市場。現在プライム・スタンダード・グロースの3市場があります。世界では NYSE（ニューヨーク）・NASDAQ（ナスダック）が有名。",
+      "emoji": "🏛️",
+      "highlight": "東証プライム：約1,800社が上場。時価総額800兆円以上（2024年）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "株価はなぜ上がったり下がったりするの？",
+      "background": "space",
+      "title": "株価が動く理由",
+      "content": "株価は「需要（買いたい人）」と「供給（売りたい人）」のバランスで決まります。会社の業績良い→買いたい人増加→株価上昇。ニュース・経済指標・世界情勢も大きく影響します。",
+      "emoji": "📉📈",
+      "highlight": "株価 ＝ その会社への「期待値」の数字"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "日経平均・TOPIXって何のこと？",
+      "background": "ocean",
+      "title": "株価指数を理解しよう",
+      "content": "日経平均株価：日本を代表する225社の平均株価。TOPIX：東証全体の動きを示す指数。S&P500：アメリカ500社の指数。ダウ：アメリカ30社の指数。経済の体温計！",
+      "emoji": "🌡️",
+      "highlight": "日経平均：約4万円（2024年3月史上最高値更新）→ バブル後初！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "有名企業の株を持つと何が起きるの？",
+      "background": "classroom",
+      "title": "株主の権利",
+      "content": "株主になると①配当金（会社の利益の一部）②株主優待（商品・割引券など）③議決権（会社の重大決定に投票できる）の権利が得られます！トヨタの株主はトヨタ車の割引も！",
+      "emoji": "🎁",
+      "highlight": "株主優待の例：マクドナルド株→無料バーガー券、任天堂→ゲームの割引"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "株で失敗しないためのコツを教えるよ！",
+      "background": "forest",
+      "title": "株式投資の基本戦略",
+      "content": "① Buy & Hold（買って長く持つ）② 分散投資（複数銘柄を持つ）③ドルコスト平均法（毎月一定額を買い続ける）。「市場タイミング」を読もうとするより、時間を味方につける！",
+      "emoji": "🧠",
+      "highlight": "ドルコスト平均法：価格が高い時は少なく、安い時は多く買える→平均コスト下がる"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "気になる会社の株を調べてみよう！",
+      "background": "candy",
+      "title": "仮想投資にチャレンジ！",
+      "content": "好きなブランド（Apple・トヨタ・任天堂など）の株価を調べてみよう。1年前の株価と今の価格を比較すると、どれだけ変動したか分かります。株アプリや証券会社のサイトで確認できます！",
+      "emoji": "🔍",
+      "highlight": "株価は無料アプリで毎日確認できる：Yahoo!ファイナンス・SBI証券など"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "未公開株（IPO）って宝くじみたいなもの！？",
+      "background": "space",
+      "title": "IPO（新規上場）とは",
+      "content": "IPO（Initial Public Offering）は会社が初めて株式市場に上場すること。人気のIPO銘柄は上場初日に何倍もになることも！でも外れることもあります。抽選が必要で競争率が高い。",
+      "emoji": "🚀",
+      "highlight": "有名IPO例：LINE（2016）・メルカリ（2018）・レアジョブ→上場初値2〜5倍も"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "株式市場の仕組みが分かったね！次は複利の魔法！🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "The First Step in Parenting ~The Science of Love and Bonding~",
+  "description": "Let's learn the first steps of parenting with Gal-chan in a fun way!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's build a bond with your baby! We'll learn the science of parenting!",
+      "background": "candy",
+      "title": "The First Step in Parenting ~The Science of Love and Bonding~",
+      "emoji": "👶",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn the first steps of parenting with Gal-chan!",
+      "background": "classroom",
+      "title": "The Most Important Thing in Parenting",
+      "content": "The most important thing in parenting is forming an attachment. Responding to your baby's cries immediately, making eye contact, and speaking kindly - these simple actions help your child's brain develop healthily!",
+      "emoji": "💕",
+      "highlight": "Attachment Theory (John Bowlby): Having a secure base allows children to take on challenges → ①②"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn the first steps of parenting with Gal-chan!",
+      "background": "forest",
+      "title": "The Ages 0-3 Lay the Foundation for Life!",
+      "content": "From a brain science perspective, the ages 0-3 are when brain development is most rapid. Synapses (connections between nerve cells) increase explosively. Providing rich stimuli (language, music, play, nature) during this period lays the foundation for lifelong intelligence!",
+      "emoji": "🧠",
+      "highlight": "Most synapses are formed between ages 0-3. After age 3, unused synapses are pruned."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn the first steps of parenting with Gal-chan!",
+      "background": "space",
+      "title": "Getting on the Same Level as Your Child is the Best Parenting",
+      "content": "A common parenting mistake is giving orders from above. What's important is getting down to your child's level and sharing in their wonder and excitement! Curiosity is contagious - if you're having fun, your child will too.",
+      "emoji": "👀",
+      "highlight": "Joint Attention: When parent and child focus on the same thing → builds language development and social skills"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn the first steps of parenting with Gal-chan!",
+      "background": "ocean",
+      "title": "Talking a Lot Helps Develop Intelligence",
+      "content": "During the language explosion period (1.5-3 years), it's essential to expose your child to many words. Reading, conversations, and singing - both quantity and quality matter. The amount of conversation has a greater impact on a child's vocabulary than parental income or education level!",
+      "emoji": "📚",
+      "highlight": "Hart & Risley Study: The amount of talk by age 3 correlates with academic ability at age 10"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn the first steps of parenting with Gal-chan!",
+      "background": "classroom",
+      "title": "Play is the Best Learning!",
+      "content": "Piaget (developmental psychologist) proved that play promotes intellectual development. Block play, sand play, and pretend play - these are the best 'learning' activities for developing problem-solving skills, creativity, and social skills!",
+      "emoji": "🧩",
+      "highlight": "Play is a child's job (Maria Montessori) → letting them play is the best education"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn the first steps of parenting with Gal-chan!",
+      "background": "city",
+      "title": "Punishing and Praising Correctly Can Change Your Child",
+      "content": "Criticizing a child's existence (e.g., 'You're a bad kid') is not okay! What's correct is pointing out specific behaviors (e.g., 'That behavior was wrong because...'). When praising, focus on the process (e.g., 'You worked so hard!') rather than just saying 'Great job! You're a genius!'",
+      "emoji": "⭐",
+      "highlight": "Praising the process fosters a growth mindset (Dweck theory) rather than a fixed mindset"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn the first steps of parenting with Gal-chan!",
+      "background": "forest",
+      "title": "The Internet, Smartphones, and Parenting",
+      "content": "Screen time for children under 2 should be minimal (WHO recommendation). Co-viewing with your child, discussing while watching videos, is okay! For digital natives, teaching responsible usage is crucial.",
+      "emoji": "📱",
+      "highlight": "WHO recommendation: 0-1 years = 0 screen time, 2-5 years = 1 hour or less per day"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn the first steps of parenting with Gal-chan!",
+      "background": "classroom",
+      "title": "There is No One 'Right' Way to Parent!",
+      "content": "Parenting norms vary greatly across cultures and countries (e.g., Japan, France, Scandinavia). What's essential is creating an environment where your child feels secure and can grow. The most important thing is for parents to have fun and be relaxed!",
+      "emoji": "🌍",
+      "highlight": "Cultural differences in parenting: bed-sharing, breastfeeding, etc."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've learned the basics of parenting! Next up is the science of brain development 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

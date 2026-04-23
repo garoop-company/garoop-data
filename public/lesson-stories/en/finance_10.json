@@ -1,0 +1,131 @@
+{
+  "title": "The Future of Money: Changing Your Life with Financial Literacy",
+  "description": "Learn about AI, money, the future of finance, and what you can do!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's draw the future of money together! 🌟",
+      "background": "space",
+      "title": "The Future of Money",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "The future of cashless transactions is just around the corner!",
+      "background": "city",
+      "title": "Cashless Society",
+      "content": "In Sweden, only 8% of people use cash. In China, Alipay and WeChat Pay have made cash almost unnecessary. Japan's cashless ratio is 39% (2023) and is expected to accelerate further after 2025!",
+      "emoji": "📱",
+      "highlight": "South Korea's cashless ratio: over 95%! Almost no cash transactions"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "The era of AI managing your finances is coming!",
+      "background": "space",
+      "title": "AI × Finance (Fintech)",
+      "content": "AI will take charge of stock trading, asset management, loan reviews, and household management. Robo-advisors will automatically determine asset allocation and invest! Fees are much lower than human financial planners.",
+      "emoji": "🤖",
+      "highlight": "Robo-advisors: 0.5-1% annual fee for automatic investment. 1/5 to 1/10 the cost of human FPs"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "What's Central Bank Digital Currency (CBDC)?",
+      "background": "ocean",
+      "title": "CBDC (Digital Yen)",
+      "content": "Central banks around the world are planning to issue digital currencies. Digital RMB has been implemented in China. The Bank of Japan is also experimenting with digital yen. The day of no cash may come!",
+      "emoji": "🏦",
+      "highlight": "Digital RMB: implemented in China from 2021. Over 200 million users"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Will DeFi (Decentralized Finance) make banks unnecessary?",
+      "background": "city",
+      "title": "DeFi (Decentralized Finance)",
+      "content": "DeFi is a bank-like service that runs on blockchain. Anyone, anywhere, 24/7, without intermediaries, can use financial services!",
+      "emoji": "🔗",
+      "highlight": "DeFi total assets: $2.5 trillion (approx.) at its peak. Rapidly growing"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "How can we reduce inequality?",
+      "background": "forest",
+      "title": "Wealth Inequality and Finance",
+      "content": "The top 1% hold 50% of the world's wealth. Inequality is widening. Causes include the cycle of 'investment, education, and inheritance'. Solutions discussed include: ① UBI (Basic Income) ② Education enhancement ③ Financial literacy promotion.",
+      "emoji": "⚖️",
+      "highlight": "Bill Gates, Buffett, and others pledge to 'donate 99% of their wealth' (Giving Pledge)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ESG investing can make the world a better place!",
+      "background": "forest",
+      "title": "ESG Investing and Impact Investing",
+      "content": "ESG: Environment, Social, and Governance-focused investing. Investment style that aims not only for profit but also for positive social and environmental impact is rapidly expanding worldwide.",
+      "emoji": "🌱",
+      "highlight": "ESG investment balance: over $45 trillion worldwide! Increasing every year"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Think about your 'financial mission'!",
+      "background": "candy",
+      "title": "Money and Your Values",
+      "content": "Money is a means, not an end. What do you want to achieve with your money? ① Your dreams ② Family happiness ③ Social contribution ④ Continuing what you love. Those with clear financial goals are more likely to be wealthy!",
+      "emoji": "💭",
+      "highlight": "'Money buys freedom. Freedom is to pursue your dreams.'"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Actions to improve your financial literacy starting today!",
+      "background": "classroom",
+      "title": "Start Today",
+      "content": "① Keep a household account book (apps like 'Money Forward' and 'Zaim') ② Record expenses with a pocket money account ③ Start investing $100 at a time ④ Read financial news (Nikkei electronic edition) once a week. Small habits can change your life!",
+      "emoji": "📱",
+      "highlight": "'Money Forward': free linkage with banks, securities, and credit. Automatic household management"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Financial Master! Open your future with money! 🎉",
+      "background": "space",
+      "title": "Financial Series Completed!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

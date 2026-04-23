@@ -1,0 +1,132 @@
+{
+  "title": "お客様を知ろう〜マーケティングの基本〜",
+  "description": "ガルちゃんと楽しくお客様を知ろうを学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "お客様の心を知るマーケティングを学ぼう！",
+      "background": "city",
+      "title": "お客様を知ろう〜マーケティングの基本〜",
+      "emoji": "📣",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「お客様を知ろう〜マーケティングの基本〜」をテーマに、子どもの視点で挑戦を形にする力を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとお客様を知ろうを学ぼう！",
+      "background": "classroom",
+      "title": "マーケティングってなに？",
+      "content": "マーケティング＝「お客様が欲しいものを、欲しい人に、適切な方法で届ける活動」。単なる宣伝ではありません！市場調査→商品開発→価格設定→宣伝→販売→アフターサービスまで全て含みます！",
+      "emoji": "📢",
+      "highlight": "「良い製品はマーケティングいらず」はウソ！最高の製品でも届け方が悪ければ売れない"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとお客様を知ろうを学ぼう！",
+      "background": "ocean",
+      "title": "ペルソナ（理想のお客様像）を作ろう",
+      "content": "「誰に売るか」が最も重要！ペルソナ：①年齢・性別②どこに住んでいるか③何に困っているか④どんな生活をしているか⑤何を大切にしているか——具体的な1人の人物像を描くことで商品・広告が刺さる！",
+      "emoji": "👤",
+      "highlight": "ペルソナ設定例：「35歳・働くママ・時短料理に困っている」→このペルソナ向け製品開発"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとお客様を知ろうを学ぼう！",
+      "background": "forest",
+      "title": "4P（マーケティングミックス）を理解しよう",
+      "content": "①Product（製品：何を売る？）②Price（価格：いくらで売る？）③Place（場所：どこで売る？）④Promotion（宣伝：どう広める？）——この4Pを最適化するのがマーケティング戦略！",
+      "emoji": "🗂️",
+      "highlight": "4Pの例：iPhone＝高品質製品・高価格・Apple Store・発表会という4Pの完璧な組み合わせ"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとお客様を知ろうを学ぼう！",
+      "background": "space",
+      "title": "SNSマーケティングで無料で広める",
+      "content": "Instagram・TikTok・YouTube・X（Twitter）——SNSを使えば0円で全国・全世界に発信できます！10歳でも可能。コンテンツの「質」と「継続性」が重要。まず100人のフォロワーを目指そう！",
+      "emoji": "📱",
+      "highlight": "TikTokで話題→商品が一夜で売り切れる「TikTok商法」：若い起業家も活用している"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとお客様を知ろうを学ぼう！",
+      "background": "city",
+      "title": "「口コミ」が最強のマーケティング",
+      "content": "広告より信頼できる友人からの「これ良かったよ！」。口コミ（WOM：Word of Mouth）を意図的に生み出す——使った人が自然にシェアしたくなる体験・驚き・感動を提供することがゴール！",
+      "emoji": "🗣️",
+      "highlight": "口コミの効果：広告より5倍信頼される。紹介で来た顧客の生涯価値は通常の4倍以上"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとお客様を知ろうを学ぼう！",
+      "background": "classroom",
+      "title": "値段の決め方（プライシング戦略）",
+      "content": "①コストベース（原価＋利益）②競合比較（相場に合わせる）③価値ベース（お客様が感じる価値で設定）——「価値ベース」が最も高い価格を設定できます。「安さ」で競争するのは最もつらい戦略！",
+      "emoji": "💴",
+      "highlight": "プレミアム価格戦略：スターバックスは「コーヒー」ではなく「体験・場所・ブランド」を売っている"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとお客様を知ろうを学ぼう！",
+      "background": "forest",
+      "title": "ファンを作る「コミュニティマーケティング」",
+      "content": "SNSで「好き」を集める・イベントを開く・リピーターに特別扱いをする——お客様をファンにすることで広告費なしに新規顧客が集まります。1,000人の本物のファンを持てば稼げる！",
+      "emoji": "🌟",
+      "highlight": "「1000 True Fans」理論：1,000人の熱狂的ファンがいれば、どんな創作者も生活できる"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとお客様を知ろうを学ぼう！",
+      "background": "ocean",
+      "title": "データで改善するデジタルマーケティング",
+      "content": "Googleアナリティクス・Instagram Insights——無料ツールで「誰が・いつ・何を見たか・どこで離脱したか」が数字で分かります。データをもとに改善することで効果が10倍に！",
+      "emoji": "📊",
+      "highlight": "A/Bテスト：2種類の広告・LPを試して「どちらが反応が良いか」を数字で判定する手法"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "マーケティングをマスター！次はピッチの練習へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

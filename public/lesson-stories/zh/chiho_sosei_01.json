@@ -1,0 +1,131 @@
+{
+  "title": "地方創生ってなに？〜日本の地方を元気にしよう〜",
+  "description": "一起探索日本各地的魅力，学习「地方創生」——让地方变得更加生机盎然！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "一起发现地方的魅力吧！🏡",
+      "background": "forest",
+      "title": "地方創生とは",
+      "emoji": "🏡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "为什么需要地方創生？",
+      "background": "classroom",
+      "title": "地方が直面する課題",
+      "content": "日本约30%的人口（约3800万人）集中在东京圈。地方面临人口减少、老龄化和产业衰退的挑战。如果情况继续恶化，到2050年，许多地方政府将面临「消灭可能性」。",
+      "emoji": "📉",
+      "highlight": "东京圈（东京、神奈川、埼玉、千葉）人口：占日本总人口的28%"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "地方創生政策从2014年开始！",
+      "background": "city",
+      "title": "地方創生とは何か",
+      "content": "2014年开始的国家政策「まち・ひと・しごと創生」。三大目标是：①创造就业机会、②吸引人才、③激活地方。每年投入超过1万亿日元的预算。",
+      "emoji": "🏛️",
+      "highlight": "地方創生预算：约1万亿日元/年。目标是到2060年维持1亿人口"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "地方有东京没有的宝物！",
+      "background": "forest",
+      "title": "地方の強みと魅力",
+      "content": "地方拥有丰富的自然、传统文化、特产、广阔的空间和人与人之间的联系。这些是城市所没有的魅力。新冠疫情后，希望搬到地方的人数急剧增加！特别是年轻人对地方的兴趣日益高涨。",
+      "emoji": "🌾",
+      "highlight": "希望搬到地方的人数（20-30岁）：新冠疫情后创下历史新高（国交省调查）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "看看地方創生成功的例子！",
+      "background": "ocean",
+      "title": "地方創生の成功事例",
+      "content": "冈山县西粟仓村：「百年の森林」项目复兴了林业，吸引了更多人移居。德岛县神山町：吸引IT企业设立卫星办公室，移居人数急剧增加。富山县：建设路面电车网络，实现了紧凑型城市。",
+      "emoji": "✅",
+      "highlight": "神山町（人口5000人）：12家IT企业设立卫星办公室 → 移居人数超过流出人数"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "科技拯救地方！",
+      "background": "space",
+      "title": "テクノロジーと地方創生",
+      "content": "5G、AI、无人机、物联网正在解决地方的课题。农业无人机提高了农药喷洒的效率5倍。远程医疗弥补了地方医疗不足。远程工作普及，促进了从城市到地方的移居！",
+      "emoji": "📡",
+      "highlight": "无人机农药喷洒：与传统农药喷洒相比，作业时间缩短至1/10"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "你知道「关系人口」吗？",
+      "background": "forest",
+      "title": "関係人口という新概念",
+      "content": "除了「常住人口」和「游客」以外，还有一种「关系人口」——与地方有持续联系的人。他们一年访问几次、进行捐赠、在社交媒体上分享信息...",
+      "emoji": "🤝",
+      "highlight": "关系人口：超1000万人（2022年，総務省调查）。创下历史新高"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "思考你故乡或喜欢的地方的魅力！",
+      "background": "candy",
+      "title": "地方の魅力を探してみよう！",
+      "content": "列出你知道的地方（故乡、旅行地等）的3个魅力。食物、自然、文化、人、特产...什么都可以。思考如何将这些魅力传播给全国！",
+      "emoji": "💭",
+      "highlight": "在社交媒体上分享地方特产也是成为「关系人口」的一种方式！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "年轻人有改变地方的力量！",
+      "background": "city",
+      "title": "若者と地方創生",
+      "content": "地方需要年轻人的创意和行动力。地域おこし協力隊、地方创业、空置房改造、农业创业...年轻人活跃于地方的机会急剧增加。",
+      "emoji": "👦",
+      "highlight": "地域おこし協力隊：2008年89人 → 2022年约6500人！这是一个有薪水的移居制度"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "完成地方創生入门！接下来学习人口减少 🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

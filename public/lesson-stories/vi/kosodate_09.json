@@ -1,0 +1,131 @@
+{
+  "title": "Nuôi dạy con ở địa phương - Tạo ra cộng đồng nuôi dạy con tốt hơn",
+  "description": "Cùng Garu học về nuôi dạy con ở địa phương một cách thú vị!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng suy nghĩ về lợi ích của việc nuôi dạy con ở địa phương!",
+      "background": "forest",
+      "title": "Nuôi dạy con ở địa phương - Tạo ra cộng đồng nuôi dạy con tốt hơn",
+      "emoji": "🏡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về nuôi dạy con ở địa phương!",
+      "background": "forest",
+      "title": "Lý do chọn nuôi dạy con ở địa phương",
+      "content": "Môi trường thiên nhiên phong phú - Ngôi nhà rộng rãi - Chi phí sinh hoạt thấp - Cộng đồng địa phương hỗ trợ lẫn nhau - Nuôi dạy con ở địa phương đang được chú ý. Tại Tokyo, một căn hộ 3 phòng ngủ có giá 6 triệu yên, trong khi ở địa phương, một căn hộ tương tự có giá dưới 1 triệu yên!",
+      "emoji": "🌿",
+      "highlight": "Độ hài lòng của các gia đình nuôi dạy con ở địa phương: Cao hơn thành thị (theo khảo sát của Nội閣府)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về nuôi dạy con ở địa phương!",
+      "background": "city",
+      "title": "Tăng cường hỗ trợ nuôi dạy con ở các địa phương",
+      "content": "Các địa phương hỗ trợ nuôi dạy con ngày càng tăng. ① Miễn phí保育② Miễn phí y tế (đến 18 tuổi) ③ Trợ cấp mua nhà④ Hỗ trợ học tập⑤ Trợ cấp chuyển nhà - Các trường hợp chuyển nhà để nuôi dạy con ở địa phương có lợi về mặt kinh tế đang tăng lên!",
+      "emoji": "💰",
+      "highlight": "Các địa phương tiên tiến trong hỗ trợ nuôi dạy con: Thành phố Akashi, thành phố Ryugasaki,... Dân số tăng do hỗ trợ nuôi dạy con tốt"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về nuôi dạy con ở địa phương!",
+      "background": "space",
+      "title": "Hỗ trợ nuôi dạy con của cộng đồng địa phương",
+      "content": "Cách nuôi dạy con truyền thống 'toàn bộ làng nuôi dạy con' đang được phục hồi trong thời đại mới. Ăn uống tại quán ăn của trẻ em - Giám sát địa phương - Trao đổi giữa nhiều thế hệ - Môi trường nuôi dạy con ở địa phương kết nối thế hệ ông bà và thế hệ trẻ có sự phong phú về tinh thần!",
+      "emoji": "🤝",
+      "highlight": "Quán ăn của trẻ em: Trên 9.000 địa điểm trên toàn quốc (năm 2023). Sự gắn kết của cộng đồng địa phương cũng giúp chống lại tình trạng nghèo khó của trẻ em"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về nuôi dạy con ở địa phương!",
+      "background": "ocean",
+      "title": "Tác động của trải nghiệm nông nghiệp đối với trẻ em",
+      "content": "Chạm vào đất - Trồng hạt - Thu hoạch - Trải nghiệm nông nghiệp dạy cho trẻ em về giá trị của sự sống - Giá trị của lao động - lòng biết ơn đối với thực phẩm - Kết nối với thiên nhiên. Trẻ em ở thành thị tham gia trải nghiệm nông nghiệp giúp ổn định cảm xúc và cải thiện sở thích ăn uống!",
+      "emoji": "🌱",
+      "highlight": "Chương trình trải nghiệm nông nghiệp: Các hộ nông dân và trường nông nghiệp trên toàn quốc tiếp nhận. Trải nghiệm cảm động được đánh giá cao"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về nuôi dạy con ở địa phương!",
+      "background": "forest",
+      "title": "Thiên nhiên giúp tăng cường hệ miễn dịch của trẻ em",
+      "content": "Chơi bùn - Chơi nước - Bắt côn trùng - Tiếp xúc với môi trường vi sinh đa dạng của thiên nhiên giúp tăng cường hệ miễn dịch (giả thuyết vệ sinh). Các bệnh dị ứng và tự miễn thường gặp ở thành thị hơn là ở nông thôn. 'Chạm vào đất' là nguồn gốc của sức khỏe!",
+      "emoji": "🤧",
+      "highlight": "Giả thuyết vệ sinh: Môi trường quá sạch sẽ cản trở sự phát triển của hệ miễn dịch → Tăng các bệnh dị ứng"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về nuôi dạy con ở địa phương!",
+      "background": "classroom",
+      "title": "Đặc điểm của giáo dục trường học ở địa phương",
+      "content": "Giáo dục số lượng nhỏ (các trường tiểu học ở địa phương thường có 10-20 học sinh một lớp) - Học tập trải nghiệm sử dụng thiên nhiên - Giáo dục nghề nghiệp học hỏi từ ngành công nghiệp địa phương - 'Hỗ trợ và trải nghiệm chặt chẽ' không có ở các trường học quy mô lớn ở thành thị là điểm mạnh của các trường học ở địa phương!",
+      "emoji": "🏫",
+      "highlight": "Lớp học quy mô nhỏ: Thời gian giáo viên tương tác với một học sinh tăng lên → Chất lượng hỗ trợ học tập được cải thiện - Giảm số học sinh không đến trường"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học về nuôi dạy con ở địa phương!",
+      "background": "city",
+      "title": "Lựa chọn sống ở hai nơi",
+      "content": "Làm việc từ xa ở thành thị vào ngày thường - Về nhà ở địa phương vào cuối tuần là phong cách nuôi dạy con mới. Trẻ em có thể tận hưởng cả trải nghiệm thiên nhiên và tiện ích của thành thị! Trải nghiệm nông nghiệp cuối tuần - Leo núi - Câu cá trở thành hoạt động thường ngày.",
+      "emoji": "🏠",
+      "highlight": "Sống ở hai nơi: Khoảng 500.000 hộ gia đình (ước tính). Tăng mạnh sau đại dịch, chính phủ cũng đang xem xét các chính sách hỗ trợ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về nuôi dạy con ở địa phương!",
+      "background": "forest",
+      "title": "Khởi nghiệp ở địa phương và nuôi dạy con",
+      "content": "Ở địa phương, việc nuôi dạy con và làm việc dễ dàng hơn! Thời gian保育 ngắn hơn nhưng có ông bà sống gần đó - Số lượng công việc có thể làm việc từ xa tăng lên - Cha mẹ chọn nghề tự doanh linh hoạt cũng tăng lên!",
+      "emoji": "💼",
+      "highlight": "Khởi nghiệp ở địa phương và nuôi dạy con: Làm việc từ xa + Nông nghiệp - Quán cà phê - Nhà nghỉ,... Công việc đặc trưng ở địa phương và nuôi dạy con có thể kết hợp"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Học về lợi ích của nuôi dạy con ở địa phương! Tổng kết series Nuôi dạy con 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

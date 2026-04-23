@@ -1,0 +1,132 @@
+{
+  "title": "遊びが最高の学び〜非認知能力を育てよう〜",
+  "description": "ガルちゃんと楽しく遊びが最高の学びを学ぼう！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "遊びこそ最高の学習！一緒に遊びの科学を学ぼう！",
+      "background": "candy",
+      "title": "遊びが最高の学び〜非認知能力を育てよう〜",
+      "emoji": "🎮",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「遊びが最高の学び〜非認知能力を育てよう〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと遊びが最高の学びを学ぼう！",
+      "background": "classroom",
+      "title": "非認知能力ってなに？",
+      "content": "テストで測れる「認知能力（IQ）」とは別に、やり抜く力・自制心・協調性・共感力・創造力などの「非認知能力」が、人生の成功をより強く予測することが分かっています！",
+      "emoji": "💪",
+      "highlight": "ノーベル経済学賞受賞者ヘックマン：幼児期の非認知能力投資が最も高い社会的リターン"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと遊びが最高の学びを学ぼう！",
+      "background": "ocean",
+      "title": "「やり抜く力（グリット）」を育てる",
+      "content": "Grittiness（グリット）＝情熱＋粘り強さ。困難に直面しても諦めない力は、IQより将来の成功を予測します（ダックワース研究）。失敗をどう乗り越えるか——その経験が子供を強くします！",
+      "emoji": "🏋️",
+      "highlight": "グリット研究：西点軍校・スペリングビー・シカゴ公立校での研究で一貫して実証"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと遊びが最高の学びを学ぼう！",
+      "background": "forest",
+      "title": "モンテッソーリ教育の凄さ",
+      "content": "マリア・モンテッソーリが開発した教育法は「子供が自分で選んで学ぶ」を重視。Google創業者・Amazonジェフ・ベゾスもモンテッソーリ出身。自主性・集中力・問題解決能力が育ちます！",
+      "emoji": "🏫",
+      "highlight": "モンテッソーリ出身者：Google・Amazon・Wikipedia創業者など多くのイノベーターが"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと遊びが最高の学びを学ぼう！",
+      "background": "classroom",
+      "title": "積み木・LEGO・砂場の教育的価値",
+      "content": "積み木やLEGOは数学的思考・空間認識・問題解決・創造力を育てます。砂場遊びは物理の法則を体で学ぶ。「ただの遊び」に見えるものが最高の学習ツール！",
+      "emoji": "🧱",
+      "highlight": "LEGO教育研究：空間認識力・数学能力・STEM（科学・技術・工学・数学）能力向上に効果"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと遊びが最高の学びを学ぼう！",
+      "background": "space",
+      "title": "「ごっこ遊び」の深い意味",
+      "content": "お医者さんごっこ・ままごと——ごっこ遊びは他者の視点を理解する「心の理論（ToM）」の発達に重要。社会性・共感力・言語能力・創造力が一度に育つ「マルチ知育遊び」！",
+      "emoji": "👨‍⚕️",
+      "highlight": "「心の理論」（Theory of Mind）：他者が何を考えているか理解する能力。社会生活の基本"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと遊びが最高の学びを学ぼう！",
+      "background": "ocean",
+      "title": "デジタルゲームの教育的活用",
+      "content": "すべてのゲームが悪いわけではない！マインクラフトは空間認識・創造力・数学。プログラミングゲームは論理思考。大切なのは「内容・時間・一緒に遊ぶか」。親が関わることで学びが倍増！",
+      "emoji": "🎮",
+      "highlight": "マインクラフト：全世界の学校で教育ツールとして採用。創造力・STEM教育に活用"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと遊びが最高の学びを学ぼう！",
+      "background": "forest",
+      "title": "外遊びで「リスクを取る力」を育てる",
+      "content": "木登り・川遊び・泥遊び——適度なリスクのある外遊びが「リスク判断力・自信・回復力」を育てます。過保護が子供から挑戦する機会を奪います。転ぶことも学びのうち！",
+      "emoji": "🌳",
+      "highlight": "外遊び時間が多い子供：自制心・問題解決力・身体能力が高い（複数の研究で一致）"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと遊びが最高の学びを学ぼう！",
+      "background": "classroom",
+      "title": "「退屈する時間」の大切さ",
+      "content": "スケジュールが詰まった「管理された子育て」は子供の創造性を奪います。「何もしない時間」があると子供は自分で遊びを発明します。退屈はクリエイティビティの母！",
+      "emoji": "🌤️",
+      "highlight": "自由時間の研究：計画されていない時間に子供の創造的活動・自己決定能力が最も発達"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "遊びと非認知能力を学んだ！次は食育へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

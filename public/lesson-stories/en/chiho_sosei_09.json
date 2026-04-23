@@ -1,0 +1,131 @@
+{
+  "title": "Smart Cities and Local Areas: Solving Challenges with Technology",
+  "description": "Let's learn about smart cities and local areas with Gal-chan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's solve local challenges with technology in smart cities!",
+      "background": "space",
+      "title": "Smart Cities and Local Areas: Solving Challenges with Technology",
+      "emoji": "🏙️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about smart cities and local areas with Gal-chan!",
+      "background": "city",
+      "title": "What is a Smart City?",
+      "content": "A city that uses IoT, AI, big data, and 5G to improve administrative services, transportation, energy, and healthcare. The concept is also being applied to local areas as 'smart towns'!",
+      "emoji": "🌐",
+      "highlight": "Global market size of smart cities: predicted to exceed $1 trillion (approximately ¥150 trillion) by 2030"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about smart cities and local areas with Gal-chan!",
+      "background": "classroom",
+      "title": "Efficient Administrative Procedures with AI",
+      "content": "Digitalization of administrative procedures, such as online applications and AI-powered counters, allows for 24/7 access from home. This helps address staff shortages in rural areas.",
+      "emoji": "🤖",
+      "highlight": "Online administrative procedures: surged after COVID-19, with online certificate issuance and tax reporting becoming more prevalent"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about smart cities and local areas with Gal-chan!",
+      "background": "ocean",
+      "title": "Solving Transportation Issues with Autonomous Driving and MaaS",
+      "content": "Rural areas face severe transportation challenges. Autonomous buses, demand-based transportation, and MaaS (Mobility as a Service) are being tested as solutions!",
+      "emoji": "🚌",
+      "highlight": "Autonomous bus demonstration experiments: being conducted in various locations, including Ibaraki, Fukui, and Okinawa"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about smart cities and local areas with Gal-chan!",
+      "background": "forest",
+      "title": "Eliminating Medical Disparities in Rural Areas with Telemedicine",
+      "content": "Rural areas face doctor shortages and limited access to hospitals. Telemedicine is becoming more widespread, allowing patients to consult with doctors remotely. AI diagnosis and wearable devices also enable remote health monitoring!",
+      "emoji": "🏥",
+      "highlight": "Telemedicine users: surged after COVID-19, contributing to reduced medical access disparities in rural areas"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about smart cities and local areas with Gal-chan!",
+      "background": "space",
+      "title": "5G Revolutionizing Local Agriculture and Industry",
+      "content": "5G (fifth-generation mobile communication) is being introduced not only in cities but also in rural and fishing villages. This enables remote operation of agricultural drones and machines, as well as automation of factories!",
+      "emoji": "📡",
+      "highlight": "Local 5G: a customized 5G network for factories, agricultural land, and construction sites, allowing for self-construction"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about smart cities and local areas with Gal-chan!",
+      "background": "city",
+      "title": "Drone Delivery Revolutionizing Local Logistics",
+      "content": "Rural and island areas face high logistics costs and long delivery times. Drone delivery can enable same-day delivery! Rakuten and JAL Group are conducting demonstration experiments on remote islands.",
+      "emoji": "🚁",
+      "highlight": "Drone delivery: demonstration experiments being conducted on islands, such as Izu Oshima and Goto Islands, towards practical implementation"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about smart cities and local areas with Gal-chan!",
+      "background": "classroom",
+      "title": "AI Analyzing Local Challenges",
+      "content": "AI and big data are being used to visualize and address local challenges, such as population prediction, administrative cost optimization, and tourism analysis. Local governments nationwide are promoting AI-powered administrative services.",
+      "emoji": "📊",
+      "highlight": "AI-powered local governments: rapidly increasing nationwide, with applications in agriculture, welfare, and disaster prevention"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about smart cities and local areas with Gal-chan!",
+      "background": "ocean",
+      "title": "Achieving Carbon Neutrality with Renewable Energy in Local Areas",
+      "content": "Rural areas have abundant renewable energy potential, including solar, wind, biomass, and geothermal power. 'Local energy' initiatives aim to promote energy self-sufficiency and increase local income.",
+      "emoji": "🌱",
+      "highlight": "Renewable energy generation (rural areas): cases where solar and wind power cover 100% of local energy demand"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "The possibilities of smart cities and local areas are endless! Let's move on to the final lesson 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

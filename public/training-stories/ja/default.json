@@ -1,0 +1,70 @@
+{
+  "title": "ガルちゃん道場修行",
+  "description": "ガルちゃんと一緒に修行を始めよう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "ようこそ！ガルちゃん道場へ！いっしょに修行を始めるガル！🥷",
+      "background": "dojo",
+      "title": "道場へようこそ！",
+      "content": "ここは、少しずつ積み上げて本物の力に変えるための修行場だ。うまくできる日も迷う日もあるけれど、毎回「前より1つできることが増えた」を作っていけば、確実に前へ進める。",
+      "emoji": "⚔️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "道場の3つのルールを覚えておいてね！",
+      "background": "bamboo",
+      "title": "道場の3つのルール",
+      "content": "修行を続けるコツは、完璧を目指すより、短くても止めないことだ。わからない所をそのままにせず、質問し、メモし、次に試すことを残しておくと、練習が成長につながる。",
+      "emoji": "📜",
+      "highlight": "道場の基本:\n1. 毎日少しでも触る\n2. 詰まったら質問する\n3. 学んだことを記録する"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "AIツールは修行の「道具」ガル！うまく使いこなそう！",
+      "background": "mountain",
+      "title": "AIを武器にしよう",
+      "content": "AIは答えをくれる便利な存在ではあるが、本当の価値は考える相手になってくれるところにある。調べる、比べる、作る、直すの各場面で使い分けると、修行のスピードと深さが両方上がる。",
+      "emoji": "🤖",
+      "highlight": "使い分けの例:\n・NotebookLMで整理\n・Codexで実装\n・Sunoで表現"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "今日の修行のコースを選んで、さっそくはじめよう！",
+      "background": "dojo",
+      "title": "コースを選ぼう",
+      "content": "コース選びは「なんとなく人気」より「今の自分が一番試したいもの」を基準にすると続きやすい。1つ終えたら感想を書き、次に何を伸ばしたいか決めると、修行が線ではなく積み上がる。",
+      "emoji": "🎯",
+      "highlight": "選び方の目安:\n・作ってみたい\n・少し難しそう\n・終えた姿が想像できる"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "道場修行の準備完了ガル！さっそく修行を始めよう！🌟",
+      "background": "temple",
+      "title": "修行開始！",
+      "content": "準備ができたら、あとは最初の1本を始めるだけだ。大事なのは才能より、1回目を出して2回目につなげること。修行は、始めた人から本当に強くなる。",
+      "emoji": "🥷",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

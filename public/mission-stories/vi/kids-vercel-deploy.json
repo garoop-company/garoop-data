@@ -1,0 +1,70 @@
+{
+  "title": "Nhiệm vụ triển khai Vercel",
+  "description": "Nhiệm vụ xuất bản trang web đã tạo lên internet!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đại lý! Đây là nhiệm vụ quan trọng nhất! Xuất bản tác phẩm của bạn lên thế giới! 🚀",
+      "background": "hq",
+      "title": "Chỉ thị nhiệm vụ quan trọng nhất",
+      "content": "Nhiệm vụ: Sử dụng Vercel để xuất bản trang web đã tạo lên internet! Điều này sẽ giúp mọi người trên toàn thế giới có thể xem được!",
+      "emoji": "🚀",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Kiểm tra tuyệt đối trước khi xuất bản! Kiểm tra xem có thông tin cá nhân không!",
+      "background": "spy",
+      "title": "Kiểm tra bảo mật",
+      "content": "Trước khi xuất bản lên internet, hãy kiểm tra xem có thông tin cá nhân không! Hãy hỏi ý kiến của bố mẹ bạn.",
+      "emoji": "🔒",
+      "highlight": "Danh sách kiểm tra:\n❌ Không có tên thật\n❌ Không có tên trường\n❌ Không có địa chỉ, số điện thoại\n✅ Bố mẹ bạn đồng ý"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Vercel là 'thư điện tín phép thuật giúp trang web của bạn đến với thế giới'!",
+      "background": "lab",
+      "title": "Vercel là gì?",
+      "content": "Vercel là dịch vụ giúp tự động tạo trang web từ mã nguồn GitHub. Bạn có thể sử dụng miễn phí!",
+      "emoji": "✈️",
+      "highlight": "Cơ chế của Vercel:\nGitHub → Vercel → Xuất bản lên internet\n(Tự động chỉ cần nhập mã nguồn!)"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Đăng nhập vào Vercel và triển khai dự án!",
+      "background": "hq",
+      "title": "Thực hiện kế hoạch triển khai!",
+      "content": "Cùng với bố mẹ bạn, mở Vercel và chọn dự án GitHub để triển khai!",
+      "emoji": "⚡",
+      "highlight": "Hướng dẫn:\n1. Mở vercel.com/new\n2. Đăng nhập bằng GitHub\n3. Chọn dự án\n4. Triển khai!\n5. Kiểm tra URL"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hoàn thành xuất bản lên thế giới! Gửi URL để nhận 480 điểm! 🎉",
+      "background": "spy",
+      "title": "Hoàn thành nhiệm vụ!",
+      "content": "Bạn đã có một trang web có thể truy cập từ khắp nơi trên thế giới! Hãy gửi URL và ảnh chụp màn hình lên Slack!",
+      "emoji": "🌐",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

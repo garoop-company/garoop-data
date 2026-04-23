@@ -1,0 +1,131 @@
+{
+  "title": "Nhập môn đầu tư 〜 Hãy để tiền làm việc cho bạn 〜",
+  "description": "Đầu tư có đáng sợ? Không hẳn! Hãy cùng nhau tìm hiểu những điều cơ bản!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy để tiền làm việc cho bạn thông qua đầu tư! 📈",
+      "background": "space",
+      "title": "Nhập môn đầu tư",
+      "emoji": "📈",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Tiết kiệm và đầu tư khác nhau như thế nào?",
+      "background": "classroom",
+      "title": "Tiết kiệm vs Đầu tư",
+      "content": "Tiết kiệm: An toàn nhưng tăng chậm (0,02% - 1% mỗi năm). Đầu tư: Có rủi ro nhưng có thể tăng nhiều (trung bình 5-10% mỗi năm). Lạm phát (tăng giá) 2% mỗi năm, tiết kiệm 1% mỗi năm là thua lỗ!",
+      "emoji": "⚖️",
+      "highlight": "Lạm phát 2% > lãi suất tiết kiệm 0,02% → Tiết kiệm thì 'lỗ' thực tế"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Đầu tư có nhiều loại khác nhau!",
+      "background": "city",
+      "title": "Các loại đầu tư",
+      "content": "Các loại đầu tư chính là ① Chứng khoán (mua một phần của công ty) ② Trái phiếu (cho quốc gia hoặc công ty vay tiền) ③ Bất động sản (đầu tư vào đất đai, nhà cửa) ④ Quỹ đầu tư (do chuyên gia quản lý) ⑤ Tiền mã hóa (tiền tệ kỹ thuật số). Mỗi loại có rủi ro và lợi nhuận kỳ vọng khác nhau.",
+      "emoji": "🗂️",
+      "highlight": "Rủi ro thấp → Rủi ro cao: Trái phiếu < Quỹ đầu tư < Chứng khoán < Tiền mã hóa"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Bạn đã biết 'Không bỏ tất cả trứng vào một rổ'?",
+      "background": "forest",
+      "title": "Tầm quan trọng của đầu tư phân tán",
+      "content": "Không nên bỏ tất cả tiền vào một loại đầu tư (một rổ). Vì vậy, phân tán đầu tư là điều quan trọng (đầu tư phân tán). Khi một loại đầu tư giảm, các loại khác có thể bù đắp!",
+      "emoji": "🥚",
+      "highlight": "Đầu tư phân tán = Chiến lược giảm thiểu rủi ro bằng cách chia rủi ro thành nhiều phần"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tại sao 'đầu tư dài hạn' là mạnh nhất?",
+      "background": "space",
+      "title": "Sức mạnh của đầu tư dài hạn",
+      "content": "Mua bán ngắn hạn rất khó. Nhưng nếu giữ lâu dài thì sao? Chỉ số S&P 500 (chỉ số chứng khoán tiêu biểu của Mỹ) trong 30 năm qua có lợi nhuận trung bình 10% mỗi năm! Mỗi tháng đầu tư 1 triệu đồng trong 30 năm sẽ được khoảng 20 triệu đồng!",
+      "emoji": "⏳",
+      "highlight": "Mỗi tháng 1 triệu đồng x lãi suất 7% x 30 năm = khoảng 1,188 triệu đồng → khoảng 3,000 triệu đồng (hiệu ứng lãi kép)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Quỹ đầu tư có thể bắt đầu từ số tiền nhỏ?",
+      "background": "ocean",
+      "title": "Cơ chế của quỹ đầu tư",
+      "content": "Quỹ đầu tư là dịch vụ tập hợp tiền từ nhiều người và do chuyên gia quản lý. Một số quỹ cho phép bắt đầu từ 100 đồng! Quỹ chỉ số (đầu tư vào toàn bộ thị trường) có phí thấp và phù hợp cho người mới bắt đầu.",
+      "emoji": "🎪",
+      "highlight": "Quỹ chỉ số: Phân tán vào toàn bộ thị trường → Chi phí thấp → Trong dài hạn, phần lớn các chuyên gia không thể thắng"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn đã nghe nói về NISA và iDeCo?",
+      "background": "city",
+      "title": "Chế độ ưu đãi thuế: NISA",
+      "content": "NISA (Chế độ miễn thuế đầu tư nhỏ) là chế độ không phải nộp thuế lợi nhuận đầu tư! Thông thường, lợi nhuận bị thuế 20,315%. Từ năm 2024, NISA mới sẽ bắt đầu, cho phép đầu tư tối đa 360 triệu đồng mỗi năm mà không phải nộp thuế.",
+      "emoji": "🏅",
+      "highlight": "NISA mới: 360 triệu đồng mỗi năm, 1,8 tỷ đồng trong cả đời, miễn thuế. Bắt đầu từ tháng 1 năm 2024"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Nếu có 10 triệu đồng, bạn sẽ đầu tư như thế nào?",
+      "background": "candy",
+      "title": "Mô phỏng đầu tư!",
+      "content": "Hãy tưởng tượng 10 triệu đồng được đầu tư vào ① Toàn bộ chứng khoán ② Toàn bộ tiết kiệm ③ Chứng khoán 5 triệu + Trái phiếu 3 triệu + Tiền mặt 2 triệu - Sau 10 năm, mỗi loại sẽ ra sao? Bạn sẽ thấy lý do tại sao đầu tư phân tán lại ổn định.",
+      "emoji": "💭",
+      "highlight": "'Rủi ro' = Nguy cơ, không phải là điều nguy hiểm; rủi ro có thể mang lại lợi nhuận lớn"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Hãy cẩn thận với lừa đảo đầu tư!",
+      "background": "classroom",
+      "title": "Không bị lừa đảo đầu tư",
+      "content": "'Đảm bảo sinh lời tuyệt đối!' hoặc 'Lãi suất 30% mỗi năm, bảo đảm vốn!' là dấu hiệu của lừa đảo. Đầu tư luôn có rủi ro. Hãy mở tài khoản tại các công ty chứng khoán và ngân hàng được cơ quan tài chính cho phép. Nếu có điều gì đáng ngờ, hãy hỏi ngay!",
+      "emoji": "⚠️",
+      "highlight": "Lãi suất trên 10% mỗi năm với 'đảm bảo vốn' = 99,9% là lừa đảo!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn đã nắm vững kiến thức cơ bản về đầu tư! Tiếp theo là thị trường chứng khoán! 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

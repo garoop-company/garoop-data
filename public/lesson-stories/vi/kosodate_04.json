@@ -1,0 +1,131 @@
+{
+  "title": "Giáo dục ẩm thực - Ăn uống là sống",
+  "description": "Cùng Garu học giáo dục ẩm thực một cách thú vị!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Chế độ ăn uống quyết định tương lai của trẻ em! Hãy học khoa học về giáo dục ẩm thực!",
+      "background": "forest",
+      "title": "Giáo dục ẩm thực - Ăn uống là sống",
+      "emoji": "🥦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học giáo dục ẩm thực!",
+      "background": "classroom",
+      "title": "Giáo dục ẩm thực là gì?",
+      "content": "Giáo dục ẩm thực là giáo dục kiến thức về thực phẩm và kỹ năng lựa chọn thực phẩm, giúp hình thành thói quen ăn uống lành mạnh. Năm 2005, Luật cơ bản về giáo dục ẩm thực được ban hành và thực hiện tại Nhật Bản, trong các trường học, gia đình và cộng đồng!",
+      "emoji": "🍱",
+      "highlight": "Luật cơ bản về giáo dục ẩm thực: Thực hiện năm 2005. Mục tiêu giúp trẻ em phát triển khả năng sống thông qua ẩm thực."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học giáo dục ẩm thực!",
+      "background": "ocean",
+      "title": "Tại sao trẻ em ăn sáng có thành tích học tập tốt hơn?",
+      "content": "Trẻ em ăn sáng có thành tích học tập, khả năng tập trung và thể lực tốt hơn trẻ em không ăn sáng (theo khảo sát của Bộ Giáo dục Nhật Bản). Não bộ chỉ sử dụng glucose làm nguồn năng lượng. Nếu không ăn sáng, não bộ sẽ bị đói trong suốt buổi sáng!",
+      "emoji": "🌅",
+      "highlight": "Trẻ em ăn sáng hàng ngày: Đạt điểm cao hơn trong các bài kiểm tra so với trẻ em không ăn sáng."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học giáo dục ẩm thực!",
+      "background": "forest",
+      "title": "Tác dụng của việc ăn uống cùng nhau",
+      "content": "Ăn uống cùng nhau có tác dụng: Tăng vốn từ vựng, ổn định tinh thần, đa dạng hóa thực phẩm và ngăn chặn hành vi sai lầm. Các nghiên cứu cho thấy trẻ em ăn uống cùng nhau có chỉ số sức khỏe tinh thần cao hơn!",
+      "emoji": "👨‍👩‍👧‍👦",
+      "highlight": "Trẻ em ăn uống cùng nhau: Có chỉ số tự trọng, sức khỏe tinh thần và thành tích học tập cao hơn trẻ em ăn uống một mình (theo nhiều nghiên cứu)."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học giáo dục ẩm thực!",
+      "background": "space",
+      "title": "Làm thế nào để giúp trẻ em không kén ăn?",
+      "content": "Trẻ em thường kén ăn do vị giác nhạy cảm. Biện pháp: ① Cho trẻ tham gia nấu ăn ② Cho trẻ ăn nhiều lần với số lượng nhỏ ③ Không ép trẻ ăn nếu trẻ không thích - ép trẻ sẽ làm trẻ càng không thích!",
+      "emoji": "🥕",
+      "highlight": "Khoa học về kén ăn: Sở thích vị giác có thể thay đổi sau 10-15 lần tiếp xúc với thực phẩm."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học giáo dục ẩm thực!",
+      "background": "ocean",
+      "title": "Giáo dục ẩm thực và nông nghiệp: 'Thực phẩm đến từ đâu'",
+      "content": "Nhiều trẻ em ở thành phố nghĩ rằng thực phẩm được sinh ra từ siêu thị. Thông qua trải nghiệm nông nghiệp, tìm hiểu nguồn gốc thực phẩm và xem quá trình nấu ăn, trẻ em sẽ có lòng biết ơn và hứng thú với ẩm thực!",
+      "emoji": "🌾",
+      "highlight": "Giáo dục ẩm thực và nông nghiệp: Trẻ em trồng rau sẽ ăn rau nhiều hơn."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học giáo dục ẩm thực!",
+      "background": "classroom",
+      "title": "Cạm bẫy của đường và phụ gia",
+      "content": "Cần chú ý đến đường, màu nhân tạo và chất bảo quản trong thực phẩm dành cho trẻ em. Tiêu thụ đường quá mức có thể dẫn đến sâu răng, béo phì và giảm khả năng tập trung. Hãy cho trẻ ăn thực phẩm tự nhiên!",
+      "emoji": "⚠️",
+      "highlight": "Lượng đường tiêu thụ của trẻ em Nhật Bản: Thường vượt quá mức khuyến nghị. Cần chú ý đến đồ uống lạnh."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học giáo dục ẩm thực!",
+      "background": "forest",
+      "title": "Học hỏi từ văn hóa ẩm thực và nuôi dạy con của thế giới",
+      "content": "Trẻ em Pháp học nấu ăn Pháp từ mẫu giáo. Chế độ ăn Địa Trung Hải (dầu ô liu, cá, rau) giúp tăng cường chức năng nhận thức của trẻ em. 'Một súp, ba món' của Nhật Bản được đánh giá là lành mạnh trên toàn thế giới!",
+      "emoji": "🌍",
+      "highlight": "Chế độ ăn Địa Trung Hải và thành tích học tập của trẻ em: Nghiên cứu tại Tây Ban Nha cho thấy trẻ em có chỉ số chế độ ăn Địa Trung Hải cao có chức năng nhận thức và khả năng tập trung tốt hơn."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học giáo dục ẩm thực!",
+      "background": "city",
+      "title": "Tác dụng giáo dục của việc nấu ăn cùng nhau",
+      "content": "Nấu ăn cùng trẻ em là phương pháp giáo dục tuyệt vời với 4 lợi ích: ① Toán học (đo lường, phân số) ② Khoa học (nhiệt, biến đổi hóa học) ③ Đọc viết (công thức nấu ăn) ④ Hợp tác - giúp trẻ em phát triển toàn diện!",
+      "emoji": "👩‍🍳",
+      "highlight": "Trẻ em nấu ăn cùng nhau: Tăng hứng thú với ẩm thực, tăng tiêu thụ rau và cải thiện kén ăn."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Học xong giáo dục ẩm thực! Tiếp theo là giáo dục cảm xúc 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

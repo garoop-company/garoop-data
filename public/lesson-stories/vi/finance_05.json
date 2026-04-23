@@ -1,0 +1,131 @@
+{
+  "title": "Thị trường chứng khoán - Mua một phần của công ty",
+  "description": "Cùng Garu tìm hiểu về cơ chế của thị trường chứng khoán một cách dễ dàng!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Chứng khoán là gì? Cùng tìm hiểu nhé! 📊",
+      "background": "city",
+      "title": "Thị trường chứng khoán",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mua chứng khoán là gì?",
+      "background": "classroom",
+      "title": "Chứng khoán là gì",
+      "content": "Các công ty phát hành 'cổ phiếu' để thu tiền bắt đầu kinh doanh. Khi mua một cổ phiếu, bạn trở thành 'chủ sở hữu một phần' của công ty đó! Nếu công ty phát triển, giá trị cổ phiếu sẽ tăng.",
+      "emoji": "🏢",
+      "highlight": "Cổ đông = Chủ sở hữu công ty. Cổ tức (lợi nhuận chia sẻ) cũng được nhận!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Sàn giao dịch chứng khoán Tokyo là gì?",
+      "background": "city",
+      "title": "Cơ chế của sàn giao dịch chứng khoán",
+      "content": "Sàn giao dịch chứng khoán Tokyo (TSE) là nơi mua bán cổ phiếu. Hiện có 3 thị trường: Prime, Standard và Growth. Trên thế giới có NYSE (New York) và NASDAQ (Nasdaq) nổi tiếng.",
+      "emoji": "🏛️",
+      "highlight": "TSE Prime: Khoảng 1.800 công ty niêm yết. Giá trị vốn hóa hơn 800 nghìn tỷ yên (2024)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Tại sao giá cổ phiếu lại tăng hoặc giảm?",
+      "background": "space",
+      "title": "Lý do giá cổ phiếu thay đổi",
+      "content": "Giá cổ phiếu được quyết định bởi sự cân bằng giữa 'cầu (người muốn mua)' và 'cung (người muốn bán)'. Nếu hoạt động kinh doanh của công ty tốt → người muốn mua tăng → giá cổ phiếu tăng. Tin tức, chỉ số kinh tế và tình hình thế giới cũng ảnh hưởng lớn.",
+      "emoji": "📉📈",
+      "highlight": "Giá cổ phiếu = Con số 'kỳ vọng' vào công ty"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Chỉ số Nikkei và TOPIX là gì?",
+      "background": "ocean",
+      "title": "Hiểu về chỉ số chứng khoán",
+      "content": "Chỉ số Nikkei: Giá cổ phiếu trung bình của 225 công ty đại diện cho Nhật Bản. TOPIX: Chỉ số thể hiện biến động của toàn bộ TSE. S&P500: Chỉ số của 500 công ty Mỹ. Dow: Chỉ số của 30 công ty Mỹ. Là 'nhiệt kế' của nền kinh tế!",
+      "emoji": "🌡️",
+      "highlight": "Chỉ số Nikkei: Khoảng 40.000 yên (Cập nhật mức cao mới vào tháng 3 năm 2024) → Lần đầu sau bong bóng!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Khi sở hữu cổ phiếu của các công ty nổi tiếng, điều gì sẽ xảy ra?",
+      "background": "classroom",
+      "title": "Quyền của cổ đông",
+      "content": "Khi trở thành cổ đông, bạn sẽ có quyền: ① Cổ tức (một phần lợi nhuận của công ty) ② Ưu đãi cổ đông (sản phẩm, phiếu giảm giá,...) ③ Quyền biểu quyết (được bỏ phiếu cho các quyết định quan trọng của công ty)! Cổ đông của Toyota cũng được giảm giá xe Toyota!",
+      "emoji": "🎁",
+      "highlight": "Ví dụ về ưu đãi cổ đông: Cổ phiếu McDonald's → Phiếu burger miễn phí, Nintendo → Giảm giá trò chơi"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bí quyết để không thất bại khi đầu tư chứng khoán!",
+      "background": "forest",
+      "title": "Chiến lược cơ bản của đầu tư chứng khoán",
+      "content": "① Buy & Hold (mua và giữ lâu dài) ② Đầu tư phân tán (giữ nhiều mã cổ phiếu) ③ Phương pháp trung bình chi phí đô la (mua một khoản cố định mỗi tháng). Đừng cố gắng 'đọc' thời điểm thị trường mà hãy để thời gian là đồng minh!",
+      "emoji": "🧠",
+      "highlight": "Phương pháp trung bình chi phí đô la: Khi giá cao, mua ít, khi giá thấp, mua nhiều → Giảm chi phí trung bình"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy thử tìm hiểu về cổ phiếu của công ty bạn quan tâm!",
+      "background": "candy",
+      "title": "Thử đầu tư ảo!",
+      "content": "Hãy tìm hiểu giá cổ phiếu của thương hiệu yêu thích (Apple, Toyota, Nintendo,...). So sánh giá cổ phiếu một năm trước và hiện tại, bạn sẽ thấy sự biến động! Có thể kiểm tra trên ứng dụng chứng khoán hoặc trang web của công ty chứng khoán!",
+      "emoji": "🔍",
+      "highlight": "Giá cổ phiếu có thể kiểm tra hàng ngày trên ứng dụng miễn phí: Yahoo! Finance, SBI Securities,..."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cổ phiếu chưa niêm yết (IPO) giống như vé số may mắn!",
+      "background": "space",
+      "title": "IPO (niêm yết lần đầu) là gì",
+      "content": "IPO (Initial Public Offering) là khi công ty niêm yết trên thị trường chứng khoán lần đầu. Các mã IPO hot có thể tăng vài lần trong ngày đầu tiên niêm yết! Nhưng cũng có thể không may. Cần抽選 và tỷ lệ cạnh tranh cao.",
+      "emoji": "🚀",
+      "highlight": "Ví dụ IPO nổi tiếng: LINE (2016), Mercari (2018), Rare Job → Giá niêm yết đầu tiên tăng 2-5 lần"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Cơ chế của thị trường chứng khoán đã rõ ràng! Tiếp theo là phép thuật lãi kép! 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

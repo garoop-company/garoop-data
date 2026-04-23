@@ -1,0 +1,131 @@
+{
+  "title": "Let's Create an MVP ~Testing Ideas at Maximum Speed~",
+  "description": "Let's have fun learning about creating MVPs with Gal-chan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's quickly validate the market with an MVP (Minimum Viable Product)!",
+      "background": "city",
+      "title": "Let's Create an MVP ~Testing Ideas at Maximum Speed~",
+      "emoji": "🏗️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about creating MVPs with Gal-chan!",
+      "background": "classroom",
+      "title": "What is an MVP?",
+      "content": "MVP (Minimum Viable Product) = a product with only the minimum necessary features. A strategy to quickly test whether 'there is really a demand for this' with a minimal version before creating a perfect product! Minimizes failure costs!",
+      "emoji": "🚀",
+      "highlight": "Dropbox MVP: gained over 75,000 registrants with just a 'demo video' without an actual service!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about creating MVPs with Gal-chan!",
+      "background": "forest",
+      "title": "Airbnb's Idea Validation Story",
+      "content": "The founders of Airbnb initially experimented by renting out a room in their apartment. No website, no app, just a photo. They proved that 'people would stay in a stranger's home' and then created the service!",
+      "emoji": "🏠",
+      "highlight": "Airbnb's early days: experimented by renting out their home → confirmed demand → developed full-scale service"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about creating MVPs with Gal-chan!",
+      "background": "space",
+      "title": "Testing with a Paper MVP",
+      "content": "Before creating an app, you can conduct user testing with a 'paper UI'. Just ask, 'What do you think will happen if you tap this?' and get real feedback. Costs 0 and gets valuable insights!",
+      "emoji": "📄",
+      "highlight": "Paper prototyping: test UI/UX with just paper and pen. No tech skills needed!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about creating MVPs with Gal-chan!",
+      "background": "ocean",
+      "title": "Verifying Needs with a Landing Page (LP)",
+      "content": "Even without an actual service, create an LP and put a 'pre-registration button' to gauge demand. If registrants gather, there's demand! Also effective to use a small amount of Google or Facebook ads to see reactions with an 'ad MVP'.",
+      "emoji": "🌐",
+      "highlight": "LP (Landing Page) MVP: measure 'how many people want this' at low cost without an actual service"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about creating MVPs with Gal-chan!",
+      "background": "city",
+      "title": "Improving with User Interviews",
+      "content": "Ask users who used the MVP about 'what they liked, what they didn't, and what they'd like to improve'. This cycle of 'agile development' is repeated quickly, which is the basics of modern startups!",
+      "emoji": "🔄",
+      "highlight": "Agile development: repeat 'build → test → improve' in 2-week cycles"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about creating MVPs with Gal-chan!",
+      "background": "classroom",
+      "title": "Let's Create a Prototype",
+      "content": "Create a physical product prototype with LEGO, an app screen design with Figma, or a simple service with Google Forms. Use tools to quickly create something to show, which is the first step to making an idea a reality!",
+      "emoji": "🔨",
+      "highlight": "Prototype creation tools: Figma (free), Canva, Scratch, Google services"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about creating MVPs with Gal-chan!",
+      "background": "space",
+      "title": "Build-Measure-Learn",
+      "content": "The core of Lean Startup: ① create a product based on an idea, ② measure results with numbers, ③ make adjustments based on learnings. This cycle is the most surefire way to grow a business!",
+      "emoji": "🔬",
+      "highlight": "Lean Startup: by Eric Ries. A management philosophy adopted by startups worldwide"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about creating MVPs with Gal-chan!",
+      "background": "forest",
+      "title": "Failure is Data",
+      "content": "Even if the MVP fails, it's okay! Failure is data that 'this approach didn't work'. Pivot and evolve into a better idea!",
+      "emoji": "📊",
+      "highlight": "YouTube originally: started as a dating video sharing service → failed → changed direction to general video sharing → succeeded!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Master the MVP strategy! Next, let's get to know your customers 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

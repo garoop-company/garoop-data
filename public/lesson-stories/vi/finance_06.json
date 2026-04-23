@@ -1,0 +1,131 @@
+{
+  "title": "Phép thuật của lãi kép - Kỳ quan thứ 8 của thế giới",
+  "description": "Cùng khám phá sức mạnh của lãi kép, được Einstein gọi là 'kỳ quan thứ 8 của thế giới'!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Lãi kép như phép thuật! Cùng trải nghiệm nhé ✨",
+      "background": "space",
+      "title": "Phép thuật của lãi kép",
+      "emoji": "✨",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Lãi đơn và lãi kép khác nhau như thế nào?",
+      "background": "classroom",
+      "title": "Lãi đơn vs Lãi kép",
+      "content": "Lãi đơn: chỉ tính lãi trên số tiền gốc. Lãi kép: tính lãi trên cả lãi! Ví dụ: 1 triệu đồng với lãi suất 10%/năm trong 10 năm. Lãi đơn → 2 triệu đồng. Lãi kép → khoảng 2,59 triệu đồng! Tạo ra sự chênh lệch 590.000 đồng.",
+      "emoji": "🌱",
+      "highlight": "Lãi đơn: 1 triệu × 10% × 10 năm = 2 triệu | Lãi kép: 1 triệu × (1,1)^10 = khoảng 2,59 triệu"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn biết quy tắc 72 không?",
+      "background": "city",
+      "title": "Quy tắc 72",
+      "content": "Số năm để tiền tăng gấp đôi = 72 ÷ Lãi suất hàng năm! Nếu lãi suất 6%/năm thì 72 ÷ 6 = 12 năm để tăng gấp đôi. Nếu lãi suất 12%/năm thì 6 năm để tăng gấp đôi. Nhìn từ góc độ khác, nếu lạm phát 3%/năm thì 24 năm sau giá trị tiền sẽ giảm một nửa!",
+      "emoji": "🔢",
+      "highlight": "Quy tắc 72: Lãi suất 3% → 24 năm để tăng gấp đôi | 6% → 12 năm để tăng gấp đôi | 12% → 6 năm để tăng gấp đôi"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Bắt đầu sớm càng có lợi!",
+      "background": "forest",
+      "title": "Bắt đầu sớm càng có lợi",
+      "content": "Anh A: 20 tuổi bắt đầu tiết kiệm 1 triệu đồng/tháng (lãi suất 7%/năm) → 60 tuổi có khoảng 2,6 tỷ đồng. Anh B: 30 tuổi bắt đầu tiết kiệm 2 triệu đồng/tháng (lãi suất 7%/năm) → 60 tuổi có khoảng 2,4 tỷ đồng. Với số tiền đầu tư bằng một nửa, anh A lại có nhiều hơn! Thời gian là người bạn đồng hành mạnh mẽ nhất!",
+      "emoji": "👶",
+      "highlight": "Bắt đầu từ 20 tuổi (1 triệu/tháng) vs 30 tuổi (2 triệu/tháng) → Bắt đầu từ 20 tuổi nhiều hơn 200 triệu!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Nếu đồng tiền 1 đồng được nhân đôi mỗi ngày trong 30 ngày thì sao?",
+      "background": "space",
+      "title": "Tăng trưởng theo cấp số nhân",
+      "content": "Nếu 1 đồng được nhân đôi mỗi ngày → 30 ngày sau sẽ là khoảng 10 tỷ đồng! Lãi kép là 'tăng trưởng theo cấp số nhân' - ban đầu tăng chậm nhưng sau đó sẽ tăng nhanh như vũ bão.",
+      "emoji": "🚀",
+      "highlight": "1 đồng × 2^30 = 1.073.741.824 đồng (khoảng 10 tỷ đồng!)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Kẻ thù của lãi kép là chi phí và thời gian!",
+      "background": "ocean",
+      "title": "Bí quyết tận dụng lãi kép",
+      "content": "Bí quyết để tối đa hóa lãi kép: ① Bắt đầu sớm ② Giảm phí (phí quản lý quỹ) ③ Sử dụng chính sách ưu đãi thuế (NISA) ④ Không rút tiền. 'Thời gian - Chi phí thấp - Ưu đãi thuế - Liên tục' là 4 chìa khóa!",
+      "emoji": "🔑",
+      "highlight": "Phí 1% khác biệt có thể tạo ra sự chênh lệch hàng trăm triệu sau 30 năm → quỹ chỉ số chi phí thấp có lợi hơn"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bí mật của Warren Buffett là lãi kép!",
+      "background": "city",
+      "title": "Warren Buffett và lãi kép",
+      "content": "Tài sản của 'vua đầu tư' Warren Buffett hơn 99% được tạo ra sau tuổi 60! Kết quả của việc đầu tư lãi kép với lãi suất hàng năm khoảng 20% trong 65 năm. Ai cũng có thể xây dựng tài sản với lãi kép và thời gian!",
+      "emoji": "👴",
+      "highlight": "Tài sản của Buffett: 11 tuổi $114 → 92 tuổi $1,140 tỷ (lãi kép 20%/năm × 80 năm)"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy thử mô phỏng lãi kép!",
+      "background": "candy",
+      "title": "Tính toán lãi kép",
+      "content": "Giả sử bắt đầu từ hôm nay, tiết kiệm 5 triệu đồng/tháng với lãi suất 5%/năm trong 30 năm. Hãy tính toán bằng máy tính hoặc ứng dụng mô phỏng trên điện thoại! Các ngân hàng và công ty chứng khoán đều có công cụ miễn phí.",
+      "emoji": "🧮",
+      "highlight": "Tiết kiệm 5 triệu đồng/tháng × lãi suất 5%/năm × 30 năm = 1,8 tỷ đồng gốc sẽ tăng lên khoảng 4,16 triệu đồng! (khoảng 2,3 lần)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Lãi kép của nợ là 'lãi kép ngược' và rất nguy hiểm!",
+      "background": "classroom",
+      "title": "Cẩn thận với lãi kép của nợ",
+      "content": "Lãi kép có thể là bạn hoặc kẻ thù. Lãi suất thẻ tín dụng trả góp 15-18%/năm là lãi kép tăng nhanh như tuyết lở! Nếu nợ 10 triệu đồng với lãi suất 18%/năm trong 5 năm sẽ lên đến hơn 22 triệu đồng! Cẩn thận với lãi kép của nợ.",
+      "emoji": "⚠️",
+      "highlight": "Trả góp thẻ tín dụng 18%/năm cho 10 triệu đồng: 5 năm sau → khoảng 22 triệu, 10 năm sau → khoảng 48 triệu!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đã thành thạo phép thuật của lãi kép! Tiếp theo hãy học về tiền điện tử nhé 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

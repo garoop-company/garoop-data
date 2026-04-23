@@ -1,6 +1,6 @@
 {
-  "title": "Mulai Belajar!",
-  "description": "Selamat datang di Garoop! Ayo belajar hal-hal seru bersama Garuchan!",
+  "title": "Mulai Pelajaran!",
+  "description": "Selamat datang di Garoop! Ayo belajar dengan menyenangkan bersama Garu-chan!",
   "bgTheme": "space",
   "scenes": [
     {
@@ -8,82 +8,88 @@
       "type": "intro",
       "duration": 5000,
       "garuchanAnimation": "wave",
-      "speech": "Selamat datang! Aku Garuchan! Ayo belajar bersama-sama!",
+      "speech": "Selamat datang! Ayo belajar dengan menyenangkan bersama Garu-chan!",
       "background": "space",
       "title": "Selamat Datang di Garoop!",
       "emoji": "🌟",
-      "effects": ["sparkle", "stars"]
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
     },
     {
       "id": 2,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "float",
-      "speech": "Garoop adalah platform belajar untuk anak-anak tentang teknologi dan AI!",
+      "speech": "Garoop adalah tempat di mana anak-anak dapat belajar teknologi dan AI dengan menyenangkan!",
       "background": "city",
       "title": "Apa itu Garoop?",
-      "content": "Di Garoop, kamu bisa belajar programming, AI, matematika, dan pengembangan game dengan cara yang menyenangkan!",
+      "content": "Pemrograman, AI, matematika, dan pengembangan game dapat dipelajari dengan cara yang menyenangkan. Ayo maju bersama!",
       "emoji": "🎓",
-      "highlight": "💻 Coding  🤖 AI  🔢 Math  🎮 Game"
+      "highlight": "💻 Pemrograman  🤖 AI  🔢 Matematika  🎮 Pengembangan Game"
     },
     {
       "id": 3,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "bounce",
-      "speech": "Cara belajar terbaik adalah dengan mencoba dan membuat sesuatu sendiri!",
+      "speech": "Cara belajar terbaik adalah dengan mencoba sendiri!",
       "background": "classroom",
-      "title": "Cara Belajar yang Efektif",
-      "content": "Jangan hanya menonton - coba langsung! Buat proyek kecil, eksplorasi, dan jangan takut salah. Kesalahan adalah cara belajar!",
+      "title": "Cara Belajar Efektif",
+      "content": "Jangan hanya melihat, tapi coba sendiri! Gagal juga tidak apa-apa. Gagal adalah bukti bahwa kita sedang tumbuh!",
       "emoji": "✏️",
-      "highlight": "Lihat → Coba → Gagal → Perbaiki → Berhasil!"
+      "highlight": "Melihat → Mencoba → Gagal → Memperbaiki → Sukses! ①②③"
     },
     {
       "id": 4,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "float",
-      "speech": "AI adalah teknologi masa depan yang sudah ada di sekitar kita sekarang!",
+      "speech": "AI sudah ada di sekitar kita. Teknologi masa depan sudah ada di sini!",
       "background": "space",
       "title": "Dunia AI",
-      "content": "ChatGPT, gambar AI, musik AI - semua ini adalah contoh teknologi yang bisa kamu pelajari dan gunakan!",
+      "content": "ChatGPT, AI penghasil gambar, AI musik, dan lain-lain, sudah banyak teknologi hebat yang bisa digunakan sekarang!",
       "emoji": "🤖",
-      "highlight": "🎨 Gambar AI  🎵 Musik AI  💬 Chat AI  🔧 Code AI"
+      "highlight": "🎨 AI Penghasil Gambar  🎵 AI Musik  💬 Chat AI  🔧 AI Pengkodean"
     },
     {
       "id": 5,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "bounce",
-      "speech": "Programming adalah skill penting untuk masa depan. Mulai dari sekarang!",
+      "speech": "Pemrograman adalah keterampilan yang dibutuhkan di masa depan! Ayo mulai sekarang!",
       "background": "forest",
-      "title": "Kenapa Harus Belajar Coding?",
-      "content": "Di masa depan, hampir semua pekerjaan akan berkaitan dengan teknologi. Belajar coding sekarang berarti mempersiapkan masa depan cerah!",
+      "title": "Mengapa Belajar Pemrograman?",
+      "content": "Banyak pekerjaan di masa depan yang terkait dengan teknologi. Belajar pemrograman sekarang adalah persiapan untuk masa depan yang cerah!",
       "emoji": "💡",
-      "highlight": "2030: 85% pekerjaan baru belum ada sekarang!"
+      "highlight": "2030: 85% pekerjaan yang belum ada sekarang akan muncul! →"
     },
     {
       "id": 6,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "float",
-      "speech": "Tentukan tujuan belajarmu! Mau jadi apa kamu di masa depan?",
+      "speech": "Tentukan tujuanmu! Siapa yang ingin kamu menjadi di masa depan?",
       "background": "ocean",
       "title": "Tentukan Tujuanmu!",
-      "content": "Programmer? Game developer? AI scientist? Entrepreneur? Apapun impianmu, mulailah belajar hari ini! Satu langkah kecil mengubah segalanya!",
+      "content": "Pemrogram? Pengembang game? Peneliti AI? Wirausaha? Apa pun mimpimu, ayo maju langkah demi langkah!",
       "emoji": "🎯",
-      "highlight": "Mimpi Besar + Langkah Kecil = Sukses!"
+      "highlight": "Mimpi besar + Langkah kecil = Sukses! ①②"
     },
     {
       "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "bounce",
-      "speech": "Ayo mulai petualangan belajarmu! Garuchan selalu menemanimu!",
+      "speech": "Ayo belajar bersama! Garu-chan selalu ada di sampingmu!",
       "background": "space",
       "title": "Pelajaran Selesai!",
       "emoji": "🎉",
-      "effects": ["confetti", "stars"]
+      "effects": [
+        "confetti",
+        "stars"
+      ]
     }
   ]
 }

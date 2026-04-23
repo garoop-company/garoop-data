@@ -1,0 +1,81 @@
+{
+  "title": "Latihan Video",
+  "description": "Mari kita mulai latihan produksi video!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Selamat datang di Video Dojo! Anda bisa menjadi sutradara film hanya dengan satu smartphone! 🎬",
+      "background": "dojo",
+      "title": "Selamat datang di Video Dojo!",
+      "content": "Video adalah 'alat ajaib' yang mengubah apa yang ingin Anda sampaikan menjadi gambar. Mari kita pelajari tiga langkah: perencanaan, pengambilan gambar, dan pengeditan!",
+      "emoji": "🎥",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Pertama, tentukan siapa yang ingin Anda sampaikan, apa yang ingin Anda sampaikan, dan bagaimana Anda ingin menyampaikannya!",
+      "background": "bamboo",
+      "title": "Latihan Perencanaan",
+      "content": "Sebelum membuat video, tulis 'dokumen perencanaan'. Bahkan video 1 menit memerlukan perencanaan!",
+      "emoji": "📋",
+      "highlight": "Tiga elemen dokumen perencanaan:\nSiapa  → Teman seusia\nApa  → Pengenalan game favorit\nPerasaan → Saya ingin Anda merasa senang"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuru akan mengajari Anda tips kamera! Ingat aturan sepertiga!",
+      "background": "mountain",
+      "title": "Latihan Pengambilan Gambar",
+      "content": "Bagi layar menjadi tiga bagian secara vertikal dan horizontal, dan letakkan hal-hal penting di persimpangan untuk mendapatkan gambar yang indah. Ini adalah 'aturan sepertiga'!",
+      "emoji": "📐",
+      "highlight": "Tiga tips pengambilan gambar:\n① Sadari aturan sepertiga\n② Cahaya harus datang dari depan wajah\n③ Gerakkan kamera perlahan"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita minta AI membuat skenario video untuk kita!",
+      "background": "dojo",
+      "title": "Latihan Skenario AI",
+      "content": "Coba minta NotebookLM atau Claude untuk 'membuat skenario untuk video 1 menit'. Apa jenis skenario yang akan dibuatnya?",
+      "emoji": "📝",
+      "highlight": "Contoh prompt:\n'Buat skenario untuk video 1 menit yang memperkenalkan game favorit Anda kepada siswa sekolah dasar. Gunakan 5 baris dialog.'"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Anda juga bisa menggunakan AI untuk menghasilkan video secara otomatis dengan Veo!",
+      "background": "bamboo",
+      "title": "Latihan Menghasilkan Video AI",
+      "content": "Coba gunakan Veo, AI yang membuat video dari teks! Cukup masukkan kata-kata dan itu akan membuat gambar bergerak.",
+      "emoji": "🤖",
+      "highlight": "Mari kita coba:\nMinta Veo untuk 'membuat video kanguru yang bersemangat melompat di hutan bambu'!"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Latihan video selesai! Bagikan video Anda di Slack! 🎉",
+      "background": "temple",
+      "title": "Latihan Selesai!",
+      "content": "Anda telah menguasai produksi video menggunakan perencanaan, pengambilan gambar, dan AI! Tunjukkan video yang sudah jadi kepada semua orang!",
+      "emoji": "🎬",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

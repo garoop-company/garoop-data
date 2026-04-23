@@ -1,0 +1,131 @@
+{
+  "title": "Let's Revitalize Local Areas with Tourism ~Inbound Tourism and Local Branding~",
+  "description": "Let's have fun learning about revitalizing local areas with tourism with Garu-chan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Tourism can save local areas! Let's learn about tourism-based local revitalization together!",
+      "background": "forest",
+      "title": "Let's Revitalize Local Areas with Tourism ~Inbound Tourism and Local Branding~",
+      "emoji": "🏯",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about revitalizing local areas with tourism with Garu-chan!",
+      "background": "ocean",
+      "title": "The Economic Impact of Tourism on Local Areas",
+      "content": "Inbound tourism (foreign visitors to Japan) reached 31.88 million people and ¥4.8 trillion in consumption in 2019. After COVID-19, it recovered to around 25 million people in 2023. Local tourist spots see a significant increase in local money and job creation!",
+      "emoji": "✈️",
+      "highlight": "Average consumption per foreign visitor: ¥210,000 per trip. Even higher in local tourist spots"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about revitalizing local areas with tourism with Garu-chan!",
+      "background": "forest",
+      "title": "Japan's Culture and Nature are World Treasures!",
+      "content": "Japan has 25 World Heritage sites (as of 2024). Ninja, samurai, anime, tea, hot springs, cherry blossoms, autumn leaves - foreigners want to 'see and experience' these in local areas! What locals take for granted can be special to the world.",
+      "emoji": "🏯",
+      "highlight": "Japan's World Heritage sites: 25 (20 cultural, 5 natural)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about revitalizing local areas with tourism with Garu-chan!",
+      "background": "city",
+      "title": "Become a Chosen Destination through Local Branding",
+      "content": "Creating a 'unique and special' feel is local branding. Kyoto, Hakone, and Shirakawa-go are known worldwide. If you can discover and promote your local area's 'global charm', tourists will come!",
+      "emoji": "🎌",
+      "highlight": "Shirakawa-go: over 200,000 visitors annually. The village has a population of only around 1,600!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about revitalizing local areas with tourism with Garu-chan!",
+      "background": "space",
+      "title": "Experiential Tourism is Popular",
+      "content": "Farm experiences, brewery tours, traditional craft experiences, rice planting, and fishing - locals' 'daily life' can be a 'special experience' for tourists. It's an era where 'who you experience it with' is more important than 'what you do'.",
+      "emoji": "🌾",
+      "highlight": "Market size of experiential tourism: over $180 billion (around ¥26 trillion) worldwide"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about revitalizing local areas with tourism with Garu-chan!",
+      "background": "classroom",
+      "title": "New Tourism Spreading through SNS and Local Areas",
+      "content": "Instagram-worthy spots, TikTok-famous scenic spots, YouTube travel videos - SNS is creating tourist destinations. Tottori Sand Dunes, Nara Park deer, and Kochi's Hirome Market are examples of tourist spots rediscovered through SNS.",
+      "emoji": "📱",
+      "highlight": "Instagram-famous spot: Benten-do (Gunma) - 1,000 visitors per day"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about revitalizing local areas with tourism with Garu-chan!",
+      "background": "ocean",
+      "title": "Sustainable Tourism (Eco-Tourism)",
+      "content": "If too many tourists visit, it can lead to environmental destruction and disturb locals (overtourism). Kyoto has introduced congestion controls. The trend is shifting to 'quality over quantity' tourism that's environmentally friendly and contributes to local areas!",
+      "emoji": "🌱",
+      "highlight": "Kyoto: strengthened regulations, including special bus fares for foreigners and restricted hours"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about revitalizing local areas with tourism with Garu-chan!",
+      "background": "forest",
+      "title": "Nighttime Economy",
+      "content": "Creating tourism that's enjoyable not just during the day but also at night can increase overnight stays and double the economic effect! Hot spring resorts' night views, projection mapping, night markets, and stargazing tours - polishing the nighttime charm can increase overnight stays!",
+      "emoji": "🌙",
+      "highlight": "Overnight consumption with a rich nighttime tourism experience: 3-5 times that of day-trip tourism"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about revitalizing local areas with tourism with Garu-chan!",
+      "background": "city",
+      "title": "Attracting Digital Nomads and Remote Workers",
+      "content": "With the spread of telework, 'workation' (working while traveling) is becoming popular. If local areas can provide a work environment similar to cities (high-speed Wi-Fi, coworking spaces), 'living', 'working', and 'tourism' can become integrated!",
+      "emoji": "💻",
+      "highlight": "Number of remote workers: increased over 10 times after COVID-19 ( Cabinet Office survey)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Mastering Tourism-Based Local Revitalization! Next Step: Promoting Migration🎉",
+      "background": "space",
+      "title": "Lesson Completed!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

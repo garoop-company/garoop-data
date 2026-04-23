@@ -1,0 +1,131 @@
+{
+  "title": "Raising Kids in a Globalized World ~Embracing Diversity~",
+  "description": "Learn about globalized parenting with Gal-chan!",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn how to raise kids who can thrive in a diverse world!",
+      "background": "ocean",
+      "title": "Raising Kids in a Globalized World ~Embracing Diversity~",
+      "emoji": "🌍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Learn about globalized parenting with Gal-chan!",
+      "background": "classroom",
+      "title": "Essential Skills for a Globalized World",
+      "content": "The world our kids will live in requires collaboration with people from diverse cultures and values. The essential skills for the 21st century are: ① English proficiency, ② intercultural understanding, ③ respect for diversity, ④ critical thinking, and ⑤ communication skills.",
+      "emoji": "🌐",
+      "highlight": "21st-century skills (defined by OECD): critical thinking, communication, collaboration, and creativity"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Learn about globalized parenting with Gal-chan!",
+      "background": "forest",
+      "title": "The Truth About Bilingual Education",
+      "content": "Expose your child to a second language by age 3, and they can acquire it just like their native language. Create an environment where they can 'play with English' and 'enjoy English' rather than just 'learning' it. English-speaking friends, songs, and cartoons are great tools!",
+      "emoji": "🗣️",
+      "highlight": "Bilingual brain: develops the prefrontal cortex → improves focus, problem-solving, and cognitive abilities"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Learn about globalized parenting with Gal-chan!",
+      "background": "space",
+      "title": "Cultural Experiences Can Change Your Child",
+      "content": "Expose your child to foreign food, music, and games to broaden their worldview. Homestays, international events, and foreign-language cartoons can help. Kids with diverse perspectives tend to have better problem-solving and creative skills!",
+      "emoji": "✈️",
+      "highlight": "Short-term overseas experience: significantly impacts empathy, adaptability, and identity formation"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Learn about globalized parenting with Gal-chan!",
+      "background": "ocean",
+      "title": "Raising Global Citizens through SDGs Education",
+      "content": "Teach your child about global issues like poverty, environment, and peace. This can inspire them to think about what they can do to make a difference. Use SDGs to foster a global perspective, social awareness, and a sense of agency!",
+      "emoji": "🌱",
+      "highlight": "SDGs education: increasingly implemented in Japanese schools, cultivating the next generation of problem-solvers"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Learn about globalized parenting with Gal-chan!",
+      "background": "forest",
+      "title": "Diversity and Inclusive Education",
+      "content": "Inclusive education, where kids with different backgrounds learn together, is the global standard. Foster an attitude that welcomes diversity and learns from differences from an early age.",
+      "emoji": "🌈",
+      "highlight": "Inclusive education: most effective way to understand and appreciate diversity, regardless of abilities"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Learn about globalized parenting with Gal-chan!",
+      "background": "city",
+      "title": "Broadening Horizons through Reading",
+      "content": "Read books about kids from around the world, translated picture books, and foreign literature. This can help your child experience different cultures, values, and lives. Classics like Anne Frank's Diary, The Lion, the Witch and the Wardrobe, and Harry Potter can connect kids worldwide.",
+      "emoji": "📖",
+      "highlight": "Reading habits and empathy: children who read more tend to have higher empathy and understanding of others"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Learn about globalized parenting with Gal-chan!",
+      "background": "classroom",
+      "title": "Raising Earth-Conscious Kids through Environmental Education",
+      "content": "Forest bathing, beach cleanups, and observing wildlife can foster a sense of responsibility and concern for the environment. Teach your child about environmental issues like climate change and ocean plastic, and encourage them to think about what they can do to help!",
+      "emoji": "🌿",
+      "highlight": "Environmental education: significantly impacts adult environmental behavior and voting patterns"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Learn about globalized parenting with Gal-chan!",
+      "background": "ocean",
+      "title": "Parents as Global Citizens",
+      "content": "Your own values and attitudes can greatly influence your child's international outlook. Even if you don't speak English, showing interest in differences, enjoying travel, and welcoming foreign friends can inspire your child's curiosity about the world!",
+      "emoji": "💕",
+      "highlight": "Parental global experience: positively correlated with children's multicultural acceptance and language learning motivation"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've learned about globalized parenting! 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

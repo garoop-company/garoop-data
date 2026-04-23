@@ -1,0 +1,82 @@
+{
+  "title": "Pembelajaran Musik",
+  "description": "Buat musik Anda sendiri dengan Suno!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Selamat datang di Dojo Musik! Mari kita buat lagu unik dengan AI! 🎵",
+      "background": "bamboo",
+      "title": "Selamat datang di Dojo Musik!",
+      "content": "Dengan Suno AI, Anda dapat membuat lagu hanya dengan menggunakan kata-kata! Anda dapat membuat pop, rock, klasik... jenis lagu apa saja yang Anda inginkan!",
+      "emoji": "🎵",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Untuk membuat lagu, pikirkan genre, suasana hati, dan tema!",
+      "background": "dojo",
+      "title": "Bayangkan Lagu Anda",
+      "content": "Ubah ide lagu Anda menjadi kata-kata. Suasana hati apa yang ingin Anda rasakan? Adegan apa yang ingin Anda mainkan?",
+      "emoji": "🎼",
+      "highlight": "Contoh:\nGenre → Pop ceria\nSuasana hati → Bersemangat!\nTema → Waktu istirahat di sekolah"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita tulis 'kalimat permintaan' untuk Suno dalam bahasa Jepang!",
+      "background": "bamboo",
+      "title": "Pelatihan Prompt",
+      "content": "Pelajari tips untuk berkomunikasi efektif dengan AI. Semakin Anda menjelaskan, semakin dekat lagu yang dihasilkan dengan imajinasi Anda!",
+      "emoji": "✍️",
+      "highlight": "Contoh prompt:\n'Lagu pop ceria untuk siswa sekolah dasar saat pergi berwisata.\nTempo cepat. Dengan lirik bahasa Jepang.'"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Sekarang, mari kita buka Suno dan buat lagu!",
+      "background": "mountain",
+      "title": "Praktik! Mari kita Buat Lagu",
+      "content": "Buka situs web Suno AI dan masukkan prompt Anda. Lagu apa yang akan Anda buat?",
+      "emoji": "🎤",
+      "highlight": "Langkah-langkah:\n1. Buka suno.com\n2. Masukkan prompt\n3. Hasilkan lagu\n4. Dengarkan!"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Jika Anda tidak suka, coba ubah sedikit dan buat lagi!",
+      "background": "dojo",
+      "title": "Perbaiki Lagu Anda",
+      "content": "Tidak apa-apa jika tidak sempurna pada percobaan pertama! Secara bertahap ubah kata-kata untuk mendekati lagu ideal Anda.",
+      "emoji": "🔧",
+      "highlight": "Tips perbaikan:\n・Ubah tempo dari 'cepat' ke 'lambat'\n・Tambahkan genre\n・Coba tambahkan nama instrumen"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Pembelajaran musik selesai! Bagikan lagu Anda dengan semua orang! 🎉",
+      "background": "temple",
+      "title": "Pembelajaran Selesai!",
+      "content": "Lagu unik Anda sudah selesai! Bagikan tautan lagu Anda di Slack!",
+      "emoji": "🎸",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

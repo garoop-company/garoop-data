@@ -1,0 +1,131 @@
+{
+  "title": "制作MVP——快速验证你的创意",
+  "description": "和Garu一起愉快地学习制作MVP！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "用MVP（最小可行产品）快速验证市场！",
+      "background": "city",
+      "title": "制作MVP——快速验证你的创意",
+      "emoji": "🏗️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习制作MVP！",
+      "background": "classroom",
+      "title": "什么是MVP？",
+      "content": "MVP（Minimum Viable Product）= 具备最小功能的產品。在制作完美产品之前，用最小版本的產品快速测试「是否真的有人需要？」，并将失败成本降至最低！",
+      "emoji": "🚀",
+      "highlight": "Dropbox MVP：没有实际服务，仅用「演示视频」就获得了75,000名以上的注册者！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习制作MVP！",
+      "background": "forest",
+      "title": "Airbnb的创意验证故事",
+      "content": "Airbnb的创始人最初尝试将自己的公寓房间出租。没有网站，没有应用，只有照片。这样，他们就证明了「人们可以住在陌生人的房子里」，然后才创建了服务！",
+      "emoji": "🏠",
+      "highlight": "Airbnb初期：尝试将自己的房子出租 → 验证需求 → 开发正式服务"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习制作MVP！",
+      "background": "space",
+      "title": "用纸质MVP进行测试",
+      "content": "在制作应用之前，您可以用「画在纸上的UI」进行用户测试。只需问用户「如果点击这里，你觉得会怎么样？」就可以获得真实的反馈。成本为0，但非常重要！",
+      "emoji": "📄",
+      "highlight": "纸上原型设计：仅用纸和笔就可以进行UI/UX测试，无需技术！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习制作MVP！",
+      "background": "ocean",
+      "title": "用着陆页（LP）验证需求",
+      "content": "即使没有实际服务，您也可以创建着陆页并放置「预注册按钮」来衡量需求。如果注册者聚集，说明有需求！使用Google或Facebook广告进行小额测试也非常有效。",
+      "emoji": "🌐",
+      "highlight": "LP（着陆页）MVP：在没有实际服务的情况下，以低成本衡量有多少人需要"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习制作MVP！",
+      "background": "city",
+      "title": "通过用户访谈进行改进",
+      "content": "请用户对您的MVP提供反馈，告诉您「什么做得好，什么做得不好，以及需要改进什么」。快速重复这一循环的「敏捷开发」是现代创业的基本方法！",
+      "emoji": "🔄",
+      "highlight": "敏捷开发：每2周重复一次「创建 → 测试 → 改进」"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习制作MVP！",
+      "background": "classroom",
+      "title": "创建原型",
+      "content": "用乐高积木创建物理产品的原型，用Figma创建应用的屏幕设计，用Google表单创建简单的服务 - 使用工具快速创建可以展示的东西是让想法成型的第一步！",
+      "emoji": "🔨",
+      "highlight": "原型设计工具：Figma（免费）、Canva、Scratch、Google服务"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习制作MVP！",
+      "background": "space",
+      "title": "「构建-衡量-学习」（Build-Measure-Learn）",
+      "content": "精益创业的核心：① 根据想法创建产品 ② 用数字衡量结果 ③ 根据经验进行调整 - 快速重复这一循环是培养商业的可靠方法！",
+      "emoji": "🔬",
+      "highlight": "精益创业：由Eric Ries撰写，全球创业公司采用的管理哲学"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习制作MVP！",
+      "background": "forest",
+      "title": "失败是「数据」",
+      "content": "即使MVP失败了，也不要紧！失败并不意味着想法不好，而是方法不对。调整方向，发展成更好的想法！",
+      "emoji": "📊",
+      "highlight": "YouTube最初：作为约会视频分享服务开始 → 失败 → 转向一般视频分享 → 成功！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "掌握MVP策略！接下来，了解你的客户 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

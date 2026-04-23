@@ -1,0 +1,82 @@
+{
+  "title": "アニメ修行",
+  "description": "ガルちゃんと一緒にアニメ制作の修行を始めよう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "ようこそ！ガルちゃん道場へ！アニメ修行を始めるガル！いっしょにがんばろう🥷",
+      "background": "dojo",
+      "title": "アニメ道場へようこそ！",
+      "content": "アニメ修行では、絵が上手かどうかより「見た人に何を感じてほしいか」を形にする力を鍛える。キャラクター、物語、画面、音の4つを組み合わせると、短い作品でも世界観が立ち上がる。",
+      "emoji": "🎬",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "まず「キャラクター」を考えよう！どんな子にする？",
+      "background": "bamboo",
+      "title": "キャラクター修行",
+      "content": "キャラクター作りでは、見た目だけでなく、願い・弱さ・口ぐせまで考えると動き出しやすい。主人公が何を大切にしているか決まると、次のセリフや行動にも一本筋が通る。",
+      "emoji": "🎭",
+      "highlight": "考える要素:\n・名前\n・性格\n・目的\n・困りごと"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ストーリーが大事ガル！最初・なか・最後の3つで考えよう！",
+      "background": "dojo",
+      "title": "物語の修行",
+      "content": "物語は「始まり」「問題」「変化」で組むと短くても伝わる。大事件でなくても、約束を守れるか、友達を助けられるかのような小さなドラマで十分に心が動く。",
+      "emoji": "📖",
+      "highlight": "3幕の基本:\n1. 登場\n2. トラブル\n3. 乗り越える"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "AIツールを使って絵コンテを作ってみよう！",
+      "background": "mountain",
+      "title": "絵コンテ実践",
+      "content": "絵コンテは、完成絵を描く前の作戦メモだ。どの順番で見せるか、どこでアップにするか、セリフをどこに置くかを先に決めると、あとから迷いにくくなる。",
+      "emoji": "🖼️",
+      "highlight": "絵コンテの確認:\n・誰が主役か\n・見せたい感情は何か\n・場面転換がわかるか"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "声や音楽も大切ガル！Sunoで音楽を作ってみよう🎵",
+      "background": "bamboo",
+      "title": "音楽・声の修行",
+      "content": "音や声を足すと、作品の印象は一気に変わる。明るい曲なら冒険感、静かな曲なら切なさが強まり、同じ絵でも伝わる感情が変わるので、世界観に合わせて選ぶのが重要だ。",
+      "emoji": "🎵",
+      "highlight": "仕上げの工夫:\n・主題歌の雰囲気\n・効果音\n・セリフのテンポ"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "修行おつかれガル！どんどん作品を作って発表しよう🌟",
+      "background": "temple",
+      "title": "修行完了！",
+      "content": "修行完了後は、完成度だけでなく「どの場面で何を見せたかったか」を言葉にしてみよう。作品を説明できるようになると、次のアニメ制作では意図を持って改善できる。",
+      "emoji": "🏆",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

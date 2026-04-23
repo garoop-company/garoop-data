@@ -1,0 +1,81 @@
+{
+  "title": "Programming Training",
+  "description": "Let's train to write code! ",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Welcome to the Programming Dojo! Let's make magic with code! 💻",
+      "background": "mountain",
+      "title": "Programming Dojo",
+      "content": "Programming is like writing instructions for a computer. We'll start with simple commands and gradually master more complex magic!",
+      "emoji": "💻",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "First, let's learn about 'variables'. It's like labeling a box! ",
+      "background": "dojo",
+      "title": "Variable Training",
+      "content": "A variable is a 'box' to store data. You can put your favorite things into a box with a name.",
+      "emoji": "📦",
+      "highlight": "Example:\nname = \"Gal-chan\"\nage = 5\nfavorite = \"bamboo\""
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Using loops can save you from repeating the same actions! ",
+      "background": "bamboo",
+      "title": "Loop Training",
+      "content": "A loop is used to repeat the same commands multiple times. You can easily write code like 'walk, walk, walk...' three times!",
+      "emoji": "🔄",
+      "highlight": "Example:\nfor i in range(3):\n    print(\"Let's go!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Conditional branching makes your program smarter! ",
+      "background": "mountain",
+      "title": "Conditional Branching Training",
+      "content": "Conditional branching is like 'if something, then do this, otherwise do that'. Your program can make choices!",
+      "emoji": "🤔",
+      "highlight": "Example:\nif score > 80:\n    print(\"Great job!\")\nelse:\n    print(\"Try harder next time\")"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's ask Codex to create a 'Rock, Paper, Scissors' game for us! ",
+      "background": "dojo",
+      "title": "Practice: Rock, Paper, Scissors Game",
+      "content": "Using AI Codex, let's create a Rock, Paper, Scissors game. What code will it generate?",
+      "emoji": "✊",
+      "highlight": "Challenge:\nAsk Codex!\n\"Create a Rock, Paper, Scissors game in Python. Include explanations\""
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Congratulations, you've completed the programming training! Share your work on Slack! 🎉",
+      "background": "temple",
+      "title": "Training Completed!",
+      "content": "You've mastered three essential tools: variables, loops, and conditional branching. Next, challenge yourself to create an original program!",
+      "emoji": "⚔️",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

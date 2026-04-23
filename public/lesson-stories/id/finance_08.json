@@ -1,0 +1,130 @@
+{
+  "title": "Pajak dan Jaminan Sosial: Uang yang Mendukung Masyarakat",
+  "description": "Mengapa kita membayar pajak? Bagaimana sistem jaminan sosial bekerja? Mari kita pelajari bersama!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Memahami pajak membantu Anda melihat bagaimana masyarakat bekerja! 🏛️",
+      "background": "classroom",
+      "title": "Pajak dan Jaminan Sosial",
+      "emoji": "🏛️",
+      "effects": [
+        "sparkle"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mengapa kita membayar pajak?",
+      "background": "city",
+      "title": "Tujuan Pajak",
+      "content": "Pajak digunakan untuk membiayai layanan publik seperti sekolah, rumah sakit, jalan, polisi, dan pemadam kebakaran. Dengan berbagi biaya, kita menciptakan masyarakat yang lebih kaya.",
+      "emoji": "🏫",
+      "highlight": "Pendapatan pajak Jepang: sekitar ¥75 triliun/tahun (2024) → sekitar ¥600.000 per orang"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Apa saja jenis pajak yang ada? Mari kita lihat!",
+      "background": "classroom",
+      "title": "Jenis Pajak",
+      "content": "Pajak langsung: pajak penghasilan, pajak perusahaan, pajak warisan. Pajak tidak langsung: pajak konsumsi (10% pada pembelian), pajak alkohol, pajak tembakau. Ada sekitar 50 jenis, termasuk pajak properti dan pajak mobil.",
+      "emoji": "📊",
+      "highlight": "1% pajak konsumsi = sekitar ¥2,5 triliun pendapatan pajak. 10% = ¥25 triliun! Pajak yang dibayar oleh semua orang"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apakah 'pajak progresif' pada pajak penghasilan adil?",
+      "background": "ocean",
+      "title": "Sistem Pajak Progresif",
+      "content": "Semakin tinggi penghasilan, semakin tinggi tarif pajak. 'Pajak progresif': 5% untuk penghasilan di bawah ¥1,95 juta, 20% untuk ¥330.000 - ¥695.000, 45% untuk di atas ¥40 juta. Sistem ini mengurangi ketidaksetaraan dengan membuat orang berpenghasilan tinggi membayar lebih.",
+      "emoji": "⚖️",
+      "highlight": "Tarif pajak penghasilan: 5% untuk di bawah ¥1,95 juta → 45% untuk di atas ¥40 juta + 10% pajak lokal = hingga 55%"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Apa yang dibayar oleh premi asuransi sosial?",
+      "background": "forest",
+      "title": "Jenis Asuransi Sosial",
+      "content": "Asuransi sosial meliputi: ① asuransi kesehatan (penyakit, cedera), ② asuransi pensiun (usia tua, disabilitas, tunjangan kematian), ③ asuransi ketenagakerjaan (pengangguran), dan ④ asuransi kecelakaan kerja (kecelakaan di tempat kerja). Seperti pajak yang tidak terlihat yang dipotong secara otomatis dari gaji.",
+      "emoji": "🛡️",
+      "highlight": "Beban premi asuransi sosial: sekitar 30% dari gaji untuk pekerja kantoran (dibagi antara pemberi kerja dan pekerja, dengan pekerja membayar sekitar 15%)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apakah saya akan menerima manfaat pensiun di masa depan?",
+      "background": "city",
+      "title": "Sistem Pensiun",
+      "content": "Sistem pensiun Jepang adalah sistem pendukung di mana orang berusia kerja mendukung orang tua. Dengan semakin sedikitnya orang berusia kerja dan semakin banyaknya orang tua, penting untuk membangun aset pensiun sendiri (iDeCo, NISA)!",
+      "emoji": "👴👵",
+      "highlight": "2023: 3 orang berusia kerja mendukung 1 orang tua → 2060: 1,5 orang berusia kerja mendukung 1 orang tua"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Apakah penghematan pajak itu licik atau pintar?",
+      "background": "classroom",
+      "title": "Penghematan Pajak yang Sah",
+      "content": "Mengurangi pajak secara legal disebut 'penghematan pajak' atau 'perencanaan pajak.' Contohnya: furusato nōzei (pajak kota asal), NISA, iDeCo, potongan biaya medis, dan potongan pinjaman rumah. Mengetahui hal ini dapat membuat perbedaan besar!",
+      "emoji": "💡",
+      "highlight": "Furusato nōzei: donasi ke kota asal → menerima hadiah dan mengurangi pajak!"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita temukan pajak dalam kehidupan sehari-hari!",
+      "background": "candy",
+      "title": "Pajak dalam Kehidupan Sehari-hari",
+      "content": "Periksa struk toko! Anda harus melihat pajak konsumsi yang terdaftar. Makanan di supermarket adalah 8%, sedangkan makan di luar dan alkohol adalah 10%. Tagihan listrik dan air juga memiliki informasi pajak. Anda berinteraksi dengan pajak setiap hari!",
+      "emoji": "🧾",
+      "highlight": "Makanan (tarif pajak yang dikurangi) 8% vs makan di luar dan barang umum 10%. Apakah Anda memperhatikan perbedaan tarif pajak?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Itu tugas warga untuk mengawasi pemborosan pajak!",
+      "background": "space",
+      "title": "Pajak dan Demokrasi",
+      "content": "Pajak adalah uang semua orang. Politisi memutuskan bagaimana menggunakannya, tapi warga memilih mereka melalui pemilihan! Anda dapat memilih ketika Anda berusia 18 tahun. 'Tidak ada pajak tanpa perwakilan' – ini adalah hubungan antara demokrasi dan uang.",
+      "emoji": "🗳️",
+      "highlight": "'Tidak ada pajak tanpa perwakilan': frase yang memicu Perang Revolusi Amerika"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Sekarang Anda memahami bagaimana masyarakat bekerja! Selanjutnya: pembiayaan 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

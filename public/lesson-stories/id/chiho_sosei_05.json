@@ -1,0 +1,131 @@
+{
+  "title": "Promosi Relokasi dan Pemukiman: Cara Baru Hidup di Daerah",
+  "description": "Mari kita pelajari promosi relokasi dan pemukiman dengan Gal-chan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari opsi relokasi ke daerah bersama!",
+      "background": "forest",
+      "title": "Promosi Relokasi dan Pemukiman: Cara Baru Hidup di Daerah",
+      "emoji": "🏠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari promosi relokasi dan pemukiman dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Apa itu Relokasi dan Pemukiman?",
+      "content": "Kebijakan sedang dilaksanakan untuk mempromosikan relokasi dari kota ke daerah (relokasi) dan menetap di komunitas lokal (pemukiman). Pemerintah dan pemerintah daerah menyediakan dukungan seperti subsidi biaya relokasi, pengenalan pekerjaan, dan dukungan perumahan!",
+      "emoji": "🏡",
+      "highlight": "Jumlah konsultasi relokasi: Rekor tertinggi pada 2022 (meja dukungan nasional 'Pusat Dukungan Kembali ke Desa')"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari promosi relokasi dan pemukiman dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Apa jenis sistem dukungan relokasi yang tersedia?",
+      "content": "① Subsidi relokasi (hingga 1 juta yen atau lebih di beberapa pemerintah daerah) ② Subsidi sewa ③ Subsidi renovasi rumah kosong ④ Dukungan untuk memulai pertanian ⑤ Pendidikan gratis dan lebih banyak lagi, ada banyak sistem dukungan yang murah hati untuk mendorong relokasi ke daerah!",
+      "emoji": "💰",
+      "highlight": "Contoh subsidi relokasi: Prefektur Shimane memberikan hingga 1,5 juta yen kepada keluarga dengan anak-anak!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari promosi relokasi dan pemukiman dengan Gal-chan!",
+      "background": "forest",
+      "title": "Apa itu Tim Kerja Sama Revitalisasi Daerah?",
+      "content": "Tim Kerja Sama Revitalisasi Daerah adalah sistem nasional di mana orang-orang relokasi dari kota ke daerah untuk bekerja pada revitalisasi daerah. Gaji bulanan (sekitar 170.000 yen) dan biaya aktivitas disediakan selama maksimal 3 tahun. Pada 2023, lebih dari 6.000 orang bekerja secara nasional!",
+      "emoji": "👥",
+      "highlight": "Tim Kerja Sama Revitalisasi Daerah: Jumlah anggota tim meningkat pesat, 6.447 orang pada 2022 (rekor tertinggi)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari promosi relokasi dan pemukiman dengan Gal-chan!",
+      "background": "space",
+      "title": "Pekerja jarak jauh mengubah daerah",
+      "content": "Jumlah orang dengan pekerjaan yang tidak memerlukan lokasi tertentu, seperti IT, desain, penulisan, dan konsultasi, yang memilih untuk relokasi ke daerah meningkat. Tinggal di daerah sambil bekerja untuk perusahaan di kota - 'kediaman ganda' adalah gaya baru!",
+      "emoji": "💻",
+      "highlight": "Kediaman ganda: Jumlah orang yang memiliki perusahaan di Tokyo dan rumah di daerah meningkat"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari promosi relokasi dan pemukiman dengan Gal-chan!",
+      "background": "city",
+      "title": "Menggunakan bank rumah kosong",
+      "content": "Ada 9 juta rumah kosong secara nasional. Pemerintah daerah mengoperasikan 'bank rumah kosong' yang menyediakan informasi properti dengan harga gratis atau rendah. Jumlah kasus di mana rumah tua direnovasi menjadi kafe, penginapan, dan kantor bersama meningkat pesat. Properti seharga 100.000 yen atau kurang juga tersedia!",
+      "emoji": "🏚️",
+      "highlight": "Jumlah properti terdaftar bank rumah kosong nasional: Lebih dari 10.000 (2023), banyak yang seharga 100.000 yen atau kurang"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari promosi relokasi dan pemukiman dengan Gal-chan!",
+      "background": "forest",
+      "title": "Mendapatkan lingkungan yang baik dengan relokasi untuk perawatan anak",
+      "content": "Di Tokyo, membeli apartemen 3LDK berharga 70-80 juta yen atau lebih. Di daerah, Anda dapat membeli rumah dengan taman besar seharga 5-10 juta yen! Banyak pemerintah daerah juga mempromosikan pendidikan gratis dan biaya medis, dan jumlah keluarga yang relokasi untuk perawatan anak meningkat.",
+      "emoji": "👶",
+      "highlight": "Harga rata-rata membeli rumah di daerah: 5-10 juta yen (1/10 hingga 1/5 dari 23 distrik Tokyo)"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari promosi relokasi dan pemukiman dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Tips untuk relokasi yang sukses",
+      "content": "Contoh relokasi yang gagal: ① Tidak dapat beradaptasi dengan komunitas lokal ② Tidak dapat menemukan pekerjaan ③ Kesulitan dengan kehidupan sehari-hari - sebagai tindakan pencegahan, penting untuk mencoba 'relokasi uji coba' beberapa kali sebelum membuat keputusan. Membangun koneksi dengan orang-orang lokal sebelumnya adalah kunci keberhasilan!",
+      "emoji": "📋",
+      "highlight": "Sistem 'relokasi uji coba': Banyak pemerintah daerah menyediakan fasilitas menginap jangka pendek dengan harga rendah"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari promosi relokasi dan pemukiman dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Poin-poin untuk dipertimbangkan saat memilih tujuan relokasi",
+      "content": "① Lingkungan kerja (apakah telework memungkinkan? peluang kerja lokal?) ② Ketersediaan fasilitas medis dan pendidikan ③ Akses transportasi (akses ke area perkotaan) ④ Suasana komunitas lokal ⑤ Lingkungan alam ⑥ Ketersediaan dukungan relokasi - Anda dapat mencari di situs perbandingan seperti 'SMOUT' dan 'JOIN'!",
+      "emoji": "🔍",
+      "highlight": "Situs pencocokan relokasi 'SMOUT': Layanan di mana pemerintah daerah dan perusahaan 'merekrut' kandidat relokasi"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Anda telah mempelajari sistem relokasi dan pemukiman! Selanjutnya adalah bisnis lokal 🎉",
+      "background": "space",
+      "title": "Pelajaran selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

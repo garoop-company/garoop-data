@@ -1,0 +1,132 @@
+{
+  "title": "未来の起業家へ〜10歳からの挑戦が世界を変える〜",
+  "description": "ガルちゃんと楽しく未来の起業家へを学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "10歳スタートアップシリーズの総まとめ！未来の君へ！",
+      "background": "space",
+      "title": "未来の起業家へ〜10歳からの挑戦が世界を変える〜",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「未来の起業家へ〜10歳からの挑戦が世界を変える〜」をテーマに、子どもの視点で挑戦を形にする力を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと未来の起業家へを学ぼう！",
+      "background": "classroom",
+      "title": "10のレッスンまとめ",
+      "content": "①起業家マインド②アイデア発見③MVP作成④マーケティング⑤ピッチ力⑥チームビルド⑦失敗から学ぶ⑧デジタルツール⑨地域から世界へ——これら全てがあなたの武器になりました！",
+      "emoji": "🗝️",
+      "highlight": "10の武器：知識よりも「実際に試してみる勇気」が最も大切な武器"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと未来の起業家へを学ぼう！",
+      "background": "ocean",
+      "title": "今すぐできること",
+      "content": "今日からできること：①身近な問題を1つ見つける②「なぜ？」を5回繰り返す③誰かに「お手伝いサービス」を提案してみる——行動することが全ての始まり！知識は行動しなければ意味なし！",
+      "emoji": "⚡",
+      "highlight": "「完璧な計画より不完全な行動」：スタートアップの世界の格言"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと未来の起業家へを学ぼう！",
+      "background": "forest",
+      "title": "あなたには「今の時代」という武器がある",
+      "content": "AIと友達になれる・ノーコードでアプリが作れる・SNSで世界に発信できる——これはあなたの世代だけに与えられた圧倒的な武器！この武器を使わない手はありません！",
+      "emoji": "💪",
+      "highlight": "2010年代生まれのGeneration Alpha：最もテクノロジーに馴染んだ世代。武器を最大限活かせる"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと未来の起業家へを学ぼう！",
+      "background": "space",
+      "title": "世界を変えた若い起業家たち",
+      "content": "Facebook：20歳のザッカーバーグ。Google：25歳のペイジ＆ブリン。Apple：21歳のジョブズ。彼らも最初は誰も知らない「ただの若者」でした。年齢は関係ない——アイデアと行動が全て！",
+      "emoji": "🚀",
+      "highlight": "世界を変えた企業の創業年齢：20代前半が最多。「若さ」はハンデでなく最大の強みに"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと未来の起業家へを学ぼう！",
+      "background": "city",
+      "title": "日本からのグローバルスタートアップを",
+      "content": "日本から世界に通用するスタートアップを作ることが今の課題。あなたの世代が日本の起業文化を変える！「失敗を恐れない」「グローバルな視点」「テクノロジーを武器に」——この3つを持つ次世代リーダーに！",
+      "emoji": "🇯🇵",
+      "highlight": "日本のユニコーン企業数：米国・中国・インドに大きく遅れ。次世代が挽回する番！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと未来の起業家へを学ぼう！",
+      "background": "ocean",
+      "title": "起業しなくてもいい！大切なのは「起業家思考」",
+      "content": "起業家精神（アントレプレナーシップ）は起業家だけのものじゃない！社内起業（イントラプレナー）・研究者・医者・教師——どんな仕事でも「問題発見・解決・改善」の姿勢が最高の武器になります！",
+      "emoji": "🌍",
+      "highlight": "起業家的思考：世界経済フォーラムが「21世紀の最重要スキル」の一つに選定"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと未来の起業家へを学ぼう！",
+      "background": "forest",
+      "title": "メンターを探そう",
+      "content": "この学びを実践するために、近くにいる「信頼できる大人」にアイデアを話してみよう！学校の先生・地域の起業家・家族の知人——アドバイスをくれる人が必ずいます。勇気を出して聞いてみよう！",
+      "emoji": "🤝",
+      "highlight": "メンターへの相談：「こんなアイデアがあるんですが聞いてもらえますか？」この一言から全が始まる"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと未来の起業家へを学ぼう！",
+      "background": "candy",
+      "title": "あなたの「なぜ」を大切に",
+      "content": "最後に一番大切なこと——なぜ起業したいのか？なぜこの問題を解決したいのか？この「Why」が強ければ強いほど、困難を乗り越えられます。世界をより良くしたいという思いが最強のエンジン！",
+      "emoji": "💕",
+      "highlight": "あなたの「Why」：それが見つかれば「どのように」は後から必ずついてくる"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "10歳スタートアップシリーズ完全制覇！世界を変えよう！🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

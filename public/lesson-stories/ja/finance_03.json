@@ -1,0 +1,132 @@
+{
+  "title": "銀行の仕組み〜お金の流れを理解しよう〜",
+  "description": "銀行がどうやってお金を動かしているか、ガルちゃんと学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "銀行の秘密を一緒に解き明かそう！🏦",
+      "background": "city",
+      "title": "銀行の仕組み",
+      "emoji": "🏦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「銀行の仕組み〜お金の流れを理解しよう〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "銀行は「お金の橋渡し役」だよ！",
+      "background": "classroom",
+      "title": "銀行の役割",
+      "content": "銀行は「お金を預かる」「お金を貸す」「お金を送る」の3つが主な仕事。あなたが預けたお金を企業に貸して、その利息の一部をあなたに金利として返してくれます。",
+      "emoji": "🌉",
+      "highlight": "銀行 ＝ お金を持つ人 ↔ お金が必要な人をつなぐ橋"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "銀行はあなたのお金で商売してるって知ってた？",
+      "background": "city",
+      "title": "銀行の稼ぎ方",
+      "content": "銀行は預金者から低い金利（0.02%）でお金を預かり、企業・個人に高い金利（住宅ローン：1〜2%、カード：15〜18%）で貸します。その差額が銀行の利益！",
+      "emoji": "💹",
+      "highlight": "銀行の利益 ＝ 貸し出し金利 − 預金金利（金利差）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "中央銀行って普通の銀行と違うんだよ！",
+      "background": "space",
+      "title": "日本銀行の役割",
+      "content": "日本銀行（日銀）は「銀行の銀行」。普通の銀行にお金を貸したり、お札（紙幣）を発行したり、物価を安定させる仕事をしています。日銀の判断で日本経済が動きます！",
+      "emoji": "🇯🇵",
+      "highlight": "日本銀行 ＝ 日本のお金の番人・金融政策の司令塔"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "口座の種類って知ってる？",
+      "background": "classroom",
+      "title": "銀行口座の種類",
+      "content": "主な口座は3種類。①普通預金：いつでも出し入れ自由②定期預金：期間を決めて預ける（金利高め）③積立定期：毎月自動的に貯まる。目的に応じて使い分けよう！",
+      "emoji": "📊",
+      "highlight": "定期預金：普通預金より金利が高い。3ヶ月〜10年など期間を選べる"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ネット銀行って何が違うの？",
+      "background": "ocean",
+      "title": "ネット銀行の特徴",
+      "content": "ネット銀行は店舗を持たないため、コストが少ない分、金利が高め！SBI新生銀行、楽天銀行、PayPay銀行などが有名。ATM手数料無料・振込無料のサービスも多い。",
+      "emoji": "💻",
+      "highlight": "ネット銀行の普通預金金利：一般銀行の最大50倍以上"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "お金を送る「振込・送金」の仕組みも知ろう！",
+      "background": "city",
+      "title": "お金を送る仕組み",
+      "content": "銀行振込は全銀システムというネットワークを通じてお金が動きます。最近はPayPay・LINE Pay・Revolvなど送金アプリも普及。海外送金はSWIFTという国際ネットワークを使用。",
+      "emoji": "📡",
+      "highlight": "全銀システム：日本の銀行間をつなぐ金融インフラ（1日100兆円以上が流れる）"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "自分に合った銀行口座を考えてみよう！",
+      "background": "candy",
+      "title": "口座を選ぼう！",
+      "content": "もし銀行口座を開くなら、どんなポイントをチェックする？①金利②ATM手数料③使いやすさ④セキュリティ。家族に相談しながら「自分のお金を管理する力」を育てよう！",
+      "emoji": "🔍",
+      "highlight": "口座比較チェックポイント：金利・手数料・アプリの使いやすさ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "銀行が倒産したらどうなるの？",
+      "background": "forest",
+      "title": "預金保険制度",
+      "content": "銀行が倒産しても、1000万円まで預金は保護されます（預金保険制度）。これは日本政府が保証している制度。でも1000万円を超えると保護されない場合があるので要注意！",
+      "emoji": "🛡️",
+      "highlight": "預金保険制度：1金融機関あたり元本1000万円＋その利息まで保護"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "銀行の仕組みバッチリ！次は投資を学ぼう🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

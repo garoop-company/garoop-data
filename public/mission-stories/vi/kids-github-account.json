@@ -1,0 +1,69 @@
+{
+  "title": "Tạo tài khoản GitHub",
+  "description": "Nhiệm vụ tạo kho mã nguồn!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đại lý! Nhiệm vụ lần này là 'Xây dựng ngân hàng dữ liệu của căn cứ bí mật'!",
+      "background": "spy",
+      "title": "Chỉ thị nhiệm vụ: Xây dựng ngân hàng dữ liệu",
+      "content": "Nhiệm vụ: Tạo tài khoản GitHub và có được 'két sắt kỹ thuật số' để lưu trữ mã nguồn một cách an toàn!",
+      "emoji": "🐙",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "GitHub là 'tủ đựng mã nguồn trong vũ trụ'!",
+      "background": "hq",
+      "title": "GitHub là gì?",
+      "content": "GitHub là nơi lưu trữ mã nguồn trên internet. Nó giống như một 'thư viện' mã nguồn mà các nhà phát triển trên toàn thế giới sử dụng!",
+      "emoji": "📚",
+      "highlight": "Những việc có thể làm với GitHub:\n・Lưu trữ và quản lý mã nguồn\n・Sao lưu\n・Chia sẻ và cộng tác với người khác\n・Lưu lại lịch sử"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tạo tài khoản phải làm với người lớn trong nhà!",
+      "background": "lab",
+      "title": "Chọn tên người dùng an toàn",
+      "content": "Tên người dùng GitHub sẽ được công bố trên toàn thế giới. Hãy chọn một tên an toàn và dễ nhớ!",
+      "emoji": "🔐",
+      "highlight": "Quy tắc tên người dùng an toàn:\n✅ Kết hợp những thứ bạn thích\n✅ Tên dễ nhớ\n❌ Không sử dụng tên thật 그대로\n❌ Không nhập tên trường học hoặc địa chỉ"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Cùng người lớn trong nhà đăng ký tài khoản!",
+      "background": "spy",
+      "title": "Chiến lược đăng ký tài khoản",
+      "content": "Mở GitHub.com và tạo tài khoản với người lớn trong nhà. Tuyệt đối không được tiết lộ mật khẩu cho bất kỳ ai!",
+      "emoji": "🔑",
+      "highlight": "Hướng dẫn:\n1. Mở github.com/signup\n2. Nhập địa chỉ email\n3. Đặt mật khẩu an toàn\n4. Quyết định tên người dùng\n5. Đăng ký hoàn tất!"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hoàn thành xây dựng ngân hàng dữ liệu! Chụp ảnh màn hình đăng nhập và nhận 260 điểm! 🎯",
+      "background": "hq",
+      "title": "Hoàn thành nhiệm vụ!",
+      "content": "Ngân hàng dữ liệu GitHub đã được tạo! Chụp ảnh màn hình sau khi đăng nhập và gửi lên Slack!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

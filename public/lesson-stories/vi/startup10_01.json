@@ -1,0 +1,131 @@
+{
+  "title": "10 tuổi có thể làm được gì - Trẻ em có tinh thần doanh nhân",
+  "description": "Cùng Garu học cách làm việc và trở thành doanh nhân khi 10 tuổi!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "10 tuổi cũng có thể bắt đầu kinh doanh! Hãy học bí quyết cùng Garu!",
+      "background": "city",
+      "title": "10 tuổi có thể làm được gì - Trẻ em có tinh thần doanh nhân",
+      "emoji": "🚀",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách làm việc và trở thành doanh nhân khi 10 tuổi!",
+      "background": "classroom",
+      "title": "Tinh thần doanh nhân là gì?",
+      "content": "Tư duy phát hiện vấn đề và tìm cách giải quyết - đó là bản chất của tinh thần doanh nhân. Nhiều doanh nhân thành công đã có tinh thần tò mò từ khi còn nhỏ: 'Tại sao?' và 'Có thể làm tốt hơn không?'",
+      "emoji": "💡",
+      "highlight": "Người sáng lập Facebook - Zuckerberg: Bắt đầu lập trình ở tuổi 11. Từ nhỏ đã là 'người giải quyết vấn đề'"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách làm việc và trở thành doanh nhân khi 10 tuổi!",
+      "background": "ocean",
+      "title": "Những doanh nhân tuổi teen trên thế giới",
+      "content": "Moshe Hogeg (15 tuổi phát triển ứng dụng) - Akshay Ruparelia (17 tuổi, môi giới bất động sản trẻ nhất nước Anh) - Mikaila Ulmer (4 tuổi bán nước chanh, ký hợp đồng với doanh nghiệp lớn) - Tuổi tác không quan trọng!",
+      "emoji": "🌟",
+      "highlight": "Doanh nhân trẻ nhất - Mikaila Ulmer: 4 tuổi bắt đầu kinh doanh → 11 tuổi ký hợp đồng với Target và Whole Foods"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách làm việc và trở thành doanh nhân khi 10 tuổi!",
+      "background": "space",
+      "title": "5 loại hình kinh doanh có thể bắt đầu khi 10 tuổi",
+      "content": "① Bán hàng thủ công (đồ trang sức, bánh ngọt tự làm) ② Nội dung kỹ thuật số (YouTube, vẽ) ③ Dịch vụ giúp đỡ (cắt cỏ, mang hàng) ④ Tái chế - Chợ đồ cũ ⑤ Dịch vụ lập trình. Tất cả đều có thể bắt đầu từ tiểu học!",
+      "emoji": "💰",
+      "highlight": "Ví dụ về doanh nhân trẻ nhất ở Nhật Bản: Trường tiểu học YouTuber - Trường trung học lập trình viên thương mại có nhiều"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách làm việc và trở thành doanh nhân khi 10 tuổi!",
+      "background": "forest",
+      "title": "Thất bại là 'học phí'!",
+      "content": "Người sáng lập Dyson (máy hút bụi) đã thất bại 5.127 lần trước khi thành công! Airbnb ban đầu bị 3 nhà đầu tư từ chối. Điều quan trọng là không sợ thất bại - thất bại ở tuổi 10 là học phí rẻ nhất trong cuộc đời!",
+      "emoji": "🔄",
+      "highlight": "'Thất bại là mẹ của thành công': Ở Thung lũng Silicon, 'Fail Fast (thất bại nhanh và học hỏi)' là văn hóa cơ bản"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách làm việc và trở thành doanh nhân khi 10 tuổi!",
+      "background": "city",
+      "title": "Ý tưởng kinh doanh đến từ việc giúp đỡ",
+      "content": "Tìm kiếm vấn đề trong cuộc sống hàng ngày = hạt giống kinh doanh! 'Thực phẩm thừa ở trường học' → Ứng dụng giảm lãng phí thực phẩm. 'Người già không thể mang đồ nặng' → Dịch vụ giao hàng. Những bất tiện xung quanh bạn là kho báu!",
+      "emoji": "🔍",
+      "highlight": "Khởi nghiệp giải quyết vấn đề xã hội: Doanh nghiệp giải quyết vấn đề xã hội và tạo ra lợi nhuận đang gia tăng"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách làm việc và trở thành doanh nhân khi 10 tuổi!",
+      "background": "classroom",
+      "title": "3 cách tạo ra giá trị",
+      "content": "① 'Tạo ra' (tạo sản phẩm và bán) ② 'Kết nối' (kết nối người với người, hàng hóa với người tiêu dùng) ③ 'Dạy' (dạy kiến thức và kỹ năng) - Chỉ cần làm được một trong ba cách trên là có thể bắt đầu kinh doanh! Bạn thích cái nào?",
+      "emoji": "🔑",
+      "highlight": "Ba loại hình tạo giá trị: Tất cả kinh doanh đều thuộc một trong ba loại trên"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học cách làm việc và trở thành doanh nhân khi 10 tuổi!",
+      "background": "ocean",
+      "title": "Khởi nghiệp theo nhóm",
+      "content": "Không cần làm tất cả một mình! 'Mình không giỏi nhưng bạn bè giỏi' - kết hợp với nhau là sức mạnh của nhóm. Apple: Steve Jobs (tầm nhìn) + Steve Wozniak (kỹ thuật) - bộ đôi hoàn hảo!",
+      "emoji": "🤝",
+      "highlight": "Bộ đôi mạnh nhất: Kết hợp giữa người có tầm nhìn và người có kỹ thuật"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách làm việc và trở thành doanh nhân khi 10 tuổi!",
+      "background": "forest",
+      "title": "Bắt đầu từ nhỏ và phát triển lớn",
+      "content": "Không cần bắt đầu với một doanh nghiệp lớn! 'Hãy bắt đầu bằng cách làm hài lòng một khách hàng'. Amazon và Google cũng bắt đầu từ một khởi đầu nhỏ trong gara hoặc phòng ký túc xá!",
+      "emoji": "🌱",
+      "highlight": "Amazon: Jeff Bezos bắt đầu bán sách trong gara vào năm 1994. Hiện nay đã trở thành công ty trị giá hàng trăm tỷ đô la!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tinh thần doanh nhân 10 tuổi đã có! Tiếp theo là cách tìm ý tưởng kinh doanh 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

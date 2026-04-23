@@ -1,0 +1,132 @@
+{
+  "title": "観光で地域を元気に〜インバウンドと地域ブランド〜",
+  "description": "ガルちゃんと楽しく観光で地域を元気にを学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "観光が地方を救う！一緒に観光地方創生を学ぼう！",
+      "background": "forest",
+      "title": "観光で地域を元気に〜インバウンドと地域ブランド〜",
+      "emoji": "🏯",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「観光で地域を元気に〜インバウンドと地域ブランド〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと観光で地域を元気にを学ぼう！",
+      "background": "ocean",
+      "title": "観光客が地方に与える経済効果",
+      "content": "インバウンド（訪日外国人）は2019年に3,188万人・4.8兆円の消費。コロナ後の2023年には約2,500万人まで回復。地方の観光地では地域のお金が大幅に増え、雇用も創出！",
+      "emoji": "✈️",
+      "highlight": "訪日外国人1人の消費額：平均21万円/回。地方観光地ではさらに高い傾向"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと観光で地域を元気にを学ぼう！",
+      "background": "forest",
+      "title": "日本の文化・自然が世界の宝！",
+      "content": "日本は世界遺産25か所（2024年）。忍者・侍・アニメ・お茶・温泉・桜・紅葉——外国人が「見たい・体験したい」ものが地方に眠っています！地域の「当たり前」が世界の「特別」に。",
+      "emoji": "🏯",
+      "highlight": "日本の世界遺産：25件（文化遺産20件・自然遺産5件）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと観光で地域を元気にを学ぼう！",
+      "background": "city",
+      "title": "地域ブランディングで選ばれる地域へ",
+      "content": "「よそとは違う特別感」を作るのが地域ブランディング。京都・箱根・白川郷は世界中に知られています。あなたの地元の「世界に通用する魅力」を発掘して発信できれば観光客が来ます！",
+      "emoji": "🎌",
+      "highlight": "白川郷合掌造り集落：年間200万人以上が訪問。村の人口は約1,600人のみ！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと観光で地域を元気にを学ぼう！",
+      "background": "space",
+      "title": "体験型観光（体験ツーリズム）が人気",
+      "content": "農業体験・酒蔵見学・伝統工芸体験・田植え・地引網——地元の人の「日常」が観光客には「特別体験」。「何をするか」より「誰と体験するか」が重要な時代に。",
+      "emoji": "🌾",
+      "highlight": "体験型観光の市場規模：世界で1,800億ドル（約26兆円）以上"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと観光で地域を元気にを学ぼう！",
+      "background": "classroom",
+      "title": "SNS×地域で拡散する新観光",
+      "content": "インスタ映えスポット・TikTokで話題の絶景・YouTube旅動画——SNSが観光地を作る時代。鳥取砂丘・奈良公園の鹿・高知のひろめ市場はSNSで再発見された観光地の例。",
+      "emoji": "📱",
+      "highlight": "インスタグラムが聖地化した観光地：弁天堂（群馬）は1日に1,000人が訪問"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと観光で地域を元気にを学ぼう！",
+      "background": "ocean",
+      "title": "持続可能な観光（サステナブルツーリズム）",
+      "content": "観光客が増えすぎると環境破壊・住民迷惑（オーバーツーリズム）も。京都は混雑規制を導入。「量より質」の観光へ転換。環境に優しく・地域に貢献する観光が次世代のトレンド！",
+      "emoji": "🌱",
+      "highlight": "京都：バス外国人特別運賃・混雑時間帯の利用制限など規制強化"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと観光で地域を元気にを学ぼう！",
+      "background": "forest",
+      "title": "ナイトタイムエコノミー（夜の経済）",
+      "content": "昼だけでなく夜も楽しめる観光を作ることで宿泊者が増え経済効果が倍増！温泉地の夜景・プロジェクションマッピング・夜のマルシェ・星空ツアーなど。夜の魅力を磨くと宿泊率UP！",
+      "emoji": "🌙",
+      "highlight": "夜間観光充実で宿泊消費：日帰り観光の約3〜5倍の消費額に"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと観光で地域を元気にを学ぼう！",
+      "background": "city",
+      "title": "デジタルノマド・ワーケーション誘致",
+      "content": "テレワーク普及で「仕事しながら旅する」ワーケーションが普及。地方でも都市と変わらない仕事環境（高速Wi-Fi・コワーキング）を整えると「住む」「働く」「観光する」が一体化！",
+      "emoji": "💻",
+      "highlight": "ワーケーション実施者：コロナ前後で10倍以上に増加（内閣府調査）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "観光地方創生をマスター！次は移住促進へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

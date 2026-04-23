@@ -1,0 +1,81 @@
+{
+  "title": "视频修行",
+  "description": "开始视频制作的修行吧！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "欢迎来到视频道场！你可以用一部手机成为电影导演！🎬",
+      "background": "dojo",
+      "title": "欢迎来到视频道场！",
+      "content": "视频是把‘想要传达的内容’变成图像的魔法。学习企划、拍摄、编辑的3个步骤！",
+      "emoji": "🎥",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "首先，决定‘对谁、对什么、用什么心情传达’吧！",
+      "background": "bamboo",
+      "title": "企划修行",
+      "content": "在制作视频之前，写下‘企划书’。即使是1分钟的视频，企划也很重要！",
+      "emoji": "📋",
+      "highlight": "企划书的3个要素：\n对谁  → 同龄的朋友\n对什么  → 喜欢的游戏介绍\n心情 → 希望感到开心"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Gar教你拍摄技巧！记住三分割法！",
+      "background": "mountain",
+      "title": "拍摄修行",
+      "content": "将画面纵横分成3部分，把重要的内容放在交叉点上，视频会更好看。这就是‘三分割法’！",
+      "emoji": "📐",
+      "highlight": "拍摄3个技巧：\n① 注意三分割法\n② 光线从前方照射\n③ 相机慢慢移动"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "让AI为你创建视频剧本！",
+      "background": "dojo",
+      "title": "AI剧本修行",
+      "content": "试着请求NotebookLM或Claude‘创建1分钟的视频剧本’。你会得到什么样的剧本呢？",
+      "emoji": "📝",
+      "highlight": "请求示例：\n‘为小学生制作介绍喜欢的游戏的\n 1分钟视频剧本，\n 包含5句台词’"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Gar可以用AI自动生成视频！",
+      "background": "bamboo",
+      "title": "AI视频生成修行",
+      "content": "试试用文本创建视频的AI‘Veo’！只要输入文字就能制作动态视频。",
+      "emoji": "🤖",
+      "highlight": "试试看：\n请求Veo创建‘元气 kangaroo\n 在竹林中跳跃的视频’"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "完成视频修行！在Slack上分享你的视频！🎉",
+      "background": "temple",
+      "title": "修行完成！",
+      "content": "你已经掌握了企划、拍摄、使用AI制作视频的技巧！完成后让大家看看你的作品！",
+      "emoji": "🎬",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

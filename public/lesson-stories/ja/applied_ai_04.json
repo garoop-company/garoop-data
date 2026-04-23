@@ -15,7 +15,8 @@
       "effects": [
         "sparkle",
         "stars"
-      ]
+      ],
+      "content": "このレッスンでは「AI×医療」をテーマに、生成AIと実社会での応用を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
     },
     {
       "id": 2,
@@ -25,9 +26,9 @@
       "speech": "ガルちゃんとAI×医療を学ぼう！",
       "background": "space",
       "title": "AI×医療 - Part 1",
-      "content": "This is lesson 4 about AI×医療. Part 1 of 8.",
+      "content": "「AI×医療」は生成AIと実社会での応用の入口になるテーマだ。まずは名前を覚えるだけでなく、何のために必要で、どんな場面で役立つのかまでつかむことが学びの第一歩になる。",
       "emoji": "💡",
-      "highlight": "📌 AI×医療 - Key point 1"
+      "highlight": "導入の視点: 課題設定 / プロンプト / 検証"
     },
     {
       "id": 3,
@@ -37,9 +38,9 @@
       "speech": "ガルちゃんとAI×医療を学ぼう！",
       "background": "forest",
       "title": "AI×医療 - Part 2",
-      "content": "This is lesson 4 about AI×医療. Part 2 of 8.",
+      "content": "AI×医療を理解するときは、「課題設定」「プロンプト」「検証」の3つを結びつけて考えるのが大切だ。1つずつ切り分けて見たあと、最後に全体像へ戻すと理解が深まりやすい。",
       "emoji": "📚",
-      "highlight": "📌 AI×医療 - Key point 2"
+      "highlight": "3つの柱: 課題設定・プロンプト・検証"
     },
     {
       "id": 4,
@@ -49,9 +50,9 @@
       "speech": "ガルちゃんとAI×医療を学ぼう！",
       "background": "classroom",
       "title": "AI×医療 - Part 3",
-      "content": "This is lesson 4 about AI×医療. Part 3 of 8.",
+      "content": "難しそうに見えるテーマでも、小さな例で分解すれば見通しがよくなる。AI×医療でも、入力・判断・結果、あるいは目的・方法・改善という流れで整理すると、自分で再現しやすくなる。",
       "emoji": "🔧",
-      "highlight": "📌 AI×医療 - Key point 3"
+      "highlight": "学び方のコツ: 小さく分けて流れで理解する"
     },
     {
       "id": 5,
@@ -61,9 +62,9 @@
       "speech": "ガルちゃんとAI×医療を学ぼう！",
       "background": "city",
       "title": "AI×医療 - Part 4",
-      "content": "This is lesson 4 about AI×医療. Part 4 of 8.",
+      "content": "実際の現場では、正しさだけでなく相手に伝わることや続けやすさも重要になる。AI×医療は一度覚えて終わりではなく、試して直し、よりよい形に磨き続けるテーマだ。",
       "emoji": "⚡",
-      "highlight": "📌 AI×医療 - Key point 4"
+      "highlight": "実践の観点: 正しさ + 伝わりやすさ + 続けやすさ"
     },
     {
       "id": 6,
@@ -73,9 +74,9 @@
       "speech": "ガルちゃんとAI×医療を学ぼう！",
       "background": "candy",
       "title": "AI×医療 - Part 5",
-      "content": "This is lesson 4 about AI×医療. Part 5 of 8.",
+      "content": "身近な例に置き換えると理解は一気に進む。たとえば学習支援、医療補助、作品制作、業務効率化にAIを活かす場面のように、生活や作品づくりに結びつけて考えると、抽象的な内容も「自分に使える知識」として定着しやすい。",
       "emoji": "🎯",
-      "highlight": "📌 AI×医療 - Key point 5"
+      "highlight": "身近な置き換え: 生活や作品に結びつけて考える"
     },
     {
       "id": 7,
@@ -85,9 +86,9 @@
       "speech": "ガルちゃんとAI×医療を学ぼう！",
       "background": "ocean",
       "title": "AI×医療 - Part 6",
-      "content": "This is lesson 4 about AI×医療. Part 6 of 8.",
+      "content": "よくある失敗は、便利さだけを見て、情報の正確さや倫理を確認しないことだ。うまくいかないときほど、目的、条件、順番のどこでズレたのかを一つずつ確かめる姿勢が、次の成長につながる。",
       "emoji": "🌟",
-      "highlight": "📌 AI×医療 - Key point 6"
+      "highlight": "注意ポイント: 思い込みで進めず、前提を確認する"
     },
     {
       "id": 8,
@@ -97,9 +98,9 @@
       "speech": "ガルちゃんとAI×医療を学ぼう！",
       "background": "classroom",
       "title": "AI×医療 - Part 7",
-      "content": "This is lesson 4 about AI×医療. Part 7 of 8.",
+      "content": "AI×医療を実践で使える力に変えるには、プロンプト改善、比較検証、出力の手直しを意識するのが有効だ。道具を使いこなすだけでなく、なぜその方法を選ぶのかまで説明できると一段深い理解になる。",
       "emoji": "💻",
-      "highlight": "📌 AI×医療 - Key point 7"
+      "highlight": "実践力アップ: プロンプト改善、比較検証、出力の手直し"
     },
     {
       "id": 9,
@@ -109,9 +110,9 @@
       "speech": "ガルちゃんとAI×医療を学ぼう！",
       "background": "forest",
       "title": "AI×医療 - Part 8",
-      "content": "This is lesson 4 about AI×医療. Part 8 of 8.",
+      "content": "最後は小さな作品や発表に結びつけてみよう。AIを使った小さなサービス案や制作物の企画に挑戦すると、学んだことが「知っている」から「使える」に変わる。完成度よりも、自分の考えで一歩進めた経験が大切だ。",
       "emoji": "🚀",
-      "highlight": "📌 AI×医療 - Key point 8"
+      "highlight": "仕上げの課題: AIを使った小さなサービス案や制作物の企画"
     },
     {
       "id": 10,

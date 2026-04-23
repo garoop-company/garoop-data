@@ -1,0 +1,69 @@
+{
+  "title": "VS Code安装任务",
+  "description": "准备开发环境的任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "代理人！这次的任务是「建设开发基地」！ 🏗️",
+      "background": "hq",
+      "title": "任务指令：基地建设",
+      "content": "任务：安装VS Code并创建第一个文件。给程序员建个「家」！",
+      "emoji": "🖥️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "VS Code是「写代码的家」！世界各地的程序员都在用！",
+      "background": "spy",
+      "title": "VS Code是什么？",
+      "content": "VS Code是写代码的最佳「编辑器」。它能给代码分色、自动补全，让编程更容易！",
+      "emoji": "🏠",
+      "highlight": "VS Code的特点：\n・免费使用\n・全球工程师爱用\n・代码高亮显示\n・可通过扩展插件增加功能"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "请和家长一起安装！",
+      "background": "lab",
+      "title": "安装攻略",
+      "content": "从VS Code官网下载并安装。如果不懂，请问家长！",
+      "emoji": "⬇️",
+      "highlight": "步骤：\n1. 打开 code.visualstudio.com\n2. 点击「Download」按钮\n3. 运行安装程序\n4. 启动 VS Code！"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "安装成功后，创建第一个文件吧！",
+      "background": "spy",
+      "title": "文件创建攻略",
+      "content": "打开 VS Code，创建「my-first-app」文件夹，并在其中创建「memo.txt」文件！",
+      "emoji": "📁",
+      "highlight": "挑战：\n① 文件夹名：my-first-app\n② 文件名：memo.txt\n③ 写3行喜欢的内容并保存"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "基地建设完成！截图提交并获得260积分！ 🎯",
+      "background": "hq",
+      "title": "任务完成！",
+      "content": "程序员的基地建好了！请截图 VS Code 界面并提交到 Slack！",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

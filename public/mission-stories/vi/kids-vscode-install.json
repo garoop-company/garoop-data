@@ -1,0 +1,69 @@
+{
+  "title": "Nhiệm vụ cài đặt VS Code",
+  "description": "Nhiệm vụ chuẩn bị môi trường phát triển!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đại lý! Nhiệm vụ lần này là 'Xây dựng căn cứ phát triển' nhé! 🏗️",
+      "background": "hq",
+      "title": "Chỉ thị nhiệm vụ: Xây dựng căn cứ",
+      "content": "Nhiệm vụ: Cài đặt VS Code và tạo file đầu tiên. Hãy xây 'ngôi nhà' cho lập trình viên!",
+      "emoji": "🖥️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "VS Code là 'ngôi nhà để viết code' nhé! Các lập trình viên trên toàn thế giới đều sử dụng nó!",
+      "background": "spy",
+      "title": "VS Code là gì?",
+      "content": "VS Code là trình soạn thảo code tốt nhất. Nó giúp phân màu và tự động hoàn thiện code để viết chương trình dễ dàng hơn!",
+      "emoji": "🏠",
+      "highlight": "Tính năng của VS Code:\n・Miễn phí\n・Các kỹ sư trên toàn thế giới yêu thích\n・Phân màu giúp code dễ đọc\n・Có thể thêm chức năng bằng extension"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy cài đặt cùng với người lớn nhé!",
+      "background": "lab",
+      "title": "Chiến lược cài đặt",
+      "content": "Hãy tải xuống từ trang web chính thức của VS Code và cài đặt. Nếu không hiểu, hãy hỏi người lớn nhé!",
+      "emoji": "⬇️",
+      "highlight": "Hướng dẫn:\n1. Mở code.visualstudio.com\n2. Nhấn nút 'Download'\n3. Chạy trình cài đặt\n4. Khởi chạy VS Code!"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Nếu cài đặt thành công, hãy tạo file đầu tiên nhé!",
+      "background": "spy",
+      "title": "Chiến lược tạo file",
+      "content": "Mở VS Code, tạo thư mục 'my-first-app' và tạo file 'memo.txt' trong đó nhé!",
+      "emoji": "📁",
+      "highlight": "Thử thách:\n① Tên thư mục: my-first-app\n② Tên file: memo.txt\n③ Viết 3 dòng tùy thích và lưu"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hoàn thành xây dựng căn cứ nhé! Chụp màn hình và nộp để nhận 260 điểm nhé! 🎯",
+      "background": "hq",
+      "title": "Hoàn thành nhiệm vụ!",
+      "content": "Căn cứ của lập trình viên đã hoàn thành! Hãy chụp màn hình VS Code và nộp lên Slack nhé!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title": "NotebookLM 图像任务",
+  "description": "使用 AI 生成图像任务!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "视觉代理人！今天是\"图像任务\"！🖼️",
+      "background": "lab",
+      "title": "任务指令：图像任务",
+      "content": "任务：使用 NotebookLM 来组织图像想法并生成 AI 图像生成指令！",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "使用 AI 生成图像需要\"详细说明\"",
+      "background": "spy",
+      "title": "图像提示是什么？",
+      "content": "AI 图像生成工具需要\"这样画一个图\"的说明来生成图像，称为\"提示\"。详细说明越好，生成的图像越好！",
+      "emoji": "✍️",
+      "highlight": "好的提示有 3 个要素：\n① 主角是谁\n② 在哪里（场景/背景）\n③ 感觉如何（颜色/气氛）"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "使用 NotebookLM 来描述要画的图像并生成提示！",
+      "background": "lab",
+      "title": "提示生成任务",
+      "content": "打开 NotebookLM 并描述要画的图像来生成提示！",
+      "emoji": "🎨",
+      "highlight": "可用的提示：\n\"要求 AI 生成图像\n 小学生向け\n 主题是\"未来学校\"，并且是明亮愉快的气氛\""
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "使用生成的提示来生成实际图像！",
+      "background": "spy",
+      "title": "图像生成挑战",
+      "content": "与家人一起使用 AI 图像生成工具来生成提示来生成图像！",
+      "emoji": "🖌️",
+      "highlight": "完成条件：\n□ 思考和组织成功\n□ 生成了一个提示\n□ 修正了一次以上"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "图像任务完成！使用提示和生成的图像来获得 320 分！🎯",
+      "background": "hq",
+      "title": "任务完成！",
+      "content": "你已经获得了 AI 艺术家的力量！使用提示和生成的图像来提交到 Slack！",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

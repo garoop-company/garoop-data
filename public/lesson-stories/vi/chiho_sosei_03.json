@@ -1,0 +1,131 @@
+{
+  "title": "Nông nghiệp DX - Cách mạng nông nghiệp với công nghệ mới nhất",
+  "description": "Cùng Garu học về tương lai của nông nghiệp với công nghệ thông minh, máy bay không người lái và trí tuệ nhân tạo!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Nông nghiệp thay đổi với công nghệ mới nhất! ",
+      "background": "forest",
+      "title": "Nông nghiệp DX - Cách mạng nông nghiệp với công nghệ mới nhất",
+      "emoji": "🌾",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về Nông nghiệp DX!",
+      "background": "classroom",
+      "title": "Tình hình nông nghiệp Nhật Bản hiện nay là gì?",
+      "content": "Số lượng người lao động trong ngành nông nghiệp Nhật Bản giảm mạnh từ 3,5 triệu người vào năm 2000 xuống còn 1,22 triệu người vào năm 2022. Độ tuổi trung bình là 68 tuổi. Thiếu hụt lao động và già hóa dân số là vấn đề nghiêm trọng, nhưng cũng là cơ hội để giải quyết bằng công nghệ!",
+      "emoji": "👨‍🌾",
+      "highlight": "Độ tuổi trung bình của người lao động nông nghiệp: 68,4 tuổi (khảo sát của Bộ Nông nghiệp, Lâm nghiệp và Thủy sản năm 2022). 1/3 sẽ nghỉ hưu trong 10 năm tới"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về Nông nghiệp DX!",
+      "background": "space",
+      "title": "Nông nghiệp thông minh là gì?",
+      "content": "Sử dụng cảm biến, trí tuệ nhân tạo, IoT, máy bay không người lái và robot để 'hiểu rõ', 'tự động hóa' và 'tối ưu hóa' nông nghiệp. Dựa vào dữ liệu để kiểm tra tình trạng đất đai và quyết định thời điểm tưới nước, bón phân và thu hoạch.",
+      "emoji": "🤖",
+      "highlight": "Thử nghiệm nông nghiệp thông minh: trên 1.000 địa điểm trên toàn quốc (Bộ Nông nghiệp, Lâm nghiệp và Thủy sản) đang tiến hành thí điểm"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về Nông nghiệp DX!",
+      "background": "forest",
+      "title": "Máy bay không người lái trong nông nghiệp thay đổi như thế nào?",
+      "content": "Máy bay không người lái phun thuốc trừ sâu hoàn thành công việc nhanh gấp 10 lần so với phương pháp truyền thống. Chụp ảnh từ trên không để phát hiện sớm sâu bệnh. Gieo hạt cũng được tự động hóa. Diện tích nông nghiệp mà một người có thể quản lý tăng lên hơn 10 lần! Chi phí cũng giảm đáng kể.",
+      "emoji": "🚁",
+      "highlight": "Phun thuốc trừ sâu bằng máy bay không người lái: 5 ha/giờ (gấp khoảng 10 lần so với phương pháp phun thuốc truyền thống)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về Nông nghiệp DX!",
+      "background": "ocean",
+      "title": "Khả năng của nhà máy trồng trọt và nông nghiệp thẳng đứng",
+      "content": "Trồng cây trong nhà máy sử dụng đèn LED và thủy canh, không phụ thuộc vào thời tiết, sâu bệnh và thuốc trừ sâu. Có thể trồng trọt trong tòa nhà ở khu vực thành thị! Sản xuất ổn định quanh năm, giảm chi phí vận chuyển và đảm bảo an toàn thực phẩm.",
+      "emoji": "🏭",
+      "highlight": "Rau xà lách trong nhà máy: hiệu suất sản xuất gấp 100 lần so với ngoài trời. Không sử dụng thuốc trừ sâu, an toàn và yên tâm"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về Nông nghiệp DX!",
+      "background": "city",
+      "title": "Trí tuệ nhân tạo trở thành 'sư phụ' của nông nghiệp",
+      "content": "Máy ảnh trí tuệ nhân tạo phân tích tình trạng sinh trưởng của cây mỗi ngày. Kinh nghiệm và kiến thức của nông dân lão thành được tích hợp vào trí tuệ nhân tạo để nông dân trẻ có thể đưa ra quyết định tương tự. Kiến thức nông nghiệp truyền thống được lưu giữ trong thời đại kỹ thuật số!",
+      "emoji": "🧠",
+      "highlight": "Xác định sâu bệnh bằng trí tuệ nhân tạo: độ chính xác trên 90% so với quyết định của nông dân lão thành (theo Viện nghiên cứu nông nghiệp)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về Nông nghiệp DX!",
+      "background": "forest",
+      "title": "Nông nghiệp kết hợp kinh doanh khiến người trẻ quay trở lại",
+      "content": "Thế hệ trẻ đang tham gia vào nông nghiệp như một hình thức kinh doanh 'kinh doanh nông nghiệp'. Bán hàng trực tiếp, xây dựng thương hiệu, chế biến và bán hàng, du lịch nông nghiệp... Các hình thức kinh doanh mới đang xuất hiện!",
+      "emoji": "🚀",
+      "highlight": "Vốn đầu tư cho startup nông nghiệp: tăng đột biến sau năm 2020, tổng cộng trên 1000 tỷ yên"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học về Nông nghiệp DX!",
+      "background": "classroom",
+      "title": "Chủ đề lớn là an ninh lương thực",
+      "content": "Tỷ lệ tự cung cấp lương thực (tính theo calo): Nhật Bản là 38% (năm 2022). Mức thấp nhất trong các nước phát triển! Có nguy cơ thiếu lương thực trong trường hợp khẩn cấp. Tăng sản lượng lương thực bằng công nghệ nông nghiệp DX cũng là vấn đề an ninh quốc gia.",
+      "emoji": "🌏",
+      "highlight": "Tỷ lệ tự cung cấp lương thực của Nhật Bản: 38% (tính theo calo). Thấp nhất trong OECD"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về Nông nghiệp DX!",
+      "background": "ocean",
+      "title": "Các ví dụ tiên tiến về công nghệ nông nghiệp nước ngoài",
+      "content": "Hà Lan: diện tích nông nghiệp nhỏ, nhưng xuất khẩu nông sản đứng thứ 2 thế giới (quốc gia tiên phong trong nông nghiệp nhà kính). Israel: xuất khẩu công nghệ tưới nhỏ giọt cho toàn thế giới. Nhật Bản cũng có thể xuất khẩu công nghệ cho thế giới!",
+      "emoji": "🇳🇱",
+      "highlight": "Giá trị xuất khẩu nông sản của Hà Lan: trên 100 tỷ đô la (thứ 2 thế giới, sau Mỹ). Diện tích nhỏ như Kyushu!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Làm chủ Nông nghiệp DX! Tiếp theo là tạo sinh du lịch và phát triển địa phương!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

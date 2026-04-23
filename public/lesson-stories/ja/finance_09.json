@@ -1,0 +1,132 @@
+{
+  "title": "起業とお金〜資金調達の秘密〜",
+  "description": "ビジネスを始めるためのお金はどこから来るの？資金調達を学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "起業のお金を調達する方法を学ぼう！💼",
+      "background": "city",
+      "title": "起業とお金",
+      "emoji": "💼",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「起業とお金〜資金調達の秘密〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "スタートアップにはどれくらいお金が必要？",
+      "background": "classroom",
+      "title": "起業に必要な資金",
+      "content": "ビジネスに必要なお金は業種によって全然違います！飲食店：500〜2000万円。Webサービス：10〜500万円。アプリ：50〜1000万円。最近はスマホ1台で0円から始められるビジネスも！",
+      "emoji": "💰",
+      "highlight": "Webサービス・アプリなら10〜100万円の「スモールスタート」が可能！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "自己資金・ブートストラップって何？",
+      "background": "forest",
+      "title": "自己資金で始める",
+      "content": "自分のお金でビジネスを始めることを「ブートストラップ」と呼びます。外から資金を取らないので自由度が高い。37signals（BasecampやHEYの開発会社）や多くの成功企業が自己資金スタート。",
+      "emoji": "👟",
+      "highlight": "ブートストラップの利点：株式希薄化なし・自分のペースで経営できる"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "銀行借入・融資ってどうやるの？",
+      "background": "city",
+      "title": "銀行融資と日本政策金融公庫",
+      "content": "事業の資金を銀行から借りることができます。日本政策金融公庫は若者・女性・起業家向けの低金利融資が有名。事業計画書を提出して審査を通れば数十〜数千万円を借りられます！",
+      "emoji": "🏦",
+      "highlight": "日本政策金融公庫：無担保・無保証人で最大7,200万円まで融資可能"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "補助金・助成金は「返さなくていいお金」！",
+      "background": "ocean",
+      "title": "補助金・助成金の活用",
+      "content": "国や自治体が提供する「補助金・助成金」は返済不要のお金！小規模事業者持続化補助金・ものづくり補助金・IT導入補助金など。毎年多くの制度があります。申請できるのは起業家だけ！",
+      "emoji": "🎁",
+      "highlight": "補助金例：小規模事業者持続化補助金→最大200万円（返済不要）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "エンジェル投資家って天使なの？",
+      "background": "space",
+      "title": "エンジェル投資家とVC",
+      "content": "エンジェル投資家：個人の富裕層が起業家に投資（数百万〜数千万円）。VC（ベンチャーキャピタル）：専門ファンドが有望スタートアップに投資（数千万〜数十億円）。代わりに株式の一部を渡します。",
+      "emoji": "👼",
+      "highlight": "日本のVC投資額：約1兆円/年（2023年）。米国は約20兆円以上"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "クラウドファンディングで夢を実現！",
+      "background": "city",
+      "title": "クラウドファンディング",
+      "content": "多くの人から少しずつお金を集める「クラウドファンディング」。Kickstarter・Indiegogo・Makuakeなどのプラットフォームを使用。製品開発前に購入者を集めて資金調達できる革命的な方法！",
+      "emoji": "🌐",
+      "highlight": "Pebble Watch：Kickstarterで目標の3,000%超の資金を調達（2012年）"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "あなたのビジネスアイデアはいくら必要？",
+      "background": "candy",
+      "title": "資金計画を立ててみよう！",
+      "content": "あなたがビジネスを始めるなら何が必要？①初期費用（設備・在庫など）②毎月かかるコスト（人件費・家賃・材料）③いつ黒字になるか。実際に書き出すだけで起業家的思考が育ちます！",
+      "emoji": "📋",
+      "highlight": "ビジネスモデル：収入源－コスト＝利益。まずこの式を意識しよう！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "IPO（株式上場）がゴールの起業家もいる！",
+      "background": "classroom",
+      "title": "Exit（出口戦略）とIPO",
+      "content": "スタートアップの最終ゴール（Exit）は①IPO（株式市場に上場）か②M&A（大企業に買収される）が多い。日本最大のM&A：ソフトバンクがARM社を400億ドル（約6兆円）で買収（2016年）。",
+      "emoji": "🏆",
+      "highlight": "M&A最高額（日本）：武田薬品がシャイア社を約6.2兆円で買収（2019年）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "資金調達の仕組みを学んだね！次はお金の未来へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

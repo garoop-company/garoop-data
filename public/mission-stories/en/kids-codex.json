@@ -1,0 +1,81 @@
+{
+  "title": "Codex Mission",
+  "description": "A spy mission to create a mini-app with Codex!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Code Agent! Your mission is to develop an app with AI using Codex! 🕵️💻",
+      "background": "lab",
+      "title": "Mission Briefing: Codex Operation",
+      "content": "Your task: Use Codex (AI code assistant) to create a mini-app that changes a message when a button is pressed!",
+      "emoji": "🤖",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Codex is an AI that 'writes code for you'! It can create any app you want!",
+      "background": "spy",
+      "title": "What is Codex?",
+      "content": "Codex is an amazing AI that writes code for you when you ask it to create an app!",
+      "emoji": "⚡",
+      "highlight": "Codex features:\n・Creates any program\n・Provides explanations\n・Answers questions\n・Outputs working code"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "First, let's define what you want to create in one sentence!",
+      "background": "hq",
+      "title": "Requirements Definition Training",
+      "content": "Before creating a program, clarify what you want to make. Keep it simple!",
+      "emoji": "📋",
+      "highlight": "Mission:\n「Create a web page that changes\n  the support message when a button is pressed」\n\nMaterials: HTML + CSS + JavaScript"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Let's copy and paste this prompt into Codex!",
+      "background": "lab",
+      "title": "Operation Execution!",
+      "content": "Open chatgpt.com and input the prompt below. Let's see what code comes out!",
+      "emoji": "💡",
+      "highlight": "Prompt:\n「Create a children's support page with HTML, CSS, and JavaScript.\n When a button is pressed, display '_Ganbare!' and explain it clearly."
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Try changing the code a bit! Just change the color or message!",
+      "background": "spy",
+      "title": "Customization Operation",
+      "content": "Look at the code and change the message or color to your liking. Even one change is okay!",
+      "emoji": "🎨",
+      "highlight": "Change:\n・Message → Favorite word\n・Button color → Favorite color\n・Title → Original"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mission complete! Submit a screenshot of the working screen and get 420 points! 🎯",
+      "background": "lab",
+      "title": "Mission Complete!",
+      "content": "You've acquired the skill to create apps with AI! Submit a screenshot and your ideas on Slack!",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

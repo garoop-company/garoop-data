@@ -1,0 +1,69 @@
+{
+  "title": "创建 GitHub 账户任务",
+  "description": "创建代码仓库的任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "代理！这次的任务是「建造秘密基地的数据银行」！",
+      "background": "spy",
+      "title": "任务指令：数据银行建设",
+      "content": "任务：创建 GitHub 账户，获得可以安全保管代码的「数字保险箱」！",
+      "emoji": "🐙",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "GitHub 是「代码的宇宙储物柜」！",
+      "background": "hq",
+      "title": "什么是 GitHub？",
+      "content": "GitHub 是可以在互联网上保存代码的地方。是世界各地的开发者都在使用的代码「图书馆」！",
+      "emoji": "📚",
+      "highlight": "GitHub 可以做的事情：\n・保存和管理代码\n・备份\n・与他人共享和共同开发\n・留下历史记录"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "创建账户一定要和家人一起！",
+      "background": "lab",
+      "title": "想出安全的用户名",
+      "content": "GitHub 的用户名会公开给全世界。请选择安全且容易记住的名字！",
+      "emoji": "🔐",
+      "highlight": "安全的用户名规则：\n✅ 组合喜欢的东西\n✅ 容易记住的名字\n❌ 不要直接使用真名\n❌ 不要填写学校名称或地址"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "和家人一起注册账户！",
+      "background": "spy",
+      "title": "账户注册作战",
+      "content": "打开 GitHub.com，和家人一起创建账户。密码绝对不能告诉任何人！",
+      "emoji": "🔑",
+      "highlight": "步骤：\n1. 打开 github.com/signup\n2. 输入电子邮件地址\n3. 设置安全密码\n4. 确定用户名\n5. 注册完成！"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "数据银行建设完成！截图登录画面获得 260 分！🎯",
+      "background": "hq",
+      "title": "任务完成！",
+      "content": "GitHub 的数据银行完成了！登录后截图提交到 Slack！",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

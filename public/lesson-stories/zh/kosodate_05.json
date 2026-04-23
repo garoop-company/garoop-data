@@ -1,0 +1,131 @@
+{
+  "title": "情商教育与同理心～培养EQ～",
+  "description": "和Garu chan一起愉快地学习情商教育与同理心！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "培养孩子的情商！学习情商科学！",
+      "background": "candy",
+      "title": "情商教育与同理心～培养EQ～",
+      "emoji": "💕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu chan一起学习情商教育与同理心！",
+      "background": "classroom",
+      "title": "什么是EQ（情商）",
+      "content": "EQ（情商）= ①认识自己的情绪②管理情绪③理解他人的情绪（同理心）④良好的人际关系 - 4种能力。与幸福感和成功的相关性比智商更高！",
+      "emoji": "❤️",
+      "highlight": "智商 vs 情商：智商只能解释成功的20%。其余80%是情商和其他因素（戈尔曼）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu chan一起学习情商教育与同理心！",
+      "background": "forest",
+      "title": "给情绪取个名字",
+      "content": "当孩子生气时，不要说「怎么了！」而是说「现在你很生气呢」，给情绪取名字（情绪标签）。当孩子可以用语言表达情绪时，可以培养自制力和同理心！",
+      "emoji": "🏷️",
+      "highlight": "情绪标签：可以降低30%对愤怒情绪的大脑反应（加州大学洛杉矶分校神经科学研究）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu chan一起学习情商教育与同理心！",
+      "background": "ocean",
+      "title": "培养同理心的方法",
+      "content": "问孩子「别人会有什么感受？」并养成习惯。通过绘本、电影、角色扮演（假装游戏）来想象和体验不同人的立场和感受，可以培养同理心！",
+      "emoji": "🤝",
+      "highlight": "高同理心孩子：不容易欺凌、朋友关系良好、未来领导能力高"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu chan一起学习情商教育与同理心！",
+      "background": "space",
+      "title": "与「愤怒」相处的方法",
+      "content": "愤怒不是坏情绪！问题在于表达方式。①深呼吸（10秒）②用语言表达情绪③冷静下来 - 从小练习这3步，可以培养情绪控制力！",
+      "emoji": "😤",
+      "highlight": "'6秒规则'：愤怒的顶点是6秒。在这期间深呼吸，可以抑制情绪化行为"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu chan一起学习情商教育与同理心！",
+      "background": "classroom",
+      "title": "'感谢'对大脑的影响",
+      "content": "表达感激之情可以提高幸福感、预防抑郁、增强社会联系。每天写下3件「好的事情」和「感激的事情」的「感恩日记」，可以提高孩子的幸福感！",
+      "emoji": "🙏",
+      "highlight": "感恩日记：每周写3次就可以提高25%的幸福感（艾蒙斯和麦卡洛夫研究）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu chan一起学习情商教育与同理心！",
+      "background": "city",
+      "title": "失败时的「自我同情」",
+      "content": "对自己好一点的「自我同情」与自我批评不同。失败时不要责怪「最糟糕！」，而是想「每个人都会失败，下次再努力」，可以培养心理韧性！",
+      "emoji": "🌸",
+      "highlight": "自我同情：比自我批评更快地从失败中恢复，并增加挑战精神（内夫研究）"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu chan一起学习情商教育与同理心！",
+      "background": "ocean",
+      "title": "孩子的心理健康问题",
+      "content": "日本的失学儿童数量创历史新高（超过29万，2022年）。保护孩子的心理健康是当务之急。迹象：①睡眠异常②食欲变化③社交回避 - 家长需要发现并咨询专家！",
+      "emoji": "🆘",
+      "highlight": "失学：超过29万（2022年）。新冠疫情后急剧增加。早期发现和专家咨询非常重要"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu chan一起学习情商教育与同理心！",
+      "background": "forest",
+      "title": "'绘本'是最强的情商教育工具",
+      "content": "通过与绘本主人公的情绪产生共鸣，可以培养孩子的同理心、情绪词汇和想象力。像「兔子莫菲」、「那个女孩」、「纸袋公主」等绘本，描绘了各种情绪，帮助孩子的心理成长！",
+      "emoji": "📚",
+      "highlight": "睡前阅读：对词汇力、同理心、想象力和亲子关系都有积极影响（多项研究）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "学到了情商教育！接下来是数字时代的育儿",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

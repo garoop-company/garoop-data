@@ -1,0 +1,81 @@
+{
+  "title": "Video Tu Luyện",
+  "description": "Bắt đầu hành trình tạo video!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Chào mừng đến Video Đạo Trường! Bạn có thể trở thành đạo diễn phim với chỉ một chiếc điện thoại! 🎬",
+      "background": "dojo",
+      "title": "Chào mừng đến Video Đạo Trường!",
+      "content": "Video là 'phù thủy biến ý tưởng thành hình ảnh'. Hãy học 3 bước: lên kế hoạch, quay phim và chỉnh sửa!",
+      "emoji": "🎥",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Trước tiên, hãy quyết định 'ai, cái gì và bạn muốn truyền tải cảm xúc gì'!",
+      "background": "bamboo",
+      "title": "Tu Luyện Lên Kế Hoạch",
+      "content": "Trước khi tạo video, hãy viết một 'kế hoạch'. Ngay cả video 1 phút cũng cần kế hoạch!",
+      "emoji": "📋",
+      "highlight": "3 yếu tố của kế hoạch:\nAi  → Bạn bè cùng tuổi\nCái gì  → Giới thiệu trò chơi yêu thích\nCảm xúc → Muốn mang lại hứng thú"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Gar sẽ dạy bạn bí quyết quay phim! Hãy nhớ kỹ thuật chia 3 phần!",
+      "background": "mountain",
+      "title": "Tu Luyện Quay Phim",
+      "content": "Chia màn hình thành 3 phần theo chiều dọc và chiều ngang, đặt những phần quan trọng vào giao điểm để video trông đẹp hơn. Đây là 'kỹ thuật chia 3 phần'!",
+      "emoji": "📐",
+      "highlight": "3 bí quyết quay phim:\n① Áp dụng kỹ thuật chia 3 phần\n② Ánh sáng đặt phía trước mặt\n③ Di chuyển camera từ từ"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Hãy để AI tạo kịch bản cho video của bạn!",
+      "background": "dojo",
+      "title": "Tu Luyện Kịch Bản AI",
+      "content": "Hãy thử yêu cầu NotebookLM hoặc Claude 'tạo kịch bản cho video 1 phút'. Bạn sẽ có kịch bản như thế nào?",
+      "emoji": "📝",
+      "highlight": "Ví dụ yêu cầu:\n'Tạo kịch bản cho video 1 phút,\n giới thiệu trò chơi yêu thích cho trẻ em,\n với 5 câu thoại'"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Gar có thể tạo video tự động với AI!",
+      "background": "bamboo",
+      "title": "Tu Luyện Tạo Video AI",
+      "content": "Hãy thử AI 'Veo' tạo video từ văn bản! Chỉ cần nhập từ khóa và bạn sẽ có video!",
+      "emoji": "🤖",
+      "highlight": "Hãy thử:\nYêu cầu Veo tạo 'video một chú kangaroo\n năng động đang nhảy trong rừng trúc'"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hoàn thành hành trình tạo video! Chia sẻ video của bạn trên Slack! 🎉",
+      "background": "temple",
+      "title": "Hoàn Thành!",
+      "content": "Bạn đã thành thạo tạo video với AI và kỹ thuật quay phim! Hãy chia sẻ video của bạn với mọi người!",
+      "emoji": "🎬",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

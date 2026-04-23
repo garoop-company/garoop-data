@@ -1,0 +1,131 @@
+{
+  "title": "Introduction to Investment ~Let's Make Your Money Work~",
+  "description": "Is investing scary? Not at all! Let's learn the basics together!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's make your money work for you through investing! 📈",
+      "background": "space",
+      "title": "Introduction to Investment",
+      "emoji": "📈",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "What's the difference between saving and investing?",
+      "background": "classroom",
+      "title": "Saving vs Investing",
+      "content": "Saving: Safe but grows slowly (0.02~1% per year). Investing: Risky but has potential for high growth (5~10% per year on average). If inflation (price increase) is 2% per year, then 1% saving is actually a loss!",
+      "emoji": "⚖️",
+      "highlight": "Inflation rate 2% > Savings interest 0.02% → Your savings are actually 'decreasing' in value"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "There are many types of investments!",
+      "background": "city",
+      "title": "Types of Investments",
+      "content": "Main investments are ① Stocks (own a part of a company) ② Bonds (lend money to a country or company) ③ Real Estate (invest in land and buildings) ④ Investment Trusts (professionals manage) ⑤ Cryptocurrency (digital currency). Each has different risks and expected returns.",
+      "emoji": "🗂️",
+      "highlight": "Low risk → High risk: Bonds < Investment Trusts < Stocks < Cryptocurrency"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Do you know the saying 'Don't put all your eggs in one basket'?",
+      "background": "forest",
+      "title": "The Importance of Diversified Investment",
+      "content": "If you put all your eggs (money) in one basket (investment), and you drop the basket, all your eggs will break. So, it's essential to diversify your investments. If one investment goes down, others can cover it!",
+      "emoji": "🥚",
+      "highlight": "Diversified investment = A strategy to minimize damage by spreading risk across multiple investments"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "I'll teach you why 'long-term investment' is the most powerful!",
+      "background": "space",
+      "title": "The Power of Long-term Investment",
+      "content": "Short-term trading is difficult. But if you hold on for a long time? The S&P 500 (a representative US stock index) has averaged around 10% returns per year over the past 30 years! If you invest $100 per month for 30 years... you'll have around $2 million!",
+      "emoji": "⏳",
+      "highlight": "Monthly $100 × 7% annual return × 30 years = $1,188,000 → $3,000,000 (compounding effect)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "What is an investment trust that you can start with a small amount?",
+      "background": "ocean",
+      "title": "How Investment Trusts Work",
+      "content": "Investment trusts collect money from many people and have professionals invest it in a diversified portfolio. You can start with just $100! Index funds (investing in the overall market) have low fees and are suitable for beginners.",
+      "emoji": "🎪",
+      "highlight": "Index funds: Diversified across the market → Low cost → Beats most professionals in the long term"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Have you heard of NISA or iDeCo?",
+      "background": "city",
+      "title": "Tax Benefits: NISA",
+      "content": "NISA (Non-Taxable Investment) is a system where investment profits are tax-free! Usually, 20.315% of profits go to taxes. From 2024, a new NISA will start, allowing up to $360,000 per year to be invested tax-free.",
+      "emoji": "🏅",
+      "highlight": "New NISA: Up to $360,000 per year, lifetime limit $1,800,000 tax-free. Starting January 2024"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "If you had $100,000, how would you invest it?",
+      "background": "candy",
+      "title": "Investment Simulation!",
+      "content": "Imagine investing $100,000 in ① Stocks only ② Savings only ③ Stocks $50,000 + Bonds $30,000 + Cash $20,000 — and see how each option performs after 10 years. You'll see why diversified investment is stable!",
+      "emoji": "💭",
+      "highlight": " 'Risk' = Not danger, but volatility. Taking risks can also lead to higher returns"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Be careful of investment scams!",
+      "background": "classroom",
+      "title": "Don't Fall for Investment Scams",
+      "content": "'Guaranteed high returns!' or '10% monthly returns, risk-free!' are signs of scams. Investing always involves risk. Open an account with a legitimate securities company or bank approved by the Financial Agency. If you encounter a suspicious offer, consult immediately!",
+      "emoji": "⚠️",
+      "highlight": "99.9% of 'guaranteed' investments with >10% returns are scams!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've mastered the basics of investing! Next stop: the stock market! 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "प्रोग्रामिङ्ग अभ्यास",
+  "description": "कोड लेखन कौशल बलियो बनाऔं!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "प्रोग्रामिङ्ग डोजोमा स्वागत छ! कोडद्वारा जादूगराई गरौं! 💻",
+      "background": "mountain",
+      "title": "प्रोग्रामिङ्ग डोजो",
+      "content": "प्रोग्रामिङ्ग कम्प्युटरलाई आदेश दिने किताब जस्तै हो। सजिलो आदेशबाट सुरु गरेर, क्रमशः कठिन जादूगराई गर्न सकिन्छ!",
+      "emoji": "💻",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "पहिले 'चर' सिकौं। बाकसलाई नाम दिने कल्पना जस्तै!",
+      "background": "dojo",
+      "title": "चरको अभ्यास",
+      "content": "चर भनेको डाटा राख्ने बाकस हो। नाम दिने बाकसमा मनपर्ने चीज राख्न सकिन्छ।",
+      "emoji": "📦",
+      "highlight": "उदाहरण: \nname = \"गाल्चान\"\nage = 5\nfavorite = \"बाँस\""
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "दोहोरिने (लूप) प्रयोग गर्दा उही काम धेरै पटक गर्नुपर्दैन!",
+      "background": "bamboo",
+      "title": "लूपको अभ्यास",
+      "content": "उही आदेश धेरै पटक दोहोरिने 'लूप' हो। हिँड, हिँड, हिँड... ३ पटक दोहोरिने! जस्तै सजिलो लेख्न सकिन्छ।",
+      "emoji": "🔄",
+      "highlight": "उदाहरण: \nfor i in range(3):\n    print(\"गऱ्यौ!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "'यदि 〜 हो' शर्त अनुसारको विभाजन प्रयोग गर्दा प्रोग्राम सजिलो हुन्छ!",
+      "background": "mountain",
+      "title": "शर्त अनुसारको विभाजनको अभ्यास",
+      "content": "'यदि कुनै शर्त हो भने केही गर्नुहोस्, अन्यथा अरू केही गर्नुहोस्' यस्तो शर्त अनुसारको विभाजन हो। प्रोग्राम चयन गर्न सकिन्छ!",
+      "emoji": "🤔",
+      "highlight": "उदाहरण: \nif score > 80:\n    print(\"अद्भुत!\")\nelse:\n    print(\"अर्को प्रयास गरौं\")"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Codex लाई 'जाँकेण गेम बनाउनुहोस्' भनौं!",
+      "background": "dojo",
+      "title": "व्यवहारिक! जाँकेण गेम",
+      "content": "AI को Codex प्रयोग गरेर जाँकेण गेमको कोड बनाउनुहोस्। कस्तो कोड आउँछ?",
+      "emoji": "✊",
+      "highlight": "चुनौती: \nCodex सोधौं! \n'पाइथनमा जाँकेण गेम बनाउनुहोस्। \nव्याख्या पनि दिनुहोस्'"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "प्रोग्रामिङ्ग अभ्यास पूरा भयो! बनाएको कुरा Slack मा घोषणा गरौं 🎉",
+      "background": "temple",
+      "title": "अभ्यास पूरा!",
+      "content": "चर, लूप, शर्त अनुसारको विभाजनको ३ ओटा हतियार प्राप्त गरियो! अब आफ्नै अनोखा प्रोग्राम बनाउनुहोस्!",
+      "emoji": "⚔️",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

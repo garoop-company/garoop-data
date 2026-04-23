@@ -1,0 +1,81 @@
+{
+  "title": "動画修行",
+  "description": "動画制作の修行を始めよう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "動画道場へようこそガル！スマホ1台で映画監督になれるよ！🎬",
+      "background": "dojo",
+      "title": "動画道場へようこそ！",
+      "content": "動画修行では、撮る前に伝える設計を考える力を鍛える。映像は情報量が多いぶん、何を見せるかを決めないとぼやけやすいので、企画、撮影、編集の順番がとても重要になる。",
+      "emoji": "🎥",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "まず「誰に・何を・どんな気持ちで伝えたいか」を決めよう！",
+      "background": "bamboo",
+      "title": "企画の修行",
+      "content": "企画では、「誰に」「何を」「見たあとどう感じてほしいか」を決めると動画の芯が生まれる。短い動画ほど全部を詰め込まず、1つのメッセージに絞ったほうが強く伝わる。",
+      "emoji": "📋",
+      "highlight": "企画の基本:\n・対象\n・伝えたいこと\n・見たあとの気持ち"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "カメラのコツを教えるガル！三分割法を覚えよう！",
+      "background": "mountain",
+      "title": "撮影の修行",
+      "content": "撮影では、テクニックより「見せたいものがちゃんと見えるか」が大切だ。構図、明るさ、カメラの揺れを少し意識するだけで、同じ題材でも見やすさが大きく変わる。",
+      "emoji": "📐",
+      "highlight": "撮影の3原則:\n・主役をはっきり\n・明るさを確保\n・動きを落ち着かせる"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "AIで動画の脚本を作ってもらおう！",
+      "background": "dojo",
+      "title": "AI脚本修行",
+      "content": "AIで脚本を作るときは、動画の長さ、対象、雰囲気を具体的に伝えると使いやすい台本になる。できあがった案をそのまま読むのではなく、自分の言い方に直してから使うと自然な動画になる。",
+      "emoji": "📝",
+      "highlight": "依頼に入れる要素:\n・何秒の動画か\n・誰向けか\n・どんな口調にするか"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Veoで動画を自動生成することもできるガル！",
+      "background": "bamboo",
+      "title": "AI動画生成修行",
+      "content": "生成AIの動画は便利だが、何を見せたいのかが曖昧だと印象の薄い映像になる。主役、動き、背景、色、カメラの距離を意識して指示を出すと、作品としての芯が出てくる。",
+      "emoji": "🤖",
+      "highlight": "映像指示の型: 主役 / 動き / 背景 / 雰囲気 / カメラ"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "動画修行完了ガル！作った動画をSlackでシェアしてね🎉",
+      "background": "temple",
+      "title": "修行完了！",
+      "content": "修行完了後は、完成動画を見返して「最初の3秒で見せたかったもの」が伝わるか確認しよう。動画は作って終わりではなく、見返して改善点を見つけることで一段上手くなる。",
+      "emoji": "🎬",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Pengenalan Investasi ~Buat Uangmu Bekerja~",
+  "description": "Investasi menakutkan? Tidak sama sekali! Mari kita pelajari dasar-dasarnya bersama!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Buat uangmu bekerja untukmu melalui investasi! 📈",
+      "background": "space",
+      "title": "Pengenalan Investasi",
+      "emoji": "📈",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apa perbedaan antara menabung dan investasi?",
+      "background": "classroom",
+      "title": "Menabung vs Investasi",
+      "content": "Menabung: Aman tapi tumbuh lambat (0,02~1% per tahun). Investasi: Berisiko tapi berpotensi tumbuh tinggi (5~10% per tahun rata-rata). Jika inflasi (kenaikan harga) 2% per tahun, maka menabung 1% sebenarnya kerugian!",
+      "emoji": "⚖️",
+      "highlight": "Tingkat inflasi 2% > Bunga tabungan 0,02% → Tabunganmu sebenarnya 'mengecil' nilainya"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ada banyak jenis investasi!",
+      "background": "city",
+      "title": "Jenis Investasi",
+      "content": "Investasi utama adalah ① Saham (memiliki sebagian perusahaan) ② Obligasi (meminjamkan uang ke negara atau perusahaan) ③ Properti (investasi pada tanah dan bangunan) ④ Reksa Dana (dikelola oleh profesional) ⑤ Mata Uang Digital (mata uang digital). Setiap memiliki risiko dan pengembalian yang berbeda.",
+      "emoji": "🗂️",
+      "highlight": "Risiko rendah → Risiko tinggi: Obligasi < Reksa Dana < Saham < Mata Uang Digital"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Kamu tahu pepatah 'Jangan taruh semua telurmu dalam satu keranjang'?",
+      "background": "forest",
+      "title": "Pentingnya Investasi Diversifikasi",
+      "content": "Jika kamu taruh semua telurmu (uang) dalam satu keranjang (investasi), dan keranjangmu jatuh, semua telurmu akan pecah. Maka, penting untuk diversifikasi investasimu. Jika satu investasi turun, yang lain dapat menutupinya!",
+      "emoji": "🥚",
+      "highlight": "Investasi diversifikasi = Strategi untuk meminimalkan kerusakan dengan menyebarkan risiko ke beberapa investasi"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Aku akan ajarkan mengapa 'investasi jangka panjang' adalah yang paling kuat!",
+      "background": "space",
+      "title": "Kekuatan Investasi Jangka Panjang",
+      "content": "Perdagangan jangka pendek sulit. Tapi jika kamu tahan lama? S&P 500 (indeks saham AS yang representatif) telah rata-rata 10% per tahun selama 30 tahun terakhir! Jika kamu investasi $100 per bulan selama 30 tahun... kamu akan memiliki sekitar $2 juta!",
+      "emoji": "⏳",
+      "highlight": " $100 per bulan × 7% pengembalian tahunan × 30 tahun = $1.188.000 → $3.000.000 (efek majemuk)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apa itu reksa dana yang dapat kamu mulai dengan jumlah kecil?",
+      "background": "ocean",
+      "title": "Cara Kerja Reksa Dana",
+      "content": "Reksa dana mengumpulkan uang dari banyak orang dan memiliki profesional yang menginvestasikan dalam portofolio diversifikasi. Kamu dapat memulai dengan hanya $100! Indeks dana (investasi pada pasar secara keseluruhan) memiliki biaya rendah dan cocok untuk pemula.",
+      "emoji": "🎪",
+      "highlight": "Indeks dana: Diversifikasi di seluruh pasar → Biaya rendah → Mengalahkan sebagian besar profesional dalam jangka panjang"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Kamu pernah dengar NISA atau iDeCo?",
+      "background": "city",
+      "title": "Manfaat Pajak: NISA",
+      "content": "NISA (Investasi Non-Pajak) adalah sistem di mana keuntungan investasi bebas pajak! Biasanya, 20,315% keuntungan pergi ke pajak. Mulai 2024, NISA baru akan dimulai, memungkinkan investasi hingga $360.000 per tahun bebas pajak.",
+      "emoji": "🏅",
+      "highlight": "NISA baru: Hingga $360.000 per tahun, batas seumur hidup $1.800.000 bebas pajak. Mulai Januari 2024"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Jika kamu memiliki $100.000, bagaimana kamu akan investasikan?",
+      "background": "candy",
+      "title": "Simulasi Investasi!",
+      "content": "Bayangkan investasi $100.000 dalam ① Saham saja ② Tabungan saja ③ Saham $50.000 + Obligasi $30.000 + Uang tunai $20.000 — dan lihat bagaimana setiap pilihan setelah 10 tahun. Kamu akan lihat mengapa investasi diversifikasi stabil!",
+      "emoji": "💭",
+      "highlight": " 'Risiko' = Bukan bahaya, tapi volatilitas. Mengambil risiko juga dapat membawa pengembalian yang lebih tinggi"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Berhati-hatilah dengan penipuan investasi!",
+      "background": "classroom",
+      "title": "Jangan Tertipu Penipuan Investasi",
+      "content": "'Keuntungan tinggi dijamin!' atau 'Pengembalian 10% per bulan, bebas risiko!' adalah tanda penipuan. Investasi selalu melibatkan risiko. Buka rekening dengan perusahaan sekuritas atau bank yang sah yang disetujui oleh Otoritas Keuangan. Jika kamu menemukan tawaran mencurigakan, konsultasikan segera!",
+      "emoji": "⚠️",
+      "highlight": "99,9% 'dijamin' investasi dengan pengembalian >10% adalah penipuan!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kamu telah menguasai dasar-dasar investasi! Selanjutnya: pasar saham! 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "title": "子育ての第一歩〜愛着と絆の科学〜",
+  "description": "ガルちゃんと楽しく子育ての第一歩を学ぼう！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "赤ちゃんと絆を作ろう！子育ての科学を学ぶよ！",
+      "background": "candy",
+      "title": "子育ての第一歩〜愛着と絆の科学〜",
+      "emoji": "👶",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「子育ての第一歩〜愛着と絆の科学〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと子育ての第一歩を学ぼう！",
+      "background": "classroom",
+      "title": "子育てで一番大切なこと",
+      "content": "子育てで最も重要なのは「愛着（アタッチメント）の形成」。赤ちゃんが泣いたらすぐに応える・目を合わせる・優しく話しかける——これだけで子供の脳は健全に育ちます！",
+      "emoji": "💕",
+      "highlight": "愛着理論（ジョン・ボウルビィ）：安心の基地があると子供は挑戦できる"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと子育ての第一歩を学ぼう！",
+      "background": "forest",
+      "title": "0〜3歳が人生の基礎を作る！",
+      "content": "脳科学的に0〜3歳は脳の発達が最も著しい時期。シナプス（神経細胞の接続）が爆発的に増加。この時期に豊かな刺激（言葉・音楽・遊び・自然）を与えることが一生の知能の基盤になります！",
+      "emoji": "🧠",
+      "highlight": "0〜3歳で脳のシナプスが最も多く形成。3歳以降は使われないシナプスが刈り込まれる"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと子育ての第一歩を学ぼう！",
+      "background": "space",
+      "title": "「同じ目線で」が最高の子育て",
+      "content": "子育てで親がやりがちな失敗：上から命令するだけ。大切なのは子供の世界に降りていって「一緒に驚き・感動する」こと！好奇心は感染します——親が楽しめば子供も楽しい。",
+      "emoji": "👀",
+      "highlight": "「共同注意」：親と子が同じものに注目する→言語発達・社会性の基礎を作る"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと子育ての第一歩を学ぼう！",
+      "background": "ocean",
+      "title": "たくさん話しかけることが知能を育てる",
+      "content": "言語爆発（1歳半〜3歳）の時期に多くの言葉を聞かせることが重要。読み聞かせ・会話・歌——量と質どちらも大切。年収・親の学歴より「会話の量」が子供の語彙力に最も影響します！",
+      "emoji": "📚",
+      "highlight": "ハート＆リスニング研究：3歳までの語りかけ量が10歳の学力と相関"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと子育ての第一歩を学ぼう！",
+      "background": "classroom",
+      "title": "遊びは最高の学習だ！",
+      "content": "ピアジェ（発達心理学者）は「遊びが知能の発達を促す」と証明。積み木・砂遊び・ごっこ遊び——これらは問題解決能力・創造力・社会性を育てる最高の「学習」です！",
+      "emoji": "🧩",
+      "highlight": "「遊びは子供の仕事」（マリア・モンテッソーリ）→遊ばせることが最高の教育"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと子育ての第一歩を学ぼう！",
+      "background": "city",
+      "title": "叱り方・褒め方で子供が変わる",
+      "content": "「あなたはダメな子」（存在への否定）はNG！「その行動は○○だからダメ」（行動への指摘）が正解。褒め方も「すごい！天才！」より「こんなに一生懸命やったんだね！」のように「過程」を褒める！",
+      "emoji": "⭐",
+      "highlight": "「プロセスへの称賛」が固定思考ではなく「成長型マインドセット」を育てる（Dweck理論）"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと子育ての第一歩を学ぼう！",
+      "background": "forest",
+      "title": "インターネット・スマホと子育て",
+      "content": "スクリーンタイム（画面を見る時間）は2歳以下は最小限に（WHO推奨）。一緒に動画を見ながら話し合う「共同視聴」ならOK！デジタルネイティブ世代の子育ては「使い方」を教えることが大切。",
+      "emoji": "📱",
+      "highlight": "WHO推奨：0〜1歳はスクリーンタイム0。2〜5歳は1日1時間以内"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと子育ての第一歩を学ぼう！",
+      "background": "classroom",
+      "title": "子育てに「正解」はない！",
+      "content": "日本・フランス・北欧——国によって育児の常識は全く違います！大切なのは「子供が安心して成長できる環境」を作ること。親自身が楽しく・余裕を持つことが最高の子育て！",
+      "emoji": "🌍",
+      "highlight": "文化によって異なる育児法：添い寝OK・NG、授乳期間など国によって全く違う"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "子育ての基礎を学んだ！次は脳発達の科学へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "银行的机制 〜了解资金流动〜",
+  "description": "和Garu一起学习银行如何运作和管理资金！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "一起揭开银行的秘密！🏦",
+      "background": "city",
+      "title": "银行的机制",
+      "emoji": "🏦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "银行是资金的桥梁！",
+      "background": "classroom",
+      "title": "银行的角色",
+      "content": "银行有三个主要工作：保管资金、贷款和转账。你存入的资金会被银行贷款给企业，并以利息的形式返还给你。",
+      "emoji": "🌉",
+      "highlight": "银行 = 拥有资金的人 ↔ 需要资金的人"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "你知道银行如何赚钱吗？",
+      "background": "city",
+      "title": "银行的赚钱方式",
+      "content": "银行以低利率（0.02%）保管资金，并以高利率（抵押贷款：1-2%，信用卡：15-18%）贷款。利率差额就是银行的利润！",
+      "emoji": "💹",
+      "highlight": "银行利润 = 贷款利率 - 存款利率"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "中央银行与普通银行不同！",
+      "background": "space",
+      "title": "日本银行的角色",
+      "content": "日本银行（日银）是'银行的银行'。日银向普通银行贷款，发行纸币，并确保物价稳定。日银的决定影响整个日本经济！",
+      "emoji": "🇯🇵",
+      "highlight": "日本银行 = 日本的资金守护者，金融政策的核心"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "你知道银行账户的种类吗？",
+      "background": "classroom",
+      "title": "银行账户的种类",
+      "content": "主要有三种账户：① 活期存款：随时可以存取；② 定期存款：存入一定期限（利率较高）；③ 定期积蓄：每月自动积蓄。请选择适合您目的的账户！",
+      "emoji": "📊",
+      "highlight": "定期存款：利率高于活期存款，可以选择3个月到10年的期限"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "在线银行有什么不同？",
+      "background": "ocean",
+      "title": "在线银行的特点",
+      "content": "在线银行没有实体店铺，因此成本较低，存款利率较高！在线银行如SBI新生银行、乐天银行、PayPay银行等。许多服务免手续费和转账费。",
+      "emoji": "💻",
+      "highlight": "在线银行活期存款利率：最高可达普通银行的50倍"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "了解转账的机制！",
+      "background": "city",
+      "title": "转账的机制",
+      "content": "银行转账通过全银系统进行。最近，PayPay、LINE Pay、Revolv等转账应用也变得流行。国际转账使用SWIFT网络。",
+      "emoji": "📡",
+      "highlight": "全银系统：连接日本银行的金融基础设施（每天交易超过100万亿日元）"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "选择适合自己的银行账户！",
+      "background": "candy",
+      "title": "选择账户！",
+      "content": "如果您要开设银行账户，您会检查哪些要点？① 利率；② ATM手续费；③ 易用性；④ 安全性。与家人讨论并培养'管理资金的能力'！",
+      "emoji": "🔍",
+      "highlight": "账户比较检查要点：利率、手续费、应用易用性"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "如果银行破产了怎么办？",
+      "background": "forest",
+      "title": "存款保险制度",
+      "content": "即使银行破产，您的存款也会被保护（存款保险制度）。这是由日本政府担保的制度。但如果存款超过1000万日元，可能不会被保护！",
+      "emoji": "🛡️",
+      "highlight": "存款保险制度：保护每家金融机构的1000万日元本金和利息"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "银行的机制已经清楚！接下来学习投资！🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

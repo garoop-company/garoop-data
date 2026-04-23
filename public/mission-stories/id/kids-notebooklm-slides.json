@@ -1,0 +1,81 @@
+{
+  "title": "Misi Slide NotebookLM",
+  "description": "Misi spionase untuk membuat slide dengan NotebookLM!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agen, dengar saya? Mari mulai pengarahan misi sekarang! 🕵️",
+      "background": "hq",
+      "title": "Instruksi Misi!",
+      "content": "Misi: Buat slide menggunakan NotebookLM! Pilih satu tema yang ingin Anda jelajahi dan ringkas menjadi slide 3 halaman.",
+      "emoji": "📊",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "NotebookLM adalah 'alat terbaik untuk mengatur informasi'!",
+      "background": "spy",
+      "title": "Penjelasan Alat",
+      "content": "Ketika Anda memasukkan data (teks, URL, dll.) ke dalam NotebookLM, AI menganalisis konten untuk Anda.",
+      "emoji": "🔍",
+      "highlight": "Cara menggunakan NotebookLM:\n1. Buka notebooklm.google.com\n2. Buat notebook baru\n3. Tambahkan materi\n4. Minta bantuan AI"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Memilih tema adalah misi pertama Anda!",
+      "background": "hq",
+      "title": "Pilih Tema",
+      "content": "Pilih tema yang ingin Anda perkenalkan dalam slide Anda. Apa pun yang Anda minati boleh!",
+      "emoji": "🎯",
+      "highlight": "Contoh tema:\n・ Rahasia hewan favorit Anda\n・ Keajaiban alam semesta\n・ Pemanasan global\n・ Sejarah game favorit Anda"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Kirim prompt ini ke NotebookLM!",
+      "background": "lab",
+      "title": "Eksekusi Operasi!",
+      "content": "Buka NotebookLM, tambahkan materi, lalu gunakan prompt di bawah untuk membuat slide!",
+      "emoji": "💻",
+      "highlight": "Prompt yang bisa digunakan:\n「Buat slide 3 halaman untuk siswa sekolah dasar.\nTulis judul dan penjelasan singkat untuk setiap halaman.」"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Setelah slide Anda jadi, cek kondisi penyelesaian!",
+      "background": "spy",
+      "title": "Cek Kondisi Penyelesaian",
+      "content": "Untuk menyelesaikan misi, cek tiga kondisi berikut!",
+      "emoji": "✅",
+      "highlight": "Kondisi penyelesaian:\n□ Rencana slide 3 halaman lengkap\n□ Kata-kata sulit diterjemahkan dalam istilah yang lebih sederhana\n□ Opini Anda termasuk di akhir"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Misi selesai! Kirim tangkapan layar dan dapatkan 300 poin! 🎯",
+      "background": "hq",
+      "title": "Laporan Penyelesaian Misi",
+      "content": "Bagus! Setelah slide Anda selesai, kirim gambar atau teks ke Slack untuk mendapatkan poin!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

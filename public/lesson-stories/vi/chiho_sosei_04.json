@@ -1,0 +1,131 @@
+{
+  "title": "Khơi nguồn địa phương bằng du lịch - Du lịch inbound và thương hiệu địa phương",
+  "description": "Cùng Garu học cách khơi nguồn địa phương bằng du lịch một cách thú vị!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Du lịch cứu sống vùng quê! Cùng nhau học về du lịch và phát triển địa phương!",
+      "background": "forest",
+      "title": "Khơi nguồn địa phương bằng du lịch - Du lịch inbound và thương hiệu địa phương",
+      "emoji": "🏯",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách khơi nguồn địa phương bằng du lịch!",
+      "background": "ocean",
+      "title": "Tác động kinh tế của du khách đến vùng quê",
+      "content": "Du lịch inbound (du khách nước ngoài đến Nhật Bản) đạt 31,88 triệu lượt và 4,8 nghìn tỷ yên vào năm 2019. Sau COVID, vào năm 2023, sẽ phục hồi lên khoảng 25 triệu lượt. Tại các khu du lịch ở vùng quê, tiền của địa phương tăng đáng kể và tạo ra việc làm!",
+      "emoji": "✈️",
+      "highlight": "Mức chi tiêu trung bình của du khách nước ngoài: 210.000 yên/lượt. Tại các khu du lịch ở vùng quê, mức chi tiêu này có xu hướng cao hơn"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách khơi nguồn địa phương bằng du lịch!",
+      "background": "forest",
+      "title": "Văn hóa và thiên nhiên Nhật Bản - Kho báu của thế giới!",
+      "content": "Nhật Bản có 25 di sản thế giới (tính đến năm 2024). Ninja, samurai, anime, trà, suối nước nóng, hoa anh đào, lá đỏ - những điều mà du khách nước ngoài muốn 'thấy và trải nghiệm' đang ẩn chứa trong vùng quê! 'Điều bình thường' của địa phương chính là 'điều đặc biệt' của thế giới.",
+      "emoji": "🏯",
+      "highlight": "Di sản thế giới của Nhật Bản: 25 (20 di sản văn hóa và 5 di sản thiên nhiên)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách khơi nguồn địa phương bằng du lịch!",
+      "background": "city",
+      "title": "Tạo thương hiệu địa phương để trở thành điểm đến được yêu thích",
+      "content": "Tạo ra 'cảm giác đặc biệt khác biệt' chính là tạo thương hiệu địa phương. Kyoto, Hakone, Shirakawa-go được biết đến trên toàn thế giới. Nếu bạn có thể khám phá và quảng bá 'sức hút đặc biệt' của quê hương mình, du khách sẽ đến!",
+      "emoji": "🎌",
+      "highlight": "Làng Shirakawa-go:每年 có hơn 200.000 du khách thăm. Dân số của làng chỉ khoảng 1.600 người!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách khơi nguồn địa phương bằng du lịch!",
+      "background": "space",
+      "title": "Du lịch trải nghiệm (Tour du lịch trải nghiệm) đang trở nên phổ biến",
+      "content": "Trải nghiệm nông nghiệp, tham quan nhà máy rượu, trải nghiệm thủ công truyền thống, cấy lúa, kéo lưới - 'cuộc sống hàng ngày' của người dân địa phương chính là 'trải nghiệm đặc biệt' của du khách. Thời đại mà 'làm gì' không quan trọng bằng 'cùng ai trải nghiệm'",
+      "emoji": "🌾",
+      "highlight": "Thị trường du lịch trải nghiệm: trên 1.800 tỷ USD (khoảng 26 nghìn tỷ yên) toàn cầu"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách khơi nguồn địa phương bằng du lịch!",
+      "background": "classroom",
+      "title": "Du lịch mới với SNS và địa phương",
+      "content": "Các điểm đến Instagram, cảnh quan tuyệt đẹp được bàn tán trên TikTok, video du lịch trên YouTube - thời đại mà SNS tạo ra các điểm du lịch. Sa padi ở Tottori, hươu tại Nara Park, chợ rộng ở Kochi - những ví dụ về các điểm du lịch được khám phá lại qua SNS.",
+      "emoji": "📱",
+      "highlight": "Điểm du lịch trở thành thánh địa trên Instagram:殿堂 (Gunma) có 1.000 du khách thăm mỗi ngày"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách khơi nguồn địa phương bằng du lịch!",
+      "background": "ocean",
+      "title": "Du lịch bền vững (Du lịch thân thiện với môi trường)",
+      "content": "Khi du khách tăng quá nhiều sẽ gây ra ô nhiễm môi trường và làm phiền người dân địa phương (quá tải du lịch). Kyoto đã áp dụng các biện pháp hạn chế ùn tắc. Chuyển đổi sang 'chất lượng hơn số lượng' của du lịch. Du lịch thân thiện với môi trường và đóng góp cho địa phương sẽ trở thành xu hướng của thế hệ tiếp theo!",
+      "emoji": "🌱",
+      "highlight": "Kyoto: áp dụng 요금 đặc biệt và hạn chế sử dụng trong thời gian cao điểm"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học cách khơi nguồn địa phương bằng du lịch!",
+      "background": "forest",
+      "title": "Nền kinh tế ban đêm (Nền kinh tế về đêm)",
+      "content": "Tạo ra du lịch thú vị không chỉ ban ngày mà cả ban đêm để tăng số lượng khách lưu trú và tăng hiệu quả kinh tế! Cảnh quan đêm ở khu suối nước nóng, ánh sáng kỹ thuật số, chợ đêm, tour du lịch ngắm sao - đánh bóng vẻ đẹp về đêm để tăng tỷ lệ lưu trú!",
+      "emoji": "🌙",
+      "highlight": "Tiêu dùng lưu trú qua đêm: gấp 3-5 lần tiêu dùng du lịch trong ngày"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách khơi nguồn địa phương bằng du lịch!",
+      "background": "city",
+      "title": "Thu hút du lịch làm việc từ xa và kỹ thuật số",
+      "content": "Với sự phổ biến của làm việc từ xa, 'làm việc trong khi du lịch' đang trở nên phổ biến. Nếu môi trường làm việc (Wi-Fi tốc độ cao, không gian làm việc chung) ở vùng quê được cải thiện tương tự như ở thành phố, 'sống', 'làm việc', 'du lịch' sẽ trở thành một thể!",
+      "emoji": "💻",
+      "highlight": "Người thực hiện chương trình làm việc từ xa: tăng hơn 10 lần sau COVID (theo khảo sát của Nội các Nhật Bản)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Làm chủ du lịch và phát triển địa phương! Tiếp theo là thúc đẩy di cư 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

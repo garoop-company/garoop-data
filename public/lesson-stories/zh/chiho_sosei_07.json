@@ -1,0 +1,131 @@
+{
+  "title": "地域特产品牌化 〜地方之宝走向世界〜",
+  "description": "和Garu一起愉快地学习地域特产品牌化！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "将地域特产变为世界品牌吧！",
+      "background": "forest",
+      "title": "地域特产品牌化 〜地方之宝走向世界〜",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习地域特产品牌化！",
+      "background": "classroom",
+      "title": "地理标志（GI）保护制度是什么？",
+      "content": "保护地域特有产品的制度是地理标志（Geographical Indication，简称GI）。在欧盟和日本受到法律保护，可以排除假冒产品。提高品牌价值！",
+      "emoji": "🛡️",
+      "highlight": "日本GI注册产品：141种（2024年）。 '但马牛'、'壹岐牛'等"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习地域特产品牌化！",
+      "background": "space",
+      "title": "日本酒成为世界品牌！",
+      "content": "日本酒出口额：2022年达到历史最高水平474亿日元！在法国、美国、中国很受欢迎。 'Sake'在英语中也成为通用品牌。传统 × 品质 × 故事征服了世界市场。",
+      "emoji": "🍶",
+      "highlight": "日本酒出口额：10年内增长3倍以上。美国、香港、中国是主要出口目的地"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习地域特产品牌化！",
+      "background": "ocean",
+      "title": "和牛为什么能卖出天价？",
+      "content": "和牛如神户牛、松阪牛、米泽牛是世界顶级牛肉品牌。一头牛的价值超过1000万日元！产地、养殖方法、质量标准的严格管理以及 '故事' 创造了品牌价值。",
+      "emoji": "🥩",
+      "highlight": "和牛出口额：达到历史最高水平。 在新加坡、香港、美国的餐厅非常受欢迎"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习地域特产品牌化！",
+      "background": "forest",
+      "title": "水果王国山梨的战略",
+      "content": "山梨县的阳光玫瑰葡萄、桃子、富士山和葡萄酒在国内外具有很高的品牌影响力。通过地域品牌化实现了高价格销售。一串葡萄的售价可能达到数万日元！",
+      "emoji": "🍇",
+      "highlight": "阳光玫瑰葡萄：一串售价2000日元〜1万日元以上"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习地域特产品牌化！",
+      "background": "city",
+      "title": " inbound × 饮食使地域经济增长",
+      "content": "访日外国人对饮食非常感兴趣！提供正宗的 '日本饮食体验' 的烹饪教室、农场体验、酒庄游览很受欢迎。 '饮食' 是最强大的地域品牌之一。",
+      "emoji": "🍱",
+      "highlight": "访日外国人的消费： '饮食费' 排名第二，仅次于住宿费"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习地域特产品牌化！",
+      "background": "classroom",
+      "title": "工艺品和传统工艺的复兴",
+      "content": "漆器、和纸、染色、陶瓷等日本传统工艺品在 inbound 游客和富裕人群中很受欢迎。年轻的工匠通过SNS向世界传播信息，一些产品以高价卖给外国收藏家！",
+      "emoji": "⛏️",
+      "highlight": "和食器、漆器在Instagram上很受欢迎：外国人关注者众多。单件商品售价数万日元至数十万日元"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习地域特产品牌化！",
+      "background": "space",
+      "title": "通过SNS品牌化从地方走向世界",
+      "content": " '美瑛丘陵'、 '奥入瀬溪流'、 '五箇山' —— 通过SNS而闻名的地域景点吸引了来自世界各地的游客！地域魅力的信息传播可以通过一个SNS账号改变地域。",
+      "emoji": "📱",
+      "highlight": "因Instagram帖子而使游客人数增加100倍的地域景点有很多"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习地域特产品牌化！",
+      "background": "ocean",
+      "title": "与大企业合作加强地域品牌",
+      "content": "当地域的食材、工艺品被大手百货店、有名酒店、高级餐厅采用时，信誉会大大提高！从生产到加工、流通、消费的 '价值链构建' 很重要。",
+      "emoji": "🏨",
+      "highlight": "星野リゾート：积极采用当地食材 → 对地域经济有很大影响"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Garu成为地域品牌化的专家！接下来是年轻化与地域发展！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

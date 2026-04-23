@@ -1,0 +1,82 @@
+{
+  "title": "アニメ修行",
+  "description": "和加鲁一起开始动画制作的修行吧！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "欢迎！来到加鲁的道场！开始动画修行吧！一起加油🥷",
+      "background": "dojo",
+      "title": "欢迎来到动画道场！",
+      "content": "掌握制作动画的力量。从这里开始，一步步学习角色制作到故事创作！",
+      "emoji": "🎬",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "首先，考虑「角色」吧！你想让角色是什么样子的？",
+      "background": "bamboo",
+      "title": "角色修行",
+      "content": "决定动画的主角。思考3个问题：名字、性格、兴趣爱好！",
+      "emoji": "🎭",
+      "highlight": "例如：\n名字 → 加鲁\n性格 → 元气满满、好奇心旺盛\n兴趣 → 竹子和惊喜探险"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "故事很重要，加鲁！从开头、中间、结尾3部分考虑！",
+      "background": "dojo",
+      "title": "故事修行",
+      "content": "动画通常有「开始」、「事件」、「解决」3部分。简单也没关系，先试着创作一个场景吧！",
+      "emoji": "📖",
+      "highlight": "例如：\n开始 → 主角遇到怪物\n事件 → 朋友被带走了！\n解决 → 齐心协力救出！"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "试着使用AI工具创作分镜头脚本吧！",
+      "background": "mountain",
+      "title": "分镜头脚本实战",
+      "content": "拜托NotebookLM或AI「为这个场景创作分镜头脚本」。你能想象出什么画面吗？",
+      "emoji": "🖼️",
+      "highlight": "使用工具：\n・NotebookLM\n・Canva\n・AI Image Generator"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "声音和音乐也很重要，加鲁！用Suno创作音乐吧🎵",
+      "background": "bamboo",
+      "title": "音乐和声音修行",
+      "content": "动画中音乐不可或缺！试着用AI创作主题曲或考虑角色的声音。",
+      "emoji": "🎵",
+      "highlight": "挑战：\n用Suno AI创作「充满元气的动画主题曲」\n例如：「勇敢向前，冲！」"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "修行结束了，加鲁！继续创作作品并发表吧🌟",
+      "background": "temple",
+      "title": "修行完成！",
+      "content": "你已经掌握了动画制作的基础！接下来，试着创作自己的作品，并在Slack上发表吧！",
+      "emoji": "🏆",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

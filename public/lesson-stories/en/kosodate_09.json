@@ -1,0 +1,131 @@
+{
+  "title": "Local Area × Childcare ~Let's Create a Region that's Easy to Raise Children~",
+  "description": "Let's learn about local area × childcare with Gal-chan in a fun way!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's think about the charms of childcare in local areas together!",
+      "background": "forest",
+      "title": "Local Area × Childcare ~Let's Create a Region that's Easy to Raise Children~",
+      "emoji": "🏡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local area × childcare with Gal-chan!",
+      "background": "forest",
+      "title": "Why Choose Childcare in Local Areas",
+      "content": "Rich natural environment, spacious homes, low living costs, and community support - childcare in local areas is gaining attention. A 3LDK apartment in Tokyo costs ¥60 million, while a similar home in a local area costs less than ¥10 million!",
+      "emoji": "🌿",
+      "highlight": "Satisfaction rate of childcare in local areas: higher than urban areas ( Cabinet Office survey )"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local area × childcare with Gal-chan!",
+      "background": "city",
+      "title": "Increasing Municipalities with Generous Childcare Support",
+      "content": "More municipalities are supporting childcare for migrants. ①Free childcare②Free medical care (until age 18)③Housing acquisition assistance④Learning support⑤Relocation subsidies - economic benefits for childcare in local areas are increasing!",
+      "emoji": "💰",
+      "highlight": "Municipalities with cutting-edge childcare support: Akashi City, Nagareyama City, etc. Population increase due to comprehensive childcare support"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local area × childcare with Gal-chan!",
+      "background": "space",
+      "title": "Childcare Support by Local Communities",
+      "content": "The traditional 'whole village childcare' is reviving in modern times. Kids' cafeterias, community monitoring, intergenerational exchange - local childcare environments connecting grandparents and kids have significant mental richness!",
+      "emoji": "🤝",
+      "highlight": "Kids' cafeterias: over 9,000 locations nationwide (2023). Community bonds also help prevent child poverty"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local area × childcare with Gal-chan!",
+      "background": "ocean",
+      "title": "The Effects of Agricultural Experiences on Children",
+      "content": "Touching soil, planting seeds, harvesting - agricultural experiences teach children about the importance of life, labor, gratitude for food, and connection with nature. Urban kids who experience agriculture show improved emotional stability and food preferences!",
+      "emoji": "🌱",
+      "highlight": "Agricultural experience programs: accepted by farmers and agricultural high schools nationwide. Many participants praise the moving experiences"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local area × childcare with Gal-chan!",
+      "background": "forest",
+      "title": "Nature Strengthens Children's Immunity",
+      "content": "Mud play, river play, insect catching - exposure to diverse microbial environments in nature strengthens the immune system (hygiene hypothesis). Allergies and autoimmune diseases are more common in urban areas and less common in rural areas. 'Touching soil' is a source of health!",
+      "emoji": "🤧",
+      "highlight": "Hygiene hypothesis: overly clean environments hinder immune system development → increased allergic diseases"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local area × childcare with Gal-chan!",
+      "background": "classroom",
+      "title": "Characteristics of Local School Education",
+      "content": "Small-class education (local elementary schools have 10-20 students per grade), experiential learning using nature, career education in local industries - 'intimate support and experiences' unique to local schools!",
+      "emoji": "🏫",
+      "highlight": "Small classes: increased teacher involvement per student → improved learning support quality and reduced absenteeism"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about local area × childcare with Gal-chan!",
+      "background": "city",
+      "title": "The Option of Dual-Residence",
+      "content": "Remote work in urban areas on weekdays and spending weekends in a local home - 'dual-residence' is a new childcare style. Kids can enjoy both nature experiences and urban convenience! Weekend agriculture, mountain play, and river fishing become part of daily life.",
+      "emoji": "🏠",
+      "highlight": "Dual-residence households: approximately 500,000 households (estimated). Rapid increase after COVID-19, government considering promotion policies"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local area × childcare with Gal-chan!",
+      "background": "forest",
+      "title": "Balancing Entrepreneurship and Childcare in Local Areas",
+      "content": "Local areas make it easier to balance childcare and work! With shorter childcare hours, nearby grandparents, increasing telework options, and flexible work arrangements, more parents are choosing self-employment!",
+      "emoji": "💼",
+      "highlight": "Local migration × entrepreneurship: telework + agriculture, cafes, guesthouses, etc. - unique local jobs and childcare balance"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "I've learned about the charms of local childcare! Let's move on to the summary of the childcare series 🎉",
+      "background": "space",
+      "title": "Lesson Completed!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

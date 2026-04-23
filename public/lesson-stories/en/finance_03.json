@@ -1,0 +1,131 @@
+{
+  "title": "How Banks Work ~Understanding the Flow of Money~",
+  "description": "Let's learn about how banks work with Garu-chan! ",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's uncover the secrets of banks together! 🏦",
+      "background": "city",
+      "title": "How Banks Work",
+      "emoji": "🏦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Banks are like 'money matchmakers'!",
+      "background": "classroom",
+      "title": "The Role of Banks",
+      "content": "Banks have three main jobs: taking deposits, making loans, and transferring money. They lend the money you deposit to businesses and pay you some of the interest as a rate.",
+      "emoji": "🌉",
+      "highlight": "Banks = connect people with money ↔ people who need money"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Did you know banks make money from your deposits?",
+      "background": "city",
+      "title": "How Banks Make Money",
+      "content": "Banks take deposits at a low interest rate (0.02%) and lend to businesses and individuals at a higher rate (1-2% for mortgages, 15-18% for credit cards). The difference is their profit!",
+      "emoji": "💹",
+      "highlight": "Bank profits = lending rate − deposit rate (interest rate difference)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "The central bank is different from regular banks!",
+      "background": "space",
+      "title": "The Role of the Central Bank",
+      "content": "The Bank of Japan (BOJ) is like 'the bank of banks'. They lend to regular banks, issue currency, and keep prices stable. The BOJ's decisions affect Japan's economy!",
+      "emoji": "🇯🇵",
+      "highlight": "Bank of Japan = Japan's money guardian and financial policy leader"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Do you know the different types of bank accounts?",
+      "background": "classroom",
+      "title": "Types of Bank Accounts",
+      "content": "There are three main types: ① ordinary savings: can be withdrawn at any time; ② time deposits: deposit for a fixed period (higher interest rate); ③ installment savings: automatic savings each month. Choose according to your purpose!",
+      "emoji": "📊",
+      "highlight": "Time deposits: higher interest rates than ordinary savings, with fixed periods (3 months to 10 years)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "What makes online banks different?",
+      "background": "ocean",
+      "title": "Features of Online Banks",
+      "content": "Online banks don't have physical branches, so they have lower costs and often offer higher interest rates! SBI Shinsei Bank, Rakuten Bank, and PayPay Bank are popular examples. Many offer free ATM and transfer services.",
+      "emoji": "💻",
+      "highlight": "Online bank ordinary savings rate: up to 50 times higher than traditional banks"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Understand how money transfers work!",
+      "background": "city",
+      "title": "The Mechanism of Money Transfers",
+      "content": "Bank transfers use the Zengin system, a network that connects banks. Recently, transfer apps like PayPay, LINE Pay, and Revolv have become popular. International transfers use the SWIFT network.",
+      "emoji": "📡",
+      "highlight": "Zengin system: a financial infrastructure connecting Japanese banks (over ¥100 trillion flows daily)"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Think about which bank account suits you!",
+      "background": "candy",
+      "title": "Choose Your Account!",
+      "content": "If you were to open a bank account, what points would you check? ① interest rate; ② ATM fees; ③ ease of use; ④ security. Discuss with your family and develop your 'money management skills'!",
+      "emoji": "🔍",
+      "highlight": "Account comparison checklist: interest rates, fees, app usability"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "What happens if a bank goes bankrupt?",
+      "background": "forest",
+      "title": "Deposit Insurance System",
+      "content": "Even if a bank goes bankrupt, deposits are protected up to ¥1 million (deposit insurance system). This is guaranteed by the Japanese government. However, be careful as amounts over ¥1 million may not be protected!",
+      "emoji": "🛡️",
+      "highlight": "Deposit insurance system: protects up to ¥1 million principal + interest per financial institution"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've mastered how banks work! Next, let's learn about investing 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

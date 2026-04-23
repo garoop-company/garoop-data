@@ -1,0 +1,70 @@
+{
+  "title": "Pusat Latihan Gal-chan",
+  "description": "Mari kita mulai latihan dengan Gal-chan!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Selamat datang di Pusat Latihan Gal-chan! Gal-chan ada di sini untuk berlatih bersama kamu! 🥷",
+      "background": "dojo",
+      "title": "Selamat Datang di Pusat Latihan!",
+      "content": "Ini adalah Pusat Latihan Gal-chan! Mari kita berlatih sedikit setiap hari dan mengasah keterampilan kita!",
+      "emoji": "⚔️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Ingat aturan tiga Pusat Latihan!",
+      "background": "bamboo",
+      "title": "Aturan Tiga Pusat Latihan",
+      "content": "Mari kita periksa aturan penting untuk maju dalam latihan kita!",
+      "emoji": "📜",
+      "highlight": "Aturan Pusat Latihan:\n1. Berlatih sedikit setiap hari\n2. Tanyakan pada Gal-chan jika kamu tidak yakin\n3. Catat apa yang telah kamu capai"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Alat AI adalah 'peralatan' latihanmu! Gunakan dengan bijak, Gal-chan! ",
+      "background": "mountain",
+      "title": "Gunakan AI sebagai Senjata",
+      "content": "AI adalah 'alat' yang sangat kuat. Jika kamu menggunakannya dengan benar, kamu dapat membuat hal-hal yang sulit menjadi lebih mudah!",
+      "emoji": "🤖",
+      "highlight": "Alat Utama:\n· NotebookLM → Riset dan organisasi\n· Suno AI → Buat musik\n· Codex → Buat program"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Pilih kursus latihan hari ini dan mari kita mulai!",
+      "background": "dojo",
+      "title": "Pilih Kursus",
+      "content": "Pilih kursus dari kategori latihan. Jika kamu tidak yakin apa yang harus dimulai, tanyakan pada Gal-chan!",
+      "emoji": "🎯",
+      "highlight": "Kursus Rekomendasi:\n🎬 Pelatihan Animasi\n💻 Pelatihan Pemrograman\n🎵 Pelatihan Musik\n🎥 Pelatihan Video"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Gal-chan, persiapan latihan Pusat Latihan sudah selesai! Mari kita mulai latihan! 🌟",
+      "background": "temple",
+      "title": "Latihan Dimulai!",
+      "content": "Kamu telah mempelajari aturan Pusat Latihan dan cara menggunakan alat-alatnya! Gal-chan selalu mendukung kamu. Mari kita mulai latihan!",
+      "emoji": "🥷",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

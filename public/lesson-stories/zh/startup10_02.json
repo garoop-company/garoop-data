@@ -1,0 +1,131 @@
+{
+  "title": "发现创意的方法 〜把问题变成宝藏〜",
+  "description": "和Garu一起愉快地学习发现创意的方法！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "商业创意在哪里？一起寻找吧！",
+      "background": "space",
+      "title": "发现创意的方法 〜把问题变成宝藏〜",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习发现创意的方法！",
+      "background": "classroom",
+      "title": "创意的源泉是「不满」",
+      "content": "「觉得这样很不方便」「为什么会这样呢？」这样的感受就是商业的种子。Uber：「叫不到出租车！」而诞生。Airbnb：「酒店费用太高！」而诞生。你的不满有价值！",
+      "emoji": "😤",
+      "highlight": "Uber的诞生：在无法叫到出租车的时候，想到「可以立即叫到出租车的应用程序」"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习发现创意的方法！",
+      "background": "ocean",
+      "title": "发现问题的「5W1H分析」",
+      "content": "为什么（Why）？什么（What）？谁（Who）？什么时候（When）？在哪里（Where）？怎么办（How）？――用这6个问题分析日常事件，商业就会浮现！",
+      "emoji": "❓",
+      "highlight": "5W1H思考：可用于发现和解决所有商业课题的普遍框架"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习发现创意的方法！",
+      "background": "forest",
+      "title": "寻找「痛点」！",
+      "content": "顾客感到痛苦的地方（痛点）就是商业机会。①不便②花费太多时间③太贵④质量差⑤没有选择――寻找这5个痛点就能发现宝藏！",
+      "emoji": "🎯",
+      "highlight": "痛点发现法：只要问身边的人「最近遇到什么困难？」就能发现宝藏！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习发现创意的方法！",
+      "background": "space",
+      "title": "通过访谈了解真正的需求",
+      "content": "「如果有这样的服务，你会使用吗？」通常会被回答「是」。但真正的需求来自过去的行为：「最近遇到困难是什么时候？当时怎么办？」",
+      "emoji": "🎙️",
+      "highlight": "客户访谈的铁则：「你想要这样的服务吗？」而不是「最近遇到困难是什么时候？」"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习发现创意的方法！",
+      "background": "city",
+      "title": "观察是最强的调查方法",
+      "content": "在图书馆观察人们有什么困难、在店里看什么东西卖得好、在SNS上分析什么东西热门――「现场观察（Etnography）」是商业创意的宝藏！",
+      "emoji": "👁️",
+      "highlight": "设计思考：「观察・共感・定义・构思・试作・测试」――世界一流企业使用的解决问题的方法"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习发现创意的方法！",
+      "background": "classroom",
+      "title": "从趋势读懂未来",
+      "content": "流行的东西、技术趋势、社会变化――从这些预测「接下来会是什么」。AI、高龄化、气候变化、地方迁移――搭上大趋势的商业容易成功！",
+      "emoji": "📈",
+      "highlight": "「站在趋势的坡上」：成长趋势是扩大事业最轻松的方法"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习发现创意的方法！",
+      "background": "forest",
+      "title": "集思广益产生爆炸性创意",
+      "content": "一个人不如两个人、两个人不如三个人一起想出创意。规则：①禁止批评②重视数量（比质量更重要）③任何奇怪的创意都可以④站在别人的创意上――用这个规则在前15分钟内想出100个创意！",
+      "emoji": "🌪️",
+      "highlight": "集思广益的效果：在没有批评的环境中创意数量通常是3〜5倍"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习发现创意的方法！",
+      "background": "ocean",
+      "title": "商业模式的9个要素（BMC）",
+      "content": "商业模式画布（BMC）：①客户细分②价值主张③渠道④客户关系⑤收入流⑥资源⑦活动⑧伙伴⑨成本结构――把这9个要素总结在一张纸上就能看到事业！",
+      "emoji": "🗺️",
+      "highlight": "BMC（商业模式画布）：由Alex Osterwalder开发。世界各地的初创企业都在使用"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "掌握发现创意的方法！接下来是制作MVP 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

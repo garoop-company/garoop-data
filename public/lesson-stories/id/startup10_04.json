@@ -1,0 +1,131 @@
+{
+  "title": "Kenali Pelanggan Anda ~ Dasar-Dasar Pemasaran ~",
+  "description": "Mari kita pelajari tentang mengenal pelanggan kita dengan Garu-chan dengan cara yang menyenangkan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari tentang pemasaran untuk memahami hati pelanggan!",
+      "background": "city",
+      "title": "Kenali Pelanggan Anda ~ Dasar-Dasar Pemasaran ~",
+      "emoji": "📣",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang mengenal pelanggan kita dengan Garu-chan!",
+      "background": "classroom",
+      "title": "Apa itu Pemasaran?",
+      "content": "Pemasaran = 'Aktivitas untuk menyampaikan apa yang diinginkan pelanggan, kepada mereka yang menginginkannya, dengan cara yang tepat.' Bukan hanya promosi! Termasuk riset pasar → pengembangan produk → penetapan harga → promosi → penjualan → layanan purna jual!",
+      "emoji": "📢",
+      "highlight": "Produk yang baik tidak akan laris dengan sendirinya! Bahkan produk terbaik tidak akan terjual jika tidak disampaikan dengan baik"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang mengenal pelanggan kita dengan Garu-chan!",
+      "background": "ocean",
+      "title": "Buat Persona (Gambar Pelanggan Ideal)",
+      "content": "Siapa yang kamu jual adalah yang paling penting! Persona: ① Umur, jenis kelamin ② Di mana mereka tinggal ③ Apa yang mereka hadapi ④ Gaya hidup seperti apa yang mereka jalani ⑤ Apa yang mereka hargai — Dengan menggambar gambar spesifik dari satu orang, produk dan iklanmu akan tepat sasaran!",
+      "emoji": "👤",
+      "highlight": "Contoh pengaturan persona: 'Ibu bekerja berusia 35 tahun yang kesulitan dengan masakan singkat' → Kembangkan produk untuk persona ini"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang mengenal pelanggan kita dengan Garu-chan!",
+      "background": "forest",
+      "title": "Pahami 4P (Campuran Pemasaran)",
+      "content": "① Produk (Apa yang dijual?) ② Harga (Berapa harga yang dijual?) ③ Tempat (Di mana dijual?) ④ Promosi (Bagaimana mempromosikan?) — Mengoptimalkan 4P ini adalah strategi pemasaran!",
+      "emoji": "🗂️",
+      "highlight": "Contoh 4P: iPhone = Produk berkualitas tinggi, harga tinggi, Apple Store, dan kombinasi 4P yang sempurna"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang mengenal pelanggan kita dengan Garu-chan!",
+      "background": "space",
+      "title": "Sebarkan Berita secara Gratis dengan Pemasaran SNS",
+      "content": "Instagram, TikTok, YouTube, X (Twitter) — Dengan menggunakan SNS, kamu bisa menyiarkan ke seluruh negara dan dunia secara gratis! Bahkan anak berusia 10 tahun bisa melakukannya. 'Kualitas' dan 'kontinuitas' konten sangat penting. Sasaran 100 pengikut terlebih dahulu!",
+      "emoji": "📱",
+      "highlight": "Ketenaran TikTok → Produk terjual habis dalam semalam 'TikTok commerce': Pengusaha muda menggunakannya"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang mengenal pelanggan kita dengan Garu-chan!",
+      "background": "city",
+      "title": "Kata-Mouth adalah Pemasaran Terkuat",
+      "content": "Rekomendasi teman lebih dipercaya daripada iklan. Membuat kata-mouth secara sengaja — Menyediakan pengalaman, kejutan, dan kegembiraan yang membuat pengguna secara alami membagikannya!",
+      "emoji": "🗣️",
+      "highlight": "Efek kata-mouth: 5 kali lebih dipercaya daripada iklan. Pelanggan yang datang melalui perkenalan memiliki nilai seumur hidup 4 kali lebih tinggi"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang mengenal pelanggan kita dengan Garu-chan!",
+      "background": "classroom",
+      "title": "Cara Menentukan Harga (Strategi Harga)",
+      "content": "① Berdasarkan biaya (biaya + keuntungan) ② Perbandingan kompetitif (cocokkan dengan pasar) ③ Berdasarkan nilai (tetapkan berdasarkan nilai yang dirasakan pelanggan) — 'Berdasarkan nilai' dapat menetapkan harga tertinggi. Berkompetisi pada 'murah' adalah strategi yang paling sulit!",
+      "emoji": "💴",
+      "highlight": "Strategi harga premium: Starbucks menjual 'pengalaman, tempat, dan merek', bukan hanya 'kopi'"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari tentang mengenal pelanggan kita dengan Garu-chan!",
+      "background": "forest",
+      "title": "Pemasaran Komunitas yang Membuat Penggemar",
+      "content": "Kumpulkan 'suka' di SNS, adakan acara, dan berikan perlakuan khusus kepada pelanggan yang berulang — Dengan membuat pelanggan menjadi penggemar, kamu bisa mengumpulkan pelanggan baru tanpa biaya iklan. Memiliki 1.000 penggemar sejati dapat membuatmu menguntungkan!",
+      "emoji": "🌟",
+      "highlight": "Teori '1000 Penggemar Sejati': Memiliki 1.000 penggemar yang sangat antusias, kreator mana pun dapat hidup"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang mengenal pelanggan kita dengan Garu-chan!",
+      "background": "ocean",
+      "title": "Pemasaran Digital yang Meningkatkan dengan Data",
+      "content": "Google Analytics, Instagram Insights — Alat gratis menunjukkan 'siapa, kapan, apa, dan di mana pengguna meninggalkan' dalam angka. Meningkatkan berdasarkan data dapat meningkatkan efektivitas hingga 10 kali!",
+      "emoji": "📊",
+      "highlight": "Pengujian A/B: Metode untuk menguji dua jenis iklan dan halaman arahan untuk melihat 'mana yang lebih baik' dalam angka"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kuasai pemasaran! Selanjutnya, latihan pitch 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

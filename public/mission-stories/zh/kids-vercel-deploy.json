@@ -1,0 +1,70 @@
+{
+  "title": "Vercel部署任务",
+  "description": "将制作的页面公开到互联网的任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "代理人！这是最重要任务！将作品公开到世界！🚀",
+      "background": "hq",
+      "title": "最重要任务指令",
+      "content": "任务：使用Vercel将制作的网页公开到互联网！这样全世界的人都能看到了！",
+      "emoji": "🚀",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "发布前绝对要确认！检查个人信息！",
+      "background": "spy",
+      "title": "安全检查",
+      "content": "在发布到互联网前，一定要检查是否有个人信息！请和家长确认。",
+      "emoji": "🔒",
+      "highlight": "确认检查清单：\n❌ 没有真实姓名\n❌ 没有学校名称\n❌ 没有地址、电话号码\n✅ 家长同意"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Vercel是「将网页送到世界的魔法快递」！",
+      "background": "lab",
+      "title": "Vercel是什么？",
+      "content": "Vercel是从GitHub代码自动生成网站的服务。可以免费使用！",
+      "emoji": "✈️",
+      "highlight": "Vercel的机制：\nGitHub → Vercel → 发布到互联网\n（只需要输入代码，自动完成！）"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "登录Vercel，部署项目！",
+      "background": "hq",
+      "title": "执行部署计划！",
+      "content": "和家长一起打开Vercel，选择GitHub项目部署！",
+      "emoji": "⚡",
+      "highlight": "步骤：\n1. 打开vercel.com/new\n2. GitHub登录\n3. 选择项目\n4. 部署！\n5. 确认URL"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "完成全球发布！提交URL获得480积分！🎉",
+      "background": "spy",
+      "title": "任务完成！",
+      "content": "你已经有一个可以从世界各地访问的页面了！请将公开URL和截图提交到Slack！",
+      "emoji": "🌐",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

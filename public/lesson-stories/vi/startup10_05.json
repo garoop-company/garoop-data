@@ -1,0 +1,131 @@
+{
+  "title": "Luyện tập kỹ năng thuyết phục - Thay đổi cuộc sống của bạn",
+  "description": "Cùng Garu học cách luyện tập kỹ năng thuyết phục một cách thú vị!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Thay đổi công việc kinh doanh với kỹ năng thuyết phục! Học cách thuyết phục!",
+      "background": "city",
+      "title": "Luyện tập kỹ năng thuyết phục - Thay đổi cuộc sống của bạn",
+      "emoji": "🎤",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách luyện tập kỹ năng thuyết phục!",
+      "background": "classroom",
+      "title": "Pitch là gì?",
+      "content": "Pitch (Thuyết phục) = trình bày ý tưởng kinh doanh của bạn cho nhà đầu tư, khách hàng, đối tác trong thời gian ngắn. Elevator Pitch là khả năng giải thích trong 30 giây đến 2 phút khi đi thang máy!",
+      "emoji": "🎤",
+      "highlight": "Elevator Pitch: Truyền đạt ý tưởng trong thời gian ngắn khi gặp nhà đầu tư trên thang máy"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách luyện tập kỹ năng thuyết phục!",
+      "background": "forest",
+      "title": "3 yếu tố của một Pitch tốt",
+      "content": "① Vấn đề (khách hàng đang gặp khó khăn) ② Giải pháp (sản phẩm/dịch vụ của bạn giải quyết vấn đề như thế nào) ③ Tại sao đội ngũ của bạn là lựa chọn tốt nhất - nếu bạn có thể truyền đạt 3 điều này trong 1-2 phút, đó là một Pitch hoàn hảo!",
+      "emoji": "🔢",
+      "highlight": "Cấu trúc vàng của Pitch: vấn đề → giải pháp → quy mô thị trường → mô hình kinh doanh → đội ngũ → yêu cầu"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách luyện tập kỹ năng thuyết phục!",
+      "background": "space",
+      "title": "Kỹ thuật trình bày của Steve Jobs",
+      "content": "'1.000 bài hát trong túi' - trình bày iPod. Không sử dụng số liệu (1GB) mà sử dụng 'trải nghiệm' để lay động trái tim con người. Quy tắc: ① Đơn giản ② Kể chuyện ③ Luyện tập kỹ lưỡng!",
+      "emoji": "🎯",
+      "highlight": "Trình bày của Jobs: 1 slide 1 thông điệp - từ ngữ lay động cảm xúc - luyện tập kỹ lưỡng"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách luyện tập kỹ năng thuyết phục!",
+      "background": "ocean",
+      "title": "Dòng chảy 'vấn đề → giải pháp → bằng chứng → hành động'",
+      "content": "Cấu trúc PAPA: ① Problem (đặt vấn đề) ② Agitation (làm trầm trọng vấn đề) ③ Solution (đề xuất giải pháp) ④ Action (khuyến khích hành động) - trình bày theo dòng chảy này sẽ khiến khán giả muốn 'mua' hoặc 'ủng hộ'!",
+      "emoji": "📋",
+      "highlight": "Cấu trúc PAPA: cấu trúc thuyết phục chung của viết bán hàng, thuyết phục, trình bày"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách luyện tập kỹ năng thuyết phục!",
+      "background": "forest",
+      "title": "Truyền đạt bằng cả dữ liệu và cảm xúc",
+      "content": "Chỉ logic (số liệu, sự thật, dữ liệu) không thể lay động con người. Chỉ cảm xúc (câu chuyện, đồng cảm, ngạc nhiên) cũng không thể tạo ra sự tin tưởng. Hãy kết hợp 'phương pháp thuyết phục của Aristotle: Logos (logic), Pathos (cảm xúc), Ethos (tín nhiệm)'!",
+      "emoji": "⚖️",
+      "highlight": "3 yếu tố thuyết phục: Logos (dữ liệu) + Pathos (câu chuyện) + Ethos (thành tích, tín nhiệm)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách luyện tập kỹ năng thuyết phục!",
+      "background": "city",
+      "title": "Cách đối phó với từ chối (không)",
+      "content": "Bị nhà đầu tư từ chối là điều bình thường! Airbnb đã bị từ chối 7 lần - WhatsApp đã bị Facebook từ chối việc làm - 'từ chối tiếp theo' sẽ đến gần với 'đồng ý'. Khi bị từ chối, hãy hỏi 'tại sao?' và biến nó thành dữ liệu để cải thiện Pitch!",
+      "emoji": "💪",
+      "highlight": " huy động vốn của Airbnb: sau khi bị 7 nhà đầu tư từ chối, được Y Combinator chấp nhận - bây giờ là công ty trị giá 9 nghìn tỷ"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học cách luyện tập kỹ năng thuyết phục!",
+      "background": "classroom",
+      "title": "Luyện tập tạo nên thần",
+      "content": "Pitch được quyết định bởi 'luyện tập' chứ không phải 'tài năng'! Trước gương - với gia đình - với bạn bè - quay lại và - lặp lại luyện tập sẽ giúp cách nói, khoảng thời gian, ánh mắt, lựa chọn từ ngữ được hoàn thiện. Diễn giả TED luyện tập trung bình 200 giờ!",
+      "emoji": "🎬",
+      "highlight": "Diễn giả TED: chuẩn bị và luyện tập trung bình hơn 200 giờ cho bài phát biểu 18 phút"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách luyện tập kỹ năng thuyết phục!",
+      "background": "ocean",
+      "title": "Cuộc thi Pitch dành cho trẻ em trên toàn thế giới",
+      "content": "Kids TEDx - cuộc thi kinh doanh dành cho học sinh trung học - Youths For Youth dành cho học sinh trung học cơ sở và trung học phổ thông - trên toàn thế giới có sân khấu để trẻ em trình bày ý tưởng kinh doanh! Chỉ cần tham gia cũng giúp bạn phát triển. Hãy thử thách bản thân!",
+      "emoji": "🌍",
+      "highlight": "Cuộc thi kinh doanh dành cho học sinh trung học: giành được quỹ khởi nghiệp hàng trăm triệu tại hội nghị toàn quốc"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Làm chủ kỹ năng Pitch! Tiếp theo là tạo một đội nhóm 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

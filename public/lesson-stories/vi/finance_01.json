@@ -1,0 +1,131 @@
+{
+  "title": "Tiền là gì? - Nhập môn về tiền",
+  "description": "Cùng Garu tìm hiểu về nguồn gốc và cơ chế của tiền trong một cách thú vị!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Chào mừng đến thế giới tiền tệ! Cùng học tập nhé! 💰",
+      "background": "city",
+      "title": "Tiền là gì?",
+      "emoji": "💰",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Ngày xưa không có tiền! Thật tuyệt vời!",
+      "background": "forest",
+      "title": "Thời kỳ trao đổi hàng hóa",
+      "content": "Ngày xưa, con người trao đổi hàng hóa để có được những thứ mình cần. Ví dụ, trao đổi cá với rau hoặc vải với công cụ. Điều này được gọi là 'trao đổi hàng hóa'.",
+      "emoji": "🐟",
+      "highlight": "🍎＋🐟 → Trao đổi → Cả hai đều có được thứ mình muốn"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tiền là một công cụ tiện lợi!",
+      "background": "classroom",
+      "title": "Lý do tiền được tạo ra",
+      "content": "Trao đổi hàng hóa có nhiều vấn đề. Người muốn cá phải gặp người có cá cùng một lúc! Vì vậy, tiền tệ được tạo ra như một 'giá trị chung' mà ai cũng có thể nhận được.",
+      "emoji": "🪙",
+      "highlight": "3 chức năng của tiền tệ：① Trao đổi ② Lưu giữ giá trị ③ Thước đo giá trị"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Tiền đầu tiên là vỏ sò và đá!",
+      "background": "ocean",
+      "title": "Lịch sử của tiền",
+      "content": "Tiền tệ đầu tiên là đồng tiền kim loại (khoảng 700 trước Công nguyên, Vương quốc Lydia). Sau đó, tiền giấy xuất hiện ở Trung Quốc (thế kỷ 10). Ở Nhật Bản, tiền tệ được sử dụng trong thời kỳ Edo là Ryo, Shu và Mon.",
+      "emoji": "📜",
+      "highlight": "Đồng tiền cổ xưa nhất：khoảng 7 trước Công nguyên, Vương quốc Lydia (hiện là Thổ Nhĩ Kỳ)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn biết những loại tiền nào hiện nay?",
+      "background": "city",
+      "title": "Các loại tiền hiện đại",
+      "content": "Tiền hiện đại có 3 loại chính：① Tiền mặt (đồng tiền và tiền giấy) ② Tiền gửi ngân hàng (tiền trong tài khoản) ③ Tiền điện tử và tiền kỹ thuật số. Thanh toán bằng mã QR trên điện thoại cũng đang trở nên phổ biến!",
+      "emoji": "📱",
+      "highlight": "Tỷ lệ không dùng tiền mặt ở Nhật Bản：khoảng 39% (2023) → Trung bình toàn cầu là khoảng 60%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Có rất nhiều loại tiền trên thế giới! Yên, đô la, euro...",
+      "background": "space",
+      "title": "Các loại tiền tệ trên thế giới",
+      "content": "Mỗi quốc gia có một loại tiền tệ riêng. Nhật Bản：yên (¥), Mỹ：đô la ($), Châu Âu：euro (€), Trung Quốc：nguyên (¥). Tỷ giá hối đoái thay đổi hàng ngày.",
+      "emoji": "🌏",
+      "highlight": "1 đô la = khoảng 150 yên (2024) ※Tỷ giá thay đổi hàng ngày"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tiền hoạt động dựa trên sự tin tưởng!",
+      "background": "classroom",
+      "title": "Giá trị của tiền",
+      "content": "Tiền không có giá trị vốn có! Mọi người tin rằng 'điều này có giá trị' nên nó có giá trị. Yên Nhật được Chính phủ Nhật Bản và Ngân hàng Trung ương Nhật Bản đảm bảo.",
+      "emoji": "🤝",
+      "highlight": "Sự tin tưởng là bản chất của tiền → Khi mất đi sự tin tưởng sẽ xảy ra lạm phát"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy suy nghĩ! Bạn muốn dùng tiền để làm gì hôm nay?",
+      "background": "candy",
+      "title": "Hãy suy nghĩ!",
+      "content": "Nếu bạn có 1000 yên hôm nay, bạn sẽ làm gì? ① Dùng hết ② Tiết kiệm một nửa ③ Tiết kiệm hết — Bạn là loại người nào? Cách sử dụng tiền của mỗi người là khác nhau, nhưng điều quan trọng là phải có 'mục đích'!",
+      "emoji": "💭",
+      "highlight": "Tiêu dùng・tiết kiệm・đầu tư — Cân bằng cả 3 điều là quan trọng!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Học về tiền sẽ thay đổi tương lai của bạn!",
+      "background": "city",
+      "title": "Literacy tài chính là gì?",
+      "content": "Literacy tài chính là kiến thức và khả năng phán đoán về tiền. Nhật Bản được cho là quốc gia có trình độ literacy tài chính thấp trên thế giới. Nhưng hiện tại bạn đang học tập ở đây! Đó là bước đầu tiên!",
+      "emoji": "📚",
+      "highlight": "Literacy tài chính của Nhật Bản：thứ 33 trên thế giới (khảo sát của S&P Global)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn đã hiểu cơ bản về tiền! Tiếp theo hãy học về tiết kiệm nhé! 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

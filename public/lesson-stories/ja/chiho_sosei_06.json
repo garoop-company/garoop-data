@@ -1,0 +1,132 @@
+{
+  "title": "ローカルビジネス〜地方で起業する新しい波〜",
+  "description": "ガルちゃんと楽しくローカルビジネスを学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "地方で起業する若者が増えている！その秘密を学ぼう！",
+      "background": "city",
+      "title": "ローカルビジネス〜地方で起業する新しい波〜",
+      "emoji": "💼",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「ローカルビジネス〜地方で起業する新しい波〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとローカルビジネスを学ぼう！",
+      "background": "forest",
+      "title": "地方起業のメリットって？",
+      "content": "地方で起業するメリット：①土地・賃料が安い②競合が少ない③地域のニーズが明確④行政支援が厚い⑤コミュニティが密で口コミが広がりやすい。都市でダメでも地方では大ヒットすることも！",
+      "emoji": "🚀",
+      "highlight": "地方でのオフィス賃料：東京の1/10〜1/5。初期コストを大幅に抑えられる"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとローカルビジネスを学ぼう！",
+      "background": "classroom",
+      "title": "6次産業化で農家が大変身！",
+      "content": "農家が作った農産物を加工・直接販売まで行う「6次産業化（1次×2次×3次）」。例：イチゴ農家→ジャム製造→直売所・通販販売。付加価値が10〜100倍になることも！",
+      "emoji": "🍓",
+      "highlight": "農家の6次産業化：加工・直販まで行うと農産物の売上が3〜10倍になる事例多数"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとローカルビジネスを学ぼう！",
+      "background": "ocean",
+      "title": "クラフトビール・クラフトサケ革命",
+      "content": "地方の水・食材を使ったクラフトビール・日本酒・ウイスキーが国内外で人気急上昇！小規模醸造所（マイクロブルワリー）が全国各地に誕生。地域の名産品として観光客に売れています。",
+      "emoji": "🍺",
+      "highlight": "クラフトビール醸造所：2010年の100社→2023年の900社超！年々急増中"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとローカルビジネスを学ぼう！",
+      "background": "space",
+      "title": "古民家活用ビジネスの台頭",
+      "content": "廃校・古民家・廃工場をカフェ・宿・ギャラリー・コワーキングスペースに転換するビジネスが急増。初期費用は低く補助金も活用できます。地域の歴史・文化を活かした唯一無二の空間が作れる！",
+      "emoji": "🏯",
+      "highlight": "廃校活用例：全国500か所以上。温泉・宿泊施設・農産物直売所などに転換"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとローカルビジネスを学ぼう！",
+      "background": "forest",
+      "title": "ECサイトで地方から全国へ",
+      "content": "インターネット通販（EC）で地方の特産品を全国・世界へ販売。楽天・Amazon・BASE・メルカリShops——プラットフォームを使えば初日から全国販売が可能！広告・SNSを組み合わせて。",
+      "emoji": "🛒",
+      "highlight": "ふるさと納税返礼品：地方特産品のEC的な先駆け。年6,000億円以上の市場"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとローカルビジネスを学ぼう！",
+      "background": "city",
+      "title": "ソーシャルビジネスで社会課題を解決",
+      "content": "利益追求だけでなく地域課題の解決を目指す「ソーシャルビジネス」も活発。介護・子育て・農業・環境——地域の問題をビジネスで解決する若者起業家が増えています。",
+      "emoji": "🌱",
+      "highlight": "ソーシャルビジネス市場規模：約30兆円。NPO・社会企業・コミュニティビジネスを含む"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとローカルビジネスを学ぼう！",
+      "background": "classroom",
+      "title": "サブスクリプションで地方ファンを作る",
+      "content": "「ふるさと納税」「地域サブスク」——毎月定額で地方の産品が届いたり特典が受けられるサービスが広がっています。固定客（リピーター）を作ることで安定した収益が地方に生まれます。",
+      "emoji": "📦",
+      "highlight": "地域サブスク例：野菜定期便・地酒頒布会・地域特産品BOXが人気"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとローカルビジネスを学ぼう！",
+      "background": "ocean",
+      "title": "デジタルで地方のビジネスを強くする",
+      "content": "ホームページ・SNS・Google Maps・クラウド会計——デジタルツールを使いこなすことで、地方の小さなお店でも全国から顧客を獲得できます。デジタル化が地方ビジネスの生命線！",
+      "emoji": "💻",
+      "highlight": "デジタル化した地方中小企業の売上：未導入企業の約1.5倍（経産省調査）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ローカルビジネスの世界を学んだ！次は特産品ブランディングへ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

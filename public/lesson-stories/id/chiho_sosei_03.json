@@ -1,0 +1,131 @@
+{
+  "title": "Revolusi Pertanian: Teknologi Terbaru untuk Masa Depan Pertanian",
+  "description": "Mari kita pelajari masa depan pertanian dengan Garu-chan, di mana pertanian pintar, drone pertanian, dan AI bergabung!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Pertanian berubah dengan teknologi terbaru! 🌾",
+      "background": "forest",
+      "title": "Revolusi Pertanian: Teknologi Terbaru untuk Masa Depan Pertanian",
+      "emoji": "🌾",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari Revolusi Pertanian dengan Garu-chan!",
+      "background": "classroom",
+      "title": "Kondisi Pertanian Jepang Saat Ini",
+      "content": "Jumlah pekerja pertanian di Jepang menurun drastis dari sekitar 3,5 juta pada tahun 2000 menjadi sekitar 1,22 juta pada tahun 2022. Rata-rata usia pekerja pertanian lebih dari 68 tahun. Meskipun ini merupakan tantangan, namun juga menawarkan kesempatan untuk memecahkan masalah dengan teknologi!",
+      "emoji": "👨‍🌾",
+      "highlight": "Rata-rata usia pekerja pertanian: 68,4 tahun (survei Kementerian Pertanian, Kehutanan, dan Perikanan 2022). 1/3 akan pensiun dalam 10 tahun ke depan"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari Revolusi Pertanian dengan Garu-chan!",
+      "background": "space",
+      "title": "Apa itu Pertanian Pintar?",
+      "content": "Pertanian pintar melibatkan penggunaan sensor, AI, IoT, drone, dan robot untuk 'memvisualisasikan', 'mengotomatisasi', dan 'menyederhanakan' pertanian. Data digunakan untuk memahami kondisi lahan pertanian dan membuat keputusan optimal tentang penyiraman, pupuk, dan waktu panen.",
+      "emoji": "🤖",
+      "highlight": "Demonstrasi pertanian pintar: lebih dari 1.000 lokasi di seluruh negeri (Kementerian Pertanian, Kehutanan, dan Perikanan) sedang melakukan eksperimen"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari Revolusi Pertanian dengan Garu-chan!",
+      "background": "forest",
+      "title": "Bagaimana Drone Pertanian Mengubah Pertanian?",
+      "content": "Drone untuk penyemprotan pestisida menyelesaikan tugas 10 kali lebih cepat daripada metode tradisional. Fotografi udara memungkinkan deteksi dini penyakit dan hama tanaman. Penaburan benih juga dapat dilakukan secara otomatis. Luas lahan yang dapat dikelola oleh satu orang dapat meningkat lebih dari 10 kali! Biaya juga dapat dikurangi secara signifikan.",
+      "emoji": "🚁",
+      "highlight": "Penyemprotan pestisida drone: 5 hektar/jam (sekitar 10 kali lebih cepat daripada penyemprotan manual tradisional)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari Revolusi Pertanian dengan Garu-chan!",
+      "background": "ocean",
+      "title": "Potensi Pabrik Tanaman dan Pertanian Vertikal",
+      "content": "Pabrik tanaman menggunakan LED dan hidroponik untuk menanam tanaman di dalam ruangan, tidak terpengaruh oleh cuaca, hama, atau pestisida. Ini memungkinkan pertanian di daerah perkotaan, seperti di dalam gedung! Produksi stabil sepanjang tahun, biaya transportasi dikurangi, dan keamanan pangan terjamin.",
+      "emoji": "🏭",
+      "highlight": "Lettuce pabrik tanaman: 100 kali lebih produktif daripada budidaya di luar ruangan. Tidak menggunakan pestisida, memastikan keamanan dan keselamatan"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari Revolusi Pertanian dengan Garu-chan!",
+      "background": "city",
+      "title": "AI Menjadi 'Guru' bagi Pertanian",
+      "content": "Kamera AI menganalisis pertumbuhan tanaman setiap hari. Pengetahuan dan pengalaman petani berpengalaman diajarkan kepada AI, memungkinkan petani muda membuat keputusan yang sama seperti petani berpengalaman. Pengetahuan pertanian tradisional dipertahankan secara digital untuk generasi mendatang!",
+      "emoji": "🧠",
+      "highlight": "Diagnosis penyakit berbasis AI: tingkat akurasi 90% atau lebih tinggi dibandingkan dengan penilaian petani berpengalaman (Organisasi Riset Pertanian Nasional)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari Revolusi Pertanian dengan Garu-chan!",
+      "background": "forest",
+      "title": "Pertanian × Bisnis: Kaum Muda Kembali",
+      "content": "Jumlah kaum muda yang memandang pertanian sebagai bisnis, atau 'bisnis pertanian', meningkat. Bisnis baru muncul, seperti penjualan langsung, branding, transformasi industri ke-6 (pengolahan dan penjualan), dan pengalaman pertanian inbound!",
+      "emoji": "🚀",
+      "highlight": "Pendanaan startup pertanian: meningkat pesat sejak 2020, dengan total kumulatif lebih dari 100 miliar yen"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari Revolusi Pertanian dengan Garu-chan!",
+      "background": "classroom",
+      "title": "Tema Besar Keamanan Pangan",
+      "content": "Tingkat swasembada pangan Jepang (berbasis kalori): 38% (2022). Ini adalah tingkat terendah di antara negara-negara maju! Ada risiko bahwa pasokan pangan mungkin tidak cukup dalam situasi krisis. Meningkatkan produktivitas melalui Revolusi Pertanian juga merupakan masalah keamanan nasional.",
+      "emoji": "🌏",
+      "highlight": "Tingkat swasembada pangan Jepang: 38% (berbasis kalori), tingkat terendah di antara negara-negara OECD"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari Revolusi Pertanian dengan Garu-chan!",
+      "background": "ocean",
+      "title": "Kasus Teknologi Pertanian Maju di Luar Negeri",
+      "content": "Belanda: Meskipun memiliki luas lahan yang sebanding dengan Kyushu, mereka adalah eksportir produk pertanian terbesar kedua di dunia (pemimpin dalam pertanian rumah kaca). Israel: Mereka mengekspor teknologi irigasi tetes ke seluruh dunia. Jepang juga memiliki potensi untuk mengekspor teknologi secara global!",
+      "emoji": "🇳🇱",
+      "highlight": "Nilai ekspor pertanian Belanda: lebih dari 100 miliar dolar (terbesar kedua di dunia, setelah Amerika Serikat). Sebuah negara dengan ukuran Kyushu!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kuasai Revolusi Pertanian! Tujuan Selanjutnya: Pariwisata dan Revitalisasi Lokal 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

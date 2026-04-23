@@ -1,0 +1,131 @@
+{
+  "title": "Emotional Education and Empathy ~Let's Grow Our EQ!~",
+  "description": "Let's learn emotional education and empathy with Gal-chan in a fun way!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's nurture children's emotions! Learn the science of EQ!",
+      "background": "candy",
+      "title": "Emotional Education and Empathy ~Let's Grow Our EQ!~",
+      "emoji": "💕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn emotional education and empathy with Gal-chan!",
+      "background": "classroom",
+      "title": "What is EQ (Emotional Intelligence)?",
+      "content": "EQ (Emotional Intelligence) = ① Recognize your own emotions, ② Manage your emotions, ③ Understand others' emotions (empathy), ④ Manage human relationships effectively - 4 abilities. It's more correlated with happiness and success in life than IQ!",
+      "emoji": "❤️",
+      "highlight": "IQ vs EQ: IQ explains only 20% of success. The remaining 80% is EQ and other factors (Goleman)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn emotional education and empathy with Gal-chan!",
+      "background": "forest",
+      "title": "Let's Give Emotions a 'Name'",
+      "content": "When children get angry, it's essential to label their emotions, e.g., 'You're really angry right now.' This helps develop self-control and empathy!",
+      "emoji": "🏷️",
+      "highlight": "Emotional Labeling: Reduces brain response to anger by 30% (UCLA neuroscience study)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn emotional education and empathy with Gal-chan!",
+      "background": "ocean",
+      "title": "How to Nurture Empathy",
+      "content": "Make it a habit to ask children, 'How do you think others feel?' Reading picture books, watching movies, and role-playing can help imagine different people's perspectives and feelings!",
+      "emoji": "🤝",
+      "highlight": "Children with high empathy: Less likely to bully, better friendships, and higher leadership potential"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn emotional education and empathy with Gal-chan!",
+      "background": "space",
+      "title": "How to Deal with Anger",
+      "content": "Anger isn't a bad emotion! The problem is how we express it. ① Deep breathing (10 seconds), ② Express emotions in words, ③ Cool down - practicing these 3 steps from childhood develops emotional control!",
+      "emoji": "😤",
+      "highlight": "The 6-Second Rule: The peak of anger is 6 seconds. Deep breathing during this time can suppress impulsive behavior"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn emotional education and empathy with Gal-chan!",
+      "background": "classroom",
+      "title": "The Effect of 'Thank You' on the Brain",
+      "content": "Expressing gratitude increases happiness, prevents depression, and strengthens social bonds. Writing a 'gratitude journal' with 3 things that are good or things to be thankful for daily can enhance children's well-being!",
+      "emoji": "🙏",
+      "highlight": "Gratitude Journal: Writing 3 times a week increases happiness by 25% (Emmons & McCullough study)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn emotional education and empathy with Gal-chan!",
+      "background": "city",
+      "title": "Self-Compassion When You Fail",
+      "content": "Self-compassion means being kind to yourself, which is different from self-criticism. Instead of blaming yourself for failing, think, 'Everyone makes mistakes; let's try again!' This develops resilience!",
+      "emoji": "🌸",
+      "highlight": "Self-Compassion: Faster recovery from failure and increased challenge motivation (Neff study)"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn emotional education and empathy with Gal-chan!",
+      "background": "ocean",
+      "title": "Children's Mental Health Issues",
+      "content": "A record number of Japanese students refused to attend school (over 290,000 in 2022). It's essential to protect children's mental health! Signs include ① sleep disorders, ② changes in appetite, ③ social withdrawal - parents should notice and consult experts!",
+      "emoji": "🆘",
+      "highlight": "School Refusal: Over 290,000 (2022), increased rapidly after COVID-19. Early detection and expert consultation are crucial"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn emotional education and empathy with Gal-chan!",
+      "background": "forest",
+      "title": "'Picture Books' are the Ultimate Tool for Emotional Education",
+      "content": "Empathizing with the emotions of picture book characters develops children's empathy, emotional vocabulary, and imagination! Various picture books, such as 'Mofi the Rabbit,' 'Ano Ko,' and 'The Town of Paper Men,' nurture children's hearts!",
+      "emoji": "📚",
+      "highlight": "Bedtime reading: Effective for vocabulary, empathy, imagination, and parent-child bonding (multiple studies)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've learned emotional education! Next is parenting in the digital age 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

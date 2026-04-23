@@ -1,0 +1,131 @@
+{
+  "title": "Local Business ~The New Wave of Entrepreneurship in Rural Areas~",
+  "description": "Let's learn about local business with Gal-chan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "More and more young people are starting businesses in rural areas! Let's learn the secrets behind this trend!",
+      "background": "city",
+      "title": "Local Business ~The New Wave of Entrepreneurship in Rural Areas~",
+      "emoji": "💼",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local business with Gal-chan!",
+      "background": "forest",
+      "title": "What are the benefits of starting a business in rural areas?",
+      "content": "Benefits of starting a business in rural areas: ① Low land and rent costs ② Fewer competitors ③ Clear regional needs ④ Strong administrative support ⑤ Close-knit community with easy word-of-mouth advertising. Even if it fails in urban areas, it can be a big hit in rural areas!",
+      "emoji": "🚀",
+      "highlight": "Office rent in rural areas: 1/10 to 1/5 of Tokyo's rent. Initial costs can be significantly reduced"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local business with Gal-chan!",
+      "background": "classroom",
+      "title": "The 6th industry revolution: transforming farms into thriving businesses!",
+      "content": "The 6th industry (1st × 2nd × 3rd): farms producing, processing, and selling their own products directly. Example: Strawberry farm → jam production → direct sales at a store or online. Added value can increase by 10 to 100 times!",
+      "emoji": "🍓",
+      "highlight": "Farmers' 6th industry: processing and direct sales can increase farm product sales by 3 to 10 times"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local business with Gal-chan!",
+      "background": "ocean",
+      "title": "The craft beer and sake revolution",
+      "content": "Craft beer, sake, and whiskey made with local ingredients and water are becoming increasingly popular worldwide! Small-scale breweries (microbreweries) are popping up all over the country. These local products are being sold as regional specialties to tourists.",
+      "emoji": "🍺",
+      "highlight": "Craft beer breweries: from 100 in 2010 to over 900 in 2023! Rapid growth"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local business with Gal-chan!",
+      "background": "space",
+      "title": "The rise of businesses utilizing old houses and buildings",
+      "content": "Businesses converting abandoned schools, old houses, and factories into cafes, hotels, galleries, and coworking spaces are on the rise. Initial costs are low, and subsidies are available. Unique spaces can be created by utilizing regional history and culture!",
+      "emoji": "🏯",
+      "highlight": "Examples of abandoned school utilization: over 500 locations nationwide. Converted into hot spring resorts, lodging facilities, and farm product direct sales stores"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local business with Gal-chan!",
+      "background": "forest",
+      "title": "Selling local specialties nationwide through e-commerce sites",
+      "content": "Selling local specialties nationwide and worldwide through internet shopping (e-commerce). Platforms like Rakuten, Amazon, BASE, and Mercari Shops make it possible to sell nationwide from the first day! Combine with advertising and social media.",
+      "emoji": "🛒",
+      "highlight": "Furusato tax payment gifts: a pioneering e-commerce model for local specialties. A market of over ¥60 billion annually"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local business with Gal-chan!",
+      "background": "city",
+      "title": "Solving social issues through social business",
+      "content": "Not only profit-driven but also social businesses aimed at solving regional issues are thriving. Increasing numbers of young entrepreneurs are tackling regional problems through business in areas like nursing care, childcare, agriculture, and the environment.",
+      "emoji": "🌱",
+      "highlight": "Social business market size: approximately ¥30 trillion. Includes NPOs, social enterprises, and community businesses"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about local business with Gal-chan!",
+      "background": "classroom",
+      "title": "Creating loyal fans through subscription services",
+      "content": "Furusato tax payment and regional subscription services are spreading. These services allow customers to receive local products or benefits for a fixed monthly fee. Creating loyal customers (repeaters) generates stable revenue for rural areas.",
+      "emoji": "📦",
+      "highlight": "Regional subscription examples: popular services include vegetable regular delivery, sake distribution gatherings, and regional specialty product boxes"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local business with Gal-chan!",
+      "background": "ocean",
+      "title": "Strengthening local businesses through digital means",
+      "content": "Websites, social media, Google Maps, and cloud accounting – by mastering digital tools, even small rural stores can attract customers nationwide. Digitalization is the lifeline for rural businesses!",
+      "emoji": "💻",
+      "highlight": "Sales of digitized rural small and medium enterprises: approximately 1.5 times that of non-digitized businesses (METI survey)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've learned about the world of local business! Next up is specialty product branding 🎉",
+      "background": "space",
+      "title": "Lesson complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

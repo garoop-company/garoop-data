@@ -1,0 +1,131 @@
+{
+  "title": "Creating a Brighter Future for Our Communities〜A Comprehensive Guide to Regional Revitalization〜",
+  "description": "Let's have fun learning about creating a brighter future for our communities with Garu-chan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "You've learned everything about regional revitalization! Let's create a brighter future together!",
+      "background": "forest",
+      "title": "Creating a Brighter Future for Our Communities〜A Comprehensive Guide to Regional Revitalization〜",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's have fun learning about creating a brighter future for our communities with Garu-chan!",
+      "background": "classroom",
+      "title": "10 Key Concepts for Regional Revitalization",
+      "content": "①Related population②Smart agriculture③Promoting relocation④Regional branding⑤Youth entrepreneurship⑥Smart cities⑦Tourism promotion⑧Decarbonization⑨Regional revitalization cooperation team⑩Community——These are all connected and make our communities thrive!",
+      "emoji": "🗝️",
+      "highlight": "You're now an expert on regional revitalization with 10 key concepts!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's have fun learning about creating a brighter future for our communities with Garu-chan!",
+      "background": "ocean",
+      "title": "Common Traits of Successful Regions",
+      "content": "①Top leader's vision②Community participation③Utilizing newcomers④Focused on strengths⑤No fear of failure——Balance is key!",
+      "emoji": "✅",
+      "highlight": "Common traits of successful regions: leaders who encourage challenges and community participation"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's have fun learning about creating a brighter future for our communities with Garu-chan!",
+      "background": "space",
+      "title": "What Will Regions Look Like in 2050?",
+      "content": "In 2050, with mature technology, regions might become more attractive. Self-driving cars solve transportation issues, remote medical care eliminates healthcare disparities, and AI improves agricultural efficiency——a future where technology eliminates regional inconveniences!",
+      "emoji": "🔮",
+      "highlight": "Japan in 2050: AI and robots support many jobs, humans focus on creativity, emotions, and connections"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's have fun learning about creating a brighter future for our communities with Garu-chan!",
+      "background": "forest",
+      "title": "You Can Be a Regional Revitalization Leader",
+      "content": "Regional revitalization isn't just for experts! Furusato tax, sharing local info on SNS, buying local products, traveling to local areas——every action you take supports the community. You can start today!",
+      "emoji": "💪",
+      "highlight": "Total furusato tax: over 1 trillion yen (2023). Every individual's support adds up"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's have fun learning about creating a brighter future for our communities with Garu-chan!",
+      "background": "city",
+      "title": "Regions Can Revitalize Japan as a Whole",
+      "content": "Moving away from Tokyo-centric concentration, each region shines with its unique characteristics——a multi-polar, decentralized society. If regions thrive, Japan as a whole will thrive. You can be a future regional leader!",
+      "emoji": "🌏",
+      "highlight": "The era of regions: diverse regions competing and evolving, a strength for Japan"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's have fun learning about creating a brighter future for our communities with Garu-chan!",
+      "background": "classroom",
+      "title": "Regional Revitalization and SDGs",
+      "content": "Many SDGs (Sustainable Development Goals) are directly connected to regional revitalization.①Poverty eradication②Food security③Health④Education⑤Energy⑥Industry⑦Urban planning⑧Climate change——regional revitalization is connected to global goals.",
+      "emoji": "🌱",
+      "highlight": "Many of the 17 SDGs are being practiced in regions. Regions are experimental grounds for SDGs!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's have fun learning about creating a brighter future for our communities with Garu-chan!",
+      "background": "forest",
+      "title": "From Regions to the World——Glocal Thinking",
+      "content": "Glocal (global + local)——having a global perspective while being rooted in the local community is essential. The era has come for local specialties, culture, and technology to compete in the global market!",
+      "emoji": "🌍",
+      "highlight": "Think global, act local"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's have fun learning about creating a brighter future for our communities with Garu-chan!",
+      "background": "ocean",
+      "title": "What You Can Do Today for Regional Revitalization",
+      "content": "①Eat local specialties②Share local info with friends on SNS③Research furusato tax④Participate in local events⑤Listen to elderly locals——small actions can move the community!",
+      "emoji": "🏡",
+      "highlight": "Regional revitalization isn't difficult! Start with what you can do. You're the future leader of your community!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Congratulations on completing the regional revitalization series! Let's change the future of our communities! 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

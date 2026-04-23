@@ -1,0 +1,131 @@
+{
+  "title": "Perkembangan Otak dari 0 hingga 3 Tahun ~ Di Dalam Kepala Bayi ~",
+  "description": "Mari kita pelajari perkembangan otak dengan Gal-chan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita ungkap rahasia otak bayi bersama!",
+      "background": "space",
+      "title": "Perkembangan Otak dari 0 hingga 3 Tahun ~ Di Dalam Kepala Bayi ~",
+      "emoji": "🧠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari perkembangan otak dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Otak Bayi Lebih Kompleks daripada Alam Semesta!",
+      "content": "Saat lahir, otak bayi sudah memiliki 100 miliar neuron! Sebelum usia 3 tahun, lebih dari 100 triliun sinaps (koneksi saraf) terbentuk, menciptakan koneksi yang lebih banyak daripada jumlah bintang di alam semesta.",
+      "emoji": "🌌",
+      "highlight": "Neuron otak bayi: 100 miliar. Koneksi sinaps: lebih dari 100 triliun sebelum usia 3 tahun! "
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari perkembangan otak dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Memahami Periode Kritis untuk Pengembangan Bahasa",
+      "content": "Ada 'periode kritis' untuk penguasaan bahasa. Memberikan anak paparan bahasa ganda sebelum usia 3 tahun dapat membantu mereka mencapai tingkat kemahiran seperti bahasa ibu! Ini adalah dasar ilmiah untuk pendidikan bilingual pada anak usia dini.",
+      "emoji": "🗣️",
+      "highlight": "Pendidikan bilingual: Mulai sebelum usia 3 tahun dapat mengarah pada penguasaan bahasa kedua seperti bahasa ibu"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari perkembangan otak dengan Gal-chan!",
+      "background": "forest",
+      "title": "Hubungan Musik dan Otak",
+      "content": "Mendengarkan dan memainkan musik mengaktifkan area otak yang luas. Anak-anak yang mulai bermain alat musik antara usia 3-5 tahun cenderung memiliki keterampilan bahasa, keterampilan matematika, dan perhatian yang lebih baik. Meskipun 'Efek Mozart' tidak terbukti, manfaat pendidikan musik telah diverifikasi secara ilmiah!",
+      "emoji": "🎵",
+      "highlight": "Anak-anak yang memainkan alat musik: Skor lebih tinggi dalam tes keterampilan bahasa, memori, dan kontrol perhatian dibandingkan anak-anak yang tidak memainkan alat musik (penelitian multiple)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari perkembangan otak dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Tidur Membantu Otak Berkembang",
+      "content": "Hormon pertumbuhan dilepaskan selama tidur! Anak-anak usia 3 tahun membutuhkan 12-14 jam tidur, sedangkan anak-anak sekolah dasar membutuhkan 10-11 jam. Tidur siang juga penting untuk konsolidasi memori. Bermain game dan menggunakan smartphone hingga larut malam dapat merusak perkembangan otak anak secara signifikan!",
+      "emoji": "😴",
+      "highlight": "Hormon pertumbuhan: Dilepaskan 90% selama tidur (terutama selama tidur non-REM)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari perkembangan otak dengan Gal-chan!",
+      "background": "space",
+      "title": "Mengembangkan Regulasi Emosi (EQ)",
+      "content": "EQ (inteligensi emosi) memprediksi kesuksesan jangka panjang dalam hidup, bukan hanya IQ! Regulasi emosi, atau kemampuan untuk mengontrol kemarahan, kecemasan, dan kesedihan, berkembang antara usia 3-6 tahun. Orang tua dapat mendukung ini dengan memberi label dan memvalidasi emosi anak.",
+      "emoji": "💕",
+      "highlight": "EQ vs. IQ: EQ memiliki dampak lebih besar pada kesuksesan jangka panjang dalam hidup (penelitian Goleman)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari perkembangan otak dengan Gal-chan!",
+      "background": "city",
+      "title": "Dampak Terburuk pada Otak: Stres Kronis",
+      "content": "Stres kronis (penyalahgunaan, kemiskinan, konflik keluarga) dapat menyebabkan kerusakan fisik pada otak anak, terutama amygdala dan korteks prefrontal. Lingkungan rumah yang aman dan nyaman sangat penting untuk perkembangan otak.",
+      "emoji": "⚠️",
+      "highlight": "Anak-anak dengan stres kronis: Kortisol (hormon stres) mengecilkan hippocampus"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari perkembangan otak dengan Gal-chan!",
+      "background": "forest",
+      "title": "Hubungan Gizi dan Perkembangan Otak",
+      "content": "Otak hanya menyumbang 2% dari berat badan tetapi mengonsumsi 20% energi. Susu ibu, DHA, zat besi, dan vitamin D mendukung perkembangan otak. Anak-anak dengan kebiasaan makan pilih-pilih sering kali kekurangan nutrisi penting!",
+      "emoji": "🥦",
+      "highlight": "DHA (minyak ikan): Komponen utama membran saraf otak. Penelitian multiple menunjukkan peningkatan fungsi kognitif pada anak-anak dengan asupan DHA"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari perkembangan otak dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Efek Pengalaman Alam pada Otak",
+      "content": "Bermain di luar ruangan dan pengalaman alam meningkatkan rasa ingin tahu, penilaian risiko, keterampilan motorik, fungsi kekebalan, dan kreativitas. Dengan meningkatnya 'gangguan defisit alam', membuat waktu untuk bermain di luar ruangan sangat penting!",
+      "emoji": "🌿",
+      "highlight": "Lebih dari 2 jam pengalaman alam per minggu: Peningkatan signifikan dalam kesehatan, kesejahteraan, dan kreativitas (penelitian internasional)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Rahasia otak bayi terungkap! Selanjutnya: Ilmu Bermain 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

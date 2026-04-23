@@ -1,0 +1,70 @@
+{
+  "title": "Misi Deployment Vercel",
+  "description": "Misi untuk mempublikasikan halaman yang dibuat di internet!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agen! Ini misi prioritas utama! Publikasikan karya Anda ke dunia! 🚀",
+      "background": "hq",
+      "title": "Briefing Misi Prioritas Utama",
+      "content": "Misi: Gunakan Vercel untuk mempublikasikan halaman web Anda di internet! Ini akan terlihat oleh orang-orang di seluruh dunia!",
+      "emoji": "🚀",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Hal-hal yang perlu diperiksa sebelum dipublikasikan! Pastikan tidak ada informasi pribadi! ",
+      "background": "spy",
+      "title": "Pemeriksaan Keamanan",
+      "content": "Sebelum mempublikasikan di internet, pastikan tidak ada informasi pribadi! Minta orang tua Anda untuk memeriksa juga.",
+      "emoji": "🔒",
+      "highlight": "Daftar periksa:\n❌ Tidak ada nama lengkap\n❌ Tidak ada nama sekolah\n❌ Tidak ada alamat atau nomor telepon\n✅ Persetujuan orang tua"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Vercel seperti pengiriman ajaib yang membawa halaman Anda ke dunia! ",
+      "background": "lab",
+      "title": "Apa itu Vercel?",
+      "content": "Vercel adalah layanan yang secara otomatis mengubah kode GitHub menjadi situs web. Gratis!",
+      "emoji": "✈️",
+      "highlight": "Cara kerja Vercel:\nGitHub → Vercel → Dipublikasikan di internet\n(Hanya tambahkan kode dan itu otomatis!)"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Masuk ke Vercel dan deploy proyek Anda! ",
+      "background": "hq",
+      "title": "Eksekusi Rencana Deployment!",
+      "content": "Buka Vercel dengan keluarga Anda, pilih proyek GitHub Anda, dan deploy!",
+      "emoji": "⚡",
+      "highlight": "Langkah-langkah:\n1. Buka vercel.com/new\n2. Masuk dengan GitHub\n3. Pilih proyek\n4. Deploy!\n5. Periksa URL"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Misi selesai! Dapatkan 480 poin dengan menyerahkan URL Anda! 🎉",
+      "background": "spy",
+      "title": "Misi Selesai!",
+      "content": "Anda telah membuat halaman yang dapat diakses oleh orang-orang di seluruh dunia! Serahkan URL publik dan tangkapan layar ke Slack!",
+      "emoji": "🌐",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

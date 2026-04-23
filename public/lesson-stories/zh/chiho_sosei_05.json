@@ -1,0 +1,131 @@
+{
+  "title": "移居・定居促进〜在地方生活的新方式〜",
+  "description": "和Garu一起愉快地学习移居・定居促进！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "一起来了解移居到地方的选择！",
+      "background": "forest",
+      "title": "移居・定居促进〜在地方生活的新方式〜",
+      "emoji": "🏠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习移居・定居促进！",
+      "background": "classroom",
+      "title": "什么是移居和定居？",
+      "content": "推进从城市到地方的迁移（移居）和在当地扎根长期居住（定居）的政策正在开展。政府和地方政府提供迁移费用补助、就业介绍、住房支持等！",
+      "emoji": "🏡",
+      "highlight": "迁移咨询件数：2022年达到历史最多（政府的'故乡回归支援センター'支援窗口）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习移居・定居促进！",
+      "background": "ocean",
+      "title": "移居支援制度有哪些？",
+      "content": "①迁移补助金（部分地方政府最高可达100万日元以上）②租金补助③空家翻新补助④就农支援⑤保育费用免费等，为移居到地方提供有力的支援！",
+      "emoji": "💰",
+      "highlight": "迁移补助金例子：岛根县对有孩子的家庭最高可达150万日元！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习移居・定居促进！",
+      "background": "forest",
+      "title": "什么是地域おこし協力隊？",
+      "content": "地域おこし協力队是从城市迁移到地方，致力于地方振兴的国家制度。最多3年，每月工资（约17万日元）和活动经费都会被提供。2023年全国有超过6000人正在活动！",
+      "emoji": "👥",
+      "highlight": "地域おこし協力队：队员人数急剧增加，2022年：6447人（历史最多）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习移居・定居促进！",
+      "background": "space",
+      "title": "远程工作者改变地方",
+      "content": "IT、设计、作家、顾问等，不受地点限制的工作者选择移居到地方的情况增加。在地方居住，同时在城市公司工作——“二地域居住”也是新的方式！",
+      "emoji": "💻",
+      "highlight": "二地域居住：在东京有公司，同时在地方也有房子的人增加中"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习移居・定居促进！",
+      "background": "city",
+      "title": "活用空家银行",
+      "content": "全国有约900万套空家。地方政府运营“空家银行（免费或低价公开物件信息）”。旧民家翻新成咖啡馆、旅馆、共享办公室的案例急剧增加。100万日元以下的物件也很多！",
+      "emoji": "🏚️",
+      "highlight": "全国空家银行注册物件：超过1万件（2023年）。100万日元以下也很多"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习移居・定居促进！",
+      "background": "forest",
+      "title": "为了孩子的成长环境而移居",
+      "content": "在东京购买3LDK的房子需要7000-8000万日元以上。在地方，拥有院子的独栋房只需500-1000万日元！许多地方政府推进教育费和医疗费的免费，带孩子的家庭移居急剧增加。",
+      "emoji": "👶",
+      "highlight": "地方独栋房购买价格：平均500-1000万日元（东京23区的1/10～1/5以下）"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习移居・定居促进！",
+      "background": "classroom",
+      "title": "不失败的移居秘诀",
+      "content": "移居失败例子：①无法融入当地社区②找不到工作③生活不便——对策是多次“试住”后再决定。事先与当地人建立联系是成功的关键！",
+      "emoji": "📋",
+      "highlight": "“试住”制度：许多地方政府提供廉价的短期住宿设施"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习移居・定居促进！",
+      "background": "ocean",
+      "title": "选择移居地的要点",
+      "content": "①工作环境（是否可以远程工作？当地就业？）②医疗和教育设施的完善程度③交通便利程度（到城市的交通）④当地社区的氛围⑤自然环境⑥移居支援的完善程度——可以在“SMOUT”和“JOIN”等比较网站上搜索！",
+      "emoji": "🔍",
+      "highlight": "移居匹配网站“SMOUT”：地方政府和企业“招募”移居者的服务"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "已经学习了移居和定居的机制！接下来是地方商业🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

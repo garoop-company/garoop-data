@@ -1,0 +1,132 @@
+{
+  "title": "農業DX〜最新テクノロジーで農業革命〜",
+  "description": "スマート農業・農業ドローン・AIで変わる農業の未来をガルちゃんと学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "農業が最先端テクノロジーで変わる！🌾",
+      "background": "forest",
+      "title": "農業DX〜最新テクノロジーで農業革命〜",
+      "emoji": "🌾",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「農業DX〜最新テクノロジーで農業革命〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと農業DXを学ぼう！",
+      "background": "classroom",
+      "title": "日本の農業の現状は？",
+      "content": "日本の農業就業者は2000年の約350万人から2022年には約122万人へ激減。平均年齢は68歳超。担い手不足・高齢化が深刻ですが、逆にテクノロジーで解決できるチャンスでもあります！",
+      "emoji": "👨‍🌾",
+      "highlight": "農業就業者平均年齢68.4歳（2022年農水省調査）。1/3は今後10年で引退"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと農業DXを学ぼう！",
+      "background": "space",
+      "title": "スマート農業ってどんなもの？",
+      "content": "センサー・AI・IoT・ドローン・ロボットを使って農業を「見える化」「自動化」「効率化」する取り組みがスマート農業。データで農地の状態を把握し、最適な水やり・肥料・収穫時期を判断。",
+      "emoji": "🤖",
+      "highlight": "スマート農業実証：全国1,000か所以上（農水省）で導入実験中"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと農業DXを学ぼう！",
+      "background": "forest",
+      "title": "農業ドローンで何が変わる？",
+      "content": "農薬散布ドローンは従来の10倍の速さで作業完了。空撮で農地の病害虫を早期発見。種まきも自動化。1人で管理できる農地面積が10倍以上になることも！コストも大幅に削減できます。",
+      "emoji": "🚁",
+      "highlight": "ドローン農薬散布：5ヘクタール/時間（従来の人力散布の約10倍）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと農業DXを学ぼう！",
+      "background": "ocean",
+      "title": "植物工場・垂直農業の可能性",
+      "content": "工場内でLEDと水耕栽培を使い天気・害虫・農薬に依存しないで農作物を作る「植物工場」。都市部のビル内でも農業が可能！年間通じて安定生産・輸送コスト削減・食の安全確保。",
+      "emoji": "🏭",
+      "highlight": "植物工場レタス：屋外の100倍の生産効率。農薬不使用で安全・安心"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと農業DXを学ぼう！",
+      "background": "city",
+      "title": "AIが農業の「師匠」になる",
+      "content": "AIカメラで作物の生育状況を毎日分析。熟練農家の知識・経験をAIに学習させて、若い農家でもベテランと同じ判断ができるようになります。伝統農業の知識がデジタルで後世へ！",
+      "emoji": "🧠",
+      "highlight": "AIによる病害判定：熟練農家の判断と90%以上の一致率（農研機構）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと農業DXを学ぼう！",
+      "background": "forest",
+      "title": "農業×ビジネスで若者が戻ってくる",
+      "content": "農業をビジネスとしてとらえる「アグリビジネス」の若者が増加。直接販売・ブランディング・6次産業化（加工・販売まで）・インバウンド農業体験など新ビジネスが誕生！",
+      "emoji": "🚀",
+      "highlight": "農業スタートアップ資金調達：2020年以降急増、累計1000億円超"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと農業DXを学ぼう！",
+      "background": "classroom",
+      "title": "食料安全保障という大きなテーマ",
+      "content": "食料自給率（カロリーベース）：日本は38%（2022年）。先進国最低水準！有事の際に食料が足りなくなるリスクがあります。農業DXで生産性を上げることは国の安全保障でもあります。",
+      "emoji": "🌏",
+      "highlight": "日本の食料自給率38%（カロリーベース）。OECDで最低水準"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと農業DXを学ぼう！",
+      "background": "ocean",
+      "title": "海外の農業テクノロジー先進事例",
+      "content": "オランダ：国土面積が九州ほどでも農産品の輸出世界2位（温室農業の先進国）。イスラエル：砂漠の国でドリップ灌漑技術を世界に輸出。日本も世界に技術を輸出できる可能性！",
+      "emoji": "🇳🇱",
+      "highlight": "オランダ農業輸出額：1,000億ドル超（米国に次ぐ世界2位）。九州サイズの国で！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "農業DXをマスター！次は観光地方創生へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

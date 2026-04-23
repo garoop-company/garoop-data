@@ -1,0 +1,82 @@
+{
+  "title": "Pelatihan Anime",
+  "description": "Mari kita mulai pelatihan produksi anime dengan Garu-chan!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Selamat datang di dojo Garu-chan! Mari kita mulai pelatihan anime bersama! ",
+      "background": "dojo",
+      "title": "Selamat datang di Dojo Anime!",
+      "content": "Mari kita peroleh keterampilan untuk membuat anime. Di sini, kita akan belajar langkah demi langkah dari pembuatan karakter hingga penceritaan!",
+      "emoji": "🎬",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Pertama, mari kita pikirkan 'karakter'! Apa jenis anak itu?",
+      "background": "bamboo",
+      "title": "Pelatihan Karakter",
+      "content": "Mari kita tentukan karakter utama anime. Pikirkan tiga hal: nama, sifat, dan kesukaan!",
+      "emoji": "🎭",
+      "highlight": "Contoh:\nNama → Garu-chan\nSifat → Berenergi dan ingin tahu\nKesukaan → Bambu dan petualangan kejutan"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Cerita itu penting, Garu! Mari kita pikirkan tiga bagian: awal, tengah, dan akhir!",
+      "background": "dojo",
+      "title": "Pelatihan Cerita",
+      "content": "Anime memiliki tiga bagian: 'awal', 'kejadian', dan 'penyelesaian'. Mari kita buat satu adegan, tidak apa-apa jika sederhana!",
+      "emoji": "📖",
+      "highlight": "Contoh:\nAwal → Karakter utama bertemu monster\nKejadian → Teman diculik!\nPenyelesaian → Bekerja sama untuk menyelamatkan!"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita buat storyboard menggunakan alat AI!",
+      "background": "mountain",
+      "title": "Latihan Storyboard",
+      "content": "Minta NotebookLM atau AI untuk 'membuat storyboard untuk adegan ini'. Adegan apa yang terlintas?",
+      "emoji": "🖼️",
+      "highlight": "Alat yang digunakan:\n・NotebookLM\n・Canva\n・AI Image Generator"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Suara dan musik juga penting, Garu! Mari kita buat musik dengan Suno",
+      "background": "bamboo",
+      "title": "Pelatihan Musik dan Suara",
+      "content": "Musik sangat penting untuk anime! Mari kita buat lagu tema dengan AI atau memikirkan suara karakter.",
+      "emoji": "🎵",
+      "highlight": "Tantangan:\nBuat 'lagu tema anime yang ceria' dengan Suno AI\nContoh: 'Semangat, maju ke depan!'"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Bagus sekali pelatihan, Garu! Mari kita buat dan presentasikan karya ",
+      "background": "temple",
+      "title": "Pelatihan Selesai!",
+      "content": "Anda telah menguasai dasar-dasar produksi anime! Selanjutnya, mari kita buat karya sebenarnya dan presentasikan di Slack!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

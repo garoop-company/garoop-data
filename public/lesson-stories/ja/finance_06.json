@@ -1,0 +1,132 @@
+{
+  "title": "複利の魔法〜世界第8の不思議〜",
+  "description": "アインシュタインが「世界第8の不思議」と称した複利の凄さを学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "複利はまるで魔法！一緒に体験しよう✨",
+      "background": "space",
+      "title": "複利の魔法",
+      "emoji": "✨",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「複利の魔法〜世界第8の不思議〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "単利と複利、どこが違うの？",
+      "background": "classroom",
+      "title": "単利 vs 複利",
+      "content": "単利：元本にだけ利息がつく。複利：利息にも利息がつく！例：100万円を年利10%で10年間。単利→200万円。複利→約259万円！59万円もの差が生まれます。",
+      "emoji": "🌱",
+      "highlight": "単利：100万×10%×10年＝200万｜複利：100万×(1.1)^10＝約259万"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "72の法則って知ってる？",
+      "background": "city",
+      "title": "72の法則",
+      "content": "お金が2倍になるまでの年数 ＝ 72 ÷ 年利率！年利6%なら72÷6＝12年で2倍。年利12%なら6年で2倍。逆に見ると、インフレ率3%なら24年でお金の価値は半分に！",
+      "emoji": "🔢",
+      "highlight": "72の法則：年利3%→24年で2倍｜6%→12年で2倍｜12%→6年で2倍"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "早く始めるほど有利なんだよ！",
+      "background": "forest",
+      "title": "スタートが早いほど有利",
+      "content": "Aさん：20歳から毎月1万円（年利7%）→60歳で約2,600万円。Bさん：30歳から毎月2万円（年利7%）→60歳で約2,400万円。半分の投資でAさんの方が多い！時間は最強の味方！",
+      "emoji": "👶",
+      "highlight": "20歳スタート（月1万）vs 30歳スタート（月2万）→20歳スタートが200万円多い！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "1円玉を毎日2倍にしたら30日後はいくら？",
+      "background": "space",
+      "title": "指数関数的成長",
+      "content": "1円を毎日2倍にすると→30日後はなんと約10億円！複利は「指数関数的成長」—最初はゆっくりで気づきにくいけど、後半になると信じられないほど加速します。",
+      "emoji": "🚀",
+      "highlight": "1円×2^30 ＝ 1,073,741,824円（約10億円！）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "複利の「敵」は費用と時間だよ！",
+      "background": "ocean",
+      "title": "複利を活かすコツ",
+      "content": "複利効果を最大化するコツ①早く始める②手数料（信託報酬）を低くする③税金優遇制度（NISA）を使う④引き出さない。「時間・低コスト・税優遇・継続」が4つの鍵！",
+      "emoji": "🔑",
+      "highlight": "手数料1%の差が30年後に数百万の差になる→低コストのインデックスが有利"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Warren Buffettの秘密は複利だった！",
+      "background": "city",
+      "title": "バフェットと複利",
+      "content": "「投資の神様」Warren Buffettの総資産の99%以上は60歳以降に作られました！65年間にわたって年率約20%で複利運用した結果。複利と時間があれば誰でも富を築ける！",
+      "emoji": "👴",
+      "highlight": "Buffettの資産：11歳$114 → 92歳$1,140億（年率20%複利×80年）"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "複利シミュレーションをしてみよう！",
+      "background": "candy",
+      "title": "複利を計算してみよう！",
+      "content": "仮に今日から毎月5,000円を年利5%で30年間投資したら？電卓かスマホの「積立計算シミュレーター」で計算してみよう！銀行や証券会社のサイトで無料で使えます。",
+      "emoji": "🧮",
+      "highlight": "毎月5,000円×年利5%×30年＝元本180万円が→約416万円に！（約2.3倍）"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "借金の複利は「逆複利」で危険！",
+      "background": "classroom",
+      "title": "借金の複利にも注意",
+      "content": "複利は味方にも敵にもなります。クレジットカードのリボ払い年利15〜18%は複利で雪だるま式に増える！10万円を年利18%で5年間放置すると約22万円以上に！借金の複利に要注意。",
+      "emoji": "⚠️",
+      "highlight": "リボ払い年利18%で10万円：5年後→約22万、10年後→約48万！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "複利の魔法を習得！次は仮想通貨を学ぼう🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

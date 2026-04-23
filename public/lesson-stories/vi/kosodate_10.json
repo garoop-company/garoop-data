@@ -1,0 +1,131 @@
+{
+  "title": "Tương lai của việc nuôi dạy con - Tình yêu là giáo dục tốt nhất",
+  "description": "Cùng Garu học về tương lai của việc nuôi dạy con một cách thú vị!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Tổng kết series nuôi dạy con! Học về nuôi dạy con bằng tình yêu!",
+      "background": "candy",
+      "title": "Tương lai của việc nuôi dạy con - Tình yêu là giáo dục tốt nhất",
+      "emoji": "💕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về tương lai của việc nuôi dạy con!",
+      "background": "classroom",
+      "title": "10 điều tổng kết về nuôi dạy con",
+      "content": "① Hình thành sự gắn kết② Môi trường phát triển trí não③ Chơi đùa④ Giáo dục dinh dưỡng⑤ Giáo dục cảm xúc⑥ Cách tương tác với kỹ thuật số⑦ Giáo dục toàn cầu⑧ Vận động⑨ Kết nối với cộng đồng⑩ Tự khẳng định - Tất cả đều dựa trên 'Tình yêu'!",
+      "emoji": "💕",
+      "highlight": "Biến số quan trọng nhất của việc nuôi dạy con: Chất lượng 'sự gắn kết' của cha mẹ và con (เกือบ tất cả nghiên cứu đều đồng ý)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về tương lai của việc nuôi dạy con!",
+      "background": "space",
+      "title": "Tự khẳng định là món quà tốt nhất",
+      "content": " 'Bạn là người tuyệt vời như vậy' - Trẻ em có tự khẳng định cao sẽ có khả năng thách thức, phục hồi và hạnh phúc cao. Tự khẳng định của trẻ em Nhật Bản là thấp nhất trong các nước phát triển. Mỗi ngày, 'Tôi yêu bạn' có thể thay đổi!",
+      "emoji": "🌟",
+      "highlight": "Tự khẳng định của học sinh trung học Nhật Bản: Thấp nhất trong 7 quốc gia so sánh (Cơ quan xúc tiến giáo dục thanh niên quốc gia 2021)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về tương lai của việc nuôi dạy con!",
+      "background": "ocean",
+      "title": "Cha mẹ mình phải hạnh phúc",
+      "content": " 'Khi máy bay bị lay động, hãy đeo mặt nạ oxy cho mình trước rồi mới giúp con' - Nếu cha mẹ không hạnh phúc, con cái cũng khó hạnh phúc. Việc cha mẹ nghỉ ngơi, có sở thích, quan hệ bạn bè và chăm sóc sức khỏe tâm thần sẽ tạo ra môi trường nuôi dạy con tốt nhất!",
+      "emoji": "✈️",
+      "highlight": "Sự thịnh vượng tâm lý của cha mẹ: Tương quan trực tiếp với sự ổn định tình cảm của con ( kiến thức cơ bản về tâm lý phát triển)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về tương lai của việc nuôi dạy con!",
+      "background": "city",
+      "title": "Không có cha mẹ hoàn hảo",
+      "content": "Tất cả cha mẹ đều thất bại. Có lúc cha mẹ sẽ quát mắng con vì cảm xúc hoặc không có thời gian để quan tâm con - đó là điều bình thường. Điều quan trọng là có khả năng 'sửa chữa' bằng cách nói 'Xin lỗi, bố mẹ đã quát con quá mức'!",
+      "emoji": "🤗",
+      "highlight": "'Cha mẹ đủ tốt (good enough parent)': Không cần hoàn hảo, sửa chữa mối quan hệ với con là chìa khóa (Winnicott)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về tương lai của việc nuôi dạy con!",
+      "background": "forest",
+      "title": "AI và tương lai của việc nuôi dạy con",
+      "content": "AI có thể cá nhân hóa việc học của con, robot có thể chơi cùng con, thiết bị thông minh có thể giám sát an toàn - công nghệ đang hỗ trợ việc nuôi dạy con. Nhưng 'tình yêu và sự gắn kết' chỉ có con người mới có thể mang lại!",
+      "emoji": "🤖",
+      "highlight": "Công cụ giáo dục AI: Có thể tối ưu hóa việc học của từng trẻ theo phong cách và tiến trình học"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về tương lai của việc nuôi dạy con!",
+      "background": "classroom",
+      "title": "Cha mẹ học hỏi từ con",
+      "content": "Nuôi dạy con cũng là một hành trình giúp cha mẹ trưởng thành! Sự tò mò vô tận, sự trung thực và sống trong hiện tại của con - học hỏi từ con có thể làm phong phú thêm cuộc sống của cha mẹ. Nuôi dạy con không chỉ là một chiều mà là quá trình 'cùng phát triển'!",
+      "emoji": "🌱",
+      "highlight": "'Trẻ em là tấm gương của cha mẹ': vấn đề của con cũng có thể phản ánh vấn đề của cha mẹ"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học về tương lai của việc nuôi dạy con!",
+      "background": "space",
+      "title": "Chấp nhận nhiều hình thức gia đình khác nhau",
+      "content": "Gia đình hạt nhân, gia đình một người nuôi, gia đình kế, cùng làm việc, người cha ở nhà, cặp đôi đồng giới - có nhiều hình thức gia đình khác nhau. Dù là hình thức nào, nếu có 'tình yêu và sự an toàn', con cái sẽ phát triển khỏe mạnh. Không có gia đình hoàn hảo!",
+      "emoji": "🌈",
+      "highlight": "Nhiều hình thức gia đình khác nhau: Chất lượng gắn kết ảnh hưởng lớn đến sự phát triển của con hơn là hình thức gia đình"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về tương lai của việc nuôi dạy con!",
+      "background": "candy",
+      "title": "Thông điệp đến thế hệ nuôi dạy con trong tương lai",
+      "content": "Bài học bạn đang học sẽ kết nối với những đứa trẻ trong tương lai. Kiến thức nuôi dạy con, tình yêu và sự kết nối của cộng đồng - khi có nhiều người lớn có những điều này, sẽ tạo ra tương lai tươi sáng cho trẻ em Nhật Bản. Bạn đang thay đổi tương lai!",
+      "emoji": "🌟",
+      "highlight": "Tất cả những người liên quan đến hỗ trợ nuôi dạy con: giáo viên, bảo mẫu, bác sĩ, người dân địa phương - toàn xã hội cùng nuôi dạy con!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chuẩn bị xong series nuôi dạy con! Bạn là chuyên gia nuôi dạy con trong tương lai!🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

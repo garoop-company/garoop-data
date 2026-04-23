@@ -1,0 +1,131 @@
+{
+  "title": "Bermain adalah Pembelajaran Terbaik ~Mengembangkan Kemampuan Non-Kognitif~",
+  "description": "Mari belajar dengan Garu-chan bahwa bermain adalah pembelajaran terbaik!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Bermain adalah pembelajaran terbaik! Mari belajar ilmu bermain bersama!",
+      "background": "candy",
+      "title": "Bermain adalah Pembelajaran Terbaik ~Mengembangkan Kemampuan Non-Kognitif~",
+      "emoji": "🎮",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar dengan Garu-chan bahwa bermain adalah pembelajaran terbaik!",
+      "background": "classroom",
+      "title": "Apa itu Kemampuan Non-Kognitif?",
+      "content": "Selain 'kemampuan kognitif (IQ)' yang dapat diukur dengan tes, 'kemampuan non-kognitif' seperti ketekunan, kontrol diri, kerjasama, empati, dan kreativitas diketahui dapat memprediksi keberhasilan hidup dengan lebih kuat!",
+      "emoji": "💪",
+      "highlight": "Ekonom Nobel Heckman: Investasi pada kemampuan non-kognitif pada masa kanak-kanak memberikan pengembalian sosial tertinggi"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar dengan Garu-chan bahwa bermain adalah pembelajaran terbaik!",
+      "background": "ocean",
+      "title": "Mengembangkan 'Ketekunan (Grit)'",
+      "content": "Grittiness = semangat + ketekunan. Kemampuan untuk tidak menyerah bahkan ketika menghadapi kesulitan memprediksi keberhasilan masa depan lebih baik daripada IQ (penelitian Duckworth). Bagaimana cara mengatasi kegagalan membuat anak menjadi lebih kuat!",
+      "emoji": "🏋️",
+      "highlight": "Penelitian Grit: Konsisten dibuktikan dalam penelitian di West Point, Spelling Bee, dan Sekolah Umum Chicago"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar dengan Garu-chan bahwa bermain adalah pembelajaran terbaik!",
+      "background": "forest",
+      "title": "Kehebatan Pendidikan Montessori",
+      "content": "Metode pendidikan yang dikembangkan oleh Maria Montessori menekankan 'anak belajar dengan memilih dan melakukan sendiri'. Pendiri Google dan Jeff Bezos dari Amazon juga alumni Montessori. Otonomi, konsentrasi, dan kemampuan memecahkan masalah dikembangkan!",
+      "emoji": "🏫",
+      "highlight": "Alumni Montessori: Banyak inovator seperti pendiri Google, Amazon, dan Wikipedia"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar dengan Garu-chan bahwa bermain adalah pembelajaran terbaik!",
+      "background": "classroom",
+      "title": "Nilai Pendidikan Balok, LEGO, dan Kotak Pasir",
+      "content": "Balok dan LEGO mengembangkan pemikiran matematis, pengenalan spasial, pemecahan masalah, dan kreativitas. Bermain di kotak pasir mengajarkan fisika melalui pengalaman. Apa yang terlihat seperti 'hanya bermain' sebenarnya adalah alat pembelajaran terbaik!",
+      "emoji": "🧱",
+      "highlight": "Penelitian Pendidikan LEGO: Efektif meningkatkan kemampuan pengenalan spasial, kemampuan matematika, dan kemampuan STEM (ilmu pengetahuan, teknologi, teknik, dan matematika)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar dengan Garu-chan bahwa bermain adalah pembelajaran terbaik!",
+      "background": "space",
+      "title": "Arti Mendalam dari 'Bermain Pretend'",
+      "content": "Bermain pretend seperti bermain dokter atau ibu-ibu - bermain pretend sangat penting untuk mengembangkan 'teori pikiran (ToM)' yang memahami perspektif orang lain. Sosialitas, empati, kemampuan bahasa, dan kreativitas dikembangkan sekaligus dalam 'permainan multi-intelektual' ini!",
+      "emoji": "👨‍⚕️",
+      "highlight": "Teori Pikiran: Kemampuan untuk memahami apa yang dipikirkan orang lain. Dasar kehidupan sosial"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar dengan Garu-chan bahwa bermain adalah pembelajaran terbaik!",
+      "background": "ocean",
+      "title": "Penggunaan Permainan Digital dalam Pendidikan",
+      "content": "Tidak semua permainan buruk! Minecraft mengajarkan pengenalan spasial, kreativitas, dan matematika. Permainan pemrograman mengajarkan pemikiran logis. Yang penting adalah 'konten, waktu, dan bermain bersama'. Keterlibatan orang tua menggandakan efek pembelajaran!",
+      "emoji": "🎮",
+      "highlight": "Minecraft: Diadopsi sebagai alat pendidikan di sekolah-sekolah di seluruh dunia. Digunakan untuk pendidikan kreativitas dan STEM"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari belajar dengan Garu-chan bahwa bermain adalah pembelajaran terbaik!",
+      "background": "forest",
+      "title": "Mengembangkan 'Kemampuan Mengambil Risiko' melalui Bermain di Luar",
+      "content": "Memanjat pohon, bermain di sungai, dan bermain di lumpur - bermain di luar dengan risiko yang moderat mengembangkan 'penilaian risiko, kepercayaan diri, dan ketahanan'. Perlindungan berlebihan menghilangkan kesempatan anak untuk menantang. Jatuh juga bagian dari pembelajaran!",
+      "emoji": "🌳",
+      "highlight": "Anak-anak dengan waktu bermain di luar lebih banyak: Memiliki kontrol diri yang lebih tinggi, kemampuan memecahkan masalah, dan kemampuan fisik (konsisten di berbagai penelitian)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar dengan Garu-chan bahwa bermain adalah pembelajaran terbaik!",
+      "background": "classroom",
+      "title": "Pentingnya 'Kebosanan'",
+      "content": "Pendidikan yang dikelola dengan ketat 'mengontrol' menghilangkan kreativitas anak. Ketika ada 'waktu untuk tidak melakukan apa-apa', anak-anak menciptakan permainan sendiri. Kebosanan adalah ibu dari kreativitas!",
+      "emoji": "🌤️",
+      "highlight": "Penelitian Waktu Luang: Aktivitas kreatif anak dan kemampuan menentukan diri sendiri berkembang paling baik selama waktu yang tidak direncanakan"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Saya telah belajar tentang bermain dan kemampuan non-kognitif! Selanjutnya adalah pendidikan makanan 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

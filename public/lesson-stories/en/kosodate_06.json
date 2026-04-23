@@ -1,0 +1,131 @@
+{
+  "title": "Raising Kids in the Digital Age ~Smartphones and Children~",
+  "description": "Let's learn about raising kids in the digital age with Gal-chan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's explore the correct approach to raising kids in the digital age together!",
+      "background": "space",
+      "title": "Raising Kids in the Digital Age ~Smartphones and Children~",
+      "emoji": "📱",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about raising kids in the digital age with Gal-chan!",
+      "background": "city",
+      "title": "Characteristics of the Digital Native Generation",
+      "content": "Children born after 2010, known as 'Generation Alpha,' grow up in an environment where smartphones are the norm. Social media, videos, and games are integrated into their lives - this generation requires a completely different approach to parenting!",
+      "emoji": "📱",
+      "highlight": "Generation Alpha: born 2010 and later. By 2025, there will be 2 billion people. The largest generation in history."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about raising kids in the digital age with Gal-chan!",
+      "background": "classroom",
+      "title": "Appropriate Management of Screen Time",
+      "content": "WHO recommended: 0-1 years old = 0 minutes, 2-5 years old = 1 hour/day. The American Academy of Pediatrics also recommends no device use 1 hour before bedtime. The key is not 'prohibition' but 'managing time and content'!",
+      "emoji": "⏱️",
+      "highlight": "Children with screen time over 2 hours: sleep, attention, and emotional problems tend to occur (multiple studies)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about raising kids in the digital age with Gal-chan!",
+      "background": "forest",
+      "title": "Programming Education is 'Future Literacy'",
+      "content": "Programming education became mandatory in Japanese elementary schools in 2020. Programming is not just a technical skill, but also fosters 'logical thinking, problem-solving, and creativity.' You can start with Scratch and Minecraft!",
+      "emoji": "💻",
+      "highlight": "Programming thinking: breaking down problems into smaller parts and solving them → useful in all fields"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about raising kids in the digital age with Gal-chan!",
+      "background": "ocean",
+      "title": "Protecting Children from Online Dangers",
+      "content": "Risks children face online: ① personal information leakage, ② dating apps and sexual content, ③ cyberbullying, ④ gaming and excessive spending. Both 'protective filters' and 'parent-child dialogue' are crucial!",
+      "emoji": "🛡️",
+      "highlight": "Cyberbullying damage: about 17% of elementary, middle, and high school students experience it (MEXT survey 2022)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about raising kids in the digital age with Gal-chan!",
+      "background": "space",
+      "title": "Healthy YouTube Habits",
+      "content": "It's unrealistic to completely ban YouTube. Watching together and having conversations like 'why do you like this video?' and 'is this real?' is important. Let's foster media literacy!",
+      "emoji": "▶️",
+      "highlight": "Media literacy education: in Finland, they teach how to spot fake news from elementary school"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about raising kids in the digital age with Gal-chan!",
+      "background": "classroom",
+      "title": "Healthy Relationships with SNS",
+      "content": "Many children start using SNS at 12-13 years old. Instagram and TikTok can create problems like 'comparison,' 'self-esteem,' and 'FOMO (fear of missing out).' Teaching 'what you see on SNS is just the highlight reel' is crucial.",
+      "emoji": "📸",
+      "highlight": "SNS usage and youth mental health: correlated with increased depression, anxiety, and low self-esteem"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about raising kids in the digital age with Gal-chan!",
+      "background": "city",
+      "title": "What is Gaming Disorder?",
+      "content": "The WHO recognized 'gaming disorder' as a disease (2019). Signs: ① prioritizing gaming over daily life, ② loss of control, ③ continuing despite negative effects. Setting rules and promoting offline activities can help prevent it!",
+      "emoji": "🎮",
+      "highlight": "Gaming disorder prevalence: about 3-5% of Japanese middle and high school students are at 'problematic' levels"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about raising kids in the digital age with Gal-chan!",
+      "background": "forest",
+      "title": "Supporting Parenting with Technology",
+      "content": "Digital technology can be an ally in parenting, not an enemy. Apps for sleep management, e-book reading, location sharing, and video calls with grandparents can improve parenting quality!",
+      "emoji": "🤝",
+      "highlight": "Parenting app usage: digital support for breastfeeding, sleep records, and developmental checks can reduce parental burden"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "I've learned about raising kids in the digital age! Next, let's explore local revitalization and parenting 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "title": "食育〜食べることは生きること〜",
+  "description": "ガルちゃんと楽しく食育を学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "食が子供の未来を作る！食育の科学を学ぼう！",
+      "background": "forest",
+      "title": "食育〜食べることは生きること〜",
+      "emoji": "🥦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「食育〜食べることは生きること〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと食育を学ぼう！",
+      "background": "classroom",
+      "title": "食育ってなんだろう？",
+      "content": "「食育」は食に関する知識と食を選ぶ力を育て、健全な食生活を実践できる人間を育てること。2005年に「食育基本法」が制定され、日本では学校・家庭・地域で食育が推進されています！",
+      "emoji": "🍱",
+      "highlight": "食育基本法：2005年施行。子供が食を通じて生きる力を身につけることを目標"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと食育を学ぼう！",
+      "background": "ocean",
+      "title": "朝食を食べる子供の学力が高い理由",
+      "content": "朝食を食べる子供は欠食の子供より学力・集中力・体力が有意に高い（文科省調査）。脳のエネルギー源はブドウ糖のみ。朝食でブドウ糖を補給しないと午前中の脳は空腹状態！",
+      "emoji": "🌅",
+      "highlight": "朝食を毎日食べる子供：学力テストで「ほとんど食べない」子より一貫して高得点"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと食育を学ぼう！",
+      "background": "forest",
+      "title": "共食（一緒に食べる）の効果",
+      "content": "家族で一緒に食事をする「共食」の効果：子供の語彙力向上・精神的安定・食の多様性・非行防止。週の共食回数が多い子供ほど精神的健康度が高いことが研究で示されています！",
+      "emoji": "👨‍👩‍👧‍👦",
+      "highlight": "共食の子供：孤食の子供より自尊感情・精神的健康・学力が高い傾向（複数研究）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと食育を学ぼう！",
+      "background": "space",
+      "title": "子供の食の偏食どうする？",
+      "content": "偏食は子供の味覚の敏感さから来ることが多い。対策：①一緒に料理に参加させる②繰り返し少量ずつ出す③「嫌いでもいい」とプレッシャーを与えない——強制すると余計に嫌いになります！",
+      "emoji": "🥕",
+      "highlight": "偏食の科学：味覚の好みは10〜15回の繰り返し露出で変化する可能性がある"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと食育を学ぼう！",
+      "background": "ocean",
+      "title": "食と農：「食べ物がどこから来るか」",
+      "content": "都市の子供の多くはスーパーで食べ物が生まれると思っています。農業体験・食べ物の原産地を知ること・料理の過程を見せることで食への感謝と興味が生まれます！",
+      "emoji": "🌾",
+      "highlight": "「食農教育」：実際に野菜を育てた子供は野菜を食べるようになる事例多数"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと食育を学ぼう！",
+      "background": "classroom",
+      "title": "砂糖・添加物の落とし穴",
+      "content": "子供向け食品に含まれる過剰な砂糖・人工着色料・保存料は注意が必要。糖分の過剰摂取は虫歯・肥満・集中力低下に。できるだけ「本物の食材」から作った料理を食べさせることが大切！",
+      "emoji": "⚠️",
+      "highlight": "日本の子供の砂糖摂取量：推奨量を超えるケースが多い。清涼飲料水に特に注意"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと食育を学ぼう！",
+      "background": "forest",
+      "title": "世界の子育て食文化から学ぼう",
+      "content": "フランスの子供は幼稚園から本格フランス料理。地中海食（オリーブオイル・魚・野菜中心）は子供の認知機能を高める研究も。日本の「一汁三菜」は世界的にも健康的と評価されています！",
+      "emoji": "🌍",
+      "highlight": "地中海食と子供の学力：スペインの研究で地中海食スコアが高い子供は認知機能・注意力が高い"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと食育を学ぼう！",
+      "background": "city",
+      "title": "料理を一緒にすることの教育効果",
+      "content": "子供と一緒に料理をすることは①数学（計量・分数）②科学（熱・化学変化）③読み書き（レシピ）④協調性——一石四鳥の最高の家庭教育！偏食も改善され食への関心が劇的に高まります！",
+      "emoji": "👩‍🍳",
+      "highlight": "一緒に料理をした子供：食への関心・野菜の摂取量が増加。偏食改善に効果的"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "食育を学んだ！次は感情教育へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

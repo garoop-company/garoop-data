@@ -1,0 +1,132 @@
+{
+  "title": "スマートシティと地方〜テクノロジーで課題を解決〜",
+  "description": "ガルちゃんと楽しくスマートシティと地方を学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "スマートシティで地方の課題をテクノロジーで解決しよう！",
+      "background": "space",
+      "title": "スマートシティと地方〜テクノロジーで課題を解決〜",
+      "emoji": "🏙️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「スマートシティと地方〜テクノロジーで課題を解決〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとスマートシティと地方を学ぼう！",
+      "background": "city",
+      "title": "スマートシティってどんな街？",
+      "content": "IoT・AI・ビッグデータ・5Gなどを活用して行政サービス・交通・エネルギー・医療などを効率化・高度化した都市。都市だけでなく地方でも「スマートタウン」として展開が始まっています！",
+      "emoji": "🌐",
+      "highlight": "スマートシティの世界市場規模：2030年に1兆ドル（約150兆円）超と予測"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとスマートシティと地方を学ぼう！",
+      "background": "classroom",
+      "title": "AIで行政手続きを効率化",
+      "content": "マイナンバーカード・電子申請・AI窓口——役所の手続きがデジタル化で24時間・自宅から可能に。特に過疎地では職員不足の課題をDXで補うことができます。",
+      "emoji": "🤖",
+      "highlight": "オンライン行政手続き：コロナ後に急増。証明書取得・税申告のオンライン化が進展"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとスマートシティと地方を学ぼう！",
+      "background": "ocean",
+      "title": "自動運転・MaaSで交通問題を解決",
+      "content": "過疎地では「交通難民（車がなければどこにも行けない人）」が深刻。自動運転バス・デマンド交通・MaaS（様々な交通を一つのアプリで管理）が解決策として各地で実験中！",
+      "emoji": "🚌",
+      "highlight": "自動運転バス実証実験：茨城・福井・沖縄など全国各地で実施"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとスマートシティと地方を学ぼう！",
+      "background": "forest",
+      "title": "遠隔医療で地方の医療格差を解消",
+      "content": "地方では医師不足・病院遠い問題が深刻。スマートフォンで医師と相談できる「遠隔診療」が普及中。AI診断・ウェアラブルデバイスで健康管理もリモートで可能に！",
+      "emoji": "🏥",
+      "highlight": "遠隔診療利用者：コロナ後に急増。過疎地の医療アクセス格差の縮小に貢献"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとスマートシティと地方を学ぼう！",
+      "background": "space",
+      "title": "5Gが地方農業・産業を変える",
+      "content": "5G（第5世代移動通信）は都市だけでなく農村・漁村でも整備が進んでいます。農業ドローン・機械の遠隔操作・工場の自動化——5G×ローカル5Gで地方の産業が変革します！",
+      "emoji": "📡",
+      "highlight": "ローカル5G：工場・農地・建設現場などに特化した5G。自前で構築可能"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとスマートシティと地方を学ぼう！",
+      "background": "city",
+      "title": "ドローン配送が地方物流を変える",
+      "content": "山間部・離島では物流コストが高く、配送に時間もかかります。ドローン配送が実用化すれば即日配送も可能に。楽天・JALグループが地方離島でドローン配送を実証実験中！",
+      "emoji": "🚁",
+      "highlight": "ドローン配送：伊豆大島・五島列島など離島で実用化に向け実証実験"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとスマートシティと地方を学ぼう！",
+      "background": "classroom",
+      "title": "AIが地域課題を分析する",
+      "content": "人口予測・行政コスト最適化・観光流動分析——AIとビッグデータが地域の課題を可視化し対策を立案する時代に。全国の自治体がAIを活用した行政サービスの効率化を進めています。",
+      "emoji": "📊",
+      "highlight": "AI活用自治体：全国で急増。農業・福祉・防災分野での活用が進む"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとスマートシティと地方を学ぼう！",
+      "background": "ocean",
+      "title": "地方の再エネで脱炭素を実現",
+      "content": "太陽光・風力・バイオマス・地熱——地方には再生可能エネルギーのポテンシャルが豊富。再エネ発電で「エネルギーの地産地消」を実現しながら地域の収入も増やす「地域エネルギー」が注目！",
+      "emoji": "🌱",
+      "highlight": "再エネ発電量（農村部）：太陽光・風力で地域の電力需要を100%賄う事例も"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "スマートシティで地方の可能性無限大！最後のレッスンへ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

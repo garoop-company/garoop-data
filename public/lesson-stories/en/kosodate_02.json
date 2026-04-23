@@ -1,0 +1,131 @@
+{
+  "title": "Brain Development from 0 to 3 Years Old ~ Inside a Baby's Head ~",
+  "description": "Let's learn about brain development with Gal-chan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's uncover the secrets of a baby's brain together!",
+      "background": "space",
+      "title": "Brain Development from 0 to 3 Years Old ~ Inside a Baby's Head ~",
+      "emoji": "🧠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about brain development with Gal-chan!",
+      "background": "classroom",
+      "title": "A Baby's Brain is More Complex than the Universe!",
+      "content": "At birth, a baby's brain already has 100 billion neurons! By age 3, over 100 trillion synapses (neural connections) are formed, creating more connections than the number of stars in the universe.",
+      "emoji": "🌌",
+      "highlight": "Baby's brain neurons: 100 billion. Synaptic connections: over 100 trillion by age 3! "
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about brain development with Gal-chan!",
+      "background": "ocean",
+      "title": "Understanding the Critical Period for Language Development",
+      "content": "There is a 'critical period' for language acquisition. Exposing children to multiple languages before age 3 can help them achieve native-level proficiency! This is the scientific basis for bilingual education in early childhood.",
+      "emoji": "🗣️",
+      "highlight": "Bilingual education: Starting before age 3 can lead to native-level proficiency in a second language"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about brain development with Gal-chan!",
+      "background": "forest",
+      "title": "The Relationship Between Music and the Brain",
+      "content": "Listening to and playing music activates a wide range of brain areas. Children who start playing instruments between ages 3-5 tend to have better language skills, math skills, and attention. While the 'Mozart Effect' is not proven, the benefits of music education are scientifically verified!",
+      "emoji": "🎵",
+      "highlight": "Instrument-playing children: Higher scores in language, memory, and attention control tests compared to non-playing children (multiple studies)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about brain development with Gal-chan!",
+      "background": "classroom",
+      "title": "Sleep Nurtures the Brain",
+      "content": "Growth hormone is released during sleep! Children aged 3 need 12-14 hours of sleep, while elementary school kids need 10-11 hours. Naps are also important for memory consolidation. Staying up late with smartphones and games can significantly damage a child's brain development!",
+      "emoji": "😴",
+      "highlight": "Growth hormone: Released 90% during sleep (especially during non-REM sleep)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about brain development with Gal-chan!",
+      "background": "space",
+      "title": "Developing Emotional Regulation (EQ)",
+      "content": "EQ (emotional intelligence) predicts long-term success in life, not just IQ! Emotional regulation, or the ability to control anger, anxiety, and sadness, develops between ages 3-6. Parents can support this by labeling and validating their child's emotions.",
+      "emoji": "💕",
+      "highlight": "EQ vs. IQ: EQ has a greater impact on long-term success in life (Goleman research)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about brain development with Gal-chan!",
+      "background": "city",
+      "title": "The Worst Impact on the Brain: Chronic Stress",
+      "content": "Chronic stress (abuse, poverty, family conflict) can cause physical damage to a child's brain, especially the amygdala and prefrontal cortex. A safe and secure home environment is essential for brain development.",
+      "emoji": "⚠️",
+      "highlight": "Children with chronic stress: Cortisol (stress hormone) shrinks the hippocampus"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about brain development with Gal-chan!",
+      "background": "forest",
+      "title": "The Relationship Between Nutrition and Brain Development",
+      "content": "The brain accounts for only 2% of body weight but consumes 20% of energy. Breast milk, DHA, iron, and vitamin D support brain development. Children with picky eating habits often lack essential nutrients!",
+      "emoji": "🥦",
+      "highlight": "DHA (fish oil): Main component of brain neural membranes. Multiple studies show improved cognitive function in children with DHA intake"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about brain development with Gal-chan!",
+      "background": "classroom",
+      "title": "The Effects of Nature Experience on the Brain",
+      "content": "Outdoor play and nature experiences foster curiosity, risk judgment, motor skills, immune function, and creativity. With the rise of 'nature deficit disorder,' making time for outdoor play is crucial!",
+      "emoji": "🌿",
+      "highlight": "Over 2 hours of nature experience per week: Significant improvements in health, well-being, and creativity (international research)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "The secrets of a baby's brain revealed! Next stop: The Science of Play 🎉",
+      "background": "space",
+      "title": "Lesson Completed!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

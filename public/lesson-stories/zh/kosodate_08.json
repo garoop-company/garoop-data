@@ -1,0 +1,131 @@
+{
+  "title": "运动与儿童发展 〜运动使大脑更聪明〜",
+  "description": "和Garu一起愉快地学习运动与儿童发展！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "运动可以促进儿童的大脑和心理发展！一起来学习吧！",
+      "background": "forest",
+      "title": "运动与儿童发展 〜运动使大脑更聪明〜",
+      "emoji": "🏃",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习运动与儿童发展！",
+      "background": "classroom",
+      "title": "运动与大脑的密切关系",
+      "content": "有氧运动可以增加大脑中的「BDNF（脑源性神经营养因子）」，提高记忆力、学习力和注意力！研究表明，体育课后数学成绩会提高。「运动使大脑更聪明」是科学事实！",
+      "emoji": "🧠",
+      "highlight": "BDNF：又称「大脑肥料」。运动后增加，提高学习效率30%以上"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习运动与儿童发展！",
+      "background": "ocean",
+      "title": "几岁开始适合什么运动？",
+      "content": "0〜3岁：自由使用全身的游戏。3〜6岁：游泳、体操、球类游戏等多样化动作。6〜10岁：竞技体育入门。过早专业化可能导致 burnout。幼儿期掌握「多样化动作」非常重要！",
+      "emoji": "⚽",
+      "highlight": "早期体育专业化：容易导致伤害、burnout、无法持续。推荐多样化运动"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习运动与儿童发展！",
+      "background": "forest",
+      "title": "现代儿童户外游戏时间不足",
+      "content": "日本儿童的户外游戏时间在过去30年中大幅减少。新冠疫情、智能手机和过度关注安全是原因。确保每天至少60分钟的身体活动（WHO推荐）对儿童的健康、大脑发展和情绪稳定至关重要！",
+      "emoji": "🌳",
+      "highlight": "户外游戏时间：WHO推荐每天60分钟。许多日本儿童低于推荐值"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习运动与儿童发展！",
+      "background": "space",
+      "title": "团队体育促进社会性发展",
+      "content": "足球、篮球、棒球等团队体育是培养社会性的最佳场所：①沟通、②角色分担、③情绪管理、④失败与恢复、⑤胜负的接受方式。",
+      "emoji": "⚾",
+      "highlight": "团队体育经验者：领导能力、协作能力和抗压能力高于个人竞技者"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习运动与儿童发展！",
+      "background": "city",
+      "title": "武道、体操促进精神发展",
+      "content": "剑道、柔道、空手道、体操等可以培养：①礼仪、②注意力、③自制力、④失败的承受能力、⑤努力的习惯。通过体育进行精神锤炼对学习和人际关系都有积极影响！",
+      "emoji": "🥋",
+      "highlight": "武道经验者：自我控制感和恢复力较高"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习运动与儿童发展！",
+      "background": "classroom",
+      "title": "运动与睡眠的结合效果",
+      "content": "运动后获得优质睡眠可以增加生长激素，促进身体和大脑的发育！相反，睡眠不足时进行剧烈运动会增加受伤风险。「运动+睡眠」结合可以促进儿童发展！",
+      "emoji": "😴",
+      "highlight": "运动后的深度睡眠：生长激素、记忆巩固和肌肉修复得到最大化"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习运动与儿童发展！",
+      "background": "ocean",
+      "title": "体育教会「失败」的意义",
+      "content": "「胜利的喜悦」远比「从失败中学习」更重要！顶级运动员的共同点是「从失败中恢复的能力」。当孩子因失败而哭泣时，要对他们说：「下次如何才能获胜？」",
+      "emoji": "🏆",
+      "highlight": "「从失败中恢复的能力」：世界顶级运动员的共同点。将失败视为「学习机会」"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习运动与儿童发展！",
+      "background": "forest",
+      "title": "艺术、音乐与身体的相互作用",
+      "content": "芭蕾舞、舞蹈、音乐、绘画等活动也是「身体运动」！艺术活动可以培养创造力、情感表达、注意力、协作能力，同时对学习有积极影响。体育和艺术都可以拓宽儿童的可能性！",
+      "emoji": "🎨",
+      "highlight": "音乐+运动（节奏教育）：同时提高数学能力、语言能力和运动协调能力"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "已经学习了运动与发展！接下来思考育儿的未来吧🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

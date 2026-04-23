@@ -1,0 +1,131 @@
+{
+  "title": "Pasar Saham ~Membeli Bagian dari Perusahaan~",
+  "description": "Mari kita pelajari tentang pasar saham dengan Gaku-chan dengan cara yang menyenangkan dan mudah! 📊",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Apa itu saham? Mari kita eksplorasi bersama! 📊",
+      "background": "city",
+      "title": "Pasar Saham",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apa artinya membeli saham?",
+      "background": "classroom",
+      "title": "Apa itu Saham?",
+      "content": "Perusahaan menerbitkan saham untuk mengumpulkan uang untuk bisnis mereka. Ketika Anda membeli satu saham, Anda menjadi pemilik sebagian dari perusahaan itu! Jika perusahaan tumbuh, nilai saham Anda akan meningkat.",
+      "emoji": "🏢",
+      "highlight": "Pemegang saham = pemilik perusahaan. Anda juga menerima dividen (bagian dari keuntungan)!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Apa itu Bursa Efek Tokyo?",
+      "background": "city",
+      "title": "Cara Kerja Bursa Efek",
+      "content": "Bursa Efek Tokyo (TSE) adalah pasar di mana saham diperdagangkan. Saat ini, ada tiga pasar: Prime, Standard, dan Growth. Bursa efek terkenal di dunia termasuk NYSE (New York) dan NASDAQ.",
+      "emoji": "🏛️",
+      "highlight": "TSE Prime: sekitar 1.800 perusahaan terdaftar, dengan kapitalisasi pasar total lebih dari 800 triliun yen (per 2024)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mengapa harga saham naik dan turun?",
+      "background": "space",
+      "title": "Mengapa Harga Saham Bergerak",
+      "content": "Harga saham ditentukan oleh keseimbangan antara permintaan (orang yang ingin membeli) dan penawaran (orang yang ingin menjual). Jika kinerja perusahaan baik, lebih banyak orang akan ingin membeli, dan harga saham akan naik. Berita, indikator ekonomi, dan peristiwa global juga memiliki dampak besar.",
+      "emoji": "📉📈",
+      "highlight": "Harga saham = representasi numerik dari 'harapan' untuk perusahaan itu"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Apa itu Nikkei Average dan TOPIX?",
+      "background": "ocean",
+      "title": "Memahami Indeks Saham",
+      "content": "Nikkei Average: harga saham rata-rata 225 perusahaan Jepang yang mewakili. TOPIX: indeks yang menunjukkan pergerakan keseluruhan TSE. S&P 500: indeks 500 perusahaan AS. Dow: indeks 30 perusahaan AS. Ini seperti termometer ekonomi!",
+      "emoji": "🌡️",
+      "highlight": "Nikkei Average: sekitar 40.000 yen (rekaman tertinggi pada Maret 2024) → pertama kalinya sejak era gelembung!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apa yang terjadi ketika Anda memiliki saham perusahaan terkenal?",
+      "background": "classroom",
+      "title": "Hak Pemegang Saham",
+      "content": "Sebagai pemegang saham, Anda memiliki hak untuk: ① dividen (bagian dari keuntungan perusahaan), ② manfaat pemegang saham (seperti diskon produk atau kupon), dan ③ hak suara (Anda dapat memilih dalam keputusan penting perusahaan). Pemegang saham Toyota bahkan mendapatkan diskon untuk mobil Toyota!",
+      "emoji": "🎁",
+      "highlight": "Contoh manfaat pemegang saham: saham McDonald's → kupon burger gratis, Nintendo → diskon game"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Saya akan mengajari Anda tips untuk tidak kehilangan uang pada saham!",
+      "background": "forest",
+      "title": "Strategi Investasi Saham Dasar",
+      "content": "① Beli dan Tahan (beli dan tahan untuk waktu lama), ② diversifikasi investasi (memiliki beberapa saham), dan ③ rata-rata biaya dolar (investasikan jumlah uang tetap pada interval reguler). Cobalah untuk membuat waktu bekerja untuk Anda, bukan mencoba waktu pasar!",
+      "emoji": "🧠",
+      "highlight": "Rata-rata biaya dolar: Anda dapat membeli lebih banyak saham ketika harga rendah dan lebih sedikit ketika harga tinggi → biaya rata-rata menurun"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita teliti saham perusahaan yang Anda minati!",
+      "background": "candy",
+      "title": "Coba Investasi Virtual!",
+      "content": "Periksa harga saham merek favorit Anda (Apple, Toyota, Nintendo, dll.). Bandingkan harga setahun yang lalu dengan harga saat ini untuk melihat berapa banyak perubahan. Anda dapat memeriksa harga saham pada aplikasi atau situs web pialang!",
+      "emoji": "🔍",
+      "highlight": "Anda dapat memeriksa harga saham harian pada aplikasi gratis: Yahoo! Finance, SBI Securities, dll."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Saham yang tidak terdaftar (IPO) seperti tiket lotre!?",
+      "background": "space",
+      "title": "Apa itu IPO (Penawaran Saham Perdana)?",
+      "content": "IPO adalah ketika perusahaan mendaftarkan sahamnya di pasar saham untuk pertama kalinya. Saham IPO yang populer dapat meningkat beberapa kali lipat pada hari pertama pencatatan! Tapi ada juga risiko kehilangan uang. Seperti lotre, dan Anda perlu mengajukan permohonan untuk membeli saham.",
+      "emoji": "🚀",
+      "highlight": "Contoh IPO terkenal: LINE (2016), Mercari (2018), Rare Job → harga pencatatan 2-5 kali lipat"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Anda telah mempelajari tentang pasar saham! Selanjutnya, mari kita pelajari tentang keajaiban bunga majemuk! 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

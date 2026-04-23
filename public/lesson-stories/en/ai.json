@@ -1,6 +1,6 @@
 {
-  "title": "What Is AI?",
-  "description": "Let's explore how computers can become smart!",
+  "title": "What is AI?",
+  "description": "Let's explore how computers become smarter! 🤖",
   "bgTheme": "space",
   "scenes": [
     {
@@ -8,105 +8,108 @@
       "type": "intro",
       "duration": 5000,
       "garuchanAnimation": "wave",
-      "speech": "AI is amazing, right? Let's explore it together!",
+      "speech": "AI is amazing, isn't it? Let's go on an adventure together! 🎉",
       "background": "space",
       "title": "Welcome to the World of AI!",
       "emoji": "🤖",
-      "effects": ["sparkle", "stars"]
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
     },
     {
       "id": 2,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "float",
-      "speech": "AI stands for Artificial Intelligence — computers that can think like humans!",
+      "speech": "AI stands for Artificial Intelligence! It's a technology that enables computers to think like humans! 🤓",
       "background": "space",
       "title": "AI = Artificial Intelligence",
-      "content": "Artificial Intelligence makes it possible for computers to learn, think, and make decisions on their own.",
+      "content": "Artificial Intelligence (AI) is a technology that allows computers to learn, think, and make decisions on their own! 💻",
       "emoji": "🧠",
-      "highlight": "AI = Computers that can learn on their own"
+      "highlight": "AI = Computer that can learn by itself ①"
     },
     {
       "id": 3,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "bounce",
-      "speech": "AI learns patterns by looking at a lot of data!",
-      "background": "classroom",
-      "title": "How AI Learns",
-      "content": "Machine Learning is how AI learns from examples. More data means a smarter AI!",
+      "speech": "AI learns from a vast amount of data and creates its own rules! 📊",
+      "background": "space",
+      "title": "AI Learns!",
+      "content": "Just like humans learn from examples, AI learns from large amounts of data. The more data it has, the smarter it becomes! 🚀",
       "emoji": "📚",
-      "highlight": "Data → Learning → Smarter AI"
+      "highlight": "Data → Learning → Smart AI ② →"
     },
     {
       "id": 4,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "float",
-      "speech": "The brain of AI is called a Neural Network — built from numbers!",
+      "speech": "The brain of AI is called a Neural Network! 🧠",
       "background": "city",
-      "title": "Neural Networks = Digital Brain",
-      "content": "Neural Networks copy how neurons in the human brain work. Millions of digital connections working together!",
+      "title": "Neural Network = Digital Brain",
+      "content": "It's a system modeled after the human brain's neural cells. Millions of digital connections work together to learn! 💡",
       "emoji": "⚡",
-      "highlight": "Human Neuron 🧠 → Neural Network 💻"
+      "highlight": "Human Brain 🧠 → Neural Network 💻 →"
     },
     {
       "id": 5,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "bounce",
-      "speech": "Tools like ChatGPT and Claude became smart by learning from huge amounts of text!",
-      "background": "forest",
-      "title": "Do You Know AI Chat?",
-      "content": "Large language models (LLMs) like ChatGPT learn from trillions of words, then can answer questions and create content.",
+      "speech": "ChatGPT and Claude became smart by reading a huge amount of text! 📚",
+      "background": "city",
+      "title": "Do you know about AI Chat?",
+      "content": "Using a technology called Large Language Model (LLM), AI can generate human-like text! ChatGPT learned from trillions of characters. 📊",
       "emoji": "💬",
-      "highlight": "📚 Lots of text → LLM → AI chat"
+      "highlight": "📚 Large Text → LLM → Conversational AI ③"
     },
     {
       "id": 6,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "float",
-      "speech": "AI can also recognize photos and images — like super sharp eyes!",
+      "speech": "AI can recognize what's in a picture! 📸",
       "background": "ocean",
       "title": "AI Image Recognition",
-      "content": "AI can tell a cat photo from a dog photo, and even recognize faces. Your phone camera uses this!",
+      "content": "It can distinguish between cat and dog photos, recognize faces, and more! AI is even used in smartphone cameras. 📱",
       "emoji": "👁️",
-      "highlight": "📸 Photo → AI analysis → 'This is a cat!'"
+      "highlight": "📸 Photo → AI Analysis → 'It's a cat!' ④"
     },
     {
       "id": 7,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "bounce",
-      "speech": "AI can also help make pictures, music, programs, and more!",
+      "speech": "AI can help create programs, draw pictures, and more! 🎨",
       "background": "candy",
-      "title": "Generative AI = Creative AI",
-      "content": "Tools like Midjourney, DALL-E, and Suno AI can create brand-new artwork from your description!",
+      "title": "What Can Generative AI Do?",
+      "content": "AI can generate text, images, music, videos, and more! It's a helpful tool for various tasks. 🤩",
       "emoji": "🎨",
-      "highlight": "Text → 🖼️ Image / 🎵 Music / 🎬 Video"
+      "highlight": "Text / Image / Music / Code Generation ⑤"
     },
     {
       "id": 8,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "float",
-      "speech": "AI is already all around us — in phones, cars, and hospitals!",
+      "speech": "AI is already being used in many aspects of our daily lives! 🌎",
       "background": "city",
-      "title": "AI in Daily Life",
-      "content": "YouTube recommendations, Instagram filters, Google Maps — all powered by AI! You use AI every single day.",
+      "title": "AI in Our Daily Lives",
+      "content": "YouTube recommendations, Instagram filters, Google Maps navigation - it's all AI! You've been using it every day. 📺",
       "emoji": "📱",
-      "highlight": "YouTube 📺 / Maps 🗺️ / Translation 🌐 / Health 🏥"
+      "highlight": "YouTube 📺 / Maps 🗺️ / Translation 🌐 / Medicine 🏥"
     },
     {
       "id": 9,
       "type": "lesson",
       "duration": 6000,
       "garuchanAnimation": "bounce",
-      "speech": "In the future, AI will help doctors, scientists, and even teachers!",
+      "speech": "In the future, AI will assist doctors, scientists, and teachers! 🌟",
       "background": "space",
       "title": "The Future of AI",
-      "content": "AI will keep advancing to help solve big problems. You could be the one building the next great AI!",
+      "content": "AI will help with early cancer detection, new drug development, and climate change mitigation. You might become an AI creator too! 🎓",
       "emoji": "🌟",
       "highlight": "🔬 Science  🏥 Medicine  🌍 Environment  🎓 Education"
     },
@@ -115,11 +118,14 @@
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "bounce",
-      "speech": "Now you know a lot more about AI. Try using it for something amazing!",
+      "speech": "Now you know a bit about AI! Give it a try and have fun! 🎉",
       "background": "space",
-      "title": "Lesson Complete!",
+      "title": "Lesson Complete! 🎉",
       "emoji": "⭐",
-      "effects": ["confetti", "stars"]
+      "effects": [
+        "confetti",
+        "stars"
+      ]
     }
   ]
 }

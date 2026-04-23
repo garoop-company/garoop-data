@@ -1,0 +1,69 @@
+{
+  "title": "NotebookLM画像ミッション",
+  "description": "AIで画像を企画するミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ビジュアルエージェント！今回は「画像作戦」だガル！🖼️",
+      "background": "lab",
+      "title": "ミッション指令：画像作戦",
+      "content": "任務は、頭の中のイメージをAIに伝わる指示文へ変換すること。きれいな絵を出す前に、主役、場面、雰囲気、色、構図を言葉にできる状態をつくるのが本当のゴールだ。",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "AIで画像を作るには「詳しい説明文」が必要ガル！",
+      "background": "spy",
+      "title": "画像プロンプトとは？",
+      "content": "画像プロンプトは、AIに絵を描いてもらうための設計図だ。短い単語を並べるだけでなく、「誰が」「どこで」「何をしていて」「どんな空気か」まで具体化すると、完成イメージが安定する。",
+      "emoji": "✍️",
+      "highlight": "設計図の4要素:\n・主役\n・背景\n・動き\n・雰囲気"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "NotebookLMに作りたい絵を説明して、プロンプトを作ってもらおう！",
+      "background": "lab",
+      "title": "プロンプト作成作戦",
+      "content": "NotebookLMには、思いついた断片をそのまま投げてもよい。まず素材を出し切り、その後で「小学生向けに整理して」「画像生成AI用に1文へまとめて」と依頼すると、使えるプロンプトに整えやすい。",
+      "emoji": "🎨",
+      "highlight": "進め方:\n1. イメージを箇条書き\n2. AIに整理依頼\n3. 1文プロンプトへ圧縮"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "作ったプロンプトで実際に画像を生成してみよう！",
+      "background": "spy",
+      "title": "画像生成チャレンジ",
+      "content": "生成は一発勝負ではない。実際に画像を見て、「主役が目立たない」「暗すぎる」「背景が弱い」などを観察し、言葉を足したり削ったりして完成度を上げるのが大事だ。",
+      "emoji": "🖌️",
+      "highlight": "改善の視点:\n・主役は見えるか\n・雰囲気は合うか\n・色はねらい通りか"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "画像作戦完了ガル！プロンプトと画像を提出して320ポイントゲット！🎯",
+      "background": "hq",
+      "title": "ミッション完了！",
+      "content": "ミッション完了は、画像を出したことではなく、どの言葉を足したら結果がどう変わったかを説明できること。プロンプトと完成画像を並べて提出すると、試行錯誤の価値が伝わる。",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

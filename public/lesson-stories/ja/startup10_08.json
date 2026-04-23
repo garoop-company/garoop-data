@@ -1,0 +1,132 @@
+{
+  "title": "デジタルツールで起業〜テクノロジーが武器になる〜",
+  "description": "ガルちゃんと楽しくデジタルツールで起業を学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "テクノロジーを使いこなして起業しよう！",
+      "background": "space",
+      "title": "デジタルツールで起業〜テクノロジーが武器になる〜",
+      "emoji": "💻",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「デジタルツールで起業〜テクノロジーが武器になる〜」をテーマに、子どもの視点で挑戦を形にする力を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとデジタルツールで起業を学ぼう！",
+      "background": "city",
+      "title": "今は最高の起業の時代！",
+      "content": "スマホ・クラウド・SNS・AI——これらが全て揃ったことで、1人でも・10歳でも・お金がなくても起業できる環境が整っています。インターネット以前は数億円必要だったことが今は数万円でできます！",
+      "emoji": "📱",
+      "highlight": "起業コスト：2000年代→数千万円｜2024年→数万円以下で世界規模のサービスが作れる"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとデジタルツールで起業を学ぼう！",
+      "background": "forest",
+      "title": "プログラミングなしでアプリが作れる！",
+      "content": "NoCode（ノーコード）ツールを使えば、プログラミングなしにアプリ・ウェブサイト・自動化が作れます！Bubble・Glide・Adalo・Zapier・Shopify——組み合わせで本格的なサービスが構築可能！",
+      "emoji": "🔧",
+      "highlight": "ノーコードで作ったサービス：数億円の価値を持つ企業も！技術より「アイデア」が武器に"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとデジタルツールで起業を学ぼう！",
+      "background": "ocean",
+      "title": "Shopifyで物販スタート",
+      "content": "Shopifyを使えば月数千円から自分のECサイトが作れます。商品ページ・決済・配送追跡——全部込み！SNSと連携して物販スタートアップが今すぐ始められます。中学生でも月収10万円の事例多数！",
+      "emoji": "🛒",
+      "highlight": "Shopify：世界175か国で170万以上のビジネスが利用。月数千円から始められる"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとデジタルツールで起業を学ぼう！",
+      "background": "classroom",
+      "title": "AIを味方にしろ！",
+      "content": "ChatGPT・Claude・Gemini——AIがコード生成・文章作成・翻訳・画像生成をしてくれます。アイデアさえあればAIが「実行者」に！「プロンプトエンジニアリング（AIへの指示の技術）」を学ぼう！",
+      "emoji": "🤖",
+      "highlight": "AIを活用する起業家：コスト・時間を大幅削減。1人でも大企業と同等の生産性が可能に"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとデジタルツールで起業を学ぼう！",
+      "background": "space",
+      "title": "Canvaでデザインをプロ品質に",
+      "content": "Canva（無料）でチラシ・SNS投稿・プレゼン・ロゴ・名刺——全てをプロ品質でデザインできます。デザイナーに発注する前にまずCanvaで自分で作ってみよう！圧倒的に安く早くできます。",
+      "emoji": "🎨",
+      "highlight": "Canva：月間アクティブユーザー1.7億人。プロデザイナー不要で本格デザインが可能"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとデジタルツールで起業を学ぼう！",
+      "background": "ocean",
+      "title": "GoogleWorkspace（無料）でチーム運営",
+      "content": "Google ドライブ・ドキュメント・スプレッドシート・ミート——無料で使えるのにビジネスの全基盤をカバー。メールはGmail・ビデオ会議はMeet・顧客管理はスプレッドシートで十分！",
+      "emoji": "📊",
+      "highlight": "Google Workspace（個人・無料プラン）：起業初期はGoogleの無料ツールだけで十分"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとデジタルツールで起業を学ぼう！",
+      "background": "city",
+      "title": "Notionで知識を整理する",
+      "content": "Notionはメモ・プロジェクト管理・wiki・データベース全てが一つに。ビジネスアイデア・顧客情報・タスク管理——全てをNotionに集約するとチームが動きやすくなります！",
+      "emoji": "📝",
+      "highlight": "Notion：スタートアップ界隈で最も人気の「社内ウィキ・プロジェクト管理ツール」"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとデジタルツールで起業を学ぼう！",
+      "background": "forest",
+      "title": "SNSを「集客エンジン」にしよう",
+      "content": "Instagram・TikTok・YouTube・X（Twitter）——それぞれ特性が違います。TikTok：バイラル・短動画。YouTube：信頼構築・長動画。Instagram：ビジュアル・商品PR。ターゲットに合わせて選ぼう！",
+      "emoji": "🚀",
+      "highlight": "TikTokのバイラル効果：フォロワー0人でも10万回再生が起きる！コンテンツが命"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "デジタル起業をマスター！最後のレッスンへ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

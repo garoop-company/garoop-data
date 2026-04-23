@@ -1,0 +1,131 @@
+{
+  "title": "农业DX〜最新科技革新农业〜",
+  "description": "和Garu一起学习最新科技革新农业的未来吧！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "农业将随着最新科技而改变！ ",
+      "background": "forest",
+      "title": "农业DX〜最新科技革新农业〜",
+      "emoji": "🌾",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习农业DX吧！",
+      "background": "classroom",
+      "title": "日本农业的现状如何？",
+      "content": "日本的农业从业者从2000年的约350万人锐减至2022年的约122万人。平均年龄超过68岁。劳动力不足和老龄化问题严重，但这也是科技解决的契机！",
+      "emoji": "👨‍🌾",
+      "highlight": "农业从业者平均年龄：68.4岁（2022年农水省调查）。1/3将在未来10年内退休"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习农业DX吧！",
+      "background": "space",
+      "title": "什么是智慧农业？",
+      "content": "利用传感器、人工智能、物联网、无人机和机器人等技术，对农业进行「可视化」、「自动化」和「效率化」。通过数据掌握农田状态，判断最优的水肥和收获时期。",
+      "emoji": "🤖",
+      "highlight": "智慧农业实证：在全国1000多个地点（农水省）进行实验中"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习农业DX吧！",
+      "background": "forest",
+      "title": "无人机在农业中会带来什么变化？",
+      "content": "农药散布无人机的工作效率是传统方法的10倍。利用航拍早期发现农田病虫害。播种也实现了自动化。一个人的管理面积可以达到原来的10倍以上！成本也大大降低。",
+      "emoji": "🚁",
+      "highlight": "无人机农药散布：5公顷/小时（约为传统人工散布的10倍）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习农业DX吧！",
+      "background": "ocean",
+      "title": "植物工厂和垂直农业的可能性",
+      "content": "在工厂内利用LED和水培栽培，不受天气、病虫害和农药的影响进行农作物栽培。「植物工厂」。在城市的建筑物中也可以进行农业！全年稳定生产、降低运输成本、确保食品安全。",
+      "emoji": "🏭",
+      "highlight": "植物工厂生菜：生产效率是室外的100倍。不使用农药，安全可靠"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习农业DX吧！",
+      "background": "city",
+      "title": "人工智能成为农业的「师傅」",
+      "content": "利用人工智能相机每天分析作物的生长状况。将老经验农夫的知识和经验传授给人工智能，让年轻农夫也能做出相同的判断。传统农业知识在数字时代传承！",
+      "emoji": "🧠",
+      "highlight": "人工智能病害判定：与老经验农夫的判断一致率超过90%（农研机构）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习农业DX吧！",
+      "background": "forest",
+      "title": "农业与商业结合，让年轻人回归",
+      "content": "将农业视为一种商业形态的「农业商业」年轻人增加。直接销售、品牌建设、6次产业化（加工和销售）等新的商业模式涌现！",
+      "emoji": "🚀",
+      "highlight": "农业创业资金募集：2020年后急剧增加，累计超过1000亿日元"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习农业DX吧！",
+      "background": "classroom",
+      "title": "粮食安全保障这一重大课题",
+      "content": "粮食自给率（卡路里基准）：日本为38%（2022年）。是发达国家中最低的水平！在紧急情况下，粮食可能会不足。提高农业生产效率也是国家安全保障的重要课题。",
+      "emoji": "🌏",
+      "highlight": "日本粮食自给率：38%（卡路里基准）。在OECD中最低水平"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习农业DX吧！",
+      "background": "ocean",
+      "title": "海外农业科技的先进事例",
+      "content": "荷兰：国土面积仅有九州大小，但农产品出口额排名世界第二（温室农业的先进国家）。以色列：将滴灌技术出口到世界各地。日本也有可能将技术出口到世界各地！",
+      "emoji": "🇳🇱",
+      "highlight": "荷兰农产品出口额：超过1000亿美元（世界第二，仅次于美国）。国土面积仅有九州大小！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "掌握农业DX！接下来是旅游和地方发展！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

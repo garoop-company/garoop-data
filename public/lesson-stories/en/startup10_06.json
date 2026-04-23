@@ -1,0 +1,131 @@
+{
+  "title": "Let's Build a Team ~The Secret to the Strongest Team~",
+  "description": "Let's learn about building a team with Gal-chan in a fun way!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn how to build the strongest team!",
+      "background": "city",
+      "title": "Let's Build a Team ~The Secret to the Strongest Team~",
+      "emoji": "🤝",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about building a team with Gal-chan!",
+      "background": "classroom",
+      "title": "Why do we need a team?",
+      "content": "There's a limit to what one person can do. Apple: Steve Jobs (vision) + Wozniak (technology). Google: Larry Page + Sergey Brin. The best companies are born from the best teams!",
+      "emoji": "👥",
+      "highlight": "Startup success rate: Companies with multiple founders have a higher success rate than solo founders (multiple studies)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about building a team with Gal-chan!",
+      "background": "forest",
+      "title": "3 types of people needed in a team",
+      "content": "① Visionary (dreamer: idea and vision) ② Hustler (sales and business development) ③ Hacker (technology and product development) - A team with these three types is the strongest! Which type are you?",
+      "emoji": "🎭",
+      "highlight": "3 types of teams: Each type complements the others to create a team that can 'create, sell, and dream'"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about building a team with Gal-chan!",
+      "background": "space",
+      "title": "Team 'psychological safety'",
+      "content": "Psychological safety: 'No matter what opinion I share, I won't be rejected.' This is the most important factor in the best teams, according to Google's research! If you're afraid of being thought stupid, your creativity will die.",
+      "emoji": "🛡️",
+      "highlight": "Google's 'Project Aristotle': Psychological safety is the most important factor in top teams"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about building a team with Gal-chan!",
+      "background": "ocean",
+      "title": "Role sharing and communication",
+      "content": "Clearly define who does what in a team. Use tools like Slack, Notion, and Trello to organize communication. Hold regular meetings to share information and synchronize!",
+      "emoji": "📋",
+      "highlight": "Startup communication tools: Slack, Notion, Figma, GitHub, Google Workspace"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about building a team with Gal-chan!",
+      "background": "city",
+      "title": "Having a mentor",
+      "content": "Almost all successful entrepreneurs have a mentor! Facebook's Zuckerberg consulted with Steve Jobs. Find a mentor in your local community, entrepreneur, or teacher!",
+      "emoji": "🧙",
+      "highlight": "Mentoring effect: Entrepreneurs with mentors have a 2-3 times higher success rate than those without"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about building a team with Gal-chan!",
+      "background": "classroom",
+      "title": "Using interns and part-time workers",
+      "content": "When you're short on manpower! Accept interns (unpaid or paid short-term students) to get new perspectives, skills, and energy from students. Reach out to universities and high schools!",
+      "emoji": "🎓",
+      "highlight": "Internships: Provide experience to students while securing low-cost talent for companies"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about building a team with Gal-chan!",
+      "background": "forest",
+      "title": "Overcoming team conflicts",
+      "content": "Conflicts are a sign of a growing team! The key is to discuss ideas, not attack people. When emotions run high, take a break and refocus on 'the team's goals'.",
+      "emoji": "💥",
+      "highlight": " 'Constructive conflict': Teams that overcome conflicts grow the strongest"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about building a team with Gal-chan!",
+      "background": "ocean",
+      "title": "Team building that strengthens the team",
+      "content": "Share experiences outside of work, such as eating together, going on retreats, playing games, or volunteering. The strongest team starts with a friendly team!",
+      "emoji": "🌟",
+      "highlight": "Team building investment: Improved team cohesion → significant improvements in productivity, creativity, and turnover rates"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've mastered the secret to the strongest team! Next, let's learn from failures 🎉",
+      "background": "space",
+      "title": "Lesson complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Get to Know Your Customers ~ Basics of Marketing ~",
+  "description": "Let's learn about getting to know our customers with Garu-chan in a fun way!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about marketing to understand our customers' hearts!",
+      "background": "city",
+      "title": "Get to Know Your Customers ~ Basics of Marketing ~",
+      "emoji": "📣",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about getting to know our customers with Garu-chan!",
+      "background": "classroom",
+      "title": "What is Marketing?",
+      "content": "Marketing = 'An activity to deliver what customers want, to those who want it, in the right way.' It's not just advertising! It includes market research → product development → pricing → advertising → sales → after-sales service!",
+      "emoji": "📢",
+      "highlight": "A good product doesn't sell itself! Even the best product won't sell if it's not delivered well"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about getting to know our customers with Garu-chan!",
+      "background": "ocean",
+      "title": "Create a Persona (Ideal Customer Image)",
+      "content": "Who you're selling to is the most important! Persona: ① Age, sex ② Where they live ③ What they're struggling with ④ What kind of life they lead ⑤ What they value — By drawing a specific image of one person, your product and advertising will hit the mark!",
+      "emoji": "👤",
+      "highlight": "Persona setting example: '35-year-old working mom struggling with short-time cooking' → Develop a product for this persona"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about getting to know our customers with Garu-chan!",
+      "background": "forest",
+      "title": "Understand the 4Ps (Marketing Mix)",
+      "content": "① Product (What to sell?) ② Price (How much to sell for?) ③ Place (Where to sell?) ④ Promotion (How to promote?) — Optimizing these 4Ps is a marketing strategy!",
+      "emoji": "🗂️",
+      "highlight": "Example of 4Ps: iPhone = High-quality product, high price, Apple Store, and perfect combination of 4Ps"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about getting to know our customers with Garu-chan!",
+      "background": "space",
+      "title": "Spread the Word for Free with SNS Marketing",
+      "content": "Instagram, TikTok, YouTube, X (Twitter) — Using SNS, you can broadcast to the whole country and world for free! Even 10-year-olds can do it. The 'quality' and 'continuity' of content are important. Aim for 100 followers first!",
+      "emoji": "📱",
+      "highlight": "TikTok fame → Product sells out overnight 'TikTok commerce': Young entrepreneurs are using it"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about getting to know our customers with Garu-chan!",
+      "background": "city",
+      "title": "Word-of-Mouth is the Strongest Marketing",
+      "content": "A friend's recommendation is more trustworthy than an ad. Intentionally creating word-of-mouth — Providing an experience, surprise, and excitement that makes users naturally share it!",
+      "emoji": "🗣️",
+      "highlight": "Effect of word-of-mouth: 5 times more trustworthy than ads. Customers who came through introduction have a lifetime value 4 times higher"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about getting to know our customers with Garu-chan!",
+      "background": "classroom",
+      "title": "How to Decide on a Price (Pricing Strategy)",
+      "content": "① Cost-based (cost + profit) ② Competitive comparison (match the market) ③ Value-based (set based on customer-perceived value) — 'Value-based' can set the highest price. Competing on 'cheapness' is the toughest strategy!",
+      "emoji": "💴",
+      "highlight": "Premium pricing strategy: Starbucks sells 'experience, place, and brand', not just 'coffee'"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about getting to know our customers with Garu-chan!",
+      "background": "forest",
+      "title": "Community Marketing that Creates Fans",
+      "content": "Collect 'likes' on SNS, hold events, and give special treatment to repeat customers — By making customers into fans, you can gather new customers without advertising costs. Having 1,000 true fans can make you profitable!",
+      "emoji": "🌟",
+      "highlight": "'1000 True Fans' theory: Having 1,000 die-hard fans, any creator can make a living"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about getting to know our customers with Garu-chan!",
+      "background": "ocean",
+      "title": "Digital Marketing that Improves with Data",
+      "content": "Google Analytics, Instagram Insights — Free tools show you 'who, when, what, and where users drop off' in numbers. Improving based on data can increase effectiveness by 10 times!",
+      "emoji": "📊",
+      "highlight": "A/B testing: A method to test two types of ads and landing pages to see 'which one works better' in numbers"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Master marketing! Next, practice your pitch 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

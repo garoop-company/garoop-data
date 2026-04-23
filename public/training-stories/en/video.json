@@ -1,0 +1,81 @@
+{
+  "title": "Video Training",
+  "description": "Let's start your video production training!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Welcome to Video Dojo! You can become a movie director with just one smartphone! 🎬",
+      "background": "dojo",
+      "title": "Welcome to Video Dojo!",
+      "content": "Video is a 'magic tool' that turns what you want to convey into images. Let's learn the three steps: planning, shooting, and editing!",
+      "emoji": "🎥",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "First, decide who you want to convey to, what you want to convey, and how you want to convey it!",
+      "background": "bamboo",
+      "title": "Planning Training",
+      "content": "Before making a video, write a 'planning document'. Even a 1-minute video requires planning!",
+      "emoji": "📋",
+      "highlight": "Three elements of a planning document:\nWho  → Friends of the same age\nWhat  → Introduction to your favorite game\nFeeling → I want you to feel excited"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Garuru will teach you camera tips! Remember the rule of thirds!",
+      "background": "mountain",
+      "title": "Shooting Training",
+      "content": "Divide the screen into thirds vertically and horizontally, and place important things at the intersections for a beautiful shot. This is the 'rule of thirds'!",
+      "emoji": "📐",
+      "highlight": "Three shooting tips:\n① Be aware of the rule of thirds\n② Light should come from in front of the face\n③ Move the camera slowly"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Let's have AI create a video script for us!",
+      "background": "dojo",
+      "title": "AI Script Training",
+      "content": "Try asking NotebookLM or Claude to 'create a script for a 1-minute video'. What kind of script will it create?",
+      "emoji": "📝",
+      "highlight": "Example prompt:\n'Create a script for a 1-minute video introducing your favorite game to elementary school students. Use 5 lines of dialogue.'"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You can also use AI to automatically generate videos with Veo!",
+      "background": "bamboo",
+      "title": "AI Video Generation Training",
+      "content": "Try using Veo, an AI that creates videos from text! Just enter words and it will create a moving image.",
+      "emoji": "🤖",
+      "highlight": "Let's try:\nAsk Veo to 'create a video of a energetic kangaroo jumping in a bamboo forest'!"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Video training complete! Share your video on Slack! 🎉",
+      "background": "temple",
+      "title": "Training Complete!",
+      "content": "You've mastered video production using planning, shooting, and AI! Show your completed video to everyone!",
+      "emoji": "🎬",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Tương lai của tiền bạc - Thay đổi cuộc sống với kiến thức tài chính",
+  "description": "Cùng tìm hiểu về AI, tiền bạc, tương lai tài chính và những điều bạn có thể làm!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng vẽ tương lai của tiền bạc! 🌟",
+      "background": "space",
+      "title": "Tương lai của tiền bạc",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Tương lai không dùng tiền mặt đã ở gần!",
+      "background": "city",
+      "title": "Xã hội không dùng tiền mặt",
+      "content": "Ở Thụy Điển, chỉ có dưới 8% người dân sử dụng tiền mặt. Ở Trung Quốc, Alipay và WeChat Pay đã làm cho tiền mặt gần như không cần thiết. Tỷ lệ không dùng tiền mặt ở Nhật Bản là 39% (năm 2023) và dự kiến sẽ tăng mạnh sau năm 2025!",
+      "emoji": "📱",
+      "highlight": "Tỷ lệ không dùng tiền mặt ở Hàn Quốc: trên 95%! Gần như không có cảnh sử dụng tiền mặt"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Thời đại AI quản lý tiền bạc sẽ đến!",
+      "background": "space",
+      "title": "AI và tài chính (Fintech)",
+      "content": "AI (trí tuệ nhân tạo) sẽ đảm nhiệm giao dịch chứng khoán, quản lý tài sản, xét duyệt khoản vay và quản lý chi tiêu. Robo-advisor sẽ tự động quyết định phân bổ tài sản và đầu tư! Phí dịch vụ thấp hơn nhiều so với cố vấn tài chính con người.",
+      "emoji": "🤖",
+      "highlight": "Robo-advisor: phí dịch vụ 0,5-1% mỗi năm cho đầu tư tự động. Chi phí chỉ bằng 1/5 đến 1/10 so với cố vấn tài chính con người"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "CBDC (tiền kỹ thuật số) là gì?",
+      "background": "ocean",
+      "title": "CBDC (tiền kỹ thuật số)",
+      "content": "Các ngân hàng trung ương của các quốc gia đang lên kế hoạch phát hành tiền kỹ thuật số. Tiền kỹ thuật số của Trung Quốc đã được thực hiện. Ngân hàng trung ương Nhật Bản cũng đang thử nghiệm 'tiền kỹ thuật số'. Ngày không dùng tiền mặt có thể đến gần!",
+      "emoji": "🏦",
+      "highlight": "Tiền kỹ thuật số của Trung Quốc: đã được thực hiện từ năm 2021. Hơn 200 triệu người đã sử dụng"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "DeFi (tài chính phân quyền) có thể làm cho ngân hàng trở nên không cần thiết?",
+      "background": "city",
+      "title": "DeFi (tài chính phân quyền)",
+      "content": "DeFi (Tài chính phân quyền) là các dịch vụ hoạt động trên blockchain giống như ngân hàng, công ty chứng khoán và công ty bảo hiểm. Bất kỳ ai cũng có thể sử dụng dịch vụ tài chính 24/7 mà không cần trung gian!",
+      "emoji": "🔗",
+      "highlight": "Tài sản tổng của DeFi: 2.500 tỷ USD (khoảng 35.000 tỷ yên) vào thời điểm cao nhất. đang phát triển nhanh chóng"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Làm thế nào để giảm khoảng cách giàu nghèo?",
+      "background": "forest",
+      "title": "Khoảng cách giàu nghèo và tài chính",
+      "content": "50% tài sản của thế giới thuộc về 1% người giàu nhất. Khoảng cách giàu nghèo đang ngày càng tăng. Nguyên nhân là do 'đầu tư - giáo dục - thừa kế'. Các giải pháp đang được thảo luận bao gồm: ① UBI (thu nhập cơ bản) ② Giáo dục tốt hơn ③ Phát triển kiến thức tài chính.",
+      "emoji": "⚖️",
+      "highlight": "Bill Gates, Buffett và những người khác đã hứa 'tặng 99% tài sản của mình' (Giving Pledge)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Đầu tư ESG có thể giúp thế giới trở nên tốt đẹp hơn!",
+      "background": "forest",
+      "title": "Đầu tư ESG và đầu tư tác động",
+      "content": "ESG: Môi trường (Environment) - Xã hội (Social) - Quản lý (Governance). Phong cách đầu tư này không chỉ tập trung vào lợi nhuận mà còn tác động tích cực đến xã hội và môi trường. đang phát triển nhanh chóng trên toàn thế giới.",
+      "emoji": "🌱",
+      "highlight": "Dư nợ đầu tư ESG: trên 45.000 tỷ USD (khoảng 6.000.000 tỷ yên) trên toàn thế giới! đang tăng lên hàng năm"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy suy nghĩ về 'sứ mệnh của tiền bạc' đối với bạn!",
+      "background": "candy",
+      "title": "Tiền bạc và giá trị cá nhân",
+      "content": "Tiền bạc không phải là mục đích mà là phương tiện. Bạn muốn thực hiện điều gì với tiền bạc? ① Ước mơ của bản thân ② Hạnh phúc của gia đình ③ Đóng góp cho xã hội ④ Tiếp tục làm điều mình yêu thích. Người có mục đích rõ ràng về tiền bạc sẽ trở nên giàu có hơn!",
+      "emoji": "💭",
+      "highlight": "'Tiền bạc mua tự do. Tự do là để theo đuổi ước mơ'"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Hành động để nâng cao kiến thức tài chính từ hôm nay!",
+      "background": "classroom",
+      "title": "Bắt đầu từ hôm nay",
+      "content": "① Ghi chép chi tiêu (ứng dụng 'Money Forward', 'Zaim') ② Ghi chép chi tiêu bằng sổ tay ③ Bắt đầu đầu tư tích lũy từ 100 yên ④ Đọc tin tức tài chính (bản điện tử Nikkei) mỗi tuần một lần. Những thói quen nhỏ sẽ thay đổi cuộc sống của bạn!",
+      "emoji": "📱",
+      "highlight": "'Money Forward': miễn phí kết nối với ngân hàng, chứng khoán, thẻ tín dụng. Tự động quản lý chi tiêu"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Trở thành chuyên gia tài chính! Mở ra tương lai với tiền bạc! 🎉",
+      "background": "space",
+      "title": "Hoàn thành loạt bài tài chính!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

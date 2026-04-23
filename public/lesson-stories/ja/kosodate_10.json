@@ -1,0 +1,132 @@
+{
+  "title": "子育ての未来〜愛こそが最高の教育〜",
+  "description": "ガルちゃんと楽しく子育ての未来を学ぼう！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "子育てシリーズの総まとめ！愛の子育て学を学ぼう！",
+      "background": "candy",
+      "title": "子育ての未来〜愛こそが最高の教育〜",
+      "emoji": "💕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「子育ての未来〜愛こそが最高の教育〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと子育ての未来を学ぼう！",
+      "background": "classroom",
+      "title": "子育て10のまとめ",
+      "content": "①愛着形成②脳発達の環境③遊び④食育⑤感情教育⑥デジタルとの付き合い方⑦グローバル教育⑧運動⑨地域とのつながり⑩自己肯定感——これらすべての根底にあるのは「愛」です！",
+      "emoji": "💕",
+      "highlight": "子育ての最も重要な変数：親子の「愛着」の質（ほぼすべての研究が一致）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと子育ての未来を学ぼう！",
+      "background": "space",
+      "title": "「自己肯定感」が最高の贈り物",
+      "content": "「あなたはそのままで素晴らしい」——自己肯定感（セルフエスティーム）が高い子供は挑戦力・回復力・幸福感が高い。日本の子供の自己肯定感は先進国最低水準。毎日の「あなたを愛している」が変える！",
+      "emoji": "🌟",
+      "highlight": "日本の高校生の自己肯定感：7か国比較で最低（国立青少年教育振興機構2021年）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと子育ての未来を学ぼう！",
+      "background": "ocean",
+      "title": "親自身が幸せであること",
+      "content": "「飛行機が揺れたらまず自分の酸素マスクをつけてから子供に」——親が幸せでなければ子供も幸せにはなりにくい。親自身の休息・趣味・友人関係・メンタルケアが最高の子育て環境を作ります！",
+      "emoji": "✈️",
+      "highlight": "親の心理的ウェルビーイング：子供の情緒的安定と直接相関する（発達心理学の基本知見）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと子育ての未来を学ぼう！",
+      "background": "city",
+      "title": "完璧な親なんていない",
+      "content": "すべての親は失敗します。感情的に怒ってしまう・仕事で構えない日がある——それは当然のこと。大切なのは「ごめんね、さっきは怒りすぎた」と言える「修復（repair）」の力！",
+      "emoji": "🤗",
+      "highlight": "「十分に良い親（good enough parent）」：完璧を目指さず、子供との関係修復が鍵（ウィニコット）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと子育ての未来を学ぼう！",
+      "background": "forest",
+      "title": "AIと未来の子育て",
+      "content": "AIが子供の学習をパーソナライズ・ロボットが一緒に遊ぶ・スマートデバイスで安全を見守る——テクノロジーが子育てをサポートする未来が来ています。でも「愛情と絆」だけは人間にしか与えられません！",
+      "emoji": "🤖",
+      "highlight": "AI教育ツール：子供一人ひとりの学習スタイル・進捗に合わせた個別最適化が可能に"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと子育ての未来を学ぼう！",
+      "background": "classroom",
+      "title": "「子供から学ぶ」親の成長",
+      "content": "子育ては親も成長する旅！子供の無限の好奇心・正直さ・今を生きる力——子供から学ぶことが親の人生を豊かにします。子育ては一方通行でなく「共に育つ（共育）」プロセスです！",
+      "emoji": "🌱",
+      "highlight": "「子どもは親の鏡」：子供の問題が親自身のの課題を映し出すことも"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと子育ての未来を学ぼう！",
+      "background": "space",
+      "title": "多様な家族の形を受け入れよう",
+      "content": "核家族・一人親家庭・ステップファミリー・共働き・主夫・同性カップルの親——家族の形は多様です。どんな形であれ「愛と安全」があれば子供は健やかに育てます。完璧な家族などない！",
+      "emoji": "🌈",
+      "highlight": "様々な家族形態：愛着の質が家族の形より子供の発達に大きく影響する"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと子育ての未来を学ぼう！",
+      "background": "candy",
+      "title": "未来の子育て世代へのメッセージ",
+      "content": "あなたが学んでいるこのレッスンが未来の子供たちに繋がります。子育ての知識・愛情・地域のつながり——これらを持った大人が増えることで、日本の子供たちが輝く未来が生まれます。あなたが未来を変える！",
+      "emoji": "🌟",
+      "highlight": "子育て支援に関わる全ての人：先生・保育士・医師・地域の人——社会全体で子育てを！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "子育てシリーズ完全制覇！あなたが未来の子育て達人！🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

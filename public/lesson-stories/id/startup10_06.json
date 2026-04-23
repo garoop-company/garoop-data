@@ -1,0 +1,131 @@
+{
+  "title": "Mari Kita Bangun Tim ~Rahasia Tim Terkuat~",
+  "description": "Mari kita pelajari tentang membangun tim dengan Gal-chan dengan cara yang menyenangkan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari cara membangun tim terkuat!",
+      "background": "city",
+      "title": "Mari Kita Bangun Tim ~Rahasia Tim Terkuat~",
+      "emoji": "🤝",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang membangun tim dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Mengapa kita membutuhkan tim?",
+      "content": "Ada batasan pada apa yang dapat dilakukan satu orang. Apple: Steve Jobs (visi) + Wozniak (teknologi). Google: Larry Page + Sergey Brin. Perusahaan terbaik lahir dari tim terbaik!",
+      "emoji": "👥",
+      "highlight": "Tingkat keberhasilan startup: Perusahaan dengan pendiri ganda memiliki tingkat keberhasilan lebih tinggi daripada pendiri tunggal (berbagai studi)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang membangun tim dengan Gal-chan!",
+      "background": "forest",
+      "title": "3 jenis orang yang dibutuhkan dalam tim",
+      "content": "① Visioner (pemimpi: ide dan visi) ② Hustler (penjualan dan pengembangan bisnis) ③ Hacker (teknologi dan pengembangan produk) - Tim dengan ketiga jenis ini adalah tim terkuat! Jenis apa kamu?",
+      "emoji": "🎭",
+      "highlight": "3 jenis tim: Setiap jenis melengkapi yang lain untuk membuat tim yang dapat 'menciptakan, menjual, dan bermimpi'"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang membangun tim dengan Gal-chan!",
+      "background": "space",
+      "title": "Tim 'keamanan psikologis'",
+      "content": "Keamanan psikologis: 'Tidak peduli apa pendapat saya, saya tidak akan ditolak.' Ini adalah faktor paling penting dalam tim terbaik, menurut penelitian Google! Jika kamu takut dianggap bodoh, kreativitasmu akan mati.",
+      "emoji": "🛡️",
+      "highlight": "Penelitian Google 'Proyek Aristoteles': Keamanan psikologis adalah faktor paling penting dalam tim top"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang membangun tim dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Pembagian peran dan komunikasi",
+      "content": "Jelaskan dengan jelas siapa yang melakukan apa dalam tim. Gunakan alat seperti Slack, Notion, dan Trello untuk mengatur komunikasi. Lakukan pertemuan rutin untuk berbagi informasi dan menyinkronkan!",
+      "emoji": "📋",
+      "highlight": "Alat komunikasi startup: Slack, Notion, Figma, GitHub, Google Workspace"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang membangun tim dengan Gal-chan!",
+      "background": "city",
+      "title": "Memiliki mentor",
+      "content": "Hampir semua pengusaha sukses memiliki mentor! Zuckerberg dari Facebook berkonsultasi dengan Steve Jobs. Cari mentor di komunitas lokal, pengusaha, atau guru!",
+      "emoji": "🧙",
+      "highlight": "Efek mentoring: Pengusaha dengan mentor memiliki tingkat keberhasilan 2-3 kali lebih tinggi daripada mereka yang tidak"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang membangun tim dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Menggunakan magang dan pekerja paruh waktu",
+      "content": "Ketika kamu kekurangan tenaga! Terima magang (siswa jangka pendek berbayar atau tidak berbayar) untuk mendapatkan perspektif baru, keterampilan, dan energi dari siswa. Hubungi universitas dan sekolah menengah!",
+      "emoji": "🎓",
+      "highlight": "Magang: Menyediakan pengalaman bagi siswa sambil mengamankan talenta berbiaya rendah bagi perusahaan"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari tentang membangun tim dengan Gal-chan!",
+      "background": "forest",
+      "title": "Mengatasi konflik tim",
+      "content": "Konflik adalah tanda tim yang sedang tumbuh! Kunci adalah membahas ide, bukan menyerang orang. Ketika emosi meningkat, ambil jeda dan fokus kembali pada 'tujuan tim'.",
+      "emoji": "💥",
+      "highlight": " 'Konflik konstruktif': Tim yang mengatasi konflik tumbuh menjadi yang terkuat"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang membangun tim dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Membangun tim yang memperkuat tim",
+      "content": "Bagikan pengalaman di luar pekerjaan, seperti makan bersama, pergi ke retret, bermain game, atau melakukan kegiatan sukarela. Tim terkuat dimulai dengan tim yang ramah!",
+      "emoji": "🌟",
+      "highlight": "Investasi membangun tim: Meningkatkan kohesi tim → perbaikan signifikan dalam produktivitas, kreativitas, dan tingkat perputaran"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kamu telah menguasai rahasia tim terkuat! Selanjutnya, mari kita pelajari dari kegagalan 🎉",
+      "background": "space",
+      "title": "Pelajaran selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

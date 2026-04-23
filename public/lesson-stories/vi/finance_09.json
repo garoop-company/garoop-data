@@ -1,0 +1,131 @@
+{
+  "title": "Khởi nghiệp và tiền bạc - Bí mật huy động vốn",
+  "description": "Tiền để bắt đầu kinh doanh đến từ đâu? Hãy tìm hiểu về huy động vốn!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy tìm hiểu cách huy động tiền để khởi nghiệp! 💼",
+      "background": "city",
+      "title": "Khởi nghiệp và tiền bạc",
+      "emoji": "💼",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Khởi nghiệp cần bao nhiêu tiền?",
+      "background": "classroom",
+      "title": "Vốn cần thiết để khởi nghiệp",
+      "content": "Số tiền cần thiết cho một doanh nghiệp phụ thuộc vào ngành nghề! Nhà hàng: 5-20 triệu yên. Dịch vụ web: 1-50 triệu yên. Ứng dụng: 5-100 triệu yên. Gần đây, có những doanh nghiệp bắt đầu với 0 yên bằng một chiếc điện thoại thông minh!",
+      "emoji": "💰",
+      "highlight": "Dịch vụ web, ứng dụng có thể bắt đầu với 'khởi đầu nhỏ' 10-100 triệu yên!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tự có, bootstrapping là gì?",
+      "background": "forest",
+      "title": "Bắt đầu bằng vốn tự có",
+      "content": "Bắt đầu kinh doanh bằng tiền của chính mình được gọi là 'bootstrapping'. Không lấy vốn từ bên ngoài nên có độ tự do cao. 37signals (công ty phát triển Basecamp và HEY) và nhiều doanh nghiệp thành công khác bắt đầu bằng vốn tự có.",
+      "emoji": "👟",
+      "highlight": "Lợi ích của bootstrapping: Không pha loãng cổ phần, có thể điều hành theo tốc độ của mình"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Vay ngân hàng, cho vay như thế nào?",
+      "background": "city",
+      "title": "Vay ngân hàng và Cơ quan Tài chính Chính sách Nhật Bản",
+      "content": "Có thể vay tiền từ ngân hàng để tài trợ cho dự án. Cơ quan Tài chính Chính sách Nhật Bản nổi tiếng với khoản vay lãi suất thấp cho thanh niên, phụ nữ và doanh nhân. Nếu nộp kế hoạch kinh doanh và vượt qua xét duyệt, có thể vay hàng chục đến hàng trăm triệu yên!",
+      "emoji": "🏦",
+      "highlight": "Cơ quan Tài chính Chính sách Nhật Bản: Không cần thế chấp, không cần bảo lãnh, vay tối đa 720 triệu yên"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Trợ cấp, hỗ trợ là 'tiền không cần trả lại'!",
+      "background": "ocean",
+      "title": "Sử dụng trợ cấp, hỗ trợ",
+      "content": "Trợ cấp, hỗ trợ do chính phủ hoặc chính quyền địa phương cung cấp là tiền không cần trả lại! Hỗ trợ doanh nghiệp nhỏ, hỗ trợ sản xuất, hỗ trợ công nghệ thông tin... Mỗi năm có nhiều chương trình khác nhau. Chỉ có thể nộp đơn là doanh nhân!",
+      "emoji": "🎁",
+      "highlight": "Ví dụ trợ cấp: Hỗ trợ doanh nghiệp nhỏ - tối đa 200 triệu yên (không cần trả lại)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Nhà đầu tư thiên thần là gì?",
+      "background": "space",
+      "title": "Nhà đầu tư thiên thần và VC",
+      "content": "Nhà đầu tư thiên thần: Cá nhân giàu có đầu tư vào doanh nhân (vài trăm triệu đến vài tỷ yên). VC (vốn đầu tư mạo hiểm): Quỹ chuyên nghiệp đầu tư vào startup hứa hẹn (vài tỷ đến vài chục tỷ yên). Đổi lại, họ nhận một phần cổ phần.",
+      "emoji": "👼",
+      "highlight": "Số tiền đầu tư của VC Nhật Bản: khoảng 1 nghìn tỷ yên/năm (2023). Mỹ là hơn 20 nghìn tỷ yên"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Thực hiện ước mơ bằng crowdfunding!",
+      "background": "city",
+      "title": "Crowdfunding",
+      "content": "Crowdfunding là hình thức huy động vốn từ nhiều người. Sử dụng các nền tảng như Kickstarter, Indiegogo, Makuake... Cách mạng mới cho phép huy động vốn trước khi phát triển sản phẩm!",
+      "emoji": "🌐",
+      "highlight": "Pebble Watch: Kickstarter huy động hơn 3000% số tiền mục tiêu (2012)"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Ý tưởng kinh doanh của bạn cần bao nhiêu tiền?",
+      "background": "candy",
+      "title": "Lập kế hoạch tài chính!",
+      "content": "Nếu bạn bắt đầu kinh doanh, bạn cần gì? ① Chi phí ban đầu (thiết bị, hàng tồn kho...), ② Chi phí hàng tháng (lương, thuê mặt bằng, nguyên liệu), ③ Khi nào có lãi. Viết ra để phát triển tư duy kinh doanh!",
+      "emoji": "📋",
+      "highlight": "Mô hình kinh doanh: Doanh thu - Chi phí = Lợi nhuận. Hãy nhớ công thức này!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Một số doanh nhân coi IPO (niêm yết cổ phiếu) là mục tiêu!",
+      "background": "classroom",
+      "title": "Exit (chiến lược thoát) và IPO",
+      "content": "Mục tiêu cuối cùng của startup thường là ① IPO (niêm yết trên thị trường chứng khoán) hoặc ② M&A (bị một công ty lớn mua lại). M&A lớn nhất Nhật Bản: SoftBank mua ARM với 400 tỷ đô la Mỹ (khoảng 6 nghìn tỷ yên) (2016).",
+      "emoji": "🏆",
+      "highlight": "M&A cao nhất (Nhật Bản): Takeda Pharmaceutical mua Shire với khoảng 6,2 nghìn tỷ yên (2019)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn đã học về cơ chế huy động vốn! Tiếp theo là tương lai của tiền bạc 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

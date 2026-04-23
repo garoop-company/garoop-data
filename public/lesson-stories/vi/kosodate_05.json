@@ -1,0 +1,131 @@
+{
+  "title": "Giáo dục cảm xúc và sự đồng cảm - Phát triển EQ",
+  "description": "Học cảm xúc và đồng cảm với Garu chan một cách thú vị!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Nuôi dưỡng cảm xúc của trẻ! Học khoa học EQ!",
+      "background": "candy",
+      "title": "Giáo dục cảm xúc và sự đồng cảm - Phát triển EQ",
+      "emoji": "💕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Học cảm xúc và đồng cảm với Garu chan!",
+      "background": "classroom",
+      "title": "EQ (Trí tuệ cảm xúc) là gì",
+      "content": "EQ (Trí tuệ cảm xúc) = ① Nhận biết cảm xúc của bản thân② Quản lý cảm xúc③ Hiểu cảm xúc của người khác (đồng cảm)④ Quản lý mối quan hệ tốt - 4 kỹ năng. Tương quan với hạnh phúc và thành công trong cuộc sống hơn IQ!",
+      "emoji": "❤️",
+      "highlight": "IQ vs EQ: IQ chỉ giải thích 20% thành công. 80% còn lại là EQ và các yếu tố khác (Goleman)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Học cảm xúc và đồng cảm với Garu chan!",
+      "background": "forest",
+      "title": "Cảm xúc có 'tên' nhé",
+      "content": "Khi trẻ giận, thay vì 'Cái gì thế!' hãy nói 'Giờ con đang rất giận nhé' để gắn nhãn cảm xúc (gắn nhãn cảm xúc). Khi có thể diễn đạt cảm xúc của mình bằng ngôn ngữ, trẻ sẽ phát triển khả năng tự kiểm soát và đồng cảm!",
+      "emoji": "🏷️",
+      "highlight": "Gắn nhãn cảm xúc: Giảm 30% phản ứng não đối với cảm xúc giận dữ (Nghiên cứu khoa học thần kinh UCLA)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Học cảm xúc và đồng cảm với Garu chan!",
+      "background": "ocean",
+      "title": "Cách nuôi dưỡng sự đồng cảm",
+      "content": "Hãy hỏi trẻ 'Người khác cảm thấy thế nào?' và biến nó thành thói quen. Thông qua sách tranh, phim ảnh, chơi vai (trò chơi giả tưởng) để tưởng tượng và trải nghiệm các vị trí và cảm xúc của nhiều người khác nhau sẽ nuôi dưỡng sự đồng cảm!",
+      "emoji": "🤝",
+      "highlight": "Trẻ có sự đồng cảm cao: Ít bắt nạt, mối quan hệ bạn bè tốt, lãnh đạo trong tương lai cao"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Học cảm xúc và đồng cảm với Garu chan!",
+      "background": "space",
+      "title": "Cách đối phó với 'giận dữ'",
+      "content": "Giận dữ không phải là cảm xúc xấu! Vấn đề nằm ở cách thể hiện. ① Hít thở sâu (10 giây)② Thể hiện cảm xúc bằng lời nói③ Làm dịu cảm xúc - Thực hành 3 bước này từ khi còn nhỏ sẽ giúp phát triển khả năng kiểm soát cảm xúc!",
+      "emoji": "😤",
+      "highlight": "'Quy tắc 6 giây': Đỉnh điểm của cơn giận dữ là 6 giây. Nếu hít thở sâu trong thời gian đó, có thể kiềm chế hành vi cảm xúc"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Học cảm xúc và đồng cảm với Garu chan!",
+      "background": "classroom",
+      "title": "Tác động của 'cảm ơn' lên não bộ",
+      "content": "Thể hiện lòng biết ơn giúp tăng cảm giác hạnh phúc, ngăn ngừa trầm cảm và tăng cường mối quan hệ xã hội. Viết 'nhật ký biết ơn' hàng ngày với 3 điều 'tốt' và 'biết ơn' sẽ tăng cường sức khỏe tâm thần của trẻ!",
+      "emoji": "🙏",
+      "highlight": "Nhật ký biết ơn: Chỉ cần viết 3 lần/tuần có thể tăng 25% cảm giác hạnh phúc (Nghiên cứu của Emmons & McCullough)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Học cảm xúc và đồng cảm với Garu chan!",
+      "background": "city",
+      "title": "Tự thương xót khi thất bại",
+      "content": "Tự thương xót bản thân khác với tự chỉ trích. Khi thất bại, thay vì trách móc 'Tệ quá!', hãy nghĩ rằng 'Mọi người đều thất bại, hãy sử dụng nó cho lần sau' để phát triển khả năng phục hồi tinh thần!",
+      "emoji": "🌸",
+      "highlight": "Tự thương xót: Khác với tự chỉ trích, phục hồi nhanh hơn từ thất bại và tăng khả năng thách thức (Nghiên cứu của Neff)"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Học cảm xúc và đồng cảm với Garu chan!",
+      "background": "ocean",
+      "title": "Vấn đề sức khỏe tâm thần ở trẻ em",
+      "content": "Số lượng học sinh không đến trường ở Nhật Bản cao nhất từ trước đến nay (hơn 290.000, 2022). Bảo vệ sức khỏe tâm thần của trẻ em là nhiệm vụ cấp thiết. Các dấu hiệu: ① Rối loạn giấc ngủ② Thay đổi cảm giác thèm ăn③ Tránh né xã hội - Phụ huynh cần phát hiện và tham khảo ý kiến chuyên gia!",
+      "emoji": "🆘",
+      "highlight": "Không đến trường: Hơn 290.000 (2022). Tăng đột biến sau COVID-19. Phát hiện sớm và tư vấn chuyên gia rất quan trọng"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Học cảm xúc và đồng cảm với Garu chan!",
+      "background": "forest",
+      "title": "'Sách tranh' là công cụ mạnh nhất cho giáo dục cảm xúc",
+      "content": "Trẻ em phát triển khả năng đồng cảm, từ vựng cảm xúc và tưởng tượng khi chúng đồng cảm với cảm xúc của nhân vật trong sách tranh. Các sách tranh như 'Mofi the Rabbit', 'That Girl', 'The Paper Bag Princess'... mô tả nhiều cảm xúc khác nhau và giúp nuôi dưỡng tâm hồn trẻ em!",
+      "emoji": "📚",
+      "highlight": "Đọc sách trước khi ngủ: Tác động tích cực đến vốn từ, khả năng đồng cảm, tưởng tượng và gắn kết gia đình (nhiều nghiên cứu)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Học cảm xúc rồi! Tiếp theo là nuôi dạy con trong thời đại kỹ thuật số",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

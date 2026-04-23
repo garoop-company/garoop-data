@@ -1,0 +1,81 @@
+{
+  "title": "Nhiệm vụ tạo slide với NotebookLM",
+  "description": "Nhiệm vụ gián điệp tạo slide với NotebookLM!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đại lý, có thể nghe thấy tôi không? Bây giờ tôi sẽ bắt đầu thông báo nhiệm vụ! 🕵️",
+      "background": "hq",
+      "title": "Chỉ thị nhiệm vụ!",
+      "content": "Nhiệm vụ: Sử dụng NotebookLM để tạo slide! Chọn một chủ đề bạn muốn tìm hiểu và tóm tắt thành 3 trang slide.",
+      "emoji": "📊",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "NotebookLM là 'vũ khí mạnh nhất để tổ chức thông tin'!",
+      "background": "spy",
+      "title": "Mô tả vũ khí",
+      "content": "Khi bạn nhập dữ liệu (bài viết, URL, v.v.) vào NotebookLM, AI sẽ phân tích nội dung cho bạn.",
+      "emoji": "🔍",
+      "highlight": "Cách sử dụng NotebookLM:\n1. Mở notebooklm.google.com\n2. Tạo sổ tay mới\n3. Thêm tài liệu\n4. Yêu cầu AI hỗ trợ"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chọn chủ đề là nhiệm vụ đầu tiên!",
+      "background": "hq",
+      "title": "Chọn chủ đề",
+      "content": "Chọn một chủ đề bạn muốn giới thiệu trong slide. Bất kỳ điều gì bạn quan tâm đều được!",
+      "emoji": "🎯",
+      "highlight": "Ví dụ về chủ đề:\n・Bí mật của động vật yêu thích\n・Những điều kỳ lạ của vũ trụ\n・Sự nóng lên toàn cầu\n・Lịch sử của trò chơi yêu thích"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Hãy gửi lời nhắc này đến NotebookLM!",
+      "background": "lab",
+      "title": "Thực hiện kế hoạch!",
+      "content": "Mở NotebookLM, thêm tài liệu và sử dụng lời nhắc dưới đây để tạo slide!",
+      "emoji": "💻",
+      "highlight": "Lời nhắc có thể sử dụng:\n「Vui lòng tạo slide 3 trang cho nội dung này.\nMỗi trang có tiêu đề và\nmô tả ngắn。」"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Khi slide được tạo, hãy kiểm tra lại!",
+      "background": "spy",
+      "title": "Kiểm tra điều kiện hoàn thành",
+      "content": "Để hoàn thành nhiệm vụ, hãy kiểm tra 3 điều kiện sau!",
+      "emoji": "✅",
+      "highlight": "Điều kiện hoàn thành:\n□ Hoàn thành 3 trang slide\n□ Thay thế từ ngữ khó bằng từ ngữ dễ hiểu\n□ Cuối cùng có ý kiến ​​của riêng bạn"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Nhiệm vụ hoàn thành! Chụp ảnh màn hình và nhận 300 điểm! 🎯",
+      "background": "hq",
+      "title": "Báo cáo hoàn thành nhiệm vụ",
+      "content": "Tuyệt vời! Khi slide được hoàn thành, hãy gửi ảnh chụp màn hình hoặc văn bản đến Slack để nhận điểm!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Luyện tập lập trình",
+  "description": "Hãy rèn luyện khả năng viết mã!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chào mừng đến với lò rèn luyện lập trình! Hãy sử dụng mã để tạo ra phép thuật! 💻",
+      "background": "mountain",
+      "title": "Lò rèn luyện lập trình",
+      "content": "Lập trình là một cuốn sổ tay chỉ dẫn cho máy tính. Hãy bắt đầu với những chỉ dẫn đơn giản và dần dần bạn sẽ có thể tạo ra những phép thuật khó khăn hơn!",
+      "emoji": "💻",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Trước tiên, hãy học về biến số. Hãy tưởng tượng đó là việc đặt tên cho một cái hộp! ",
+      "background": "dojo",
+      "title": "Luyện tập biến số",
+      "content": "Biến số là một cái hộp để chứa dữ liệu. Bạn có thể đặt tên cho cái hộp và chứa những thứ bạn thích vào đó.",
+      "emoji": "📦",
+      "highlight": "Ví dụ:\nname = \"Garu chan\"\nage = 5\nfavorite = \"Trúc\""
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Sử dụng vòng lặp (loop) để không phải làm đi làm lại một việc gì đó nhiều lần! ",
+      "background": "bamboo",
+      "title": "Luyện tập vòng lặp",
+      "content": "Vòng lặp là việc lặp lại một chỉ dẫn nhiều lần. Ví dụ, bạn có thể viết đi viết lại \"Hãy đi!\" 3 lần một cách dễ dàng.",
+      "emoji": "🔄",
+      "highlight": "Ví dụ:\nfor i in range(3):\n    print(\"Cố gắng lên!\")"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Nếu bạn có thể sử dụng phân nhánh điều kiện \"nếu ~ thì\", chương trình của bạn sẽ trở nên thông minh hơn! ",
+      "background": "mountain",
+      "title": "Luyện tập phân nhánh điều kiện",
+      "content": "Nếu bạn có thể nói rằng \"nếu là thế này thì làm thế này, nếu không thì làm thế kia\", chương trình của bạn sẽ có thể lựa chọn.",
+      "emoji": "🤔",
+      "highlight": "Ví dụ:\nif score > 80:\n    print(\"Tuyệt vời!\")\nelse:\n    print(\"Lần sau cố gắng hơn\")"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy yêu cầu Codex tạo một trò chơi kéo co cho bạn! ",
+      "background": "dojo",
+      "title": "Thực hành! Trò chơi kéo co",
+      "content": "Hãy sử dụng AI Codex để tạo một mã trò chơi kéo co. Bạn sẽ nhận được mã gì?",
+      "emoji": "✊",
+      "highlight": "Thử thách:\nHãy hỏi Codex!\n\"Tạo một trò chơi kéo co bằng Python\nvà giải thích\""
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Luyện tập lập trình đã hoàn thành! Hãy trình bày những gì bạn đã làm trên Slack 🎉",
+      "background": "temple",
+      "title": "Hoàn thành!",
+      "content": "Bạn đã có 3 vũ khí là biến số, vòng lặp và phân nhánh điều kiện. Hãy thử thách bản thân với một chương trình nguyên gốc!",
+      "emoji": "⚔️",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

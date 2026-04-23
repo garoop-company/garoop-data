@@ -1,0 +1,131 @@
+{
+  "title": "0〜3岁大脑发育〜婴儿的脑内〜",
+  "description": "和Garu一起愉快地学习0！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "一起来揭开婴儿大脑的秘密！",
+      "background": "space",
+      "title": "0〜3岁大脑发育〜婴儿的脑内〜",
+      "emoji": "🧠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习0！",
+      "background": "classroom",
+      "title": "婴儿的大脑比宇宙还复杂！",
+      "content": "出生时，婴儿的大脑已经拥有1000亿个神经细胞！之后到3岁，形成功能的神经连接（シナプス）达到100兆个。就像宇宙中的星星数量一样，大脑中形成了许多连接。",
+      "emoji": "🌌",
+      "highlight": "婴儿大脑神经细胞：1000亿个。シナプス连接在3岁时达到最大100兆个以上！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习0！",
+      "background": "ocean",
+      "title": "了解语言的关键期",
+      "content": "语言习得有一个关键期（sensitive period）。在3岁之前接触多种语言，可以像母语一样掌握多语言！这是双语教育在幼儿中有效的科学依据。",
+      "emoji": "🗣️",
+      "highlight": "双语教育：在3岁之前开始，可以像母语一样掌握第二语言"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习0！",
+      "background": "forest",
+      "title": "音乐与大脑的关系",
+      "content": "听音乐和演奏可以广泛激活大脑。特别是3〜5岁开始学习乐器的孩子，语言能力、数学能力和注意力都较高。虽然“莫扎特效应”没有被证实，但音乐教育的效应已经被科学证实！",
+      "emoji": "🎵",
+      "highlight": "学习乐器的孩子：在语言、记忆和注意力测试中比不学习乐器的孩子得分更高（多项研究）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习0！",
+      "background": "classroom",
+      "title": "睡眠促进大脑发育",
+      "content": "儿童的生长激素在睡眠中分泌！3岁儿童应睡12〜14小时，小学生应睡10〜11小时。午睡对记忆巩固也很重要。睡前玩手机、游戏会对儿童的大脑发育造成很大损害！",
+      "emoji": "😴",
+      "highlight": "生长激素：90%以上在睡眠中（特别是在非REM睡眠阶段）分泌"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习0！",
+      "background": "space",
+      "title": "培养情绪调节能力（EQ）",
+      "content": "IQ（智商）不如EQ（情商）能预测人生的成功！控制愤怒、焦虑、悲伤等情绪的能力称为“情绪调节能力”，在3〜6岁时发展。家长支持孩子表达情绪很重要。",
+      "emoji": "💕",
+      "highlight": "EQ和IQ：在人生的长期成功中，EQ比IQ更有影响力（戈尔曼研究）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习0！",
+      "background": "city",
+      "title": "对大脑最坏的影响：慢性压力",
+      "content": "慢性压力（虐待、贫困、家庭不和）会对儿童的大脑（特别是扁桃体和前额叶皮层）造成实际的物理损害。一个安全和安心的家庭环境是脑部发育的必要条件。",
+      "emoji": "⚠️",
+      "highlight": "慢性压力下的孩子：皮质醇（压力激素）会使海马体萎缩"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习0！",
+      "background": "forest",
+      "title": "营养与大脑发育的关系",
+      "content": "大脑只占体重的2%，但却消耗20%的能量。母乳、DHA、铁、维生素D等营养素支持大脑发育。偏食的孩子尤其需要注意缺乏的营养素！",
+      "emoji": "🥦",
+      "highlight": "DHA（鱼油）：大脑神经膜的主要成分。许多研究表明，儿童摄入DHA可以提高认知功能"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习0！",
+      "background": "classroom",
+      "title": "自然体验对大脑的影响",
+      "content": "户外活动和自然体验可以培养好奇心、风险判断能力、运动神经、免疫功能和创造力。在现代，“自然缺乏综合征”的概念备受关注，有意识地创造户外活动时间非常重要！",
+      "emoji": "🌿",
+      "highlight": "每周2小时以上的自然体验：健康、幸福感和创造力显著提高（国际研究）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "揭开婴儿大脑的秘密！接下来是游戏的科学 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -12,7 +12,10 @@
       "background": "candy",
       "title": "ゲーム開発の世界へ！",
       "emoji": "🎮",
-      "effects": ["sparkle"]
+      "effects": [
+        "sparkle"
+      ],
+      "content": "このレッスンでは「ゲームを作ろう！」をテーマに、ゲーム開発の考え方と作り方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
     },
     {
       "id": 2,
@@ -119,7 +122,10 @@
       "background": "space",
       "title": "レッスン完了！",
       "emoji": "🏆",
-      "effects": ["confetti", "stars"]
+      "effects": [
+        "confetti",
+        "stars"
+      ]
     }
   ]
 }

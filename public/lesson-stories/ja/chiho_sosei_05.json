@@ -1,0 +1,132 @@
+{
+  "title": "移住・定住促進〜地方で暮らす新しい生き方〜",
+  "description": "ガルちゃんと楽しく移住・定住促進を学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "地方に移住するという選択肢を一緒に学ぼう！",
+      "background": "forest",
+      "title": "移住・定住促進〜地方で暮らす新しい生き方〜",
+      "emoji": "🏠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「移住・定住促進〜地方で暮らす新しい生き方〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと移住・定住促進を学ぼう！",
+      "background": "classroom",
+      "title": "移住・定住とは？",
+      "content": "都市から地方へ拠点を移すこと（移住）や、地域に根付いて長く暮らすこと（定住）を促進する政策が進んでいます。政府・自治体が移住費用の補助・仕事紹介・住宅支援などを提供！",
+      "emoji": "🏡",
+      "highlight": "移住相談件数：2022年に過去最多（国の支援窓口「ふるさと回帰支援センター」）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと移住・定住促進を学ぼう！",
+      "background": "ocean",
+      "title": "移住支援制度ってどんなもの？",
+      "content": "①移住補助金（最大100万円以上の自治体も）②家賃補助③空き家リノベーション補助④就農支援⑤保育料無償化など、地方移住を後押しする手厚い支援が充実しています！",
+      "emoji": "💰",
+      "highlight": "移住補助金例：島根県は子育て世帯に最大最大150万円を支給！"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと移住・定住促進を学ぼう！",
+      "background": "forest",
+      "title": "地域おこし協力隊とは？",
+      "content": "地域おこし協力隊は都市から地方に移住して地域活性化に取り組む国の制度。最長3年間、月給（約17万円）と活動費が支給されます。2023年は全国6,000人超が活動中！",
+      "emoji": "👥",
+      "highlight": "地域おこし協力隊：隊員数が急増、2022年：6,447人（過去最多）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと移住・定住促進を学ぼう！",
+      "background": "space",
+      "title": "リモートワーカーが地方を変える",
+      "content": "IT・デザイン・ライター・コンサルタントなど、場所を選ばない仕事を持つ人が地方移住を選ぶケースが増加。地方に住みながら都市の会社に勤務——「二地域居住」も新しいスタイル！",
+      "emoji": "💻",
+      "highlight": "二地域居住：東京に会社を持ちながら地方にも家を持つ人が増加中"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと移住・定住促進を学ぼう！",
+      "background": "city",
+      "title": "空き家バンクの活用",
+      "content": "全国に900万戸の空き家。自治体が「空き家バンク（無料・低価格で物件情報を公開）」を運営。古民家をリノベしてカフェ・宿・シェアオフィスにする事例が急増。100万円以下の物件も！",
+      "emoji": "🏚️",
+      "highlight": "全国空き家バンク登録物件：1万件超（2023年）。100万円以下も多数"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと移住・定住促進を学ぼう！",
+      "background": "forest",
+      "title": "子育て移住でいい環境を手に入れる",
+      "content": "東京で3LDKを買うと7,000〜8,000万円以上。地方なら500〜1,000万円で戸建て・広い庭付き！教育費・医療費の無償化を進める自治体も多く、子育て世帯の移住が急増しています。",
+      "emoji": "👶",
+      "highlight": "地方戸建て購入価格：平均500〜1,000万円（東京23区の1/10〜1/5以下）"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと移住・定住促進を学ぼう！",
+      "background": "classroom",
+      "title": "失敗しない移住のコツ",
+      "content": "移住失敗例：①地域コミュニティになじめない②仕事が見つからない③生活の不便さ——対策として複数回の「お試し移住」で体験してから決断が大切。地元の人との繋がりを事前に作ることが成功の鍵！",
+      "emoji": "📋",
+      "highlight": "「お試し移住」制度：多くの自治体が短期滞在施設を格安提供"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと移住・定住促進を学ぼう！",
+      "background": "ocean",
+      "title": "移住先の選び方のポイント",
+      "content": "①仕事環境（テレワーク可？地元就職？）②医療・教育施設の充実度③交通アクセス（都市部へのアクセス）④地域コミュニティの雰囲気⑤自然環境⑥移住支援の充実度——比較サイト「SMOUT」や「JOIN」で検索できます！",
+      "emoji": "🔍",
+      "highlight": "移住マッチングサイト「SMOUT」：全国の自治体・企業が移住者を「スカウト」するサービス"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "移住・定住の仕組みを学んだね！次はローカルビジネスへ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "title": "投資入門〜お金を働かせよう〜",
+  "description": "投資ってこわい？そんなことない！基本を一緒に学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "投資でお金に働いてもらおう！📈",
+      "background": "space",
+      "title": "投資入門",
+      "emoji": "📈",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「投資入門〜お金を働かせよう〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "貯金と投資は何が違うの？",
+      "background": "classroom",
+      "title": "貯金 vs 投資",
+      "content": "貯金：安全だけど増えにくい（年0.02〜1%）。投資：リスクはあるけど大きく増える可能性（年平均5〜10%）。インフレ（物価上昇）が年2%なら、年1%の貯金は実質マイナス！",
+      "emoji": "⚖️",
+      "highlight": "インフレ率2%＞貯金金利0.02% → 貯金だと実質「目減り」している"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "投資には色々な種類があるよ！",
+      "background": "city",
+      "title": "投資の種類",
+      "content": "主な投資は①株式（企業の一部を所有）②債券（国や会社にお金を貸す）③不動産（土地・建物に投資）④投資信託（プロが運用）⑤仮想通貨（デジタル通貨）。それぞれリスクと期待リターンが違います。",
+      "emoji": "🗂️",
+      "highlight": "低リスク→高リスク：債券＜投資信託＜株式＜仮想通貨"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "「卵を1つのカゴに盛るな」って知ってる？",
+      "background": "forest",
+      "title": "分散投資の大切さ",
+      "content": "「卵（お金）を1つのカゴ（投資先）に全部入れると、カゴを落としたとき全部割れる」。だから色々な投資先に分けることが大切（分散投資）。1つが下がっても他でカバーできます！",
+      "emoji": "🥚",
+      "highlight": "分散投資＝リスクを複数に分けることでダメージを最小化する戦略"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "「長期投資」が最強の理由を教えるよ！",
+      "background": "space",
+      "title": "長期投資の力",
+      "content": "短期売買は難しい。でも長期で持ち続けると？S&P500（アメリカの代表的な株式指数）の過去30年の平均リターンは年約10%！毎月1万円を30年投資すると…約2000万円に！",
+      "emoji": "⏳",
+      "highlight": "毎月1万円×年利7%×30年 ＝ 約1,188万円が→約3,000万円（複利効果）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "少額から始められる投資信託って？",
+      "background": "ocean",
+      "title": "投資信託の仕組み",
+      "content": "投資信託は多くの人からお金を集め、プロが分散投資してくれるサービス。100円から始められるものも！インデックスファンド（市場全体に投資）は手数料が安くて初心者向け。",
+      "emoji": "🎪",
+      "highlight": "インデックスファンド：市場全体に分散→低コスト→長期では大半のプロに勝つ"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "NISA・iDeCoって聞いたことある？",
+      "background": "city",
+      "title": "税制優遇制度：NISA",
+      "content": "NISA（少額投資非課税制度）は投資の利益に税金がかからない制度！通常は利益の20.315%が税金。2024年から新NISAがスタートし、年最大360万円まで非課税で投資できます。",
+      "emoji": "🏅",
+      "highlight": "新NISA：年360万円・生涯1800万円まで非課税。2024年1月開始"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "もし10万円あったら、どう投資する？",
+      "background": "candy",
+      "title": "投資シミュレーション！",
+      "content": "10万円を①全部株式 ②全部貯金 ③株式5万＋債券3万＋現金2万 — 10年後それぞれどうなっているか想像してみよう！分散投資が安定している理由が見えてきます。",
+      "emoji": "💭",
+      "highlight": "「リスク」＝危険ではなく「ぶれ幅」。リスクをとることで大きなリターンも得られる"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "投資詐欺には気をつけて！",
+      "background": "classroom",
+      "title": "投資詐欺に騙されない",
+      "content": "「絶対儲かる！」「元本保証で年利30%！」は詐欺のサイン。投資にリスクはつきもの。金融庁が認可した正規の証券会社・銀行で口座を開くこと。怪しい話はすぐ相談しよう！",
+      "emoji": "⚠️",
+      "highlight": "年利10%超の「元本保証」投資話 ＝ 99.9%詐欺！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "投資の基本をマスターしたね！次は株式市場へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Relocation and Settlement Promotion: A New Way of Living in Local Areas",
+  "description": "Let's learn about relocation and settlement promotion with Gal-chan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about the option of relocating to a local area together!",
+      "background": "forest",
+      "title": "Relocation and Settlement Promotion: A New Way of Living in Local Areas",
+      "emoji": "🏠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about relocation and settlement promotion with Gal-chan!",
+      "background": "classroom",
+      "title": "What is Relocation and Settlement?",
+      "content": "Policies are being implemented to promote relocating from cities to local areas (relocation) and taking root in local communities (settlement). Governments and local governments provide support such as subsidies for relocation costs, job introductions, and housing support!",
+      "emoji": "🏡",
+      "highlight": "Number of relocation consultations: A record high in 2022 (national support desk 'Furusato Kiki Support Center')"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about relocation and settlement promotion with Gal-chan!",
+      "background": "ocean",
+      "title": "What kind of relocation support systems are available?",
+      "content": "① Relocation subsidies (up to 1 million yen or more in some local governments) ② Rent subsidies ③ Vacant house renovation subsidies ④ Support for starting farming ⑤ Free childcare and more, there are many generous support systems to encourage relocation to local areas!",
+      "emoji": "💰",
+      "highlight": "Relocation subsidy example: Shimane Prefecture provides up to 1.5 million yen to families with children!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about relocation and settlement promotion with Gal-chan!",
+      "background": "forest",
+      "title": "What is the Regional Revitalization Cooperation Team?",
+      "content": "The Regional Revitalization Cooperation Team is a national system where people relocate from cities to local areas to work on regional revitalization. A monthly salary (approximately 170,000 yen) and activity expenses are provided for up to 3 years. In 2023, over 6,000 people are working nationwide!",
+      "emoji": "👥",
+      "highlight": "Regional Revitalization Cooperation Team: The number of team members is rapidly increasing, 6,447 people in 2022 (a record high)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about relocation and settlement promotion with Gal-chan!",
+      "background": "space",
+      "title": "Remote workers are changing local areas",
+      "content": "The number of people with jobs that don't require a specific location, such as IT, design, writing, and consulting, who choose to relocate to local areas is increasing. Living in a local area while working for a company in a city - 'dual residence' is a new style!",
+      "emoji": "💻",
+      "highlight": "Dual residence: The number of people who have a company in Tokyo and a home in a local area is increasing"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about relocation and settlement promotion with Gal-chan!",
+      "background": "city",
+      "title": "Utilizing vacant house banks",
+      "content": "There are 9 million vacant houses nationwide. Local governments operate 'vacant house banks' that provide information on properties for free or at low prices. The number of cases where old houses are renovated into cafes, guesthouses, and shared offices is rapidly increasing. Properties for 100,000 yen or less are also available!",
+      "emoji": "🏚️",
+      "highlight": "Number of vacant house bank registered properties nationwide: Over 10,000 (2023), many for 100,000 yen or less"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about relocation and settlement promotion with Gal-chan!",
+      "background": "forest",
+      "title": "Getting a good environment by relocating for childcare",
+      "content": "In Tokyo, buying a 3LDK apartment costs 70-80 million yen or more. In local areas, you can buy a detached house with a large garden for 5-10 million yen! Many local governments are also promoting free education and medical expenses, and the number of families relocating for childcare is increasing.",
+      "emoji": "👶",
+      "highlight": "Average price of buying a detached house in local areas: 5-10 million yen (1/10 to 1/5 of Tokyo's 23 wards)"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about relocation and settlement promotion with Gal-chan!",
+      "background": "classroom",
+      "title": "Tips for a successful relocation",
+      "content": "Examples of failed relocations: ① Unable to adapt to local community ② Unable to find a job ③ Difficulty with daily life - as a countermeasure, it's important to try out a 'test relocation' multiple times before making a decision. Building connections with local people in advance is the key to success!",
+      "emoji": "📋",
+      "highlight": "'Test relocation' system: Many local governments provide short-term stay facilities at low prices"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about relocation and settlement promotion with Gal-chan!",
+      "background": "ocean",
+      "title": "Points to consider when choosing a relocation destination",
+      "content": "① Work environment (is telework possible? local job opportunities?) ② Availability of medical and educational facilities ③ Transportation access (access to urban areas) ④ Local community atmosphere ⑤ Natural environment ⑥ Availability of relocation support - you can search on comparison sites like 'SMOUT' and 'JOIN'!",
+      "emoji": "🔍",
+      "highlight": "Relocation matching site 'SMOUT': A service where local governments and companies 'scout' relocation candidates"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've learned about the relocation and settlement system! Next is local business 🎉",
+      "background": "space",
+      "title": "Lesson complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

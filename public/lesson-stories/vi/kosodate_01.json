@@ -1,0 +1,131 @@
+{
+  "title": "Bước đầu tiên trong việc nuôi dạy con - Khoa học về sự gắn kết và tình yêu thương",
+  "description": "Cùng Garu học cách nuôi dạy con một cách thú vị!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy tạo mối gắn kết với bé! Chúng ta sẽ học về khoa học nuôi dạy con!",
+      "background": "candy",
+      "title": "Bước đầu tiên trong việc nuôi dạy con - Khoa học về sự gắn kết và tình yêu thương",
+      "emoji": "👶",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con!",
+      "background": "classroom",
+      "title": "Điều quan trọng nhất trong việc nuôi dạy con",
+      "content": "Điều quan trọng nhất trong việc nuôi dạy con là hình thành sự gắn kết (attachment). Khi bé khóc, hãy đáp ứng ngay - giao tiếp bằng mắt - nói chuyện nhẹ nhàng - tất cả những điều này giúp não bộ của bé phát triển một cách khỏe mạnh!",
+      "emoji": "💕",
+      "highlight": "Lý thuyết gắn kết (John Bowlby): Có một nơi an toàn, bé sẽ dám thử thách"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách nuôi dạy con!",
+      "background": "forest",
+      "title": "Từ 0-3 tuổi là giai đoạn nền tảng của cuộc đời!",
+      "content": "Về mặt khoa học não bộ, từ 0-3 tuổi là giai đoạn phát triển não bộ nhanh nhất. Sự hình thành synapse (kết nối tế bào thần kinh) tăng lên nhanh chóng. Trong giai đoạn này, cung cấp kích thích phong phú (lời nói - âm nhạc - chơi đùa - thiên nhiên) sẽ tạo nền tảng cho trí thông minh của bé!",
+      "emoji": "🧠",
+      "highlight": "Từ 0-3 tuổi, synapse của não bộ hình thành nhiều nhất. Sau 3 tuổi, synapse không được sử dụng sẽ bị loại bỏ"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con!",
+      "background": "space",
+      "title": "Cùng quan điểm là cách nuôi dạy con tốt nhất",
+      "content": "Sai lầm thường gặp của phụ huynh trong việc nuôi dạy con: chỉ ra lệnh từ trên xuống. Điều quan trọng là cùng bé khám phá thế giới và cùng ngạc nhiên - cảm động! Sự tò mò có thể lây lan - nếu phụ huynh vui vẻ, bé cũng sẽ vui vẻ.",
+      "emoji": "👀",
+      "highlight": "Sự chú ý chung: Phụ huynh và bé cùng quan tâm đến một điều gì đó → tạo nền tảng cho sự phát triển ngôn ngữ và xã hội"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách nuôi dạy con!",
+      "background": "ocean",
+      "title": "Nói chuyện nhiều giúp phát triển trí thông minh",
+      "content": "Trong giai đoạn bùng nổ ngôn ngữ (1,5-3 tuổi), việc nghe nhiều lời nói là rất quan trọng. Đọc sách - trò chuyện - hát - cả về số lượng và chất lượng đều quan trọng. Thu nhập - học vấn của phụ huynh không quan trọng bằng số lượng cuộc trò chuyện ảnh hưởng đến vốn từ vựng của bé!",
+      "emoji": "📚",
+      "highlight": "Nghiên cứu Hart & Risley: số lượng lời nói từ 0-3 tuổi tương quan với thành tích học tập ở tuổi 10"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con!",
+      "background": "classroom",
+      "title": "Chơi là cách học tốt nhất!",
+      "content": "Piaget (nhà tâm lý học phát triển) đã chứng minh rằng chơi giúp phát triển trí thông minh. Xây dựng - chơi đất - chơi giả vờ - tất cả đều là cách học tốt nhất giúp bé phát triển khả năng giải quyết vấn đề - sáng tạo - xã hội!",
+      "emoji": "🧩",
+      "highlight": "Chơi là công việc của bé (Maria Montessori) → cho bé chơi là cách giáo dục tốt nhất"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách nuôi dạy con!",
+      "background": "city",
+      "title": "Cách quát mắng và khen ngợi giúp bé thay đổi",
+      "content": "Không được nói: con là một đứa trẻ tồi (sự phủ định tồn tại). Hãy nói: hành động này không tốt vì... (chỉ trích hành động). Khi khen ngợi, hãy khen ngợi quá trình: con đã cố gắng rất nhiều!",
+      "emoji": "⭐",
+      "highlight": "Khen ngợi quá trình giúp tạo ra mindset phát triển (lý thuyết Dweck)"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học cách nuôi dạy con!",
+      "background": "forest",
+      "title": "Internet - điện thoại thông minh và nuôi dạy con",
+      "content": "Thời gian xem màn hình (screen time) ở trẻ dưới 2 tuổi nên hạn chế tối đa (WHO khuyến cáo). Nếu cùng xem video và trò chuyện, thì không sao! Nuôi dạy con trong thời đại kỹ thuật số cần dạy bé cách sử dụng.",
+      "emoji": "📱",
+      "highlight": "WHO khuyến cáo: trẻ 0-1 tuổi không nên xem màn hình. Trẻ 2-5 tuổi nên hạn chế dưới 1 tiếng mỗi ngày"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con!",
+      "background": "classroom",
+      "title": "Không có cách nuôi dạy con nào là đúng!",
+      "content": "Ở Nhật - Pháp - Bắc Âu, cách nuôi dạy con rất khác nhau! Điều quan trọng là tạo môi trường cho bé cảm thấy an toàn và phát triển. Phụ huynh tự cảm thấy vui vẻ và thoải mái là cách nuôi dạy con tốt nhất!",
+      "emoji": "🌍",
+      "highlight": "Cách nuôi dạy con khác nhau ở mỗi quốc gia: có thể cho con ngủ chung hoặc không, thời gian bú sữa mẹ..."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đã học về nền tảng nuôi dạy con! Tiếp theo là khoa học về sự phát triển não bộ 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

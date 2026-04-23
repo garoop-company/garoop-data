@@ -1,0 +1,131 @@
+{
+  "title": "Local Specialty Branding ~Treasure of the Region to the World~",
+  "description": "Let's learn about local specialty branding with Gal-chan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's make local specialties into global brands!",
+      "background": "forest",
+      "title": "Local Specialty Branding ~Treasure of the Region to the World~",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local specialty branding with Gal-chan!",
+      "background": "classroom",
+      "title": "What is GI (Geographical Indication) Protection System?",
+      "content": "GI (Geographical Indication) is a system that protects region-specific products such as 'Kobe Beef', 'Yubari King Melon', and 'Kyoto Tango Chirimen'. It is protected by law in the EU and Japan, eliminating counterfeits and increasing brand value!",
+      "emoji": "🛡️",
+      "highlight": "Japan's GI registered products: 141 items (2024). 'Tajima Beef', 'Iki Beef', etc."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local specialty branding with Gal-chan!",
+      "background": "space",
+      "title": "Japanese Sake Became a Global Brand!",
+      "content": "Export value of Japanese sake: 47.4 billion yen in 2022, a record high! Popular in France, America, and China. 'Sake' is a brand that works even in English. Tradition × quality × story conquered the global market.",
+      "emoji": "🍶",
+      "highlight": "Export value of Japanese sake: more than tripled in 10 years. Main export destinations: US, Hong Kong, and China"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local specialty branding with Gal-chan!",
+      "background": "ocean",
+      "title": "Why is Japanese Beef Priced So High in the World?",
+      "content": "Kobe Beef, Matsusaka Beef, and Yonezawa Beef are the highest-quality beef brands in the world. Some can sell for over 10 million yen! Strict management of production area, breeding method, and quality standards, along with the 'story', create brand value.",
+      "emoji": "🥩",
+      "highlight": "Export value of Japanese beef: at an all-time high. Highly popular in restaurants in Singapore, Hong Kong, and the US"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local specialty branding with Gal-chan!",
+      "background": "forest",
+      "title": "Fruit Kingdom, Yamanashi's Strategy",
+      "content": "Yamanashi's Shine Muscat, peaches, Mt. Fuji, and wine have high brand power both domestically and internationally. By branding the production area, high-price sales are achieved. Some grapes sell for tens of thousands of yen!",
+      "emoji": "🍇",
+      "highlight": "Shine Muscat: sells for 2,000 yen to over 10,000 yen per bunch, at a high price range"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local specialty branding with Gal-chan!",
+      "background": "city",
+      "title": "Inbound × Food for Regional Earning",
+      "content": "Foreign visitors to Japan are very interested in food! Cooking classes, farm experiences, and brewery tours that provide authentic 'Japanese food experiences' are popular. 'Food' is one of the strongest regional brands.",
+      "emoji": "🍱",
+      "highlight": "Consumption of foreign visitors to Japan: 'dining expenses' are the second-largest expense item after accommodation"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local specialty branding with Gal-chan!",
+      "background": "classroom",
+      "title": "Revival of Craft and Traditional Arts",
+      "content": "Japan's traditional crafts such as lacquerware, washi paper, dyed goods, and ceramics are popular among inbound tourists and the wealthy. Young artisans are posting on SNS, and there are increasing cases of selling to overseas collectors at high prices!",
+      "emoji": "⛏️",
+      "highlight": "Popularity of Japanese tableware and lacquerware on Instagram: many foreign followers. Some items sell for tens of thousands to hundreds of thousands of yen"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about local specialty branding with Gal-chan!",
+      "background": "space",
+      "title": "SNS Branding from Local to Global",
+      "content": " 'Biei Hills', 'Oirase Stream', and 'Gokayama' — local scenic spots that became popular on SNS, attracting tourists from all over the world! One SNS account that sends out local charms can change the region.",
+      "emoji": "📱",
+      "highlight": "Many local spots saw a 100-fold increase in tourists after being posted on Instagram"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local specialty branding with Gal-chan!",
+      "background": "ocean",
+      "title": "Strengthening Regional Brands through Collaboration with Large Enterprises",
+      "content": "When local ingredients and crafts are adopted by major department stores, famous hotels, and high-end restaurants, reliability increases! Constructing a 'value chain' from production to processing, distribution, and consumption is important.",
+      "emoji": "🏨",
+      "highlight": "Hoshino Resorts: actively adopting local ingredients → significant impact on regional economy"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Gal-chan, the Master of Regional Branding! Next is Youth and Regional Revitalization 🎉",
+      "background": "space",
+      "title": "Lesson Completed!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

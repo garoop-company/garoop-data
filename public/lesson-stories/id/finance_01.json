@@ -1,0 +1,131 @@
+{
+  "title": "Apa itu Uang? ~Pengenalan Uang~",
+  "description": "Mari kita pelajari asal-usul dan mekanisme uang dengan Gal-chan dengan cara yang menyenangkan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Selamat datang di dunia uang! Mari kita pelajari bersama 💰",
+      "background": "city",
+      "title": "Apa itu Uang?",
+      "emoji": "💰",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Dahulu kala, tidak ada uang! Itu luar biasa, bukan?",
+      "background": "forest",
+      "title": "Zaman Barter",
+      "content": "Dahulu kala, orang-orang menukar barang dengan barang lain. Mereka menukar ikan dengan sayuran atau kain dengan alat. Ini disebut 'barter'.",
+      "emoji": "🐟",
+      "highlight": "🍎＋🐟 → tukar → kedua belah pihak mendapatkan apa yang diinginkan"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Uang adalah 'alat yang nyaman'!",
+      "background": "classroom",
+      "title": "Mengapa Uang Diciptakan",
+      "content": "Barter memiliki beberapa masalah. Orang yang ingin ikan harus bertemu dengan orang yang memiliki ikan pada saat yang sama! Jadi, diciptakanlah satuan tukar yang umum, yang disebut 'uang'.",
+      "emoji": "🪙",
+      "highlight": "Tiga fungsi uang: ① tukar ② menyimpan nilai ③ satuan hitung"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Uang pertama terbuat dari kulit kerang dan batu!",
+      "background": "ocean",
+      "title": "Sejarah Uang",
+      "content": "Uang koin pertama dibuat di Lydia kuno (sekitar 700 SM). Kemudian, uang kertas diperkenalkan di Tiongkok (abad ke-10). Di Jepang, mata uang yang digunakan selama periode Edo disebut 'ryo', 'shu', dan 'mon'.",
+      "emoji": "📜",
+      "highlight": "Koin tertua di dunia: abad ke-7 SM, Kerajaan Lydia (sekarang Turki)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Apakah kamu tahu apa saja jenis uang yang ada saat ini?",
+      "background": "city",
+      "title": "Jenis Uang Modern",
+      "content": "Ada tiga jenis uang utama saat ini: ① uang tunai (koin dan uang kertas) ② simpanan bank (uang di rekening) ③ uang elektronik dan mata uang digital. Pembayaran kode QR menggunakan smartphone juga semakin populer!",
+      "emoji": "📱",
+      "highlight": "Rasio pembayaran tanpa uang tunai di Jepang: sekitar 39% (2023) → Rata-rata dunia sekitar 60%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Ada banyak mata uang yang berbeda di dunia, seperti yen, dolar, dan euro!",
+      "background": "space",
+      "title": "Mata Uang Dunia",
+      "content": "Setiap negara memiliki mata uangnya sendiri. Jepang: yen (¥), Amerika: dolar ($), Eropa: euro (€), Tiongkok: yuan (¥). Kurs tukar berubah setiap hari.",
+      "emoji": "🌏",
+      "highlight": "1 dolar ≈ 150 yen (2024) ※ kurs tukar berubah setiap hari"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Uang bekerja karena kita percaya!",
+      "background": "classroom",
+      "title": "Nilai Uang",
+      "content": "Uang itu sendiri tidak memiliki nilai! Kita percaya bahwa itu memiliki nilai, dan itulah yang membuatnya berharga. Pemerintah Jepang dan Bank Sentral Jepang menjamin nilai yen Jepang.",
+      "emoji": "🤝",
+      "highlight": "Kepercayaan adalah inti dari uang → jika kepercayaan hilang, inflasi terjadi"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Pikirkan! Apa yang ingin kamu beli dengan uangmu hari ini?",
+      "background": "candy",
+      "title": "Pikirkan!",
+      "content": "Jika kamu menerima 1000 yen hari ini, bagaimana kamu akan menggunakannya? ① habiskan semua ② simpan separuh ③ simpan semua — tipe mana kamu? Setiap orang memiliki caranya sendiri dalam menggunakan uang, tapi penting untuk memiliki tujuan!",
+      "emoji": "💭",
+      "highlight": "konsumsi, simpanan, dan investasi — keseimbangan ketiga hal ini penting!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Belajar tentang uang dapat mengubah masa depanmu!",
+      "background": "city",
+      "title": "Apa itu Literasi Keuangan?",
+      "content": "Literasi keuangan merujuk pada pengetahuan dan penilaian tentang uang. Jepang dikatakan memiliki tingkat literasi keuangan yang relatif rendah dibandingkan dengan negara lain. Tapi kamu sedang belajar sekarang! Itu langkah pertama!",
+      "emoji": "📚",
+      "highlight": "Literasi keuangan Jepang: peringkat 33 dunia (survei S&P Global)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kamu telah belajar dasar-dasar uang! Selanjutnya, mari kita pelajari tentang simpanan 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Kekuatan Menabung ~ Cara Melindungi Uang ~",
+  "description": "Mari kita pelajari tentang pentingnya menabung dan cara melindungi uang dengan Garu-chan!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hari ini, kita akan mempelajari rahasia menabung! 🐖",
+      "background": "classroom",
+      "title": "Kekuatan Menabung",
+      "emoji": "🐖",
+      "effects": [
+        "sparkle"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Pertama, mari kita pahami 'penghasilan' dan 'pengeluaran'!",
+      "background": "city",
+      "title": "Penghasilan dan Pengeluaran",
+      "content": "Uang terdiri dari 'penghasilan' dan 'pengeluaran'. Jika penghasilan > pengeluaran, maka itu 'surplus', dan jika penghasilan < pengeluaran, maka itu 'defisit'. Surplus menjadi tabungan!",
+      "emoji": "⚖️",
+      "highlight": "Tabungan = Penghasilan - Pengeluaran"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bisakah kamu menebak mengapa menabung itu penting?",
+      "background": "forest",
+      "title": "Mengapa Menabung?",
+      "content": "Ada tiga tujuan menabung: ① 'dana darurat' untuk situasi tidak terduga, ② 'tabungan tujuan' untuk impian (perjalanan, permainan, dll.), dan ③ 'tabungan pensiun' untuk masa depan. Penting untuk mengembangkan kebiasaan sejak usia dini!",
+      "emoji": "🎯",
+      "highlight": "Dana darurat: 3-6 bulan biaya hidup sebagai patokan"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Menabung terlebih dahulu, 'menabung prioritas', adalah cara paling efektif!",
+      "background": "classroom",
+      "title": "Rahasia Menabung Prioritas",
+      "content": "Banyak orang mencoba menabung 'apa yang tersisa', tapi uang tidak bertahan! Maka dari itu, 'menabung prioritas', menabung sebagian segera, sangat efektif. Alokasikan 10-20% penghasilan ke rekening tabungan terpisah!",
+      "emoji": "💡",
+      "highlight": "Menabung prioritas = Alokasikan 10% ke rekening terpisah segera setelah menerima gaji"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Ketika kamu menyimpan uang di bank, uang itu tumbuh sedikit demi sedikit!",
+      "background": "city",
+      "title": "Apa itu Bunga Bank?",
+      "content": "Ketika kamu menyimpan uang di bank, kamu mendapatkan 'bunga (suku bunga)'. Contoh: dengan suku bunga tahunan 0,1%, jika kamu menyimpan 1 juta yen, kamu akan mendapatkan 1.000 yen dalam setahun. Suku bunga deposito biasa di Jepang saat ini sekitar 0,02-1%. Ini cara kecil tapi aman untuk mengembangkan uang!",
+      "emoji": "🏦",
+      "highlight": "Suku bunga tahunan 1%: 1 juta yen → sekitar 1,1 juta yen setelah 10 tahun (bunga sederhana)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Jika kamu menabung 500 yen setiap hari... itu luar biasa!",
+      "background": "space",
+      "title": "Kekuatan Menabung Kecil yang Konsisten",
+      "content": " 'Setiap sedikit akan menjadi banyak' - jika kamu menabung 100 yen sehari, kamu akan memiliki 36.500 yen dalam setahun! Bahkan menabung 1.000 yen sebulan akan menjadi 120.000 yen dalam 10 tahun. Kunci bukan jumlahnya tapi 'konsistensi'. Kebiasaan adalah alat paling efektif!",
+      "emoji": "🏔️",
+      "highlight": "100 yen/hari × 365 hari = 36.500 yen/tahun"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Menabung memiliki 'waktu' sebagai teman terbaik!",
+      "background": "ocean",
+      "title": "Hubungan Antara Waktu dan Uang",
+      "content": "Menabung 10.000 yen/bulan sejak usia 20 vs menabung 20.000 yen/bulan sejak usia 30. Mana yang akan tumbuh lebih banyak? Jawabannya adalah yang sejak usia 20! Semakin lama waktu, semakin banyak uang tumbuh. Maka dari itu, memulai sekarang adalah investasi terbaik!",
+      "emoji": "⏰",
+      "highlight": "Warren Buffett, 'Oracle of Omaha', membeli saham pertamanya pada usia 11"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita buat tujuan menabung sendiri!",
+      "background": "candy",
+      "title": "Buat Tujuan Menabung!",
+      "content": "① Apa yang ingin kamu tabung? (tujuan) ② Berapa yang dibutuhkan? (jumlah) ③ Kapan? (batas waktu) ④ Berapa yang akan kamu tabung setiap bulan? (rencana) Jika kamu memutuskan empat hal ini, maka menabung akan 3 kali lebih mungkin berhasil!",
+      "emoji": "📋",
+      "highlight": "Tujuan SMART: Spesifik, Dapat Diukur, Dapat Dicapai, Relevan, Terikat Waktu"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Musuh menabung adalah 'pembelian impulsif'!",
+      "background": "classroom",
+      "title": "Tips Menghindari Pembelian yang Tidak Perlu",
+      "content": "Ketika kamu berpikir 'Aku ingin itu!', jangan langsung membeli. Tunggu 24 jam dan pikirkan. Periode 'pemanasan' ini membantu kamu memutuskan apakah itu benar-benar diperlukan. Menyimpan kwitansi dan meninjaunya pada akhir bulan juga membantu!",
+      "emoji": "🛑",
+      "highlight": "Aturan 24 jam: mengurangi pembelian impulsif sekitar 70%"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kamu sekarang adalah master menabung! Mari kita lanjutkan ke dunia investasi! 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

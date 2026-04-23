@@ -1,0 +1,131 @@
+{
+  "title": "Olahraga dan Perkembangan Anak ~ Bergerak Membuatmu Lebih Pintar ~",
+  "description": "Mari kita pelajari olahraga dan perkembangan anak dengan Gal-chan dengan cara yang menyenangkan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Olahraga membantu otak dan pikiran anak berkembang! Mari kita pelajari bersama!",
+      "background": "forest",
+      "title": "Olahraga dan Perkembangan Anak ~ Bergerak Membuatmu Lebih Pintar ~",
+      "emoji": "🏃",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari olahraga dan perkembangan anak dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Hubungan yang Dalam Antara Olahraga dan Otak",
+      "content": "Olahraga aerobik meningkatkan 'BDNF (Faktor Nutrisi Otak)' di otak, meningkatkan memori, kemampuan belajar, dan konsentrasi! Penelitian menunjukkan bahwa pendidikan jasmani dapat meningkatkan skor matematika. 'Olahraga membuatmu lebih pintar' adalah fakta ilmiah!",
+      "emoji": "🧠",
+      "highlight": "BDNF: Disebut 'pupuk otak'. Meningkat setelah olahraga, meningkatkan efisiensi belajar lebih dari 30%"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari olahraga dan perkembangan anak dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Olahraga Apa yang Baik untuk Usia Berapa?",
+      "content": "0-3 tahun: Bermain bebas menggunakan seluruh tubuh. 3-6 tahun: Berbagai gerakan seperti berenang, senam, dan permainan bola. 6-10 tahun: Pengenalan olahraga kompetitif. Spesialisasi terlalu dini dapat menyebabkan kelelahan. Penting untuk memperoleh 'gerakan beragam' pada usia dini!",
+      "emoji": "⚽",
+      "highlight": "Spesialisasi olahraga dini: Risiko cedera tinggi, kelelahan, dan tidak dapat melanjutkan. Olahraga beragam disarankan"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari olahraga dan perkembangan anak dengan Gal-chan!",
+      "background": "forest",
+      "title": "Anak-anak Modern Kurang Bermain di Luar",
+      "content": "Waktu bermain anak-anak Jepang di luar ruangan telah menurun secara signifikan dalam 30 tahun terakhir. Kekhawatiran berlebihan terhadap COVID, smartphone, dan keselamatan adalah latar belakangnya. Memastikan 60 menit atau lebih aktivitas fisik (rekomendasi WHO) sehari sangat penting untuk kesehatan anak, perkembangan otak, dan stabilitas emosi!",
+      "emoji": "🌳",
+      "highlight": "Waktu bermain di luar: 60 menit direkomendasikan (WHO). Banyak anak Jepang di bawah jumlah yang direkomendasikan"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari olahraga dan perkembangan anak dengan Gal-chan!",
+      "background": "space",
+      "title": "Olahraga Tim Membangun Keterampilan Sosial",
+      "content": "Olahraga tim seperti sepak bola, basket, dan baseball mengajarkan ① komunikasi, ② pembagian peran, ③ manajemen emosi, ④ mengatasi kegagalan, dan ⑤ menerima kemenangan dan kekalahan — tempat terbaik untuk membangun keterampilan sosial!",
+      "emoji": "⚾",
+      "highlight": "Pengalaman olahraga tim: Kepemimpinan, kerja sama, dan ketahanan stres cenderung lebih tinggi daripada olahraga individu"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari olahraga dan perkembangan anak dengan Gal-chan!",
+      "background": "city",
+      "title": "Seni Bela Diri dan Senam Membangun Kekuatan Mental",
+      "content": "Seni bela diri seperti kendo, judo, dan karate, serta senam mengajarkan ① etika, ② konsentrasi, ③ kontrol diri, ④ ketahanan terhadap kegagalan, dan ⑤ kebiasaan berusaha — kekuatan mental melalui olahraga berdampak positif pada studi dan hubungan!",
+      "emoji": "🥋",
+      "highlight": "Pengalaman seni bela diri: Anak-anak cenderung memiliki kontrol diri dan ketahanan yang lebih tinggi"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari olahraga dan perkembangan anak dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Efek Gabungan Olahraga dan Tidur",
+      "content": "Tidur yang berkualitas setelah olahraga meningkatkan hormon pertumbuhan, memaksimalkan pertumbuhan fisik dan otak! Sebaliknya, olahraga intens tanpa tidur meningkatkan risiko cedera. 'Olahraga + tidur' sangat penting untuk perkembangan anak!",
+      "emoji": "😴",
+      "highlight": "Tidur nyenyak setelah olahraga: Memaksimalkan hormon pertumbuhan, konsolidasi memori, dan perbaikan otot"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari olahraga dan perkembangan anak dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Belajar 'Kalah' melalui Olahraga",
+      "content": "Kemampuan 'belajar dari kekalahan' lebih penting dalam jangka panjang daripada 'kegembiraan kemenangan'! Atlet top berbagi kemampuan untuk mengubah kegagalan menjadi peluang. Ketika anak-anak menangis karena frustrasi, dorong mereka dengan 'Apa yang bisa kita lakukan untuk menang next time?'",
+      "emoji": "🏆",
+      "highlight": "Ketahanan terhadap kegagalan: Ciri umum atlet kelas dunia. Menggunakan kegagalan sebagai 'kesempatan belajar'"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari olahraga dan perkembangan anak dengan Gal-chan!",
+      "background": "forest",
+      "title": "Interaksi Seni, Musik, dan Fisik",
+      "content": "Ballet, tarian, musik, dan menggambar juga merupakan bentuk ekspresi fisik! Aktivitas seni membangun kreativitas, ekspresi emosi, konsentrasi, dan kerja sama, berdampak positif pada akademik. Baik olahraga maupun seni memperluas kemungkinan anak!",
+      "emoji": "🎨",
+      "highlight": "Musik + Olahraga (Pendidikan Ritme): Meningkatkan kemampuan matematika, kemampuan bahasa, dan koordinasi motorik secara bersamaan"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kita telah belajar tentang olahraga dan perkembangan! Mari kita pikirkan tentang masa depan pengasuhan 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

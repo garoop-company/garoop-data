@@ -1,0 +1,131 @@
+{
+  "title": "What is Regional Revitalization? 〜Let's Energize Japan's Regions〜",
+  "description": "Let's learn about 'Regional Revitalization' which utilizes the charm of each region in Japan to energize the local community!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's discover the charm of the region together! 🏡",
+      "background": "forest",
+      "title": "What is Regional Revitalization?",
+      "emoji": "🏡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Why is Regional Revitalization necessary?",
+      "background": "classroom",
+      "title": "Challenges Faced by Regions",
+      "content": "About 30% of Japan's population (approximately 38 million people) is concentrated in the Tokyo metropolitan area. In rural areas, population decline, aging, and industrial decline are progressing. If this continues, many local governments will face 'extinction risk' by 2050.",
+      "emoji": "📉",
+      "highlight": "Tokyo metropolitan area (Tokyo, Kanagawa, Saitama, Chiba): 28% of Japan's total population is concentrated"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Regional Revitalization policy started in 2014!",
+      "background": "city",
+      "title": "What is Regional Revitalization?",
+      "content": "The national policy 'Creating a New Society: A Town, People, and Jobs' began in 2014. The three main pillars are: ① creating jobs, ② attracting people, and ③ revitalizing towns. Over 1 trillion yen is allocated annually.",
+      "emoji": "🏛️",
+      "highlight": "Regional Revitalization budget: approximately 1 trillion yen/year. The goal is to maintain a population of 100 million by 2060"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Regions have treasures that Tokyo doesn't have!",
+      "background": "forest",
+      "title": "Strengths and Charms of Regions",
+      "content": "Regions have rich natural resources, traditional culture, local products, wide spaces, and community bonds that cities don't have. Since COVID, there has been a surge in people wanting to move to rural areas! Especially young people are becoming more interested in regions.",
+      "emoji": "🌾",
+      "highlight": "People wanting to move to rural areas (20-30s): recorded a historical high after COVID (Ministry of Land, Infrastructure, Transport, and Tourism survey)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's look at successful Regional Revitalization examples!",
+      "background": "ocean",
+      "title": "Successful Regional Revitalization Cases",
+      "content": "Okayama Prefecture Nishiawakura Village: revived forestry with the '100-year forest' project, increasing migrant population. Tokushima Prefecture Kamiyama Town: attracted many migrants by inducing IT satellite offices. Toyama Prefecture: achieved a compact city by developing a tram network.",
+      "emoji": "✅",
+      "highlight": "Kamiyama Town (population 5,000): 12 IT companies set up satellite offices → migrants exceeded out-migrants"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Technology saves the region!",
+      "background": "space",
+      "title": "Technology and Regional Revitalization",
+      "content": "5G, AI, drones, and IoT are solving regional issues. Agricultural drones increased pesticide spraying efficiency by 5 times. Remote medical care compensates for medical shortages in rural areas. With the spread of remote work, migration from cities to regions accelerated!",
+      "emoji": "📡",
+      "highlight": "Drone pesticide spraying: reduced work time to 1/10 compared to traditional spraying"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Do you know about 'related population'?",
+      "background": "forest",
+      "title": "The New Concept of Related Population",
+      "content": "Not 'resident population' nor 'tourists', but 'related population' who continuously engage with the region is attracting attention. Visiting several times a year, doing hometown tax donation, or posting information on SNS are various forms of regional engagement.",
+      "emoji": "🤝",
+      "highlight": "Related population: over 10 million people (2022, Ministry of Internal Affairs and Communications survey). Updated the highest record"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Think about the charms of your hometown or favorite region!",
+      "background": "candy",
+      "title": "Discover the Charms of Regions!",
+      "content": "List 3 charms of the region you know (hometown, travel destination, etc.)! Food, nature, culture, people, local products... anything is OK. If you think about how to convey those charms nationwide, it's the first step of Regional Revitalization!",
+      "emoji": "💭",
+      "highlight": "Introducing regional local products on SNS is a good 'related population' activity!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Young people have the power to change regions!",
+      "background": "city",
+      "title": "Youth and Regional Revitalization",
+      "content": "Regions need young people's ideas and actions. Opportunities for young people to be active in regions are increasing, such as Regional Revitalization Cooperation Team, local venture, renovating vacant houses, and agricultural startups.",
+      "emoji": "👦",
+      "highlight": "Regional Revitalization Cooperation Team: 2008 89 people → 2022 about 6,500 people! A system that allows you to move to a region with a salary"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Completed the introduction to Regional Revitalization! Next, let's learn about population decline 🎉",
+      "background": "space",
+      "title": "Lesson Completed!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

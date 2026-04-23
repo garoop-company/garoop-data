@@ -1,0 +1,132 @@
+{
+  "title": "お金の未来〜金融リテラシーで人生を変える〜",
+  "description": "AIとお金・未来の金融・あなたにできることを学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "お金の未来を一緒に描こう！🌟",
+      "background": "space",
+      "title": "お金の未来",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「お金の未来〜金融リテラシーで人生を変える〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "キャッシュレスの未来はすぐそこ！",
+      "background": "city",
+      "title": "キャッシュレス社会",
+      "content": "スウェーデンでは現金を使う人は全体の8%以下。中国はAlipay・WeChat Payで現金ほぼ不要。日本のキャッシュレス比率は39%（2023年）。2025年以降さらに普及が加速予定！",
+      "emoji": "📱",
+      "highlight": "韓国のキャッシュレス比率：95%以上！現金を使う場面がほぼない"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIがお金の管理をしてくれる時代になる！",
+      "background": "space",
+      "title": "AI×金融（フィンテック）",
+      "content": "AI（人工知能）が株取引・資産運用・ローン審査・家計管理などを担う時代が来ています。ロボアドバイザーはAIが自動で資産配分を決めて投資！手数料は人間のFPよりずっと安い。",
+      "emoji": "🤖",
+      "highlight": "ロボアドバイザー：年0.5〜1%の手数料で自動投資。人間FPの1/5〜1/10のコスト"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "中央銀行デジタル通貨（CBDC）って？",
+      "background": "ocean",
+      "title": "CBDC（デジタル円）",
+      "content": "各国の中央銀行がデジタル通貨を発行する計画が進んでいます。デジタル人民元は中国で実用化済み。日本銀行も「デジタル円」の実証実験中。紙幣がなくなる日が来るかもしれません！",
+      "emoji": "🏦",
+      "highlight": "デジタル人民元：2021年〜中国で実用化。2億人以上が利用実績"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "DeFi（分散型金融）で銀行が不要になる？",
+      "background": "city",
+      "title": "DeFi（分散型金融）",
+      "content": "DeFi（Decentralized Finance）はブロックチェーン上で動く銀行・証券会社・保険会社のようなサービス。誰でも・どこでも・24時間・仲介者なしで金融サービスが使える！",
+      "emoji": "🔗",
+      "highlight": "DeFiの総資産：最大時2,500億ドル（約35兆円）。急速に成長中"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "格差はどうしたら縮まるの？",
+      "background": "forest",
+      "title": "貧富の格差と金融",
+      "content": "世界の富の50%を上位1%が保有。格差は広がっています。原因は「投資・教育・相続」の連鎖。解決策として①UBI（ベーシックインカム）②教育の充実③金融リテラシーの普及が議論されています。",
+      "emoji": "⚖️",
+      "highlight": "ビルゲイツ・バフェットらが「財産の99%を寄付する」と約束（Giving Pledge）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ESG投資で世界を良くできる！",
+      "background": "forest",
+      "title": "ESG投資とインパクト投資",
+      "content": "ESG：環境（Environment）・社会（Social）・ガバナンス（Governance）を重視する投資。利益だけでなく社会・環境への良い影響を目指す投資スタイルが世界で急拡大しています。",
+      "emoji": "🌱",
+      "highlight": "ESG投資の残高：世界で45兆ドル超（約6,000兆円）！年々増加"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "あなたにとっての「お金の使命」を考えよう！",
+      "background": "candy",
+      "title": "お金と自分の価値観",
+      "content": "お金は目的じゃなく「手段」。あなたはお金で何を実現したい？①自分の夢②家族の幸せ③社会への貢献④好きなことを続ける。お金の目的が明確な人ほど豊かになります！",
+      "emoji": "💭",
+      "highlight": "「お金は自由を買うもの。自由は夢を追うためのもの」"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "今日からできる金融リテラシーを高める行動！",
+      "background": "classroom",
+      "title": "今日から始めよう",
+      "content": "①家計簿をつける（アプリ「マネーフォワード」「家計簿Zaim」）②お小遣い帳で支出を記録③100円から積立投資を開始④金融ニュース（日経電子版）を週1回読む。小さな習慣が人生を変える！",
+      "emoji": "📱",
+      "highlight": "「マネーフォワード」：無料で銀行・証券・クレジットと連携。自動で家計管理"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "金融マスター！お金で未来を切り開こう！🎉",
+      "background": "space",
+      "title": "金融シリーズ完了！",
+      "emoji": "🏆",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

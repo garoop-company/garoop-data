@@ -1,0 +1,131 @@
+{
+  "title": "投资入门 〜让钱为你工作〜",
+  "description": "投资很可怕？不见得！让我们一起学习基础知识！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "让钱通过投资为你工作！ 📈",
+      "background": "space",
+      "title": "投资入门",
+      "emoji": "📈",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "存款和投资有什么不同？",
+      "background": "classroom",
+      "title": "存款 vs 投资",
+      "content": "存款：安全但增长缓慢（年0.02〜1%）。投资：有风险但可能大增（年平均5〜10%）。通货膨胀（物价上涨）年2%，存款年1%实质上是亏损！",
+      "emoji": "⚖️",
+      "highlight": "通货膨胀率2%＞存款利率0.02% → 存款实质上「贬值」"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "投资有很多种类！",
+      "background": "city",
+      "title": "投资种类",
+      "content": "主要投资种类有①股票（拥有企业的一部分）②债券（借钱给国家或公司）③不动产（投资土地、建筑物）④投资信托（专业人士操作）⑤加密货币（数字货币）。各有不同的风险和预期回报。",
+      "emoji": "🗂️",
+      "highlight": "低风险→高风险：债券＜投资信托＜股票＜加密货币"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "你知道「不要把所有鸡蛋放在一个篮子里」吗？",
+      "background": "forest",
+      "title": "分散投资的重要性",
+      "content": "把所有钱（鸡蛋）放在一个投资（篮子）里，如果篮子掉落，鸡蛋都会碎。因此，分散投资很重要（分散投资）。即使一种投资下跌，其他投资也可以弥补！",
+      "emoji": "🥚",
+      "highlight": "分散投资＝将风险分散到多个投资中，以最小化损失"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "为什么「长期投资」最强？",
+      "background": "space",
+      "title": "长期投资的力量",
+      "content": "短线买卖很难。但长期持有会怎样？标普500（美国代表性股票指数）过去30年平均回报率约10%！每月投资1万元，30年后约2000万元！",
+      "emoji": "⏳",
+      "highlight": "每月1万元×年利率7%×30年 ＝ 约1188万元 → 约3000万元（复利效应）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "投资信托可以从小额开始？",
+      "background": "ocean",
+      "title": "投资信托的机制",
+      "content": "投资信托是聚集很多人钱，由专业人士分散投资的服务。有些从100日元开始！指数基金（投资整个市场）手续费低，适合初学者。",
+      "emoji": "🎪",
+      "highlight": "指数基金：分散投资整个市场 → 低成本 → 长期战胜大多数专业人士"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "你听说过NISA和iDeCo吗？",
+      "background": "city",
+      "title": "税收优惠制度：NISA",
+      "content": "NISA（小额投资免税制度）是投资收益免税的制度！通常收益的20.315%是税金。2024年新NISA开始，年最大360万元免税投资。",
+      "emoji": "🏅",
+      "highlight": "新NISA：年360万元・一生1800万元免税。2024年1月开始"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "如果有10万元，你会怎么投资？",
+      "background": "candy",
+      "title": "投资模拟！",
+      "content": "10万元①全部股票 ②全部存款 ③股票5万＋债券3万＋现金2万 — 10年后各自的情况会是怎样？分散投资的理由会变得清晰。",
+      "emoji": "💭",
+      "highlight": "「风险」＝危险，而不是「波动幅度」。承担风险可以获得更大回报"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "注意投资诈骗！",
+      "background": "classroom",
+      "title": "不被投资诈骗",
+      "content": "'绝对赚钱！' 或 '年利率30%，本金保证！' 是诈骗的迹象。投资有风险。金融厅认可的正规证券公司、银行开户。怀疑时立即咨询！",
+      "emoji": "⚠️",
+      "highlight": "年利率10%以上「本金保证」投资＝ 99.9% 诈骗！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "你已经掌握了投资的基本知识！接下来是股票市场！ 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

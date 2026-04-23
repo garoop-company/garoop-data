@@ -1,0 +1,131 @@
+{
+  "title": "Masalah Penurunan Penduduk: Mari Kita Pelajari tentang Penduduk Jepang yang Menyusut",
+  "description": "Mari kita pelajari tentang keadaan dan对策 penurunan penduduk Jepang dengan Gal-chan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Penurunan penduduk adalah masalah terbesar Jepang! Mari kita pikirkan bersama 📊",
+      "background": "city",
+      "title": "Masalah Penurunan Penduduk: Mari Kita Pelajari tentang Penduduk Jepang yang Menyusut",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang masalah penurunan penduduk dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Kapan penduduk Jepang mencapai puncaknya?",
+      "content": "Penduduk Jepang mencapai puncaknya sekitar 128 juta pada tahun 2008 dan telah menurun sejak itu. Diperkirakan akan menurun menjadi sekitar 100 juta pada tahun 2050 dan 60 juta pada tahun 2100. Ini berarti bahwa penduduk Jepang akan kembali ke tingkat pada masa awal Meiji!",
+      "emoji": "📉",
+      "highlight": "2008 adalah puncak → 2023: sekitar 124 juta → 2100: diperkirakan sekitar 60 juta"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang masalah penurunan penduduk dengan Gal-chan!",
+      "background": "forest",
+      "title": "Apa penyebab penurunan angka kelahiran?",
+      "content": "Penyebab penurunan angka kelahiran: ① Kemajuan pernikahan terlambat dan tidak menikah ② Meningkatnya biaya perawatan anak ③ Kurangnya fasilitas perawatan anak ④ Kesulitan menyeimbangkan pekerjaan dan perawatan anak bagi wanita ⑤ Ketidakstabilan ekonomi kaum muda. Beberapa masalah terkait.",
+      "emoji": "👶",
+      "highlight": "Rasio kelahiran total: 2,07 atau lebih untuk mempertahankan penduduk. Jepang: 1,20 (2023, terendah)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang masalah penurunan penduduk dengan Gal-chan!",
+      "background": "space",
+      "title": "Apa yang dimaksud dengan masyarakat tua?",
+      "content": "Masyarakat dengan 21% atau lebih dari penduduknya berusia 65 tahun ke atas disebut 'masyarakat tua'. Jepang memiliki tingkat penuaan tertinggi di dunia yaitu 29% (2023). Biaya perawatan medis dan keperawatan meningkat, keuangan pensiun memburuk, dan kekurangan tenaga kerja menjadi masalah serius.",
+      "emoji": "👴",
+      "highlight": "Jepang adalah negara dengan penuaan penduduk paling maju. 65 tahun ke atas: sekitar 36 juta (2023)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang masalah penurunan penduduk dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Bagaimana dengan pekerja asing dan imigran?",
+      "content": "Jumlah pekerja asing meningkat untuk mengkompensasi kekurangan tenaga kerja. Jumlah orang asing di Jepang sekitar 3,4 juta (2023, tertinggi). Pemerintah sedang mereformasi sistem pelatihan magang teknis dan memperluas visa pekerja terampil. Menciptakan masyarakat multikultural adalah tugas penting.",
+      "emoji": "🌏",
+      "highlight": "Residen asing: lebih dari 3,4 juta (2023). Tiga negara teratas adalah Vietnam, Cina, dan Filipina."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang masalah penurunan penduduk dengan Gal-chan!",
+      "background": "city",
+      "title": "Apa masalah yang akan terjadi akibat penurunan penduduk?",
+      "content": "① Kekurangan tenaga kerja → Kontraksi ekonomi ② Penurunan pendapatan pajak → Penurunan layanan publik ③ Peningkatan rumah kosong → Kemunduran kota ④ Penutupan sekolah dan rumah sakit ⑤ Kesulitan mempertahankan infrastruktur. Namun, kita dapat mengubah ini menjadi 'kesempatan' dengan perspektif baru!",
+      "emoji": "🏚️",
+      "highlight": "Jumlah rumah kosong: sekitar 9 juta (2023, tertinggi). Sekitar 14% dari semua rumah kosong."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang masalah penurunan penduduk dengan Gal-chan!",
+      "background": "forest",
+      "title": "Solusi yang disebut Kota Kompak",
+      "content": "Jika penduduk menurun, mari kita pikirkan tentang 'mengumpulkan' orang. Kota Toyama berhasil mengimplementasikan kebijakan kota kompak pertama di Jepang, memusatkan fasilitas residensial dan komersial di sepanjang jalur transportasi umum. Menciptakan kota yang mudah bergerak dan mempertahankan layanan!",
+      "emoji": "🏙️",
+      "highlight": "Kota Toyama: Sistem trem baru → Penduduk pusat kota berlipat ganda!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari tentang masalah penurunan penduduk dengan Gal-chan!",
+      "background": "candy",
+      "title": "Apa jenis tindakan yang diambil untuk mengatasi penurunan angka kelahiran?",
+      "content": "① Tunjangan anak dan perawatan anak gratis ② Perbaikan cuti orang tua ③ Pembangunan pusat dukungan perawatan anak ④ Dukungan perumahan ⑤ Menciptakan lingkungan yang ramah anak di daerah lokal. Pemerintah Kishida's 'tindakan luar biasa untuk mengatasi penurunan angka kelahiran' akan menginvestasikan 3,5 triliun yen per tahun!",
+      "emoji": "💰",
+      "highlight": "Tindakan luar biasa untuk mengatasi penurunan angka kelahiran: 3,6 triliun yen/tahun akan diinvestasikan dalam dukungan perawatan anak mulai 2024"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang masalah penurunan penduduk dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Akankah AI dan robot mengatasi kekurangan tenaga kerja?",
+      "content": "Automatisasi pabrik, robot pengiriman, robot perawatan, drone pertanian, dan teknologi lainnya akan menggunakan AI dan robot untuk mengkompensasi kekurangan tenaga kerja. Di masa depan, AI mungkin menangani sebagian besar pekerjaan administrasi. Pekerjaan manusia akan berubah!",
+      "emoji": "🤖",
+      "highlight": "Pasar robot pertanian: diperkirakan akan tumbuh menjadi lebih dari 1,5 triliun yen di seluruh dunia pada tahun 2030"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Sekarang kita telah melihat gambaran keseluruhan masalah penduduk! Selanjutnya adalah Pertanian DX 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

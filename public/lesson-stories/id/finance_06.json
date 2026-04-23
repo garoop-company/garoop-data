@@ -1,0 +1,131 @@
+{
+  "title": "Sihir Compound Interest - Keajaiban Dunia ke-8",
+  "description": "Mari kita pelajari tentang kekuatan compound interest, yang disebut Einstein sebagai 'Keajaiban Dunia ke-8'!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Compound interest seperti sihir! Mari kita alami bersama-sama ✨",
+      "background": "space",
+      "title": "Sihir Compound Interest",
+      "emoji": "✨",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apa perbedaan antara bunga sederhana dan compound interest?",
+      "background": "classroom",
+      "title": "Bunga Sederhana vs Compound Interest",
+      "content": "Bunga Sederhana: Bunga hanya pada pokok pinjaman. Compound Interest: Bunga pada pokok pinjaman dan bunga! Contoh: Rp 1.000.000.000 dengan bunga 10% per tahun selama 10 tahun. Bunga Sederhana → Rp 2.000.000.000. Compound Interest → sekitar Rp 2.590.000.000! Perbedaan Rp 590.000.000.",
+      "emoji": "🌱",
+      "highlight": "Bunga Sederhana: Rp 1.000.000.000 x 10% x 10 tahun = Rp 2.000.000.000 | Compound Interest: Rp 1.000.000.000 x (1,1)^10 = sekitar Rp 2.590.000.000"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Apakah kamu tahu tentang Aturan 72?",
+      "background": "city",
+      "title": "Aturan 72",
+      "content": "Jumlah tahun untuk uangmu menjadi dua kali lipat = 72 ÷ tingkat bunga tahunan! Pada bunga 6%, dibutuhkan 12 tahun untuk menjadi dua kali lipat. Pada bunga 12%, dibutuhkan 6 tahun untuk menjadi dua kali lipat. Sebaliknya, jika tingkat inflasi 3%, maka dalam 24 tahun, nilai uangmu akan menjadi separuh!",
+      "emoji": "🔢",
+      "highlight": "Aturan 72: Bunga 3% → 24 tahun untuk menjadi dua kali lipat | 6% → 12 tahun untuk menjadi dua kali lipat | 12% → 6 tahun untuk menjadi dua kali lipat"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Semakin awal kamu memulai, semakin menguntungkan!",
+      "background": "forest",
+      "title": "Mulai Lebih Awal, Lebih Menguntungkan",
+      "content": "Orang A: memulai menabung Rp 10.000.000 per tahun pada usia 20 (bunga 7%) → pada usia 60, sekitar Rp 26.000.000.000. Orang B: memulai menabung Rp 20.000.000 per tahun pada usia 30 (bunga 7%) → pada usia 60, sekitar Rp 24.000.000.000. Dengan separuh investasi, Orang A memiliki lebih banyak! Waktu adalah sekutu terbaikmu!",
+      "emoji": "👶",
+      "highlight": "Mulai pada usia 20 (menabung Rp 10.000.000/bulan) vs mulai pada usia 30 (menabung Rp 20.000.000/bulan) → mulai pada usia 20 lebih banyak Rp 200.000.000!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Jika kamu menggandakan uang receh Rp 1 setiap hari, berapa banyak uangmu setelah 30 hari?",
+      "background": "space",
+      "title": "Pertumbuhan Eksponensial",
+      "content": "Jika kamu menggandakan Rp 1 setiap hari → setelah 30 hari, uangmu menjadi sekitar Rp 10.000.000.000! Compound interest menyebabkan 'pertumbuhan eksponensial' - awalnya lambat, tapi kemudian cepat sekali.",
+      "emoji": "🚀",
+      "highlight": "Rp 1 x 2^30 = 1.073.741.824 (sekitar Rp 10.000.000.000!)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Musuh compound interest adalah biaya dan waktu!",
+      "background": "ocean",
+      "title": "Mengoptimalkan Compound Interest",
+      "content": "Tips untuk mengoptimalkan compound interest: ① Mulai lebih awal ② Biaya rendah ③ Menggunakan akun yang memiliki keuntungan pajak (contoh: NISA) ④ Jangan menarik uang. 4 kunci adalah waktu, biaya rendah, keuntungan pajak, dan konsistensi!",
+      "emoji": "🔑",
+      "highlight": "Perbedaan biaya 1% dapat menyebabkan perbedaan ratusan juta rupiah setelah 30 tahun → indeks dana yang rendah biayanya lebih menguntungkan"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Rahasia Warren Buffett adalah compound interest!",
+      "background": "city",
+      "title": "Buffett dan Compound Interest",
+      "content": "The 'Oracle of Omaha' Warren Buffett memperoleh lebih dari 99% kekayaannya setelah usia 60! Ia mencapainya dengan mengkompilasi kekayaannya dengan bunga sekitar 20% per tahun selama 65 tahun. Dengan compound interest dan waktu, siapa pun dapat membangun kekayaan!",
+      "emoji": "👴",
+      "highlight": "Kekayaan Buffett: $114 pada usia 11 → $11,4 miliar pada usia 92 (bunga majemuk 20% x 80 tahun)"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Coba simulasi compound interest!",
+      "background": "candy",
+      "title": "Menghitung Compound Interest",
+      "content": "Apa jika kamu berinvestasi Rp 5.000.000 per bulan dengan bunga 5% per tahun selama 30 tahun? Coba hitung dengan kalkulator keuangan atau 'simulator compound interest' di situs bank atau pialang!",
+      "emoji": "🧮",
+      "highlight": "Menabung Rp 5.000.000/bulan dengan bunga 5% x 30 tahun = Rp 1.800.000.000 pokok → sekitar Rp 4.160.000.000 (sekitar 2,3 kali lipat)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Berhati-hatilah dengan compound interest pada utang!",
+      "background": "classroom",
+      "title": "Waspada dengan Compound Interest pada Utang",
+      "content": "Compound interest dapat menjadi teman dan musuh. Utang kartu kredit dengan bunga 15-18% dapat meningkat dengan cepat! Jika kamu meninggalkan utang Rp 100.000.000 dengan bunga 18% selama 5 tahun, maka utangmu akan menjadi lebih dari Rp 220.000.000!",
+      "emoji": "⚠️",
+      "highlight": "Utang kartu kredit dengan bunga 18%: Rp 100.000.000 → Rp 220.000.000 dalam 5 tahun, Rp 480.000.000 dalam 10 tahun!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kuasai sihir compound interest! Selanjutnya, mari kita pelajari tentang cryptocurrency 🎉",
+      "background": "space",
+      "title": "Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

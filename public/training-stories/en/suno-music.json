@@ -1,0 +1,82 @@
+{
+  "title": "Musical Training",
+  "description": "Create your own music with Suno!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Welcome to the Music Dojo! Let's create a one-of-a-kind song with AI! 🎵",
+      "background": "bamboo",
+      "title": "Welcome to the Music Dojo!",
+      "content": "With Suno AI, you can create songs just by using words! You can make pop, rock, classical... any kind of song you want!",
+      "emoji": "🎵",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "To create a song, think about the genre, mood, and theme!",
+      "background": "dojo",
+      "title": "Imagine Your Song",
+      "content": "Put your song ideas into words. What kind of mood do you want to feel? What scene do you want it to play in?",
+      "emoji": "🎼",
+      "highlight": "Example:\nGenre → Upbeat pop\nMood → Exciting!\nTheme → Lunchtime at school"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's write a 'request sentence' for Suno in Japanese!",
+      "background": "bamboo",
+      "title": "Prompt Training",
+      "content": "Learn tips to communicate effectively with AI. The more you explain, the closer the song will be to your imagination!",
+      "emoji": "✍️",
+      "highlight": "Example prompt:\n'A fun pop song for elementary school students to listen to on a field trip.\nThe tempo is fast. With Japanese lyrics.'"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Now, let's open Suno and actually create a song!",
+      "background": "mountain",
+      "title": "Practice! Let's Create a Song",
+      "content": "Open the Suno AI website and input your prompt. What kind of song will you create?",
+      "emoji": "🎤",
+      "highlight": "Steps:\n1. Open suno.com\n2. Input prompt\n3. Generate song\n4. Listen to it!"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "If you don't like it, try changing it a bit and create again!",
+      "background": "dojo",
+      "title": "Improve Your Song",
+      "content": "It's okay if it's not perfect on the first try! Gradually change the words to get closer to your ideal song.",
+      "emoji": "🔧",
+      "highlight": "Improvement tips:\n・Change tempo from 'fast' to 'slow'\n・Add genre\n・Try adding instrument names"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Music training complete! Share your song with everyone! 🎉",
+      "background": "temple",
+      "title": "Training Complete!",
+      "content": "Your one-of-a-kind song is complete! Share the link to your song on Slack!",
+      "emoji": "🎸",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

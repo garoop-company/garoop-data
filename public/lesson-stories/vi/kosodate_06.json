@@ -1,0 +1,131 @@
+{
+  "title": "Nuôi dạy con trong thời đại kỹ thuật số - Điện thoại thông minh và trẻ em",
+  "description": "Cùng Garu học cách nuôi dạy con trong thời đại kỹ thuật số một cách thú vị!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng tìm hiểu cách nuôi dạy con trong thời đại kỹ thuật số!",
+      "background": "space",
+      "title": "Nuôi dạy con trong thời đại kỹ thuật số - Điện thoại thông minh và trẻ em",
+      "emoji": "📱",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại kỹ thuật số!",
+      "background": "city",
+      "title": "Đặc điểm của thế hệ trẻ trong thời đại kỹ thuật số",
+      "content": "Thế hệ Alpha (sinh từ năm 2010) lớn lên trong môi trường có điện thoại thông minh là điều bình thường. Mạng xã hội, video, trò chơi đã trở thành một phần của cuộc sống - cách nuôi dạy con truyền thống không còn phù hợp!",
+      "emoji": "📱",
+      "highlight": "Thế hệ Alpha: sinh từ năm 2010. Đến năm 2025 sẽ có 2 tỷ người. Là thế hệ lớn nhất trong lịch sử."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại kỹ thuật số!",
+      "background": "classroom",
+      "title": "Quản lý thời gian sử dụng màn hình một cách hợp lý",
+      "content": "WHO khuyến cáo: trẻ từ 0-1 tuổi không nên sử dụng màn hình, trẻ từ 2-5 tuổi không quá 1 giờ/ngày. Học viện Nhi khoa Mỹ cũng khuyến cáo không sử dụng thiết bị trong vòng 1 giờ trước khi đi ngủ. Điều quan trọng là quản lý thời gian và nội dung!",
+      "emoji": "⏱️",
+      "highlight": "Trẻ sử dụng màn hình quá 2 giờ: dễ bị ảnh hưởng đến giấc ngủ, sự chú ý và cảm xúc (nghiên cứu nhiều)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại kỹ thuật số!",
+      "background": "forest",
+      "title": "Giáo dục lập trình là 'đọc, viết' của tương lai",
+      "content": "Từ năm 2020, giáo dục lập trình trở thành môn học bắt buộc ở tiểu học Nhật Bản. Lập trình không chỉ là kỹ thuật mà còn giúp phát triển tư duy logic, khả năng phân tích vấn đề và sáng tạo. Có thể bắt đầu với Scratch, Minecraft!",
+      "emoji": "💻",
+      "highlight": "Tư duy lập trình: chia nhỏ vấn đề và giải quyết - hữu ích trong mọi lĩnh vực"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại kỹ thuật số!",
+      "background": "ocean",
+      "title": "Bảo vệ trẻ khỏi nguy hiểm trên mạng",
+      "content": "Rủi ro khi trẻ sử dụng mạng: ① thông tin cá nhân bị lộ ② gặp người lạ, nội dung tình dục ③ bắt nạt trên mạng ④ nghiện trò chơi, nạp tiền. Cài đặt bộ lọc bảo vệ và trò chuyện với con là rất quan trọng!",
+      "emoji": "🛡️",
+      "highlight": "Bị bắt nạt trên mạng: khoảng 17% học sinh tiểu học, trung học cơ sở và trung học phổ thông đã trải qua (Bộ Giáo dục và Khoa học Nhật Bản 2022)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại kỹ thuật số!",
+      "background": "space",
+      "title": "Cách sử dụng YouTube một cách đúng đắn",
+      "content": "Không thể cấm trẻ xem YouTube một cách tuyệt đối. Cùng xem và trò chuyện: 'Tại sao con thích video này?' 'Nội dung này có đúng không?' - giúp trẻ phát triển khả năng phân tích thông tin!",
+      "emoji": "▶️",
+      "highlight": "Giáo dục kỹ năng truyền thông: ở Phần Lan, tiểu học đã dạy cách phân biệt 'tin giả'"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại kỹ thuật số!",
+      "background": "classroom",
+      "title": "Mối quan hệ lành mạnh với mạng xã hội",
+      "content": "Trẻ thường bắt đầu sử dụng mạng xã hội từ 12-13 tuổi. Instagram, TikTok có thể tạo ra vấn đề: so sánh, nhu cầu được công nhận, sợ bị bỏ lại phía sau. Dạy trẻ rằng 'mạng xã hội chỉ hiển thị những khoảnh khắc tốt đẹp nhất'",
+      "emoji": "📸",
+      "highlight": "Sử dụng mạng xã hội và sức khỏe tinh thần của thanh niên: thời gian sử dụng càng nhiều thì càng có mối tương quan với trầm cảm, lo lắng, lòng tự trọng thấp"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại kỹ thuật số!",
+      "background": "city",
+      "title": "Nghiện trò chơi (rối loạn chơi game)",
+      "content": "Tổ chức Y tế Thế giới (WHO) công nhận 'rối loạn chơi game' là bệnh (2019). Dấu hiệu: ① ưu tiên hơn cuộc sống hàng ngày ② không thể kiểm soát ③ tiếp tục dù có ảnh hưởng xấu. Thiết lập quy tắc và tăng cường hoạt động ngoại tuyến giúp phòng ngừa!",
+      "emoji": "🎮",
+      "highlight": "Tỷ lệ rối loạn chơi game: khoảng 3-5% học sinh trung học cơ sở và trung học phổ thông Nhật Bản ở mức 'có vấn đề'"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách nuôi dạy con trong thời đại kỹ thuật số!",
+      "background": "forest",
+      "title": "Công nghệ hỗ trợ nuôi dạy con",
+      "content": "Công nghệ không chỉ là đối thủ mà còn là người bạn đồng hành trong việc nuôi dạy con. Ứng dụng quản lý giấc ngủ, ứng dụng đọc sách, chia sẻ vị trí, gọi video với ông bà - sử dụng thông minh sẽ nâng cao chất lượng nuôi dạy con!",
+      "emoji": "🤝",
+      "highlight": "Sử dụng ứng dụng nuôi dạy con: ghi chép, theo dõi phát triển - giảm gánh nặng cho phụ huynh"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đã học cách nuôi dạy con trong thời đại kỹ thuật số! Tiếp theo là tạo ra một tương lai tốt đẹp cho con em chúng ta 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

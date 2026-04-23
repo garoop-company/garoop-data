@@ -1,0 +1,131 @@
+{
+  "title": "加密货币和Web3〜数字钱的世界〜",
+  "description": "与Garu一起探索从比特币到Web3的数字钱世界！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "出发进入数字钱的世界！₿🚀",
+      "background": "space",
+      "title": "加密货币和Web3",
+      "emoji": "₿",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "比特币是什么？",
+      "background": "city",
+      "title": "什么是比特币",
+      "content": "2009年，神秘人物'中本聪'创造了数字货币。一种不需要银行等管理者的'去中心化'货币。可以发送到世界任何地方，任何人无法伪造。总发行量为2100万。",
+      "emoji": "₿",
+      "highlight": "比特币最高价：约1BTC＝1000万日元（2024年3月）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "区块链是什么？",
+      "background": "space",
+      "title": "区块链机制",
+      "content": "区块链是将交易记录作为'区块'，并用'链'连接的技术。世界各地的计算机都保存记录，因此几乎无法篡改！",
+      "emoji": "🔗",
+      "highlight": "区块链＝世界共同监管的不可篡改的'公开账簿'"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "除了比特币以外，还有很多其他加密货币！",
+      "background": "ocean",
+      "title": "Altcoin的世界",
+      "content": "除比特币外的其他加密货币被称为'Altcoin'。以太坊（智能合约）、瑞波（专门汇款）、索拉纳（高速）等，数千种以上！每种都有不同的用途。",
+      "emoji": "🌐",
+      "highlight": "加密货币种类：超过2万种（2024年）。市值第二位是以太坊"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "NFT就像游戏物品！",
+      "background": "city",
+      "title": "NFT（非同质化代币）",
+      "content": "NFT（Non-Fungible Token）是为数字数据提供'唯一性证明'的技术。艺术品、音乐、游戏物品等，可以与真实证明一起买卖。2021年，有一件作品价值75亿日元！",
+      "emoji": "🖼️",
+      "highlight": "NFT最高价：Beeple的'Everydays'→6900万美元（约75亿日元）！"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Web3是'数据是自己的'世界！",
+      "background": "space",
+      "title": "什么是Web3",
+      "content": "Web1：只读。Web2：读写（SNS、YouTube），但企业管理数据。Web3：读写+所有权！用户完全控制自己的数据和资产的下一代互联网。",
+      "emoji": "🌐",
+      "highlight": "Web3关键词：去中心化、所有权、隐私、DAO（去中心化自治组织）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "别忘了加密货币也有很大风险！",
+      "background": "classroom",
+      "title": "加密货币的风险",
+      "content": "加密货币的价格波动很大！比特币可能在1年内上涨10倍，也可能下跌到1/10。诈骗（拉格拉普尔）、黑客攻击、法律监管等风险。投资时，请从小金额开始！",
+      "emoji": "⚠️",
+      "highlight": "比特币的最大跌幅：约84％（2022年）。投资从小金额开始！"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "如何安全地尝试加密货币？",
+      "background": "candy",
+      "title": "学习加密货币的第一步",
+      "content": "在实际购买之前，请先尝试①加密货币交易所的模拟账户或②加密货币模拟器！GMO币、Coincheck等大型交易所具有高可信度。首先，'了解'是最重要的！",
+      "emoji": "🎮",
+      "highlight": "'CoinGecko'、'CoinMarketCap'：免费实时确认加密货币价格"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "也请了解日本的加密货币规则！",
+      "background": "city",
+      "title": "日本的加密货币监管",
+      "content": "日本是第一个用法律规范加密货币交易所的国家。只有获得日本金融厅批准的交易所才合法。加密货币收益需要申报所得税。最高税率可能达到55％！",
+      "emoji": "🏛️",
+      "highlight": "加密货币收益→杂项收入→累进税率（最大55％）。税率高于股票（20.315％）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "我们已经探索了数字钱的世界！🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

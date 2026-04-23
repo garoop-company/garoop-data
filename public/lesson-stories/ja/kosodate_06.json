@@ -1,0 +1,132 @@
+{
+  "title": "デジタル時代の子育て〜スマホと子供〜",
+  "description": "ガルちゃんと楽しくデジタル時代の子育てを学ぼう！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "デジタル時代の子育ての正解を一緒に探ろう！",
+      "background": "space",
+      "title": "デジタル時代の子育て〜スマホと子供〜",
+      "emoji": "📱",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「デジタル時代の子育て〜スマホと子供〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとデジタル時代の子育てを学ぼう！",
+      "background": "city",
+      "title": "デジタルネイティブ世代の特徴",
+      "content": "2010年以降生まれの「Generation Alpha（アルファ世代）」はスマホが「当たり前」の環境で育ちます。SNS・動画・ゲームが生活に溶け込んでいる——この世代の子育ては従来と全く違うアプローチが必要です！",
+      "emoji": "📱",
+      "highlight": "Generation Alpha：2010年生まれ〜。2025年に20億人。史上最大の世代になる"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとデジタル時代の子育てを学ぼう！",
+      "background": "classroom",
+      "title": "スクリーンタイムの適切な管理",
+      "content": "WHO推奨：0〜1歳は0分・2〜5歳は1時間以内/日。米国小児科学会も就寝1時間前のデバイス使用禁止を推奨。大切なのは「禁止」ではなく「時間と内容の管理」！",
+      "emoji": "⏱️",
+      "highlight": "スクリーンタイム2時間超の子供：睡眠・注意力・情緒に悪影響が出やすい（研究複数）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとデジタル時代の子育てを学ぼう！",
+      "background": "forest",
+      "title": "プログラミング教育は「未来の読み書き」",
+      "content": "2020年から日本の小学校でプログラミング教育が必修化。プログラミングは単なる技術ではなく「論理的思考力・問題分解能力・創造力」を育てます。Scratch・Minecraftから楽しく始められます！",
+      "emoji": "💻",
+      "highlight": "プログラミング思考：問題を小さく分けて解決する力→すべての分野で役立つ"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとデジタル時代の子育てを学ぼう！",
+      "background": "ocean",
+      "title": "オンラインの危険から子供を守る",
+      "content": "子供がオンラインで直面するリスク：①個人情報の流出②出会い系・性的コンテンツ③ネットいじめ④ゲーム・課金依存。「保護フィルター」と「親子での対話」の両方が大切です！",
+      "emoji": "🛡️",
+      "highlight": "ネットいじめ被害：小中高生の約17%が経験（文科省調査2022年）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとデジタル時代の子育てを学ぼう！",
+      "background": "space",
+      "title": "YouTubeとの正しい付き合い方",
+      "content": "YouTube視聴を一律に禁じるのは現実的ではありません。一緒に見て「なぜこの動画が好き？」「これは本当かな？」と対話することが重要。メディアリテラシー（情報を批判的に見る力）を育てよう！",
+      "emoji": "▶️",
+      "highlight": "メディアリテラシー教育：フィンランドでは小学校から「フェイクニュース」の見分け方を教える"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとデジタル時代の子育てを学ぼう！",
+      "background": "classroom",
+      "title": "SNSとのヘルシーな関係",
+      "content": "12〜13歳からSNSを使い始める子供が多い。インスタ・TikTokが「比較」「承認欲求」「FOMO（取り残される恐怖）」を生む問題も。「SNSで見えるのは人の一番いい瞬間だけ」と教えることが大切。",
+      "emoji": "📸",
+      "highlight": "SNS使用と青年の精神健康：使用時間が多いほどうつ・不安・低自尊感情と相関"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとデジタル時代の子育てを学ぼう！",
+      "background": "city",
+      "title": "ゲーム依存（ゲーム障害）とは",
+      "content": "WHO（世界保健機関）が「ゲーム障害」を疾患として認定（2019年）。サイン：①日常生活より優先②制御できない③悪影響があっても続ける。親子のルール作り・オフラインの充実が予防になります！",
+      "emoji": "🎮",
+      "highlight": "ゲーム障害の有病率：日本の中高生の約3〜5%が「問題あり」レベルとも"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとデジタル時代の子育てを学ぼう！",
+      "background": "forest",
+      "title": "テクノロジーで子育てをサポート",
+      "content": "デジタルが子育ての敵ではなく味方にもなります。子供の睡眠管理アプリ・絵本読み聞かせアプリ・家族の位置情報共有・遠方の祖父母とのビデオ通話——上手に使えば育児の質を上げられます！",
+      "emoji": "🤝",
+      "highlight": "育児アプリ活用：授乳・睡眠記録・発達チェックなどデジタルサポートで親の負担軽減"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "デジタル時代の子育てを学んだ！次は地方創生×子育てへ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

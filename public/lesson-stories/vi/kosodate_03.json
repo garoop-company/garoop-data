@@ -1,0 +1,131 @@
+{
+  "title": "Chơi là học tập tốt nhất - Phát triển khả năng phi nhận thức",
+  "description": "Cùng Garu học tập và vui chơi một cách thú vị!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Chơi là học tập tốt nhất! Cùng nhau khám phá khoa học của chơi!",
+      "background": "candy",
+      "title": "Chơi là học tập tốt nhất - Phát triển khả năng phi nhận thức",
+      "emoji": "🎮",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học tập và vui chơi một cách thú vị!",
+      "background": "classroom",
+      "title": "Khả năng phi nhận thức là gì?",
+      "content": "Bên cạnh khả năng nhận thức (IQ) có thể đo được bằng bài kiểm tra, còn có những khả năng phi nhận thức như sức mạnh ý chí, tự kiểm soát, hợp tác, đồng cảm, sáng tạo... giúp dự đoán thành công trong cuộc sống!",
+      "emoji": "💪",
+      "highlight": "Giải thưởng Nobel Kinh tế Heckman: Đầu tư vào khả năng phi nhận thức trong giai đoạn thơ ấu mang lại lợi nhuận xã hội cao nhất"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học tập và vui chơi một cách thú vị!",
+      "background": "ocean",
+      "title": "Nuôi dưỡng sức mạnh ý chí (Grit)",
+      "content": "Grit = đam mê + kiên trì. Sức mạnh ý chí giúp vượt qua khó khăn và dự đoán thành công trong tương lai tốt hơn IQ (nghiên cứu của Duckworth). Trải nghiệm vượt qua thất bại giúp trẻ mạnh mẽ hơn!",
+      "emoji": "🏋️",
+      "highlight": "Nghiên cứu về Grit: Các nghiên cứu tại West Point, Spelling Bee, Chicago Public Schools đã chứng minh điều này một cách nhất quán"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học tập và vui chơi một cách thú vị!",
+      "background": "forest",
+      "title": "Phương pháp giáo dục Montessori",
+      "content": "Phương pháp giáo dục do Maria Montessori phát triển tập trung vào việc trẻ tự chọn và học. Người sáng lập Google và Amazon cũng xuất thân từ phương pháp này. Tính tự chủ, tập trung và khả năng giải quyết vấn đề được phát triển!",
+      "emoji": "🏫",
+      "highlight": "Người nổi tiếng xuất thân từ Montessori: Người sáng lập Google, Amazon, Wikipedia..."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học tập và vui chơi một cách thú vị!",
+      "background": "classroom",
+      "title": "Giá trị giáo dục của khối xây dựng, LEGO, sandbox",
+      "content": "Khối xây dựng và LEGO giúp phát triển tư duy toán học, nhận thức không gian, giải quyết vấn đề và sáng tạo. Sandbox giúp trẻ học về quy luật vật lý. Những trò chơi tưởng chừng đơn giản lại là công cụ học tập tốt nhất!",
+      "emoji": "🧱",
+      "highlight": "Nghiên cứu về LEGO: Cải thiện khả năng nhận thức không gian, toán học và STEM (khoa học, công nghệ, kỹ thuật, toán học)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học tập và vui chơi một cách thú vị!",
+      "background": "space",
+      "title": "Ý nghĩa sâu sắc của trò chơi giả vờ",
+      "content": "Trò chơi giả vờ như bác sĩ, nấu ăn... giúp phát triển khả năng hiểu quan điểm của người khác (lý thuyết tâm trí). Trò chơi này giúp phát triển tính xã hội, đồng cảm, ngôn ngữ và sáng tạo!",
+      "emoji": "👨‍⚕️",
+      "highlight": "Lý thuyết tâm trí (Theory of Mind): Khả năng hiểu người khác đang nghĩ gì. Cơ sở của cuộc sống xã hội"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học tập và vui chơi một cách thú vị!",
+      "background": "ocean",
+      "title": "Sử dụng trò chơi điện tử trong giáo dục",
+      "content": "Không phải tất cả trò chơi đều xấu! Minecraft giúp phát triển nhận thức không gian, sáng tạo và toán học. Trò chơi lập trình giúp phát triển tư duy logic. Điều quan trọng là nội dung, thời gian và cách chơi cùng nhau!",
+      "emoji": "🎮",
+      "highlight": "Minecraft: Được sử dụng rộng rãi trong các trường học trên toàn thế giới như một công cụ giáo dục. Phát triển sáng tạo và STEM"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học tập và vui chơi một cách thú vị!",
+      "background": "forest",
+      "title": "Phát triển khả năng chấp nhận rủi ro thông qua chơi ngoài trời",
+      "content": "Leo cây, chơi nước, chơi bùn... giúp phát triển khả năng đánh giá rủi ro, tự tin và khả năng phục hồi. Sự bảo vệ quá mức có thể khiến trẻ mất cơ hội thử thách. Đôi khi vấp ngã cũng là một phần của việc học!",
+      "emoji": "🌳",
+      "highlight": "Trẻ em chơi ngoài trời nhiều hơn: Có khả năng tự kiểm soát, giải quyết vấn đề và thể chất tốt hơn (được nhiều nghiên cứu đồng thuận)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học tập và vui chơi một cách thú vị!",
+      "background": "classroom",
+      "title": "Tầm quan trọng của thời gian 'chán'",
+      "content": "Việc sắp xếp lịch trình dày đặc có thể khiến trẻ mất đi sự sáng tạo. Khi có thời gian 'làm gì đó', trẻ có thể tự phát minh ra trò chơi. Sự chán nản là mẹ của sự sáng tạo!",
+      "emoji": "🌤️",
+      "highlight": "Nghiên cứu về thời gian tự do: Trẻ em phát triển hoạt động sáng tạo và khả năng tự quyết định nhiều nhất trong thời gian không có kế hoạch"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đã học về chơi và khả năng phi nhận thức! Tiếp theo là giáo dục bữa ăn!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

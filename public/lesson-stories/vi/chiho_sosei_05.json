@@ -1,0 +1,131 @@
+{
+  "title": "Khuyến khích di chuyển và định cư - Một cách sống mới ở vùng quê",
+  "description": "Cùng Garu học về khuyến khích di chuyển và định cư một cách thú vị!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng nhau tìm hiểu về lựa chọn di chuyển đến vùng quê!",
+      "background": "forest",
+      "title": "Khuyến khích di chuyển và định cư - Một cách sống mới ở vùng quê",
+      "emoji": "🏠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về khuyến khích di chuyển và định cư!",
+      "background": "classroom",
+      "title": "Di chuyển và định cư là gì?",
+      "content": "Chính sách khuyến khích di chuyển từ thành phố đến vùng quê (di chuyển) và định cư lâu dài tại địa phương (định cư) đang được triển khai. Chính phủ và chính quyền địa phương cung cấp hỗ trợ chi phí di chuyển, giới thiệu việc làm, hỗ trợ nhà ở...",
+      "emoji": "🏡",
+      "highlight": "Số lượng tư vấn di chuyển: Kỷ lục 2022 (cơ quan hỗ trợ 'Trung tâm hỗ trợ trở về quê hương' của chính phủ)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về khuyến khích di chuyển và định cư!",
+      "background": "ocean",
+      "title": "Chương trình hỗ trợ di chuyển như thế nào?",
+      "content": "① Trợ cấp di chuyển (tối đa 100 triệu yên cho một số chính quyền địa phương)② Trợ cấp tiền thuê nhà③ Trợ cấp cải tạo nhà④ Hỗ trợ nông nghiệp⑤ Miễn phí chăm sóc trẻ em,... là những hỗ trợ mạnh mẽ cho việc di chuyển đến vùng quê!",
+      "emoji": "💰",
+      "highlight": "Ví dụ trợ cấp di chuyển: Tỉnh Shimane trả tối đa 150 triệu yên cho các hộ gia đình có trẻ em!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về khuyến khích di chuyển và định cư!",
+      "background": "forest",
+      "title": "Lực lượng hợp tác phát triển địa phương là gì?",
+      "content": "Lực lượng hợp tác phát triển địa phương là một chương trình của chính phủ giúp người dân di chuyển từ thành phố đến vùng quê để phát triển địa phương. Trong 3 năm, người tham gia sẽ nhận được lương hàng tháng (khoảng 17 triệu yên) và chi phí hoạt động. Năm 2023, có hơn 6.000 người đang hoạt động trên toàn quốc!",
+      "emoji": "👥",
+      "highlight": "Lực lượng hợp tác phát triển địa phương: Số lượng thành viên tăng nhanh, 2022: 6.447 người (kỷ lục)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về khuyến khích di chuyển và định cư!",
+      "background": "space",
+      "title": "Người lao động từ xa thay đổi vùng quê",
+      "content": "Những người làm việc trong lĩnh vực CNTT, thiết kế, viết lách, tư vấn,... có thể chọn di chuyển đến vùng quê. Sống ở vùng quê nhưng vẫn làm việc cho công ty ở thành phố - 'sống hai nơi' cũng là một phong cách mới!",
+      "emoji": "💻",
+      "highlight": "Sống hai nơi: Số lượng người có nhà ở vùng quê và làm việc ở Tokyo tăng lên"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về khuyến khích di chuyển và định cư!",
+      "background": "city",
+      "title": "Sử dụng ngân hàng nhà trống",
+      "content": "Có khoảng 9 triệu ngôi nhà trống trên toàn quốc. Chính quyền địa phương vận hành 'ngân hàng nhà trống' (công bố thông tin bất động sản với giá miễn phí hoặc thấp). Số lượng người cải tạo nhà cũ thành quán cà phê, khách sạn, văn phòng chia sẻ tăng nhanh. Giá dưới 100 triệu yên!",
+      "emoji": "🏚️",
+      "highlight": "Số lượng nhà đăng ký trên toàn quốc: Hơn 10.000 (2023). Giá dưới 100 triệu yên cũng nhiều"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về khuyến khích di chuyển và định cư!",
+      "background": "forest",
+      "title": "Di chuyển để có môi trường nuôi dạy con tốt hơn",
+      "content": "Giá nhà 3 phòng ngủ ở Tokyo lên đến 700-800 triệu yên. Ở vùng quê, giá nhà có sân vườn rộng chỉ khoảng 50-100 triệu yên! Nhiều chính quyền địa phương miễn phí giáo dục và y tế, số lượng hộ gia đình có trẻ em di chuyển tăng nhanh.",
+      "emoji": "👶",
+      "highlight": "Giá nhà ở vùng quê: Trung bình 50-100 triệu yên (1/10-1/5 giá ở Tokyo)"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học về khuyến khích di chuyển và định cư!",
+      "background": "classroom",
+      "title": "Bí quyết di chuyển không thất bại",
+      "content": "Ví dụ thất bại khi di chuyển: ① Không hòa nhập với cộng đồng địa phương② Không tìm được việc làm③ Cuộc sống bất tiện - biện pháp đối phó là thử nghiệm di chuyển nhiều lần trước khi quyết định. Kết nối với người dân địa phương trước khi di chuyển là chìa khóa thành công!",
+      "emoji": "📋",
+      "highlight": "Chương trình 'thử nghiệm di chuyển': Nhiều chính quyền địa phương cung cấp cơ sở lưu trú ngắn hạn với giá rẻ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về khuyến khích di chuyển và định cư!",
+      "background": "ocean",
+      "title": "Điểm cần lưu ý khi chọn nơi di chuyển",
+      "content": "① Môi trường làm việc (có thể làm việc từ xa? việc làm tại địa phương?)② Mức độ hoàn thiện của cơ sở y tế và giáo dục③ Giao thông (truy cập đến thành phố)④ Không khí cộng đồng địa phương⑤ Môi trường tự nhiên⑥ Mức độ hỗ trợ di chuyển - có thể tìm kiếm trên trang web 'SMOUT' và 'JOIN'!",
+      "emoji": "🔍",
+      "highlight": "Trang web kết nối di chuyển 'SMOUT': Dịch vụ 'săn đón' người di chuyển của chính quyền địa phương và doanh nghiệp trên toàn quốc"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đã học về cơ chế di chuyển và định cư! Tiếp theo là kinh doanh địa phương🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

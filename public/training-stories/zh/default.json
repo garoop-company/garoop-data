@@ -1,0 +1,70 @@
+{
+  "title": "加鲁ちゃん道场修炼",
+  "description": "和加鲁ちゃん一起开始修炼吧！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "欢迎！来到加鲁ちゃん道场！一起开始修炼吧！🥷",
+      "background": "dojo",
+      "title": "欢迎来到道场！",
+      "content": "这里是「加鲁ちゃん道场」！每天稍微练习一下，磨练自己的技能吧！",
+      "emoji": "⚔️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "请记住道场的3条规则哦！",
+      "background": "bamboo",
+      "title": "道场的3条规则",
+      "content": "检查一下修炼中需要遵守的重要规则！",
+      "emoji": "📜",
+      "highlight": "道场规则：\n1. 每天稍微练习一下\n2. 不懂的话问加鲁ちゃん\n3. 记录自己做到的事情"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "AI工具是修炼的「武器」哦！加鲁ちゃん！请善用它们！",
+      "background": "mountain",
+      "title": "用AI当武器",
+      "content": "AI是非常强大的「武器」。正确使用的话，就能轻松完成困难的事情哦！",
+      "emoji": "🤖",
+      "highlight": "主要武器：\n・NotebookLM → 查询和总结\n・Suno AI → 制作音乐\n・Codex → 制作程序"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "选择今天的修炼课程，马上开始吧！",
+      "background": "dojo",
+      "title": "选择课程",
+      "content": "从修炼类别列表中选择自己想做的课程。如果不知道从哪里开始，可以问加鲁ちゃん哦！",
+      "emoji": "🎯",
+      "highlight": "推荐课程：\n🎬 动画修炼\n💻 编程修炼\n🎵 音乐修炼\n🎥 视频修炼"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "道场修炼准备完成！马上开始和加鲁ちゃん一起修炼吧！🌟",
+      "background": "temple",
+      "title": "开始修炼！",
+      "content": "你已经记住了道场规则和用法！加鲁ちゃん一直在为你加油。开始修炼吧！",
+      "emoji": "🥷",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

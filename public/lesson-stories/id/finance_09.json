@@ -1,0 +1,131 @@
+{
+  "title": "Kewirausahaan dan Uang ~Rahasia Mendapatkan Dana~",
+  "description": "Dari mana uang untuk memulai bisnis berasal? Mari kita pelajari tentang pengumpulan dana!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari cara mengumpulkan uang untuk startup! 💼",
+      "background": "city",
+      "title": "Kewirausahaan dan Uang",
+      "emoji": "💼",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Berapa banyak uang yang dibutuhkan untuk startup?",
+      "background": "classroom",
+      "title": "Investasi Awal untuk Startup",
+      "content": "Jumlah uang yang dibutuhkan untuk bisnis sangat bervariasi tergantung pada industri! Makanan dan minuman: Rp 5 juta hingga Rp 200 juta. Layanan web: Rp 10 juta hingga Rp 500 juta. Aplikasi: Rp 50 juta hingga Rp 1 miliar. Beberapa bisnis bahkan dapat dimulai dengan Rp 0 menggunakan hanya smartphone!",
+      "emoji": "💰",
+      "highlight": "Layanan web dan aplikasi dapat dimulai dengan 'awal kecil' Rp 10 juta hingga Rp 100 juta! "
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Apa itu self-funding atau bootstrapping?",
+      "background": "forest",
+      "title": "Memulai dengan Uang Sendiri",
+      "content": "Menggunakan uang sendiri untuk memulai bisnis disebut 'bootstrapping'. Pendekatan ini memberikan kebebasan yang tinggi karena tidak mengambil uang dari luar. Banyak perusahaan sukses, seperti 37signals (pengembang Basecamp dan HEY), memulai dengan self-funding.",
+      "emoji": "👟",
+      "highlight": "Kelebihan bootstrapping: tidak ada pengenceran ekuitas, kemampuan untuk mengelola dengan kecepatan sendiri"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Bagaimana cara kerja pinjaman bank dan pembiayaan?",
+      "background": "city",
+      "title": "Pinjaman Bank dan Badan Pembiayaan Jepang",
+      "content": "Anda dapat meminjam uang dari bank untuk mendanai bisnis Anda. Badan Pembiayaan Jepang dikenal menawarkan pinjaman dengan bunga rendah untuk kaum muda, wanita, dan wirausaha. Dengan menyerahkan rencana bisnis dan melewati proses審査, Anda dapat meminjam puluhan hingga jutaan dolar!",
+      "emoji": "🏦",
+      "highlight": "Badan Pembiayaan Jepang: pinjaman tanpa jaminan hingga $72 juta"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Subsidi dan hibah adalah 'uang yang tidak perlu dikembalikan'!",
+      "background": "ocean",
+      "title": "Menggunakan Subsidi dan Hibah",
+      "content": "Subsidi dan hibah yang disediakan oleh pemerintah dan pemerintah daerah adalah dana yang tidak perlu dikembalikan! Contohnya termasuk Subsidi Keberlanjutan Usaha Kecil, Hibah Pembuatan, dan Hibah Pengenalan IT. Banyak program tersedia setiap tahun. Hanya wirausaha yang dapat mengajukan permohonan!",
+      "emoji": "🎁",
+      "highlight": "Contoh subsidi: Subsidi Keberlanjutan Usaha Kecil → hingga Rp 200 juta (tidak perlu dikembalikan)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apakah investor malaikat benar-benar malaikat?",
+      "background": "space",
+      "title": "Investor Malaikat dan Modal Ventura",
+      "content": "Investor malaikat: orang kaya individu berinvestasi pada wirausaha (ratusan ribu hingga jutaan dolar). Modal ventura (VC): dana khusus berinvestasi pada startup yang menjanjikan (jutaan hingga puluhan juta dolar). Sebagai imbalannya, mereka menerima sebagian dari ekuitas.",
+      "emoji": "👼",
+      "highlight": "Investasi VC Jepang: sekitar Rp 1 triliun/tahun (2023). AS memiliki lebih dari Rp 20 triliun."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Wujudkan impian Anda dengan crowdfunding!",
+      "background": "city",
+      "title": "Crowdfunding",
+      "content": "Crowdfunding melibatkan pengumpulan uang dalam jumlah kecil dari banyak orang. Gunakan platform seperti Kickstarter, Indiegogo, atau Makuake. Metode revolusioner ini memungkinkan Anda mengumpulkan dana sebelum pengembangan produk dengan mengumpulkan pembeli!",
+      "emoji": "🌐",
+      "highlight": "Pebble Watch: mengumpulkan lebih dari 3.000% dari target di Kickstarter (2012)"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Berapa banyak uang yang dibutuhkan untuk ide bisnis Anda?",
+      "background": "candy",
+      "title": "Mari Buat Rencana Pendanaan!",
+      "content": "Apa yang Anda butuhkan untuk memulai bisnis? ① Biaya awal (peralatan, inventori, dll.) ② Biaya bulanan (gaji, sewa, bahan) ③ Kapan Anda akan mencapai titik impas? Menulisnya akan membantu Anda mengembangkan pola pikir wirausaha!",
+      "emoji": "📋",
+      "highlight": "Model bisnis: pendapatan - biaya = laba. Mari kita fokus pada persamaan ini!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Beberapa wirausaha memiliki target IPO (penyediaan saham)!",
+      "background": "classroom",
+      "title": "Strategi Keluar dan IPO",
+      "content": "Tujuan akhir (keluar) untuk startup seringkali ① IPO (penyediaan saham) atau ② M&A (diperoleh oleh perusahaan besar). M&A terbesar di Jepang: SoftBank memperoleh ARM sebesar $40 miliar (sekitar Rp 6 triliun) pada 2016.",
+      "emoji": "🏆",
+      "highlight": "Jumlah M&A tertinggi di Jepang: Takeda Pharmaceutical memperoleh Shire sebesar sekitar Rp 62 miliar pada 2019"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Anda telah mempelajari tentang pengumpulan dana! Berikut adalah masa depan uang 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

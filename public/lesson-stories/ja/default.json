@@ -12,7 +12,11 @@
       "background": "space",
       "title": "Garoopへようこそ！",
       "emoji": "🌟",
-      "effects": ["sparkle", "stars"]
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「レッスンスタート！」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
     },
     {
       "id": 2,
@@ -83,7 +87,10 @@
       "background": "space",
       "title": "レッスン完了！",
       "emoji": "🎉",
-      "effects": ["confetti", "stars"]
+      "effects": [
+        "confetti",
+        "stars"
+      ]
     }
   ]
 }

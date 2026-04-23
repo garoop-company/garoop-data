@@ -1,0 +1,69 @@
+{
+  "title": "GitHubアカウント作成ミッション",
+  "description": "コードの保管庫を作るミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "エージェント！今回のミッションは「秘密基地のデータバンク構築」ガル！",
+      "background": "spy",
+      "title": "ミッション指令：データバンク建設",
+      "content": "任務は、作品を安全に保管し、あとから育てられる拠点をつくること。GitHubアカウントはただの登録ではなく、学んだことを積み上げるためのデジタル制作基地になる。",
+      "emoji": "🐙",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "GitHubは「コードを保管する宇宙のロッカー」ガル！",
+      "background": "hq",
+      "title": "GitHubとは？",
+      "content": "GitHubでは、コードを保存するだけでなく、変更履歴を残し、別の日の自分や仲間と協力できる。作品が増えるほど「何をいつ直したか」が見える価値は大きくなる。",
+      "emoji": "📚",
+      "highlight": "GitHubの役割:\n・保存\n・履歴管理\n・共有\n・協力"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "アカウント作成は必ずおうちの人と一緒にやろう！",
+      "background": "lab",
+      "title": "安全なユーザー名を考えよう",
+      "content": "アカウント作成で最優先なのは安全設計だ。公開されても困らないユーザー名を選び、強いパスワードを設定し、個人情報を混ぜないことが、楽しく続けるための土台になる。",
+      "emoji": "🔐",
+      "highlight": "安全ルール:\n・本名そのままは使わない\n・学校名や住所を入れない\n・推測されにくいパスワードにする"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "おうちの人と一緒にアカウント登録をしよう！",
+      "background": "spy",
+      "title": "アカウント登録作戦",
+      "content": "登録作業は、おうちの人と一緒に意味を確認しながら進めると安心だ。メール認証、ユーザー名、パスワードの設定をただ終わらせるのではなく、「なぜ必要か」を理解しながら進めよう。",
+      "emoji": "🔑",
+      "highlight": "チェックポイント:\n1. メール確認\n2. 安全なID\n3. 強いパスワード\n4. 保管方法の確認"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "データバンク構築完了ガル！ログイン画面をスクショして260ポイントゲット！🎯",
+      "background": "hq",
+      "title": "ミッション完了！",
+      "content": "ミッション達成後は、ログインできることより、今後ここに作品を置いていくイメージを持てているかが大切だ。次は最初のリポジトリを作り、「自分の作品の棚」を1つ増やしていこう。",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

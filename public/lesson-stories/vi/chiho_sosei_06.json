@@ -1,0 +1,131 @@
+{
+  "title": "Kinh doanh địa phương - Sóng mới khởi nghiệp tại địa phương",
+  "description": "Cùng Garu học về kinh doanh địa phương một cách thú vị!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Có nhiều bạn trẻ đang khởi nghiệp tại địa phương! Hãy cùng tìm hiểu bí mật đằng sau!",
+      "background": "city",
+      "title": "Kinh doanh địa phương - Sóng mới khởi nghiệp tại địa phương",
+      "emoji": "💼",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về kinh doanh địa phương!",
+      "background": "forest",
+      "title": "Lợi ích của khởi nghiệp tại địa phương là gì?",
+      "content": "Lợi ích của khởi nghiệp tại địa phương: ① Giá đất và tiền thuê thấp ② Ít đối thủ cạnh tranh ③ Nhu cầu của địa phương rõ ràng ④ Hỗ trợ hành chính dồi dào ⑤ Cộng đồng chặt chẽ, dễ dàng lan truyền. Có thể thành công lớn tại địa phương ngay cả khi thất bại tại thành phố!",
+      "emoji": "🚀",
+      "highlight": "Tiền thuê văn phòng tại địa phương: 1/10 đến 1/5 của Tokyo. Giảm đáng kể chi phí ban đầu"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về kinh doanh địa phương!",
+      "background": "classroom",
+      "title": "Chuyển đổi 6 ngành nghề cho nông dân!",
+      "content": "Chuyển đổi 6 ngành nghề (sản xuất, chế biến, bán trực tiếp) cho nông dân. Ví dụ: Nông dân trồng dâu tây → Sản xuất mứt → Bán trực tiếp tại cửa hàng hoặc qua mạng. Giá trị gia tăng có thể tăng 10-100 lần!",
+      "emoji": "🍓",
+      "highlight": "Chuyển đổi 6 ngành nghề cho nông dân: Nếu chế biến và bán trực tiếp, doanh thu có thể tăng 3-10 lần"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về kinh doanh địa phương!",
+      "background": "ocean",
+      "title": "Cách mạng bia thủ công và rượu sake",
+      "content": "Bia thủ công và rượu sake sử dụng nguyên liệu địa phương đang trở nên phổ biến trong và ngoài nước! Các nhà máy bia quy mô nhỏ (microbrewery) đang mọc lên khắp nơi. Sản phẩm địa phương đang được khách du lịch ưa chuộng.",
+      "emoji": "🍺",
+      "highlight": "Số lượng nhà máy bia thủ công: Từ 100 năm 2010 lên hơn 900 năm 2023! Tăng trưởng hàng năm"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về kinh doanh địa phương!",
+      "background": "space",
+      "title": "Tái sử dụng nhà cổ",
+      "content": "Kinh doanh tái sử dụng nhà cổ, trường học cũ, nhà máy cũ thành quán cà phê, khách sạn, phòng trưng bày, không gian làm việc chung đang tăng trưởng. Chi phí ban đầu thấp và có thể sử dụng trợ cấp. Không gian độc đáo với lịch sử và văn hóa địa phương!",
+      "emoji": "🏯",
+      "highlight": "Ví dụ tái sử dụng trường học cũ: Hơn 500 trường trên toàn quốc. Chuyển đổi thành cơ sở lưu trú, cửa hàng bán sản phẩm nông nghiệp..."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về kinh doanh địa phương!",
+      "background": "forest",
+      "title": "Bán hàng qua EC từ địa phương đến toàn quốc",
+      "content": "Bán sản phẩm đặc trưng của địa phương qua mạng (EC) đến toàn quốc và thế giới. Sử dụng các nền tảng như Rakuten, Amazon, BASE, Mercari Shops... Quảng cáo và mạng xã hội kết hợp.",
+      "emoji": "🛒",
+      "highlight": "Sản phẩm hoàn trả thuế: Tiền dẫn đầu của sản phẩm đặc trưng địa phương. Thị trường hơn 6.000 tỷ mỗi năm"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về kinh doanh địa phương!",
+      "background": "city",
+      "title": "Giải quyết vấn đề xã hội bằng kinh doanh xã hội",
+      "content": "Không chỉ theo đuổi lợi nhuận, mà còn giải quyết vấn đề của địa phương bằng 'kinh doanh xã hội'. Các vấn đề về chăm sóc người già, nuôi dạy trẻ em, nông nghiệp, môi trường... đang được giải quyết bằng kinh doanh.",
+      "emoji": "🌱",
+      "highlight": "Quy mô kinh doanh xã hội: Khoảng 30 nghìn tỷ. Bao gồm NPO, doanh nghiệp xã hội, kinh doanh cộng đồng"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học về kinh doanh địa phương!",
+      "background": "classroom",
+      "title": "Tạo người hâm mộ địa phương bằng đăng ký hàng tháng",
+      "content": "Dịch vụ đăng ký hàng tháng cho sản phẩm địa phương đang trở nên phổ biến. Khách hàng cố định (người lặp lại) sẽ tạo ra doanh thu ổn định cho địa phương.",
+      "emoji": "📦",
+      "highlight": "Ví dụ đăng ký hàng tháng: Rau củ hàng tháng, hội rượu địa phương, hộp sản phẩm đặc trưng..."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về kinh doanh địa phương!",
+      "background": "ocean",
+      "title": "Tăng cường kinh doanh địa phương bằng kỹ thuật số",
+      "content": "Trang web, SNS, Google Maps, kế toán đám mây... Sử dụng công cụ kỹ thuật số để có thể thu hút khách hàng từ toàn quốc. Kỹ thuật số là lifeline của kinh doanh địa phương!",
+      "emoji": "💻",
+      "highlight": "Doanh thu của doanh nghiệp địa phương đã kỹ thuật số: Gấp 1,5 lần so với doanh nghiệp không kỹ thuật số (theo khảo sát của Bộ Công Thương)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Học xong về kinh doanh địa phương! Tiếp theo là tạo thương hiệu sản phẩm đặc trưng 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

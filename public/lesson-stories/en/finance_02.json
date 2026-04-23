@@ -1,0 +1,130 @@
+{
+  "title": "The Power of Savings ~ How to Protect Your Money ~",
+  "description": "Let's learn about the importance of savings and how to protect money with Garu-chan!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Today, we're going to learn the secret of savings! 🐖",
+      "background": "classroom",
+      "title": "The Power of Savings",
+      "emoji": "🐖",
+      "effects": [
+        "sparkle"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "First, let's understand the 'inflow' and 'outflow' of money!",
+      "background": "city",
+      "title": "Income and Expenses",
+      "content": "Money consists of 'incoming money (income)' and 'outgoing money (expenses)'. If income > expenses, it's a 'surplus', and if income < expenses, it's a 'deficit'. The surplus becomes savings!",
+      "emoji": "⚖️",
+      "highlight": "Savings = Income - Expenses"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Can you guess why savings are important?",
+      "background": "forest",
+      "title": "Why Save?",
+      "content": "There are three purposes for savings: ① 'emergency fund' for unexpected situations, ② 'goal-oriented savings' for dreams (travel, games, etc.), and ③ 'retirement savings' for the future. It's essential to develop a habit from a young age!",
+      "emoji": "🎯",
+      "highlight": "Emergency fund: 3-6 months' worth of living expenses is a good guideline"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Saving first, 'prior savings', is the most powerful way!",
+      "background": "classroom",
+      "title": "The Secret of Prior Savings",
+      "content": "Many people try to save 'what's left', but money doesn't last! That's why 'prior savings', saving a portion immediately, is effective. Allocate 10-20% of your income to a separate savings account!",
+      "emoji": "💡",
+      "highlight": "Prior savings = Allocate 10% to a separate account as soon as you receive your salary"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "When you deposit money in a bank, it grows little by little!",
+      "background": "city",
+      "title": "What is Bank Interest?",
+      "content": "When you deposit money in a bank, you earn 'interest (interest rate)'. For example, with an annual interest rate of 0.1%, if you deposit 1 million yen, you'll earn 1,000 yen in a year. Japan's ordinary deposit interest rate is currently around 0.02-1%. It's a small but safe way to grow your money!",
+      "emoji": "🏦",
+      "highlight": "Annual interest rate of 1%: 1 million yen → approximately 1.1 million yen after 10 years (simple interest)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "If you save 500 yen every day... it's amazing!",
+      "background": "space",
+      "title": "The Power of Small, Consistent Savings",
+      "content": " 'Every little bit counts' - if you save 100 yen a day, you'll have 36,500 yen in a year! Even saving 1,000 yen a month will add up to 120,000 yen in 10 years. The key is not the amount but 'consistency'. Habits are the most powerful tool!",
+      "emoji": "🏔️",
+      "highlight": "100 yen/day × 365 days = 36,500 yen/year"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Savings have 'time' as their best friend!",
+      "background": "ocean",
+      "title": "The Relationship Between Time and Money",
+      "content": "Saving 10,000 yen/month from age 20 vs saving 20,000 yen/month from age 30. Which one will grow more? The answer is the one from age 20! The longer the time, the more money grows. So, starting now is the best investment!",
+      "emoji": "⏰",
+      "highlight": "Warren Buffett, the 'Oracle of Omaha', bought his first stock at age 11"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Let's set your own savings goal!",
+      "background": "candy",
+      "title": "Set a Savings Goal!",
+      "content": "① What do you want to save for? (purpose) ② How much do you need? (amount) ③ By when? (deadline) ④ How much will you save each month? (plan) If you decide on these four things, your savings will be 3 times more likely to succeed!",
+      "emoji": "📋",
+      "highlight": "SMART goals: Specific, Measurable, Achievable, Relevant, Time-bound"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "The enemy of savings is 'impulse buying'!",
+      "background": "classroom",
+      "title": "Tips to Avoid Wasteful Spending",
+      "content": "When you think 'I want it!', don't buy it immediately. Wait 24 hours and think about it. This 'warm-up period' helps you decide if it's really necessary. Keeping receipts and reviewing them at the end of the month is also helpful!",
+      "emoji": "🛑",
+      "highlight": "24-hour rule: reduces impulse buying by about 70%"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You're now a savings master! Let's move on to the world of investment! 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

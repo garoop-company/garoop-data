@@ -1,0 +1,131 @@
+{
+  "title": "Entrepreneurship and Money ~The Secret to Fundraising~",
+  "description": "Where does the money to start a business come from? Let's learn about fundraising!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn how to raise money for a startup! 💼",
+      "background": "city",
+      "title": "Entrepreneurship and Money",
+      "emoji": "💼",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "How much money does a startup need?",
+      "background": "classroom",
+      "title": "Initial Investment for a Startup",
+      "content": "The amount of money needed for a business varies greatly depending on the industry! Food and beverage: $5,000 to $200,000. Web services: $10,000 to $500,000. Apps: $50,000 to $1,000,000. Some businesses can even start with $0 using just a smartphone!",
+      "emoji": "💰",
+      "highlight": "Web services and apps can start with a 'small start' of $10,000 to $100,000! "
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "What is self-funding or bootstrapping?",
+      "background": "forest",
+      "title": "Starting with Your Own Money",
+      "content": "Using your own money to start a business is called 'bootstrapping'. This approach gives you a high degree of freedom since you're not taking money from outside. Many successful companies, such as 37signals (the developers of Basecamp and HEY), started with self-funding.",
+      "emoji": "👟",
+      "highlight": "Advantages of bootstrapping: no equity dilution, ability to manage at your own pace"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "How do bank loans and financing work?",
+      "background": "city",
+      "title": "Bank Loans and Japan Finance Corporation",
+      "content": "You can borrow money from a bank to fund your business. The Japan Finance Corporation is known for offering low-interest loans to young people, women, and entrepreneurs. By submitting a business plan and passing a review, you can borrow tens to millions of dollars!",
+      "emoji": "🏦",
+      "highlight": "Japan Finance Corporation: unsecured and unguaranteed loans of up to $72 million"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Subsidies and grants are 'money you don't have to pay back'!",
+      "background": "ocean",
+      "title": "Using Subsidies and Grants",
+      "content": "Subsidies and grants provided by the government and local authorities are funds that you don't have to repay! Examples include the Small Business Sustainability Support Subsidy, Manufacturing Subsidy, and IT Introduction Subsidy. Many programs are available every year. Only entrepreneurs can apply!",
+      "emoji": "🎁",
+      "highlight": "Subsidy example: Small Business Sustainability Support Subsidy → up to $200,000 (no repayment required)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Are angel investors really angels?",
+      "background": "space",
+      "title": "Angel Investors and Venture Capital",
+      "content": "Angel investors: wealthy individuals invest in entrepreneurs (hundreds of thousands to millions of dollars). Venture capital (VC): specialized funds invest in promising startups (millions to tens of millions of dollars). In exchange, they receive a portion of the equity.",
+      "emoji": "👼",
+      "highlight": "Japanese VC investment: approximately $1 trillion/year (2023). The US is over $20 trillion."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Make your dreams come true with crowdfunding!",
+      "background": "city",
+      "title": "Crowdfunding",
+      "content": "Crowdfunding involves collecting small amounts of money from many people. Use platforms like Kickstarter, Indiegogo, or Makuake. This revolutionary method allows you to gather funds before product development by collecting buyers!",
+      "emoji": "🌐",
+      "highlight": "Pebble Watch: raised over 3,000% of its target on Kickstarter (2012)"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "How much money does your business idea need?",
+      "background": "candy",
+      "title": "Let's Create a Funding Plan!",
+      "content": "What do you need to start your business? ① Initial costs (equipment, inventory, etc.) ② Monthly costs (salaries, rent, materials) ③ When will you break even? Writing it down will help you develop an entrepreneurial mindset!",
+      "emoji": "📋",
+      "highlight": "Business model: revenue - costs = profit. Let's focus on this equation!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Some entrepreneurs aim for an IPO (stock listing)!",
+      "background": "classroom",
+      "title": "Exit Strategy and IPO",
+      "content": "The ultimate goal (exit) for startups is often ① IPO (listing on the stock market) or ② M&A (being acquired by a large company). Japan's largest M&A: SoftBank acquired ARM for $40 billion (approximately $6 trillion) in 2016.",
+      "emoji": "🏆",
+      "highlight": "Highest M&A amount in Japan: Takeda Pharmaceutical acquired Shire for approximately $62 billion in 2019"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've learned about fundraising! Next is the future of money 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

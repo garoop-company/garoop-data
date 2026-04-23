@@ -1,0 +1,69 @@
+{
+  "title": "Misi Gambar NotebookLM",
+  "description": "Misi merencanakan gambar dengan AI!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agen Visual! Kali ini 'Operasi Gambar'! 🖼️",
+      "background": "lab",
+      "title": "Instruksi Misi: Operasi Gambar",
+      "content": "Tugas: Gunakan NotebookLM untuk mengatur ide gambar dan membuat 'instruksi pembuatan gambar' untuk AI!",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Untuk membuat gambar dengan AI, kamu membutuhkan 'deskripsi yang detail'!",
+      "background": "spy",
+      "title": "Apa itu Prompt Gambar?",
+      "content": "Prompt adalah deskripsi yang memberitahu alat pembuatan gambar AI untuk 'membuat gambar seperti ini'. Semakin detail, semakin baik gambarnya!",
+      "emoji": "✍️",
+      "highlight": "3 elemen prompt yang baik:\n① Siapa (karakter utama)\n② Di mana (lokasi/latar belakang)\n③ Suasana seperti apa (warna/suasana hati)"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Jelaskan gambar yang ingin kamu buat ke NotebookLM dan minta bantuan membuat prompt!",
+      "background": "lab",
+      "title": "Operasi Pembuatan Prompt",
+      "content": "Buka NotebookLM, deskripsikan gambar yang ingin kamu buat, dan minta bantuan membuat prompt!",
+      "emoji": "🎨",
+      "highlight": "Prompt yang bisa digunakan:\n'Buat teks untuk siswa sekolah dasar untuk meminta AI pembuatan gambar.\nTema adalah 'Sekolah Masa Depan',\ndan suasana hatinya ceria dan menyenangkan.'"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita buat gambar menggunakan prompt yang kamu buat!",
+      "background": "spy",
+      "title": "Tantangan Pembuatan Gambar",
+      "content": "Coba buat gambar dengan keluarga menggunakan AI pembuatan gambar dan prompt yang kamu buat!",
+      "emoji": "🖌️",
+      "highlight": "Syarat lulus:\n□ Organisasi ide selesai\n□ 1 prompt gambar selesai\n□ Direvisi setidaknya sekali"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Operasi Gambar selesai! Kirim prompt dan gambar untuk mendapatkan 320 poin! 🎯",
+      "background": "hq",
+      "title": "Misi Selesai!",
+      "content": "Kamu telah memiliki kekuatan seniman AI! Kirim prompt dan gambar yang dibuat ke Slack!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

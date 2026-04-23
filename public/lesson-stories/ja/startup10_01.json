@@ -1,0 +1,132 @@
+{
+  "title": "10歳でできること〜起業家マインドを持つ子供へ〜",
+  "description": "ガルちゃんと楽しく10歳でできることを学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "10歳でも起業できる！その秘密を学ぼう！",
+      "background": "city",
+      "title": "10歳でできること〜起業家マインドを持つ子供へ〜",
+      "emoji": "🚀",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「10歳でできること〜起業家マインドを持つ子供へ〜」をテーマに、子どもの視点で挑戦を形にする力を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと10歳でできることを学ぼう！",
+      "background": "classroom",
+      "title": "起業家マインドってなに？",
+      "content": "「問題を発見して解決しようとする姿勢」——これが起業家マインドの本質。成功した起業家の多くが子供の頃から「なぜ？」「もっと良くできないかな？」という好奇心を持っていました！",
+      "emoji": "💡",
+      "highlight": "Facebook創業者ザッカーバーグ：11歳でプログラミング開始。子供の頃から「問題解決者」"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと10歳でできることを学ぼう！",
+      "background": "ocean",
+      "title": "世界の10代起業家たち",
+      "content": "Moshe Hogeg（15歳でアプリ開発）・Akshay Ruparelia（英国最年少不動産仲介業者、17歳）・Mikaila Ulmer（4歳でレモネード販売→大企業との契約獲得）——年齢は関係ない！",
+      "emoji": "🌟",
+      "highlight": "最年少起業家Mikaila Ulmer：4歳でビジネス→11歳でTarget・Whole Foodsと契約"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと10歳でできることを学ぼう！",
+      "background": "space",
+      "title": "10歳でできる5つのビジネス",
+      "content": "①ハンドメイド販売（アクセサリー・手作りお菓子）②デジタルコンテンツ（YouTube・イラスト）③お手伝いサービス（草取り・荷物持ち）④リサイクル・フリマ⑤プログラミングサービス。全部小学生でも始められます！",
+      "emoji": "💰",
+      "highlight": "日本最年少起業家事例：小学生YouTuber・中学生プログラマーの商用事例が多数"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと10歳でできることを学ぼう！",
+      "background": "forest",
+      "title": "失敗は「授業料」だ！",
+      "content": "Dyson（掃除機）の創業者は5,127回失敗してから成功！Airbnbは最初3人の投資家に断られた。大事なのは失敗を怖れないこと——10歳の失敗は人生の最安値の授業料！",
+      "emoji": "🔄",
+      "highlight": "「失敗は成功のもと」：シリコンバレーでは「Fail Fast（素早く失敗して学べ）」が基本文化"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと10歳でできることを学ぼう！",
+      "background": "city",
+      "title": "アイデアは困っていることから生まれる",
+      "content": "世の中の問題を見つけること＝ビジネスの種！「学校の給食が余る」→フードロスアプリ。「お年寄りが重い荷物を持てない」→配送サービス。あなたの身の回りの不便が宝物です！",
+      "emoji": "🔍",
+      "highlight": "世界の課題解決型スタートアップ：社会問題を解決しながら利益を出す企業が急増"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと10歳でできることを学ぼう！",
+      "background": "classroom",
+      "title": "価値を生み出す3つの方法",
+      "content": "①「作る」（製品を作って売る）②「つなぐ」（人と人・商品と消費者を繋ぐ）③「教える」（知識・スキルを教える）——どれか一つができれば起業できます！どれが得意ですか？",
+      "emoji": "🔑",
+      "highlight": "価値創造の3類型：全てのビジネスはこの3つのどれかに当てはまる"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと10歳でできることを学ぼう！",
+      "background": "ocean",
+      "title": "仲間と一緒に作る「チーム起業」",
+      "content": "一人で全部やらなくてもいい！「自分は苦手だけど友達は得意」を組み合わせるのがチームの力。Apple：スティーブ・ジョブズ（ビジョン）＋スティーブ・ウォズニアック（技術）の名コンビ！",
+      "emoji": "🤝",
+      "highlight": "最強コンビ：ビジョナリー（夢想家）とテクニカル（実行者）の組み合わせが最も多い"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと10歳でできることを学ぼう！",
+      "background": "forest",
+      "title": "小さく始めて大きく育てる",
+      "content": "最初から大きいビジネスを目指さなくてもいい！「まず1人のお客様を喜ばせる」から始めよう。Amazon・GoogleもガレージやDorm Room（学生寮）からの超小さなスタートでした！",
+      "emoji": "🌱",
+      "highlight": "Amazon：ジェフ・ベゾスがガレージで1994年に書籍販売から開始。今や時価総額2兆ドル超"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "10歳起業家マインドをゲット！次はアイデアの見つけ方へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

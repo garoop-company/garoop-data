@@ -1,0 +1,131 @@
+{
+  "title": "Branding sản phẩm đặc trưng vùng miền - Kho báu địa phương đến thế giới",
+  "description": "Cùng Garu học branding sản phẩm đặc trưng vùng miền một cách thú vị!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy biến sản phẩm đặc trưng của vùng miền thành thương hiệu thế giới!",
+      "background": "forest",
+      "title": "Branding sản phẩm đặc trưng vùng miền - Kho báu địa phương đến thế giới",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học branding sản phẩm đặc trưng vùng miền!",
+      "background": "classroom",
+      "title": "GI (Chỉ thị địa lý) - Hệ thống bảo vệ",
+      "content": "GI (Geographical Indication) là hệ thống bảo vệ sản phẩm đặc trưng của vùng miền như 'Thịt bò Kobe', 'Dưa hấu Yubari', 'Lụa Kyoto Danjo'. Được bảo vệ bởi luật pháp tại EU và Nhật Bản, giúp loại bỏ hàng giả và nâng cao giá trị thương hiệu!",
+      "emoji": "🛡️",
+      "highlight": "Sản phẩm đăng ký GI của Nhật Bản: 141 sản phẩm (2024). 'Thịt bò Tajima', 'Thịt bò Iki'..."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học branding sản phẩm đặc trưng vùng miền!",
+      "background": "space",
+      "title": "Rượu sake trở thành thương hiệu thế giới!",
+      "content": "Kim ngạch xuất khẩu rượu sake: 47,4 tỷ yên vào năm 2022! Phổ biến tại Pháp, Mỹ, Trung Quốc. 'Sake' đã trở thành thương hiệu được công nhận trên toàn thế giới. Sự kết hợp giữa truyền thống, chất lượng và câu chuyện đã giúp chinh phục thị trường thế giới.",
+      "emoji": "🍶",
+      "highlight": "Kim ngạch xuất khẩu rượu sake: tăng gấp 3 lần trong 10 năm. Mỹ, Hồng Kông, Trung Quốc là những thị trường xuất khẩu chính"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học branding sản phẩm đặc trưng vùng miền!",
+      "background": "ocean",
+      "title": "Thịt bò Wagyu - Tại sao lại có giá trị cao?",
+      "content": "Thịt bò Kobe, Matsusaka, Yonezawa là những thương hiệu thịt bò hàng đầu thế giới. Một số con bò có giá lên đến 1 triệu yên! Quản lý nghiêm ngặt về nguồn gốc, phương pháp chăn nuôi và chất lượng đã tạo ra giá trị thương hiệu.",
+      "emoji": "🥩",
+      "highlight": "Kim ngạch xuất khẩu thịt bò Wagyu: đạt mức cao nhất. Rất phổ biến tại các nhà hàng ở Singapore, Hồng Kông, Mỹ"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học branding sản phẩm đặc trưng vùng miền!",
+      "background": "forest",
+      "title": "Chiến lược của vùng trái cây Yamanashi",
+      "content": "Nho Shine Muscat, đào, núi Phú Sĩ và rượu vang của tỉnh Yamanashi có sức mạnh thương hiệu cao trong và ngoài nước. Branding vùng miền đã giúp đạt được doanh số cao. Một chùm nho có thể bán với giá vài triệu đồng!",
+      "emoji": "🍇",
+      "highlight": "Nho Shine Muscat: bán với giá từ 2.000 yên đến 10.000 yên trở lên cho một chùm"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học branding sản phẩm đặc trưng vùng miền!",
+      "background": "city",
+      "title": "Du lịch và ẩm thực - Cách để vùng miền kiếm tiền",
+      "content": "Khách du lịch đến Nhật Bản rất quan tâm đến ẩm thực! Các lớp học nấu ăn, trải nghiệm nông trại và tham quan nhà rượu đang trở nên phổ biến. 'Ẩm thực' là một trong những thương hiệu vùng miền mạnh nhất.",
+      "emoji": "🍱",
+      "highlight": "Chi tiêu của khách du lịch đến Nhật Bản: chi cho ẩm thực đứng thứ hai sau chi cho chỗ ở"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học branding sản phẩm đặc trưng vùng miền!",
+      "background": "classroom",
+      "title": "Sự hồi sinh của thủ công mỹ nghệ",
+      "content": "Đồ gốm, đồ gỗ, nhuộm và đồ sứ truyền thống của Nhật Bản đang trở nên phổ biến với khách du lịch và giới sưu tầm. Các nghệ nhân trẻ đang sử dụng SNS để quảng bá sản phẩm của mình đến với thế giới và bán với giá cao!",
+      "emoji": "⛏️",
+      "highlight": "Đồ gốm, đồ gỗ trên Instagram: có nhiều người theo dõi là người nước ngoài. Một số sản phẩm có giá vài triệu đồng đến vài chục triệu đồng"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học branding sản phẩm đặc trưng vùng miền!",
+      "background": "space",
+      "title": "Branding trên SNS - Từ vùng miền đến thế giới",
+      "content": " 'Đồi Miei', 'Dòng suối Okutono', 'Làng Ogawa' - Các địa điểm du lịch vùng miền trở nên nổi tiếng trên SNS và thu hút khách du lịch từ khắp nơi trên thế giới! Một tài khoản SNS của địa phương có thể thay đổi vùng miền đó.",
+      "emoji": "📱",
+      "highlight": "Nhiều địa điểm du lịch vùng miền đã tăng 100 lần số lượng khách du lịch nhờ vào các bài đăng trên Instagram"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học branding sản phẩm đặc trưng vùng miền!",
+      "background": "ocean",
+      "title": "Tăng cường thương hiệu vùng miền thông qua hợp tác với doanh nghiệp lớn",
+      "content": "Khi sản phẩm vùng miền được các cửa hàng bách hóa lớn, khách sạn nổi tiếng và nhà hàng cao cấp sử dụng, uy tín sẽ tăng lên đáng kể! Việc xây dựng 'chuỗi giá trị' từ sản xuất đến tiêu thụ là rất quan trọng.",
+      "emoji": "🏨",
+      "highlight": "Resort Starwood: tích cực sử dụng nguyên liệu địa phương -> tác động lớn đến nền kinh tế địa phương"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Garu đã trở thành chuyên gia branding vùng miền! Tiếp theo là trẻ hóa và phát triển vùng miền!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

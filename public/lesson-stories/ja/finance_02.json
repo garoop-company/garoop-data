@@ -1,0 +1,131 @@
+{
+  "title": "貯金の力〜お金を守る方法〜",
+  "description": "貯金の大切さと正しいお金の守り方をガルちゃんと学ぼう！",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "今日は貯金の秘密を学ぶよ！🐖",
+      "background": "classroom",
+      "title": "貯金の力",
+      "emoji": "🐖",
+      "effects": [
+        "sparkle"
+      ],
+      "content": "このレッスンでは「貯金の力〜お金を守る方法〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "まずはお金の「入り」と「出」を知ろう！",
+      "background": "city",
+      "title": "収入と支出",
+      "content": "お金は「入ってくるお金（収入）」と「出ていくお金（支出）」で成り立ちます。収入＞支出なら「黒字」、収入＜支出なら「赤字」。黒字の分が貯金になります！",
+      "emoji": "⚖️",
+      "highlight": "貯金 ＝ 収入 − 支出"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "なぜ貯金が大切か分かるかな？",
+      "background": "forest",
+      "title": "なぜ貯金するの？",
+      "content": "貯金には3つの目的があります。①緊急時のための「もしもの貯金」②夢を叶えるための「目的の貯金」（旅行・ゲームなど）③将来のための「老後の貯金」。子供のうちから習慣をつけると強い！",
+      "emoji": "🎯",
+      "highlight": "緊急資金：月の生活費の3〜6ヶ月分が目安"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "先に貯金する「先取り貯金」が最強だよ！",
+      "background": "classroom",
+      "title": "先取り貯金の秘密",
+      "content": "多くの人は「残ったら貯金」しようとするけど、お金は残りません！だから「もらったらすぐ貯金」する先取り貯金が効果的。手取りの10〜20%を最初に貯金口座へ！",
+      "emoji": "💡",
+      "highlight": "先取り貯金 ＝ 給料入ったら即10%を別口座へ"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "銀行に預けると少しずつ増えるんだよ！",
+      "background": "city",
+      "title": "銀行金利って？",
+      "content": "銀行に預けると「利子（金利）」がもらえます。例：年利0.1%の場合、100万円預けると1年で1000円増える。日本の普通預金金利は現在0.02〜1%程度。少ないけど安全！",
+      "emoji": "🏦",
+      "highlight": "年利1%で100万円 → 10年後 約110万円（単利の場合）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "500円を毎日貯めると…すごいことになるよ！",
+      "background": "space",
+      "title": "小さな積み重ねの力",
+      "content": "「塵も積もれば山となる」—毎日100円貯金したら1年で36500円！毎月1000円でも10年で12万円になります。大切なのは金額より「続けること」。習慣化が最強の武器！",
+      "emoji": "🏔️",
+      "highlight": "毎日100円×365日 ＝ 36,500円 ÷年"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "貯金は「時間」が最高の友達なんだ！",
+      "background": "ocean",
+      "title": "時間とお金の関係",
+      "content": "20歳から毎月1万円貯金 vs 30歳から毎月2万円貯金。どちらが多くなるかな？答えは20歳から！時間が長いほどお金は増えます。だから今すぐ始めることが最高の投資！",
+      "emoji": "⏰",
+      "highlight": "「投資の神様」Warren Buffettが最初に株を買ったのは11歳"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "自分だけの貯金目標を作ってみよう！",
+      "background": "candy",
+      "title": "貯金目標を立てよう！",
+      "content": "①何のために貯金する？（目的）②いくら必要？（金額）③いつまでに？（期限）④毎月いくら貯める？（計画）この4つを決めると貯金は3倍成功しやすくなります！",
+      "emoji": "📋",
+      "highlight": "SMART目標：Specific具体的・Measurable測定可能・Achievable達成可能"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "貯金の天敵は「衝動買い」だよ！",
+      "background": "classroom",
+      "title": "無駄遣いを防ぐコツ",
+      "content": "「欲しい！」と思ったらすぐ買わず24時間待ってみよう。本当に必要なものか考える時間を作る「ウォームアップ期間」が効果的。レシートを保存して月末に見返すのも大切！",
+      "emoji": "🛑",
+      "highlight": "24時間ルール：衝動買いを約70%減らせる"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "貯金マスター！次は投資の世界へ行こう🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

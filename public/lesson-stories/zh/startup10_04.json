@@ -1,0 +1,131 @@
+{
+  "title": "了解你的客户 〜营销的基本〜",
+  "description": "和Garu一起愉快地学习了解客户!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "学习了解客户心理的营销!",
+      "background": "city",
+      "title": "了解你的客户 〜营销的基本〜",
+      "emoji": "📣",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习了解客户!",
+      "background": "classroom",
+      "title": "什么是营销?",
+      "content": "营销 = '将客户想要的东西，用合适的方式提供给合适的人'. 不仅仅是宣传! 包括市场调查 → 产品开发 → 定价 → 广告 → 销售 → 售后服务!",
+      "emoji": "📢",
+      "highlight": " '好产品不需要营销' 是假的! 即使是最好的产品，如果传递方式不好，也卖不出去"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习了解客户!",
+      "background": "ocean",
+      "title": "创建角色（理想客户形象）",
+      "content": " '卖给谁' 最重要! 角色：① 年龄、性别 ② 住在哪里 ③ 有什么困扰 ④ 过着什么样的生活 ⑤ 重视什么 - 描绘出具体的客户形象，让产品和广告能够触及!",
+      "emoji": "👤",
+      "highlight": "角色设定例子： '35岁、上班族妈妈、烦恼于快速料理' → 为这个角色开发产品"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习了解客户!",
+      "background": "forest",
+      "title": "了解4P（营销组合）",
+      "content": "① Product（产品：卖什么？）② Price（价格：卖多少钱？）③ Place（地点：在哪里卖？）④ Promotion（广告：如何推广？）- 优化这4P是营销战略!",
+      "emoji": "🗂️",
+      "highlight": "4P的例子：iPhone = 高质量产品、高价格、Apple Store、发布会等完美的4P组合"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习了解客户!",
+      "background": "space",
+      "title": "利用SNS进行免费宣传",
+      "content": "Instagram、TikTok、YouTube、X（Twitter）- 利用SNS可以免费向日本全国、全球传播！即使10岁也可以做到。内容 '质量' 和 '持续性' 很重要。首先以100名关注者为目标!",
+      "emoji": "📱",
+      "highlight": "TikTok上的 'TikTok商法'：商品一夜之间售罄 - 年轻的创业者也在利用"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习了解客户!",
+      "background": "city",
+      "title": "'口碑' 是最强的营销",
+      "content": "比广告更可靠的朋友的 '这个不错!'。故意制造口碑（WOM：Word of Mouth）- 提供用户自然想分享的体验、惊喜和感动!",
+      "emoji": "🗣️",
+      "highlight": "口碑的效果：比广告多5倍的信任。介绍来的客户的生命周期价值是通常的4倍以上"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习了解客户!",
+      "background": "classroom",
+      "title": "定价的方法（定价策略）",
+      "content": "① 基于成本（成本 + 利润）② 竞争比较（按市场行情）③ 基于价值（按客户感受的价值设定）- '基于价值' 可以设定最高价格。竞争 '便宜' 是最辛苦的战略!",
+      "emoji": "💴",
+      "highlight": "高级定价策略：星巴克卖的不是 '咖啡'，而是 '体验、地点、品牌'"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习了解客户!",
+      "background": "forest",
+      "title": "培养粉丝的 '社区营销'",
+      "content": "在SNS上聚集 '喜欢'、举办活动、对重复顾客给予特殊待遇 - 通过将客户变成粉丝，无需广告费就能吸引新客户。有1,000名真正的粉丝就可以谋生!",
+      "emoji": "🌟",
+      "highlight": "'1,000名真正的粉丝' 理论：即使是创作者，有1,000名狂热粉丝也能谋生"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习了解客户!",
+      "background": "ocean",
+      "title": "用数据改善的数字营销",
+      "content": "Google Analytics、Instagram Insights - 免费工具可以让你知道 '谁、在什么时候、看了什么、从哪里离开' 等数据。以数据为依据改善，效果可以提升10倍!",
+      "emoji": "📊",
+      "highlight": "A/B测试：测试2种广告、着陆页，判断 '哪一个反应更好'"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "掌握营销！接下来是练习推销",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

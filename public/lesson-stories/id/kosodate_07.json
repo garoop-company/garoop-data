@@ -1,0 +1,131 @@
+{
+  "title": "Mendidik Anak di Era Global ~Membangun Keanekaragaman~",
+  "description": "Belajar tentang pendidikan anak di era global dengan Gal-chan!",
+  "bgTheme": "ocean",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita belajar cara mendidik anak yang dapat berkembang di dunia yang beragam!",
+      "background": "ocean",
+      "title": "Mendidik Anak di Era Global ~Membangun Keanekaragaman~",
+      "emoji": "🌍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Belajar tentang pendidikan anak di era global dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Keterampilan yang Dibutuhkan di Era Global",
+      "content": "Dunia yang akan dihadapi anak-anak kita membutuhkan kolaborasi dengan orang-orang dari budaya dan nilai yang beragam. Keterampilan yang dibutuhkan di abad ke-21 adalah: ① Kemampuan bahasa Inggris, ② Pemahaman budaya lain, ③ Menghargai keanekaragaman, ④ Berpikir kritis, dan ⑤ Keterampilan komunikasi.",
+      "emoji": "🌐",
+      "highlight": "Keterampilan abad ke-21 (didefinisikan oleh OECD): berpikir kritis, komunikasi, kolaborasi, dan kreativitas"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Belajar tentang pendidikan anak di era global dengan Gal-chan!",
+      "background": "forest",
+      "title": "Kebenaran tentang Pendidikan Bilingual",
+      "content": "Expose anak Anda pada bahasa kedua sebelum usia 3 tahun, dan mereka dapat memperolehnya seperti bahasa ibu mereka. Ciptakan lingkungan di mana mereka dapat 'bermain dengan bahasa Inggris' dan 'menikmati bahasa Inggris' daripada hanya 'belajar' bahasa Inggris. Teman-teman yang berbicara bahasa Inggris, lagu-lagu, dan kartun-kartun adalah alat yang bagus!",
+      "emoji": "🗣️",
+      "highlight": "Otak bilingual: mengembangkan lobus prefrontal → meningkatkan fokus, memecahkan masalah, dan kemampuan kognitif"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Belajar tentang pendidikan anak di era global dengan Gal-chan!",
+      "background": "space",
+      "title": "Pengalaman Budaya dapat Mengubah Anak Anda",
+      "content": "Expose anak Anda pada makanan, musik, dan permainan asing untuk memperluas pandangan dunia mereka. Homestay, acara pertukaran internasional, dan kartun-kartun bahasa asing dapat membantu. Anak-anak dengan perspektif yang beragam cenderung memiliki keterampilan memecahkan masalah dan kreativitas yang lebih baik!",
+      "emoji": "✈️",
+      "highlight": "Pengalaman luar negeri (bahkan jangka pendek): berdampak signifikan pada empati, adaptabilitas, dan pembentukan identitas"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Belajar tentang pendidikan anak di era global dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Mendidik Warga Global melalui Pendidikan SDGs",
+      "content": "Ajarkan anak Anda tentang isu-isu global seperti kemiskinan, lingkungan, dan perdamaian. Ini dapat menginspirasi mereka untuk berpikir tentang apa yang dapat mereka lakukan untuk membuat perbedaan. Gunakan SDGs untuk menumbuhkan perspektif global, kesadaran sosial, dan rasa tanggung jawab!",
+      "emoji": "🌱",
+      "highlight": "Pendidikan SDGs: semakin diterapkan di sekolah-sekolah Jepang, menumbuhkan generasi penerus yang dapat memecahkan masalah"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Belajar tentang pendidikan anak di era global dengan Gal-chan!",
+      "background": "forest",
+      "title": "Keanekaragaman dan Pendidikan Inklusif",
+      "content": "Pendidikan inklusif, di mana anak-anak dengan latar belakang yang berbeda belajar bersama, adalah standar global. Tanamkan sikap yang menyambut keanekaragaman dan belajar dari perbedaan sejak usia dini.",
+      "emoji": "🌈",
+      "highlight": "Pendidikan inklusif: cara paling efektif untuk memahami dan menghargai keanekaragaman, tanpa memandang kemampuan"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Belajar tentang pendidikan anak di era global dengan Gal-chan!",
+      "background": "city",
+      "title": "Memperluas Pandangan melalui Membaca",
+      "content": "Baca buku-buku tentang anak-anak dari seluruh dunia, buku gambar yang diterjemahkan, dan sastra asing. Ini dapat membantu anak Anda mengalami budaya, nilai, dan kehidupan yang berbeda. Klasik seperti Diary Anne Frank, The Lion, the Witch and the Wardrobe, dan Harry Potter dapat menghubungkan anak-anak di seluruh dunia.",
+      "emoji": "📖",
+      "highlight": "Kebiasaan membaca dan empati: anak-anak yang membaca lebih banyak cenderung memiliki empati dan pemahaman yang lebih tinggi tentang orang lain"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Belajar tentang pendidikan anak di era global dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Mendidik Anak yang Peduli Lingkungan melalui Pendidikan Lingkungan",
+      "content": "Berjalan-jalan di hutan, membersihkan pantai, dan mengamati kehidupan liar dapat menumbuhkan rasa tanggung jawab dan kepedulian terhadap lingkungan. Ajarkan anak Anda tentang isu-isu lingkungan seperti perubahan iklim dan plastik laut, dan dorong mereka untuk berpikir tentang apa yang dapat mereka lakukan untuk membantu!",
+      "emoji": "🌿",
+      "highlight": "Pengalaman pendidikan lingkungan: berdampak signifikan pada perilaku lingkungan dan pola voting orang dewasa"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Belajar tentang pendidikan anak di era global dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Orang Tua sebagai Warga Global",
+      "content": "Nilai dan sikap Anda sendiri dapat sangat mempengaruhi pandangan internasional anak Anda. Bahkan jika Anda tidak bisa berbicara bahasa Inggris, menunjukkan minat pada perbedaan, menikmati perjalanan, dan menyambut teman-teman asing dapat menginspirasi rasa ingin tahu anak Anda tentang dunia!",
+      "emoji": "💕",
+      "highlight": "Pengalaman global orang tua: berkorelasi positif dengan penerimaan anak terhadap keanekaragaman budaya dan motivasi belajar bahasa asing"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Anda telah belajar tentang pendidikan anak di era global! 🎉",
+      "background": "space",
+      "title": "Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

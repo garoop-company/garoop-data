@@ -1,0 +1,131 @@
+{
+  "title": "Cryptocurrency and Web3: The World of Digital Money",
+  "description": "Explore the world of digital money with Garu-chan, from Bitcoin to Web3!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's embark on an adventure to the world of digital money! ₿🚀",
+      "background": "space",
+      "title": "Cryptocurrency and Web3",
+      "emoji": "₿",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "What is Bitcoin?",
+      "background": "city",
+      "title": "What is Bitcoin?",
+      "content": "A digital currency created by the mysterious individual 'Satoshi Nakamoto' in 2009. A decentralized currency without administrators like banks. It can be sent anywhere in the world, and no one can forge it. The total issuance is limited to 21 million.",
+      "emoji": "₿",
+      "highlight": "Bitcoin's highest value: around 1 BTC = $1 million (March 2024)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "What is Blockchain?",
+      "background": "space",
+      "title": "How Blockchain Works",
+      "content": "Blockchain is a technology that combines transaction records into 'blocks' and connects them with a 'chain'. Since computers all over the world save the records, tampering is virtually impossible!",
+      "emoji": "🔗",
+      "highlight": "Blockchain = a tamper-proof 'public ledger' monitored by the whole world"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "There are many other cryptocurrencies besides Bitcoin!",
+      "background": "ocean",
+      "title": "The World of Altcoins",
+      "content": "Cryptocurrencies other than Bitcoin are called 'altcoins'. There are over several thousand kinds, such as Ethereum (smart contracts), Ripple (specialized in remittance), and Solana (high-speed). Each has a different use.",
+      "emoji": "🌐",
+      "highlight": "Number of cryptocurrency types: over 20,000 (2024). Ethereum is the second-largest by market capitalization."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "NFTs are like game items!",
+      "background": "city",
+      "title": "NFT (Non-Fungible Token)",
+      "content": "NFT (Non-Fungible Token) is a technology that adds 'proof of uniqueness' to digital data. Art, music, game items, etc., can be bought and sold with proof of being genuine. In 2021, a piece sold for $75 million!",
+      "emoji": "🖼️",
+      "highlight": "NFT's highest value: Beeple's 'Everydays' → sold for $69 million (approximately $75 million)!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Web3 is a world where 'your data is yours'!",
+      "background": "space",
+      "title": "What is Web3?",
+      "content": "Web1: just reading. Web2: reading and writing (SNS, YouTube), but companies manage data. Web3: reading, writing, and owning! A next-generation internet where users have complete control over their data and assets.",
+      "emoji": "🌐",
+      "highlight": "Web3 keywords: decentralized, ownership, privacy, DAO (Decentralized Autonomous Organization)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Don't forget that cryptocurrency comes with big risks!",
+      "background": "classroom",
+      "title": "Risks of Cryptocurrency",
+      "content": "The price of cryptocurrency can fluctuate greatly! Bitcoin can increase by 10 times or decrease to 1/10 in a year. Be aware of risks like scams (rug pulls), hacking, and regulatory changes. Invest only with surplus funds and in small amounts!",
+      "emoji": "⚠️",
+      "highlight": "Bitcoin's maximum decline rate: approximately 84% (2022). Invest with surplus funds!"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "How to safely try cryptocurrency?",
+      "background": "candy",
+      "title": "First Step to Learning Cryptocurrency",
+      "content": "Before actually buying, try ① demo accounts of cryptocurrency exchanges or ② cryptocurrency simulators! Large exchanges like GMO Coin and Coincheck have high reliability. It's most important to 'know' first!",
+      "emoji": "🎮",
+      "highlight": "'CoinGecko' and 'CoinMarketCap': free real-time cryptocurrency price checks"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's know Japan's cryptocurrency rules!",
+      "background": "city",
+      "title": "Japan's Cryptocurrency Regulations",
+      "content": "Japan is the first country to regulate cryptocurrency exchanges by law. Only exchanges approved by the Financial Services Agency are legitimate. Cryptocurrency profits are considered 'miscellaneous income' and require tax filing. The maximum tax rate can be 55%!",
+      "emoji": "🏛️",
+      "highlight": "Cryptocurrency profits → miscellaneous income → progressive taxation (up to 55%). Higher tax rate than stocks (20.315%)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You have explored the world of digital money! 🎉",
+      "background": "space",
+      "title": "Lesson Completed!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

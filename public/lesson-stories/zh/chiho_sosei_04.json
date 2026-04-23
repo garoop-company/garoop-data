@@ -1,0 +1,131 @@
+{
+  "title": "旅游振兴地方经济 - 入境旅游与地方品牌",
+  "description": "和Garu一起愉快地学习旅游振兴地方经济！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "旅游拯救地方经济！一起学习旅游与地方发展！",
+      "background": "forest",
+      "title": "旅游振兴地方经济 - 入境旅游与地方品牌",
+      "emoji": "🏯",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习旅游振兴地方经济！",
+      "background": "ocean",
+      "title": "旅游对地方经济的影响",
+      "content": "2019年，访日外国人达到3188万人次，消费总额达4.8万亿日元。疫情后的2023年，预计将恢复到约2500万人次。地方旅游地经济收入显著增加，同时也创造了就业机会！",
+      "emoji": "✈️",
+      "highlight": "访日外国人平均消费：21万日元/人次。地方旅游地消费倾向更高"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习旅游振兴地方经济！",
+      "background": "forest",
+      "title": "日本的文化与自然 - 世界的宝藏！",
+      "content": "日本拥有25处世界遗产（截至2024年）。忍者、武士、动漫、茶道、温泉、樱花、红叶——外国人想「看到和体验」的都在地方！地方的「日常」就是世界的「特别」。",
+      "emoji": "🏯",
+      "highlight": "日本世界遗产：25处（文化遗产20处，自然遗产5处）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习旅游振兴地方经济！",
+      "background": "city",
+      "title": "地方品牌化 - 打造独特的地方魅力",
+      "content": "创造「与众不同的特别感」就是地方品牌化。京都、箱根、白川乡在世界闻名。如果能发掘和展现你家乡的「世界级魅力」，游客就会来！",
+      "emoji": "🎌",
+      "highlight": "白川乡合掌村：每年有超过200万游客。村人口仅约1600人！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习旅游振兴地方经济！",
+      "background": "space",
+      "title": "体验式旅游（体验旅游）受欢迎",
+      "content": "农业体验、酒厂参观、传统工艺体验、插秧、拉网捕鱼——对游客来说，地方人的「日常生活」就是「特别体验」。比起「做什么」，更重要的是「和谁一起体验」。",
+      "emoji": "🌾",
+      "highlight": "体验式旅游市场规模：全球超过1800亿美元（约合26万亿日元）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习旅游振兴地方经济！",
+      "background": "classroom",
+      "title": "社交媒体与地方旅游 - 新型旅游模式",
+      "content": "网红景点、TikTok热门景点、YouTube旅游视频——社交媒体创造旅游景点。鸟取沙丘、奈良公园的鹿、土佐的广目市场是通过社交媒体重新被发现的旅游地。",
+      "emoji": "📱",
+      "highlight": "成为Instagram圣地的旅游地：群马的弁天堂每天有1000人参观"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习旅游振兴地方经济！",
+      "background": "ocean",
+      "title": "可持续旅游（环保旅游）",
+      "content": "如果游客过多，会导致环境破坏和居民困扰（旅游过载）。京都已实施交通管制，转向「质量优先于数量」的旅游。环保和支持地方的旅游将成为下一代的趋势！",
+      "emoji": "🌱",
+      "highlight": "京都：实施外国人特别票价和交通管制"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习旅游振兴地方经济！",
+      "background": "forest",
+      "title": "夜间经济（夜间活动）",
+      "content": "不仅白天，夜间也要创造有趣的旅游项目，从而增加住宿人数，倍增经济效益！温泉地夜景、投影映射、夜间市场、星空游等。通过提升夜间魅力，提高住宿率！",
+      "emoji": "🌙",
+      "highlight": "夜间旅游充实，住宿消费：约为日间旅游的3-5倍"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习旅游振兴地方经济！",
+      "background": "city",
+      "title": "吸引远程工作者和数字游民",
+      "content": "随着远程工作的普及，「边工作边旅行」正在流行。如果地方能提供与城市相似的工作环境（高速Wi-Fi、共享办公空间），「居住」、「工作」、「旅游」将融为一体！",
+      "emoji": "💻",
+      "highlight": "实施远程工作者：疫情前后增加10倍以上（内阁府调查）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "掌握旅游与地方发展！接下来是促进移居 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

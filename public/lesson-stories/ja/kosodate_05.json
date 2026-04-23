@@ -1,0 +1,132 @@
+{
+  "title": "感情教育と共感力〜EQを育てよう〜",
+  "description": "ガルちゃんと楽しく感情教育と共感力を学ぼう！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "子供の感情を育てる！EQの科学を学ぼう！",
+      "background": "candy",
+      "title": "感情教育と共感力〜EQを育てよう〜",
+      "emoji": "💕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「感情教育と共感力〜EQを育てよう〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと感情教育と共感力を学ぼう！",
+      "background": "classroom",
+      "title": "EQ（感情知性）とは",
+      "content": "EQ（Emotional Intelligence）＝①自分の感情を認識する②感情を管理する③他者の感情を理解する（共感）④人間関係を上手に管理する——4つの能力。IQより人生の幸福度・成功と相関します！",
+      "emoji": "❤️",
+      "highlight": "IQ vs EQ：IQは成功の20%のみ説明。残り80%はEQや他の要因（Goleman）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと感情教育と共感力を学ぼう！",
+      "background": "forest",
+      "title": "感情には「名前」をつけよう",
+      "content": "子供が怒ったとき「何それ！」ではなく「今すごく怒っているんだね」と感情に名前をつけることが大切（感情のラベリング）。自分の感情を言語化できると自制心と共感力が育ちます！",
+      "emoji": "🏷️",
+      "highlight": "感情ラベリング：怒りの感情への脳の反応を30%低下させる（UCLA神経科学研究）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと感情教育と共感力を学ぼう！",
+      "background": "ocean",
+      "title": "共感力の育て方",
+      "content": "「他の人はどんな気持ちかな？」と子供に問いかけることを習慣に。絵本・映画・ロールプレイ（ごっこ遊び）を通じて様々な人の立場・気持ちを想像する練習が共感力を育てます！",
+      "emoji": "🤝",
+      "highlight": "共感力の高い子供：いじめをしにくく・友人関係が良好・将来のリーダーシップが高い"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと感情教育と共感力を学ぼう！",
+      "background": "space",
+      "title": "「怒り」とうまく付き合う方法",
+      "content": "怒りは悪い感情ではありません！問題は怒り方。①深呼吸（10秒）②感情を言葉で表現③クールダウン——この3ステップを子供のうちから練習することで感情コントロール力が育ちます！",
+      "emoji": "😤",
+      "highlight": "「6秒ルール」：怒りのピークは6秒。その間に深呼吸すれば感情的な行動を抑えられる"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと感情教育と共感力を学ぼう！",
+      "background": "classroom",
+      "title": "「ありがとう」が脳に与える効果",
+      "content": "感謝の気持ちを表現することは幸福感を高め・うつを防ぎ・社会的絆を強めます。毎日3つ「良かったこと・感謝したいこと」を書き出す「感謝日記」は子供のウェルビーイングを高めます！",
+      "emoji": "🙏",
+      "highlight": "感謝日記：週3回書くだけで幸福感が25%向上（Emmons＆McCullough研究）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと感情教育と共感力を学ぼう！",
+      "background": "city",
+      "title": "失敗したときの「セルフコンパッション」",
+      "content": "自分に優しくする「セルフコンパッション」は自己批判とは違います。失敗を「最悪だ！」と責めるのではなく「失敗は人間みんなする、次に活かそう」と思える力が心の回復力（レジリエンス）を育てます！",
+      "emoji": "🌸",
+      "highlight": "セルフコンパッション：自己批判より失敗からの回復が早く、挑戦力が増す（Neff研究）"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと感情教育と共感力を学ぼう！",
+      "background": "ocean",
+      "title": "子供のメンタルヘルスの問題",
+      "content": "日本の不登校生徒数が過去最多（29万人超、2022年）。子供の精神的健康を守ることが緊急課題に。サインは①睡眠異常②食欲変化③引きこもり——親が気づいて専門家に相談することが大切！",
+      "emoji": "🆘",
+      "highlight": "不登校：29万人超（2022年）。コロナ後に急増。早期発見・専門家相談が大切"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと感情教育と共感力を学ぼう！",
+      "background": "forest",
+      "title": "「絵本」は感情教育の最強ツール",
+      "content": "絵本の主人公の感情に共感することで子供の共感力・感情語彙・想像力が育ちます。「うさぎのモフィ」「あのこ」「えんとつ町のプペル」などさまざまな感情を描いた絵本が子供の心を育てます！",
+      "emoji": "📚",
+      "highlight": "就寝前の読み聞かせ：語彙力・共感力・想像力・親子の絆形成に効果（研究多数）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "感情教育を学んだ！次はデジタル時代の子育てへ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

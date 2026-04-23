@@ -1,0 +1,131 @@
+{
+  "title": "Cơ chế của ngân hàng - Hiểu về dòng chảy tiền tệ",
+  "description": "Cùng Garu khám phá cách ngân hàng vận hành và quản lý tiền bạc!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng nhau khám phá bí mật của ngân hàng! 🏦",
+      "background": "city",
+      "title": "Cơ chế của ngân hàng",
+      "emoji": "🏦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Ngân hàng là cầu nối của tiền bạc!",
+      "background": "classroom",
+      "title": "Vai trò của ngân hàng",
+      "content": "Ngân hàng có 3 công việc chính: nhận tiền gửi, cho vay tiền và chuyển tiền. Số tiền bạn gửi vào sẽ được ngân hàng cho vay lại cho các doanh nghiệp và trả lãi suất cho bạn.",
+      "emoji": "🌉",
+      "highlight": "Ngân hàng = người có tiền ↔ người cần tiền"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn biết ngân hàng kiếm tiền như thế nào?",
+      "background": "city",
+      "title": "Cách ngân hàng kiếm tiền",
+      "content": "Ngân hàng nhận tiền gửi với lãi suất thấp (0,02%) và cho vay với lãi suất cao hơn (vay thế chấp: 1-2%, thẻ tín dụng: 15-18%). Chênh lệch lãi suất này là lợi nhuận của ngân hàng!",
+      "emoji": "💹",
+      "highlight": "Lợi nhuận của ngân hàng = Lãi suất cho vay - Lãi suất tiền gửi"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Ngân hàng trung ương khác với ngân hàng thông thường!",
+      "background": "space",
+      "title": "Vai trò của Ngân hàng Trung ương Nhật Bản",
+      "content": "Ngân hàng Trung ương Nhật Bản (BoJ) là 'ngân hàng của ngân hàng'. BoJ cho vay tiền cho các ngân hàng thông thường, phát hành tiền giấy và đảm bảo sự ổn định của giá cả. Quyết định của BoJ ảnh hưởng đến toàn bộ nền kinh tế Nhật Bản!",
+      "emoji": "🇯🇵",
+      "highlight": "Ngân hàng Trung ương Nhật Bản = người bảo vệ tiền tệ của Nhật Bản, trung tâm chính sách tài khóa"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn biết về các loại tài khoản ngân hàng?",
+      "background": "classroom",
+      "title": "Các loại tài khoản ngân hàng",
+      "content": "Có 3 loại tài khoản chính: ① tiền gửi thông thường: có thể rút và gửi bất cứ lúc nào; ② tiền gửi có kỳ hạn: gửi tiền trong một khoảng thời gian nhất định (lãi suất cao hơn); ③ tiền gửi tích lũy: tự động tích lũy mỗi tháng. Hãy chọn loại tài khoản phù hợp với mục đích của bạn!",
+      "emoji": "📊",
+      "highlight": "Tiền gửi có kỳ hạn: lãi suất cao hơn tiền gửi thông thường, có thể chọn kỳ hạn từ 3 tháng đến 10 năm"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Ngân hàng trực tuyến khác gì?",
+      "background": "ocean",
+      "title": "Đặc điểm của ngân hàng trực tuyến",
+      "content": "Ngân hàng trực tuyến không có cửa hàng nên chi phí thấp hơn, lãi suất tiền gửi cao hơn! Các ngân hàng trực tuyến nổi tiếng như SBI新生銀行,楽天銀行, PayPay銀行... Nhiều dịch vụ miễn phí phí giao dịch và chuyển tiền.",
+      "emoji": "💻",
+      "highlight": "Lãi suất tiền gửi thông thường của ngân hàng trực tuyến: cao hơn 50 lần so với ngân hàng thông thường"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tìm hiểu về cơ chế chuyển tiền!",
+      "background": "city",
+      "title": "Cơ chế chuyển tiền",
+      "content": "Chuyển tiền qua ngân hàng được thực hiện thông qua mạng lưới toàn ngân hàng. Gần đây, các ứng dụng chuyển tiền như PayPay, LINE Pay, Revolv... cũng trở nên phổ biến. Chuyển tiền quốc tế sử dụng mạng lưới SWIFT.",
+      "emoji": "📡",
+      "highlight": "Toàn ngân hàng hệ thống: cơ sở hạ tầng tài chính kết nối các ngân hàng Nhật Bản (hơn 100 nghìn tỷ yên giao dịch mỗi ngày)"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Chọn tài khoản ngân hàng phù hợp cho riêng bạn!",
+      "background": "candy",
+      "title": "Chọn tài khoản!",
+      "content": "Nếu bạn mở tài khoản ngân hàng, bạn sẽ kiểm tra những điểm nào? ① Lãi suất; ② Phí giao dịch ATM; ③ Dễ sử dụng; ④ Bảo mật. Hãy thảo luận với gia đình và phát triển 'khả năng quản lý tiền bạc của bạn'!",
+      "emoji": "🔍",
+      "highlight": "Điểm kiểm tra so sánh tài khoản: lãi suất, phí, dễ sử dụng ứng dụng"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Nếu ngân hàng phá sản thì sao?",
+      "background": "forest",
+      "title": "Bảo hiểm tiền gửi",
+      "content": "Ngay cả khi ngân hàng phá sản, tiền gửi của bạn cũng sẽ được bảo vệ lên đến 1 triệu yên (hệ thống bảo hiểm tiền gửi). Đây là hệ thống được chính phủ Nhật Bản đảm bảo. Nhưng nếu số tiền gửi vượt quá 1 triệu yên, có thể không được bảo vệ!",
+      "emoji": "🛡️",
+      "highlight": "Hệ thống bảo hiểm tiền gửi: bảo vệ lên đến 1 triệu yên tiền gửi gốc và lãi suất"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Cơ chế của ngân hàng đã rõ ràng! Bây giờ hãy học về đầu tư!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

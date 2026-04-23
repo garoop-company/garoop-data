@@ -1,0 +1,132 @@
+{
+  "title": "チームを作ろう〜最強チームの秘密〜",
+  "description": "ガルちゃんと楽しくチームを作ろうを学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "最強のチームを作る方法を学ぼう！",
+      "background": "city",
+      "title": "チームを作ろう〜最強チームの秘密〜",
+      "emoji": "🤝",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「チームを作ろう〜最強チームの秘密〜」をテーマに、子どもの視点で挑戦を形にする力を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとチームを作ろうを学ぼう！",
+      "background": "classroom",
+      "title": "なぜチームが必要なの？",
+      "content": "「一人でできることには限りがある」。スティーブ・ジョブズ（ビジョン）＋ウォズニアック（技術）のApple。ラリー・ペイジ＋セルゲイ・ブリンのGoogle——最高の会社は最高のチームから生まれます！",
+      "emoji": "👥",
+      "highlight": "スタートアップの成功率：ソロ創業より複数創業者の企業の方が成功率が高い（研究多数）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとチームを作ろうを学ぼう！",
+      "background": "forest",
+      "title": "チームに必要な3タイプ",
+      "content": "①Visionary（夢想家：アイデア・ビジョンを描く）②Hustler（営業・ビジネス開発）③Hacker（技術・製品開発）——この3つが揃ったチームが最強！あなたはどのタイプ？",
+      "emoji": "🎭",
+      "highlight": "チームの3タイプ：それぞれが補完し合うことで「作れる・売れる・夢を描ける」チームに"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとチームを作ろうを学ぼう！",
+      "background": "space",
+      "title": "チームの「心理的安全性」",
+      "content": "心理的安全性：「どんな意見を言っても否定されない」という安心感。Googleの研究で最高のチームに共通する最重要要素がこれ！「バカな質問と思われないかな？」という恐れがあると創造力が死ぬ。",
+      "emoji": "🛡️",
+      "highlight": "Google「プロジェクト・アリストテレス」：最高チームの最重要因子は心理的安全性"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとチームを作ろうを学ぼう！",
+      "background": "ocean",
+      "title": "役割分担とコミュニケーション",
+      "content": "誰が何を担当するかを明確にすることがチームの基本。Slack・Notion・Trelloなどのツールを使ってコミュニケーションを整理。定期的なミーティングで情報共有とすり合わせを続けよう！",
+      "emoji": "📋",
+      "highlight": "スタートアップのコミュニケーションツール：Slack・Notion・Figma・GitHub・Google Workspace"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとチームを作ろうを学ぼう！",
+      "background": "city",
+      "title": "メンター（師匠）を持つ",
+      "content": "成功した起業家のほぼ全員がメンター（先輩・師匠）を持っています！Facebookのザッカーバーグはスティーブ・ジョブズに相談していた。地域の大人・起業家・先生——あなたの師匠を探そう！",
+      "emoji": "🧙",
+      "highlight": "メンタリングの効果：メンターを持つ起業家は持たない起業家より成功率が2〜3倍高い"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとチームを作ろうを学ぼう！",
+      "background": "classroom",
+      "title": "インターン・アルバイトを活用",
+      "content": "一人では人手が足りなくなったら！インターン（無給または有給の短期学生）を受け入れることで学生から新しい視点・スキル・エネルギーをもらえます。大学・高校に声をかけてみよう！",
+      "emoji": "🎓",
+      "highlight": "インターンシップ：学生に経験を提供しながら、企業側も低コストで人材確保"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとチームを作ろうを学ぼう！",
+      "background": "forest",
+      "title": "チームの衝突（コンフリクト）を乗り越える",
+      "content": "意見の衝突はチームが成長している証拠！大切なのは「人への攻撃」ではなく「アイデアへの議論」。感情的になりそうな時はクールダウンして「全員の目標」に立ち返ることが大切。",
+      "emoji": "💥",
+      "highlight": "「建設的コンフリクト」：意見の衝突を乗り越えるチームが最も強く成長する"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとチームを作ろうを学ぼう！",
+      "background": "ocean",
+      "title": "チームを強くする「チームビルディング」",
+      "content": "一緒に食事をする・合宿する・ゲームをする・ボランティアをする——仕事以外の体験を共有することでチームの絆が深まります。「最強チーム」はまず「仲良いチーム」から！",
+      "emoji": "🌟",
+      "highlight": "チームビルディング投資：チームの結束力向上→生産性・創造性・離職率に大きな改善効果"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "最強チームの秘密を習得！次は失敗から学ぼう🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

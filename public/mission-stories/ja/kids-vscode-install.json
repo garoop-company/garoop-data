@@ -1,0 +1,69 @@
+{
+  "title": "VS Codeインストールミッション",
+  "description": "開発環境を整えるミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "エージェント！今回のミッションは「開発基地の建設」だガル！🏗️",
+      "background": "hq",
+      "title": "ミッション指令：基地建設",
+      "content": "任務は、コードを書くための基地を整え、最初のファイルを自分で扱えるようになること。インストールだけで終わらず、フォルダを開き、ファイルを作り、保存するところまで進めて一人前だ。",
+      "emoji": "🖥️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "VS Codeは「コードを書く家」ガル！世界中のプログラマーが使ってるよ！",
+      "background": "spy",
+      "title": "VS Codeとは？",
+      "content": "VS Codeは、文字を書く場所ではなく、プログラミング作業全体を助ける開発環境だ。色分け、補完、ファイル管理、拡張機能などがそろっていて、学び始めにも本格開発にも使いやすい。",
+      "emoji": "🏠",
+      "highlight": "できること:\n・コード編集\n・ファイル整理\n・見やすい表示\n・機能追加"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "おうちの人と一緒にインストールしよう！",
+      "background": "lab",
+      "title": "インストール作戦",
+      "content": "インストール時は、公式サイトから入手し、どのアプリを入れているかを確認することが重要だ。大人と一緒に進めながら、ダウンロード、起動、初回画面の確認までを落ち着いて進めよう。",
+      "emoji": "⬇️",
+      "highlight": "安全ポイント:\n・公式サイトを使う\n・大人と確認する\n・起動できるまで見る"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "インストールできたら、はじめてのファイルを作ってみよう！",
+      "background": "spy",
+      "title": "ファイル作成作戦",
+      "content": "最初のファイル作成は、道具に慣れるための大事な練習だ。フォルダを1つ作り、その中にファイルを置いて保存する流れを覚えるだけで、次のHTMLやPython作業への不安がかなり減る。",
+      "emoji": "📁",
+      "highlight": "最初の一歩:\n1. フォルダ作成\n2. ファイル作成\n3. 文字入力\n4. 保存"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "基地建設完了ガル！画面のスクショを提出して260ポイントゲット！🎯",
+      "background": "hq",
+      "title": "ミッション完了！",
+      "content": "ミッション完了は、インストールできた事実よりも「自分の制作フォルダを開いて、1ファイルを保存できた」状態にある。次は拡張子を変えて、HTMLやJavaScriptのファイルにも挑戦していこう。",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

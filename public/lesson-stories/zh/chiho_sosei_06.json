@@ -1,0 +1,131 @@
+{
+  "title": "本地商业 〜地方创业的新浪潮〜",
+  "description": "和Garu一起愉快地学习本地商业！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "在地方创业的年轻人越来越多了！让我们来学习背后的秘密！",
+      "background": "city",
+      "title": "本地商业 〜地方创业的新浪潮〜",
+      "emoji": "💼",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习本地商业！",
+      "background": "forest",
+      "title": "地方创业的优势是什么？",
+      "content": "地方创业的优势：①土地和租金便宜 ②竞争少 ③地域需求明确 ④行政支援丰富 ⑤社区紧密，易于口碑传播。即使在城市失败，在地方也可能大获成功！",
+      "emoji": "🚀",
+      "highlight": "地方办公租金：东京的1/10〜1/5。大幅降低初期成本"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习本地商业！",
+      "background": "classroom",
+      "title": "6次产业化让农家大变身！",
+      "content": "农家生产的农产品进行加工和直接销售的「6次产业化（1次×2次×3次）」。例如：草莓农家 → 果酱制造 → 直销店或网络销售。附加值可能增加10〜100倍！",
+      "emoji": "🍓",
+      "highlight": "农家的6次产业化：进行加工和直销，农产品销售额可能增加3〜10倍"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习本地商业！",
+      "background": "ocean",
+      "title": "手工业啤酒和清酒革命",
+      "content": "使用地方水和食材的手工业啤酒和日本酒在国内外人气急升！小型酿酒厂（微型啤酒厂）遍布各地。作为地方名产，受到旅游客的欢迎。",
+      "emoji": "🍺",
+      "highlight": "手工业啤酒酿酒厂：2010年的100家 → 2023年的900家以上！每年都在急剧增加"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习本地商业！",
+      "background": "space",
+      "title": "古民居活用业务的崛起",
+      "content": "废校、古民居、废工厂改造成咖啡馆、旅馆、画廊、共享办公空间的业务正在增加。初期费用低，还可以活用补助金。能够创造出具有地方历史和文化的独特空间！",
+      "emoji": "🏯",
+      "highlight": "废校活用例：全国500个以上。改造成温泉、宿泊设施、农产品直销店等"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习本地商业！",
+      "background": "forest",
+      "title": "通过EC从地方到全国",
+      "content": "通过互联网购物（EC）将地方特产销往全国和世界。使用乐天、亚马逊、BASE、Mercari Shops等平台。结合广告和SNS。",
+      "emoji": "🛒",
+      "highlight": "故乡纳税返礼品：地方特产的EC先驱。年销售额6000亿以上"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习本地商业！",
+      "background": "city",
+      "title": "用社会商业解决社会问题",
+      "content": "不仅追求利润，还要解决地方问题的「社会商业」也活跃起来了。介護、育儿、农业、环境等地方问题正在通过商业解决。",
+      "emoji": "🌱",
+      "highlight": "社会商业市场规模：约30万亿。包括NPO、社会企业、社区商业"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习本地商业！",
+      "background": "classroom",
+      "title": "用订阅制创造地方粉丝",
+      "content": "「故乡纳税」「地域订阅」——每月定期送达地方特产的服务正在普及。通过创造固定客（回头客），可以为地方带来稳定的收益。",
+      "emoji": "📦",
+      "highlight": "地域订阅例：蔬菜定期便、地酒颁布会、地域特产BOX很受欢迎"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习本地商业！",
+      "background": "ocean",
+      "title": "用数字化强化地方商业",
+      "content": "网站、SNS、Google Maps、云会计——活用数字化工具，即使是地方的小店铺也能吸引全国的顾客。数字化是地方商业的生命线！",
+      "emoji": "💻",
+      "highlight": "数字化地方中小企业的销售额：未引入企业的约1.5倍（经产省调查）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "学习了本地商业的世界！接下来是特产品牌化 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

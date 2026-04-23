@@ -1,0 +1,131 @@
+{
+  "title": "税金と社会保障〜社会を支えるお金〜",
+  "description": "税金はなぜ払うの？社会保障ってどういう仕組み？一緒に学ぼう！",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "税金を知ると社会の仕組みが見えてくる！🏛️",
+      "background": "classroom",
+      "title": "税金と社会保障",
+      "emoji": "🏛️",
+      "effects": [
+        "sparkle"
+      ],
+      "content": "このレッスンでは「税金と社会保障〜社会を支えるお金〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "そもそも税金ってなんで払うの？",
+      "background": "city",
+      "title": "税金の目的",
+      "content": "税金は学校・病院・道路・警察・消防など「みんなで使う公共サービス」を賄うお金。一人では払えない費用をみんなで少しずつ負担することで豊かな社会が作られます。",
+      "emoji": "🏫",
+      "highlight": "日本の税収：約75兆円/年（2024年度）→ 国民一人当たり約60万円"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "どんな税金があるの？種類を見てみよう！",
+      "background": "classroom",
+      "title": "税金の種類",
+      "content": "直接税：所得税（収入にかかる）・法人税（会社の利益にかかる）・相続税。間接税：消費税（買い物にかかる10%）・酒税・タバコ税。他にも固定資産税・自動車税など約50種類。",
+      "emoji": "📊",
+      "highlight": "消費税1%＝約2.5兆円の税収。10%で25兆円！国民全員が払う代表的な税"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "所得税の「累進課税」って公平なの？",
+      "background": "ocean",
+      "title": "累進課税の仕組み",
+      "content": "所得が高いほど税率が上がる「累進課税」。年収195万円以下→5%、年収330〜695万円→20%、年収4000万円超→45%。高所得者がより多く払うことで格差を縮める仕組みです。",
+      "emoji": "⚖️",
+      "highlight": "所得税率：195万以下5%→4000万超45% ＋住民税10%で最高55%"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "社会保険料って何のために払うの？",
+      "background": "forest",
+      "title": "社会保険の種類",
+      "content": "社会保険には①健康保険（病気・ケガ）②年金保険（老後・障害・遺族）③雇用保険（失業時）④労災保険（仕事中の事故）がある。給料から自動的に引かれる「見えない税金」みたいなもの。",
+      "emoji": "🛡️",
+      "highlight": "社会保険料の負担率：会社員は給料の約30%（労使折半で本人負担15%程度）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "年金って将来もらえるの？",
+      "background": "city",
+      "title": "年金制度の仕組み",
+      "content": "日本の年金は「現役世代が高齢者を支える」仕送り型。少子高齢化で支える人が減り、受け取る人が増える問題が深刻化。だから自分で老後の資産形成（iDeCo・NISA）が重要！",
+      "emoji": "👴👵",
+      "highlight": "2023年：現役3人で高齢者1人支える→2060年：現役1.5人で高齢者1人に！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "節税ってずるいの？それとも賢いの？",
+      "background": "classroom",
+      "title": "合法的な節税とは",
+      "content": "税金を合法的に減らすことを「節税（タックスプランニング）」といいます。ふるさと納税・NISA・iDeCo・医療費控除・住宅ローン控除など。知っているかどうかで大きな差！",
+      "emoji": "💡",
+      "highlight": "ふるさと納税：好きな自治体に寄付→返礼品ももらえて税金も減る！"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "身近な税金を探してみよう！",
+      "background": "candy",
+      "title": "税金を身近に感じよう！",
+      "content": "コンビニのレシートを見てみよう！消費税が表示されているはず。スーパーの食料品は8%、外食・お酒は10%。電気・水道の請求書にも税金の記載があります。毎日税金と関わっています！",
+      "emoji": "🧾",
+      "highlight": "食料品（軽減税率）8% vs 外食・一般品10%。税率の違いに気づけた？"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "税金の無駄遣いを監視するのは国民の仕事！",
+      "background": "space",
+      "title": "税金と民主主義",
+      "content": "税金はみんなのお金。どう使うかは政治家が決めますが、選挙で選ぶのは国民！18歳になったら選挙で投票できます。「自分たちで決める」——これが民主主義とお金の関係。",
+      "emoji": "🗳️",
+      "highlight": "「代表なければ課税なし」：アメリカ独立戦争のきっかけとなった言葉"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "社会の仕組みが分かったね！次は資金調達へ🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

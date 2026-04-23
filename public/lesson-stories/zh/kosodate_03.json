@@ -1,0 +1,131 @@
+{
+  "title": "玩耍是最佳学习方式〜培养非认知能力〜",
+  "description": "和Garu一起愉快地学习玩耍是最佳学习方式！",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "玩耍是最佳学习方式！一起来探索玩耍的科学吧！",
+      "background": "candy",
+      "title": "玩耍是最佳学习方式〜培养非认知能力〜",
+      "emoji": "🎮",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起愉快地学习玩耍是最佳学习方式！",
+      "background": "classroom",
+      "title": "什么是非认知能力？",
+      "content": "除了可以通过考试测量的认知能力（IQ）之外，还有诸如毅力、自制力、协调性、同理心、创造力等非认知能力，它们可以更强烈地预测人生的成功！",
+      "emoji": "💪",
+      "highlight": "诺贝尔经济学奖获得者赫克曼：幼儿期的非认知能力投资具有最高的社会回报"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起愉快地学习玩耍是最佳学习方式！",
+      "background": "ocean",
+      "title": "培养毅力（Grit）",
+      "content": "Grit = 热情 + 坚韧不拔。即使面临困难也不放弃的力量比IQ更能预测未来的成功（达克沃斯研究）。如何克服失败的经历会使孩子变得更坚强！",
+      "emoji": "🏋️",
+      "highlight": "Grit研究：在西点军校、拼写比赛、芝加哥公立学校的研究中一贯得到证实"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起愉快地学习玩耍是最佳学习方式！",
+      "background": "forest",
+      "title": "蒙特梭利教育的厉害之处",
+      "content": "由玛丽亚·蒙特梭利开发的教育方法强调孩子自主选择学习。谷歌创始人、亚马逊创始人杰夫·贝佐斯也出身于蒙特梭利教育。自主性、专注力、问题解决能力得到培养！",
+      "emoji": "🏫",
+      "highlight": "蒙特梭利教育出身者：谷歌、亚马逊、维基百科创始人等众多创新者"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起愉快地学习玩耍是最佳学习方式！",
+      "background": "classroom",
+      "title": "积木、LEGO、沙箱的教育价值",
+      "content": "积木和LEGO培养数学思维、空间认知、问题解决、创造力。沙箱游戏可以让孩子亲身体验物理定律。看似普通的玩耍其实是最佳的学习工具！",
+      "emoji": "🧱",
+      "highlight": "LEGO教育研究：对空间认知能力、数学能力、STEM（科学、技术、工程、数学）能力有显著提升"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起愉快地学习玩耍是最佳学习方式！",
+      "background": "space",
+      "title": "角色扮演的深层意义",
+      "content": "医生游戏、过家家游戏——角色扮演对理解他人观点（心智理论）的发展至关重要。可以同时培养社会性、同理心、语言能力和创造力！",
+      "emoji": "👨‍⚕️",
+      "highlight": "心智理论（Theory of Mind）：理解他人在想什么的能力。社会生活的基础"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起愉快地学习玩耍是最佳学习方式！",
+      "background": "ocean",
+      "title": "电子游戏的教育活用",
+      "content": "并非所有游戏都不好！我的世界（Minecraft）可以培养空间认知、创造力和数学能力。编程游戏可以培养逻辑思维。重要的是内容、时间和一起玩的方式！",
+      "emoji": "🎮",
+      "highlight": "我的世界（Minecraft）：在全球学校中被采用为教育工具。用于培养创造力和STEM教育"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起愉快地学习玩耍是最佳学习方式！",
+      "background": "forest",
+      "title": "通过户外玩耍培养风险承受能力",
+      "content": "爬树、玩水、玩泥巴——适度的户外玩耍可以培养风险判断能力、自信和恢复力。过度保护会剥夺孩子挑战的机会。跌倒也是学习的一部分！",
+      "emoji": "🌳",
+      "highlight": "户外玩耍时间更长的孩子：自制力、问题解决能力和身体能力更高（多个研究一致）"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起愉快地学习玩耍是最佳学习方式！",
+      "background": "classroom",
+      "title": "无聊时间的重要性",
+      "content": "如果日程安排得过于紧密，可能会扼杀孩子的创造力。当有「无所事事」的时间时，孩子可以自己发明游戏。无聊是创造力的母亲！",
+      "emoji": "🌤️",
+      "highlight": "自由时间研究：在没有计划的时间里，孩子的创造性活动和自我决定能力发展最快"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "已经学习了玩耍和非认知能力！接下来是食育！",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

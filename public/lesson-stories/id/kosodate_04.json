@@ -1,0 +1,131 @@
+{
+  "title": "Pendidikan Makanan ~ Makan adalah Hidup ~",
+  "description": "Mari belajar pendidikan makanan dengan Gal-chan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Makanan membentuk masa depan anak! Mari belajar ilmu pendidikan makanan!",
+      "background": "forest",
+      "title": "Pendidikan Makanan ~ Makan adalah Hidup ~",
+      "emoji": "🥦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar pendidikan makanan dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Apa itu Pendidikan Makanan?",
+      "content": "Pendidikan makanan menumbuhkan pengetahuan tentang makanan dan kemampuan memilih makanan, serta melahirkan orang yang dapat mempraktikkan diet sehat. Undang-Undang Dasar Pendidikan Makanan disahkan pada tahun 2005, dan pendidikan makanan didorong di sekolah, rumah, dan komunitas di Jepang!",
+      "emoji": "🍱",
+      "highlight": "Undang-Undang Dasar Pendidikan Makanan: Disahkan pada tahun 2005. Bertujuan membantu anak memperoleh kemampuan hidup melalui makanan"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar pendidikan makanan dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Mengapa Anak yang Makan Sarapan Memiliki Kemampuan Akademik Lebih Tinggi",
+      "content": "Anak yang makan sarapan memiliki kemampuan akademik, konsentrasi, dan kekuatan fisik yang lebih tinggi secara signifikan daripada anak yang melewatkan sarapan (survei Kementerian Pendidikan, Kebudayaan, Olahraga, Ilmu Pengetahuan, dan Teknologi). Sumber energi otak hanya glukosa. Jika Anda tidak mengisi glukosa dengan sarapan, otak Anda akan dalam keadaan lapar di pagi hari!",
+      "emoji": "🌅",
+      "highlight": "Anak yang makan sarapan setiap hari: Konsisten mencetak skor lebih tinggi dalam tes akademik daripada anak yang jarang makan sarapan"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar pendidikan makanan dengan Gal-chan!",
+      "background": "forest",
+      "title": "Efek Makan Bersama",
+      "content": "Efek makan bersama sebagai keluarga: Meningkatkan kemampuan bahasa, stabilitas mental, keragaman makanan, dan mengurangi kenakalan. Penelitian menunjukkan bahwa anak yang makan bersama lebih sering memiliki kesehatan mental yang lebih baik!",
+      "emoji": "👨‍👩‍👧‍👦",
+      "highlight": "Anak yang makan bersama: Cenderung memiliki harga diri yang lebih tinggi, kesehatan mental, dan kemampuan akademik daripada anak yang makan sendirian (penelitian ganda)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar pendidikan makanan dengan Gal-chan!",
+      "background": "space",
+      "title": "Bagaimana Mengatasi Anak yang Pilih-Pilih Makanan?",
+      "content": "Kemandirian makanan sering datang dari rasa sensitif anak. Tindakan pencegahan: ① Biarkan mereka berpartisipasi dalam memasak ② Tawarkan porsi kecil secara berulang ③ Jangan memberi tekanan untuk makan - Memaksakan akan membuat mereka semakin tidak suka!",
+      "emoji": "🥕",
+      "highlight": "Ilmu Pengetahuan tentang Kemandirian Makanan: Preferensi rasa dapat berubah dengan 10-15 paparan berulang"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar pendidikan makanan dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Makanan dan Pertanian: 'Dari Mana Makanan Datang?'",
+      "content": "Banyak anak perkotaan berpikir bahwa makanan lahir di supermarket. Pengalaman pertanian, mengetahui asal makanan, dan menunjukkan proses memasak dapat menciptakan rasa syukur dan minat pada makanan!",
+      "emoji": "🌾",
+      "highlight": "Pendidikan Makanan dan Pertanian: Banyak anak yang menanam sayuran makan lebih banyak sayuran"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar pendidikan makanan dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Jebakan Gula dan Bahan Tambahan",
+      "content": "Gula berlebihan, pewarna buatan, dan pengawet dalam makanan anak memerlukan perhatian. Konsumsi gula berlebihan dapat menyebabkan kerusakan gigi, obesitas, dan penurunan konsentrasi. Penting untuk memberi mereka makanan yang dibuat dari 'bahan asli'!",
+      "emoji": "⚠️",
+      "highlight": "Konsumsi gula anak Jepang: Sering melebihi jumlah yang direkomendasikan. Berhati-hatilah dengan minuman ringan"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari belajar pendidikan makanan dengan Gal-chan!",
+      "background": "forest",
+      "title": "Belajar dari Budaya Makanan dan Pengasuhan Global",
+      "content": "Anak-anak Perancis belajar masakan Perancis yang sebenarnya dari taman kanak-kanak. Diet Mediterania (minyak zaitun, ikan, dan sayuran) meningkatkan fungsi kognitif anak. 'Satu sup, tiga hidangan' Jepang dievaluasi sebagai sehat secara global!",
+      "emoji": "🌍",
+      "highlight": "Diet Mediterania dan kemampuan akademik anak: Studi Spanyol menemukan anak dengan skor diet Mediterania yang lebih tinggi memiliki fungsi kognitif dan perhatian yang lebih tinggi"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar pendidikan makanan dengan Gal-chan!",
+      "background": "city",
+      "title": "Efek Pendidikan Memasak Bersama",
+      "content": "Memasak dengan anak adalah pendidikan keluarga empat-in-satu: ① Matematika (pengukuran, pecahan) ② Sains (panas, perubahan kimia) ③ Membaca dan menulis (resep) ④ Kerjasama - Ini adalah pendidikan keluarga terbaik! Kemandirian makanan meningkat, dan minat pada makanan meningkat secara dramatis!",
+      "emoji": "👩‍🍳",
+      "highlight": "Anak yang memasak dengan orang dewasa: Meningkatnya minat pada makanan, asupan sayuran, dan efektif dalam meningkatkan kemandirian makanan"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Belajar pendidikan makanan! Selanjutnya adalah pendidikan emosi 🎉",
+      "background": "space",
+      "title": "Selesai Pelajaran!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

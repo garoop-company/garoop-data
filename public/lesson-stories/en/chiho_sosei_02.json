@@ -1,0 +1,131 @@
+{
+  "title": "Population Decline Problem: Let's Learn About Japan's Shrinking Population",
+  "description": "Let's learn about Japan's population decline and countermeasures with Gal-chan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Population decline is Japan's biggest issue! Let's think about it together 📊",
+      "background": "city",
+      "title": "Population Decline Problem: Let's Learn About Japan's Shrinking Population",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about population decline with Gal-chan!",
+      "background": "classroom",
+      "title": "When did Japan's population peak?",
+      "content": "Japan's population peaked at around 128 million in 2008 and has been declining since then. It is predicted to decrease to around 100 million by 2050 and 60 million by 2100. This means that Japan's population will return to the level of the early Meiji period!",
+      "emoji": "📉",
+      "highlight": "2008 was the peak → 2023: around 124 million → 2100: predicted to be around 60 million"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about population decline with Gal-chan!",
+      "background": "forest",
+      "title": "What are the causes of a declining birth rate?",
+      "content": "Causes of a declining birth rate: ① Progress of late marriage and non-marriage ② Rising childcare costs ③ Insufficient childcare facilities ④ Difficulty balancing work and childcare for women ⑤ Economic instability of young people. Multiple problems are intertwined.",
+      "emoji": "👶",
+      "highlight": "Total fertility rate: 2.07 or more to maintain population. Japan: 1.20 (2023, lowest ever)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about population decline with Gal-chan!",
+      "background": "space",
+      "title": "What is an aging society?",
+      "content": "A society with 21% or more of its population aged 65 or older is called a 'super-aging society.' Japan has the highest level of aging in the world at 29% (2023). Medical and nursing care costs are increasing, pension finances are deteriorating, and labor shortages are becoming serious problems.",
+      "emoji": "👴",
+      "highlight": "Japan is the country with the most advanced aging population. 65 and older: around 36 million (2023)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about population decline with Gal-chan!",
+      "background": "ocean",
+      "title": "What about foreign workers and immigrants?",
+      "content": "The number of foreign workers is increasing to compensate for labor shortages. The number of foreigners in Japan is around 3.4 million (2023, highest ever). The government is reforming the technical intern training system and expanding the specified skilled worker visa. Creating a multicultural society is an important task.",
+      "emoji": "🌏",
+      "highlight": "Foreign residents: over 3.4 million (2023). The top three countries are Vietnam, China, and the Philippines."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about population decline with Gal-chan!",
+      "background": "city",
+      "title": "What problems will occur due to population decline?",
+      "content": "① Labor shortages → Economic contraction ② Decreased tax revenue → Lower public services ③ Rapid increase in vacant homes → Urban decay ④ Closure of schools and hospitals ⑤ Difficulty maintaining infrastructure. However, we can turn this into an 'opportunity' with a new perspective!",
+      "emoji": "🏚️",
+      "highlight": "Number of vacant homes: around 9 million (2023, highest ever). Around 14% of all homes are vacant."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about population decline with Gal-chan!",
+      "background": "forest",
+      "title": "A solution called Compact City",
+      "content": "If the population is decreasing, let's think about 'gathering' people. Toyama City successfully implemented Japan's first compact city policy, concentrating residential and commercial facilities along public transportation lines. Creating a city that is easy to move around and maintain services!",
+      "emoji": "🏙️",
+      "highlight": "Toyama City: New tram system → The population of the city center doubled!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about population decline with Gal-chan!",
+      "background": "candy",
+      "title": "What kind of measures are being taken to address the declining birth rate?",
+      "content": "① Child allowance and free childcare ② Improved parental leave ③ Establishment of childcare support centers ④ Housing support ⑤ Creating a child-friendly environment in local areas. The Kishida administration's 'unprecedented measures to address the declining birth rate' will invest 3.5 trillion yen per year!",
+      "emoji": "💰",
+      "highlight": "Unprecedented measures to address the declining birth rate: 3.6 trillion yen/year to be invested in childcare support from 2024"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about population decline with Gal-chan!",
+      "background": "classroom",
+      "title": "Will AI and robots solve labor shortages?",
+      "content": "Factory automation, delivery robots, nursing care robots, agricultural drones, and other technologies will use AI and robots to cover labor shortages. In the future, AI may handle most of the administrative work. Human jobs will change!",
+      "emoji": "🤖",
+      "highlight": "Agricultural robot market: predicted to grow to over 1.5 trillion yen worldwide by 2030"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Now that we've seen the overall picture of population issues! Next is Agricultural DX 🎉",
+      "background": "space",
+      "title": "Lesson Completed!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

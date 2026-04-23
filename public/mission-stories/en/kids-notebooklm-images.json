@@ -1,0 +1,69 @@
+{
+  "title": "NotebookLM Image Mission",
+  "description": "Mission to plan an image with AI!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Visual Agent! This time it's 'Image Operation'! 🖼️",
+      "background": "lab",
+      "title": "Mission Directive: Image Operation",
+      "content": "Task: Use NotebookLM to organize your image ideas and create an 'image generation prompt' for AI!",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "To create an image with AI, you need a 'detailed description'!",
+      "background": "spy",
+      "title": "What is an Image Prompt?",
+      "content": "A prompt is a description that tells an AI image generation tool to 'create an image like this'. The more detailed, the better the image!",
+      "emoji": "✍️",
+      "highlight": "3 elements of a good prompt:\n① Who (main character)\n② Where (location/background)\n③ What kind of atmosphere (color/mood)"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's explain the picture you want to create to NotebookLM and have it create a prompt for you!",
+      "background": "lab",
+      "title": "Prompt Creation Operation",
+      "content": "Open NotebookLM, describe the image you want to create, and let it create a prompt for you!",
+      "emoji": "🎨",
+      "highlight": "Usable prompt:\n'Create a text for an elementary school student to ask an image generation AI.\nThe theme is 'Future School',\nand the atmosphere is bright and fun.'"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Let's actually generate an image using the prompt you created!",
+      "background": "spy",
+      "title": "Image Generation Challenge",
+      "content": "Try generating an image with your family using an image generation AI and the prompt you created!",
+      "emoji": "🖌️",
+      "highlight": "Clear conditions:\n□ Idea organization completed\n□ 1 image prompt completed\n□ Revised at least once"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Image Operation completed! Submit your prompt and image to get 320 points! 🎯",
+      "background": "hq",
+      "title": "Mission Completed!",
+      "content": "You've acquired the power of an AI artist! Submit your prompt and generated image to Slack!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

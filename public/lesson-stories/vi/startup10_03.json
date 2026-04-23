@@ -1,0 +1,131 @@
+{
+  "title": "Tạo MVP - Thử nghiệm ý tưởng nhanh nhất",
+  "description": "Cùng Garu học cách tạo MVP một cách thú vị!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy nhanh chóng kiểm tra thị trường với MVP (sản phẩm tối thiểu khả thi)!",
+      "background": "city",
+      "title": "Tạo MVP - Thử nghiệm ý tưởng nhanh nhất",
+      "emoji": "🏗️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tạo MVP!",
+      "background": "classroom",
+      "title": "MVP là gì?",
+      "content": "MVP (Minimum Viable Product) = sản phẩm có chức năng tối thiểu. Trước khi tạo sản phẩm hoàn hảo, hãy thử nghiệm phiên bản tối thiểu để kiểm tra 'Có thực sự có nhu cầu không?' và giảm thiểu chi phí thất bại!",
+      "emoji": "🚀",
+      "highlight": "Dropbox MVP: Chỉ với video demo mà không có dịch vụ thực tế, đã thu hút hơn 75.000 người đăng ký!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tạo MVP!",
+      "background": "forest",
+      "title": "Câu chuyện kiểm tra ý tưởng của Airbnb",
+      "content": "Người sáng lập Airbnb đã thử nghiệm cho thuê một phòng trong căn hộ của mình. Không có trang web, không có ứng dụng, chỉ có ảnh. Và họ đã chứng minh rằng 'người ta có thể ở trong nhà của người lạ' trước khi tạo dịch vụ!",
+      "emoji": "🏠",
+      "highlight": "Airbnb giai đoạn đầu: Thử nghiệm cho thuê nhà → Kiểm tra nhu cầu → Phát triển dịch vụ chính thức"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tạo MVP!",
+      "background": "space",
+      "title": "Thử nghiệm với MVP giấy",
+      "content": "Trước khi tạo ứng dụng, bạn có thể thử nghiệm với 'giao diện người dùng vẽ trên giấy'. Chỉ cần hỏi người dùng 'Nếu bạn nhấn vào đây, bạn nghĩ sẽ ra sao?' và bạn sẽ nhận được phản hồi thực tế. Chi phí 0 nhưng rất quan trọng!",
+      "emoji": "📄",
+      "highlight": "Thiết kế mẫu giấy: Chỉ cần giấy và bút, bạn có thể thử nghiệm giao diện người dùng/ trải nghiệm người dùng mà không cần công nghệ!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tạo MVP!",
+      "background": "ocean",
+      "title": "Kiểm tra nhu cầu với trang đích (LP)",
+      "content": "Ngay cả khi không có dịch vụ thực tế, bạn có thể tạo trang đích và đặt nút đăng ký trước để đo nhu cầu. Nếu người đăng ký tập trung, có nghĩa là có nhu cầu! Sử dụng quảng cáo Google hoặc Facebook với số tiền nhỏ để kiểm tra phản hồi cũng rất hiệu quả.",
+      "emoji": "🌐",
+      "highlight": "MVP trang đích: Đo nhu cầu của người dùng với chi phí thấp mà không cần dịch vụ thực tế"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tạo MVP!",
+      "background": "city",
+      "title": "Cải thiện với phỏng vấn người dùng",
+      "content": "Hãy hỏi người dùng về MVP của bạn về những điều họ thích, không thích và muốn cải thiện. Lặp lại chu trình 'tạo → thử nghiệm → cải thiện' nhanh chóng chính là phương pháp cơ bản của phát triển khởi nghiệp hiện đại!",
+      "emoji": "🔄",
+      "highlight": "Phát triển linh hoạt: Phương pháp lặp lại 'tạo → thử nghiệm → cải thiện' mỗi 2 tuần"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tạo MVP!",
+      "background": "classroom",
+      "title": "Tạo mẫu thử nghiệm",
+      "content": "Tạo mẫu thử nghiệm với LEGO cho sản phẩm vật lý, Figma cho thiết kế giao diện ứng dụng, Google Form cho dịch vụ đơn giản - Sử dụng công cụ để nhanh chóng tạo ra thứ gì đó có thể trình bày là bước đầu tiên để biến ý tưởng thành hiện thực!",
+      "emoji": "🔨",
+      "highlight": "Công cụ tạo mẫu: Figma (miễn phí), Canva, Scratch, dịch vụ Google"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học cách tạo MVP!",
+      "background": "space",
+      "title": "'Tạo - Đo lường - Học hỏi' (Build-Measure-Learn)",
+      "content": "核心 của khởi nghiệp tinh gọn: ① Tạo sản phẩm dựa trên ý tưởng ② Đo lường kết quả bằng số liệu ③ Điều chỉnh dựa trên kinh nghiệm - Lặp lại chu trình này nhanh chóng chính là cách chắc chắn nhất để phát triển kinh doanh!",
+      "emoji": "🔬",
+      "highlight": "Khởi nghiệp tinh gọn: Triết lý quản lý được áp dụng bởi các startup trên toàn thế giới, của Eric Ries"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tạo MVP!",
+      "background": "forest",
+      "title": "Thất bại là 'dữ liệu'",
+      "content": "Ngay cả khi MVP thất bại, cũng đừng lo lắng! Thất bại không có nghĩa là ý tưởng không tốt, mà là cách tiếp cận không phù hợp. Hãy thay đổi hướng đi và phát triển ý tưởng tốt hơn!",
+      "emoji": "📊",
+      "highlight": "YouTube ban đầu: Bắt đầu như một dịch vụ chia sẻ video hẹn hò → Thất bại → Chuyển hướng sang chia sẻ video nói chung → Thành công!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Làm chủ chiến lược MVP! Tiếp theo, hãy tìm hiểu về khách hàng của bạn 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

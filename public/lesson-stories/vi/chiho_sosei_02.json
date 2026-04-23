@@ -1,0 +1,131 @@
+{
+  "title": "Vấn đề giảm dân số - Tìm hiểu về Nhật Bản đang thu nhỏ lại",
+  "description": "Cùng Garu học về thực trạng và giải pháp giảm dân số ở Nhật Bản!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Giảm dân số là thách thức lớn nhất của Nhật Bản! Cùng suy nghĩ nhé 📊",
+      "background": "city",
+      "title": "Vấn đề giảm dân số - Tìm hiểu về Nhật Bản đang thu nhỏ lại",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về vấn đề giảm dân số!",
+      "background": "classroom",
+      "title": "Dân số Nhật Bản đạt đỉnh vào lúc nào?",
+      "content": "Dân số Nhật Bản đạt đỉnh vào năm 2008 với khoảng 128 triệu người, sau đó giảm dần. Dự báo đến năm 2050 sẽ còn khoảng 100 triệu người, và đến năm 2100 sẽ còn khoảng 60 triệu người. Điều này có nghĩa là dân số sẽ quay về mức của thời kỳ đầu Meiji!",
+      "emoji": "📉",
+      "highlight": "Năm 2008 là đỉnh → 2023: khoảng 124 triệu → 2100: dự báo khoảng 60 triệu"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về vấn đề giảm dân số!",
+      "background": "forest",
+      "title": "Nguyên nhân của tình trạng ít con là gì?",
+      "content": "Nguyên nhân của tình trạng ít con: ①แต่งงาน muộn và không kết hôn②chi phí nuôi con cao③thiếu cơ sở保育④phụ nữ đi làm và khó khăn trong việc cân bằng công việc và gia đình⑤thanh niên bất ổn về kinh tế. Có nhiều vấn đề đan xen nhau.",
+      "emoji": "👶",
+      "highlight": "Tổng tỷ lệ sinh sản 2,07 trở lên để duy trì dân số. Nhật Bản: 1,20 (2023, thấp nhất lịch sử)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về vấn đề giảm dân số!",
+      "background": "space",
+      "title": "Xã hội lão hóa là gì?",
+      "content": "Xã hội có tỷ lệ dân số từ 65 tuổi trở lên chiếm trên 21% tổng dân số được gọi là 'xã hội siêu lão hóa'. Nhật Bản là nước có tỷ lệ lão hóa cao nhất thế giới với 29% (2023). Chi phí y tế và chăm sóc tăng, tài chính lương hưu xấu đi, thiếu hụt lao động là những vấn đề nghiêm trọng.",
+      "emoji": "👴",
+      "highlight": "Nhật Bản là nước lão hóa nhanh nhất thế giới. Từ 65 tuổi trở lên: khoảng 36 triệu người (2023)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về vấn đề giảm dân số!",
+      "background": "ocean",
+      "title": "Lao động nước ngoài và nhập cư thì sao?",
+      "content": "Lao động nước ngoài tăng để bù đắp thiếu hụt lao động. Số lượng người nước ngoài ở Nhật Bản khoảng 3,4 triệu người (2023, cao nhất lịch sử). Cải cách hệ thống thực tập sinh kỹ năng và mở rộng thị thực kỹ năng đặc định. Làm thế nào để xây dựng xã hội đa văn hóa?",
+      "emoji": "🌏",
+      "highlight": "Người nước ngoài cư trú: trên 3,4 triệu người (2023). Phần lớn là từ Việt Nam, Trung Quốc và Philippines"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về vấn đề giảm dân số!",
+      "background": "city",
+      "title": "Giảm dân số sẽ dẫn đến vấn đề gì?",
+      "content": "①Thiếu hụt lao động → kinh tế co縮②giảm thu thuế → giảm dịch vụ công③tăng nhà trống →荒廃④đóng cửa trường học và bệnh viện⑤khó khăn bảo trì hạ tầng. Nhưng với suy nghĩ ngược lại, chúng ta có thể biến nó thành 'cơ hội'!",
+      "emoji": "🏚️",
+      "highlight": "Số nhà trống: khoảng 9 triệu hộ (2023, cao nhất lịch sử). Gần 14% tổng số nhà ở là nhà trống"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về vấn đề giảm dân số!",
+      "background": "forest",
+      "title": "Giải pháp thành phố compact",
+      "content": "Nếu dân số giảm thì hãy 'tập trung' lại. Thành phố Toyama là thành phố đầu tiên của Nhật Bản thực hiện chính sách thành phố compact thành công, tập trung dân cư và cơ sở thương mại dọc theo giao thông công cộng. Làm cho thành phố dễ di chuyển và duy trì dịch vụ!",
+      "emoji": "🏙️",
+      "highlight": "Thành phố Toyama: xây dựng tuyến tàu điện mới → dân số cư trú ở trung tâm thành phố tăng gấp đôi!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học về vấn đề giảm dân số!",
+      "background": "candy",
+      "title": "Biện pháp đối với tình trạng ít con là gì?",
+      "content": "①Trợ cấp cho trẻ em và miễn phí保育②cải thiện chế độ nghỉ phép③xây dựng cơ sở hỗ trợ④hỗ trợ nhà ở⑤xây dựng môi trường thuận lợi cho việc nuôi con ở địa phương. Chính phủ Kishida 'biện pháp giảm thiểu tình trạng ít con kiểu mới'投入3,5 nghìn tỷ yên/năm cho hỗ trợ nuôi con!",
+      "emoji": "💰",
+      "highlight": "Biện pháp giảm thiểu tình trạng ít con kiểu mới: từ 2024投入3,6 nghìn tỷ yên/năm cho hỗ trợ nuôi con"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về vấn đề giảm dân số!",
+      "background": "classroom",
+      "title": "AI và robot có giải quyết được thiếu hụt lao động?",
+      "content": "Tự động hóa nhà máy, robot giao hàng, robot chăm sóc, máy bay không người lái trong nông nghiệp,... sẽ được bù đắp bằng AI và robot. Trong tương lai, AI sẽ đảm nhiệm phần lớn công việc hành chính. Công việc của con người sẽ thay đổi!",
+      "emoji": "🤖",
+      "highlight": "Thị trường robot nông nghiệp: dự báo đạt 1,5 nghìn tỷ yên trên toàn thế giới vào năm 2030"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chúng ta đã hiểu tổng quan về vấn đề dân số! Tiếp theo là nông nghiệp DX 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

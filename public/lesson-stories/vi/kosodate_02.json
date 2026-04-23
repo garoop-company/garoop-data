@@ -1,0 +1,131 @@
+{
+  "title": "Phát triển não bộ từ 0-3 tuổi - Bên trong đầu của bé",
+  "description": "Cùng Garu học 0 một cách thú vị!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng khám phá bí mật của não bộ em bé!",
+      "background": "space",
+      "title": "Phát triển não bộ từ 0-3 tuổi - Bên trong đầu của bé",
+      "emoji": "🧠",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học 0!",
+      "background": "classroom",
+      "title": "Não bộ em bé phức tạp hơn vũ trụ!",
+      "content": "Khi sinh ra, não bộ em bé đã có 100 tỷ tế bào thần kinh! Sau đó, trước 3 tuổi, hình thành 100 nghìn tỷ kết nối synap (kết nối thần kinh). Giống như số lượng ngôi sao trong vũ trụ, các kết nối này được tạo ra trong não bộ.",
+      "emoji": "🌌",
+      "highlight": "Tế bào thần kinh não bộ em bé: 100 tỷ. Kết nối synap lên đến 100 nghìn tỷ trước 3 tuổi!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học 0!",
+      "background": "ocean",
+      "title": "Tìm hiểu về giai đoạn quan trọng của ngôn ngữ",
+      "content": "Việc học ngôn ngữ có giai đoạn nhạy cảm. Nếu tiếp xúc với nhiều ngôn ngữ trước 3 tuổi, có thể học nhiều ngôn ngữ ở mức độ ngôn ngữ mẹ đẻ! Đây là cơ sở khoa học cho việc giáo dục song ngữ ở trẻ em.",
+      "emoji": "🗣️",
+      "highlight": "Giáo dục song ngữ: Bắt đầu trước 3 tuổi có thể học ngôn ngữ thứ hai như ngôn ngữ mẹ đẻ"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học 0!",
+      "background": "forest",
+      "title": "Mối quan hệ giữa âm nhạc và não bộ",
+      "content": "Nghe và chơi nhạc kích hoạt rộng rãi não bộ. Đặc biệt, trẻ em bắt đầu học nhạc từ 3-5 tuổi có khả năng ngôn ngữ, toán học và chú ý cao hơn. 'Hiệu ứng Mozart' chưa được chứng minh, nhưng hiệu quả của giáo dục âm nhạc đã được khoa học chứng minh!",
+      "emoji": "🎵",
+      "highlight": "Trẻ em chơi nhạc: Điểm cao hơn trong các bài kiểm tra ngôn ngữ, trí nhớ và kiểm soát chú ý (nhiều nghiên cứu)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học 0!",
+      "background": "classroom",
+      "title": "Ngủ giúp não bộ phát triển",
+      "content": "Hoóc môn tăng trưởng của trẻ em được tiết ra trong khi ngủ! Trẻ em 3 tuổi nên ngủ 12-14 tiếng, trẻ tiểu học nên ngủ 10-11 tiếng. Ngủ trưa cũng quan trọng đối với việc củng cố trí nhớ. Dùng điện thoại, chơi game vào ban đêm gây hại lớn cho sự phát triển não bộ của trẻ em!",
+      "emoji": "😴",
+      "highlight": "Hoóc môn tăng trưởng: 90% tiết ra trong khi ngủ (đặc biệt là trong giai đoạn ngủ không REM)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học 0!",
+      "background": "space",
+      "title": "Nuôi dưỡng khả năng điều chỉnh cảm xúc (EQ)",
+      "content": "EQ (trí tuệ cảm xúc) dự đoán thành công trong cuộc sống hơn IQ (chỉ số thông minh)! Khả năng kiểm soát cảm xúc như giận dữ, lo lắng, buồn bã được gọi là 'khả năng điều chỉnh cảm xúc', phát triển mạnh ở trẻ em từ 3-6 tuổi. Phụ huynh hỗ trợ trẻ em diễn đạt cảm xúc là điều quan trọng.",
+      "emoji": "💕",
+      "highlight": "EQ và IQ: Trong thành công dài hạn của cuộc sống, EQ ảnh hưởng lớn hơn IQ (nghiên cứu của Goleman)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học 0!",
+      "background": "city",
+      "title": "Tác động xấu nhất lên não bộ: Căng thẳng mãn tính",
+      "content": "Căng thẳng mãn tính (lạm dụng, nghèo đói, mâu thuẫn trong gia đình) gây tổn thương thực sự cho não bộ trẻ em (đặc biệt là thể amygdala và vỏ não trước trán). Môi trường gia đình an toàn và đảm bảo là điều kiện tuyệt đối cho sự phát triển não bộ.",
+      "emoji": "⚠️",
+      "highlight": "Trẻ em căng thẳng mãn tính: Cortisol (hoóc môn căng thẳng) làm co rút hồi hải mã"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học 0!",
+      "background": "forest",
+      "title": "Mối quan hệ giữa dinh dưỡng và sự phát triển não bộ",
+      "content": "Não bộ chỉ nặng 2% trọng lượng cơ thể nhưng tiêu thụ 20% năng lượng. Sữa mẹ, DHA, sắt, vitamin D - dinh dưỡng hỗ trợ sự phát triển não bộ. Trẻ em ăn kiêng nên chú ý đến các chất dinh dưỡng thường thiếu!",
+      "emoji": "🥦",
+      "highlight": "DHA (dầu cá): Thành phần chính của màng thần kinh não bộ. Nhiều nghiên cứu cho thấy trẻ em dùng DHA cải thiện chức năng nhận thức"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học 0!",
+      "background": "classroom",
+      "title": "Tác động của trải nghiệm thiên nhiên lên não bộ",
+      "content": "Chơi ngoài trời và trải nghiệm thiên nhiên giúp nuôi dưỡng sự tò mò, khả năng đánh giá rủi ro, kỹ năng vận động, chức năng miễn dịch và sáng tạo. Trong thời đại 'thiếu hụt thiên nhiên', việc tạo thời gian chơi ngoài trời một cách có ý thức là rất quan trọng!",
+      "emoji": "🌿",
+      "highlight": "Trải nghiệm thiên nhiên 2 tiếng/tuần: Cải thiện rõ rệt sức khỏe, cảm giác hạnh phúc và sáng tạo (nghiên cứu quốc tế)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Khám phá bí mật của não bộ em bé! Tiếp theo là khoa học chơi đùa 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

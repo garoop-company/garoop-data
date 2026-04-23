@@ -1,0 +1,131 @@
+{
+  "title": "人口减少问题〜缩小的日本了解一下〜",
+  "description": "和Garu一起学习日本的人口减少问题和对策！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "人口减少是日本最大的课题！一起来思考吧📊",
+      "background": "city",
+      "title": "人口减少问题〜缩小的日本了解一下〜",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习人口减少问题！",
+      "background": "classroom",
+      "title": "日本人口的巅峰是在什么时候？",
+      "content": "日本人口在2008年达到约1亿2800万人的巅峰后开始减少。预计到2050年将减少到约1亿人，到2100年将减少到约6000万人。这意味着人口将回到明治初期的水平！",
+      "emoji": "📉",
+      "highlight": "2008年是巅峰→2023年：约1亿2400万→2100年：预计约6000万"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习人口减少问题！",
+      "background": "forest",
+      "title": "少子化的原因是什么？",
+      "content": "少子化的原因：①晚婚和不婚化②育儿成本高③保育所不足④女性社会 진출和工作与育儿的平衡困难⑤年轻人经济不稳定。多个问题交织在一起。",
+      "emoji": "👶",
+      "highlight": "总生育率2.07以上才能维持人口。日本：1.20（2023年，历史最低）"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习人口减少问题！",
+      "background": "space",
+      "title": "老龄化社会是什么意思？",
+      "content": "65岁以上的人口占总人口的21%以上，被称为'超老龄化社会'。日本是世界上老龄化最严重的国家，占比29%（2023年）。医疗和护理费用增加，养老金财政恶化，劳动力不足成为严重的问题。",
+      "emoji": "👴",
+      "highlight": "日本是世界上老龄化最快的国家。65岁以上：约3600万人（2023年）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习人口减少问题！",
+      "background": "ocean",
+      "title": "外国劳动者和移民怎么样？",
+      "content": "为了弥补劳动力不足，外国劳动者增加。日本的外国人数量约为340万人（2023年，历史最多）。技能实习制度改革和特定技能签证扩大。如何建设多文化共生社会是重要课题。",
+      "emoji": "🌏",
+      "highlight": "在留外国人：超过340万人（2023年）。最多的是越南、中国和菲律宾"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习人口减少问题！",
+      "background": "city",
+      "title": "人口减少会带来什么问题？",
+      "content": "①劳动力不足→经济收缩②税收减少→公共服务下降③空置房屋激增→城市荒废④学校和医院关闭⑤基础设施维护困难。但是，反向思考可以将它变成'机会'！",
+      "emoji": "🏚️",
+      "highlight": "空置房屋数：约900万户（2023年，历史最多）。近14%的住宅是空置房屋"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习人口减少问题！",
+      "background": "forest",
+      "title": "紧凑城市是一种解决方案",
+      "content": "如果人口减少，那么就要集聚。富山市是日本首个成功实施紧凑城市政策的城市，公共交通沿线集中居民和商业设施。建设方便移动和能够维持服务的城市！",
+      "emoji": "🏙️",
+      "highlight": "富山市：新设路面电车→中心城区居民人口增加一倍！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习人口减少问题！",
+      "background": "candy",
+      "title": "少子化对策有哪些？",
+      "content": "①儿童抚养补助和保育无偿化②育休充实③育儿支持据点整备④住宅支援⑤地方育儿环境整备。岸田政权'异次元的少子化对策'投入3.5万亿日元/年用于育儿支持！",
+      "emoji": "💰",
+      "highlight": "异次元的少子化对策：2024年〜3.6万亿日元/年投入育儿支持"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习人口减少问题！",
+      "background": "classroom",
+      "title": "AI和机器人能解决劳动力不足吗？",
+      "content": "工厂自动化、配送机器人、护理机器人、农业无人机等，通过AI和机器人来弥补劳动力不足。将来，AI将承担大部分行政工作。人类的职业将发生变化！",
+      "emoji": "🤖",
+      "highlight": "农业机器人市场：预计到2030年将达到1.5万亿日元以上"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "我们已经了解了人口问题的全貌！接下来是农业DX 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

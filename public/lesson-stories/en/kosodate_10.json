@@ -1,0 +1,131 @@
+{
+  "title": "The Future of Parenting ~ Love is the Best Education ~",
+  "description": "Let's learn about the future of parenting with Gal-chan in a fun way!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "A comprehensive summary of the parenting series! Let's learn about love-based parenting!",
+      "background": "candy",
+      "title": "The Future of Parenting ~ Love is the Best Education ~",
+      "emoji": "💕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about the future of parenting with Gal-chan!",
+      "background": "classroom",
+      "title": "10 Key Points for Parenting",
+      "content": "① Attachment formation② Environmental brain development③ Play④ Food education⑤ Emotional education⑥ Interaction with digital technology⑦ Global education⑧ Exercise⑨ Connection with the community⑩ Self-esteem——The foundation of all these is 'love'!",
+      "emoji": "💕",
+      "highlight": "The most important variable in parenting: Quality of parent-child 'attachment' (almost all research agrees)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about the future of parenting with Gal-chan!",
+      "background": "space",
+      "title": "'Self-esteem' is the Best Gift",
+      "content": "'You are amazing just the way you are'——Children with high self-esteem have high resilience, recovery ability, and happiness. Japanese children's self-esteem is at the lowest level among developed countries. Daily 'I love you' can change everything!",
+      "emoji": "🌟",
+      "highlight": "Japanese high school students' self-esteem: Lowest among 7 countries (National Institute for Youth Education and Development, 2021)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about the future of parenting with Gal-chan!",
+      "background": "ocean",
+      "title": "Parents' Own Happiness",
+      "content": "'When the plane shakes, put on your own oxygen mask first, then help your child'——If parents are not happy, it's hard for children to be happy. Parents' own rest, hobbies, friendships, and mental care create the best parenting environment!",
+      "emoji": "✈️",
+      "highlight": "Parental psychological well-being: Directly correlated with children's emotional stability (basic findings in developmental psychology)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about the future of parenting with Gal-chan!",
+      "background": "city",
+      "title": "No Perfect Parents",
+      "content": "All parents make mistakes. It's natural to get angry emotionally or have days when you can't take care of your child——The important thing is the power of 'repair' to say 'Sorry, I was too angry earlier'!",
+      "emoji": "🤗",
+      "highlight": "'Good enough parent': Don't aim for perfection, repairing relationships with children is key (Winnicott)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about the future of parenting with Gal-chan!",
+      "background": "forest",
+      "title": "AI and the Future of Parenting",
+      "content": "AI personalizes children's learning, robots play together, and smart devices keep them safe——Technology supports parenting. But 'love and bond' can only be given by humans!",
+      "emoji": "🤖",
+      "highlight": "AI education tools: Enable personalized optimization for each child's learning style and progress"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about the future of parenting with Gal-chan!",
+      "background": "classroom",
+      "title": "Parents' Growth 'Learning from Children'",
+      "content": "Parenting is a journey for parents to grow! Children's infinite curiosity, honesty, and living in the moment——Learning from children enriches parents' lives. Parenting is not a one-way process, but a 'co-growing' process!",
+      "emoji": "🌱",
+      "highlight": "'Children are a mirror for parents': Children's problems can reflect parents' own challenges"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about the future of parenting with Gal-chan!",
+      "background": "space",
+      "title": "Embracing Diverse Family Forms",
+      "content": "Nuclear families, single-parent households, stepfamilies, dual-income families, stay-at-home dads, same-sex couples——Families come in diverse forms. Regardless of form, 'love and safety' allow children to grow up healthy. No perfect family exists!",
+      "emoji": "🌈",
+      "highlight": "Various family forms: Quality of attachment has a greater impact on children's development than family form"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about the future of parenting with Gal-chan!",
+      "background": "candy",
+      "title": "A Message to Future Parenting Generations",
+      "content": "The lessons you're learning now will be passed on to future children. Knowledge of parenting, love, and community connections——As adults with these, we can create a bright future for Japan's children. You can change the future!",
+      "emoji": "🌟",
+      "highlight": "Everyone involved in parenting support: Teachers, childcare workers, doctors, community people——The whole society should support parenting!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've mastered the parenting series! You're a future parenting expert! 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

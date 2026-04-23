@@ -1,0 +1,81 @@
+{
+  "title": "プログラミング修行",
+  "description": "コードを書く力を鍛えよう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "プログラミング道場へようこそガル！コードで魔法を使おう！💻",
+      "background": "mountain",
+      "title": "プログラミング道場",
+      "content": "プログラミング修行では、命令を書く技術だけでなく、順番立てて考える力を鍛える。コードは魔法の呪文ではなく、目的を小さな手順へ分解した設計図だ。",
+      "emoji": "💻",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "まず「変数」を覚えよう。箱に名前をつけるイメージガル！",
+      "background": "dojo",
+      "title": "変数の修行",
+      "content": "変数は、情報に名前をつけてあとで使いやすくするための箱だ。ただ値を入れるだけでなく、「何を入れている箱なのか」がひと目で伝わる名前にすると、コードの読みやすさが大きく変わる。",
+      "emoji": "📦",
+      "highlight": "良い変数名の条件:\n・中身が想像できる\n・短すぎない\n・同じ役割がわかる"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "繰り返し（ループ）を使うと同じことを何度もしなくていいガル！",
+      "background": "bamboo",
+      "title": "ループの修行",
+      "content": "ループは、同じ処理を何度も書かずにすむ便利な仕組みだ。回数を決めて繰り返すのか、条件を満たす間だけ続けるのかを使い分けると、コードはぐっと整理される。",
+      "emoji": "🔄",
+      "highlight": "見るポイント:\n・何回くり返すか\n・いつ止まるか\n・毎回何が変わるか"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "「もし〜なら」の条件分岐が使えると、プログラムが賢くなるガル！",
+      "background": "mountain",
+      "title": "条件分岐の修行",
+      "content": "条件分岐は、状況に応じて動きを変えるための考え方だ。点数、入力、時間などに応じて結果を変えられるようになると、プログラムは一気に「賢く」見えるようになる。",
+      "emoji": "🤔",
+      "highlight": "基本形:\nif 条件:\n  実行\nelse:\n  別の実行"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Codexに「じゃんけんゲームを作って」と頼んでみよう！",
+      "background": "dojo",
+      "title": "実践！じゃんけんゲーム",
+      "content": "実践では、AIに頼みながらも「どこが入力で、どこが判定で、どこが結果か」を自分で追えることが大切だ。じゃんけんゲームのような小作品は、その流れを体で覚えるのにちょうどよい。",
+      "emoji": "✊",
+      "highlight": "作ると学べる要素:\n・ランダム\n・条件分岐\n・表示の切り替え"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "プログラミング修行完了ガル！作ったものをSlackで発表しよう🎉",
+      "background": "temple",
+      "title": "修行完了！",
+      "content": "修行完了の証は、コードを書けたことより、読んで説明できることにある。1つの作品を最後まで動かし、自分で1か所改造できたなら、もう立派なプログラマーの入口に立っている。",
+      "emoji": "⚔️",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

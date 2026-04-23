@@ -1,0 +1,130 @@
+{
+  "title": "税金与社会保障〜社会的支撑资金〜",
+  "description": "为什么要交税？社会保障的机制是什么？让我们一起学习！",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "了解税金就能看懂社会的机制！🏛️",
+      "background": "classroom",
+      "title": "税金与社会保障",
+      "emoji": "🏛️",
+      "effects": [
+        "sparkle"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "为什么要交税呢？",
+      "background": "city",
+      "title": "税金的用途",
+      "content": "税金是用于支付学校、医院、道路、警察、消防等公共服务的费用。每个人通过贡献一小部分来共同负担无法由一个人承担的费用，从而创造富裕的社会。",
+      "emoji": "🏫",
+      "highlight": "日本的税收：约75兆日元/年（2024年度）→ 每人约60万日元"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "有哪些税种？让我们看看！",
+      "background": "classroom",
+      "title": "税种",
+      "content": "直接税：所得税（收入相关）、法人税（公司利润相关）、遗产税。间接税：消费税（购物相关10%）、酒税、烟草税。还有固定资产税、汽车税等约50种。",
+      "emoji": "📊",
+      "highlight": "消费税1%＝约2.5兆日元的税收。10%就是25兆日元！国民全员都缴纳的代表性税种"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "所得税的‘累进课税’公平吗？",
+      "background": "ocean",
+      "title": "累进课税机制",
+      "content": "累进课税：收入越高，税率越高。年收入195万日元以下→5%，年收入330〜695万日元→20%，年收入4000万日元以上→45%。高收入者缴纳更多税款，以缩小差距。",
+      "emoji": "⚖️",
+      "highlight": "所得税率：195万日元以下5%→4000万日元以上45% ＋住民税10%为最高55%"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "社会保险费是用来做什么的？",
+      "background": "forest",
+      "title": "社会保险种类",
+      "content": "社会保险包括：①健康保险（疾病、伤害）、②年金保险（老年、残疾、遗属）、③失业保险、④工伤保险。从工资中自动扣除的‘隐形税金’。",
+      "emoji": "🛡️",
+      "highlight": "社会保险费负担比例：公司员工工资的约30%（雇主和员工各负担15%）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "退休金将来能领到吗？",
+      "background": "city",
+      "title": "年金制度机制",
+      "content": "日本的年金是‘现役世代支撑高龄者’的输送型制度。然而，由于少子高龄化，支撑者减少、领取者增加的问题日益严重。所以自己进行老后资产形成（iDeCo、NISA）非常重要！",
+      "emoji": "👴👵",
+      "highlight": "2023年：3人支撑1名高龄者 → 2060年：1.5人支撑1名高龄者！"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "节税是狡猾的吗？还是聪明的？",
+      "background": "classroom",
+      "title": "合法的节税",
+      "content": "合法地减少税金称为‘节税（税务规划）’。例如：捐赠给故乡、NISA、iDeCo、医疗费用扣除、住宅贷款扣除等。知道与不知道差别很大！",
+      "emoji": "💡",
+      "highlight": "捐赠给故乡：捐赠给喜欢的自治体 → 收到礼品，税金也减少！"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "让我们寻找身边的税金！",
+      "background": "candy",
+      "title": "感受身边的税金！",
+      "content": "看看便利店的收据！消费税应该显示出来。食品是8%，外食、酒类是10%。电力、水费账单也有税金记载。我们每天都与税金打交道！",
+      "emoji": "🧾",
+      "highlight": "食品（减税率）8% vs 外食、一般商品10%。你注意到税率的差异了吗？"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "监督税金的浪费是国民的责任！",
+      "background": "space",
+      "title": "税金与民主主义",
+      "content": "税金是大家的钱。如何使用由政治家决定，但通过选举选出的是国民！18岁就可以投票。‘自己决定’——这就是民主主义与金钱的关系。",
+      "emoji": "🗳️",
+      "highlight": "‘没有代表就没有课税’：美国独立战争的契机"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "现在你了解社会的机制了！接下来是资金筹集 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

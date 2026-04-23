@@ -1,0 +1,131 @@
+{
+  "title": "演讲练习 〜 传递力量改变人生 〜",
+  "description": "和Garu一起愉快地学习演讲练习！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "用传递力量推动商业！学习演讲吧！",
+      "background": "city",
+      "title": "演讲练习 〜 传递力量改变人生 〜",
+      "emoji": "🎤",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习演讲练习！",
+      "background": "classroom",
+      "title": "什么是Pitch？",
+      "content": "Pitch（演讲）= 向投资者、客户、合作伙伴在短时间内介绍自己的商业。电梯演讲是在乘坐电梯的30秒到2分钟内传达的说明力！",
+      "emoji": "🎤",
+      "highlight": "电梯演讲：在电梯里遇到投资者时，快速传达自己的想法"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习演讲练习！",
+      "background": "forest",
+      "title": "好的Pitch的3个要素",
+      "content": "①问题（客户的困扰）②解决方案（你的产品/服务如何解决）③为什么你的团队最合适——这3个要素在1-2分钟内传达就是完美的Pitch！",
+      "emoji": "🔢",
+      "highlight": "Pitch的黄金构成：问题→解决方案→市场规模→商业模式→团队→请求"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习演讲练习！",
+      "background": "space",
+      "title": "史蒂夫·乔布斯的演讲术",
+      "content": "'1000首歌在口袋里'——iPod的演讲。用数字（1GB）以外的'体验'打动人心。规则：①简单②讲故事③彻底彩排！",
+      "emoji": "🎯",
+      "highlight": "乔布斯的演讲：1张幻灯片1个信息 - 情感诉求 - 彻底彩排"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习演讲练习！",
+      "background": "ocean",
+      "title": "'问题→解决方案→证据→行动'的流程",
+      "content": "PAPA构成：①问题（问题提起）② Agitation（问题恶化）③解决方案（解决方案提示）④行动（鼓励行动）——按照这个流程演讲，听众会产生'想买！'或'想支持！'的想法！",
+      "emoji": "📋",
+      "highlight": "PAPA构成：销售写作、演讲、演讲的世界共通说服结构"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习演讲练习！",
+      "background": "forest",
+      "title": "用数据和情感传达",
+      "content": "仅凭逻辑（数字、事实、数据）不能打动人心。仅凭情感（故事、共鸣、惊讶）也不能获得信任。结合'亚里士多德的说服术：逻各斯（逻辑）、帕托斯（情感）、埃托斯（信任）'！",
+      "emoji": "⚖️",
+      "highlight": "说服的3要素：逻各斯（数据）+帕托斯（故事）+埃托斯（业绩、信任）的平衡"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习演讲练习！",
+      "background": "city",
+      "title": "应对拒绝（不）的方法",
+      "content": "被投资者拒绝是理所当然的！Airbnb被拒绝7次，WhatsApp被Facebook拒绝工作机会——'下一个不'会接近'同意'。被拒绝时，询问'为什么？'并将其转化为改进Pitch的数据！",
+      "emoji": "💪",
+      "highlight": "Airbnb的资金募集：最初被7位投资者拒绝后，被Y Combinator采纳 → 现在是9兆円企业"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习演讲练习！",
+      "background": "classroom",
+      "title": "练习造就神",
+      "content": "Pitch由'练习'而非'才能'决定！在镜子前、与家人、朋友、录制并重复练习，会使说话方式、间隔、眼神、词语选择更加完善。TED演讲者平均练习200小时！",
+      "emoji": "🎬",
+      "highlight": "TED演讲者：为18分钟的演讲准备和练习平均超过200小时"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习演讲练习！",
+      "background": "ocean",
+      "title": "世界儿童Pitch比赛",
+      "content": "Kids TEDx - 高中生商业比赛 - 中学生和高中生Youths For Youth - 全球有儿童展示商业想法的舞台！仅需参与就可成长。大家一起来挑战吧！",
+      "emoji": "🌍",
+      "highlight": "高中生商业比赛：在全国大会上获得数百万日元的创业资金"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "掌握Pitch！接下来是创建团队 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

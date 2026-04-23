@@ -1,0 +1,131 @@
+{
+  "title": "创业与资金〜融资的秘密〜",
+  "description": "创业所需的资金从哪里来？让我们学习融资吧！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "让我们学习创业融资的方法！💼",
+      "background": "city",
+      "title": "创业与资金",
+      "emoji": "💼",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "创业需要多少资金？",
+      "background": "classroom",
+      "title": "创业所需资金",
+      "content": "不同行业的创业所需资金完全不同！餐饮店：500〜2000万日元。网络服务：10〜500万日元。应用程序：50〜1000万日元。最近，出现了一种仅需一部智能手机即可开始创业的商业模式，初始资金为0日元！",
+      "emoji": "💰",
+      "highlight": "网络服务、应用程序可以选择「小额起步」，初始资金为10〜100万日元！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "什么是自有资金、bootstrap？",
+      "background": "forest",
+      "title": "自有资金创业",
+      "content": "使用自己的资金创业被称为「bootstrap」。由于不向外界筹集资金，因此具有较高的自由度。 37signals（Basecamp和HEY的开发公司）以及许多成功的企业都是从自有资金开始的。",
+      "emoji": "👟",
+      "highlight": "bootstrap的优点：无需稀释股份、可以按照自己的节奏经营"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "银行贷款、融资是怎样的？",
+      "background": "city",
+      "title": "银行贷款和日本政策金融公库",
+      "content": "可以从银行借钱来为事业提供资金。日本政策金融公库以对年轻人、女性、创业者提供低息贷款而闻名。提交事业计划书并通过审核后，可以借到数十万至数千万日元！",
+      "emoji": "🏦",
+      "highlight": "日本政策金融公库：无需抵押、无需保证人，最高可贷7200万日元"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "补助金、助成金是「不需要偿还的资金」！",
+      "background": "ocean",
+      "title": "活用补助金、助成金",
+      "content": "政府或自治体提供的「补助金、助成金」是无需偿还的资金！小规模事业者持続化补助金、ものづくり补助金、IT導入补助金等。每年都有许多不同的制度。只有创业者才可以申请！",
+      "emoji": "🎁",
+      "highlight": "补助金示例：小规模事业者持続化补助金→最高200万日元（无需偿还）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "天使投资人是天使吗？",
+      "background": "space",
+      "title": "天使投资人和VC",
+      "content": "天使投资人：富有的个人向创业者投资（数百万至数千万日元）。VC（风险投资）：专业的基金向有潜力的初创企业投资（数千万至数十亿日元）。作为回报，他们会获得部分股份。",
+      "emoji": "👼",
+      "highlight": "日本VC投资额：约1万亿日元/年（2023年）。美国则超过20万亿日元"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "用众筹来实现梦想！",
+      "background": "city",
+      "title": "众筹",
+      "content": "众筹是指从许多人那里筹集资金。使用Kickstarter、Indiegogo、Makuake等平台。这是一种革命性的融资方式，可以在产品开发前就吸引买家！",
+      "emoji": "🌐",
+      "highlight": "Pebble Watch：在Kickstarter上筹集了目标金额的3000%以上（2012年）"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "你的商业创意需要多少资金？",
+      "background": "candy",
+      "title": "制定资金计划！",
+      "content": "如果你要创业，需要什么？①初期费用（设备、库存等），②每月固定成本（人工、租金、材料等），③什么时候可以盈利。将这些写下来，可以培养创业思维！",
+      "emoji": "📋",
+      "highlight": "商业模式：收入 - 成本 = 利润。首先要意识到这个公式！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "有些创业者以IPO（股票上市）为目标！",
+      "background": "classroom",
+      "title": "Exit（退出策略）和IPO",
+      "content": "创业者的最终目标（Exit）通常是①IPO（股票市场上市）或②M&A（被大企业收购）。日本最大的M&A：软银以400亿美元（约6万亿日元）收购ARM（2016年）。",
+      "emoji": "🏆",
+      "highlight": "M&A最高额（日本）：武田药品以约6.2万亿日元收购Shire（2019年）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "你已经学会了资金筹集的机制！接下来是资金的未来 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "储蓄的力量〜保护钱的方法〜",
+  "description": "和Garu一起学习储蓄的重要性和正确的理财方法！",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "今天我们要学习储蓄的秘密！🐖",
+      "background": "classroom",
+      "title": "储蓄的力量",
+      "emoji": "🐖",
+      "effects": [
+        "sparkle"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "首先，我们来了解「收入」和「支出」！",
+      "background": "city",
+      "title": "收入和支出",
+      "content": "钱是由「收入」和「支出」组成的。如果收入＞支出，就是「盈余」；如果收入＜支出，就是「赤字」。盈余的部分就是储蓄！",
+      "emoji": "⚖️",
+      "highlight": "储蓄 ＝ 收入 − 支出"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "你知道为什么储蓄很重要吗？",
+      "background": "forest",
+      "title": "为什么要储蓄？",
+      "content": "储蓄有三个目的：①紧急情况下的「应急储蓄」②实现梦想的「目标储蓄」（旅行、游戏等）③为未来的「养老储蓄」。从小养成习惯很重要！",
+      "emoji": "🎯",
+      "highlight": "应急基金：建议为3〜6个月的生活费"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "先储蓄的「先取储蓄」是最强的！",
+      "background": "classroom",
+      "title": "先取储蓄的秘密",
+      "content": "很多人都想「剩下钱再储蓄」，但钱往往不会剩下！所以「拿到钱就马上储蓄」的效果比较好。建议将工资的10〜20%存入储蓄账户！",
+      "emoji": "💡",
+      "highlight": "先取储蓄 ＝ 工资入账后立即将10%转入其他账户"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "把钱存入银行，钱会慢慢增加！",
+      "background": "city",
+      "title": "银行利率是什么？",
+      "content": "把钱存入银行，可以获得「利息」。例如：年利率0.1%的情况下，存入100万元，一年后会增加1000元。日本的普通存款利率目前约为0.02〜1%。虽然不多，但很安全！",
+      "emoji": "🏦",
+      "highlight": "年利率1%的情况下，100万元 → 10年后约110万元（单利情况）"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "每天存500元... 会很厉害的！",
+      "background": "space",
+      "title": "小额积累的力量",
+      "content": "「积少成多」- 每天存100元，一年后就有36500元！每月存1000元，10年后就有12万元。重要的不是金额，而是「坚持」。好习惯是最强大的武器！",
+      "emoji": "🏔️",
+      "highlight": "每天100元 × 365天 ＝ 36500元/年"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "储蓄有「时间」就是最好的朋友！",
+      "background": "ocean",
+      "title": "时间与金钱的关系",
+      "content": "20岁开始每月存1万元 vs 30岁开始每月存2万元。哪一个会更多？答案是20岁开始！时间越长，钱就越多。所以现在开始就是最好的投资！",
+      "emoji": "⏰",
+      "highlight": "「投资之神」沃伦·巴菲特11岁时第一次买股票"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "为自己设定储蓄目标！",
+      "background": "candy",
+      "title": "设定储蓄目标！",
+      "content": "①为了什么储蓄？（目的）②需要多少钱？（金额）③截止到什么时候？（期限）④每月存多少钱？（计划）这4个条件决定了储蓄的成功率！",
+      "emoji": "📋",
+      "highlight": "SMART目标：具体、可衡量、可实现"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "储蓄的敌人是「冲动消费」！",
+      "background": "classroom",
+      "title": "防止无谓消费的秘诀",
+      "content": "当你想买东西时，先等待24小时。这段时间可以帮助你考虑自己是否真的需要。保存收据并在月底回顾也很重要！",
+      "emoji": "🛑",
+      "highlight": "24小时规则：可减少约70%的冲动消费"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "你已经成为储蓄大师！接下来，去投资的世界吧🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

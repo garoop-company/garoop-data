@@ -1,0 +1,69 @@
+{
+  "title": "Create a GitHub Account Mission",
+  "description": "Mission to create a code repository!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agent! This mission is to 'Build a Secret Base Data Bank'!",
+      "background": "spy",
+      "title": "Mission Briefing: Data Bank Construction",
+      "content": "Task: Create a GitHub account and get a 'digital safe' to store your code safely!",
+      "emoji": "🐙",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "GitHub is like a 'space locker' for your code!",
+      "background": "hq",
+      "title": "What is GitHub?",
+      "content": "GitHub is a place to store your code online. It's like a 'library' for code used by developers all around the world!",
+      "emoji": "📚",
+      "highlight": "What you can do with GitHub:\n・Store and manage code\n・Backup\n・Share with others and collaborate\n・Keep a history"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Always create an account with a parent or guardian!",
+      "background": "lab",
+      "title": "Think of a safe username",
+      "content": "Your GitHub username will be public. Choose a safe and easy-to-remember name!",
+      "emoji": "🔐",
+      "highlight": "Rules for a safe username:\n✅ Combine things you like\n✅ Easy to remember\n❌ Don't use your real name\n❌ Don't include your school or address"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Register an account with a parent or guardian!",
+      "background": "spy",
+      "title": "Account Registration Plan",
+      "content": "Open GitHub.com and create an account with a parent or guardian. Never share your password with anyone!",
+      "emoji": "🔑",
+      "highlight": "Steps:\n1. Open github.com/signup\n2. Enter your email address\n3. Set a safe password\n4. Choose a username\n5. Complete registration!"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Data bank construction complete! Take a screenshot of the login page and get 260 points! 🎯",
+      "background": "hq",
+      "title": "Mission Complete!",
+      "content": "You've created a GitHub data bank! Take a screenshot of the login page and submit it to Slack!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

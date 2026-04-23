@@ -1,0 +1,82 @@
+{
+  "title": "アニメ修行",
+  "description": "Bắt đầu hành trình học làm anime với Garu thôi!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Chào mừng! Đến với đạo trường của Garu! Bắt đầu hành trình học làm anime cùng Garu! Cùng nhau cố gắng nhé🥷",
+      "background": "dojo",
+      "title": "Chào mừng đến với đạo trường anime!",
+      "content": "Cùng trang bị kỹ năng để tạo ra những bộ phim hoạt hình. Tại đây, chúng ta sẽ học từng bước một, từ việc tạo nhân vật đến xây dựng câu chuyện!",
+      "emoji": "🎬",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Đầu tiên, hãy nghĩ về 'nhân vật' nhé! Bạn muốn nhân vật như thế nào?",
+      "background": "bamboo",
+      "title": "Luyện tập tạo nhân vật",
+      "content": "Hãy quyết định nhân vật chính của bộ phim hoạt hình. Hãy nghĩ về 3 điều: tên, tính cách và sở thích!",
+      "emoji": "🎭",
+      "highlight": "Ví dụ:\nTên → Garu\nTính cách → Năng động và tò mò\nSở thích → Tre và khám phá điều kỳ lạ"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Câu chuyện rất quan trọng, Garu! Hãy nghĩ về 3 phần: đầu, giữa và cuối!",
+      "background": "dojo",
+      "title": "Luyện tập xây dựng câu chuyện",
+      "content": "Một bộ phim hoạt hình thường có 3 phần: mở đầu, diễn biến và kết thúc. Đơn giản cũng được, hãy thử tạo một cảnh đầu tiên nhé!",
+      "emoji": "📖",
+      "highlight": "Ví dụ:\nMở đầu → Nhân vật chính gặp quái vật\nDiễn biến → Bạn bè bị bắt đi!\nKết thúc → Cùng nhau giải cứu!"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Hãy thử sử dụng công cụ AI để tạo storyboard nhé!",
+      "background": "mountain",
+      "title": "Thực hành tạo storyboard",
+      "content": "Hãy yêu cầu NotebookLM hoặc AI tạo storyboard cho cảnh này. Bạn sẽ hình dung ra cảnh gì?",
+      "emoji": "🖼️",
+      "highlight": "Công cụ sử dụng:\n・NotebookLM\n・Canva\n・AI Image Generator"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Âm thanh và âm nhạc cũng quan trọng, Garu! Hãy tạo nhạc với Suno🎵",
+      "background": "bamboo",
+      "title": "Luyện tập âm nhạc và giọng nói",
+      "content": "Âm nhạc là một phần không thể thiếu của phim hoạt hình! Hãy thử tạo bài hát chủ đề với AI hoặc nghĩ về giọng nói của nhân vật.",
+      "emoji": "🎵",
+      "highlight": "Thử thách:\nTạo 'bài hát chủ đề anime năng động' với Suno AI\nVí dụ: 'Dũng cảm tiến lên, tiến lên!'"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hành trình học tập đã kết thúc, Garu! Hãy tiếp tục tạo ra các tác phẩm và trình bày nhé🌟",
+      "background": "temple",
+      "title": "Hành trình học tập hoàn tất!",
+      "content": "Bạn đã nắm vững kiến thức cơ bản về sản xuất phim hoạt hình! Tiếp theo, hãy tạo ra các tác phẩm của mình và trình bày trên Slack nhé!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

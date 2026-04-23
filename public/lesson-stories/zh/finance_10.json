@@ -1,0 +1,131 @@
+{
+  "title": "钱的未来 〜 通过金融知识改变人生 〜",
+  "description": "一起学习 AI、钱、未来的金融和你可以做的事情！",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "一起描绘钱的未来！🌟",
+      "background": "space",
+      "title": "钱的未来",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "无现金社会的未来近在眼前！",
+      "background": "city",
+      "title": "无现金社会",
+      "content": "在瑞典，只有 8% 的人使用现金。中国的支付宝和微信支付几乎已经不再需要现金。日本的无现金比率为 39%（2023 年），预计 2025 年后将进一步普及！",
+      "emoji": "📱",
+      "highlight": "韩国的无现金比率：95% 以上！几乎没有使用现金的场景"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI 时代的钱财管理即将到来！",
+      "background": "space",
+      "title": "AI × 金融（Fintech）",
+      "content": "AI（人工智能）将承担股票交易、资产管理、贷款审查和家庭财务管理等工作。机器人顾问将自动决定资产配置并投资！手续费远低于人类财务顾问。",
+      "emoji": "🤖",
+      "highlight": "机器人顾问：年费 0.5〜1% 自动投资。成本仅为人类财务顾问的 1/5〜1/10"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "什么是 CBDC（数字货币）？",
+      "background": "ocean",
+      "title": "CBDC（数字货币）",
+      "content": "各国央行计划发行数字货币。中国的数字货币已经实用化。日本银行也在进行「数字货币」的实证实验。纸币或许会成为过去！",
+      "emoji": "🏦",
+      "highlight": "中国数字货币：2021 年起在中国实用化。已有超过 2 亿人使用"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "DeFi（去中心化金融）会让银行变得不再需要？",
+      "background": "city",
+      "title": "DeFi（去中心化金融）",
+      "content": "DeFi（Decentralized Finance）是在区块链上运行的银行、证券公司和保险公司等服务。任何人都可以随时随地使用金融服务，不需要中间人！",
+      "emoji": "🔗",
+      "highlight": "DeFi 总资产：最高时达到 2,500 亿美元（约 35 万亿日元）。正在迅速增长"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "如何缩小贫富差距？",
+      "background": "forest",
+      "title": "贫富差距与金融",
+      "content": "世界 50% 的财富被前 1% 的人拥有。贫富差距正在扩大。原因在于「投资、教育、继承」的连锁反应。正在讨论的解决方案包括：① UBI（基本收入）② 教育的充实③ 金融知识的普及。",
+      "emoji": "⚖️",
+      "highlight": "比尔·盖茨、巴菲特等人承诺「捐出 99% 的财产」（Giving Pledge）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ESG 投资可以让世界变得更好！",
+      "background": "forest",
+      "title": "ESG 投资与影响力投资",
+      "content": "ESG：环境（Environment）、社会（Social）、治理（Governance）。不仅关注收益，还关注对社会和环境的影响。这一投资风格在全球迅速扩大。",
+      "emoji": "🌱",
+      "highlight": "ESG 投资余额：全球超过 45 万亿美元（约 6,000 万亿日元）！每年都在增加"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "思考你自己的「钱的使命」！",
+      "background": "candy",
+      "title": "钱和个人价值观",
+      "content": "钱不是目的，而是手段。你想用钱实现什么？① 自己的梦想 ② 家人的幸福 ③ 对社会的贡献 ④ 继续做自己喜欢的事情。钱的目的越明确，人就越富有！",
+      "emoji": "💭",
+      "highlight": "「钱买自由。自由是追逐梦想的。」"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "从今天开始提高金融知识的行动！",
+      "background": "classroom",
+      "title": "从今天开始",
+      "content": "① 记录家计簿（应用「Money Forward」「家计簿 Zaim」）② 用记账本来记录支出 ③ 从 100 日元开始投资积累 ④ 每周阅读一次财经新闻（日经电子版）。小习惯会改变人生！",
+      "emoji": "📱",
+      "highlight": "「Money Forward」：免费与银行、证券、信用卡联动。自动管理家计"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "成为金融大师！用钱开创未来！🎉",
+      "background": "space",
+      "title": "金融系列完成！",
+      "emoji": "🏆",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

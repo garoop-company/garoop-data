@@ -1,0 +1,131 @@
+{
+  "title": "What is Money? ~Introduction to Money~",
+  "description": "Let's learn about the origin and mechanism of money with Gal-chan in a fun way!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Welcome to the world of money! Let's learn together 💰",
+      "background": "city",
+      "title": "What is Money?",
+      "emoji": "💰",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "There was no money a long time ago! That's amazing, isn't it?",
+      "background": "forest",
+      "title": "The Age of Bartering",
+      "content": "A long time ago, people exchanged goods for other goods. They would trade fish for vegetables or cloth for tools. This is called 'bartering'.",
+      "emoji": "🐟",
+      "highlight": "🍎＋🐟 → exchange → both parties get what they want"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Money is a 'convenient tool'!",
+      "background": "classroom",
+      "title": "Why Money Was Created",
+      "content": "Bartering had some problems. A person who wanted fish had to meet someone who had fish at the same time! So, a common unit of exchange was created, which is called 'money'.",
+      "emoji": "🪙",
+      "highlight": "Three functions of money: ① exchange ② store of value ③ unit of account"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "The first money was made from shells and stones!",
+      "background": "ocean",
+      "title": "History of Money",
+      "content": "The first coins were made in ancient Lydia (around 700 BC). Later, paper money was introduced in China (10th century). In Japan, the currency used during the Edo period was called 'ryo', 'shu', and 'mon'.",
+      "emoji": "📜",
+      "highlight": "The oldest coin in the world: 7th century BC, Lydia Kingdom (now Turkey)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Do you know what kinds of money exist today?",
+      "background": "city",
+      "title": "Types of Modern Money",
+      "content": "There are three main types of money today: ① cash (coins and banknotes) ② bank deposits (money in your account) ③ electronic money and digital currency. QR code payments using your smartphone are also becoming popular!",
+      "emoji": "📱",
+      "highlight": "Cashless payment ratio in Japan: about 39% (2023) → World average is about 60%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "There are many different currencies in the world, such as yen, dollars, and euros!",
+      "background": "space",
+      "title": "World Currencies",
+      "content": "Each country has its own currency. Japan: yen (¥), America: dollar ($), Europe: euro (€), China: yuan (¥). Exchange rates change every day.",
+      "emoji": "🌏",
+      "highlight": "1 dollar ≈ 150 yen (2024) ※ exchange rates change daily"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Money works because we trust it!",
+      "background": "classroom",
+      "title": "The Value of Money",
+      "content": "Money itself doesn't have any value! We believe it has value, and that's what makes it valuable. The Japanese government and Bank of Japan guarantee the value of the Japanese yen.",
+      "emoji": "🤝",
+      "highlight": "Trust is the essence of money → if trust is lost, inflation occurs"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Think about it! What would you like to spend your money on today?",
+      "background": "candy",
+      "title": "Think About It!",
+      "content": "If you received 1000 yen today, how would you use it? ① spend it all ② save half ③ save it all — which type are you? Everyone has their own way of using money, but it's essential to have a goal!",
+      "emoji": "💭",
+      "highlight": "consumption, saving, and investment — a balance of the three is important!"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Learning about money can change your future!",
+      "background": "city",
+      "title": "What is Financial Literacy?",
+      "content": "Financial literacy refers to knowledge and judgment about money. Japan is said to have a relatively low level of financial literacy compared to other countries. But you're learning about it now! That's the first step!",
+      "emoji": "📚",
+      "highlight": "Japan's financial literacy: 33rd in the world (S&P Global survey)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've learned the basics of money! Next, let's learn about saving 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

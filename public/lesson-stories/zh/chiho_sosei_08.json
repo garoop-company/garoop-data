@@ -1,0 +1,131 @@
+{
+  "title": "年轻人改变地方 - 下一代领导者的挑战",
+  "description": "和Garu一起愉快地学习年轻人改变地方的知识！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "年轻人正在改变地方！让我们学习这股热潮背后的故事！",
+      "background": "city",
+      "title": "年轻人改变地方 - 下一代领导者的挑战",
+      "emoji": "👦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习年轻人改变地方的知识！",
+      "background": "forest",
+      "title": "年轻人选择地方的原因",
+      "content": "疫情后，20-30岁年轻人对移居地方和就职的兴趣急剧上升！背景是价值观的转变，如「想在自然中生活」，「想自由工作」，「想为地方做贡献」。",
+      "emoji": "🌱",
+      "highlight": "移居地方的希望者（20-30岁）：比疫情前增加一倍以上"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习年轻人改变地方的知识！",
+      "background": "classroom",
+      "title": "地方创生協力队的年轻人",
+      "content": "日本全国的地域おこし協力队平均年龄在35岁以下！他们在农业、IT、旅游、教育、福祉等多样化领域活跃。3年任期结束后，约有6成的人留在地方创业！",
+      "emoji": "🤝",
+      "highlight": "地域おこし協力队的定着率：约6成任期结束后留在同一地方或邻近地区"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习年轻人改变地方的知识！",
+      "background": "space",
+      "title": "年轻人引发的本地创业",
+      "content": "京都丹后继承染料工厂的20多岁女性成功品牌化。高知县过疎集落的30多岁男性开设卫星办公室和古民家旅馆。这些年轻人的挑战为地方带来了活力！",
+      "emoji": "🚀",
+      "highlight": "本地创业成功案例：大多是20-30岁移居者或Uターン者创立"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习年轻人改变地方的知识！",
+      "background": "ocean",
+      "title": "学生×地方的「地方创生」",
+      "content": "日本全国大学生参与地方项目的案例急剧增加。农业实习、实地考察、地方课题解决研讨会 - 学生的创意为地方带来了新想法！",
+      "emoji": "🎓",
+      "highlight": "大学生农村实习：农业体验和地方课题解决型学习在日本全国实施"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习年轻人改变地方的知识！",
+      "background": "forest",
+      "title": "高中生改变地方的项目",
+      "content": "当地高中生利用地方特产进行商品开发、店铺运营和SNS传播的「高中生商业」备受关注。他们的创意和行动力为地方做出了贡献！",
+      "emoji": "📚",
+      "highlight": "高中生商业竞赛：日本全国各地举办，商品化、创业的案例也层出不穷"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习年轻人改变地方的知识！",
+      "background": "city",
+      "title": "Uターン、Iターンの选择",
+      "content": "选择Uターン（回到家乡）或Iターン（移居到没有渊源的地方）的年轻人正在增加。利用在城市的职业经验，在地方创业、转职或务农。「地方是选项」这种想法正在普及。",
+      "emoji": "🏠",
+      "highlight": "Iターン移居者的职业：IT、设计和创意系占比最高"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习年轻人改变地方的知识！",
+      "background": "classroom",
+      "title": "支持年轻人地方创业的机制",
+      "content": "①地域おこし協力队②本地创业计划③县市的创业补助金④为年轻人提供空置房屋⑤导师制度（前辈创业者提供支持）- 地方创业的环境正在完善！",
+      "emoji": "💡",
+      "highlight": "本地创业支持：提供事业化支持和资金筹集支持"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习年轻人改变地方的知识！",
+      "background": "ocean",
+      "title": "部活动、体育连接地方",
+      "content": "地方的体育队伍、棒球、足球俱乐部成为地方的骄傲。J联赛的地方俱乐部成为社区的核心（例如松本山雅FC、蒙得迪奥山形等）。",
+      "emoji": "⚽",
+      "highlight": "松本山雅FC：在J1中战斗，同时激活松本的经济和旅游"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "年轻人的力量让地方闪耀！接下来是智慧城市 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

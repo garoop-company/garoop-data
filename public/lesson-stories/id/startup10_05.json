@@ -1,0 +1,131 @@
+{
+  "title": "Latihan Pitch ~ Keterampilan Berkomunikasi yang Mengubah Hidupmu ~",
+  "description": "Mari belajar latihan pitch dengan Gal-chan dengan menyenangkan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Gerakkan bisnis dengan keterampilan berkomunikasi! Mari belajar pitching!",
+      "background": "city",
+      "title": "Latihan Pitch ~ Keterampilan Berkomunikasi yang Mengubah Hidupmu ~",
+      "emoji": "🎤",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar latihan pitch dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Apa itu Pitch?",
+      "content": "Pitch = Presentasikan bisnis Anda kepada investor, pelanggan, dan mitra dalam waktu singkat. Elevator Pitch adalah penjelasan yang dapat disampaikan dalam 30 detik hingga 2 menit saat berada di dalam lift!",
+      "emoji": "🎤",
+      "highlight": "Elevator Pitch: Sampaikan ide Anda kepada investor yang Anda temui secara kebetulan di dalam lift"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar latihan pitch dengan Gal-chan!",
+      "background": "forest",
+      "title": "Tiga Elemen Pitch yang Baik",
+      "content": "① Masalah (apa yang pelanggan hadapi) ② Solusi (bagaimana produk/layanan Anda menyelesaikan masalah) ③ Mengapa tim Anda yang paling tepat - Jika Anda dapat menyampaikan tiga poin ini dalam 1-2 menit, maka itu adalah pitch yang sempurna!",
+      "emoji": "🔢",
+      "highlight": "Struktur Pitch yang Ideal: Masalah → Solusi → Ukuran Pasar → Model Bisnis → Tim → Permintaan"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar latihan pitch dengan Gal-chan!",
+      "background": "space",
+      "title": "Teknik Presentasi Steve Jobs",
+      "content": " '1.000 lagu di kantongmu' - presentasi iPod. Daripada menggunakan angka (1GB), ia menggerakkan hati orang dengan berbicara tentang pengalaman. Aturan: ① Jaga kesederhanaan ② Ceritakan kisah ③ Berlatih secara menyeluruh!",
+      "emoji": "🎯",
+      "highlight": "Presentasi Jobs: 1 slide 1 pesan, kata-kata yang mengundang emosi, berlatih secara menyeluruh"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar latihan pitch dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Aliran 'Masalah → Solusi → Bukti → Tindakan'",
+      "content": "Struktur PAPA: ① Masalah (penyataan masalah) ② Agitasi (memperburuk masalah) ③ Solusi (penyajian solusi) ④ Tindakan (mendorong tindakan) - Jika Anda menyajikan dengan aliran ini, maka audiens akan merasa 'Saya ingin membeli!' atau 'Saya ingin mendukung!'",
+      "emoji": "📋",
+      "highlight": "Struktur PAPA: Struktur persuasif umum dalam penulisan penjualan, pitching, dan presentasi di seluruh dunia"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar latihan pitch dengan Gal-chan!",
+      "background": "forest",
+      "title": "Sampaikan dengan Data dan Emosi",
+      "content": "Orang tidak akan bergerak hanya dengan logika (angka, fakta, data). Juga tidak akan dipercaya hanya dengan emosi (kisah, empati, kejutan). Gabungkan 'Teknik persuasif Aristoteles: Logos (logika), Pathos (emosi), Ethos (kepercayaan)'!",
+      "emoji": "⚖️",
+      "highlight": "Tiga Elemen Persuasif: Keseimbangan Logos (data) + Pathos (kisah) + Ethos (catatan jejak, kepercayaan)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar latihan pitch dengan Gal-chan!",
+      "background": "city",
+      "title": "Menangani Penolakan (Tidak)",
+      "content": "Biasa ditolak oleh investor! Airbnb ditolak 7 kali, WhatsApp ditolak oleh Facebook - 'Tidak' berikutnya mendekati 'Ya'. Saat ditolak, tanyakan 'mengapa?' dan ubah menjadi data untuk meningkatkan pitch!",
+      "emoji": "💪",
+      "highlight": "Pengumpulan Dana Airbnb: Setelah ditolak oleh 7 investor, diterima oleh Y Combinator → sekarang perusahaan 9 triliun yen"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari belajar latihan pitch dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Latihan Membuat Sempurna",
+      "content": "Pitch ditentukan oleh 'latihan' bukan 'bakat'! Berlatih di depan cermin, dengan keluarga, teman, dan merekam diri sendiri - latihan berulang kali menyempurnakan gaya berbicara, waktu, kontak mata, dan pilihan kata. Pembicara TED berlatih rata-rata 200 jam!",
+      "emoji": "🎬",
+      "highlight": "Pembicara TED: Rata-rata 200+ jam persiapan dan latihan untuk presentasi 18 menit"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar latihan pitch dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Kontes Pitch Anak-Anak Global",
+      "content": "Kids TEDx, Kontes Bisnis Sekolah Menengah, Youths For Youth untuk siswa sekolah menengah - Ada panggung di seluruh dunia bagi anak-anak untuk menyajikan ide bisnis! Anda dapat tumbuh hanya dengan berpartisipasi. Tantang diri Anda!",
+      "emoji": "🌍",
+      "highlight": "Kontes Bisnis Sekolah Menengah: Beberapa memenangkan dana startup ratusan juta rupiah dalam kompetisi nasional"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kuasai pitch! Selanjutnya, mari kita buat tim 🎉",
+      "background": "space",
+      "title": "Selesai Pelajaran!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

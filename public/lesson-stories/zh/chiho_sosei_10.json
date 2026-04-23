@@ -1,0 +1,131 @@
+{
+  "title": "一起创造地方的未来〜地方创生的总结〜",
+  "description": "和Garu一起愉快地学习创造地方的未来！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "已经学完了地方创生的全部内容！一起来描绘未来吧！",
+      "background": "forest",
+      "title": "一起创造地方的未来〜地方创生的总结〜",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习创造地方的未来！",
+      "background": "classroom",
+      "title": "地方创生的10个关键词",
+      "content": "①关联人口②智能农业③移住促进④地方品牌⑤青年创业⑥智能城市⑦旅游振兴⑧脱碳⑨地方振兴合作队⑩社区——这些相互关联，使得地方变得更加有活力！",
+      "emoji": "🗝️",
+      "highlight": "你已经能够说出地方创生的10个关键词了，你已经是地方创生专家！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习创造地方的未来！",
+      "background": "ocean",
+      "title": "成功的地方的共同点",
+      "content": "①领导人的愿景②地方居民的参与③外来人口的活用④集中突破（专注于优势）⑤不怕失败的挑战文化——缺少其中之一都很困难。平衡非常重要！",
+      "emoji": "✅",
+      "highlight": "地方创生成功地方的共同点：鼓励挑战的领导人和居民的主动参与"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习创造地方的未来！",
+      "background": "space",
+      "title": "2050年的地方会是什么样？",
+      "content": "科技成熟的2050年，地方可能会变得更加有魅力。自动驾驶解决交通问题，远程医疗解决医疗差距，AI提高农业效率——“地方的不便”会被技术消除！",
+      "emoji": "🔮",
+      "highlight": "2050年的日本：AI和机器人支持许多工作。人类集中于创造力、情感和联系"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习创造地方的未来！",
+      "background": "forest",
+      "title": "你也是地方创生的担当者",
+      "content": "地方创生不仅仅是专家的事情！故乡纳税、通过SNS传播地方信息、购买地方产品、去地方旅游——你的每一个行动都在支持地方。今天就可以开始！",
+      "emoji": "💪",
+      "highlight": "故乡纳税年度总额：超过1万亿日元（2023年）。每个人的支持都在积累"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习创造地方的未来！",
+      "background": "city",
+      "title": "地方让日本全国变得更有活力",
+      "content": "摆脱东京一极集中，各个地方发挥个性，走向“多极分散”的社会。地方变得有活力，日本全国就会变得有活力。你可以成为未来的地方领导人！",
+      "emoji": "🌏",
+      "highlight": "地方时代：多样化的地方竞相展现个性，日本的优势在于“类比进化'"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习创造地方的未来！",
+      "background": "classroom",
+      "title": "地方创生 × SDGs",
+      "content": "许多SDGs（可持续发展目标）与地方创生密切相关。①消除贫困②粮食安全③健康④教育⑤能源⑥产业⑦城市建设⑧气候变化——地方创生与全球目标相连。",
+      "emoji": "🌱",
+      "highlight": "17个SDGs目标在地方得到实践。地方是SDGs的试验场！"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习创造地方的未来！",
+      "background": "forest",
+      "title": "从地方到世界——全球思考",
+      "content": " '全球（Global）+ 地方（Local）'——在关注地方的同时拥有全球视野。地方特产、文化、技术可以在全球市场竞争的时代已经到来！",
+      "emoji": "🌍",
+      "highlight": " '全球思考，地方行动（Think Global, Act Local）'"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习创造地方的未来！",
+      "background": "ocean",
+      "title": "今天可以为地方创生做的事情",
+      "content": "①吃地方特产②通过SNS向朋友传播地方信息③了解故乡纳税④参加地方活动⑤听地方老年人的故事——小行动可以改变地方！",
+      "emoji": "🏡",
+      "highlight": "地方创生并不难！从可以做的事情开始。你是未来地方的主角！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "地方创生系列完全攻略！改变地方的未来！🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

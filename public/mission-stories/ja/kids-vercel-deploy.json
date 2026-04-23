@@ -1,0 +1,70 @@
+{
+  "title": "Vercelデプロイミッション",
+  "description": "作ったページをインターネットに公開するミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "エージェント！最重要ミッションだガル！作品を世界に公開せよ！🚀",
+      "background": "hq",
+      "title": "最重要ミッション指令",
+      "content": "任務は、作った作品を「自分だけの画面」から「世界に見せられる作品」へ進化させること。公開はゴールではなく、見られても困らない内容かを確認する責任まで含めた大事な工程だ。",
+      "emoji": "🚀",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "公開前に絶対確認すること！個人情報が入っていないかチェック！",
+      "background": "spy",
+      "title": "セキュリティチェック",
+      "content": "公開前チェックでは、見た目より安全が最優先だ。本名、学校名、連絡先、顔写真などの個人情報が入っていないか確認し、作品として見せたい情報だけが残っている状態を作ろう。",
+      "emoji": "🔒",
+      "highlight": "公開前の最終確認:\n・個人情報なし\n・著作権に注意\n・家族の確認OK"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Vercelは「ページを世界に届ける魔法の宅急便」ガル！",
+      "background": "lab",
+      "title": "Vercelとは？",
+      "content": "Vercelは、GitHub上のコードをWebサイトとして公開する仕組みを自動化してくれる。難しいサーバー設定をほとんど意識せず、更新を反映できるので、作品公開の最初の一歩に向いている。",
+      "emoji": "✈️",
+      "highlight": "流れ: GitHubに保存 → Vercelで読み込む → URL発行"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Vercelにログインして、プロジェクトをデプロイしよう！",
+      "background": "hq",
+      "title": "デプロイ作戦実行！",
+      "content": "デプロイ作業では、ボタンを押す前に「どのプロジェクトを公開するのか」「トップページは正しく表示されるか」を確認すると失敗しにくい。公開後はURLを開き、自分の端末以外でも見えるか試してみよう。",
+      "emoji": "⚡",
+      "highlight": "手順:\n1. プロジェクト選択\n2. Deploy\n3. URL確認\n4. 表示テスト"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "世界公開完了ガル！URLを提出して480ポイントゲット！🎉",
+      "background": "spy",
+      "title": "ミッション完了！",
+      "content": "ミッション完了後は、URLを提出するだけでなく、「どこを公開前に見直したか」まで言えると価値が高い。安全に公開する経験は、今後どんな作品を出すときにも役立つ基本スキルになる。",
+      "emoji": "🌐",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

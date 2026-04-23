@@ -1,0 +1,69 @@
+{
+  "title": "VS Code स्थापना मिशन",
+  "description": "विकास वातावरण तयार गर्ने मिशन!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "एजेન્ટ! यसपलको मिशन 'विकास आधार निर्माण' हो! 🏗️",
+      "background": "hq",
+      "title": "मिशन निर्देशन: आधार निर्माण",
+      "content": "कार्य: VS Code स्थापना गर्नुहोस् र पहिलो फाइल बनाउनुहोस्! प्रोग्रामरको 'घर' बनाउनुहोस्!",
+      "emoji": "🖥️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "VS Code 'कोड लेखने घर' हो! विश्वभरिका प्रोग्रामरहरूले प्रयोग गर्छन्!",
+      "background": "spy",
+      "title": "VS Code के हो?",
+      "content": "VS Code कोड लेखनको लागि उत्तम 'एडिटर' हो। रंग विभाजन र स्वचालित पूरकको साथ, कार्यक्रम लेख्न सजिलो हुन्छ!",
+      "emoji": "🏠",
+      "highlight": "VS Code का विशेषताहरू:\n・नि:शुल्क प्रयोग गर्न सकिन्छ\n・विश्वभरिका इन्जिनियरहरूद्वारा प्रयोग गरिन्छ\n・रंग विभाजनको साथ कोड हेर्न सजिलो हुन्छ\n・विस्तारक 기능हरूसँग थप कार्यहरू गर्न सकिन्छ"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "परिवारका साथीहरू साथमा स्थापना गर्नुहोस्!",
+      "background": "lab",
+      "title": "स्थापना रणनीति",
+      "content": "VS Code आधिकारिक वेबसाइटबाट डाउनलोड गरी स्थापना गर्नुहोस्। यदि तपाईंलाई थाहा नभए वयस्कहरूलाई सोध्नुहोस्!",
+      "emoji": "⬇️",
+      "highlight": "प्रक्रिया:\n1. code.visualstudio.com खोल्नुहोस्\n2. 'Download' बटन थिच्नुहोस्\n3. स्थापना कार्यक्रम चलाउनुहोस्\n4. VS Code सुरु गर्नुहोस्!"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "स्थापना गर्न सकिएपछि, पहिलो फाइल बनाउनुहोस्!",
+      "background": "spy",
+      "title": "फाइल निर्माण रणनीति",
+      "content": "VS Code खोल्नुहोस् र 'my-first-app' नामक फोल्डर बनाउनुहोस् र त्यसमा 'memo.txt' बनाउनुहोस्!",
+      "emoji": "📁",
+      "highlight": "चुनौती:\n① फोल्डर नाम: my-first-app\n② फाइल नाम: memo.txt\n③ मनपर्ने कुरा 3 लाइन लेख्नुहोस् र सुरक्षित गर्नुहोस्"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "आधार निर्माण पूरा! स्क्रिनसट खिचेर 260 पोइन्ट प्राप्त गर्नुहोस्! 🎯",
+      "background": "hq",
+      "title": "मिशन पूरा!",
+      "content": "प्रोग्रामरको आधार पूरा भयो! VS Code स्क्रिनसट खिचेर Slack मा पेश गर्नुहोस्!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

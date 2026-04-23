@@ -1,0 +1,132 @@
+{
+  "title": "MVPを作ろう〜最速でアイデアを試す〜",
+  "description": "ガルちゃんと楽しくMVPを作ろうを学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "MVP（最小限プロダクト）で素早く市場を検証しよう！",
+      "background": "city",
+      "title": "MVPを作ろう〜最速でアイデアを試す〜",
+      "emoji": "🏗️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「MVPを作ろう〜最速でアイデアを試す〜」をテーマに、子どもの視点で挑戦を形にする力を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとMVPを作ろうを学ぼう！",
+      "background": "classroom",
+      "title": "MVPってなに？",
+      "content": "MVP（Minimum Viable Product）＝最小限の機能だけ持つ製品。完璧な製品を作る前に、最小限のバージョンで「これは本当に需要があるか？」を素早くテストする戦略！失敗コストを最小化！",
+      "emoji": "🚀",
+      "highlight": "Dropbox MVP：実際のサービスなしに「デモ動画」だけで75,000人以上の登録者獲得！"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとMVPを作ろうを学ぼう！",
+      "background": "forest",
+      "title": "Airbnbのアイデア検証の話",
+      "content": "Airbnbの創業者は最初、自分のアパートの一室を貸す実験をした。Webサイトなし・アプリなし・写真だけ。それで「人は見知らぬ人の家に泊まる」を証明してからサービスを作った！",
+      "emoji": "🏠",
+      "highlight": "Airbnb創業初期：自分の家を人に貸す実験→需要確認→本格サービス開発の順番"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとMVPを作ろうを学ぼう！",
+      "background": "space",
+      "title": "「紙MVPでテストしよう",
+      "content": "アプリを作る前に「紙に書いたUI」でユーザーテストができます。「これをタップするとどうなると思う？」と聞くだけで本物のフィードバックが得られます。コスト0で大切なことが分かる！",
+      "emoji": "📄",
+      "highlight": "ペーパープロトタイピング：紙とペンだけでUI/UXテストが可能。技術不要！"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとMVPを作ろうを学ぼう！",
+      "background": "ocean",
+      "title": "ランディングページ（LP）でニーズを検証",
+      "content": "実際のサービスがなくてもLPを作って「事前登録ボタン」を置くだけでニーズが測れます。登録者が集まれば需要あり！GoogleやFacebook広告に少額を使って反応を見る「広告MVP」も有効。",
+      "emoji": "🌐",
+      "highlight": "LP（Landing Page）MVP：実際のサービスなしに「欲しい人が何人いるか」を低コストで測る"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとMVPを作ろうを学ぼう！",
+      "background": "city",
+      "title": "ユーザーインタビューで改善する",
+      "content": "MVPを使ってもらったユーザーから「良かったところ・悪かったところ・改善して欲しいこと」を聞く。このサイクルを素早く繰り返す「アジャイル開発」が現代のスタートアップの基本！",
+      "emoji": "🔄",
+      "highlight": "アジャイル開発：「作る→テストする→改善する」を2週間単位で繰り返す手法"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとMVPを作ろうを学ぼう！",
+      "background": "classroom",
+      "title": "プロトタイプを作ってみよう",
+      "content": "LEGOで物理的製品のプロトタイプ・Figmaでアプリの画面デザイン・Googleフォームで簡易サービス——ツールを駆使して「見せられるもの」を素早く作ることがアイデアを形にする第一歩！",
+      "emoji": "🔨",
+      "highlight": "プロトタイプ作成ツール：Figma（無料）・Canva・Scratch・Googleサービスを活用"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとMVPを作ろうを学ぼう！",
+      "background": "space",
+      "title": "「Build-Measure-Learn（作る・測る・学ぶ）」",
+      "content": "リーンスタートアップの核心：①アイデアをもとに製品を作る②数字で成果を測る③学びをもとに軌道修正する——このサイクルを素早く回すことが最も確実にビジネスを育てる方法！",
+      "emoji": "🔬",
+      "highlight": "リーンスタートアップ：Eric Ries著。世界中のスタートアップが採用する経営哲学"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとMVPを作ろうを学ぼう！",
+      "background": "forest",
+      "title": "失敗は「データ」だ",
+      "content": "MVPが失敗しても大丈夫！失敗は「このアイデアはダメだった」ではなく「このやり方ではダメだった」というデータ。ピボット（方向転換）してより良いアイデアに進化させよう！",
+      "emoji": "📊",
+      "highlight": "YouTube元々：デートビデオ共有サービスとして開始→失敗→動画共有全般に方向転換→成功！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "MVP戦略をマスター！次はお客様を知ろう🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

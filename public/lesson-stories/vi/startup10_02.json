@@ -1,0 +1,131 @@
+{
+  "title": "Cách Tìm Ý Tưởng - Biến Vấn Đề Thành Của Quý",
+  "description": "Cùng Garu học cách tìm ý tưởng một cách thú vị!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ý tưởng kinh doanh ở đâu? Cùng tìm kiếm!",
+      "background": "space",
+      "title": "Cách Tìm Ý Tưởng - Biến Vấn Đề Thành Của Quý",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tìm ý tưởng!",
+      "background": "classroom",
+      "title": "Nguồn Gốc Của Ý Tưởng Là 'Bất Mãn'",
+      "content": "Cảm giác 'Bất tiện này!' hay 'Tại sao lại thế này?' chính là hạt giống kinh doanh. Uber: 'Không gọi được taxi!' mà ra đời. Airbnb: 'Tiền thuê khách sạn quá cao!' mà ra đời. Bất mãn của bạn có giá trị!",
+      "emoji": "😤",
+      "highlight": "Uber ra đời: Không bắt được taxi vào ban đêm, nghĩ ra 'ứng dụng gọi taxi ngay lập tức'"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tìm ý tưởng!",
+      "background": "ocean",
+      "title": "Phân Tích '5W1H' Để Tìm Vấn Đề",
+      "content": "Tại sao (Why)? Cái gì (What)? Ai (Who)? Khi nào (When)? Ở đâu (Where)? Làm thế nào (How)? - Phân tích 6 điều này trong các sự kiện hàng ngày, kinh doanh sẽ hiện ra!",
+      "emoji": "❓",
+      "highlight": "Suy nghĩ 5W1H: Khung làm việc phổ quát cho việc phát hiện và giải quyết tất cả các thách thức kinh doanh"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tìm ý tưởng!",
+      "background": "forest",
+      "title": "Tìm 'Điểm Đau'!",
+      "content": "Điểm mà khách hàng cảm thấy đau đớn chính là cơ hội kinh doanh. ① Bất tiện ② Mất quá nhiều thời gian ③ Quá đắt ④ Chất lượng kém ⑤ Không có lựa chọn - Tìm 5 điểm đau này để tìm thấy của quý!",
+      "emoji": "🎯",
+      "highlight": "Phương pháp tìm điểm đau: Chỉ cần hỏi người gần gũi 'Gần đây họ gặp khó khăn gì?' là có núi của quý!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tìm ý tưởng!",
+      "background": "space",
+      "title": "Biết Nhu Cầu Thực Sự Qua Phỏng Vấn",
+      "content": "Hỏi 'Có muốn sử dụng dịch vụ như thế này không?' thường được trả lời 'Có'. Nhưng nhu cầu thực sự đến từ hành động trong quá khứ: 'Lần cuối cùng họ gặp khó khăn là khi nào? Lúc đó họ làm gì?'",
+      "emoji": "🎙️",
+      "highlight": "Quy tắc phỏng vấn khách hàng: 'Có muốn dịch vụ như vậy không?' hơn là 'Lần cuối cùng họ gặp khó khăn là khi nào?'"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tìm ý tưởng!",
+      "background": "city",
+      "title": "Quan Sát Là Phương Pháp Nghiên Cứu Mạnh Nhất",
+      "content": "Quan sát người ta gặp khó khăn gì ở thư viện, xem hàng gì đang bán chạy ở cửa hàng, phân tích điều gì đang hot trên SNS - 'Quan sát hiện trường (Etnography)' là núi của quý ý tưởng kinh doanh!",
+      "emoji": "👁️",
+      "highlight": "Tư duy thiết kế: 'Quan sát - Đồng cảm - Định nghĩa - Phát huy - Thử nghiệm - Kiểm tra' - Phương pháp giải quyết vấn đề của các công ty hàng đầu thế giới"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tìm ý tưởng!",
+      "background": "classroom",
+      "title": "Đọc Tương Lai Từ Xu Hướng",
+      "content": "Những gì đang流行, công nghệ xu hướng, thay đổi xã hội - Dự đoán 'điều tiếp theo' từ những điều này là 'phân tích xu hướng'. AI, lão hóa, biến đổi khí hậu, di trú - Kinh doanh trên xu hướng lớn dễ thành công!",
+      "emoji": "📈",
+      "highlight": " 'Leo lên đồi của xu hướng': Tăng trưởng xu hướng là cách dễ dàng nhất để mở rộng kinh doanh"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học cách tìm ý tưởng!",
+      "background": "forest",
+      "title": "Tư Duy Sáng Tạo Nhóm Cho Ý Tưởng Nổ",
+      "content": "Nhiều người hơn 1 người, nhiều người hơn 2 người để đưa ra ý tưởng. Quy tắc: ① Không chỉ trích ② Ưu tiên số lượng (hơn chất lượng) ③ Bất kỳ ý tưởng nào cũng OK ④ Xây dựng trên ý tưởng của người khác - Thử tạo ra 100 ý tưởng trong 15 phút đầu tiên!",
+      "emoji": "🌪️",
+      "highlight": "Hiệu quả của tư duy sáng tạo nhóm: Lượng ý tưởng trong môi trường không chỉ trích thường cao gấp 3-5 lần"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tìm ý tưởng!",
+      "background": "ocean",
+      "title": "9 Yếu Tố Của Mô Hình Kinh Doanh (BMC)",
+      "content": "Mô hình kinh doanh Canvas (BMC): ① Phân khúc khách hàng ② Đề xuất giá trị ③ Kênh ④ Mối quan hệ khách hàng ⑤ Dòng doanh thu ⑥ Tài nguyên ⑦ Hoạt động ⑧ Đối tác ⑨ Cấu trúc chi phí - Tóm tắt 9 điều này trên một tờ giấy để xem kinh doanh!",
+      "emoji": "🗺️",
+      "highlight": "BMC (Bản đồ mô hình kinh doanh): Được phát triển bởi Alex Osterwalder. Khởi nghiệp trên toàn thế giới sử dụng"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Làm chủ việc tìm ý tưởng! Tiếp theo là tạo MVP 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

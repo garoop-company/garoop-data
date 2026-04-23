@@ -1,0 +1,69 @@
+{
+  "title": "NotebookLM ảnh nhiệm vụ",
+  "description": "Nhiệm vụ AI tạo ảnh!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Biểu diễn viên hình ảnh! Hôm nay là \"Nhiệm vụ ảnh\" đấy!",
+      "background": "lab",
+      "title": "Nhiệm vụ chỉ đạo: Nhiệm vụ ảnh",
+      "content": "Nhiệm vụ: Sử dụng NotebookLM để sắp xếp ý tưởng ảnh và tạo \"Chỉ thị tạo ảnh AI\"!",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Để AI tạo ảnh, bạn cần \"Giải thích chi tiết\"",
+      "background": "spy",
+      "title": "Giải thích ảnh khuyến khích?",
+      "content": "Giải thích chi tiết để công cụ tạo ảnh AI biết \"Tạo hình ảnh như thế này\"",
+      "emoji": "✍️",
+      "highlight": "3 yếu tố của một khuyến khích tốt:\n① Ai là nhân vật chính?\n② Ở đâu (Địa điểm/Phông nền)?\n③ Cảm giác như thế nào (Màu sắc/Động lực)?"
+    },
+    {
+      "id": 3,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Sử dụng NotebookLM để giải thích hình ảnh mong muốn và tạo khuyến khích!",
+      "background": "lab",
+      "title": "Nhiệm vụ tạo khuyến khích",
+      "content": "Mở NotebookLM và giải thích hình ảnh mong muốn để tạo khuyến khích!",
+      "emoji": "🎨",
+      "highlight": "Khuyến khích có thể sử dụng:\n\"Tạo một văn bản yêu cầu AI tạo hình ảnh cho học sinh tiểu học\n với chủ đề \"Trường học tương lai\" và cảm giác vui vẻ\""
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Sử dụng khuyến khích đã tạo để tạo hình ảnh thực tế!",
+      "background": "spy",
+      "title": "Thử thách tạo hình ảnh",
+      "content": "Sử dụng AI tạo hình ảnh cùng với người thân để tạo hình ảnh với khuyến khích đã tạo!",
+      "emoji": "🖌️",
+      "highlight": "Điều kiện hoàn thành:\n□ Sắp xếp ý tưởng thành công\n□ Tạo được khuyến khích hình ảnh\n□ Sửa đổi ít nhất một lần"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Nhiệm vụ ảnh hoàn thành!",
+      "background": "hq",
+      "title": "Nhiệm vụ hoàn thành!",
+      "content": "Bạn đã có sức mạnh của nghệ sĩ AI! Hãy gửi khuyến khích và hình ảnh tạo ra vào Slack!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

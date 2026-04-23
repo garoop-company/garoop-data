@@ -1,0 +1,81 @@
+{
+  "title": "NotebookLMスライドミッション",
+  "description": "NotebookLMでスライドを作るスパイミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "エージェント、聞こえるガル？今すぐミッションブリーフィングを始めるよ！🕵️",
+      "background": "hq",
+      "title": "ミッション指令！",
+      "content": "任務は、情報をそのまま並べるのではなく、相手が理解しやすい3枚構成に整理すること。テーマを選び、資料を集め、見出しと要点を絞るまでがこのミッションの核心だ。",
+      "emoji": "📊",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "NotebookLMは「情報を整理する最強の武器」ガル！",
+      "background": "spy",
+      "title": "武器の説明",
+      "content": "NotebookLMは、集めた資料から要点を引き出し、構成案を作るのが得意だ。ただし資料の質が低いと出力もぼやけるので、まず信頼できる情報を入れることが重要になる。",
+      "emoji": "🔍",
+      "highlight": "基本手順:\n1. 資料を入れる\n2. 要点を聞く\n3. 構成案を作る\n4. 表現を整える"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "テーマを決めるのが最初のミッションガル！",
+      "background": "hq",
+      "title": "テーマを選択せよ",
+      "content": "テーマ選びでは、広すぎる題材を避けて「3枚で伝えきれるか」を基準にするとよい。好きなものでも、視点を1つに絞ると、スライド全体に筋が通って見やすくなる。",
+      "emoji": "🎯",
+      "highlight": "絞り方の例: 「宇宙」ではなく「月に人が行けた理由」"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "このプロンプトをNotebookLMに送ってみよう！",
+      "background": "lab",
+      "title": "作戦実行！",
+      "content": "AIに頼むときは、対象年齢、ページ数、各ページの役割まで指示すると整理された案が出やすい。1枚目は興味づけ、2枚目は説明、3枚目はまとめ、という流れを意識すると発表しやすい。",
+      "emoji": "💻",
+      "highlight": "依頼の型:\n・小学生向け\n・3ページ\n・見出し + 1〜2文\n・最後に感想や学び"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "スライドができたら確認チェックをしよう！",
+      "background": "spy",
+      "title": "クリア条件確認",
+      "content": "完成チェックでは、難しい言葉がそのまま残っていないか、自分の言葉が入っているかを見ることが大切だ。AIの文章を少しでも直すことで、資料は「借り物」ではなく自分の発表になる。",
+      "emoji": "✅",
+      "highlight": "確認項目:\n□ やさしい言い換え\n□ 情報の順番\n□ 自分の感想"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "ミッション完了ガル！スクリーンショットを提出して300ポイントゲットだ！🎯",
+      "background": "hq",
+      "title": "ミッション完了報告",
+      "content": "ミッション完了は、3枚そろったことだけでなく、相手に何を持ち帰ってほしいかを言える状態だ。提出時には、いちばん工夫した1枚を自分で説明すると、学びの深さが伝わる。",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

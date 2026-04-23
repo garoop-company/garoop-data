@@ -1,0 +1,69 @@
+{
+  "title": "Misi Buat Akun GitHub",
+  "description": "Misi membuat repositori kode!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agen! Misi kali ini adalah 'Membangun Bank Data Base Rahasia'!",
+      "background": "spy",
+      "title": "Briefing Misi: Konstruksi Bank Data",
+      "content": "Tugas: Buat akun GitHub dan dapatkan 'brankas digital' untuk menyimpan kode dengan aman!",
+      "emoji": "🐙",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "GitHub seperti 'loker luar angkasa' untuk kode Anda!",
+      "background": "hq",
+      "title": "Apa itu GitHub?",
+      "content": "GitHub adalah tempat untuk menyimpan kode secara daring. Ini seperti 'perpustakaan' kode yang digunakan oleh pengembang di seluruh dunia!",
+      "emoji": "📚",
+      "highlight": "Apa yang bisa Anda lakukan dengan GitHub:\n・Simpan dan kelola kode\n・Cadangkan\n・Bagikan dengan orang lain dan kolaborasi\n・Simpan riwayat"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Selalu buat akun dengan orang tua atau wali!",
+      "background": "lab",
+      "title": "Pikirkan nama pengguna yang aman",
+      "content": "Nama pengguna GitHub Anda akan terlihat publik. Pilih nama yang aman dan mudah diingat!",
+      "emoji": "🔐",
+      "highlight": "Aturan nama pengguna yang aman:\n✅ Gabungkan hal-hal yang Anda suka\n✅ Mudah diingat\n❌ Jangan gunakan nama asli\n❌ Jangan sertakan nama sekolah atau alamat"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Daftarkan akun dengan orang tua atau wali!",
+      "background": "spy",
+      "title": "Rencana Pendaftaran Akun",
+      "content": "Buka GitHub.com dan buat akun dengan orang tua atau wali. Jangan pernah berbagi kata sandi dengan siapa pun!",
+      "emoji": "🔑",
+      "highlight": "Langkah-langkah:\n1. Buka github.com/signup\n2. Masukkan alamat email\n3. Atur kata sandi yang aman\n4. Pilih nama pengguna\n5. Selesai pendaftaran!"
+    },
+    {
+      "id": 5,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Konstruksi bank data selesai! Screenshot halaman login dan dapatkan 260 poin! 🎯",
+      "background": "hq",
+      "title": "Misi Selesai!",
+      "content": "Anda telah membuat bank data GitHub! Screenshot halaman login dan kirimkan ke Slack!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

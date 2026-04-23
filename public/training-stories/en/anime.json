@@ -1,0 +1,82 @@
+{
+  "title": "Anime Training",
+  "description": "Let's start anime production training with Garu-chan!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Welcome to Garu-chan's dojo! Let's start anime training together! ",
+      "background": "dojo",
+      "title": "Welcome to Anime Dojo!",
+      "content": "Let's acquire the skills to create anime. Here, we'll learn step by step from character creation to storytelling!",
+      "emoji": "🎬",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "First, let's think about the 'character'! What kind of child will it be?",
+      "background": "bamboo",
+      "title": "Character Training",
+      "content": "Let's decide on the main character of the anime. Think of three things: name, personality, and likes!",
+      "emoji": "🎭",
+      "highlight": "Example:\nName → Garu-chan\nPersonality → Energetic and curious\nLikes → Bamboo and surprise adventures"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "The story is important, Garu! Let's think of three parts: beginning, middle, and end!",
+      "background": "dojo",
+      "title": "Story Training",
+      "content": "Anime has three parts: 'beginning', 'incident', and 'resolution'. Let's create one scene, it's okay if it's simple!",
+      "emoji": "📖",
+      "highlight": "Example:\nBeginning → The main character meets a monster\nIncident → The friend is kidnapped!\nResolution → Working together to rescue!"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Let's create a storyboard using AI tools!",
+      "background": "mountain",
+      "title": "Storyboard Practice",
+      "content": "Ask NotebookLM or AI to 'create a storyboard for this scene'. What scene comes to mind?",
+      "emoji": "🖼️",
+      "highlight": "Tools to use:\n・NotebookLM\n・Canva\n・AI Image Generator"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Voice and music are also important, Garu! Let's create music with Suno",
+      "background": "bamboo",
+      "title": "Music and Voice Training",
+      "content": "Music is essential for anime! Let's create a theme song with AI or think about the character's voice.",
+      "emoji": "🎵",
+      "highlight": "Challenge:\nCreate an 'upbeat anime theme song' with Suno AI\nExample: 'Courage, move forward!'"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Great job on the training, Garu! Let's create and present works ",
+      "background": "temple",
+      "title": "Training Completed!",
+      "content": "You've mastered the basics of anime production! Next, let's actually create a work and present it on Slack!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Thành phố thông minh và vùng nông thôn - Giải quyết thách thức bằng công nghệ",
+  "description": "Cùng Garu học về thành phố thông minh và vùng nông thôn một cách thú vị!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy giải quyết thách thức ở vùng nông thôn bằng công nghệ trong thành phố thông minh!",
+      "background": "space",
+      "title": "Thành phố thông minh và vùng nông thôn - Giải quyết thách thức bằng công nghệ",
+      "emoji": "🏙️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về thành phố thông minh và vùng nông thôn!",
+      "background": "city",
+      "title": "Thành phố thông minh là gì?",
+      "content": "Thành phố sử dụng IoT, AI, dữ liệu lớn, 5G để tối ưu hóa dịch vụ hành chính, giao thông, năng lượng, y tế... Không chỉ thành phố, mà vùng nông thôn cũng đang triển khai 'thị trấn thông minh'!",
+      "emoji": "🌐",
+      "highlight": "Thị trường thành phố thông minh toàn cầu: Dự kiến đạt 1 nghìn tỷ đô la (khoảng 150 nghìn tỷ yên) vào năm 2030"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về thành phố thông minh và vùng nông thôn!",
+      "background": "classroom",
+      "title": "Tối ưu hóa thủ tục hành chính bằng AI",
+      "content": "Thẻ số, ứng dụng điện tử, cửa sổ AI - thủ tục hành chính được số hóa, có thể thực hiện trong 24 giờ, từ xa. Đặc biệt ở vùng sâu, vùng xa, thiếu nhân viên, có thể sử dụng DX để bù đắp.",
+      "emoji": "🤖",
+      "highlight": "Thủ tục hành chính trực tuyến: Tăng mạnh sau COVID-19. Cấp chứng nhận, khai thuế trực tuyến đang được triển khai"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về thành phố thông minh và vùng nông thôn!",
+      "background": "ocean",
+      "title": "Giải quyết vấn đề giao thông bằng lái xe tự động, MaaS",
+      "content": "Ở vùng sâu, vùng xa, 'người dân giao thông khó khăn' (không có xe, không thể đi đâu) là một vấn đề nghiêm trọng. Xe buýt tự động, giao thông theo yêu cầu, MaaS (quản lý giao thông bằng một ứng dụng) đang được thử nghiệm tại nhiều nơi!",
+      "emoji": "🚌",
+      "highlight": "Thử nghiệm xe buýt tự động: Đang được thực hiện tại nhiều nơi trên cả nước như Ibaraki, Fukui, Okinawa..."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về thành phố thông minh và vùng nông thôn!",
+      "background": "forest",
+      "title": "Giải quyết chênh lệch y tế ở vùng nông thôn bằng khám chữa bệnh từ xa",
+      "content": "Ở vùng nông thôn, thiếu bác sĩ, bệnh viện xa là một vấn đề nghiêm trọng. 'Khám chữa bệnh từ xa' bằng điện thoại thông minh đang được phổ biến. Chẩn đoán AI, thiết bị đeo theo dõi sức khỏe cũng có thể được thực hiện từ xa!",
+      "emoji": "🏥",
+      "highlight": "Người dùng khám chữa bệnh từ xa: Tăng mạnh sau COVID-19. Giảm chênh lệch tiếp cận y tế ở vùng sâu, vùng xa"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về thành phố thông minh và vùng nông thôn!",
+      "background": "space",
+      "title": "5G thay đổi nông nghiệp, công nghiệp vùng nông thôn",
+      "content": "5G (thế hệ thứ 5) không chỉ được triển khai ở thành phố mà còn ở nông thôn, ngư thôn. Điều khiển máy móc từ xa bằng 5G, tự động hóa nhà máy... 5G × Local 5G đang thay đổi công nghiệp vùng nông thôn!",
+      "emoji": "📡",
+      "highlight": "Local 5G: 5G chuyên dụng cho nhà máy, trang trại, công trường... Có thể xây dựng riêng"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về thành phố thông minh và vùng nông thôn!",
+      "background": "city",
+      "title": "Giao hàng bằng drone thay đổi logistics vùng nông thôn",
+      "content": "Ở vùng núi, đảo, chi phí logistics cao, giao hàng mất nhiều thời gian. Nếu giao hàng bằng drone trở nên phổ biến, có thể giao hàng trong ngày. Rakuten, JAL Group đang thử nghiệm giao hàng bằng drone ở vùng đảo!",
+      "emoji": "🚁",
+      "highlight": "Giao hàng bằng drone: Đang được thử nghiệm ở đảo Izu, quần đảo Goto..."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học về thành phố thông minh và vùng nông thôn!",
+      "background": "classroom",
+      "title": "AI phân tích vấn đề vùng nông thôn",
+      "content": "Dự đoán dân số, tối ưu hóa chi phí hành chính, phân tích dòng chảy du lịch... AI và dữ liệu lớn đang giúp giải quyết vấn đề vùng nông thôn. Các cơ quan chức năng trên cả nước đang tăng cường sử dụng AI để tối ưu hóa dịch vụ hành chính.",
+      "emoji": "📊",
+      "highlight": "Cơ quan chức năng sử dụng AI: Tăng mạnh trên cả nước. Ứng dụng trong nông nghiệp, phúc lợi xã hội, phòng chống thiên tai..."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về thành phố thông minh và vùng nông thôn!",
+      "background": "ocean",
+      "title": "Năng lượng tái tạo ở vùng nông thôn - hướng tới giảm phát thải carbon",
+      "content": "Năng lượng mặt trời, gió, sinh khối, địa nhiệt... Vùng nông thôn có tiềm năng năng lượng tái tạo phong phú. Sử dụng năng lượng tái tạo để giảm phát thải carbon, tăng thu nhập cho người dân địa phương.",
+      "emoji": "🌱",
+      "highlight": "Sản lượng năng lượng tái tạo (vùng nông thôn): Có trường hợp sử dụng năng lượng mặt trời, gió để đáp ứng 100% nhu cầu điện"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Khả năng vô tận của thành phố thông minh và vùng nông thôn! Bài học cuối cùng 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

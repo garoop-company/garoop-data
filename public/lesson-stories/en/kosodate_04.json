@@ -1,0 +1,131 @@
+{
+  "title": "Food Education ~ Eating is Living ~",
+  "description": "Let's learn food education with Gal-chan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Food shapes a child's future! Let's learn the science of food education!",
+      "background": "forest",
+      "title": "Food Education ~ Eating is Living ~",
+      "emoji": "🥦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn food education with Gal-chan!",
+      "background": "classroom",
+      "title": "What is Food Education?",
+      "content": "Food education cultivates knowledge about food and the ability to choose food, and fosters people who can practice a healthy diet. The Basic Food Education Law was enacted in 2005, and food education is promoted in schools, homes, and communities in Japan!",
+      "emoji": "🍱",
+      "highlight": "Basic Food Education Law: Enacted in 2005. Aims to help children acquire the ability to live through food"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn food education with Gal-chan!",
+      "background": "ocean",
+      "title": "Why Children Who Eat Breakfast Have Higher Academic Ability",
+      "content": "Children who eat breakfast have significantly higher academic ability, concentration, and physical strength than those who skip breakfast (Ministry of Education, Culture, Sports, Science and Technology survey). The brain's energy source is glucose only. If you don't replenish glucose with breakfast, your brain will be in a hungry state in the morning!",
+      "emoji": "🌅",
+      "highlight": "Children who eat breakfast every day: Consistently score higher on academic tests than those who rarely eat breakfast"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn food education with Gal-chan!",
+      "background": "forest",
+      "title": "The Effects of Eating Together",
+      "content": "The effects of eating together as a family: Improved vocabulary, mental stability, food diversity, and reduced delinquency. Research shows that children who eat together more often have higher mental health!",
+      "emoji": "👨‍👩‍👧‍👦",
+      "highlight": "Children who eat together: Tend to have higher self-esteem, mental health, and academic ability than those who eat alone (multiple studies)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn food education with Gal-chan!",
+      "background": "space",
+      "title": "How to Deal with Children's Food Picky Eaters?",
+      "content": "Food pickiness often comes from children's sensitive taste. Countermeasures: ① Let them participate in cooking ② Offer small portions repeatedly ③ Don't pressure them to eat - Forcing them will make them dislike it even more!",
+      "emoji": "🥕",
+      "highlight": "The Science of Food Picky Eaters: Taste preferences may change with 10-15 repeated exposures"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn food education with Gal-chan!",
+      "background": "ocean",
+      "title": "Food and Agriculture: 'Where Does Food Come From?'",
+      "content": "Many urban children think food is born in supermarkets. Agricultural experiences, knowing the origin of food, and showing cooking processes can create gratitude and interest in food!",
+      "emoji": "🌾",
+      "highlight": "Food and Agriculture Education: Many children who grow vegetables eat more vegetables"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn food education with Gal-chan!",
+      "background": "classroom",
+      "title": "The Pitfalls of Sugar and Additives",
+      "content": "Excessive sugar, artificial coloring, and preservatives in children's food require attention. Excessive sugar intake can lead to tooth decay, obesity, and decreased concentration. It's essential to feed them meals made from 'real ingredients'!",
+      "emoji": "⚠️",
+      "highlight": "Japanese children's sugar intake: Often exceeds recommended amounts. Be cautious with soft drinks"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn food education with Gal-chan!",
+      "background": "forest",
+      "title": "Learning from Global Parenting Food Cultures",
+      "content": "French children learn authentic French cuisine from kindergarten. Mediterranean diet (olive oil, fish, and vegetables) improves children's cognitive function. Japan's 'one soup, three dishes' is evaluated as healthy globally!",
+      "emoji": "🌍",
+      "highlight": "Mediterranean diet and children's academic ability: Spanish study finds children with higher Mediterranean diet scores have higher cognitive function and attention"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn food education with Gal-chan!",
+      "background": "city",
+      "title": "The Educational Effects of Cooking Together",
+      "content": "Cooking with children is a four-in-one home education: ① Math (measurement, fractions) ② Science (heat, chemical changes) ③ Reading and writing (recipes) ④ Cooperation - It's the best family education! Food pickiness improves, and interest in food increases dramatically!",
+      "emoji": "👩‍🍳",
+      "highlight": "Children who cook with adults: Increased interest in food, vegetable intake, and effective in improving food pickiness"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Learned food education! Next is emotional education 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

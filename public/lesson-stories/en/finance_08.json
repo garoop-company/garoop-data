@@ -1,0 +1,130 @@
+{
+  "title": "Taxes and Social Security: The Money That Supports Society",
+  "description": "Why do we pay taxes? How does social security work? Let's learn together!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Understanding taxes helps you see how society works! 🏛️",
+      "background": "classroom",
+      "title": "Taxes and Social Security",
+      "emoji": "🏛️",
+      "effects": [
+        "sparkle"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Why do we pay taxes in the first place?",
+      "background": "city",
+      "title": "The Purpose of Taxes",
+      "content": "Taxes fund public services like schools, hospitals, roads, police, and fire departments. By sharing the cost, we create a richer society.",
+      "emoji": "🏫",
+      "highlight": "Japan's tax revenue: approximately ¥75 trillion/year (2024) → about ¥600,000 per person"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "What kinds of taxes are there? Let's take a look!",
+      "background": "classroom",
+      "title": "Types of Taxes",
+      "content": "Direct taxes: income tax, corporate tax, inheritance tax. Indirect taxes: consumption tax (10% on purchases), liquor tax, tobacco tax. There are about 50 types, including property tax and automobile tax.",
+      "emoji": "📊",
+      "highlight": "1% of consumption tax = about ¥2.5 trillion in tax revenue. 10% = ¥25 trillion! A representative tax paid by everyone"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Is the 'progressive tax' on income tax fair?",
+      "background": "ocean",
+      "title": "The Progressive Tax System",
+      "content": "The higher your income, the higher your tax rate. 'Progressive tax': 5% for income under ¥1.95 million, 20% for ¥330,000 - ¥695,000, 45% for over ¥40 million. This system reduces inequality by having high-income earners pay more.",
+      "emoji": "⚖️",
+      "highlight": "Income tax rate: 5% for under ¥1.95 million → 45% for over ¥40 million + 10% local tax = up to 55%"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "What do social insurance premiums pay for?",
+      "background": "forest",
+      "title": "Types of Social Insurance",
+      "content": "Social insurance includes: ① health insurance (illness, injury), ② pension insurance (old age, disability, survivor's benefits), ③ employment insurance (unemployment), and ④ workers' compensation insurance (workplace accidents). It's like an invisible tax deducted automatically from your salary.",
+      "emoji": "🛡️",
+      "highlight": "Social insurance premium burden: about 30% of salary for office workers (split between employer and employee, with employee paying around 15%)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Will I receive pension benefits in the future?",
+      "background": "city",
+      "title": "The Pension System",
+      "content": "Japan's pension system is a support system where working-age people support retirees. With fewer working-age people and more retirees, it's essential to build your own retirement assets (iDeCo, NISA)!",
+      "emoji": "👴👵",
+      "highlight": "2023: 3 working-age people support 1 retiree → 2060: 1.5 working-age people support 1 retiree"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Is tax saving sneaky or smart?",
+      "background": "classroom",
+      "title": "Legitimate Tax Saving",
+      "content": "Legally reducing taxes is called 'tax saving' or 'tax planning.' Examples include: furusato nōzei (hometown tax), NISA, iDeCo, medical expense deductions, and mortgage loan deductions. Knowing these can make a big difference!",
+      "emoji": "💡",
+      "highlight": "Furusato nōzei: donate to your favorite municipality → receive gifts and reduce taxes!"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Let's find taxes in our daily lives!",
+      "background": "candy",
+      "title": "Taxes in Everyday Life",
+      "content": "Check your convenience store receipts! You should see consumption tax listed. Food at supermarkets is 8%, while eating out and alcohol are 10%. Your electricity and water bills also have tax information. You're interacting with taxes every day!",
+      "emoji": "🧾",
+      "highlight": "Food (reduced tax rate) 8% vs eating out and general goods 10%. Did you notice the tax rate difference?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "It's citizens' duty to monitor tax waste!",
+      "background": "space",
+      "title": "Taxes and Democracy",
+      "content": "Taxes are everyone's money. Politicians decide how to use it, but citizens choose them through elections! You can vote once you turn 18. 'No taxation without representation' – this is the relationship between democracy and money.",
+      "emoji": "🗳️",
+      "highlight": "'No taxation without representation': a phrase that sparked the American Revolutionary War"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Now you understand how society works! Next up: funding 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

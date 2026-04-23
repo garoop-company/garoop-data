@@ -1,0 +1,131 @@
+{
+  "title": "How to Find Ideas 〜Turn Problems into Treasure〜",
+  "description": "Let's have fun learning how to find ideas with Gal-chan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Where are business ideas hiding? Let's go find them together!",
+      "background": "space",
+      "title": "How to Find Ideas 〜Turn Problems into Treasure〜",
+      "emoji": "💡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn how to find ideas with Gal-chan!",
+      "background": "classroom",
+      "title": "The Source of Ideas: 'Dissatisfaction'",
+      "content": "The feeling of 'this is inconvenient' or 'why is it like this?' is the seed of business. Uber was born from 'I can't get a taxi!' and Airbnb from 'hotel prices are too high!'. Your dissatisfaction has value!",
+      "emoji": "😤",
+      "highlight": "Uber's Birth: On a night when taxis couldn't be hailed, the idea for 'an app that can call a taxi instantly' was born"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn how to find ideas with Gal-chan!",
+      "background": "ocean",
+      "title": "The 5W1H Analysis: Finding Problems",
+      "content": "Why (why is it like this?), What (what's the problem?), Who (who's struggling?), When (when does it happen?), Where (where does it happen?), How (how to solve it?) - analyzing everyday events with these 6 questions reveals business opportunities!",
+      "emoji": "❓",
+      "highlight": "5W1H Thinking: A universal framework for discovering and solving all business challenges"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn how to find ideas with Gal-chan!",
+      "background": "forest",
+      "title": "Find the 'Pain Points'!",
+      "content": "The points where customers feel pain are business opportunities. ① Inconvenient ② Takes too much time ③ Too expensive ④ Poor quality ⑤ No options - finding these 5 pain points leads to treasure!",
+      "emoji": "🎯",
+      "highlight": "Pain Point Discovery Method: Just ask people around you 'what have you been struggling with lately?' and a mountain of treasure appears!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn how to find ideas with Gal-chan!",
+      "background": "space",
+      "title": "Understanding True Needs through Interviews",
+      "content": "When asked 'would you use a service like this?', people often say 'yes'. But true needs are revealed from past actions: 'when did you last struggle with this?' and 'what did you do then?'",
+      "emoji": "🎙️",
+      "highlight": "The Golden Rule of Customer Interviews: 'what do you really need?' rather than 'do you want a service like this?'"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn how to find ideas with Gal-chan!",
+      "background": "city",
+      "title": "Observation is the Best Research Method",
+      "content": "Observe what people struggle with at the library, what sells at stores, and what's trending on social media - 'field observation (ethnography)' is a treasure trove of business ideas!",
+      "emoji": "👁️",
+      "highlight": "Design Thinking: 'observation, empathy, definition, idea generation, prototyping, testing' - a problem-solving method used by top companies worldwide"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn how to find ideas with Gal-chan!",
+      "background": "classroom",
+      "title": "Reading the Future from Trends",
+      "content": "Trends, technological trends, and social changes - predicting 'what's next' from these is 'trend analysis'. AI, aging population, climate change, and local migration - businesses that ride big trends are more likely to succeed!",
+      "emoji": "📈",
+      "highlight": " 'Ride the trend': riding growth trends is the easiest way to expand your business"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn how to find ideas with Gal-chan!",
+      "background": "forest",
+      "title": "Explosive Idea Generation with Brainstorming",
+      "content": "More people generate more ideas. Rules: ① no criticism ② quantity over quality ③ any crazy idea is okay ④ build on others' ideas - try to generate 100 ideas in 15 minutes with these rules!",
+      "emoji": "🌪️",
+      "highlight": "The Effect of Brainstorming: idea quantity increases 3-5 times in a criticism-free environment"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn how to find ideas with Gal-chan!",
+      "background": "ocean",
+      "title": "The 9 Elements of a Business Model (BMC)",
+      "content": "Business Model Canvas (BMC): ① customer segments ② value proposition ③ channels ④ customer relationships ⑤ revenue streams ⑥ resources ⑦ activities ⑧ partners ⑨ cost structure - summarizing these 9 elements on one sheet reveals your business!",
+      "emoji": "🗺️",
+      "highlight": "BMC (Business Model Canvas): developed by Alex Osterwalder, used by startups worldwide"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Mastered idea discovery! Next, create an MVP 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

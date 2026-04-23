@@ -1,0 +1,132 @@
+{
+  "title": "失敗から学ぶ〜レジリエンス（回復力）の育て方〜",
+  "description": "ガルちゃんと楽しく失敗から学ぶを学ぼう！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "失敗こそが成功への道！レジリエンスを学ぼう！",
+      "background": "forest",
+      "title": "失敗から学ぶ〜レジリエンス（回復力）の育て方〜",
+      "emoji": "💪",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「失敗から学ぶ〜レジリエンス（回復力）の育て方〜」をテーマに、子どもの視点で挑戦を形にする力を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと失敗から学ぶを学ぼう！",
+      "background": "classroom",
+      "title": "失敗は「発見」だ",
+      "content": "エジソンは電球開発で10,000回以上失敗した。「私は失敗していない。うまくいかない方法を10,000通り発見しただけだ」——この言葉が全てを表しています！",
+      "emoji": "💡",
+      "highlight": "エジソン：実験帳に10,000以上の失敗記録。全て「次に向けたデータ」として記録"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと失敗から学ぶを学ぼう！",
+      "background": "ocean",
+      "title": "シリコンバレーの「失敗文化」",
+      "content": "シリコンバレーでは失敗は「勲章」。一度起業して失敗した経験者の方が次は成功率が高い！日本では「一度失敗したらおしまい」という文化が起業の妨げに。失敗を恐れない文化を作ることが大切。",
+      "emoji": "🏅",
+      "highlight": "米国起業家の失敗経験：VCは一度失敗した経験のある起業家への投資を好む傾向も"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと失敗から学ぶを学ぼう！",
+      "background": "space",
+      "title": "「ポストモーテム（振り返り）」の技術",
+      "content": "失敗した後に「なぜ失敗したか？」を冷静に分析することを「ポストモーテム」と言います。①何が起きたか②なぜ起きたか③次は何をするか——この3つを書き出すと失敗が「資産」に変わります！",
+      "emoji": "📝",
+      "highlight": "ポストモーテム：Googleがプロジェクト失敗後に実施する振り返り手法。批判ではなく改善が目的"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと失敗から学ぶを学ぼう！",
+      "background": "forest",
+      "title": "レジリエンス（心の回復力）を育てる",
+      "content": "困難から回復する力「レジリエンス」は才能ではなく「練習で育てられる力」。①感情を認める②サポートを求める③小さな成功を積み重ねる④「これも学び」と意味づける——4つのステップ！",
+      "emoji": "🌱",
+      "highlight": "レジリエンスの研究：幼少期の「適度な困難体験」が大人のレジリエンスを高める"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと失敗から学ぶを学ぼう！",
+      "background": "city",
+      "title": "ピボット（方向転換）を恐れるな",
+      "content": "市場の反応を見て「このやり方ではダメだ」と判断したら早めに方向転換（ピボット）することが大切。Instagram元々は位置情報ゲームアプリだった！YouTube元々はデートビデオサービスだった！",
+      "emoji": "🔄",
+      "highlight": "有名ピボット例：Slack（ゲーム会社→コミュニケーションツール）・YouTube（デートビデオ→動画全般）"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんと失敗から学ぶを学ぼう！",
+      "background": "classroom",
+      "title": "メンタルヘルスと起業家",
+      "content": "起業のプレッシャーで精神的に追い詰められる起業家は多い。大切なのは①適度な休息②仲間への相談③専門家への相談④「完璧でなくていい」と認める。自分自身を守ることが長期的な成功の鍵！",
+      "emoji": "❤️",
+      "highlight": "起業家のうつ：一般人口より高い有病率。メンタルヘルスケアが起業の成功に直結"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと失敗から学ぶを学ぼう！",
+      "background": "ocean",
+      "title": "「Growth Mindset（成長型マインドセット）」",
+      "content": "「才能は固定」と思う固定型マインドセット vs「努力で成長できる」と思う成長型マインドセット——後者を持つ人の方が困難に強く・より多くを成し遂げることがCarol Dweckの研究で証明！",
+      "emoji": "🌟",
+      "highlight": "成長型マインドセット：スタンフォード大Dweck教授の研究。挑戦・失敗・努力を肯定的にとらえる"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんと失敗から学ぶを学ぼう！",
+      "background": "forest",
+      "title": "諦めないための「Why（なぜ）」",
+      "content": "スタートアップが困難を乗り越えられるのは「強いWhy（なぜやるか）」があるから。お金のためだけでは諦める。「世界を変えたい」「誰かを助けたい」という情熱が最強のエンジン！",
+      "emoji": "🔥",
+      "highlight": "Simon Sinek「WHYから始めよ」：偉大な組織・リーダーはWHYから行動する"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "レジリエンスを習得！次はデジタルで起業しよう🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

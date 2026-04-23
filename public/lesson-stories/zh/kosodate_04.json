@@ -1,0 +1,131 @@
+{
+  "title": "食育〜吃饭就是生存〜",
+  "description": "和Garu一起愉快地学习食育！",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "饮食决定孩子的未来！让我们学习食育的科学知识！",
+      "background": "forest",
+      "title": "食育〜吃饭就是生存〜",
+      "emoji": "🥦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习食育！",
+      "background": "classroom",
+      "title": "什么是食育？",
+      "content": "食育是通过培养人们对食品的知识和选择食品的能力，促进健康饮食习惯的实践。2005年，日本颁布了《食育基本法》，在学校、家庭和社区推进食育。",
+      "emoji": "🍱",
+      "highlight": "食育基本法：2005年实施。目标是帮助孩子通过饮食获得生存能力。"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习食育！",
+      "background": "ocean",
+      "title": "为什么吃早餐的孩子学习成绩更好？",
+      "content": "吃早餐的孩子比不吃早餐的孩子学习成绩、注意力和体力更好（文部科学省调查）。大脑的能量来源只有葡萄糖。如果不吃早餐，大脑在上午就会处于空腹状态！",
+      "emoji": "🌅",
+      "highlight": "每天吃早餐的孩子：比几乎不吃早餐的孩子在学业测试中得分更高。"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习食育！",
+      "background": "forest",
+      "title": "一起吃饭的效果",
+      "content": "家庭一起吃饭的“共食”效果：提高孩子的词汇量、精神稳定、多样化饮食、预防不良行为。研究表明，一起吃饭的次数越多的孩子，精神健康度越高！",
+      "emoji": "👨‍👩‍👧‍👦",
+      "highlight": "一起吃饭的孩子：比单独吃饭的孩子自尊心、精神健康和学业成绩更好（多个研究）。"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习食育！",
+      "background": "space",
+      "title": "如何解决孩子的偏食问题？",
+      "content": "偏食往往是由于孩子的味觉敏感。解决方法：①让孩子参与烹饪 ②多次少量提供 ③不强迫孩子吃不喜欢的食物——强迫只会让孩子更不喜欢！",
+      "emoji": "🥕",
+      "highlight": "偏食的科学：味觉喜好可能在10-15次重复接触后改变。"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习食育！",
+      "background": "ocean",
+      "title": "饮食与农业：'食物从哪里来'",
+      "content": "许多城市孩子认为食物是超市生产的。通过农业体验、了解食物原产地和展示烹饪过程，可以培养孩子对饮食的感激和兴趣！",
+      "emoji": "🌾",
+      "highlight": "食农教育：亲身种植蔬菜的孩子会更多地吃蔬菜。"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "和Garu一起学习食育！",
+      "background": "classroom",
+      "title": "糖和添加剂的陷阱",
+      "content": "儿童食品中过量的糖、人工色素和防腐剂需要注意。过量摄入糖会导致蛀牙、肥胖和注意力下降。尽可能让孩子吃由“天然食材”制作的食物！",
+      "emoji": "⚠️",
+      "highlight": "日本孩子的糖摄入量：经常超过推荐量。要注意冷饮。"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "和Garu一起学习食育！",
+      "background": "forest",
+      "title": "从世界各地的育儿和饮食文化中学习",
+      "content": "法国孩子从幼儿园开始学习法国料理。地中海饮食（橄榄油、鱼、蔬菜）可以提高孩子的认知能力。日本的“一汁三菜”在世界范围内被评价为健康饮食！",
+      "emoji": "🌍",
+      "highlight": "地中海饮食与孩子的学业成绩：西班牙研究发现，地中海饮食评分高的孩子认知能力和注意力更好。"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "和Garu一起学习食育！",
+      "background": "city",
+      "title": "一起做饭的教育效果",
+      "content": "与孩子一起做饭是一种四合一的绝佳家庭教育：①数学（测量、分数）②科学（热、化学变化）③读写（食谱）④合作——帮助孩子全面发展！",
+      "emoji": "👩‍🍳",
+      "highlight": "一起做饭的孩子：对饮食的兴趣增加、蔬菜摄入量增加、偏食改善。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "食育学完了！接下来是情感教育 🎉",
+      "background": "space",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

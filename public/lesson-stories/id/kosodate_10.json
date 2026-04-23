@@ -1,0 +1,131 @@
+{
+  "title": "Masa Depan Pengasuhan ~ Cinta adalah Pendidikan Terbaik ~",
+  "description": "Mari kita pelajari masa depan pengasuhan dengan Gal-chan dengan cara yang menyenangkan!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Ringkasan komprehensif seri pengasuhan! Mari kita pelajari pengasuhan berbasis cinta!",
+      "background": "candy",
+      "title": "Masa Depan Pengasuhan ~ Cinta adalah Pendidikan Terbaik ~",
+      "emoji": "💕",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari masa depan pengasuhan dengan Gal-chan!",
+      "background": "classroom",
+      "title": "10 Poin Utama untuk Pengasuhan",
+      "content": "① Pembentukan keterikatan② Perkembangan otak lingkungan③ Bermain④ Pendidikan makanan⑤ Pendidikan emosi⑥ Interaksi dengan teknologi digital⑦ Pendidikan global⑧ Olahraga⑨ Koneksi dengan komunitas⑩ Kepercayaan diri——Dasar dari semua ini adalah 'cinta'!",
+      "emoji": "💕",
+      "highlight": "Variabel paling penting dalam pengasuhan: Kualitas 'keterikatan' orang tua dan anak (hampir semua penelitian setuju)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari masa depan pengasuhan dengan Gal-chan!",
+      "background": "space",
+      "title": "'Kepercayaan Diri' adalah Hadiah Terbaik",
+      "content": "'Kamu hebat apa adanya'——Anak-anak dengan kepercayaan diri tinggi memiliki ketahanan, kemampuan pemulihan, dan kebahagiaan yang tinggi. Kepercayaan diri anak-anak Jepang ada di tingkat terendah di antara negara-negara maju. 'Aku mencintaimu' setiap hari dapat mengubah semuanya!",
+      "emoji": "🌟",
+      "highlight": "Kepercayaan diri remaja Jepang: Terendah di antara 7 negara (Institut Nasional untuk Pengembangan Remaja, 2021)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari masa depan pengasuhan dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Kebahagiaan Orang Tua",
+      "content": "'Ketika pesawat berguncang, pakai masker oksigen sendiri terlebih dahulu, lalu bantu anak'——Jika orang tua tidak bahagia, sulit bagi anak untuk bahagia. Istirahat, hobi, pertemanan, dan perawatan mental orang tua menciptakan lingkungan pengasuhan terbaik!",
+      "emoji": "✈️",
+      "highlight": "Kesejahteraan psikologis orang tua: Berkorelasi langsung dengan stabilitas emosi anak (temuan dasar dalam psikologi perkembangan)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari masa depan pengasuhan dengan Gal-chan!",
+      "background": "city",
+      "title": "Tidak Ada Orang Tua yang Sempurna",
+      "content": "Semua orang tua membuat kesalahan. Emosi marah atau hari-hari ketika tidak bisa mengurus anak——Hal yang penting adalah kekuatan 'memperbaiki' untuk mengatakan 'Maaf, aku terlalu marah tadi'!",
+      "emoji": "🤗",
+      "highlight": "'Orang tua yang cukup baik': Jangan目指 untuk sempurna, memperbaiki hubungan dengan anak adalah kunci (Winnicott)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari masa depan pengasuhan dengan Gal-chan!",
+      "background": "forest",
+      "title": "AI dan Masa Depan Pengasuhan",
+      "content": "AI mempersonalisasi pembelajaran anak, robot bermain bersama, dan perangkat pintar menjaga keamanan——Teknologi mendukung pengasuhan. Tapi 'cinta dan ikatan' hanya dapat diberikan oleh manusia!",
+      "emoji": "🤖",
+      "highlight": "Alat pendidikan AI: Memungkinkan optimalisasi personalisasi untuk gaya belajar dan kemajuan anak"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari masa depan pengasuhan dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Pertumbuhan Orang Tua 'Belajar dari Anak'",
+      "content": "Pengasuhan adalah perjalanan bagi orang tua untuk tumbuh! Keingintahuan tak terbatas anak, kejujuran, dan hidup di saat ini——Belajar dari anak memperkaya hidup orang tua. Pengasuhan bukan proses satu arah, tapi proses 'tumbuh bersama'!",
+      "emoji": "🌱",
+      "highlight": "'Anak adalah cerminan orang tua': Masalah anak dapat mencerminkan tantangan orang tua"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari masa depan pengasuhan dengan Gal-chan!",
+      "background": "space",
+      "title": "Menerima Berbagai Bentuk Keluarga",
+      "content": "Keluarga inti, keluarga tunggal, keluarga langkah, keluarga bekerja sama, ayah rumah, pasangan sesama jenis——Keluarga memiliki berbagai bentuk. Apapun bentuknya, 'cinta dan keamanan' memungkinkan anak tumbuh sehat. Tidak ada keluarga yang sempurna!",
+      "emoji": "🌈",
+      "highlight": "Berbagai bentuk keluarga: Kualitas keterikatan memiliki dampak lebih besar pada perkembangan anak daripada bentuk keluarga"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari masa depan pengasuhan dengan Gal-chan!",
+      "background": "candy",
+      "title": "Pesan untuk Generasi Pengasuhan Masa Depan",
+      "content": "Pelajaran yang kamu pelajari sekarang akan diteruskan ke anak-anak masa depan. Pengetahuan pengasuhan, cinta, dan koneksi komunitas——Sebagai orang dewasa dengan hal-hal ini, kita dapat menciptakan masa depan yang cerah bagi anak-anak Jepang. Kamu dapat mengubah masa depan!",
+      "emoji": "🌟",
+      "highlight": "Semua orang yang terlibat dalam dukungan pengasuhan: Guru, pekerja anak, dokter, orang komunitas——Masyarakat secara keseluruhan harus mendukung pengasuhan!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kamu telah menguasai seri pengasuhan! Kamu adalah ahli pengasuhan masa depan! 🎉",
+      "background": "space",
+      "title": "Selesai Pelajaran!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

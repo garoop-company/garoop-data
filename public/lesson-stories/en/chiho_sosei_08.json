@@ -1,0 +1,131 @@
+{
+  "title": "Young People Changing Local Communities ~ The Challenge of Next-Generation Leaders ~",
+  "description": "Let's learn about local communities changed by young people with Garu-chan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Young people are changing local communities! Let's learn about their passionate challenges!",
+      "background": "city",
+      "title": "Young People Changing Local Communities ~ The Challenge of Next-Generation Leaders ~",
+      "emoji": "👦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local communities changed by young people with Garu-chan!",
+      "background": "forest",
+      "title": "Why Young People Choose Local Communities",
+      "content": "After COVID-19, interest in moving to and working in local areas among people in their 20s and 30s skyrocketed! The background includes a change in values, such as 'wanting to live in nature,' 'wanting to work in a way that's true to myself,' and 'wanting to contribute to the community.'",
+      "emoji": "🌱",
+      "highlight": "Number of people hoping to move to local areas (20s-30s): More than double before COVID-19"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local communities changed by young people with Garu-chan!",
+      "background": "classroom",
+      "title": "Young People in Regional Development Cooperation",
+      "content": "The average age of over 6,000 regional development cooperation members nationwide is 35 or younger! They are active in diverse fields such as agriculture, IT, tourism, education, and welfare. About 60% of them stay in the area and start their own businesses after completing their 3-year term!",
+      "emoji": "🤝",
+      "highlight": "Regional development cooperation members' settlement rate: About 60% settle in the same or nearby areas after their term ends"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local communities changed by young people with Garu-chan!",
+      "background": "space",
+      "title": "Local Ventures Started by Young People",
+      "content": "A woman in her 20s who took over a dyeing workshop in Kyoto's Danjo region successfully turned it into a brand. A man in his 30s who opened a satellite office and traditional Japanese inn in a remote area of Kochi Prefecture. Such challenges by young people are bringing vitality back to local communities!",
+      "emoji": "🚀",
+      "highlight": "Successful local venture examples: Many founded by people in their 20s-30s who moved to or returned to the area"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local communities changed by young people with Garu-chan!",
+      "background": "ocean",
+      "title": "Students × Local 'Regional Development'",
+      "content": "The number of university students participating in regional projects is rapidly increasing. Agricultural internships, fieldwork, and seminars on solving regional issues - students' fresh perspectives bring new ideas to local communities!",
+      "emoji": "🎓",
+      "highlight": "University students' rural internships: Agricultural experiences and regional issue-solving learning implemented nationwide"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local communities changed by young people with Garu-chan!",
+      "background": "forest",
+      "title": "High School Students Changing Their Local Community",
+      "content": "Local high school students develop products using local specialties, operate stores, and post on SNS - 'high school student businesses' are attracting attention. Examples of high school students contributing to their communities with ideas and actions that rival adults are spreading nationwide!",
+      "emoji": "📚",
+      "highlight": "High school student business contests: Held nationwide, with some leading to commercialization and entrepreneurship"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn about local communities changed by young people with Garu-chan!",
+      "background": "city",
+      "title": "The Choice of Returning or Moving to a New Local Community",
+      "content": "The number of young people choosing to return to their hometowns (U-turn) or move to new local areas (I-turn) is increasing. They utilize their urban careers to start businesses, change jobs, or work in agriculture in local areas. The idea that 'local communities are options' is spreading.",
+      "emoji": "🏠",
+      "highlight": "Occupations of I-turn migrants: IT, design, and creative fields are the most common"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn about local communities changed by young people with Garu-chan!",
+      "background": "classroom",
+      "title": "Support Systems for Young Entrepreneurs in Local Communities",
+      "content": "① Regional development cooperation members ② Local venture programs ③ Prefectural and city startup subsidies ④ Vacant houses provided for young people ⑤ Mentor systems (support from senior entrepreneurs) - The environment for starting businesses in local areas is being prepared!",
+      "emoji": "💡",
+      "highlight": "Local venture support: Providing support for business creation and funding"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn about local communities changed by young people with Garu-chan!",
+      "background": "ocean",
+      "title": "Sports and Club Activities Connecting Local Communities",
+      "content": "Local sports teams, baseball, and soccer clubs are becoming local pride. J-League local clubs are becoming community hubs (e.g., Matsumoto Yamaga FC, Montedio Yamagata).",
+      "emoji": "⚽",
+      "highlight": "Matsumoto Yamaga FC: Contributing to Matsumoto's economy and tourism while competing in J1"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Local communities shine with the power of young people! Next stop: Smart City 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

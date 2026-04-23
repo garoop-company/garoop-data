@@ -1,0 +1,131 @@
+{
+  "title": "Learn from Failure: How to Build Resilience",
+  "description": "Let's learn from failure with Gal-chan in a fun way!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Failure is the path to success! Let's learn about resilience!",
+      "background": "forest",
+      "title": "Learn from Failure: How to Build Resilience",
+      "emoji": "💪",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn from failure with Gal-chan!",
+      "background": "classroom",
+      "title": "Failure is a 'Discovery'",
+      "content": "Edison failed over 10,000 times while developing the light bulb. 'I haven't failed. I've just found 10,000 ways that don't work.' - This quote says it all!",
+      "emoji": "💡",
+      "highlight": "Edison: Experiment log with over 10,000 failure records. All recorded as 'data for the next try'"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn from failure with Gal-chan!",
+      "background": "ocean",
+      "title": "The 'Failure Culture' of Silicon Valley",
+      "content": "In Silicon Valley, failure is a 'badge of honor'. Entrepreneurs who have experienced failure once have a higher success rate next time! In Japan, the culture of 'one failure and you're done' hinders entrepreneurship. It's essential to create a culture that doesn't fear failure.",
+      "emoji": "🏅",
+      "highlight": "US Entrepreneurial Failure Experience: VCs tend to invest in entrepreneurs with prior failure experience"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn from failure with Gal-chan!",
+      "background": "space",
+      "title": "The 'Post-Mortem' Technique",
+      "content": "After failing, 'post-mortem' analysis means calmly analyzing 'why it failed'. ① What happened ② Why it happened ③ What to do next - Writing down these three steps turns failure into 'assets'!",
+      "emoji": "📝",
+      "highlight": "Post-Mortem: Google's project failure review method. Not criticism, but improvement is the goal"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn from failure with Gal-chan!",
+      "background": "forest",
+      "title": "Building Resilience (Mental Recovery)",
+      "content": "The ability to recover from difficulties, 'resilience', is not a talent, but a skill that can be developed through practice. ① Acknowledge emotions ② Seek support ③ Accumulate small successes ④ 'This is also learning' - 4 steps!",
+      "emoji": "🌱",
+      "highlight": "Resilience Research: Childhood 'moderate difficulty experiences' increase adult resilience"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn from failure with Gal-chan!",
+      "background": "city",
+      "title": "Don't Fear Pivoting (Changing Direction)",
+      "content": "When you see market reactions and judge that 'this approach won't work', it's essential to change direction (pivot) early. Instagram was originally a location-based game app! YouTube was originally a dating video service!",
+      "emoji": "🔄",
+      "highlight": "Famous Pivot Examples: Slack (game company → communication tool) · YouTube (dating video → general video)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn from failure with Gal-chan!",
+      "background": "classroom",
+      "title": "Mental Health and Entrepreneurs",
+      "content": "Many entrepreneurs are mentally strained by the pressure of starting a business. What's essential is ① taking moderate rest ② talking to peers ③ consulting experts ④ acknowledging 'it's okay not to be perfect'. Protecting yourself is the key to long-term success!",
+      "emoji": "❤️",
+      "highlight": "Entrepreneurial Depression: Higher prevalence than the general population. Mental healthcare directly leads to entrepreneurial success"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn from failure with Gal-chan!",
+      "background": "ocean",
+      "title": "Growth Mindset",
+      "content": "Fixed mindset: 'Talent is fixed' vs. Growth mindset: 'Effort can lead to growth'. Carol Dweck's research proves that people with a growth mindset are stronger in the face of difficulties and achieve more!",
+      "emoji": "🌟",
+      "highlight": "Growth Mindset: Stanford University's Dweck Professor's research. Positive perception of challenges, failures, and efforts"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn from failure with Gal-chan!",
+      "background": "forest",
+      "title": "Your 'Why' to Keep Going",
+      "content": "Startups can overcome difficulties because they have a 'strong Why'. Not just for money. 'I want to change the world' or 'I want to help someone' - Passion is the strongest engine!",
+      "emoji": "🔥",
+      "highlight": "Simon Sinek 'Start with Why': Great organizations and leaders act from their Why"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Master resilience! Next, start a digital business 🎉",
+      "background": "space",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

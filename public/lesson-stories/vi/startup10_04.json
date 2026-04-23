@@ -1,0 +1,131 @@
+{
+  "title": "Tìm hiểu khách hàng của bạn - Cơ bản về Marketing",
+  "description": "Cùng Garu học cách tìm hiểu khách hàng một cách thú vị!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Học về Marketing để hiểu tâm lý khách hàng!",
+      "background": "city",
+      "title": "Tìm hiểu khách hàng của bạn - Cơ bản về Marketing",
+      "emoji": "📣",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tìm hiểu khách hàng!",
+      "background": "classroom",
+      "title": "Marketing là gì?",
+      "content": "Marketing = 'Hoạt động mang lại cho khách hàng những gì họ muốn, bằng cách phù hợp, đúng người'. Không chỉ đơn giản là quảng cáo! Bao gồm nghiên cứu thị trường → phát triển sản phẩm → định giá → quảng cáo → bán hàng → dịch vụ sau bán hàng!",
+      "emoji": "📢",
+      "highlight": " 'Sản phẩm tốt không cần Marketing' là sai! Dù sản phẩm tốt nhất, cách tiếp cận không tốt cũng không thể bán được"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tìm hiểu khách hàng!",
+      "background": "ocean",
+      "title": "Tạo Persona (hình ảnh khách hàng lý tưởng)",
+      "content": " 'Bán cho ai' là điều quan trọng nhất! Persona: ① Tuổi, giới tính ② Nơi ở ③ Khó khăn ④ Phong cách sống ⑤ Quan tâm điều gì - Vẽ một bức tranh cụ thể về một người khách hàng để sản phẩm và quảng cáo có thể chạm đến!",
+      "emoji": "👤",
+      "highlight": "Ví dụ về Persona: '35 tuổi, mẹ làm việc, đang lo lắng về bữa tối nhanh chóng' → Phát triển sản phẩm cho Persona này"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tìm hiểu khách hàng!",
+      "background": "forest",
+      "title": "Hiểu về 4P (Marketing Mix)",
+      "content": "① Product (sản phẩm: bán cái gì?) ② Price (giá: bán bao nhiêu?) ③ Place (địa điểm: bán ở đâu?) ④ Promotion (quảng cáo: làm thế nào để quảng bá?) - Tối ưu hóa 4P này là chiến lược Marketing!",
+      "emoji": "🗂️",
+      "highlight": "Ví dụ về 4P: iPhone = sản phẩm chất lượng cao, giá cao, Apple Store, sự kiện ra mắt hoàn hảo"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tìm hiểu khách hàng!",
+      "background": "space",
+      "title": "Marketing trên SNS để quảng bá miễn phí",
+      "content": "Instagram, TikTok, YouTube, X (Twitter) - Sử dụng SNS có thể phát sóng đến toàn quốc, toàn thế giới miễn phí! Thậm chí 10 tuổi cũng có thể làm được. Chất lượng và tính liên tục của nội dung rất quan trọng. Hãy bắt đầu với 100 người theo dõi!",
+      "emoji": "📱",
+      "highlight": " 'TikTok thương mại' nổi tiếng trên TikTok → sản phẩm bán hết trong một đêm: ngay cả những doanh nhân trẻ cũng đang tận dụng"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tìm hiểu khách hàng!",
+      "background": "city",
+      "title": "'Lời khuyên' là Marketing mạnh nhất",
+      "content": " 'Điều này thật tốt!' từ bạn bè đáng tin hơn quảng cáo. Tạo ra 'lời khuyên' (WOM: Word of Mouth) một cách có chủ ý - cung cấp trải nghiệm, sự ngạc nhiên và cảm động mà người dùng tự nhiên muốn chia sẻ!",
+      "emoji": "🗣️",
+      "highlight": "Hiệu quả của lời khuyên: được tin tưởng gấp 5 lần quảng cáo. Giá trị trọn đời của khách hàng giới thiệu gấp 4 lần"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tìm hiểu khách hàng!",
+      "background": "classroom",
+      "title": "Cách định giá (Chiến lược định giá)",
+      "content": "① Dựa trên chi phí (giá vốn + lợi nhuận) ② So sánh đối thủ cạnh tranh (theo giá thị trường) ③ Dựa trên giá trị (định giá dựa trên giá trị khách hàng cảm nhận) - 'Dựa trên giá trị' có thể đặt mức giá cao nhất. Cạnh tranh về 'sự rẻ' là chiến lược khó khăn nhất!",
+      "emoji": "💴",
+      "highlight": "Chiến lược giá cao cấp: Starbucks bán 'trải nghiệm, địa điểm, thương hiệu' chứ không chỉ 'cà phê'"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học cách tìm hiểu khách hàng!",
+      "background": "forest",
+      "title": "Tạo người hâm mộ 'Marketing cộng đồng'",
+      "content": "Tụ tập 'người thích' trên SNS, tổ chức sự kiện, đối xử đặc biệt với khách hàng quay lại - bằng cách biến khách hàng thành người hâm mộ, bạn có thể thu hút khách hàng mới mà không cần chi phí quảng cáo. Có 1.000 người hâm mộ thực sự và bạn có thể kiếm sống!",
+      "emoji": "🌟",
+      "highlight": "Lý thuyết '1.000 người hâm mộ thực sự': bất kỳ ai cũng có thể sống bằng cách có 1.000 người hâm mộ cuồng nhiệt"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tìm hiểu khách hàng!",
+      "background": "ocean",
+      "title": "Marketing kỹ thuật số để cải thiện bằng dữ liệu",
+      "content": "Google Analytics, Instagram Insights - công cụ miễn phí cho bạn biết 'ai, lúc nào, xem gì, ở đâu rời đi' bằng số liệu. Cải thiện dựa trên dữ liệu để hiệu quả tăng lên 10 lần!",
+      "emoji": "📊",
+      "highlight": "Thử nghiệm A/B: thử nghiệm 2 loại quảng cáo, trang đích để 'loại nào có phản hồi tốt hơn' bằng số liệu"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Làm chủ Marketing! Tiếp theo là luyện tập thuyết phục",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

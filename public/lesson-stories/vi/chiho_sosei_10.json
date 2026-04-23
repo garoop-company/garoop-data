@@ -1,0 +1,131 @@
+{
+  "title": "Cùng tạo ra tương lai của địa phương - Tổng kết về sự phát triển địa phương",
+  "description": "Cùng Garu học cách tạo ra tương lai của địa phương một cách thú vị!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Đã học tất cả về sự phát triển địa phương! Cùng vẽ tương lai!",
+      "background": "forest",
+      "title": "Cùng tạo ra tương lai của địa phương - Tổng kết về sự phát triển địa phương",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tạo ra tương lai của địa phương!",
+      "background": "classroom",
+      "title": "10 từ khóa quan trọng của sự phát triển địa phương",
+      "content": "① Quan hệ dân số ② Nông nghiệp thông minh ③ Khuyến khích di trú ④ Xây dựng thương hiệu địa phương ⑤ Doanh nghiệp trẻ ⑥ Thành phố thông minh ⑦ Phát triển du lịch ⑧ Giảm thiểu carbon ⑨ Đội ngũ hỗ trợ phát triển địa phương ⑩ Cộng đồng - Tất cả những điều này đan xen và giúp địa phương trở nên sôi động!",
+      "emoji": "🗝️",
+      "highlight": "Bạn đã biết 10 từ khóa quan trọng của sự phát triển địa phương, bạn đã trở thành chuyên gia!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tạo ra tương lai của địa phương!",
+      "background": "ocean",
+      "title": "Điểm chung của các địa phương thành công",
+      "content": "① Tầm nhìn của lãnh đạo ② Sự tham gia của cư dân địa phương ③ Sử dụng người từ bên ngoài ④ Tập trung vào điểm mạnh ⑤ Văn hóa thử nghiệm không sợ thất bại - Thiếu một trong những điều này cũng rất khó. Sự cân bằng là rất quan trọng!",
+      "emoji": "✅",
+      "highlight": "Điểm chung của các địa phương thành công: Lãnh đạo khuyến khích thử nghiệm và sự tham gia chủ động của cư dân"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tạo ra tương lai của địa phương!",
+      "background": "space",
+      "title": "Năm 2050, địa phương sẽ ra sao?",
+      "content": "Năm 2050, khi công nghệ đã trưởng thành, địa phương có thể sẽ trở nên hấp dẫn hơn. Giao thông giải quyết bằng lái tự động, chênh lệch y tế bằng khám chữa bệnh từ xa, nông nghiệp hiệu quả bằng AI - Tương lai mà 'sự bất tiện của địa phương' bị công nghệ xóa bỏ!",
+      "emoji": "🔮",
+      "highlight": "Năm 2050 của Nhật Bản: AI và robot hỗ trợ nhiều công việc. Con người tập trung vào sáng tạo, cảm xúc và kết nối"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tạo ra tương lai của địa phương!",
+      "background": "forest",
+      "title": "Bạn cũng là người đóng góp vào sự phát triển địa phương",
+      "content": "Sự phát triển địa phương không chỉ là công việc của chuyên gia! Cống tiền cho quê hương - Gửi thông tin địa phương qua SNS - Mua sản phẩm địa phương - Đi du lịch địa phương - Mỗi hành động của bạn đều hỗ trợ địa phương. Có thể bắt đầu từ hôm nay!",
+      "emoji": "💪",
+      "highlight": "Tổng số tiền cống cho quê hương hàng năm: Vượt 1 nghìn tỷ yên (2023). Sự ủng hộ của mỗi người tích tụ"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tạo ra tương lai của địa phương!",
+      "background": "city",
+      "title": "Địa phương làm cho cả Nhật Bản trở nên sôi động",
+      "content": "Tránh tập trung vào Tokyo, mỗi địa phương tận dụng cá tính để tỏa sáng 'đa cực phân tán'. Nếu địa phương trở nên sôi động thì cả Nhật Bản sẽ trở nên sôi động. Bạn có thể trở thành lãnh đạo địa phương trong tương lai!",
+      "emoji": "🌏",
+      "highlight": "Thời đại địa phương: Nhiều địa phương cạnh tranh với cá tính 'tiến hóa theo kiểu Galapagos' là điểm mạnh của Nhật Bản"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học cách tạo ra tương lai của địa phương!",
+      "background": "classroom",
+      "title": "Sự phát triển địa phương × SDGs",
+      "content": "Nhiều mục tiêu phát triển bền vững (SDGs) gắn liền với sự phát triển địa phương. ① Giảm nghèo ② An ninh lương thực ③ Sức khỏe ④ Giáo dục ⑤ Năng lượng ⑥ Công nghiệp ⑦ Xây dựng đô thị ⑧ Biến đổi khí hậu - Sự phát triển địa phương gắn liền với mục tiêu toàn cầu.",
+      "emoji": "🌱",
+      "highlight": "17 mục tiêu SDGs được thực hiện tại địa phương. Địa phương là nơi thí điểm cho SDGs!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học cách tạo ra tương lai của địa phương!",
+      "background": "forest",
+      "title": "Từ địa phương đến thế giới - Tư duy toàn cầu",
+      "content": " 'Toàn cầu (Global) + địa phương (Local)' - Có tầm nhìn toàn cầu trong khi vẫn giữ vững địa phương. Thời đại mà đặc sản địa phương, văn hóa, công nghệ có thể cạnh tranh trên thị trường thế giới đã đến!",
+      "emoji": "🌍",
+      "highlight": " 'Tư duy toàn cầu, hành động địa phương (Think Global, Act Local)'"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học cách tạo ra tương lai của địa phương!",
+      "background": "ocean",
+      "title": "Điều có thể làm hôm nay cho sự phát triển địa phương",
+      "content": "① Ăn đặc sản địa phương ② Truyền bá thông tin địa phương cho bạn bè qua SNS ③ Tìm hiểu về cống tiền cho quê hương ④ Tham gia sự kiện địa phương ⑤ Nghe câu chuyện từ người cao tuổi địa phương - Hành động nhỏ sẽ làm cho địa phương thay đổi!",
+      "emoji": "🏡",
+      "highlight": "Sự phát triển địa phương không khó! Bắt đầu từ những điều có thể làm. Bạn là nhân vật chính trong tương lai của địa phương!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hoàn thành series phát triển địa phương! Thay đổi tương lai của địa phương! 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

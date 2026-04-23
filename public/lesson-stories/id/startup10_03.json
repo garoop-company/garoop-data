@@ -1,0 +1,131 @@
+{
+  "title": "Mari Buat MVP ~Menguji Ide dengan Kecepatan Maksimum~",
+  "description": "Mari belajar membuat MVP dengan Gal-chan dengan menyenangkan!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita uji pasar dengan cepat menggunakan MVP (Minimum Viable Product)!",
+      "background": "city",
+      "title": "Mari Buat MVP ~Menguji Ide dengan Kecepatan Maksimum~",
+      "emoji": "🏗️",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar membuat MVP dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Apa itu MVP?",
+      "content": "MVP (Minimum Viable Product) = produk dengan fitur minimal saja. Strategi untuk menguji cepat apakah 'benar-benar ada permintaan untuk ini' dengan versi minimal sebelum membuat produk yang sempurna! Mengurangi biaya kegagalan!",
+      "emoji": "🚀",
+      "highlight": "MVP Dropbox: mendapatkan lebih dari 75.000 pendaftar dengan hanya 'video demo' tanpa layanan sebenarnya!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar membuat MVP dengan Gal-chan!",
+      "background": "forest",
+      "title": "Kisah Pengujian Ide Airbnb",
+      "content": "Pendiri Airbnb awalnya bereksperimen dengan menyewakan kamar apartemen mereka. Tidak ada situs web, tidak ada aplikasi, hanya foto. Mereka membuktikan bahwa 'orang akan menginap di rumah orang asing' dan kemudian membuat layanan!",
+      "emoji": "🏠",
+      "highlight": "Awal Airbnb: bereksperimen dengan menyewakan rumah mereka → mengonfirmasi permintaan → mengembangkan layanan skala penuh"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar membuat MVP dengan Gal-chan!",
+      "background": "space",
+      "title": "Menguji dengan MVP Kertas",
+      "content": "Sebelum membuat aplikasi, Anda dapat melakukan pengujian pengguna dengan 'UI kertas'. Cukup tanya, 'Apa yang Anda pikir akan terjadi jika Anda menekan ini?' dan dapatkan umpan balik yang nyata. Biaya 0 dan mendapatkan wawasan yang berharga!",
+      "emoji": "📄",
+      "highlight": "Prototyping kertas: uji UI/UX dengan hanya kertas dan pensil. Tidak perlu keterampilan teknis!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar membuat MVP dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Mengonfirmasi Kebutuhan dengan Halaman Arahan (LP)",
+      "content": "Bahkan tanpa layanan sebenarnya, buat LP dan letakkan tombol 'pendaftaran awal' untuk mengukur permintaan. Jika pendaftar berkumpul, ada permintaan! Juga efektif menggunakan jumlah kecil iklan Google atau Facebook untuk melihat reaksi dengan 'MVP iklan'.",
+      "emoji": "🌐",
+      "highlight": "MVP LP (Halaman Arahan): mengukur 'berapa banyak orang yang menginginkannya' dengan biaya rendah tanpa layanan sebenarnya"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar membuat MVP dengan Gal-chan!",
+      "background": "city",
+      "title": "Meningkatkan dengan Wawancara Pengguna",
+      "content": "Tanya pengguna yang menggunakan MVP tentang 'apa yang mereka suka, apa yang tidak, dan apa yang ingin mereka perbaiki'. Siklus 'pengembangan gesit' ini diulang dengan cepat, yang merupakan dasar dari startup modern!",
+      "emoji": "🔄",
+      "highlight": "Pengembangan gesit: ulangi 'buat → uji → perbaiki' dalam siklus 2 minggu"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar membuat MVP dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Mari Buat Prototipe",
+      "content": "Buat prototipe produk fisik dengan LEGO, desain layar aplikasi dengan Figma, atau layanan sederhana dengan Google Forms. Gunakan alat untuk membuat sesuatu yang dapat ditunjukkan dengan cepat, yang merupakan langkah pertama untuk membuat ide menjadi kenyataan!",
+      "emoji": "🔨",
+      "highlight": "Alat pembuatan prototipe: Figma (gratis), Canva, Scratch, layanan Google"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari belajar membuat MVP dengan Gal-chan!",
+      "background": "space",
+      "title": "Build-Measure-Learn",
+      "content": "Inti dari Lean Startup: ① membuat produk berdasarkan ide, ② mengukur hasil dengan angka, ③ membuat penyesuaian berdasarkan pembelajaran. Siklus ini adalah cara paling pasti untuk mengembangkan bisnis!",
+      "emoji": "🔬",
+      "highlight": "Lean Startup: oleh Eric Ries. Filsafat manajemen yang diadopsi oleh startup di seluruh dunia"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar membuat MVP dengan Gal-chan!",
+      "background": "forest",
+      "title": "Kegagalan adalah Data",
+      "content": "Bahkan jika MVP gagal, tidak apa-apa! Kegagalan adalah data bahwa 'pendekatan ini tidak berhasil'. Pivot dan berkembang menjadi ide yang lebih baik!",
+      "emoji": "📊",
+      "highlight": "YouTube awalnya: dimulai sebagai layanan berbagi video kencan → gagal → berubah arah menjadi berbagi video secara umum → sukses!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kuasai strategi MVP! Selanjutnya, mari kita kenal pelanggan Anda 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

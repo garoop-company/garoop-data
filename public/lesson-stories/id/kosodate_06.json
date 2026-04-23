@@ -1,0 +1,131 @@
+{
+  "title": "Membangun Anak di Era Digital ~Ponsel Pintar dan Anak~",
+  "description": "Mari kita pelajari tentang membangun anak di era digital dengan Gal-chan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita jelajahi pendekatan yang benar untuk membangun anak di era digital bersama!",
+      "background": "space",
+      "title": "Membangun Anak di Era Digital ~Ponsel Pintar dan Anak~",
+      "emoji": "📱",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang membangun anak di era digital dengan Gal-chan!",
+      "background": "city",
+      "title": "Karakteristik Generasi Asli Digital",
+      "content": "Anak-anak yang lahir setelah tahun 2010, dikenal sebagai 'Generasi Alpha,' tumbuh dalam lingkungan di mana ponsel pintar adalah hal biasa. Media sosial, video, dan permainan terintegrasi dalam kehidupan mereka - generasi ini membutuhkan pendekatan yang sangat berbeda dalam pengasuhan!",
+      "emoji": "📱",
+      "highlight": "Generasi Alpha: lahir 2010 dan seterusnya. Pada tahun 2025, akan ada 2 miliar orang. Generasi terbesar dalam sejarah."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang membangun anak di era digital dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Pengelolaan Waktu Layar yang Tepat",
+      "content": "WHO merekomendasikan: 0-1 tahun = 0 menit, 2-5 tahun = 1 jam/hari. Akademi Kedokteran Anak Amerika juga merekomendasikan tidak menggunakan perangkat 1 jam sebelum tidur. Kunci utamanya bukan 'larangan' tapi 'mengelola waktu dan konten'!",
+      "emoji": "⏱️",
+      "highlight": "Anak-anak dengan waktu layar lebih dari 2 jam: masalah tidur, perhatian, dan emosi cenderung muncul (beberapa studi)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang membangun anak di era digital dengan Gal-chan!",
+      "background": "forest",
+      "title": "Pendidikan Pemrograman adalah 'Literasi Masa Depan'",
+      "content": "Pendidikan pemrograman menjadi wajib di sekolah dasar Jepang pada tahun 2020. Pemrograman bukan hanya keterampilan teknis, tapi juga memupuk 'berpikir logis, memecahkan masalah, dan kreativitas.' Anda bisa memulai dengan Scratch dan Minecraft!",
+      "emoji": "💻",
+      "highlight": "Berpikir pemrograman: memecah masalah menjadi bagian yang lebih kecil dan menyelesaikannya → berguna dalam semua bidang"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang membangun anak di era digital dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Melindungi Anak dari Bahaya Online",
+      "content": "Risiko yang dihadapi anak secara online: ① kebocoran informasi pribadi, ② aplikasi kencan dan konten seksual, ③ perundungan siber, ④ ketergantungan permainan dan pengeluaran berlebihan. Kedua 'filter perlindungan' dan 'dialog orang tua-anak' sangat penting!",
+      "emoji": "🛡️",
+      "highlight": "Kerusakan perundungan siber: sekitar 17% siswa sekolah dasar, menengah, dan atas mengalami hal itu (survei MEXT 2022)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang membangun anak di era digital dengan Gal-chan!",
+      "background": "space",
+      "title": "Kebiasaan YouTube yang Sehat",
+      "content": "Tidak realistis untuk melarang YouTube sepenuhnya. Menonton bersama dan memiliki percakapan seperti 'mengapa kamu suka video ini?' dan 'apakah ini nyata?' sangat penting. Mari kita pupuk literasi media!",
+      "emoji": "▶️",
+      "highlight": "Pendidikan literasi media: di Finlandia, mereka mengajarkan cara mengenali berita palsu dari sekolah dasar"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari kita pelajari tentang membangun anak di era digital dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Hubungan Sehat dengan SNS",
+      "content": "Banyak anak mulai menggunakan SNS pada usia 12-13 tahun. Instagram dan TikTok dapat menciptakan masalah seperti 'perbandingan,' 'harga diri,' dan 'FOMO (ketakutan ketinggalan).' Mengajarkan 'apa yang kamu lihat di SNS hanyalah sorotan' sangat penting.",
+      "emoji": "📸",
+      "highlight": "Penggunaan SNS dan kesehatan mental remaja: berkorelasi dengan peningkatan depresi, kecemasan, dan harga diri rendah"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pelajari tentang membangun anak di era digital dengan Gal-chan!",
+      "background": "city",
+      "title": "Apa itu Gangguan Permainan?",
+      "content": "WHO mengakui 'gangguan permainan' sebagai penyakit (2019). Tanda-tanda: ① memprioritaskan permainan daripada kehidupan sehari-hari, ② kehilangan kontrol, ③ terus bermain meskipun ada efek negatif. Membuat aturan dan mempromosikan aktivitas offline dapat membantu mencegahnya!",
+      "emoji": "🎮",
+      "highlight": "Prevalensi gangguan permainan: sekitar 3-5% siswa sekolah menengah Jepang berada pada tingkat 'bermasalah'"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari kita pelajari tentang membangun anak di era digital dengan Gal-chan!",
+      "background": "forest",
+      "title": "Mendukung Pengasuhan dengan Teknologi",
+      "content": "Teknologi digital dapat menjadi sekutu dalam pengasuhan, bukan musuh. Aplikasi untuk manajemen tidur, membaca e-book, berbagi lokasi, dan panggilan video dengan kakek-nenek dapat meningkatkan kualitas pengasuhan!",
+      "emoji": "🤝",
+      "highlight": "Penggunaan aplikasi pengasuhan: dukungan digital untuk merekam menyusui, catatan tidur, dan pemeriksaan perkembangan dapat mengurangi beban orang tua"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Saya telah mempelajari tentang membangun anak di era digital! Selanjutnya, mari kita jelajahi revitalisasi lokal dan pengasuhan 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

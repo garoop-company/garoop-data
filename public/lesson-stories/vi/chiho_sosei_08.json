@@ -1,0 +1,131 @@
+{
+  "title": "Thanh niên thay đổi nông thôn - Thách thức của thế hệ lãnh đạo tiếp theo",
+  "description": "Cùng Garu học về thanh niên thay đổi nông thôn một cách thú vị!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Thanh niên đang thay đổi nông thôn! Hãy học về thử thách đầy nhiệt huyết này!",
+      "background": "city",
+      "title": "Thanh niên thay đổi nông thôn - Thách thức của thế hệ lãnh đạo tiếp theo",
+      "emoji": "👦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về thanh niên thay đổi nông thôn!",
+      "background": "forest",
+      "title": "Lý do thanh niên chọn nông thôn",
+      "content": "Sau đại dịch Covid, sự quan tâm của thanh niên 20-30 tuổi đến việc移住 và tìm việc làm ở nông thôn đã tăng vọt! Sự thay đổi trong quan niệm về giá trị như 'sống trong thiên nhiên', 'làm việc theo cách của mình', 'đóng góp cho cộng đồng' là nguyên nhân chính.",
+      "emoji": "🌱",
+      "highlight": "Số lượng người muốn移住 đến nông thôn (20-30 tuổi): tăng gấp đôi so với trước đại dịch"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về thanh niên thay đổi nông thôn!",
+      "background": "classroom",
+      "title": "Thanh niên tham gia đội ngũ hỗ trợ phát triển nông thôn",
+      "content": "Đội ngũ hỗ trợ phát triển nông thôn có hơn 6.000 thành viên với độ tuổi trung bình dưới 35! Họ hoạt động trong nhiều lĩnh vực như nông nghiệp, CNTT, du lịch, giáo dục, phúc lợi xã hội... Sau 3 năm, khoảng 60% thành viên ở lại địa phương và khởi nghiệp!",
+      "emoji": "🤝",
+      "highlight": "Tỷ lệ thanh niên hỗ trợ phát triển nông thôn ở lại địa phương: khoảng 60% sau khi kết thúc nhiệm kỳ"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về thanh niên thay đổi nông thôn!",
+      "background": "space",
+      "title": "Các dự án khởi nghiệp địa phương do thanh niên thực hiện",
+      "content": "Một phụ nữ 20 tuổi đã kế thừa và phát triển thương hiệu cho một xưởng nhuộm ở Kyoto. Một người đàn ông 30 tuổi đã mở một văn phòng vệ tinh và homestay ở một làng quê hẻo lánh ở tỉnh Kochi. Những nỗ lực của thanh niên đã mang lại sức sống mới cho nông thôn!",
+      "emoji": "🚀",
+      "highlight": "Ví dụ thành công của các dự án khởi nghiệp địa phương: nhiều dự án được thành lập bởi thanh niên 20-30 tuổi"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về thanh niên thay đổi nông thôn!",
+      "background": "ocean",
+      "title": "Sinh viên và dự án phát triển địa phương",
+      "content": "Số lượng sinh viên đại học tham gia các dự án phát triển địa phương đã tăng vọt. Các chương trình thực tập nông nghiệp, nghiên cứu thực địa, giải quyết vấn đề địa phương - những quan điểm mới mẻ của sinh viên đã mang lại ý tưởng mới cho nông thôn!",
+      "emoji": "🎓",
+      "highlight": "Thực tập nông nghiệp của sinh viên đại học: được triển khai trên toàn quốc"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về thanh niên thay đổi nông thôn!",
+      "background": "forest",
+      "title": "Dự án thay đổi địa phương của học sinh trung học",
+      "content": "Học sinh trung học địa phương đã phát triển sản phẩm, vận hành cửa hàng và quảng bá trên mạng xã hội bằng cách sử dụng đặc sản của địa phương. Những ý tưởng và hành động của học sinh trung học đã đóng góp cho địa phương!",
+      "emoji": "📚",
+      "highlight": "Cuộc thi kinh doanh của học sinh trung học: được tổ chức trên toàn quốc, nhiều dự án đã được thương mại hóa và khởi nghiệp"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về thanh niên thay đổi nông thôn!",
+      "background": "city",
+      "title": "Lựa chọn quay về hoặc đến nông thôn",
+      "content": "Số lượng thanh niên chọn quay về quê hương (U-turn) hoặc đến nông thôn (I-turn) đã tăng lên. Họ sử dụng kinh nghiệm làm việc ở thành phố để khởi nghiệp, chuyển đổi nghề nghiệp hoặc làm nông nghiệp ở nông thôn. Quan niệm 'nông thôn là một lựa chọn' đang lan rộng.",
+      "emoji": "🏠",
+      "highlight": "Nghề nghiệp của người I-turn: CNTT, thiết kế và sáng tạo chiếm đa số"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học về thanh niên thay đổi nông thôn!",
+      "background": "classroom",
+      "title": "Hỗ trợ thanh niên khởi nghiệp ở nông thôn",
+      "content": "① Đội ngũ hỗ trợ phát triển nông thôn ② Chương trình hỗ trợ khởi nghiệp địa phương ③ Trợ cấp khởi nghiệp của tỉnh và thành phố ④ Cung cấp nhà ở miễn phí cho thanh niên ⑤ Hệ thống cố vấn (doanh nhân thành đạt hỗ trợ) - Môi trường khởi nghiệp ở nông thôn đang được cải thiện!",
+      "emoji": "💡",
+      "highlight": "Hỗ trợ khởi nghiệp địa phương: cung cấp hỗ trợ tài chính và tư vấn cho dự án"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về thanh niên thay đổi nông thôn!",
+      "background": "ocean",
+      "title": "Hoạt động thể thao và câu lạc bộ thể thao kết nối cộng đồng",
+      "content": "Các đội thể thao và câu lạc bộ thể thao địa phương đã trở thành niềm tự hào của cộng đồng. Các câu lạc bộ bóng đá ở nông thôn đã trở thành trung tâm của cộng đồng (như Matsumoto Yamaga FC, Montedio Yamagata,...).",
+      "emoji": "⚽",
+      "highlight": "Matsumoto Yamaga FC: chiến đấu ở J1 và thúc đẩy kinh tế và du lịch ở Matsumoto"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Sức mạnh của thanh niên đã làm cho nông thôn trở nên tươi đẹp! Tiếp theo là thành phố thông minh 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

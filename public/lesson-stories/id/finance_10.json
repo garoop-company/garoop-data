@@ -1,0 +1,131 @@
+{
+  "title": "Masa Depan Uang: Mengubah Hidup dengan Literasi Keuangan",
+  "description": "Belajar tentang AI, uang, masa depan keuangan, dan apa yang dapat kamu lakukan!",
+  "bgTheme": "space",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita gambar masa depan uang bersama! 🌟",
+      "background": "space",
+      "title": "Masa Depan Uang",
+      "emoji": "🌟",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Masa depan transaksi tanpa uang tunai sudah di depan mata!",
+      "background": "city",
+      "title": "Masyarakat Tanpa Uang Tunai",
+      "content": "Di Swedia, hanya 8% orang menggunakan uang tunai. Di Tiongkok, Alipay dan WeChat Pay telah membuat uang tunai hampir tidak diperlukan. Rasio tanpa uang tunai di Jepang adalah 39% (2023) dan diharapkan meningkat lebih cepat setelah 2025!",
+      "emoji": "📱",
+      "highlight": "Rasio tanpa uang tunai di Korea Selatan: lebih dari 95%! Hampir tidak ada transaksi tunai"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Era AI mengelola keuanganmu akan datang!",
+      "background": "space",
+      "title": "AI × Keuangan (Fintech)",
+      "content": "AI akan mengambil alih perdagangan saham, pengelolaan aset, peninjauan pinjaman, dan pengelolaan rumah tangga. Penasihat robot akan secara otomatis menentukan alokasi aset dan berinvestasi! Biaya jauh lebih rendah daripada perencana keuangan manusia.",
+      "emoji": "🤖",
+      "highlight": "Penasihat robot: biaya tahunan 0,5-1% untuk investasi otomatis. 1/5 hingga 1/10 biaya FP manusia"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apa itu Mata Uang Digital Bank Sentral (CBDC)?",
+      "background": "ocean",
+      "title": "CBDC (Rupiah Digital)",
+      "content": "Bank sentral di seluruh dunia berencana untuk menerbitkan mata uang digital. RMB digital telah diterapkan di Tiongkok. Bank Sentral Jepang juga sedang bereksperimen dengan rupiah digital. Hari tanpa uang tunai mungkin akan datang!",
+      "emoji": "🏦",
+      "highlight": "RMB digital: diterapkan di Tiongkok sejak 2021. Lebih dari 200 juta pengguna"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Akankah DeFi (Keuangan Terdesentralisasi) membuat bank menjadi tidak diperlukan?",
+      "background": "city",
+      "title": "DeFi (Keuangan Terdesentralisasi)",
+      "content": "DeFi adalah layanan perbankan yang berjalan di blockchain. Siapa saja, di mana saja, 24/7, tanpa perantara, dapat menggunakan layanan keuangan!",
+      "emoji": "🔗",
+      "highlight": "Aset total DeFi: $2,5 triliun (sekitar) pada puncaknya. Tumbuh dengan cepat"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Bagaimana kita dapat mengurangi ketidaksetaraan?",
+      "background": "forest",
+      "title": "Ketidaksetaraan Kekayaan dan Keuangan",
+      "content": "1% teratas memiliki 50% kekayaan dunia. Ketidaksetaraan melebar. Penyebabnya termasuk siklus 'investasi, pendidikan, dan warisan'. Solusi yang dibahas meliputi: ① UBI (Penghasilan Dasar) ② Peningkatan pendidikan ③ Promosi literasi keuangan.",
+      "emoji": "⚖️",
+      "highlight": "Bill Gates, Buffett, dan lain-lain berjanji untuk 'menyumbangkan 99% kekayaan mereka' (Janji Memberikan)"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Investasi ESG dapat membuat dunia menjadi lebih baik!",
+      "background": "forest",
+      "title": "Investasi ESG dan Investasi Dampak",
+      "content": "ESG: Lingkungan, Sosial, dan Tata Kelola yang berfokus pada investasi. Gaya investasi yang tidak hanya bertujuan untuk keuntungan tetapi juga dampak sosial dan lingkungan yang positif berkembang pesat di seluruh dunia.",
+      "emoji": "🌱",
+      "highlight": "Saldo investasi ESG: lebih dari $45 triliun di seluruh dunia! Meningkat setiap tahun"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Pikirkan tentang 'misi keuangan' Anda!",
+      "background": "candy",
+      "title": "Uang dan Nilai Anda",
+      "content": "Uang adalah sarana, bukan tujuan. Apa yang ingin Anda capai dengan uang? ① Mimpi Anda ② Kebahagiaan keluarga ③ Kontribusi sosial ④ Terus melakukan hal yang Anda cintai. Mereka yang memiliki tujuan keuangan yang jelas lebih mungkin menjadi kaya!",
+      "emoji": "💭",
+      "highlight": "'Uang membeli kebebasan. Kebebasan adalah untuk mengejar impian.'"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Tindakan untuk meningkatkan literasi keuangan Anda mulai hari ini!",
+      "background": "classroom",
+      "title": "Mulai Hari Ini",
+      "content": "① Simpan buku rekening rumah tangga (aplikasi seperti 'Money Forward' dan 'Zaim') ② Catat pengeluaran dengan rekening uang saku ③ Mulai berinvestasi $100 sekaligus ④ Baca berita keuangan (edisi elektronik Nikkei) sekali seminggu. Kebiasaan kecil dapat mengubah hidup Anda!",
+      "emoji": "📱",
+      "highlight": "'Money Forward': tautan gratis dengan bank, sekuritas, dan kredit. Pengelolaan rumah tangga otomatis"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Master Keuangan! Buka masa depan Anda dengan uang! 🎉",
+      "background": "space",
+      "title": "Seri Keuangan Selesai!",
+      "emoji": "🏆",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

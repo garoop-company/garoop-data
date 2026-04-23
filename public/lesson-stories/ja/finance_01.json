@@ -1,0 +1,132 @@
+{
+  "title": "お金ってなに？〜お金の入門〜",
+  "description": "お金の起源から仕組みまで、ガルちゃんと楽しく学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "お金の世界へようこそ！一緒に学ぼう💰",
+      "background": "city",
+      "title": "お金ってなに？",
+      "emoji": "💰",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「お金ってなに？〜お金の入門〜」をテーマに、学ぶ準備と進め方を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "昔はお金がなかったんだよ！すごいよね",
+      "background": "forest",
+      "title": "物々交換の時代",
+      "content": "大昔、人々はお金の代わりに物を交換していました。魚と野菜を交換したり、布と道具を取引したりしていました。これを「物々交換」といいます。",
+      "emoji": "🐟",
+      "highlight": "🍎＋🐟 → 交換 → どちらも欲しい物が手に入る"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "お金は「便利な道具」なんだよ！",
+      "background": "classroom",
+      "title": "お金が生まれた理由",
+      "content": "物々交換には問題がありました。「魚が欲しい人」と「魚を持っている人」が同時に出会わないといけない！そこで、誰でも受け取れる「共通の価値」として貨幣が生まれました。",
+      "emoji": "🪙",
+      "highlight": "貨幣の3つの機能：①交換②価値の保存③価値の尺度"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "最初のお金は貝殻や石だったんだよ！",
+      "background": "ocean",
+      "title": "お金の歴史",
+      "content": "最初の貨幣は金属コイン（紀元前700年頃、リディア王国）。その後、中国で紙幣が登場（10世紀）。日本では江戸時代に両・朱・文という通貨が使われていました。",
+      "emoji": "📜",
+      "highlight": "世界最古のコイン：紀元前7世紀 リディア王国（現在のトルコ）"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "今のお金はどんな種類があるか知ってる？",
+      "background": "city",
+      "title": "現代のお金の種類",
+      "content": "現在のお金は大きく3種類。①現金（コインと紙幣）②銀行預金（口座に入っているお金）③電子マネー・デジタル通貨。スマホで払えるQRコード決済も増えています！",
+      "emoji": "📱",
+      "highlight": "日本のキャッシュレス比率：約39%（2023年）→ 世界平均は約60%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "円・ドル・ユーロ…世界にいろんなお金がある！",
+      "background": "space",
+      "title": "世界の通貨",
+      "content": "各国には独自の通貨があります。日本：円（¥）、アメリカ：ドル（$）、ヨーロッパ：ユーロ（€）、中国：元（¥）。為替レートで通貨は毎日変動しています。",
+      "emoji": "🌏",
+      "highlight": "1ドル＝約150円（2024年）※為替は毎日変わります"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "お金は信頼で動いているんだよ！",
+      "background": "classroom",
+      "title": "お金の価値とは",
+      "content": "お金自体に価値があるわけじゃない！みんなが「これには価値がある」と信じているから価値があります。日本円は日本政府と日本銀行が保証しています。",
+      "emoji": "🤝",
+      "highlight": "「信用」がお金の本質 → 信用がなくなるとインフレが起きる"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "考えてみよう！あなたは今日何にお金を使いたい？",
+      "background": "candy",
+      "title": "考えてみよう！",
+      "content": "もしあなたが今日1000円もらったら、どう使いますか？①全部使う ②半分貯める ③全部貯める — あなたはどのタイプ？お金の使い方は人それぞれですが、「目的」を持つことが大切！",
+      "emoji": "💭",
+      "highlight": "消費・貯蓄・投資 — 3つのバランスが大事！"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "お金を学ぶと未来が変わるよ！",
+      "background": "city",
+      "title": "金融リテラシーって？",
+      "content": "「金融リテラシー」とはお金についての知識・判断力のこと。日本は世界的に金融リテラシーが低い国と言われています。でも今あなたはここで学んでいる！それが第一歩！",
+      "emoji": "📚",
+      "highlight": "日本の金融リテラシー：世界33位（S&Pグローバル調査）"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "お金の基本が分かったね！次は貯金を学ぼう🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

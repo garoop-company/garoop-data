@@ -1,0 +1,131 @@
+{
+  "title": "Vận động và sự phát triển của trẻ em 〜 Chuyển động giúp thông minh hơn 〜",
+  "description": "Cùng Garu học về vận động và sự phát triển của trẻ em một cách thú vị!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Vận động giúp phát triển não và tâm trí của trẻ em! Cùng học nhé!",
+      "background": "forest",
+      "title": "Vận động và sự phát triển của trẻ em 〜 Chuyển động giúp thông minh hơn 〜",
+      "emoji": "🏃",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về vận động và sự phát triển của trẻ em!",
+      "background": "classroom",
+      "title": "Mối quan hệ sâu sắc giữa vận động và não bộ",
+      "content": "Vận động aerobic làm tăng 'BDNF (yếu tố dinh dưỡng thần kinh não)' trong não, cải thiện trí nhớ, khả năng học tập và tập trung! Nghiên cứu cũng chỉ ra rằng sau giờ học thể dục, điểm số toán tăng lên. 'Chuyển động giúp thông minh hơn' là một sự thật khoa học!",
+      "emoji": "🧠",
+      "highlight": "BDNF: Được gọi là 'phân bón cho não'. Tăng lên sau vận động và cải thiện hiệu suất học tập lên hơn 30%"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về vận động và sự phát triển của trẻ em!",
+      "background": "ocean",
+      "title": "Từ mấy tuổi thì nên tập môn thể thao nào?",
+      "content": "Từ 0-3 tuổi: Chơi tự do sử dụng toàn thân. Từ 3-6 tuổi: Bơi, thể操, chơi bóng... đa dạng động tác. Từ 6-10 tuổi: Môn thể thao cạnh tranh sơ bộ. Chuyên môn hóa quá sớm có thể dẫn đến burnout. Quan trọng là phải có 'đa dạng động tác' trong thời thơ ấu!",
+      "emoji": "⚽",
+      "highlight": "Chuyên môn hóa thể thao sớm: Nguy cơ chấn thương, burnout, không thể tiếp tục cao. Đa dạng vận động được khuyến khích"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về vận động và sự phát triển của trẻ em!",
+      "background": "forest",
+      "title": "Thiếu thời gian chơi ngoài trời trong thời đại hiện nay",
+      "content": "Thời gian chơi ngoài trời của trẻ em Nhật Bản đã giảm đáng kể trong 30 năm qua. Covid, điện thoại thông minh và sự quan tâm quá mức đến an toàn là nguyên nhân. Đảm bảo hoạt động thể chất ít nhất 60 phút mỗi ngày (WHO khuyến nghị) là điều cần thiết cho sức khỏe, phát triển não và ổn định cảm xúc của trẻ em!",
+      "emoji": "🌳",
+      "highlight": "Thời gian chơi ngoài trời: Khuyến nghị 60 phút mỗi ngày (WHO). Nhiều trẻ em Nhật Bản dưới mức khuyến nghị"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về vận động và sự phát triển của trẻ em!",
+      "background": "space",
+      "title": "Thể thao đồng đội giúp phát triển kỹ năng xã hội",
+      "content": "Các môn thể thao đồng đội như bóng đá, bóng rổ, bóng chày... là nơi tốt nhất để rèn luyện kỹ năng xã hội: ① giao tiếp, ② phân công vai trò, ③ quản lý cảm xúc, ④ thất bại và phục hồi, ⑤ chấp nhận thắng bại.",
+      "emoji": "⚾",
+      "highlight": "Người trải nghiệm thể thao đồng đội: Kỹ năng lãnh đạo, hợp tác và khả năng chịu stress cao hơn so với cá nhân"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về vận động và sự phát triển của trẻ em!",
+      "background": "city",
+      "title": "Võ đạo, thể操 giúp phát triển tinh thần",
+      "content": "Võ đạo, thể操 như kiếm đạo, judo, karate, thể操... giúp rèn luyện: ① lễ nghi, ② tập trung, ③ tự chế, ④ khả năng chịu đựng thất bại, ⑤ thói quen nỗ lực. rèn luyện tinh thần thông qua thể thao có ảnh hưởng tích cực đến học tập và mối quan hệ con người!",
+      "emoji": "🥋",
+      "highlight": "Trẻ em học võ: Tự kiểm soát và khả năng phục hồi tinh thần cao hơn"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Cùng Garu học về vận động và sự phát triển của trẻ em!",
+      "background": "classroom",
+      "title": "Hiệu quả kết hợp vận động và giấc ngủ",
+      "content": "Sau khi vận động, nếu có giấc ngủ chất lượng thì hormone tăng trưởng sẽ tăng lên và sự phát triển của cơ thể và não sẽ tối ưu! Ngược lại, nếu thiếu ngủ và vận động mạnh thì nguy cơ chấn thương sẽ tăng lên. 'Vận động + giấc ngủ' kết hợp sẽ giúp trẻ em phát triển!",
+      "emoji": "😴",
+      "highlight": "Giấc ngủ sâu sau vận động: Hormone tăng trưởng, cố định trí nhớ và sửa chữa cơ bắp được tối ưu hóa"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Garu học về vận động và sự phát triển của trẻ em!",
+      "background": "ocean",
+      "title": "Thể thao giúp học 'điều quan trọng của thất bại'",
+      "content": " 'Niềm vui chiến thắng' không quan trọng bằng 'sức mạnh học hỏi từ thất bại'! Các vận động viên hàng đầu đều có điểm chung là 'sức mạnh phục hồi từ thất bại'. Khi trẻ em khóc vì thất vọng, hãy nói với chúng: 'Làm thế nào để lần sau có thể chiến thắng?'",
+      "emoji": "🏆",
+      "highlight": " 'Khả năng phục hồi từ thất bại': Điểm chung của các vận động viên hàng đầu thế giới. Sử dụng thất bại như một 'cơ hội học hỏi'"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Cùng Garu học về vận động và sự phát triển của trẻ em!",
+      "background": "forest",
+      "title": "Tương tác giữa nghệ thuật, âm nhạc và cơ thể",
+      "content": "Hoạt động như múa ba lê, nhảy, âm nhạc, vẽ... cũng là 'chuyển động cơ thể'! Hoạt động nghệ thuật giúp phát triển sáng tạo, thể hiện cảm xúc, tập trung và hợp tác, đồng thời có ảnh hưởng tích cực đến học tập. Thể thao và nghệ thuật đều giúp mở rộng khả năng của trẻ em!",
+      "emoji": "🎨",
+      "highlight": "Âm nhạc + vận động (giáo dục nhịp điệu): Cải thiện khả năng toán học, ngôn ngữ và khả năng vận động phối hợp cùng lúc"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đã học về vận động và phát triển! Tiếp theo hãy nghĩ về tương lai của việc nuôi dạy trẻ em 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Play is the Best Learning ~Raising Non-Cognitive Abilities~",
+  "description": "Let's learn with Garu-chan that play is the best learning!",
+  "bgTheme": "candy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Play is the best learning! Let's learn the science of play together!",
+      "background": "candy",
+      "title": "Play is the Best Learning ~Raising Non-Cognitive Abilities~",
+      "emoji": "🎮",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn with Garu-chan that play is the best learning!",
+      "background": "classroom",
+      "title": "What are Non-Cognitive Abilities?",
+      "content": "Apart from 'cognitive abilities (IQ)' that can be measured by tests, 'non-cognitive abilities' such as perseverance, self-control, cooperation, empathy, and creativity are known to strongly predict success in life!",
+      "emoji": "💪",
+      "highlight": "Nobel Prize-winning economist Heckman: Investing in non-cognitive abilities in early childhood yields the highest social return"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn with Garu-chan that play is the best learning!",
+      "background": "ocean",
+      "title": "Raising 'Perseverance (Grit)'",
+      "content": "Grittiness = passion + perseverance. The ability to not give up even when faced with difficulties predicts future success more than IQ (Duckworth's research). How to overcome failures makes children stronger!",
+      "emoji": "🏋️",
+      "highlight": "Grit Research: Consistently proven in research at West Point, Spelling Bee, and Chicago Public Schools"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn with Garu-chan that play is the best learning!",
+      "background": "forest",
+      "title": "The Greatness of Montessori Education",
+      "content": "The educational method developed by Maria Montessori emphasizes 'children learn by choosing and doing themselves'. Google founders and Amazon's Jeff Bezos are also Montessori alumni. Autonomy, concentration, and problem-solving abilities are nurtured!",
+      "emoji": "🏫",
+      "highlight": "Montessori Alumni: Many innovators such as Google, Amazon, and Wikipedia founders"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn with Garu-chan that play is the best learning!",
+      "background": "classroom",
+      "title": "The Educational Value of Blocks, LEGO, and Sandboxes",
+      "content": "Blocks and LEGO nurture mathematical thinking, spatial recognition, problem-solving, and creativity. Sandbox play teaches physics through experience. What seems like 'just play' is actually the best learning tool!",
+      "emoji": "🧱",
+      "highlight": "LEGO Education Research: Effective in improving spatial recognition, math abilities, and STEM (science, technology, engineering, and math) abilities"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn with Garu-chan that play is the best learning!",
+      "background": "space",
+      "title": "The Deep Meaning of 'Pretend Play'",
+      "content": "Pretend play like doctor's play or mommy play is important for developing 'theory of mind (ToM)' which understands others' perspectives. Sociality, empathy, language abilities, and creativity are nurtured all at once in this 'multi-intellectual play'!",
+      "emoji": "👨‍⚕️",
+      "highlight": "Theory of Mind: The ability to understand what others are thinking. The foundation of social life"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Let's learn with Garu-chan that play is the best learning!",
+      "background": "ocean",
+      "title": "Educational Use of Digital Games",
+      "content": "Not all games are bad! Minecraft teaches spatial recognition, creativity, and math. Programming games teach logical thinking. What's important is 'content, time, and playing together'. Parents' involvement doubles the learning effect!",
+      "emoji": "🎮",
+      "highlight": "Minecraft: Adopted as an educational tool in schools worldwide. Used for creativity and STEM education"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's learn with Garu-chan that play is the best learning!",
+      "background": "forest",
+      "title": "Raising 'Risk-Taking Ability' through Outdoor Play",
+      "content": "Climbing trees, playing in rivers, and playing in mud - outdoor play with moderate risk nurtures 'risk judgment, confidence, and resilience'. Overprotection deprives children of opportunities to challenge. Falling is also part of learning!",
+      "emoji": "🌳",
+      "highlight": "Children with more outdoor playtime: Have higher self-control, problem-solving abilities, and physical abilities (consistent across multiple studies)"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Let's learn with Garu-chan that play is the best learning!",
+      "background": "classroom",
+      "title": "The Importance of 'Boredom'",
+      "content": "A tightly managed 'controlled upbringing' deprives children of creativity. When there is 'time to do nothing', children invent their own play. Boredom is the mother of creativity!",
+      "emoji": "🌤️",
+      "highlight": "Research on Free Time: Children's creative activities and self-determination abilities develop most during unplanned time"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "I've learned about play and non-cognitive abilities! Next is food education 🎉",
+      "background": "space",
+      "title": "Lesson Completed!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

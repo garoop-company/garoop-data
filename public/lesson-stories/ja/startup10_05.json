@@ -1,0 +1,132 @@
+{
+  "title": "ピッチの練習〜伝える力が人生を変える〜",
+  "description": "ガルちゃんと楽しくピッチの練習を学ぼう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "伝える力でビジネスを動かそう！ピッチを学ぼう！",
+      "background": "city",
+      "title": "ピッチの練習〜伝える力が人生を変える〜",
+      "emoji": "🎤",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「ピッチの練習〜伝える力が人生を変える〜」をテーマに、子どもの視点で挑戦を形にする力を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとピッチの練習を学ぼう！",
+      "background": "classroom",
+      "title": "ピッチってなに？",
+      "content": "ピッチ（Pitch）＝投資家・顧客・パートナーに自分のビジネスを短時間でプレゼンすること。エレベーターピッチは「エレベーターに乗っている30秒〜2分」で伝えられる説明力！",
+      "emoji": "🎤",
+      "highlight": "Elevator Pitch：エレベーターで偶然会った投資家に乗っている時間内でアイデアを伝える"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとピッチの練習を学ぼう！",
+      "background": "forest",
+      "title": "良いピッチの3要素",
+      "content": "①問題（お客様が困っていること）②解決策（あなたの製品・サービスがどう解決するか）③なぜあなたのチームが最適か——この3つを1〜2分で伝えられれば完璧なピッチ！",
+      "emoji": "🔢",
+      "highlight": "ピッチの黄金構成：問題→解決策→市場規模→ビジネスモデル→チーム→お願い"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとピッチの練習を学ぼう！",
+      "background": "space",
+      "title": "スティーブ・ジョブズのプレゼン術",
+      "content": "「1,000曲をポケットに」——iPodのプレゼン。数字（1GB）ではなく「体験」で語ることで人の心を動かした。ルール：①シンプルに②ストーリーで語る③リハーサルを徹底する！",
+      "emoji": "🎯",
+      "highlight": "ジョブズのプレゼン：1スライド1メッセージ・感情に訴える言葉・徹底的なリハーサル"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとピッチの練習を学ぼう！",
+      "background": "ocean",
+      "title": "「問題→解決→証拠→行動」の流れ",
+      "content": "PAPA構成：①Problem（問題提起）②Agitation（問題を悪化させる）③Solution（解決策提示）④Action（行動を促す）——この流れでプレゼンすると聴衆の「買いたい！」「応援したい！」気持ちが高まります！",
+      "emoji": "📋",
+      "highlight": "PAPA構成：セールスライティング・ピッチ・プレゼンの世界共通の説得構造"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとピッチの練習を学ぼう！",
+      "background": "forest",
+      "title": "データと感情の両方で伝える",
+      "content": "論理（数字・事実・データ）だけでは人は動かない。感情（ストーリー・共感・驚き）だけでも信頼されない。「アリストテレスの説得術：ロゴス（論理）・パトス（感情）・エトス（信頼）」を組み合わせよう！",
+      "emoji": "⚖️",
+      "highlight": "説得の3要素：ロゴス（データ）＋パトス（ストーリー）＋エトス（実績・信頼）のバランス"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "ガルちゃんとピッチの練習を学ぼう！",
+      "background": "city",
+      "title": "拒絶（ノー）への対処法",
+      "content": "投資家に断られるのは当たり前！Airbnbは7回断られた・WhatsAppはFacebookに就職を断られた——「次のNO」が「YES」に近づく。断られたら「なぜ？」を聞いてピッチを改善するデータに変えよう！",
+      "emoji": "💪",
+      "highlight": "Airbnbの資金調達：最初7人の投資家に断られた後、Yコンビネーターに採択→今や9兆円企業"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんとピッチの練習を学ぼう！",
+      "background": "classroom",
+      "title": "練習が神を作る",
+      "content": "ピッチは「才能」ではなく「練習量」で決まる！鏡の前で・家族に・友達に・録画して——繰り返し練習することで話し方・間・目線・言葉の選び方が洗練されます。TED講演者は平均200時間練習！",
+      "emoji": "🎬",
+      "highlight": "TED講演者：本番18分のスピーチのために平均200時間以上の準備・練習"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "ガルちゃんとピッチの練習を学ぼう！",
+      "background": "ocean",
+      "title": "世界の子供ピッチコンテスト",
+      "content": "Kids TEDx・高校生ビジネスコンテスト・中高生向けYouths For Youth——世界中に子供が起業アイデアを発表できる舞台があります！参加するだけで成長できます。あなたもチャレンジしてみよう！",
+      "emoji": "🌍",
+      "highlight": "高校生ビジネスコンテスト：全国大会で数百万円の起業資金を獲得するケースも"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ピッチをマスター！次はチームを作ろう🎉",
+      "background": "space",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

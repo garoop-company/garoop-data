@@ -1,0 +1,130 @@
+{
+  "title": "Thuế và An sinh Xã hội - Tiền bạc hỗ trợ xã hội",
+  "description": "Tại sao phải trả thuế? Cơ chế an sinh xã hội là gì? Cùng tìm hiểu!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Khi hiểu về thuế, bạn sẽ thấy cơ chế xã hội vận hành! 🏛️",
+      "background": "classroom",
+      "title": "Thuế và An sinh Xã hội",
+      "emoji": "🏛️",
+      "effects": [
+        "sparkle"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Tại sao phải trả thuế?",
+      "background": "city",
+      "title": "Mục đích của thuế",
+      "content": "Thuế là tiền để chi trả cho các dịch vụ công cộng như trường học, bệnh viện, đường sá, cảnh sát, cứu hỏa... Mỗi người đóng góp một phần nhỏ để tạo nên một xã hội giàu có.",
+      "emoji": "🏫",
+      "highlight": "Thu nhập thuế của Nhật: khoảng 75 nghìn tỷ yên/năm (2024) → khoảng 60 triệu yên/người"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Có những loại thuế nào? Hãy xem cùng nhau!",
+      "background": "classroom",
+      "title": "Các loại thuế",
+      "content": "Thuế trực tiếp: thuế thu nhập (thu nhập cá nhân), thuế doanh nghiệp (lợi nhuận của công ty), thuế thừa kế. Thuế gián tiếp: thuế tiêu thụ (10% cho hàng hóa và dịch vụ), thuế rượu, thuế thuốc lá... Có khoảng 50 loại thuế khác nhau.",
+      "emoji": "📊",
+      "highlight": "1% thuế tiêu thụ = khoảng 2,5 nghìn tỷ yên. 10% thì bằng 25 nghìn tỷ yên! Đây là loại thuế mà mọi người đều phải trả"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Liệu 'thuế lũy tiến' có công bằng không?",
+      "background": "ocean",
+      "title": "Cơ chế thuế lũy tiến",
+      "content": "Thuế lũy tiến: người có thu nhập cao hơn sẽ đóng thuế cao hơn. Ví dụ: thu nhập 195 triệu yên trở xuống → 5%, thu nhập từ 330 triệu đến 695 triệu yên → 20%, thu nhập trên 4 tỷ yên → 45%. Người có thu nhập cao đóng góp nhiều hơn để giảm khoảng cách giàu nghèo.",
+      "emoji": "⚖️",
+      "highlight": "Thuế suất: dưới 195 triệu yên là 5% → trên 4 tỷ yên là 45% + thuế cư trú 10% = tối đa 55%"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tại sao phải trả phí bảo hiểm xã hội?",
+      "background": "forest",
+      "title": "Các loại bảo hiểm xã hội",
+      "content": "Bảo hiểm xã hội gồm: ① bảo hiểm y tế (ốm đau, thương tích), ② bảo hiểm hưu trí (lương hưu, tàn tật, tử vong), ③ bảo hiểm thất nghiệp, ④ bảo hiểm tai nạn lao động. Phí bảo hiểm xã hội được trừ tự động từ lương, giống như một loại 'thuế ẩn'.",
+      "emoji": "🛡️",
+      "highlight": "Tỷ lệ đóng bảo hiểm xã hội: nhân viên công ty đóng khoảng 30% (mỗi bên đóng 15%)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Liệu chúng ta có thể nhận được lương hưu trong tương lai?",
+      "background": "city",
+      "title": "Cơ chế lương hưu",
+      "content": "Lương hưu của Nhật là hệ thống 'thế hệ đang làm việc hỗ trợ người cao tuổi'. Tuy nhiên, với tình trạng già hóa dân số và giảm số người trong độ tuổi lao động, vấn đề này đang trở nên nghiêm trọng. Vì vậy, việc tự tạo ra tài sản cho tuổi già (iDeCo, NISA) rất quan trọng!",
+      "emoji": "👴👵",
+      "highlight": "Năm 2023: 3 người đang làm việc hỗ trợ 1 người cao tuổi → năm 2060: 1,5 người đang làm việc hỗ trợ 1 người cao tuổi!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Liệu việc tiết giảm thuế có phải là thông minh?",
+      "background": "classroom",
+      "title": "Tiết giảm thuế hợp pháp",
+      "content": "Tiết giảm thuế hợp pháp được gọi là 'lập kế hoạch thuế'. Ví dụ: quyên góp cho quỹ cộng đồng, NISA, iDeCo, khấu trừ chi phí y tế, khấu trừ lãi vay mua nhà... Biết cách tận dụng sẽ giúp bạn tiết kiệm rất nhiều!",
+      "emoji": "💡",
+      "highlight": "Quyên góp cho quỹ cộng đồng: quyên góp cho chính quyền địa phương → nhận quà tặng và giảm thuế!"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy tìm hiểu về thuế gần gũi với chúng ta!",
+      "background": "candy",
+      "title": "Thuế gần gũi với chúng ta",
+      "content": "Hãy xem hóa đơn khi mua hàng! Thuế tiêu thụ thường được hiển thị. Thực phẩm là 8%, ăn uống và rượu là 10%. Hóa đơn điện, nước cũng có thuế. Chúng ta sống cùng thuế mỗi ngày!",
+      "emoji": "🧾",
+      "highlight": "Thực phẩm (thuế suất giảm) 8% so với ăn uống, hàng hóa thông thường 10%. Bạn có nhận thấy sự khác biệt về thuế suất?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Người dân có trách nhiệm giám sát việc sử dụng thuế!",
+      "background": "space",
+      "title": "Thuế và dân chủ",
+      "content": "Thuế là tiền của mọi người. Chính trị gia quyết định cách sử dụng, nhưng người dân chọn họ thông qua bầu cử! Khi bạn 18 tuổi, bạn có thể bỏ phiếu. 'Không có đại diện thì không có thuế' - câu nói này đã trở thành tiền đề cho Cách mạng Mỹ.",
+      "emoji": "🗳️",
+      "highlight": "'Không có đại diện thì không có thuế': câu nói này đã trở thành tiền đề cho Cách mạng Mỹ"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bây giờ bạn đã hiểu cơ chế xã hội! Hãy tiếp tục tìm hiểu về huy động vốn 🎉",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "title": "音楽修行",
+  "description": "Sunoで音楽を作ろう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "音楽道場へようこそガル！AIで世界に1つだけの曲を作ろう🎵",
+      "background": "bamboo",
+      "title": "音楽道場へようこそ！",
+      "content": "音楽修行では、言葉から曲の世界観を組み立てる力を鍛える。AIが作曲してくれても、どんな気分を届けたいかを決めるのは自分なので、発想と言語化が作品の質を左右する。",
+      "emoji": "🎵",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "曲を作るには「ジャンル」「気持ち」「テーマ」を考えよう！",
+      "background": "dojo",
+      "title": "曲のイメージを考える",
+      "content": "曲のイメージを考えるときは、ジャンル、テンポ、感情、流したい場面をセットで決めるとぶれにくい。楽しい、切ないだけでなく、「帰り道に聴きたい」など場面まで入れると強い。",
+      "emoji": "🎼",
+      "highlight": "設計の4要素:\n・ジャンル\n・テンポ\n・感情\n・使う場面"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Sunoへの「お願い文」を日本語で書いてみよう！",
+      "background": "bamboo",
+      "title": "プロンプト修行",
+      "content": "プロンプトは長ければよいのではなく、曲の中心をはっきり伝えることが大切だ。主役となる感情を1つ決め、歌詞の言語や楽器の雰囲気を足していくと、狙いに近い曲が出やすい。",
+      "emoji": "✍️",
+      "highlight": "書き方の型: 「誰向け / どんな気持ち / どんな音」"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "さあ、Sunoを開いて実際に曲を作ってみよう！",
+      "background": "mountain",
+      "title": "実践！曲を作ろう",
+      "content": "生成して聴くときは、ただ好き嫌いで判断せず、「テンポは合うか」「声の雰囲気は合うか」「歌詞は伝わるか」を見ると改善点が見つかりやすい。聴いて直す作業が制作の本番だ。",
+      "emoji": "🎤",
+      "highlight": "聴き直しチェック:\n・最初の印象\n・サビの強さ\n・歌詞の伝わりやすさ"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "気に入らなかったら少し変えて、また作ってみよう！",
+      "background": "dojo",
+      "title": "曲をブラッシュアップ",
+      "content": "ブラッシュアップでは、1回で全部変えず、1要素ずつ動かすのがコツだ。テンポだけ変える、楽器だけ変える、雰囲気の言葉だけ変えるという順で試すと、何が効いたかが見えやすい。",
+      "emoji": "🔧",
+      "highlight": "改善の順番:\n1. テンポ\n2. 雰囲気\n3. 楽器\n4. 歌詞"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "音楽修行完了ガル！作った曲をみんなに聴かせよう🎉",
+      "background": "temple",
+      "title": "修行完了！",
+      "content": "修行完了後は、完成曲のリンクだけでなく、「どんな気持ちを届けたかった曲か」を言葉にしてみよう。意図を説明できると、次の作品ではもっと狙って音楽を作れるようになる。",
+      "emoji": "🎸",
+      "effects": [
+        "confetti",
+        "sparkle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "NotebookLM幻灯片任务",
+  "description": "使用NotebookLM创建幻灯片的间谍任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "特工，你能听到我吗？现在开始任务简报！🕵️",
+      "background": "hq",
+      "title": "任务指令！",
+      "content": "任务：使用NotebookLM创建幻灯片！选择一个你想研究的主题，并将其总结成3页幻灯片。",
+      "emoji": "📊",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "NotebookLM是「信息整理的最强武器」！",
+      "background": "spy",
+      "title": "武器说明",
+      "content": "当你将数据（文章、网址等）输入NotebookLM时，AI会分析内容。",
+      "emoji": "🔍",
+      "highlight": "NotebookLM的使用方法：\n1. 打开notebooklm.google.com\n2. 新建笔记本\n3. 添加资料\n4. 请求AI协助"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "选择主题是第一个任务！",
+      "background": "hq",
+      "title": "选择主题",
+      "content": "选择一个你想在幻灯片中介绍的主题。任何你感兴趣的东西都可以！",
+      "emoji": "🎯",
+      "highlight": "主题示例：\n・喜欢的动物的秘密\n・宇宙的奥秘\n・全球变暖\n・喜欢的游戏历史"
+    },
+    {
+      "id": 4,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "将此提示发送到NotebookLM！",
+      "background": "lab",
+      "title": "执行计划！",
+      "content": "打开NotebookLM，添加资料，然后使用下面的提示创建幻灯片！",
+      "emoji": "💻",
+      "highlight": "可用的提示：\n「请将此内容作成成3页幻灯片，\n每页有标题和\n简短说明。」"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "当幻灯片完成后，请检查确认！",
+      "background": "spy",
+      "title": "确认完成条件",
+      "content": "为了完成任务，请检查以下3个条件！",
+      "emoji": "✅",
+      "highlight": "完成条件：\n□ 完成3页幻灯片\n□ 将难懂的词语替换成易懂的词语\n□ 最后有自己的感想"
+    },
+    {
+      "id": 6,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "任务完成！截图提交并获得300积分！🎯",
+      "background": "hq",
+      "title": "任务完成报告",
+      "content": "太棒了！当幻灯片完成后，将截图或文本提交到Slack以获得积分！",
+      "emoji": "🏆",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

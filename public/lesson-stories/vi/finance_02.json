@@ -1,0 +1,130 @@
+{
+  "title": "Sức mạnh của tiết kiệm - Cách bảo vệ tiền bạc",
+  "description": "Cùng Garu học về tầm quan trọng của tiết kiệm và cách bảo vệ tiền bạc một cách đúng đắn!",
+  "bgTheme": "classroom",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Hôm nay chúng ta sẽ học về bí mật của tiết kiệm! 🐖",
+      "background": "classroom",
+      "title": "Sức mạnh của tiết kiệm",
+      "emoji": "🐖",
+      "effects": [
+        "sparkle"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Trước tiên, hãy tìm hiểu về 'thu nhập' và 'chi tiêu'!",
+      "background": "city",
+      "title": "Thu nhập và chi tiêu",
+      "content": "Tiền bạc bao gồm 'tiền vào (thu nhập)' và 'tiền ra (chi tiêu)'. Nếu thu nhập > chi tiêu thì là 'lãi', nếu thu nhập < chi tiêu thì là 'lỗ'. Phần lãi này sẽ là tiền tiết kiệm!",
+      "emoji": "⚖️",
+      "highlight": "Tiết kiệm = Thu nhập - Chi tiêu"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Có thể bạn hiểu tại sao tiết kiệm lại quan trọng?",
+      "background": "forest",
+      "title": "Tại sao tiết kiệm?",
+      "content": "Tiết kiệm có 3 mục đích. ① 'Tiết kiệm khẩn cấp' cho những lúc cần thiết, ② 'Tiết kiệm mục tiêu' cho những ước mơ (du lịch, chơi game,...), ③ 'Tiết kiệm hưu trí' cho tương lai. Nếu bắt đầu từ nhỏ, chúng ta sẽ có thói quen tốt!",
+      "emoji": "🎯",
+      "highlight": "Quỹ khẩn cấp: 3-6 tháng chi tiêu hàng tháng là mức khuyến nghị"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Tiết kiệm trước 'tiết kiệm tự động' là cách tốt nhất!",
+      "background": "classroom",
+      "title": "Bí mật của tiết kiệm tự động",
+      "content": "Nhiều người thường nghĩ 'nếu còn tiền thì tiết kiệm', nhưng tiền không còn! Vì vậy, 'tiết kiệm ngay khi nhận lương' là cách hiệu quả. Hãy tiết kiệm 10-20% thu nhập vào tài khoản tiết kiệm!",
+      "emoji": "💡",
+      "highlight": "Tiết kiệm tự động = Nhận lương xong, lập tức chuyển 10% vào tài khoản khác"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Khi gửi tiền vào ngân hàng, tiền sẽ tăng dần!",
+      "background": "city",
+      "title": "Lãi suất ngân hàng là gì?",
+      "content": "Khi gửi tiền vào ngân hàng, bạn sẽ nhận được 'lãi suất'. Ví dụ: lãi suất hàng năm là 0,1%, nếu gửi 1 triệu đồng, sau 1 năm sẽ tăng thêm 1000 đồng. Lãi suất tiền gửi ở Nhật hiện tại khoảng 0,02-1%. Ít nhưng an toàn!",
+      "emoji": "🏦",
+      "highlight": "Lãi suất hàng năm 1% với 1 triệu đồng → Sau 10 năm khoảng 1,1 triệu đồng (trường hợp lãi suất đơn)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Tiết kiệm 500 đồng mỗi ngày... sẽ rất tuyệt đấy!",
+      "background": "space",
+      "title": "Sức mạnh của tích lũy nhỏ",
+      "content": "'Tích tiểu thành đại' - Mỗi ngày tiết kiệm 100 đồng, sau 1 năm sẽ có 36.500 đồng! Mỗi tháng tiết kiệm 1000 đồng, sau 10 năm sẽ có 120.000 đồng. Điều quan trọng không phải là số tiền mà là 'sự kiên trì'. Thói quen tốt sẽ là vũ khí mạnh nhất!",
+      "emoji": "🏔️",
+      "highlight": "Mỗi ngày 100 đồng x 365 ngày = 36.500 đồng/năm"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tiết kiệm có 'thời gian' là người bạn tốt nhất!",
+      "background": "ocean",
+      "title": "Mối quan hệ giữa thời gian và tiền bạc",
+      "content": "Bắt đầu tiết kiệm 1 triệu đồng mỗi tháng từ 20 tuổi so với 30 tuổi. Đâu là lựa chọn tốt hơn? Câu trả lời là bắt đầu từ 20 tuổi! Thời gian càng dài, tiền bạc càng tăng. Vì vậy, bắt đầu ngay bây giờ là đầu tư tốt nhất!",
+      "emoji": "⏰",
+      "highlight": "'Nhà đầu tư thần tượng' Warren Buffett bắt đầu mua cổ phiếu đầu tiên khi 11 tuổi"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hãy tạo mục tiêu tiết kiệm cho riêng mình!",
+      "background": "candy",
+      "title": "Lập mục tiêu tiết kiệm!",
+      "content": "① Mục đích tiết kiệm là gì? ② Cần bao nhiêu tiền? ③ Đến lúc nào? ④ Mỗi tháng tiết kiệm bao nhiêu? Nếu quyết định 4 điều này, tiết kiệm sẽ thành công gấp 3 lần!",
+      "emoji": "📋",
+      "highlight": "Mục tiêu SMART: Cụ thể, đo lường được, khả thi"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Kẻ thù của tiết kiệm là 'mua sắm bốc đồng'!",
+      "background": "classroom",
+      "title": "Bí quyết tránh chi tiêu không cần thiết",
+      "content": "Khi muốn mua gì đó, hãy chờ 24 giờ. Thời gian này sẽ giúp bạn xem xét lại nhu cầu của mình. Lưu giữ hóa đơn và xem lại vào cuối tháng cũng rất quan trọng!",
+      "emoji": "🛑",
+      "highlight": "Quy tắc 24 giờ: Giảm mua sắm bốc đồng tới 70%"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bạn đã trở thành chuyên gia tiết kiệm! Tiếp theo, hãy đến với thế giới đầu tư!",
+      "background": "space",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

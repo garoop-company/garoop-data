@@ -1,0 +1,131 @@
+{
+  "title": "Area Lokal × Pengasuhan Anak ~Buatlah Wilayah yang Mudah untuk Mengasuh Anak~",
+  "description": "Mari belajar tentang area lokal × pengasuhan anak dengan Gal-chan dengan cara yang menyenangkan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita pikirkan tentang keunikan pengasuhan anak di area lokal bersama-sama!",
+      "background": "forest",
+      "title": "Area Lokal × Pengasuhan Anak ~Buatlah Wilayah yang Mudah untuk Mengasuh Anak~",
+      "emoji": "🏡",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang area lokal × pengasuhan anak dengan Gal-chan!",
+      "background": "forest",
+      "title": "Mengapa Memilih Pengasuhan Anak di Area Lokal",
+      "content": "Lingkungan alam yang kaya, rumah yang luas, biaya hidup yang rendah, dan dukungan komunitas - pengasuhan anak di area lokal mendapatkan perhatian. Sebuah apartemen 3LDK di Tokyo berharga ¥60 juta, sementara rumah serupa di area lokal berharga kurang dari ¥10 juta!",
+      "emoji": "🌿",
+      "highlight": "Tingkat kepuasan pengasuhan anak di area lokal: lebih tinggi daripada area perkotaan (survei Kantor Kabinet)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar tentang area lokal × pengasuhan anak dengan Gal-chan!",
+      "background": "city",
+      "title": "Peningkatan Pemerintah Daerah dengan Dukungan Pengasuhan Anak yang Baik",
+      "content": "Pemerintah daerah semakin mendukung pengasuhan anak bagi migran. ①Biaya pengasuhan anak gratis②Biaya medis gratis (sampai usia 18)③Bantuan perolehan rumah④Dukungan pembelajaran⑤Subsidi relokasi - manfaat ekonomi untuk pengasuhan anak di area lokal meningkat!",
+      "emoji": "💰",
+      "highlight": "Pemerintah daerah dengan dukungan pengasuhan anak terdepan: Kota Akashi, Kota Nagareyama, dll. Peningkatan populasi karena dukungan pengasuhan anak yang komprehensif"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang area lokal × pengasuhan anak dengan Gal-chan!",
+      "background": "space",
+      "title": "Dukungan Pengasuhan Anak oleh Komunitas Lokal",
+      "content": "Pengasuhan anak 'seluruh desa' tradisional kembali hidup dalam bentuk modern. Kantin anak, pemantauan komunitas, pertukaran antargenerasi - lingkungan pengasuhan anak lokal yang menghubungkan kakek-nenek dan anak memiliki kekayaan mental yang signifikan!",
+      "emoji": "🤝",
+      "highlight": "Kantin anak: lebih dari 9.000 lokasi di seluruh negeri (2023). Ikatan komunitas juga membantu mencegah kemiskinan anak"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar tentang area lokal × pengasuhan anak dengan Gal-chan!",
+      "background": "ocean",
+      "title": "Pengaruh Pengalaman Pertanian terhadap Anak",
+      "content": "Menyentuh tanah, menanam benih, memanen - pengalaman pertanian mengajarkan anak tentang pentingnya kehidupan, nilai kerja, rasa syukur atas makanan, dan hubungan dengan alam. Anak perkotaan yang mengalami pertanian menunjukkan stabilitas emosi dan preferensi makanan yang lebih baik!",
+      "emoji": "🌱",
+      "highlight": "Program pengalaman pertanian: diterima oleh petani dan sekolah pertanian di seluruh negeri. Banyak peserta memuji pengalaman yang menggerakkan"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang area lokal × pengasuhan anak dengan Gal-chan!",
+      "background": "forest",
+      "title": "Alam Menguatkan Sistem Kekebalan Anak",
+      "content": "Main tanah, main air, menangkap serangga - paparan terhadap lingkungan mikroba yang beragam di alam menguatkan sistem kekebalan (hipotesis kebersihan). Alergi dan penyakit autoimun lebih umum di area perkotaan dan kurang umum di area pedesaan. 'Menyentuh tanah' adalah sumber kesehatan!",
+      "emoji": "🤧",
+      "highlight": "Hipotesis kebersihan: lingkungan yang terlalu bersih menghambat perkembangan sistem kekebalan → peningkatan penyakit alergi"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar tentang area lokal × pengasuhan anak dengan Gal-chan!",
+      "background": "classroom",
+      "title": "Ciri Pendidikan Sekolah Lokal",
+      "content": "Pendidikan kelas kecil (sekolah dasar lokal memiliki 10-20 siswa per kelas), pembelajaran pengalaman menggunakan alam, pendidikan karier di industri lokal - 'dukungan dan pengalaman yang erat' unik untuk sekolah lokal!",
+      "emoji": "🏫",
+      "highlight": "Kelas kecil: peningkatan waktu keterlibatan guru per siswa → peningkatan kualitas dukungan pembelajaran dan penurunan absensi"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari belajar tentang area lokal × pengasuhan anak dengan Gal-chan!",
+      "background": "city",
+      "title": "Opsi Tempat Tinggal Ganda",
+      "content": "Bekerja jarak jauh di area perkotaan pada hari kerja dan menghabiskan akhir pekan di rumah lokal - 'tempat tinggal ganda' adalah gaya pengasuhan anak yang baru. Anak dapat menikmati pengalaman alam dan kenyamanan perkotaan! Pertanian akhir pekan, bermain di gunung, dan memancing di sungai menjadi bagian dari kehidupan sehari-hari.",
+      "emoji": "🏠",
+      "highlight": "Rumah tangga tempat tinggal ganda: sekitar 500.000 rumah tangga (perkiraan). Peningkatan pesat setelah COVID-19, pemerintah mempertimbangkan kebijakan promosi"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang area lokal × pengasuhan anak dengan Gal-chan!",
+      "background": "forest",
+      "title": "Menyeimbangkan Kewirausahaan dan Pengasuhan Anak di Area Lokal",
+      "content": "Area lokal membuat lebih mudah menyeimbangkan pengasuhan anak dan pekerjaan! Dengan jam pengasuhan anak yang lebih pendek, kakek-nenek di dekatnya, opsi kerja jarak jauh yang meningkat, dan pengaturan kerja yang fleksibel, lebih banyak orang tua memilih wiraswasta!",
+      "emoji": "💼",
+      "highlight": "Migrasi lokal × kewirausahaan: kerja jarak jauh + pertanian, kafe, penginapan, dll. - pekerjaan lokal yang unik dan keseimbangan pengasuhan anak"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Saya telah belajar tentang keunikan pengasuhan anak lokal! Mari kita lanjutkan ke ringkasan seri pengasuhan anak 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

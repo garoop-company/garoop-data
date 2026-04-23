@@ -1,0 +1,131 @@
+{
+  "title": "Stock Market ~Buying a Part of a Company~",
+  "description": "Let's learn about the stock market with Gaku-chan in a fun and easy way! 📊",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "What is a stock? Let's explore together! 📊",
+      "background": "city",
+      "title": "Stock Market",
+      "emoji": "📊",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "What does it mean to buy stocks?",
+      "background": "classroom",
+      "title": "What are Stocks?",
+      "content": "Companies issue stocks to raise money for their businesses. When you buy one stock, you become a part-owner of that company! If the company grows, the value of your stock will increase.",
+      "emoji": "🏢",
+      "highlight": "Shareholders = owners of the company. You also receive dividends (a share of the profits)!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "What is the Tokyo Stock Exchange?",
+      "background": "city",
+      "title": "How the Stock Exchange Works",
+      "content": "The Tokyo Stock Exchange (TSE) is a market where stocks are bought and sold. Currently, there are three markets: Prime, Standard, and Growth. Famous stock exchanges around the world include the NYSE (New York) and NASDAQ.",
+      "emoji": "🏛️",
+      "highlight": "TSE Prime: Approximately 1,800 companies are listed, with a total market capitalization of over 800 trillion yen (as of 2024)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Why do stock prices go up and down?",
+      "background": "space",
+      "title": "Why Stock Prices Move",
+      "content": "Stock prices are determined by the balance between demand (people who want to buy) and supply (people who want to sell). If a company's performance is good, more people will want to buy, and the stock price will rise. News, economic indicators, and global events also have a big impact.",
+      "emoji": "📉📈",
+      "highlight": "Stock price = a numerical representation of the 'expectations' for that company"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "What are the Nikkei Average and TOPIX?",
+      "background": "ocean",
+      "title": "Understanding Stock Indices",
+      "content": "Nikkei Average: the average stock price of 225 representative Japanese companies. TOPIX: an index that shows the overall movement of the TSE. S&P 500: an index of 500 US companies. Dow: an index of 30 US companies. These are like economic thermometers!",
+      "emoji": "🌡️",
+      "highlight": "Nikkei Average: around 40,000 yen (a record high in March 2024) → the first time since the bubble era!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "What happens when you own stocks in famous companies?",
+      "background": "classroom",
+      "title": "Shareholder Rights",
+      "content": "As a shareholder, you have the rights to: ① dividends (a share of the company's profits), ② shareholder benefits (such as product discounts or coupons), and ③ voting rights (you can vote on important company decisions). Toyota shareholders even get discounts on Toyota cars!",
+      "emoji": "🎁",
+      "highlight": "Examples of shareholder benefits: McDonald's stock → free burger coupons, Nintendo → game discounts"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "I'll teach you tips for not losing money on stocks!",
+      "background": "forest",
+      "title": "Basic Stock Investment Strategies",
+      "content": "① Buy & Hold (buy and hold for a long time), ② diversify your investments (hold multiple stocks), and ③ dollar-cost averaging (invest a fixed amount of money at regular intervals). Try to make time work for you, rather than trying to time the market!",
+      "emoji": "🧠",
+      "highlight": "Dollar-cost averaging: you can buy more stocks when prices are low and fewer when prices are high → average cost decreases"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Let's research stocks in companies you're interested in!",
+      "background": "candy",
+      "title": "Try Virtual Investment!",
+      "content": "Check the stock prices of your favorite brands (Apple, Toyota, Nintendo, etc.). Compare the price a year ago to the current price to see how much it has fluctuated. You can check stock prices on apps or brokerage websites!",
+      "emoji": "🔍",
+      "highlight": "You can check stock prices daily on free apps: Yahoo! Finance, SBI Securities, etc."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Unlisted stocks (IPOs) are like lottery tickets!?",
+      "background": "space",
+      "title": "What is an IPO (Initial Public Offering)?",
+      "content": "An IPO is when a company lists its stocks on the stock market for the first time. Popular IPO stocks can increase in value several times on the first day of listing! But there's also a risk of losing money. It's like a lottery, and you need to apply to buy the stocks.",
+      "emoji": "🚀",
+      "highlight": "Famous IPO examples: LINE (2016), Mercari (2018), Rare Job → listing price 2-5 times higher"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "You've learned about the stock market! Next, let's learn about the magic of compound interest! 🎉",
+      "background": "space",
+      "title": "Lesson Completed!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

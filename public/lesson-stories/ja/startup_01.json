@@ -15,7 +15,8 @@
       "effects": [
         "sparkle",
         "stars"
-      ]
+      ],
+      "content": "このレッスンでは「起業とは」をテーマに、課題から事業を生み出す力を順番に学ぶ。ことばの意味を知るだけでなく、身近な例とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
     },
     {
       "id": 2,
@@ -25,9 +26,9 @@
       "speech": "ガルちゃんと起業とはを学ぼう！",
       "background": "space",
       "title": "起業とは - Part 1",
-      "content": "This is lesson 1 about 起業とは. Part 1 of 8.",
+      "content": "「起業とは」は課題から事業を生み出す力の入口になるテーマだ。まずは名前を覚えるだけでなく、何のために必要で、どんな場面で役立つのかまでつかむことが学びの第一歩になる。",
       "emoji": "💡",
-      "highlight": "📌 起業とは - Key point 1"
+      "highlight": "導入の視点: 課題 / 価値 / 検証"
     },
     {
       "id": 3,
@@ -37,9 +38,9 @@
       "speech": "ガルちゃんと起業とはを学ぼう！",
       "background": "forest",
       "title": "起業とは - Part 2",
-      "content": "This is lesson 1 about 起業とは. Part 2 of 8.",
+      "content": "起業とはを理解するときは、「課題」「価値」「検証」の3つを結びつけて考えるのが大切だ。1つずつ切り分けて見たあと、最後に全体像へ戻すと理解が深まりやすい。",
       "emoji": "📚",
-      "highlight": "📌 起業とは - Key point 2"
+      "highlight": "3つの柱: 課題・価値・検証"
     },
     {
       "id": 4,
@@ -49,9 +50,9 @@
       "speech": "ガルちゃんと起業とはを学ぼう！",
       "background": "classroom",
       "title": "起業とは - Part 3",
-      "content": "This is lesson 1 about 起業とは. Part 3 of 8.",
+      "content": "難しそうに見えるテーマでも、小さな例で分解すれば見通しがよくなる。起業とはでも、入力・判断・結果、あるいは目的・方法・改善という流れで整理すると、自分で再現しやすくなる。",
       "emoji": "🔧",
-      "highlight": "📌 起業とは - Key point 3"
+      "highlight": "学び方のコツ: 小さく分けて流れで理解する"
     },
     {
       "id": 5,
@@ -61,9 +62,9 @@
       "speech": "ガルちゃんと起業とはを学ぼう！",
       "background": "city",
       "title": "起業とは - Part 4",
-      "content": "This is lesson 1 about 起業とは. Part 4 of 8.",
+      "content": "実際の現場では、正しさだけでなく相手に伝わることや続けやすさも重要になる。起業とはは一度覚えて終わりではなく、試して直し、よりよい形に磨き続けるテーマだ。",
       "emoji": "⚡",
-      "highlight": "📌 起業とは - Key point 4"
+      "highlight": "実践の観点: 正しさ + 伝わりやすさ + 続けやすさ"
     },
     {
       "id": 6,
@@ -73,9 +74,9 @@
       "speech": "ガルちゃんと起業とはを学ぼう！",
       "background": "candy",
       "title": "起業とは - Part 5",
-      "content": "This is lesson 1 about 起業とは. Part 5 of 8.",
+      "content": "身近な例に置き換えると理解は一気に進む。たとえば困っている人を観察して、小さく試して改善する流れのように、生活や作品づくりに結びつけて考えると、抽象的な内容も「自分に使える知識」として定着しやすい。",
       "emoji": "🎯",
-      "highlight": "📌 起業とは - Key point 5"
+      "highlight": "身近な置き換え: 生活や作品に結びつけて考える"
     },
     {
       "id": 7,
@@ -85,9 +86,9 @@
       "speech": "ガルちゃんと起業とはを学ぼう！",
       "background": "ocean",
       "title": "起業とは - Part 6",
-      "content": "This is lesson 1 about 起業とは. Part 6 of 8.",
+      "content": "よくある失敗は、作りたいものだけを先に決めて、相手の困りごとを確かめないことだ。うまくいかないときほど、目的、条件、順番のどこでズレたのかを一つずつ確かめる姿勢が、次の成長につながる。",
       "emoji": "🌟",
-      "highlight": "📌 起業とは - Key point 6"
+      "highlight": "注意ポイント: 思い込みで進めず、前提を確認する"
     },
     {
       "id": 8,
@@ -97,9 +98,9 @@
       "speech": "ガルちゃんと起業とはを学ぼう！",
       "background": "classroom",
       "title": "起業とは - Part 7",
-      "content": "This is lesson 1 about 起業とは. Part 7 of 8.",
+      "content": "起業とはを実践で使える力に変えるには、インタビュー、MVP、ピッチ、数字の確認を意識するのが有効だ。道具を使いこなすだけでなく、なぜその方法を選ぶのかまで説明できると一段深い理解になる。",
       "emoji": "💻",
-      "highlight": "📌 起業とは - Key point 7"
+      "highlight": "実践力アップ: インタビュー、MVP、ピッチ、数字の確認"
     },
     {
       "id": 9,
@@ -109,9 +110,9 @@
       "speech": "ガルちゃんと起業とはを学ぼう！",
       "background": "forest",
       "title": "起業とは - Part 8",
-      "content": "This is lesson 1 about 起業とは. Part 8 of 8.",
+      "content": "最後は小さな作品や発表に結びつけてみよう。身近な課題を解くサービス案づくりに挑戦すると、学んだことが「知っている」から「使える」に変わる。完成度よりも、自分の考えで一歩進めた経験が大切だ。",
       "emoji": "🚀",
-      "highlight": "📌 起業とは - Key point 8"
+      "highlight": "仕上げの課題: 身近な課題を解くサービス案づくり"
     },
     {
       "id": 10,

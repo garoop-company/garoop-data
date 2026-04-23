@@ -1,0 +1,131 @@
+{
+  "title": "Cara Kerja Bank ~Pahami Aliran Uang~",
+  "description": "Mari kita pelajari cara kerja bank bersama Garu-chan! ",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari kita ungkap rahasia bank bersama! 🏦",
+      "background": "city",
+      "title": "Cara Kerja Bank",
+      "emoji": "🏦",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Bank adalah seperti 'penjodoh uang'!",
+      "background": "classroom",
+      "title": "Peran Bank",
+      "content": "Bank memiliki tiga pekerjaan utama: menerima simpanan, memberikan pinjaman, dan mentransfer uang. Mereka meminjamkan uang yang Anda simpan kepada bisnis dan membayar Anda sebagian bunga sebagai suku bunga.",
+      "emoji": "🌉",
+      "highlight": "Bank = menghubungkan orang dengan uang ↔ orang yang membutuhkan uang"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tahu kah Anda bank mendapat uang dari simpanan Anda?",
+      "background": "city",
+      "title": "Cara Bank Mendapat Keuntungan",
+      "content": "Bank menerima simpanan dengan suku bunga rendah (0,02%) dan meminjamkan kepada bisnis dan individu dengan suku bunga lebih tinggi (1-2% untuk hipotek, 15-18% untuk kartu kredit). Selisihnya adalah keuntungan mereka!",
+      "emoji": "💹",
+      "highlight": "Keuntungan bank = suku bunga pinjaman − suku bunga simpanan (perbedaan suku bunga)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Bank sentral berbeda dengan bank biasa!",
+      "background": "space",
+      "title": "Peran Bank Sentral",
+      "content": "Bank Indonesia (BI) adalah seperti 'bank dari bank'. Mereka meminjamkan kepada bank biasa, menerbitkan mata uang, dan menjaga harga stabil. Keputusan BI mempengaruhi ekonomi Indonesia!",
+      "emoji": "🇯🇵",
+      "highlight": "Bank Indonesia = penjaga uang Indonesia dan pemimpin kebijakan moneter"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tahu kah Anda jenis rekening bank?",
+      "background": "classroom",
+      "title": "Jenis Rekening Bank",
+      "content": "Ada tiga jenis utama: ① simpanan biasa: dapat ditarik kapan saja; ② simpanan waktu: simpanan untuk jangka waktu tertentu (suku bunga lebih tinggi); ③ simpanan berkala: otomatis menabung setiap bulan. Pilih sesuai tujuan Anda!",
+      "emoji": "📊",
+      "highlight": "Simpanan waktu: suku bunga lebih tinggi daripada simpanan biasa, dengan jangka waktu tertentu (3 bulan hingga 10 tahun)"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apa yang membuat bank online berbeda?",
+      "background": "ocean",
+      "title": "Fitur Bank Online",
+      "content": "Bank online tidak memiliki cabang fisik, sehingga mereka memiliki biaya lebih rendah dan sering menawarkan suku bunga lebih tinggi! Bank SBI Shinsei, Bank Rakuten, dan Bank PayPay adalah contoh populer. Banyak yang menawarkan layanan gratis untuk ATM dan transfer.",
+      "emoji": "💻",
+      "highlight": "Suku bunga simpanan biasa bank online: hingga 50 kali lebih tinggi daripada bank tradisional"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Pahami cara kerja transfer uang!",
+      "background": "city",
+      "title": "Mekanisme Transfer Uang",
+      "content": "Transfer bank menggunakan sistem Zengin, jaringan yang menghubungkan bank. Baru-baru ini, aplikasi transfer seperti PayPay, LINE Pay, dan Revolv menjadi populer. Transfer internasional menggunakan jaringan SWIFT.",
+      "emoji": "📡",
+      "highlight": "Sistem Zengin: infrastruktur keuangan yang menghubungkan bank-bank Jepang (lebih dari ¥100 triliun mengalir setiap hari)"
+    },
+    {
+      "id": 8,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Pikirkan rekening bank mana yang cocok untuk Anda!",
+      "background": "candy",
+      "title": "Pilih Rekening Anda!",
+      "content": "Jika Anda ingin membuka rekening bank, poin apa yang akan Anda periksa? ① suku bunga; ② biaya ATM; ③ kemudahan penggunaan; ④ keamanan. Diskusikan dengan keluarga Anda dan kembangkan 'keterampilan mengelola uang' Anda!",
+      "emoji": "🔍",
+      "highlight": "Daftar periksa perbandingan rekening: suku bunga, biaya, kemudahan penggunaan aplikasi"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Apa yang terjadi jika bank bangkrut?",
+      "background": "forest",
+      "title": "Sistem Asuransi Simpanan",
+      "content": "Bahkan jika bank bangkrut, simpanan dilindungi hingga ¥1 juta (sistem asuransi simpanan). Ini dijamin oleh pemerintah Jepang. Namun, berhati-hatilah karena jumlah di atas ¥1 juta mungkin tidak dilindungi!",
+      "emoji": "🛡️",
+      "highlight": "Sistem asuransi simpanan: melindungi hingga ¥1 juta pokok + bunga per lembaga keuangan"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Anda telah menguasai cara kerja bank! Selanjutnya, mari kita pelajari tentang investasi 🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

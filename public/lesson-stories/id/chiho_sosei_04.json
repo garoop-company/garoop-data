@@ -1,0 +1,131 @@
+{
+  "title": "Membangun Kawasan Lokal dengan Pariwisata ~Wisatawan Asing dan Branding Kawasan~",
+  "description": "Mari belajar tentang membangun kawasan lokal dengan pariwisata bersama Garu-chan!",
+  "bgTheme": "forest",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Pariwisata dapat menyelamatkan kawasan lokal! Mari belajar tentang pembangunan kawasan lokal berbasis pariwisata bersama!",
+      "background": "forest",
+      "title": "Membangun Kawasan Lokal dengan Pariwisata ~Wisatawan Asing dan Branding Kawasan~",
+      "emoji": "🏯",
+      "effects": [
+        "sparkle",
+        "stars"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang membangun kawasan lokal dengan pariwisata bersama Garu-chan!",
+      "background": "ocean",
+      "title": "Dampak Ekonomi Pariwisata terhadap Kawasan Lokal",
+      "content": "Wisatawan asing yang berkunjung ke Jepang mencapai 31,88 juta orang dan konsumsi sebesar ¥4,8 triliun pada tahun 2019. Setelah COVID-19, jumlahnya pulih menjadi sekitar 25 juta orang pada tahun 2023. Kawasan wisata lokal mengalami peningkatan uang lokal yang signifikan dan penciptaan lapangan kerja!",
+      "emoji": "✈️",
+      "highlight": "Rata-rata konsumsi per wisatawan asing: ¥210.000 per perjalanan. Bahkan lebih tinggi di kawasan wisata lokal"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar tentang membangun kawasan lokal dengan pariwisata bersama Garu-chan!",
+      "background": "forest",
+      "title": "Budaya dan Alam Jepang adalah Harta Karun Dunia!",
+      "content": "Jepang memiliki 25 situs warisan dunia (per 2024). Ninja, samurai, anime, teh, air terjun, bunga sakura, daun musim gugur - wisatawan asing ingin 'melihat dan mengalami' hal-hal ini di kawasan lokal! Apa yang dianggap biasa oleh penduduk lokal dapat menjadi hal yang spesial bagi dunia.",
+      "emoji": "🏯",
+      "highlight": "Situs warisan dunia Jepang: 25 (20 budaya, 5 alam)"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang membangun kawasan lokal dengan pariwisata bersama Garu-chan!",
+      "background": "city",
+      "title": "Menjadi Tujuan yang Dipilih melalui Branding Kawasan",
+      "content": "Menciptakan 'rasa spesial dan unik' adalah branding kawasan. Kyoto, Hakone, dan Shirakawa-go dikenal di seluruh dunia. Jika Anda dapat menemukan dan mempromosikan 'keunikan kawasan' Anda, wisatawan akan datang!",
+      "emoji": "🎌",
+      "highlight": "Shirakawa-go: lebih dari 200.000 pengunjung per tahun. Desa ini memiliki populasi hanya sekitar 1.600 orang!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar tentang membangun kawasan lokal dengan pariwisata bersama Garu-chan!",
+      "background": "space",
+      "title": "Pariwisata Berbasis Pengalaman sedang Populer",
+      "content": "Pengalaman pertanian, tur pabrik bir, pengalaman kerajinan tradisional, penanaman padi, dan penangkapan ikan - kehidupan sehari-hari penduduk lokal dapat menjadi 'pengalaman spesial' bagi wisatawan. Ini adalah era di mana 'siapa Anda mengalami' lebih penting daripada 'apa yang Anda lakukan'.",
+      "emoji": "🌾",
+      "highlight": "Ukuran pasar pariwisata berbasis pengalaman: lebih dari $180 miliar (sekitar ¥26 triliun) di seluruh dunia"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang membangun kawasan lokal dengan pariwisata bersama Garu-chan!",
+      "background": "classroom",
+      "title": "Pariwisata Baru yang Menyebar melalui SNS dan Kawasan Lokal",
+      "content": "Lokasi yang layak untuk Instagram, spot yang terkenal di TikTok, video perjalanan YouTube - SNS sedang menciptakan destinasi wisata. Tottori Sand Dunes, rusa di Nara Park, dan Hirome Market di Kochi adalah contoh destinasi wisata yang ditemukan kembali melalui SNS.",
+      "emoji": "📱",
+      "highlight": "Lokasi yang layak untuk Instagram: Benten-do (Gunma) - 1.000 pengunjung per hari"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "bounce",
+      "speech": "Mari belajar tentang membangun kawasan lokal dengan pariwisata bersama Garu-chan!",
+      "background": "ocean",
+      "title": "Pariwisata Berkelanjutan (Eko-Pariwisata)",
+      "content": "Jika terlalu banyak wisatawan yang berkunjung, dapat menyebabkan kerusakan lingkungan dan mengganggu penduduk lokal (overtourism). Kyoto telah memperkenalkan kontrol kemacetan. Tren pariwisata sedang bergeser ke 'kualitas daripada kuantitas' yang ramah lingkungan dan berkontribusi pada kawasan lokal!",
+      "emoji": "🌱",
+      "highlight": "Kyoto: peraturan yang diperkuat, termasuk tarif bus khusus untuk wisatawan asing dan pembatasan jam"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari belajar tentang membangun kawasan lokal dengan pariwisata bersama Garu-chan!",
+      "background": "forest",
+      "title": "Ekonomi Malam",
+      "content": "Menciptakan pariwisata yang menyenangkan tidak hanya di siang hari tetapi juga di malam hari dapat meningkatkan menginap dan menggandakan efek ekonomi! Pemandangan malam resor air terjun, pemetaan proyeksi, pasar malam, dan tur bintang - memoles keunikan malam dapat meningkatkan menginap!",
+      "emoji": "🌙",
+      "highlight": "Konsumsi menginap dengan pengalaman pariwisata malam yang kaya: 3-5 kali lipat dari pariwisata kunjungan sehari"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 7000,
+      "garuchanAnimation": "float",
+      "speech": "Mari belajar tentang membangun kawasan lokal dengan pariwisata bersama Garu-chan!",
+      "background": "city",
+      "title": "Menarik Pekerja Jarak Jauh dan Digital Nomad",
+      "content": "Dengan penyebaran telework, 'workation' (bekerja sambil berwisata) sedang menjadi populer. Jika kawasan lokal dapat menyediakan lingkungan kerja yang mirip dengan kota (Wi-Fi berkecepatan tinggi, ruang kerja bersama), 'tinggal', 'bekerja', dan 'berwisata' dapat menjadi terintegrasi!",
+      "emoji": "💻",
+      "highlight": "Jumlah pekerja jarak jauh: meningkat lebih dari 10 kali lipat setelah COVID-19 (survei Kantor Kabinet)"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Menguasai Pembangunan Kawasan Lokal Berbasis Pariwisata! Langkah Selanjutnya: Mempromosikan Migrasi🎉",
+      "background": "space",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}
