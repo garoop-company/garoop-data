@@ -1053,6 +1053,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-04-24-startup": {
+      "default": "2026-04-24-startup.md",
+      "locales": {
+        "ne": "2026-04-24-startup.ne.md",
+        "zh": "2026-04-24-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-04-24",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअपको रोमांचक यात्रा",
+          "date": "2026-04-24",
+          "description": "स्टार्टअपको बारेमा जान्नुहोस् र आफ्नो सपना साकार गर्ने यात्रामा साथ दिनुहोस्",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "创业小英雄，梦想从这里开始",
+          "date": "2026-04-24",
+          "description": "让孩子们通过创业学习，释放创造力，发展自主能力。一起探索创业的世界，激发孩子们的梦想和行动力。",
+          "tags": [
+            "创业教育",
+            "儿童创造力",
+            "自主学习"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
