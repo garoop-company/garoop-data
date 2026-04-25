@@ -1,6 +1,22 @@
 import { readdir, stat } from "node:fs/promises";
 import path from "node:path";
 
+export type TopFolderStat = {
+  folder: string;
+  fileCount: number;
+  bytes: number;
+};
+
+export type LessonTopicStat = {
+  topic: string;
+  fileCount: number;
+};
+
+export type ExploreStats = {
+  topFolderStats: TopFolderStat[];
+  lessonTopicStats: LessonTopicStat[];
+};
+
 export type PublicJsonFile = {
   relativePath: string;
   urlPath: string;
@@ -108,4 +124,36 @@ export async function getPublicCatalog(): Promise<PublicCatalog> {
     directories,
     totalBytes,
   };
+}
+
+export async function getExploreStats(): Promise<ExploreStats> {
+  const catalog = await getPublicCatalog();
+
+  // Aggregate by top-level folder
+  const folderMap = new Map<string, { fileCount: number; bytes: number }>();
+  for (const file of catalog.files) {
+    const topFolder = file.folderPath.split("/")[0] || "";
+    const current = folderMap.get(topFolder) ?? { fileCount: 0, bytes: 0 };
+    folderMap.set(topFolder, { fileCount: current.fileCount + 1, bytes: current.bytes + file.bytes });
+  }
+
+  const topFolderStats = Array.from(folderMap.entries())
+    .map(([folder, s]) => ({ folder, ...s }))
+    .sort((a, b) => b.fileCount - a.fileCount);
+
+  // Lesson topic stats (aggregate across all language sub-folders)
+  const topicMap = new Map<string, number>();
+  for (const file of catalog.files) {
+    if (!file.folderPath.startsWith("lesson-stories")) continue;
+    const baseName = file.fileName.replace(".json", "").replace(/_\d+$/, "");
+    topicMap.set(baseName, (topicMap.get(baseName) ?? 0) + 1);
+  }
+
+  const lessonTopicStats = Array.from(topicMap.entries())
+    .map(([topic, fileCount]) => ({ topic, fileCount }))
+    .filter(({ topic }) => !["vi", "en", "ja", "zh", "id", "ne"].includes(topic))
+    .sort((a, b) => b.fileCount - a.fileCount)
+    .slice(0, 16);
+
+  return { topFolderStats, lessonTopicStats };
 }

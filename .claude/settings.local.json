@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"http://localhost:3001/explore?lang=en\")",
+      "Bash(curl -s \"http://localhost:3001/?lang=en\")",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}

@@ -2,8 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { DatasetBrowser } from "@/components/dataset-browser";
 import { getPublicCatalog } from "@/lib/public-catalog";
-
-type Locale = "ja" | "en" | "zh";
+import type { Locale } from "@/lib/friendly-names";
 
 type HomeProps = {
   searchParams?: Promise<{
@@ -59,6 +58,12 @@ type Dictionary = {
   languageLabel: string;
   characterAlt: string;
   catalog: CatalogMessages;
+  exploreCard: {
+    eyebrow: string;
+    title: string;
+    body: string;
+    cta: string;
+  };
 };
 
 const dictionaries: Record<Locale, Dictionary> = {
@@ -135,15 +140,21 @@ const dictionaries: Record<Locale, Dictionary> = {
       eyebrow: "こうかいちゅうのJSON",
       title: "公開しているデータを\nここで さがせるよ。",
       description:
-        "名前でさがしたり、フォルダでしぼったりできます。見つけたら、アドレスをコピーして使えます。",
+        "名前でさがしたり、カテゴリーでしぼったりできます。見つけたら、アドレスをコピーして使えます。",
       searchLabel: "なまえでさがす",
-      searchPlaceholder: "company, master, lesson...",
+      searchPlaceholder: "会社, レッスン, スケジュール...",
       allLabel: "ぜんぶ",
       copyLabel: "コピー",
       copiedLabel: "コピーしたよ",
       emptyTitle: "まだJSONがないよ",
       emptyDescription: "`public/` に `*.json` を入れると、ここに出てきます。",
-      rootLabel: "public ルート",
+      rootLabel: "トップレベル",
+    },
+    exploreCard: {
+      eyebrow: "Data Explorer",
+      title: "グラフで見てみよう",
+      body: "Garoopのデータをグラフやチャートで楽しく確認できます。どんなテーマが多い？どのカテゴリーが大きい？",
+      cta: "グラフページへ ✨",
     },
   },
   en: {
@@ -216,18 +227,24 @@ const dictionaries: Record<Locale, Dictionary> = {
     languageLabel: "Language",
     characterAlt: "Garuchan, the Garoop guide character",
     catalog: {
-      eyebrow: "Published JSON",
-      title: "You can look for\nshared data here.",
+      eyebrow: "Published Data",
+      title: "Browse and search\nshared data here.",
       description:
-        "Search by name or filter by folder. When you find what you want, copy the address and use it.",
+        "Search by name or filter by category. Copy the link and use it anywhere.",
       searchLabel: "Search by name",
-      searchPlaceholder: "company, master, lesson...",
+      searchPlaceholder: "company, lesson, schedule...",
       allLabel: "All",
       copyLabel: "Copy link",
       copiedLabel: "Copied",
-      emptyTitle: "No JSON yet",
+      emptyTitle: "No files yet",
       emptyDescription: "Add a `*.json` file inside `public/` and it will show up here.",
-      rootLabel: "public root",
+      rootLabel: "Top level",
+    },
+    exploreCard: {
+      eyebrow: "Data Explorer",
+      title: "View as charts",
+      body: "See Garoop's data visually — which categories have the most files? What lesson topics are covered?",
+      cta: "Open explorer ✨",
     },
   },
   zh: {
@@ -299,17 +316,23 @@ const dictionaries: Record<Locale, Dictionary> = {
     languageLabel: "语言",
     characterAlt: "Garoop 的引导角色 Garuchan",
     catalog: {
-      eyebrow: "已公开的 JSON",
-      title: "这里可以查找\n已经分享的数据。",
-      description: "可以按名字搜索，也可以按文件夹筛选。找到以后复制地址就能使用。",
+      eyebrow: "已公开的数据",
+      title: "在这里查找\n已分享的数据。",
+      description: "按名字搜索，或按类别筛选。找到后复制链接即可使用。",
       searchLabel: "按名字搜索",
-      searchPlaceholder: "company, master, lesson...",
+      searchPlaceholder: "公司, 课程, 日程...",
       allLabel: "全部",
       copyLabel: "复制链接",
       copiedLabel: "已复制",
-      emptyTitle: "还没有 JSON",
+      emptyTitle: "暂无文件",
       emptyDescription: "把 `*.json` 放进 `public/` 后，这里就会显示出来。",
-      rootLabel: "public 根目录",
+      rootLabel: "顶级目录",
+    },
+    exploreCard: {
+      eyebrow: "Data Explorer",
+      title: "用图表查看",
+      body: "通过图表直观了解Garoop的数据——哪些类别文件最多？课程涵盖哪些主题？",
+      cta: "打开探索页 ✨",
     },
   },
 };
@@ -350,7 +373,7 @@ export default async function Home({ searchParams }: HomeProps) {
       </div>
 
       <div className="mx-auto flex min-h-screen w-full max-w-7xl flex-col gap-8 px-4 py-6 sm:px-6 sm:py-8 lg:px-8 lg:py-10">
-        <section className="panel overflow-hidden px-5 py-6 sm:px-7 sm:py-8 lg:px-10 lg:py-10">
+        <section className="panel shimmer-card overflow-hidden px-5 py-6 sm:px-7 sm:py-8 lg:px-10 lg:py-10">
           <div className="flex flex-wrap items-center justify-between gap-3">
             <div className="inline-flex rounded-full border border-white/70 bg-white/85 px-4 py-2 text-xs font-semibold uppercase tracking-[0.24em] text-[var(--ink-soft)] shadow-[0_12px_30px_rgba(205,92,122,0.12)]">
               {t.badge}
@@ -501,10 +524,33 @@ export default async function Home({ searchParams }: HomeProps) {
           </div>
         </section>
 
+        {/* Explore card */}
+        <section className="panel shimmer-card relative overflow-hidden px-6 py-8 sm:px-8">
+          <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(192,132,252,0.18),transparent_40%),radial-gradient(circle_at_bottom_right,rgba(96,165,250,0.18),transparent_40%)]" />
+          <div className="relative flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
+            <div className="space-y-2">
+              <p className="eyebrow">{t.exploreCard.eyebrow}</p>
+              <h2 className="font-serif text-2xl text-(--ink-strong) sm:text-3xl">
+                {t.exploreCard.title}
+              </h2>
+              <p className="max-w-lg text-sm leading-6 text-(--ink-soft)">
+                {t.exploreCard.body}
+              </p>
+            </div>
+            <Link
+              href={`/explore?lang=${locale}`}
+              className="inline-flex shrink-0 items-center gap-2 rounded-full bg-(--accent-strong) px-6 py-3 text-sm font-bold text-white shadow-[0_14px_32px_rgba(215,93,139,0.3)] transition hover:shadow-[0_18px_40px_rgba(215,93,139,0.4)] hover:-translate-y-0.5"
+            >
+              {t.exploreCard.cta}
+            </Link>
+          </div>
+        </section>
+
         <DatasetBrowser
           files={catalog.files}
           directories={catalog.directories}
           messages={t.catalog}
+          locale={locale}
         />
       </div>
     </main>
