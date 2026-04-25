@@ -1094,6 +1094,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-04-25-ai": {
+      "default": "2026-04-25-ai.md",
+      "locales": {
+        "ne": "2026-04-25-ai.ne.md",
+        "zh": "2026-04-25-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-04-25",
+          "tags": [
+            "AI",
+            "教育",
+            "創造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI र तिमी : सिर्जनशीलता र सम्भावना",
+          "date": "2026-04-25",
+          "description": "AI के हो र कसरी तिमी सिर्जनशील बन्न सक्छौ?",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "一起探索 AI 的奇妙世界",
+          "date": "2026-04-25",
+          "description": "了解 AI 和它如何影响我们的日常生活，激发孩子的创造力与行动力，共同探索 AI 的奇妙世界。",
+          "tags": [
+            "AI",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
