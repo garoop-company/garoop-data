@@ -1,0 +1,116 @@
+{
+    "date": "2026-04-25",
+    "blocks": [
+        {
+            "start": "09:00",
+            "end": "10:00",
+            "task_id": "morning_sync",
+            "assignees": [
+                "representative"
+            ],
+            "meeting": {
+                "title": "朝会",
+                "attendees": [
+                    "representative",
+                    "designer",
+                    "engineer",
+                    "marketing",
+                    "tax_accountant",
+                    "labor_consultant",
+                    "ambassador_yui",
+                    "talent_uka"
+                ]
+            }
+        },
+        {
+            "start": "10:00",
+            "end": "11:00",
+            "task_id": "product_dev",
+            "assignees": [
+                "engineer"
+            ],
+            "meeting": null
+        },
+        {
+            "start": "11:00",
+            "end": "12:00",
+            "task_id": "sns_op",
+            "assignees": [
+                "marketing"
+            ],
+            "meeting": null
+        },
+        {
+            "start": "12:00",
+            "end": "13:00",
+            "task_id": "break",
+            "assignees": [
+                "representative",
+                "designer",
+                "engineer",
+                "marketing",
+                "tax_accountant",
+                "labor_consultant",
+                "ambassador_yui",
+                "talent_uka"
+            ],
+            "meeting": null
+        },
+        {
+            "start": "13:00",
+            "end": "14:00",
+            "task_id": "design_review",
+            "assignees": [
+                "designer"
+            ],
+            "meeting": null
+        },
+        {
+            "start": "14:00",
+            "end": "15:00",
+            "task_id": "video_production",
+            "assignees": [
+                "designer",
+                "ambassador_yui",
+                "talent_uka"
+            ],
+            "meeting": null
+        },
+        {
+            "start": "15:00",
+            "end": "16:00",
+            "task_id": "accounting",
+            "assignees": [
+                "tax_accountant"
+            ],
+            "meeting": null
+        },
+        {
+            "start": "16:00",
+            "end": "17:00",
+            "task_id": "labor_compliance",
+            "assignees": [
+                "labor_consultant"
+            ],
+            "meeting": null
+        },
+        {
+            "start": "17:00",
+            "end": "18:00",
+            "task_id": "strategy",
+            "assignees": [
+                "representative"
+            ],
+            "meeting": null
+        },
+        {
+            "start": "18:00",
+            "end": "18:30",
+            "task_id": "release",
+            "assignees": [
+                "engineer"
+            ],
+            "meeting": null
+        }
+    ]
+}
