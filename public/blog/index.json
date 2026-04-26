@@ -1135,6 +1135,51 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-04-26-children": {
+      "default": "2026-04-26-children.md",
+      "locales": {
+        "ne": "2026-04-26-children.ne.md",
+        "zh": "2026-04-26-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "子供の可能性を広げるワクワクした世界",
+          "date": "2026-04-26",
+          "description": "子供の可能性を広げるためのヒントを紹介",
+          "tags": [
+            "子供",
+            "可能性",
+            "創造性",
+            "起業"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिका : सिर्जनशीलता र सम्भावना",
+          "date": "2026-04-26",
+          "description": "बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलता सिकाउने प्रेरणादायी कुरा",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "激发孩子的创造力与行动力",
+          "date": "2026-04-26",
+          "description": "如何激发孩子的创造力与行动力，让他们变得更加自信和创造。",
+          "tags": [
+            "孩子",
+            "创造力",
+            "行动力",
+            "自信"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
