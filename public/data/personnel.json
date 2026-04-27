@@ -20,7 +20,7 @@
             },
             {
                 "text": "会計処理",
-                "mood": "OFF"
+                "mood": "FOCUSED"
             }
         ]
     },
@@ -67,11 +67,11 @@
             },
             {
                 "text": "税務戦略",
-                "mood": "CREATIVE"
+                "mood": "FOCUSED"
             },
             {
                 "text": "資金管理",
-                "mood": "OFF"
+                "mood": "FOCUSED"
             }
         ]
     },
@@ -92,11 +92,11 @@
             },
             {
                 "text": "就業規則設計",
-                "mood": "CREATIVE"
+                "mood": "FOCUSED"
             },
             {
                 "text": "組織づくり",
-                "mood": "OFF"
+                "mood": "FOCUSED"
             }
         ]
     },
@@ -140,7 +140,7 @@
         "taskPool": [
             {
                 "text": "アナウンス",
-                "mood": "FOCUSED"
+                "mood": "CREATIVE"
             },
             {
                 "text": "イラストレーション",
@@ -148,7 +148,7 @@
             },
             {
                 "text": "AI解説",
-                "mood": "OFF"
+                "mood": "FOCUSED"
             }
         ]
     },
@@ -166,7 +166,7 @@
         "taskPool": [
             {
                 "text": "モデリング",
-                "mood": "FOCUSED"
+                "mood": "CREATIVE"
             },
             {
                 "text": "表現力",
@@ -174,7 +174,7 @@
             },
             {
                 "text": "ビジュアル表現",
-                "mood": "OFF"
+                "mood": "CREATIVE"
             }
         ]
     },
@@ -451,7 +451,7 @@
         "taskPool": [
             {
                 "text": "デザインレビュー",
-                "mood": "FOCUSED"
+                "mood": "CREATIVE"
             },
             {
                 "text": "動画制作",
@@ -459,7 +459,7 @@
             },
             {
                 "text": "ブランディング",
-                "mood": "OFF"
+                "mood": "FOCUSED"
             }
         ]
     },
@@ -476,15 +476,15 @@
         "taskPool": [
             {
                 "text": "アプリ開発",
-                "mood": "FOCUSED"
-            },
-            {
-                "text": "クラウドアーキテクチャ",
                 "mood": "CREATIVE"
             },
             {
+                "text": "クラウドアーキテクチャ",
+                "mood": "FOCUSED"
+            },
+            {
                 "text": "AI/ML",
-                "mood": "OFF"
+                "mood": "FOCUSED"
             }
         ]
     },
@@ -509,7 +509,7 @@
             },
             {
                 "text": "コンテンツ戦略",
-                "mood": "OFF"
+                "mood": "FOCUSED"
             }
         ]
     }
