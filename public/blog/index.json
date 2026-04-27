@@ -1180,6 +1180,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-04-27-kangaroo": {
+      "default": "2026-04-27-kangaroo.md",
+      "locales": {
+        "ne": "2026-04-27-kangaroo.ne.md",
+        "zh": "2026-04-27-kangaroo.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "カンガルーの秘密を調べてみよう！",
+          "date": "2026-04-27",
+          "description": "カンガルーは強い脚でジャンプする驚異の生物です。彼らの秘密を調べてみよう！",
+          "tags": [
+            "カンガルー",
+            "動物",
+            "自然"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "कंगारु: सिर्जनशीलता र उद्यमशीलताको प्रेरणा",
+          "date": "2026-04-27",
+          "description": "कंगारु सँग सम्बन्धित प्रेरणादायी कुरा",
+          "tags": [
+            "कंगारु",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "date": "2026-04-27",
+          "tags": [
+            "袋鼠",
+            "创造力",
+            "行动力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
