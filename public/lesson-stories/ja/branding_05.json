@@ -125,7 +125,11 @@
         "規則で義務付けられているから"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "人間は数字より物語を記憶しやすく、ブランドストーリーは感情的なつながりと信頼を生みます。"
+      "quizExplanation": "人間は数字より物語を記憶しやすく、ブランドストーリーは感情的なつながりと信頼を生みます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

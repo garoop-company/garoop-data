@@ -125,7 +125,11 @@
         "50円"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "20% = 0.2 なので、500 × 0.2 = 100円です。"
+      "quizExplanation": "20% = 0.2 なので、500 × 0.2 = 100円です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

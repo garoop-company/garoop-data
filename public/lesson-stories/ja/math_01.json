@@ -125,7 +125,11 @@
         "a ÷ b = b ÷ a"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "交換法則は順番を入れ替えても結果が変わらないことで、足し算と掛け算に成り立ちます。"
+      "quizExplanation": "交換法則は順番を入れ替えても結果が変わらないことで、足し算と掛け算に成り立ちます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

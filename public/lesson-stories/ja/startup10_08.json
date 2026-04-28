@@ -125,7 +125,11 @@
         "特になし"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Canva・Notion・Google Slides・Figmaなど多くの無料ツールが子どもでも使いやすいUIで提供されています。"
+      "quizExplanation": "Canva・Notion・Google Slides・Figmaなど多くの無料ツールが子どもでも使いやすいUIで提供されています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

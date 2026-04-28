@@ -125,7 +125,11 @@
         "Modern Value Platform"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "MVPは仮説検証に必要な最小限の機能だけを持つプロダクトで、最短で市場の反応を確かめるために作ります。"
+      "quizExplanation": "MVPは仮説検証に必要な最小限の機能だけを持つプロダクトで、最短で市場の反応を確かめるために作ります。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "約56.52 cm²"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "円の面積 = π × r² = 3.14 × 3² = 3.14 × 9 ≒ 28.26 cm²"
+      "quizExplanation": "円の面積 = π × r² = 3.14 × 3² = 3.14 × 9 ≒ 28.26 cm²",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

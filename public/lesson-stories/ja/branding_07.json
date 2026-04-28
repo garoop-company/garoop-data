@@ -125,7 +125,11 @@
         "値段を下げる"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "コンテンツマーケティングは直接販売せず、役立つ情報を提供することで長期的な信頼関係を構築します。"
+      "quizExplanation": "コンテンツマーケティングは直接販売せず、役立つ情報を提供することで長期的な信頼関係を構築します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

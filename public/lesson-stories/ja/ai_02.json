@@ -125,7 +125,11 @@
         "電気を節約する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "機械学習はデータを通じてコンピューターが自動的に学習し、改善していく技術です。"
+      "quizExplanation": "機械学習はデータを通じてコンピューターが自動的に学習し、改善していく技術です。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "Saves game progress"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Collision detection determines when game objects (players, enemies, bullets) touch each other so the game can respond appropriately."
+      "quizExplanation": "Collision detection determines when game objects (players, enemies, bullets) touch each other so the game can respond appropriately.",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

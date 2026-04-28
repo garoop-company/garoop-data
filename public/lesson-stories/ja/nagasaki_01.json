@@ -125,7 +125,11 @@
         "日本の首都だったから"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "江戸時代の鎖国中、長崎の出島ではオランダ・中国との貿易が許され、西洋の文化・知識が日本に入る唯一の窓口でした。"
+      "quizExplanation": "江戸時代の鎖国中、長崎の出島ではオランダ・中国との貿易が許され、西洋の文化・知識が日本に入る唯一の窓口でした。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

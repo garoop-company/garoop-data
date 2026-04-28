@@ -125,7 +125,11 @@
         "スラッシュ（/ /）"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "JavaScriptでは `'hello'` や `\"world\"` のようにシングルまたはダブルクォートで文字列を表します。"
+      "quizExplanation": "JavaScriptでは `'hello'` や `\"world\"` のようにシングルまたはダブルクォートで文字列を表します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

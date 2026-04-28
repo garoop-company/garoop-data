@@ -125,7 +125,11 @@
         "自然の生き物"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "生成AIは学習データを基に新しい文章・画像・音楽などのコンテンツを生み出します。"
+      "quizExplanation": "生成AIは学習データを基に新しい文章・画像・音楽などのコンテンツを生み出します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

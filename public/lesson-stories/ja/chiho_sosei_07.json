@@ -125,7 +125,11 @@
         "競合が増える"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "地域ブランドは「○○産」というストーリーと信頼で他との差別化ができ、価格競争に巻き込まれにくくなります。"
+      "quizExplanation": "地域ブランドは「○○産」というストーリーと信頼で他との差別化ができ、価格競争に巻き込まれにくくなります。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

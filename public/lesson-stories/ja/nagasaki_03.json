@@ -125,7 +125,11 @@
         "トルコ産の米料理"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "トルコライスは長崎発祥の洋食で、ピラフ・スパゲティ・とんかつを一皿に盛った独自のスタイルが特徴です。"
+      "quizExplanation": "トルコライスは長崎発祥の洋食で、ピラフ・スパゲティ・とんかつを一皿に盛った独自のスタイルが特徴です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

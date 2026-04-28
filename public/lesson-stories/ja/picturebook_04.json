@@ -125,7 +125,11 @@
         "印刷コストを下げるから"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "構図（アングル・余白・被写体の位置）は読者の視線を誘導し、安心感・動き・緊張感などの感情を生み出します。"
+      "quizExplanation": "構図（アングル・余白・被写体の位置）は読者の視線を誘導し、安心感・動き・緊張感などの感情を生み出します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

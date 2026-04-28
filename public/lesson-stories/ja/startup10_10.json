@@ -125,7 +125,11 @@
         "完璧な計画が立つまで動かないこと"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "起業家精神の本質は「完璧を待たずに動く」こと。小さな実験から始め、学びを積み重ねることが成功への近道です。"
+      "quizExplanation": "起業家精神の本質は「完璧を待たずに動く」こと。小さな実験から始め、学びを積み重ねることが成功への近道です。",
+      "background": "candy",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

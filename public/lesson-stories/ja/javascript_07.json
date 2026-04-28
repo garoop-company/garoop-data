@@ -125,7 +125,11 @@
         "配列を結合する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "`[1,2,3].map(x => x*2)` は `[2,4,6]` を返します。元の配列を変えず新しい配列を生成します。"
+      "quizExplanation": "`[1,2,3].map(x => x*2)` は `[2,4,6]` を返します。元の配列を変えず新しい配列を生成します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

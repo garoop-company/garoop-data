@@ -125,7 +125,11 @@
         "全て同じパスワードを使う"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "安全なパスワードは12文字以上で英大文字・小文字・数字・記号を混ぜ、サービスごとに異なるものを設定します。"
+      "quizExplanation": "安全なパスワードは12文字以上で英大文字・小文字・数字・記号を混ぜ、サービスごとに異なるものを設定します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

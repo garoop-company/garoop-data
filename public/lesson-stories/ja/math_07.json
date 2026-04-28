@@ -125,7 +125,11 @@
         "3/4（75%）"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "各投げで表が出る確率は1/2。2回独立なので 1/2 × 1/2 = 1/4（25%）です。"
+      "quizExplanation": "各投げで表が出る確率は1/2。2回独立なので 1/2 × 1/2 = 1/4（25%）です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

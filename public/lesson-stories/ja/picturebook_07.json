@@ -125,7 +125,11 @@
         "3Dモデリングソフト"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Midjourney・DALL-Eなどの画像生成AIとChatGPTなどの文章生成AIを組み合わせて絵本を作成できます。"
+      "quizExplanation": "Midjourney・DALL-Eなどの画像生成AIとChatGPTなどの文章生成AIを組み合わせて絵本を作成できます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "睡眠をとること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "数学は金融（利息・統計）・科学（気象・物理）・IT（暗号・GPS）など日常のあらゆる場所で活用されています。"
+      "quizExplanation": "数学は金融（利息・統計）・科学（気象・物理）・IT（暗号・GPS）など日常のあらゆる場所で活用されています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

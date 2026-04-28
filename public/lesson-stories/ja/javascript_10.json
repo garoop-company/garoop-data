@@ -125,7 +125,11 @@
         "サーバーを起動する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "`package.json` はプロジェクト名・バージョン・依存ライブラリ（npm packages）・スクリプトなどを管理するファイルです。"
+      "quizExplanation": "`package.json` はプロジェクト名・バージョン・依存ライブラリ（npm packages）・スクリプトなどを管理するファイルです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -124,7 +124,11 @@
         "Expensive price"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "A fun game revolves around an engaging gameplay loop — the cycle of goals, challenges, feedback, and rewards that keeps players coming back."
+      "quizExplanation": "A fun game revolves around an engaging gameplay loop — the cycle of goals, challenges, feedback, and rewards that keeps players coming back.",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

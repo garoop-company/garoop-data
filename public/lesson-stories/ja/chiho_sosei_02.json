@@ -125,7 +125,11 @@
         "気候変動"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "日本では出生率の低下（少子化）と高齢化が同時に進行し、地方から都市への人口流出も加わって深刻な人口減少が起きています。"
+      "quizExplanation": "日本では出生率の低下（少子化）と高齢化が同時に進行し、地方から都市への人口流出も加わって深刻な人口減少が起きています。",
+      "background": "classroom",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

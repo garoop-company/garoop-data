@@ -125,7 +125,11 @@
         "温泉リゾート"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "グラバー園には明治時代の西洋建築が保存されており、スコットランド人貿易商グラバーの旧邸は重要文化財に指定されています。"
+      "quizExplanation": "グラバー園には明治時代の西洋建築が保存されており、スコットランド人貿易商グラバーの旧邸は重要文化財に指定されています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

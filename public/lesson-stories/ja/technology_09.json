@@ -125,7 +125,11 @@
         "血液を分析する器具"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "CRISPR-Cas9は「ゲノム編集」技術で、DNAの特定箇所を切り貼りできます。遺伝病治療や品種改良への応用が期待されています。"
+      "quizExplanation": "CRISPR-Cas9は「ゲノム編集」技術で、DNAの特定箇所を切り貼りできます。遺伝病治療や品種改良への応用が期待されています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

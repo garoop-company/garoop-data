@@ -125,7 +125,11 @@
         "ネットワークの暗号化"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Reactはコンポーネントベースで再利用可能なUIを構築し、仮想DOMで効率的な再描画を実現するライブラリです。"
+      "quizExplanation": "Reactはコンポーネントベースで再利用可能なUIを構築し、仮想DOMで効率的な再描画を実現するライブラリです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

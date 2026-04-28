@@ -125,7 +125,11 @@
         "ゲーム開発"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "GoはDockerやKubernetesなどの開発にも使われ、高速なWebサーバーや並行処理システムが得意です。"
+      "quizExplanation": "GoはDockerやKubernetesなどの開発にも使われ、高速なWebサーバーや並行処理システムが得意です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

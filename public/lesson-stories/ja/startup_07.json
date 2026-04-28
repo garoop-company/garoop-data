@@ -125,7 +125,11 @@
         "投資家が要求するから"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "初期チームは長時間共に困難を乗り越えるため、スキルだけでなく価値観・働き方の一致（カルチャーフィット）が非常に重要です。"
+      "quizExplanation": "初期チームは長時間共に困難を乗り越えるため、スキルだけでなく価値観・働き方の一致（カルチャーフィット）が非常に重要です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "静かに読む"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "読み聞かせは速さより「ゆっくり・間をとる・絵を見る時間を与える・子どもの疑問を受け止める」ことが大切です。"
+      "quizExplanation": "読み聞かせは速さより「ゆっくり・間をとる・絵を見る時間を与える・子どもの疑問を受け止める」ことが大切です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

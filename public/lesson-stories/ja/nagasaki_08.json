@@ -125,7 +125,11 @@
         "インターネット禁止"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "長崎県はデジタル変革（DX）推進や若手起業家育成を通じて、人口減少・高齢化などの地域課題に取り組んでいます。"
+      "quizExplanation": "長崎県はデジタル変革（DX）推進や若手起業家育成を通じて、人口減少・高齢化などの地域課題に取り組んでいます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

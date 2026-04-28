@@ -125,7 +125,11 @@
         "電子頭脳"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "AIはArtificial Intelligence（人工知能）の略で、コンピューターが人間のように考える技術です。"
+      "quizExplanation": "AIはArtificial Intelligence（人工知能）の略で、コンピューターが人間のように考える技術です。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

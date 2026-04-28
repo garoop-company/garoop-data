@@ -125,7 +125,11 @@
         "define と set"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "現代のJSでは再代入ありは `let`、再代入なしは `const` を使います。`var` はスコープの問題で非推奨です。"
+      "quizExplanation": "現代のJSでは再代入ありは `let`、再代入なしは `const` を使います。`var` はスコープの問題で非推奨です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

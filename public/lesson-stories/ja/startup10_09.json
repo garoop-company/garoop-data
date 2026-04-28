@@ -125,7 +125,11 @@
         "すぐに世界展開できる"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "地域密着型のスタートアップは、その土地ならではの課題を深く理解し、地域の人々との信頼関係を活かしやすいです。"
+      "quizExplanation": "地域密着型のスタートアップは、その土地ならではの課題を深く理解し、地域の人々との信頼関係を活かしやすいです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

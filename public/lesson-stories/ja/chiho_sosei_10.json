@@ -125,7 +125,11 @@
         "お金があれば解決する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "地域が自律的に発展するには、行政・企業・学校・住民が一体となって取り組む「地域主体」の姿勢が不可欠です。"
+      "quizExplanation": "地域が自律的に発展するには、行政・企業・学校・住民が一体となって取り組む「地域主体」の姿勢が不可欠です。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "音楽を作る"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "NLPはコンピューターが人間の言語（テキストや音声）を理解・生成できるようにする技術分野です。"
+      "quizExplanation": "NLPはコンピューターが人間の言語（テキストや音声）を理解・生成できるようにする技術分野です。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

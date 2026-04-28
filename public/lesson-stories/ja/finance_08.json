@@ -124,7 +124,11 @@
         "企業の設備投資に使われる"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "日本では消費税収は主に社会保障関係費（医療・介護・年金・少子化対策）に充てられています。"
+      "quizExplanation": "日本では消費税収は主に社会保障関係費（医療・介護・年金・少子化対策）に充てられています。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

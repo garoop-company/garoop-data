@@ -125,7 +125,11 @@
         "Recording sound effects"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Game design focuses on defining rules, mechanics, and systems that create meaningful and enjoyable player experiences."
+      "quizExplanation": "Game design focuses on defining rules, mechanics, and systems that create meaningful and enjoyable player experiences.",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

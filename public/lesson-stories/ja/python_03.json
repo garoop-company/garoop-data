@@ -125,7 +125,11 @@
         "変数名と区別するため"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Pythonは `{ }` の代わりにインデントでブロックを表すため、インデントが間違えるとエラーになります。"
+      "quizExplanation": "Pythonは `{ }` の代わりにインデントでブロックを表すため、インデントが間違えるとエラーになります。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

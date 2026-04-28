@@ -125,7 +125,11 @@
         "テストは書かない"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "TDDは「Red（失敗するテストを書く）→Green（テストを通すコードを書く）→Refactor（改善する）」のサイクルで開発します。"
+      "quizExplanation": "TDDは「Red（失敗するテストを書く）→Green（テストを通すコードを書く）→Refactor（改善する）」のサイクルで開発します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

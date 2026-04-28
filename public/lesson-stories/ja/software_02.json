@@ -125,7 +125,11 @@
         "git update"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "`git commit -m 'メッセージ'` でステージング済みの変更をスナップショットとして記録します。"
+      "quizExplanation": "`git commit -m 'メッセージ'` でステージング済みの変更をスナップショットとして記録します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

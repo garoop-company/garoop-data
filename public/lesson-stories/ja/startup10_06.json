@@ -125,7 +125,11 @@
         "外見が異なると良いから"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "多様なバックグラウンドを持つメンバーが集まると、盲点を減らし、より革新的なアイデアが生まれやすくなります。"
+      "quizExplanation": "多様なバックグラウンドを持つメンバーが集まると、盲点を減らし、より革新的なアイデアが生まれやすくなります。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

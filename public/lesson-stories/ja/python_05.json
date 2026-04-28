@@ -125,7 +125,11 @@
         "proc"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Pythonでは `def my_function(引数):` と書いて関数を定義します。"
+      "quizExplanation": "Pythonでは `def my_function(引数):` と書いて関数を定義します。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

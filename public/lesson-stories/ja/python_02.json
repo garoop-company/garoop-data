@@ -125,7 +125,11 @@
         "var x = 10"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Pythonは `x = 10` と書くだけで変数宣言と代入が同時にでき、型宣言が不要です。"
+      "quizExplanation": "Pythonは `x = 10` と書くだけで変数宣言と代入が同時にでき、型宣言が不要です。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

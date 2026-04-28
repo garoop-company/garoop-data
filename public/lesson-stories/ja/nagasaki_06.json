@@ -125,7 +125,11 @@
         "砂漠がある"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "五島列島には世界遺産に登録された潜伏キリシタン関連遺産の教会群があり、透明度の高い海も魅力です。"
+      "quizExplanation": "五島列島には世界遺産に登録された潜伏キリシタン関連遺産の教会群があり、透明度の高い海も魅力です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

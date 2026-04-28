@@ -125,7 +125,11 @@
         "会社の社員になること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "株式は会社の所有権の一部を表すもので、購入すると株主（一部のオーナー）として配当や議決権を得ます。"
+      "quizExplanation": "株式は会社の所有権の一部を表すもので、購入すると株主（一部のオーナー）として配当や議決権を得ます。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

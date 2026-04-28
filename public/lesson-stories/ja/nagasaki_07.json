@@ -125,7 +125,11 @@
         "終戦が宣言された"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "1945年8月9日、長崎市に原子爆弾が投下されました。長崎は広島とともに核兵器廃絶と平和を世界に訴え続けています。"
+      "quizExplanation": "1945年8月9日、長崎市に原子爆弾が投下されました。長崎は広島とともに核兵器廃絶と平和を世界に訴え続けています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

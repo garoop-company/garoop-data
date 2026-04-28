@@ -125,7 +125,11 @@
         "オフィスの内観・設備紹介"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ピッチデッキは問題定義・解決策・市場規模・ビジネスモデル・チーム・調達額と用途がコアスライドです。"
+      "quizExplanation": "ピッチデッキは問題定義・解決策・市場規模・ビジネスモデル・チーム・調達額と用途がコアスライドです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

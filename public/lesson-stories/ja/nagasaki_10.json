@@ -125,7 +125,11 @@
         "人口を日本一にすること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "被爆都市として長崎市は毎年8月9日の平和祈念式典を開催し、核兵器廃絶と恒久平和の実現を国内外に発信し続けています。"
+      "quizExplanation": "被爆都市として長崎市は毎年8月9日の平和祈念式典を開催し、核兵器廃絶と恒久平和の実現を国内外に発信し続けています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

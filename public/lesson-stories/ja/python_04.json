@@ -125,7 +125,11 @@
         "repeat 5 times: print()"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "`range(1, 6)` は1〜5の整数を生成し、`for` ループで一つずつ取り出して処理します。"
+      "quizExplanation": "`range(1, 6)` は1〜5の整数を生成し、`for` ループで一つずつ取り出して処理します。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

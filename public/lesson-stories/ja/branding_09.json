@@ -125,7 +125,11 @@
         "フォント規定"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ブランドガイドラインはロゴ・色・フォント・トーンなど外見的統一ルールを定めます。給与情報は含みません。"
+      "quizExplanation": "ブランドガイドラインはロゴ・色・フォント・トーンなど外見的統一ルールを定めます。給与情報は含みません。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

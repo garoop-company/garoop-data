@@ -125,7 +125,11 @@
         "360度"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "どんな三角形でも3つの内角を足すと必ず180度になります。これは平面幾何の基本定理です。"
+      "quizExplanation": "どんな三角形でも3つの内角を足すと必ず180度になります。これは平面幾何の基本定理です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

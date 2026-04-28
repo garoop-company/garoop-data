@@ -125,7 +125,11 @@
         "バグを自動修正する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "GoFデザインパターン（Singleton・Observer等）は、よくある設計問題の解決策をまとめた共通語彙で、チーム開発の効率を上げます。"
+      "quizExplanation": "GoFデザインパターン（Singleton・Observer等）は、よくある設計問題の解決策をまとめた共通語彙で、チーム開発の効率を上げます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

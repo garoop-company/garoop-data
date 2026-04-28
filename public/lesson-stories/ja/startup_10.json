@@ -125,7 +125,11 @@
         "増資すること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ピボットはユーザーフィードバックやデータから学び、プロダクトや市場・ビジネスモデルを方向転換することです。"
+      "quizExplanation": "ピボットはユーザーフィードバックやデータから学び、プロダクトや市場・ビジネスモデルを方向転換することです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

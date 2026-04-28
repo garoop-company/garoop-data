@@ -125,7 +125,11 @@
         "広告費を減らす"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ブランディングは企業や製品の独自の価値・イメージを構築し、顧客との感情的なつながりを作ることです。"
+      "quizExplanation": "ブランディングは企業や製品の独自の価値・イメージを構築し、顧客との感情的なつながりを作ることです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

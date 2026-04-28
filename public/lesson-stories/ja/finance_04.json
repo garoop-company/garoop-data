@@ -125,7 +125,11 @@
         "元本は絶対に保証される"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "金融の大原則として、高いリターン（利益）を求めるほど元本を失うリスクも高くなります（ハイリスク・ハイリターン）。"
+      "quizExplanation": "金融の大原則として、高いリターン（利益）を求めるほど元本を失うリスクも高くなります（ハイリスク・ハイリターン）。",
+      "background": "classroom",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

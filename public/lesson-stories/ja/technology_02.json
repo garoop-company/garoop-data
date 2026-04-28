@@ -125,7 +125,11 @@
         "SNSの新しい名前"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "メタバースはアバターを使って仮想空間を歩き回り、他者と交流・ビジネス・エンターテインメントができる世界です。"
+      "quizExplanation": "メタバースはアバターを使って仮想空間を歩き回り、他者と交流・ビジネス・エンターテインメントができる世界です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

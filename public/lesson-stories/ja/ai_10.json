@@ -125,7 +125,11 @@
         "大量のお金を集める"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "AIプロジェクトは「何を解決したいか」という問題定義から始めることが最も重要です。"
+      "quizExplanation": "AIプロジェクトは「何を解決したいか」という問題定義から始めることが最も重要です。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

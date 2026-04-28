@@ -125,7 +125,11 @@
         "ウイルス対策"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ChatGPTはLarge Language Model（LLM）という大規模言語モデルを基盤としています。"
+      "quizExplanation": "ChatGPTはLarge Language Model（LLM）という大規模言語モデルを基盤としています。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

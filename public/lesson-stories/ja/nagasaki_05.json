@@ -125,7 +125,11 @@
         "春の桜祭り"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "長崎くんちは諏訪神社の秋の大祭で、龍踊りなど南蛮・中国文化が融合した独特の奉納踊りが有名です。"
+      "quizExplanation": "長崎くんちは諏訪神社の秋の大祭で、龍踊りなど南蛮・中国文化が融合した独特の奉納踊りが有名です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

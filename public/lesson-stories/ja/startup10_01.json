@@ -125,7 +125,11 @@
         "大人であること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "起業家に最も必要なのは資金や経験より、「問題を見つけて解決したい」という情熱と実行力です。"
+      "quizExplanation": "起業家に最も必要なのは資金や経験より、「問題を見つけて解決したい」という情熱と実行力です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

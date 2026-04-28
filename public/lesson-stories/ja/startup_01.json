@@ -125,7 +125,11 @@
         "設立年数"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "スタートアップはテクノロジーなどを活用して急速かつスケーラブルな成長を目指す点が中小企業と異なります。"
+      "quizExplanation": "スタートアップはテクノロジーなどを活用して急速かつスケーラブルな成長を目指す点が中小企業と異なります。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

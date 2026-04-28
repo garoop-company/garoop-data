@@ -125,7 +125,11 @@
         "コンピューターを冷やす技術"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "プロンプトエンジニアリングはAIに渡す指示文を最適化して、より良い回答を引き出すスキルです。"
+      "quizExplanation": "プロンプトエンジニアリングはAIに渡す指示文を最適化して、より良い回答を引き出すスキルです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "商品のキャラクター"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ペルソナは年齢・職業・悩み・生活習慣などを具体化した理想顧客の仮想像で、マーケティングの羅針盤になります。"
+      "quizExplanation": "ペルソナは年齢・職業・悩み・生活習慣などを具体化した理想顧客の仮想像で、マーケティングの羅針盤になります。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

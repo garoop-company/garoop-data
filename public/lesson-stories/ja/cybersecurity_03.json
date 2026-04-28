@@ -125,7 +125,11 @@
         "無料Wi-Fiを提供する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "フィッシングはメールや偽サイトで銀行・SNS等の本物を装い、パスワードやクレジットカード情報を騙し取る攻撃です。"
+      "quizExplanation": "フィッシングはメールや偽サイトで銀行・SNS等の本物を装い、パスワードやクレジットカード情報を騙し取る攻撃です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

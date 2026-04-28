@@ -125,7 +125,11 @@
         "a ÷ b = b ÷ a"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "結合法則は計算する順番を変えても結果が同じことで、足し算と掛け算に成り立ちます。"
+      "quizExplanation": "結合法則は計算する順番を変えても結果が同じことで、足し算と掛け算に成り立ちます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

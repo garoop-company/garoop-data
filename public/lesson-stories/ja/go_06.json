@@ -125,7 +125,11 @@
         "コメントの書き方"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ゴルーチンはOSスレッドより軽量な並行処理単位で、`go funcName()` と書くだけで起動できます。"
+      "quizExplanation": "ゴルーチンはOSスレッドより軽量な並行処理単位で、`go funcName()` と書くだけで起動できます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

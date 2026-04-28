@@ -125,7 +125,11 @@
         "AIが宇宙を征服する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "医療分野ではAIによる画像診断や新薬開発など、実用的な活用が進んでいます。"
+      "quizExplanation": "医療分野ではAIによる画像診断や新薬開発など、実用的な活用が進んでいます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

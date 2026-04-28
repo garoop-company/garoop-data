@@ -125,7 +125,11 @@
         "コンピューターが絵を鑑賞する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Midjourney・DALL-Eなどを使ったAI画像生成や、Suno等による楽曲生成が注目されています。"
+      "quizExplanation": "Midjourney・DALL-Eなどを使ったAI画像生成や、Suno等による楽曲生成が注目されています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

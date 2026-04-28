@@ -125,7 +125,11 @@
         "リスクがないから"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "地域密着型ビジネスは地元雇用を生み、税収増・コミュニティの活性化・地域課題の解決に直結します。"
+      "quizExplanation": "地域密着型ビジネスは地元雇用を生み、税収増・コミュニティの活性化・地域課題の解決に直結します。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

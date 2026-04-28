@@ -125,7 +125,11 @@
         "有名企業が作ったか"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ツール選定では「何をしたいか」という目的に合っているかが最優先です。"
+      "quizExplanation": "ツール選定では「何をしたいか」という目的に合っているかが最優先です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

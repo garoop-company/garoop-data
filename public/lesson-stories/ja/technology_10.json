@@ -125,7 +125,11 @@
         "自動車のデザイン変更"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "汎用AI（AGI）・量子コンピュータ・核融合などの突破口（ブレークスルー）が組み合わさると、産業・医療・エネルギー全体が激変すると予測されています。"
+      "quizExplanation": "汎用AI（AGI）・量子コンピュータ・核融合などの突破口（ブレークスルー）が組み合わさると、産業・医療・エネルギー全体が激変すると予測されています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

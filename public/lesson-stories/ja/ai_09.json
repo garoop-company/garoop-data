@@ -125,7 +125,11 @@
         "動画だけ"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "現代の生成AIは文章・画像・音楽・動画など多様なコンテンツを生成できます。"
+      "quizExplanation": "現代の生成AIは文章・画像・音楽・動画など多様なコンテンツを生成できます。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "観光地の入場が無料になる"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "インバウンド観光客は飲食・宿泊・交通・土産など幅広い分野で消費し、地域経済の活性化に貢献します。"
+      "quizExplanation": "インバウンド観光客は飲食・宿泊・交通・土産など幅広い分野で消費し、地域経済の活性化に貢献します。",
+      "background": "city",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

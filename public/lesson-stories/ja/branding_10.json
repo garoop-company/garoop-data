@@ -125,7 +125,11 @@
         "価格競争に勝つ"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "強いブランドはコアバリューの一貫性を守りながら、時代の変化に柔軟に対応して進化し続けます。"
+      "quizExplanation": "強いブランドはコアバリューの一貫性を守りながら、時代の変化に柔軟に対応して進化し続けます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

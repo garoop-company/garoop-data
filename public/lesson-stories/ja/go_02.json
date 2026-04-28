@@ -125,7 +125,11 @@
         ":: （ダブルコロン）"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Go言語では `x := 10` のように `:=` を使って型推論付きで変数を宣言できます。"
+      "quizExplanation": "Go言語では `x := 10` のように `:=` を使って型推論付きで変数を宣言できます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

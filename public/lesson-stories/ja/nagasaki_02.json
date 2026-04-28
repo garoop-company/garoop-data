@@ -125,7 +125,11 @@
         "朝鮮半島の料理"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ちゃんぽんは明治時代に中国人料理人が考案したとされ、豚骨スープに野菜・魚介・肉を入れた長崎の名物料理です。"
+      "quizExplanation": "ちゃんぽんは明治時代に中国人料理人が考案したとされ、豚骨スープに野菜・魚介・肉を入れた長崎の名物料理です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

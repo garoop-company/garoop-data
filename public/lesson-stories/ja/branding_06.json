@@ -125,7 +125,11 @@
         "有名人に依頼すること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "SNSブランディングは一貫性が命。見た目・言葉のトーン・発信頻度を統一することが信頼を築きます。"
+      "quizExplanation": "SNSブランディングは一貫性が命。見た目・言葉のトーン・発信頻度を統一することが信頼を築きます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

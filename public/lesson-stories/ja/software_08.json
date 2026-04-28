@@ -125,7 +125,11 @@
         "クラウドでしか使えない"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "コンテナはOSを共有しつつアプリの実行環境を分離するため、仮想マシンより軽量で起動が速いです。"
+      "quizExplanation": "コンテナはOSを共有しつつアプリの実行環境を分離するため、仮想マシンより軽量で起動が速いです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

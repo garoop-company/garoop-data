@@ -125,7 +125,11 @@
         "暗号化されているだけ"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ブロックチェーンは多数のノードにデータを分散・連鎖記録するため、一部を書き換えても他のノードと矛盾が生じ改ざんが困難です。"
+      "quizExplanation": "ブロックチェーンは多数のノードにデータを分散・連鎖記録するため、一部を書き換えても他のノードと矛盾が生じ改ざんが困難です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

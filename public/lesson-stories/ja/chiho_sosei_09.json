@@ -125,7 +125,11 @@
         "住民を監視する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "スマートシティはIoT・AIなどで交通渋滞・エネルギー・防災・医療などの課題を効率的に解決することを目指します。"
+      "quizExplanation": "スマートシティはIoT・AIなどで交通渋滞・エネルギー・防災・医療などの課題を効率的に解決することを目指します。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

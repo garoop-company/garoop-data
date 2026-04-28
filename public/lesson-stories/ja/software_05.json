@@ -125,7 +125,11 @@
         "GETしか使えない"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "REST APIはGET（取得）・POST（作成）・PUT（更新）・DELETE（削除）をHTTPメソッドに対応させたシンプルな設計原則です。"
+      "quizExplanation": "REST APIはGET（取得）・POST（作成）・PUT（更新）・DELETE（削除）をHTTPメソッドに対応させたシンプルな設計原則です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

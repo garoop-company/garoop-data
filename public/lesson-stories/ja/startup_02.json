@@ -125,7 +125,11 @@
         "ランダムに決める"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "優れたスタートアップは「誰かが困っていること（ペインポイント）」を見つけ、それを解決するプロダクトを作ります。"
+      "quizExplanation": "優れたスタートアップは「誰かが困っていること（ペインポイント）」を見つけ、それを解決するプロダクトを作ります。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

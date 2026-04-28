@@ -125,7 +125,11 @@
         "d->key"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "辞書は `d = {'name': 'Taro'}` のように作り、`d['name']` または `d.get('name')` で値を取得します。"
+      "quizExplanation": "辞書は `d = {'name': 'Taro'}` のように作り、`d['name']` または `d.get('name')` で値を取得します。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

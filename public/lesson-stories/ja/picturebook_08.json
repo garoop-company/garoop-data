@@ -125,7 +125,11 @@
         "印刷所を建てる"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "POD（注文が入るたびに1冊ずつ印刷）サービスを使えば、在庫リスクなく少部数から絵本を出版できます。"
+      "quizExplanation": "POD（注文が入るたびに1冊ずつ印刷）サービスを使えば、在庫リスクなく少部数から絵本を出版できます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

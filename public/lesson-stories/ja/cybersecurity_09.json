@@ -125,7 +125,11 @@
         "ランサムウェアを作成する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "倫理的ハッカーは組織の許可を得てシステムに侵入し、悪意ある攻撃者より先に脆弱性を見つけて修正します。"
+      "quizExplanation": "倫理的ハッカーは組織の許可を得てシステムに侵入し、悪意ある攻撃者より先に脆弱性を見つけて修正します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

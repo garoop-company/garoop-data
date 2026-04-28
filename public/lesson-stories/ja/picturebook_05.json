@@ -125,7 +125,11 @@
         "できるだけ少ない色を使う"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "子ども向け絵本では鮮やかな原色系が視覚的注目を集め、感情の伝達と記憶の定着に効果的とされています。"
+      "quizExplanation": "子ども向け絵本では鮮やかな原色系が視覚的注目を集め、感情の伝達と記憶の定着に効果的とされています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

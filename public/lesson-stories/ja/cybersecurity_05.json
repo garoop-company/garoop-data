@@ -125,7 +125,11 @@
         "回線を速くする"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ファイアウォールは定義されたルールに基づいてネットワーク通信を監視・制御し、不正なアクセスを防ぎます。"
+      "quizExplanation": "ファイアウォールは定義されたルールに基づいてネットワーク通信を監視・制御し、不正なアクセスを防ぎます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

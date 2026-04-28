@@ -125,7 +125,11 @@
         "A game difficulty level"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "A sprite is a 2D bitmap graphic used to represent characters, items, or backgrounds in 2D games."
+      "quizExplanation": "A sprite is a 2D bitmap graphic used to represent characters, items, or backgrounds in 2D games.",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

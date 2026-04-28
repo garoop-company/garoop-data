@@ -125,7 +125,11 @@
         "色文字を使わない"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "フォントの選択や字間・行間の調整でブランドの性格（エレガント・ポップ・信頼感など）を表現できます。"
+      "quizExplanation": "フォントの選択や字間・行間の調整でブランドの性格（エレガント・ポップ・信頼感など）を表現できます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

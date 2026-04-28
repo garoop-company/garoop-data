@@ -125,7 +125,11 @@
         "コードをコンパイルする"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "チャネルはゴルーチン間の通信パイプで、`make(chan int)` で作り `<-` でデータを送受信します。"
+      "quizExplanation": "チャネルはゴルーチン間の通信パイプで、`make(chan int)` で作り `<-` でデータを送受信します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "大きな予算"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "AIプロジェクトは問題の明確化・高品質なデータ・反復的な改善サイクルが成功の鍵です。"
+      "quizExplanation": "AIプロジェクトは問題の明確化・高品質なデータ・反復的な改善サイクルが成功の鍵です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "ハードウェアはコード"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ハードウェアはPC本体・CPU・メモリなどの物理機器、ソフトウェアはOSやアプリなどのプログラムとデータです。"
+      "quizExplanation": "ハードウェアはPC本体・CPU・メモリなどの物理機器、ソフトウェアはOSやアプリなどのプログラムとデータです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

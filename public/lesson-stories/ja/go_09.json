@@ -125,7 +125,11 @@
         "apt-get"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "GoはGo Modules（`go.mod`）でパッケージ管理を行い、`go get` でパッケージを追加します。"
+      "quizExplanation": "GoはGo Modules（`go.mod`）でパッケージ管理を行い、`go get` でパッケージを追加します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

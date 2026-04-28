@@ -125,7 +125,11 @@
         "安価に作れる"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "量子コンピュータは暗号解読・創薬・材料シミュレーションなど特定の問題で古典コンピュータを凌駕する性能を発揮します。"
+      "quizExplanation": "量子コンピュータは暗号解読・創薬・材料シミュレーションなど特定の問題で古典コンピュータを凌駕する性能を発揮します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

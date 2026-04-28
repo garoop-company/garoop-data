@@ -125,7 +125,11 @@
         "緑（グリーン）"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "青は信頼・誠実・安定を象徴し、銀行や医療・テクノロジー企業に多く使われます。"
+      "quizExplanation": "青は信頼・誠実・安定を象徴し、銀行や医療・テクノロジー企業に多く使われます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

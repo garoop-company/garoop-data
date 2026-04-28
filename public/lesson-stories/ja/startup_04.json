@@ -125,7 +125,11 @@
         "物理製品の販売"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "SaaSはインターネット経由でソフトウェアをサービスとして提供し、継続課金で安定した収益を得るモデルです。"
+      "quizExplanation": "SaaSはインターネット経由でソフトウェアをサービスとして提供し、継続課金で安定した収益を得るモデルです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

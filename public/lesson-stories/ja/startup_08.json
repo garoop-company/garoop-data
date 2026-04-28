@@ -125,7 +125,11 @@
         "競合がいない状態"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "PMFはユーザーが自発的にプロダクトを使い続け、口コミで広がるほど市場に受け入れられた状態を指します。"
+      "quizExplanation": "PMFはユーザーが自発的にプロダクトを使い続け、口コミで広がるほど市場に受け入れられた状態を指します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

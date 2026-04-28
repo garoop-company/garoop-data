@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "npm run validate:public && next dev --turbopack",
-    "build": "npm run validate:public && next build",
+    "dev": "npm run validate:public && npm run validate:stories && next dev --turbopack",
+    "build": "npm run validate:public && npm run validate:stories && next build",
     "start": "next start",
-    "validate:public": "node scripts/validate-public-json.mjs"
+    "validate:public": "node scripts/validate-public-json.mjs",
+    "validate:stories": "node scripts/validate-lesson-stories.mjs"
   },
   "dependencies": {
     "framer-motion": "^12.38.0",

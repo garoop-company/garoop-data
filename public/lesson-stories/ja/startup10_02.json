@@ -125,7 +125,11 @@
         "待っていること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "優れたビジネスアイデアは「自分や身近な人が感じる不便・不満」から生まれることが多いです。"
+      "quizExplanation": "優れたビジネスアイデアは「自分や身近な人が感じる不便・不満」から生まれることが多いです。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

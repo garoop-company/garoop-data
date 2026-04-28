@@ -125,7 +125,11 @@
         "ユーザーのパスワード"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "APIはアプリケーション・プログラミング・インターフェースの略で、AIの機能を自分のアプリから呼び出せます。"
+      "quizExplanation": "APIはアプリケーション・プログラミング・インターフェースの略で、AIの機能を自分のアプリから呼び出せます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

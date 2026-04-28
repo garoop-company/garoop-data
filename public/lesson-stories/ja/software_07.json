@@ -125,7 +125,11 @@
         "セキュリティを下げる"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "DevOpsは開発・テスト・デプロイのサイクルを自動化・高速化し、品質を保ちながら継続的にリリースする文化と実践です。"
+      "quizExplanation": "DevOpsは開発・テスト・デプロイのサイクルを自動化・高速化し、品質を保ちながら継続的にリリースする文化と実践です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

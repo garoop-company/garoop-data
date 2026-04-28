@@ -125,7 +125,11 @@
         "It automatically fixes bugs"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Playtesting lets real players try your game, revealing confusing mechanics, bugs, and balance issues you can't notice as the developer."
+      "quizExplanation": "Playtesting lets real players try your game, revealing confusing mechanics, bugs, and balance issues you can't notice as the developer.",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

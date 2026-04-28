@@ -124,7 +124,11 @@
         "算数は大学で習う"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "算数は日常的な計算・量・形を具体的に扱い、数学は抽象的な構造・論理・証明を扱う学問です。"
+      "quizExplanation": "算数は日常的な計算・量・形を具体的に扱い、数学は抽象的な構造・論理・証明を扱う学問です。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -124,7 +124,11 @@
         "宝くじの積立"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "緊急予備費は急な出費に対応するためのもので、流動性の高い普通預金口座に3〜6ヶ月分の生活費を置くのが基本です。"
+      "quizExplanation": "緊急予備費は急な出費に対応するためのもので、流動性の高い普通預金口座に3〜6ヶ月分の生活費を置くのが基本です。",
+      "background": "classroom",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

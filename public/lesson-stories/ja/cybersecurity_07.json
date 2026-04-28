@@ -125,7 +125,11 @@
         "バッテリーの残量"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "脆弱性はソフトウェアやシステムに潜む欠陥で、攻撃者に悪用されると不正侵入やデータ漏洩につながります。"
+      "quizExplanation": "脆弱性はソフトウェアやシステムに潜む欠陥で、攻撃者に悪用されると不正侵入やデータ漏洩につながります。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

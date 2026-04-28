@@ -125,7 +125,11 @@
         "CSSフレームワーク"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "DOM（Document Object Model）はHTMLをツリー構造で表したもので、JSから要素の取得・変更・追加・削除ができます。"
+      "quizExplanation": "DOM（Document Object Model）はHTMLをツリー構造で表したもので、JSから要素の取得・変更・追加・削除ができます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

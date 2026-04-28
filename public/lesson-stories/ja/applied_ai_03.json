@@ -125,7 +125,11 @@
         "会議の開催"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "AIはデータ分析による需要予測、RPA（ロボティック・プロセス・オートメーション）による業務自動化で活躍しています。"
+      "quizExplanation": "AIはデータ分析による需要予測、RPA（ロボティック・プロセス・オートメーション）による業務自動化で活躍しています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

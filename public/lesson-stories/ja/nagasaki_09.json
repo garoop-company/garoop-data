@@ -125,7 +125,11 @@
         "農業のみ"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "長崎は三菱重工など造船業の拠点であり、豊富な海産物を活かした水産業、そして歴史・文化を生かした観光業が主要産業です。"
+      "quizExplanation": "長崎は三菱重工など造船業の拠点であり、豊富な海産物を活かした水産業、そして歴史・文化を生かした観光業が主要産業です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

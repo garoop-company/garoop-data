@@ -125,7 +125,11 @@
         "貯金の総額"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "収支は「収入－支出」の差額。黒字（プラス）なら貯蓄できる状態、赤字（マイナス）は改善が必要です。"
+      "quizExplanation": "収支は「収入－支出」の差額。黒字（プラス）なら貯蓄できる状態、赤字（マイナス）は改善が必要です。",
+      "background": "classroom",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

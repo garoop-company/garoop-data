@@ -125,7 +125,11 @@
         "FIND data IN table"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "SQLの基本文は `SELECT * FROM users WHERE age > 18` のように SELECT・FROM・WHERE で構成されます。"
+      "quizExplanation": "SQLの基本文は `SELECT * FROM users WHERE age > 18` のように SELECT・FROM・WHERE で構成されます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

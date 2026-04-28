@@ -125,7 +125,11 @@
         "スライドを100枚用意する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ピッチは短く明確に「どんな問題を・どうやって解決するか・なぜ自分なのか」を伝えることが重要です。"
+      "quizExplanation": "ピッチは短く明確に「どんな問題を・どうやって解決するか・なぜ自分なのか」を伝えることが重要です。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

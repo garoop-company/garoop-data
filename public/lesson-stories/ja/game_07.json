@@ -125,7 +125,11 @@
         "Main Visual Project"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "In game development, MVP means Minimum Viable Product — the simplest playable version of your game idea used to test if the core concept is fun."
+      "quizExplanation": "In game development, MVP means Minimum Viable Product — the simplest playable version of your game idea used to test if the core concept is fun.",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

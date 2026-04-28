@@ -125,7 +125,11 @@
         "他の人のせいにする"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "レジリエンス（回復力）は失敗を否定するのではなく、学習の機会として捉え次の行動に活かす力です。"
+      "quizExplanation": "レジリエンス（回復力）は失敗を否定するのではなく、学習の機会として捉え次の行動に活かす力です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

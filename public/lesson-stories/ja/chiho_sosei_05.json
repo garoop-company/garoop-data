@@ -125,7 +125,11 @@
         "地方の学校を減らす"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "多くの自治体が移住支援金の給付、テレワークスペースの整備、空き家情報を提供する空き家バンクなどで移住を支援しています。"
+      "quizExplanation": "多くの自治体が移住支援金の給付、テレワークスペースの整備、空き家情報を提供する空き家バンクなどで移住を支援しています。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

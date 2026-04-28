@@ -125,7 +125,11 @@
         "AIが毎年賢くなる法則"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Intelの共同創業者ゴードン・ムーアが提唱。トランジスタの微細化により処理性能が約18〜24ヶ月で2倍になるとされます。"
+      "quizExplanation": "Intelの共同創業者ゴードン・ムーアが提唱。トランジスタの微細化により処理性能が約18〜24ヶ月で2倍になるとされます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

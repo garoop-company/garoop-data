@@ -125,7 +125,11 @@
         "全データを印刷する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ソフトウェアのアップデートには脆弱性のパッチが含まれており、最新状態を保つことが基本的かつ効果的な対策です。"
+      "quizExplanation": "ソフトウェアのアップデートには脆弱性のパッチが含まれており、最新状態を保つことが基本的かつ効果的な対策です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

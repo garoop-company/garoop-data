@@ -125,7 +125,11 @@
         "違いはない"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "配列は固定長（宣言後サイズ変更不可）ですが、スライスは `append` で要素を追加できる可変長の構造です。"
+      "quizExplanation": "配列は固定長（宣言後サイズ変更不可）ですが、スライスは `append` で要素を追加できる可変長の構造です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

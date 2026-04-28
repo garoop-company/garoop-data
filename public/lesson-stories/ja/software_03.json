@@ -125,7 +125,11 @@
         "インターネット不要で使える"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "クラウドはサーバーを所有せず従量課金で利用でき、需要に応じてリソースを柔軟に増減できます。"
+      "quizExplanation": "クラウドはサーバーを所有せず従量課金で利用でき、需要に応じてリソースを柔軟に増減できます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

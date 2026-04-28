@@ -125,7 +125,11 @@
         "グローバルスコープ"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "`__init__` はオブジェクト生成時に呼ばれる初期化メソッドで、`self.name = name` のようにインスタンス変数を定義します。"
+      "quizExplanation": "`__init__` はオブジェクト生成時に呼ばれる初期化メソッドで、`self.name = name` のようにインスタンス変数を定義します。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

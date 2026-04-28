@@ -125,7 +125,11 @@
         "太陽系"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ニューラルネットワークは人間の脳の神経細胞（ニューロン）のつながりを模倣して設計されています。"
+      "quizExplanation": "ニューラルネットワークは人間の脳の神経細胞（ニューロン）のつながりを模倣して設計されています。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "スパイウェア"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "マルウェアはウイルス・ランサムウェア・スパイウェアなど悪意のあるソフトウェアの総称。正規のメールアプリは含みません。"
+      "quizExplanation": "マルウェアはウイルス・ランサムウェア・スパイウェアなど悪意のあるソフトウェアの総称。正規のメールアプリは含みません。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

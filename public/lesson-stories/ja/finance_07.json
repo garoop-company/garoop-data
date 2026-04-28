@@ -125,7 +125,11 @@
         "銀行が管理する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "ビットコインはブロックチェーン技術により、特定の管理者なしに取引が記録・検証される分散型デジタル通貨です。"
+      "quizExplanation": "ビットコインはブロックチェーン技術により、特定の管理者なしに取引が記録・検証される分散型デジタル通貨です。",
+      "background": "city",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

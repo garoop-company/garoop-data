@@ -124,7 +124,11 @@
         "Webのみで使える"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Pythonは英語に近い読みやすい文法、科学計算・Web・AIなど豊富なライブラリが特徴の汎用言語です。"
+      "quizExplanation": "Pythonは英語に近い読みやすい文法、科学計算・Web・AIなど豊富なライブラリが特徴の汎用言語です。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

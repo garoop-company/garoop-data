@@ -125,7 +125,11 @@
         "冒頭と結末だけの構成"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "三幕構成は「始まり（問題提起）→中（葛藤・冒険）→終わり（解決・成長）」の普遍的なストーリー構造です。"
+      "quizExplanation": "三幕構成は「始まり（問題提起）→中（葛藤・冒険）→終わり（解決・成長）」の普遍的なストーリー構造です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

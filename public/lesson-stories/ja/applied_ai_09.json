@@ -125,7 +125,11 @@
         "AIで宇宙に移住する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "AIはエネルギーグリッドの最適化、気候モデルの予測精度向上などに活用されています。"
+      "quizExplanation": "AIはエネルギーグリッドの最適化、気候モデルの予測精度向上などに活用されています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

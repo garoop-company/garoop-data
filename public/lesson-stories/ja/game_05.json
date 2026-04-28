@@ -125,7 +125,11 @@
         "Fast Processing Speed"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "In game performance, FPS (Frames Per Second) measures how many frames are rendered each second — higher FPS means smoother gameplay."
+      "quizExplanation": "In game performance, FPS (Frames Per Second) measures how many frames are rendered each second — higher FPS means smoother gameplay.",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

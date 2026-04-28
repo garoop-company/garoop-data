@@ -125,7 +125,11 @@
         "x = 7"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "2x + 4 = 10 → 2x = 6 → x = 3"
+      "quizExplanation": "2x + 4 = 10 → 2x = 6 → x = 3",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

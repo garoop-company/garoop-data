@@ -125,7 +125,11 @@
         "Selling games to players"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "A game engine provides a ready-made framework with rendering, physics, audio, and scripting tools so developers don't build everything from scratch."
+      "quizExplanation": "A game engine provides a ready-made framework with rendering, physics, audio, and scripting tools so developers don't build everything from scratch.",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

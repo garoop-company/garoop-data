@@ -125,7 +125,11 @@
         "単位が異なるから"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "平均値は外れ値の影響を受けやすいですが、中央値は影響を受けにくいため、格差がある所得データなどで両者が大きく異なります。"
+      "quizExplanation": "平均値は外れ値の影響を受けやすいですが、中央値は影響を受けにくいため、格差がある所得データなどで両者が大きく異なります。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

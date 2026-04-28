@@ -125,7 +125,11 @@
         "ファイルを読む"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "structはC言語と同様に、関連するデータをまとめて一つの型として定義する機能です。"
+      "quizExplanation": "structはC言語と同様に、関連するデータをまとめて一つの型として定義する機能です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

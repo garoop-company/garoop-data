@@ -125,7 +125,11 @@
         "HTML tags"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "A game loop runs repeatedly every frame, updating game state and rendering graphics — iteration is its fundamental building block."
+      "quizExplanation": "A game loop runs repeatedly every frame, updating game state and rendering graphics — iteration is its fundamental building block.",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

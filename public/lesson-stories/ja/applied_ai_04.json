@@ -125,7 +125,11 @@
         "薬の調合"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "AIは大量の医療画像を学習し、CT・MRI・レントゲンの異常を高精度で検出できます。"
+      "quizExplanation": "AIは大量の医療画像を学習し、CT・MRI・レントゲンの異常を高精度で検出できます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

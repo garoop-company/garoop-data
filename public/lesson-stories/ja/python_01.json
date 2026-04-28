@@ -125,7 +125,11 @@
         "山括弧 < > を使う"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Pythonのリストは `my_list = [1, 2, 3]` のように `[ ]` で作ります。"
+      "quizExplanation": "Pythonのリストは `my_list = [1, 2, 3]` のように `[ ]` で作ります。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

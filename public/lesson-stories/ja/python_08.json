@@ -125,7 +125,11 @@
         "npm"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "`pip install pandas` のように pip コマンドでライブラリをインストール・管理します。"
+      "quizExplanation": "`pip install pandas` のように pip コマンドでライブラリをインストール・管理します。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

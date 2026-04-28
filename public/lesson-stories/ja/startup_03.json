@@ -125,7 +125,11 @@
         "Team Achievement Metric"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "TAM（Total Addressable Market）はプロダクトが対象にできる市場全体の規模を示し、ビジネスの成長ポテンシャルを測ります。"
+      "quizExplanation": "TAM（Total Addressable Market）はプロダクトが対象にできる市場全体の規模を示し、ビジネスの成長ポテンシャルを測ります。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

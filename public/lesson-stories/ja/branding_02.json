@@ -125,7 +125,11 @@
         "大きな文字"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "良いロゴはシンプルで記憶に残り、名刺からビルボードまで様々なサイズで使えることが重要です。"
+      "quizExplanation": "良いロゴはシンプルで記憶に残り、名刺からビルボードまで様々なサイズで使えることが重要です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

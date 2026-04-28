@@ -125,7 +125,11 @@
         "非同期処理専用"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "アロー関数は構文が短く、`this` が外側のスコープを参照する（レキシカルthis）という特徴があります。"
+      "quizExplanation": "アロー関数は構文が短く、`this` が外側のスコープを参照する（レキシカルthis）という特徴があります。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

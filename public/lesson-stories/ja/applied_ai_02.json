@@ -125,7 +125,11 @@
         "授業時間の延長"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "AIは各生徒の理解度・進捗に合わせた個別最適化学習を可能にします。"
+      "quizExplanation": "AIは各生徒の理解度・進捗に合わせた個別最適化学習を可能にします。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

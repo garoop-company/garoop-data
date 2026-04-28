@@ -125,7 +125,11 @@
         "ARはゲーム専用"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "AR（拡張現実）は現実の映像に仮想情報を重ねる技術、VR（仮想現実）は完全な仮想空間に没入する技術です。"
+      "quizExplanation": "AR（拡張現実）は現実の映像に仮想情報を重ねる技術、VR（仮想現実）は完全な仮想空間に没入する技術です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

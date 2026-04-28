@@ -125,7 +125,11 @@
         "政府に任せること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "若者のデジタルスキルや新しい発想は、地方の課題解決・情報発信・新ビジネス創出に大きな力を発揮します。"
+      "quizExplanation": "若者のデジタルスキルや新しい発想は、地方の課題解決・情報発信・新ビジネス創出に大きな力を発揮します。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

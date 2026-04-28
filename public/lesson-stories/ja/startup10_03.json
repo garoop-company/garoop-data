@@ -125,7 +125,11 @@
         "見た目を美しくすること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "MVPは「このアイデアは本当に求められているか？」を最速・最小コストで確かめるための実験的なプロダクトです。"
+      "quizExplanation": "MVPは「このアイデアは本当に求められているか？」を最速・最小コストで確かめるための実験的なプロダクトです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

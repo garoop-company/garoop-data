@@ -125,7 +125,11 @@
         "登場人物が多いこと"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "絵本の本質は絵と言葉が相互補完し、どちらが欠けても成り立たないシナジーを持つことです。"
+      "quizExplanation": "絵本の本質は絵と言葉が相互補完し、どちらが欠けても成り立たないシナジーを持つことです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

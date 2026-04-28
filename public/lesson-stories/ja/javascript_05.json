@@ -125,7 +125,11 @@
         "execute('click', 関数)"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "`element.addEventListener('click', handler)` でイベントリスナーを登録し、クリック時に `handler` 関数が呼ばれます。"
+      "quizExplanation": "`element.addEventListener('click', handler)` でイベントリスナーを登録し、クリック時に `handler` 関数が呼ばれます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "英検1級"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "セキュリティ分野ではCompTIA Security+・CISSP（公認情報システムセキュリティ専門家）・CEH（認定倫理ハッカー）などが評価されます。"
+      "quizExplanation": "セキュリティ分野ではCompTIA Security+・CISSP（公認情報システムセキュリティ専門家）・CEH（認定倫理ハッカー）などが評価されます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

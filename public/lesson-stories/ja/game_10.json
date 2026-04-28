@@ -125,7 +125,11 @@
         "A 3D photorealistic shooter"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Beginners should start with one simple mechanic — like Pong or Flappy Bird — to learn core concepts without being overwhelmed."
+      "quizExplanation": "Beginners should start with one simple mechanic — like Pong or Flappy Bird — to learn core concepts without being overwhelmed.",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

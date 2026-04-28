@@ -125,7 +125,11 @@
         "VCは無利子融資"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "エンジェル投資家は個人の資金でシード期に投資し、VCはファンドから集めた資金で主にシリーズA以降に投資します。"
+      "quizExplanation": "エンジェル投資家は個人の資金でシード期に投資し、VCはファンドから集めた資金で主にシリーズA以降に投資します。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

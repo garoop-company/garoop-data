@@ -125,7 +125,11 @@
         "パニックを使う"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "GoはJavaのtry-catchではなく、関数の戻り値にerror型を含め、呼び出し側が `if err != nil` でチェックするスタイルです。"
+      "quizExplanation": "GoはJavaのtry-catchではなく、関数の戻り値にerror型を含め、呼び出し側が `if err != nil` でチェックするスタイルです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

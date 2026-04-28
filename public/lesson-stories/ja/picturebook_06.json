@@ -125,7 +125,11 @@
         "文章を長く書ける"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "見開き（2ページをまたぐ大きな絵）はクライマックスや感動的な場面に使い、読者に「大きな体験」を与えます。"
+      "quizExplanation": "見開き（2ページをまたぐ大きな絵）はクライマックスや感動的な場面に使い、読者に「大きな体験」を与えます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "データを公開すること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "暗号化はデータを鍵がないと読めない形式に変換し、盗まれても内容が漏れないようにする技術です。"
+      "quizExplanation": "暗号化はデータを鍵がないと読めない形式に変換し、盗まれても内容が漏れないようにする技術です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "Dockerが必要"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Goの標準ライブラリ `net/http` だけで高性能なWebサーバーを構築できます。フレームワーク不要で始められます。"
+      "quizExplanation": "Goの標準ライブラリ `net/http` だけで高性能なWebサーバーを構築できます。フレームワーク不要で始められます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

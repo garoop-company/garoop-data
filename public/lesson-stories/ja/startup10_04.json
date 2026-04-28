@@ -125,7 +125,11 @@
         "テレビCMを作る"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "顧客インタビューや観察調査で「本当の課題」を把握することが、成功するプロダクト開発の出発点です。"
+      "quizExplanation": "顧客インタビューや観察調査で「本当の課題」を把握することが、成功するプロダクト開発の出発点です。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

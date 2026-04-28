@@ -125,7 +125,11 @@
         "load('file.txt')"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "`with open()` 文はファイルを自動的に閉じてくれるため安全で、Pythonのファイル操作の標準的な書き方です。"
+      "quizExplanation": "`with open()` 文はファイルを自動的に閉じてくれるため安全で、Pythonのファイル操作の標準的な書き方です。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

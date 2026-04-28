@@ -125,7 +125,11 @@
         "強い魔法の力"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "読者が共感するキャラクターは、はっきりした個性と達成したい目標、そして失敗や弱さを持っています。"
+      "quizExplanation": "読者が共感するキャラクターは、はっきりした個性と達成したい目標、そして失敗や弱さを持っています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

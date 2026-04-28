@@ -125,7 +125,11 @@
         "物理的な作業"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "AIは大量のデータからパターンを見つけることが最も得意です。"
+      "quizExplanation": "AIは大量のデータからパターンを見つけることが最も得意です。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

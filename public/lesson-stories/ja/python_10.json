@@ -125,7 +125,11 @@
         "ゲーム開発"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Flaskは軽量なWebフレームワークで、数行のコードでWebアプリやREST APIサーバーを構築できます。"
+      "quizExplanation": "Flaskは軽量なWebフレームワークで、数行のコードでWebアプリやREST APIサーバーを構築できます。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

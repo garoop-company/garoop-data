@@ -125,7 +125,11 @@
         "専門家だけができるから"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "長期投資は複利効果を最大化し、分散投資はリスクを複数の資産に分けることで一つの失敗が全体に与える影響を減らします。"
+      "quizExplanation": "長期投資は複利効果を最大化し、分散投資はリスクを複数の資産に分けることで一つの失敗が全体に与える影響を減らします。",
+      "background": "classroom",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

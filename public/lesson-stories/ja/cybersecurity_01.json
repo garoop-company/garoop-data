@@ -125,7 +125,11 @@
         "データを圧縮すること"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "サイバーセキュリティはデジタル情報・ネットワーク・システムを守るための技術・プロセス・実践の総称です。"
+      "quizExplanation": "サイバーセキュリティはデジタル情報・ネットワーク・システムを守るための技術・プロセス・実践の総称です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

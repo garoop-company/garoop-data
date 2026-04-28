@@ -125,7 +125,11 @@
         "値段を決める"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "絵本制作は「何を伝えたいか（テーマ）」「誰が主人公か」「どんな問題を解決するか」の3点を先に決めることが重要です。"
+      "quizExplanation": "絵本制作は「何を伝えたいか（テーマ）」「誰が主人公か」「どんな問題を解決するか」の3点を先に決めることが重要です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

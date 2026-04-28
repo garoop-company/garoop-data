@@ -125,7 +125,11 @@
         "テストが不要になる"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "マイクロサービスは機能を小さなサービスに分割するため、独立したデプロイ・スケール・障害の局所化が可能です。"
+      "quizExplanation": "マイクロサービスは機能を小さなサービスに分割するため、独立したデプロイ・スケール・障害の局所化が可能です。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "CSSを読み込む"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "`fetch('https://...')` でHTTPリクエストを送り、外部APIのJSONデータなどを取得できます。"
+      "quizExplanation": "`fetch('https://...')` でHTTPリクエストを送り、外部APIのJSONデータなどを取得できます。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

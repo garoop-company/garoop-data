@@ -125,7 +125,11 @@
         "海外に送金する"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "銀行は預金を集め、企業・個人に融資して利息収入を得るという仲介機能で利益を上げています。"
+      "quizExplanation": "銀行は預金を集め、企業・個人に融資して利息収入を得るという仲介機能で利益を上げています。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

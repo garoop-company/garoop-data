@@ -125,7 +125,11 @@
         "手書き記録の整理"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "スマート農業ではドローンによる農薬散布、センサーによる土壌管理、AIによる収量予測などが活用されています。"
+      "quizExplanation": "スマート農業ではドローンによる農薬散布、センサーによる土壌管理、AIによる収量予測などが活用されています。",
+      "background": "ocean",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

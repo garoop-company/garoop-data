@@ -125,7 +125,11 @@
         "CSSを制御するため"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Promiseとasync/awaitは、APIからのデータ取得などの非同期処理を、読みやすいコードで書くための仕組みです。"
+      "quizExplanation": "Promiseとasync/awaitは、APIからのデータ取得などの非同期処理を、読みやすいコードで書くための仕組みです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

@@ -125,7 +125,11 @@
         "作る・配る・集める"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "お金は①物と交換できる（交換手段）②価値を測れる（価値の尺度）③将来使うために蓄えられる（価値の保存）という3機能を持ちます。"
+      "quizExplanation": "お金は①物と交換できる（交換手段）②価値を測れる（価値の尺度）③将来使うために蓄えられる（価値の保存）という3機能を持ちます。",
+      "background": "city",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

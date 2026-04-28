@@ -125,7 +125,11 @@
         "外国人観光客だけを増やす"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "地方創生は地域の人口減少・経済縮小に歯止めをかけ、地域ごとの強みを活かして活力を生み出すことが目的です。"
+      "quizExplanation": "地方創生は地域の人口減少・経済縮小に歯止めをかけ、地域ごとの強みを活かして活力を生み出すことが目的です。",
+      "background": "city",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

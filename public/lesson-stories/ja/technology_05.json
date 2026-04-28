@@ -125,7 +125,11 @@
         "スマートフォンだけ"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "IoTは冷蔵庫・エアコン・センサー・工場設備などの「モノ」がインターネットにつながり、データを収集・活用する仕組みです。"
+      "quizExplanation": "IoTは冷蔵庫・エアコン・センサー・工場設備などの「モノ」がインターネットにつながり、データを収集・活用する仕組みです。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

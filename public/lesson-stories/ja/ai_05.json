@@ -125,7 +125,11 @@
         "専用の場所"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "画像認識AIは正解ラベルが付いた大量の画像データを使って学習します。"
+      "quizExplanation": "画像認識AIは正解ラベルが付いた大量の画像データを使って学習します。",
+      "background": "classroom",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

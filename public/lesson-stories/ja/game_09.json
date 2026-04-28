@@ -125,7 +125,11 @@
         "VLC Media Player"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "Unity and Godot are widely used game engines for 2D indie development, offering free tiers and large community support."
+      "quizExplanation": "Unity and Godot are widely used game engines for 2D indie development, offering free tiers and large community support.",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

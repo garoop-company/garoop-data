@@ -124,7 +124,11 @@
         "科学計算"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "JavaScriptはWebブラウザで動く唯一の公式プログラミング言語で、Webページのインタラクティブな動作を担います。"
+      "quizExplanation": "JavaScriptはWebブラウザで動く唯一の公式プログラミング言語で、Webページのインタラクティブな動作を担います。",
+      "background": "space",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,

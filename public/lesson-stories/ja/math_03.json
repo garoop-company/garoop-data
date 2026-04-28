@@ -125,7 +125,11 @@
         "2/6"
       ],
       "quizCorrectIndex": 0,
-      "quizExplanation": "通分して分母を6に揃えると 3/6 + 2/6 = 5/6 になります。"
+      "quizExplanation": "通分して分母を6に揃えると 3/6 + 2/6 = 5/6 になります。",
+      "background": "forest",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
     },
     {
       "id": 10,
