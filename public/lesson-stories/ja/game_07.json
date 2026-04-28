@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 1つの遊びに絞ったミニゲーム制作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "What does 'MVP' mean in indie game development?",
+      "quizChoices": [
+        "Minimum Viable Product — a basic playable version",
+        "Most Valuable Player",
+        "Maximum Video Performance",
+        "Main Visual Project"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "In game development, MVP means Minimum Viable Product — the simplest playable version of your game idea used to test if the core concept is fun."
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

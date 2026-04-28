@@ -115,6 +115,19 @@
       "highlight": "💡 あなたのアイデア × 🤖 AI = 🌍 変革"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "AIで作れるコンテンツとして正しいものは？",
+      "quizChoices": [
+        "文章・画像・音楽すべて",
+        "文章だけ",
+        "画像だけ",
+        "動画だけ"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "現代の生成AIは文章・画像・音楽・動画など多様なコンテンツを生成できます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

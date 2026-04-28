@@ -115,6 +115,19 @@
       "highlight": "BMC（Biz Model Canvas）：Alex Osterwalderが開発。世界中のスタートアップが使用"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "身近な問題からアイデアを見つけるコツは？",
+      "quizChoices": [
+        "「なぜ不便なのか」「もっと良くなれば？」と問い続けること",
+        "テレビを見ること",
+        "友達のアイデアをコピーすること",
+        "待っていること"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "優れたビジネスアイデアは「自分や身近な人が感じる不便・不満」から生まれることが多いです。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

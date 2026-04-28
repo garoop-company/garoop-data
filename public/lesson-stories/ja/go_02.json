@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: Goで動く小さなツールやサービス作り"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Go言語で変数を宣言する短縮形は？",
+      "quizChoices": [
+        ":=（コロンイコール）",
+        "== （ダブルイコール）",
+        "-> （アロー）",
+        ":: （ダブルコロン）"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Go言語では `x := 10` のように `:=` を使って型推論付きで変数を宣言できます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

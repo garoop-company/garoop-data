@@ -114,6 +114,19 @@
       "highlight": "💡 アイデア + 💻 スキル + ❤️ 熱意 = 成功！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "What is the most important element of a fun game?",
+      "quizChoices": [
+        "Engaging gameplay loop",
+        "High-end graphics",
+        "A famous developer",
+        "Expensive price"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "A fun game revolves around an engaging gameplay loop — the cycle of goals, challenges, feedback, and rewards that keeps players coming back."
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: AIを使った小さなサービス案や制作物の企画"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "医療AIが特に得意とすることは？",
+      "quizChoices": [
+        "医療画像（レントゲン等）の異常検出",
+        "患者との会話",
+        "手術の実施",
+        "薬の調合"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "AIは大量の医療画像を学習し、CT・MRI・レントゲンの異常を高精度で検出できます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

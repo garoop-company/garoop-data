@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: AIを使った小さなサービス案や制作物の企画"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "AI応用プロジェクトで成功の鍵は？",
+      "quizChoices": [
+        "課題定義・データ品質・継続改善",
+        "最高スペックのPC",
+        "多人数のチーム",
+        "大きな予算"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "AIプロジェクトは問題の明確化・高品質なデータ・反復的な改善サイクルが成功の鍵です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

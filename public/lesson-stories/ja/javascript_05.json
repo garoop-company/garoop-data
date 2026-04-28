@@ -115,6 +115,19 @@
       "highlight": "リアルタイムバリデーション！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "ボタンクリック時に関数を実行するには？",
+      "quizChoices": [
+        "addEventListener('click', 関数)",
+        "onClick = 関数名だけ書く",
+        "click.run(関数)",
+        "execute('click', 関数)"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "`element.addEventListener('click', handler)` でイベントリスナーを登録し、クリック時に `handler` 関数が呼ばれます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

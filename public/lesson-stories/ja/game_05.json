@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 1つの遊びに絞ったミニゲーム制作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "What does 'FPS' stand for in game performance?",
+      "quizChoices": [
+        "Frames Per Second",
+        "First Person Shooter",
+        "Final Play Score",
+        "Fast Processing Speed"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "In game performance, FPS (Frames Per Second) measures how many frames are rendered each second — higher FPS means smoother gameplay."
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

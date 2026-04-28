@@ -115,6 +115,19 @@
       "highlight": "ログ記録 = 日付 + 時刻 + メッセージ"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Pythonでテキストファイルを読み込む最も一般的な方法は？",
+      "quizChoices": [
+        "with open('file.txt', 'r') as f: 構文",
+        "read('file.txt')",
+        "import file",
+        "load('file.txt')"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "`with open()` 文はファイルを自動的に閉じてくれるため安全で、Pythonのファイル操作の標準的な書き方です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

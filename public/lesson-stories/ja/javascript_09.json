@@ -115,6 +115,19 @@
       "highlight": "To-Do追加・削除・完了 → 実践！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "ReactがJSライブラリとして解決する問題は？",
+      "quizChoices": [
+        "UIコンポーネントの再利用と状態管理の効率化",
+        "サーバーの高速化",
+        "データベース管理",
+        "ネットワークの暗号化"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Reactはコンポーネントベースで再利用可能なUIを構築し、仮想DOMで効率的な再描画を実現するライブラリです。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

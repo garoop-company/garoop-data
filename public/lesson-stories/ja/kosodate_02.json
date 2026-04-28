@@ -115,6 +115,24 @@
       "highlight": "週2時間以上の自然体験：健康・幸福感・創造性が顕著に向上（国際研究）"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ここが大事なところ！",
+      "background": "space",
+      "emoji": "🧠",
+      "quizQuestion": "脳のシナプスが最も急増する時期はいつ？",
+      "quizChoices": [
+        "0〜3歳",
+        "10〜15歳",
+        "20〜25歳",
+        "生まれる前"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "0〜3歳は脳の発達が最も著しい「黄金期」！この時期の刺激が一生の基盤になります"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

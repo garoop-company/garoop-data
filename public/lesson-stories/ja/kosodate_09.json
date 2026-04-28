@@ -115,6 +115,24 @@
       "highlight": "地方移住×起業：テレワーク＋農業・カフェ・民宿など地方ならではの仕事×育児が両立"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "地方子育てのメリット、覚えてる？",
+      "background": "bamboo",
+      "emoji": "🌾",
+      "quizQuestion": "農業体験が子供に与える最大の教育効果は？",
+      "quizChoices": [
+        "食への感謝と生命の大切さを学ぶ",
+        "学力が大きく上がる",
+        "都市に興味を持たなくなる",
+        "体力だけがつく"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "土に触れ、命を育てる体験が、食の大切さ・生命感・自然への感謝という非認知能力を育てます！"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

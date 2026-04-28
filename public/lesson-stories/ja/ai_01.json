@@ -115,6 +115,19 @@
       "highlight": "🏥医療 📚教育 🌱環境 🚀宇宙"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "AIが得意なことはどれ？",
+      "quizChoices": [
+        "大量データのパターン認識",
+        "道徳的判断",
+        "感情を感じること",
+        "物理的な作業"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "AIは大量のデータからパターンを見つけることが最も得意です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

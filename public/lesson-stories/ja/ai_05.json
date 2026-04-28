@@ -115,6 +115,19 @@
       "highlight": "🚗自動運転 🌾農業 🌊海洋 🏙️スマートシティ"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "画像認識AIを学習させるには何が必要？",
+      "quizChoices": [
+        "大量のラベル付き画像データ",
+        "高速インターネット",
+        "高価なカメラ",
+        "専用の場所"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "画像認識AIは正解ラベルが付いた大量の画像データを使って学習します。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

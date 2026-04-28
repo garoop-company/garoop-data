@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 未来の暮らしを技術で提案する企画"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "バイオテクノロジーの「CRISPR-Cas9」技術の役割は？",
+      "quizChoices": [
+        "ゲノム（DNA）を精密に編集する技術",
+        "タンパク質を製造する機械",
+        "ウイルスを作る技術",
+        "血液を分析する器具"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "CRISPR-Cas9は「ゲノム編集」技術で、DNAの特定箇所を切り貼りできます。遺伝病治療や品種改良への応用が期待されています。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: Goで動く小さなツールやサービス作り"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Go言語の関数で複数の戻り値を返す書き方は？",
+      "quizChoices": [
+        "戻り値の型をカンマ区切りで並べる",
+        "配列を使う必要がある",
+        "ポインタを使う",
+        "グローバル変数に代入する"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Goは `func div(a, b int) (int, error)` のように複数の戻り値を直接返せる独自の機能があります。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

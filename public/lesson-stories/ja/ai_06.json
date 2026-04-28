@@ -115,6 +115,19 @@
       "highlight": "🤖 AIの力 × 💪 人間の知恵 = 最強チーム"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "ChatGPTのような生成AIの基盤技術は？",
+      "quizChoices": [
+        "大規模言語モデル(LLM)",
+        "検索エンジン",
+        "データベース",
+        "ウイルス対策"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "ChatGPTはLarge Language Model（LLM）という大規模言語モデルを基盤としています。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

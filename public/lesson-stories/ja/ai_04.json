@@ -115,6 +115,19 @@
       "highlight": "次の単語予測 × 何億回 = 自然な文章"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "自然言語処理(NLP)が解決しようとする問題は？",
+      "quizChoices": [
+        "コンピューターが人間の言葉を理解する",
+        "コンピューターを速くする",
+        "画像を認識する",
+        "音楽を作る"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "NLPはコンピューターが人間の言語（テキストや音声）を理解・生成できるようにする技術分野です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

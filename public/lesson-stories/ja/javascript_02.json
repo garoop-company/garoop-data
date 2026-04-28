@@ -115,6 +115,19 @@
       "highlight": "動的型付け → 実行時に型が決まる"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "JavaScriptで変数宣言に使う現代的なキーワードは？",
+      "quizChoices": [
+        "let と const",
+        "var のみ",
+        "int と string",
+        "define と set"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "現代のJSでは再代入ありは `let`、再代入なしは `const` を使います。`var` はスコープの問題で非推奨です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

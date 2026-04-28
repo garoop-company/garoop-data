@@ -115,6 +115,19 @@
       "highlight": "テスト・株・割引 = 日常で使う！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "500円の20%はいくら？",
+      "quizChoices": [
+        "100円",
+        "20円",
+        "200円",
+        "50円"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "20% = 0.2 なので、500 × 0.2 = 100円です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

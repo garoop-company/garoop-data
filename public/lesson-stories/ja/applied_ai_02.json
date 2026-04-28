@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: AIを使った小さなサービス案や制作物の企画"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "AI×教育で期待される効果はどれ？",
+      "quizChoices": [
+        "一人ひとりに合った学習の個別最適化",
+        "先生が不要になる",
+        "試験の廃止",
+        "授業時間の延長"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "AIは各生徒の理解度・進捗に合わせた個別最適化学習を可能にします。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

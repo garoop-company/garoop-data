@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: Goで動く小さなツールやサービス作り"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Goのスライスと配列の違いは？",
+      "quizChoices": [
+        "スライスは長さが可変で配列は固定長",
+        "配列の方が速い",
+        "スライスは文字列専用",
+        "違いはない"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "配列は固定長（宣言後サイズ変更不可）ですが、スライスは `append` で要素を追加できる可変長の構造です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

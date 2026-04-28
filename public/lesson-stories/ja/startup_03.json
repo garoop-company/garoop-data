@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 身近な課題を解くサービス案づくり"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "市場調査で確認すべき「TAM」とは？",
+      "quizChoices": [
+        "Total Addressable Market（取り込める市場全体の規模）",
+        "Tax Accounting Method",
+        "Technical Analysis Model",
+        "Team Achievement Metric"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "TAM（Total Addressable Market）はプロダクトが対象にできる市場全体の規模を示し、ビジネスの成長ポテンシャルを測ります。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

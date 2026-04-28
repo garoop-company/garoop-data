@@ -115,6 +115,19 @@
       "highlight": "for i: → for j: → 掛け算表の完成"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Pythonで1〜5を順番に表示するループの書き方は？",
+      "quizChoices": [
+        "for i in range(1, 6): print(i)",
+        "for i = 1 to 5: print(i)",
+        "loop(1, 5) { print(i) }",
+        "repeat 5 times: print()"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "`range(1, 6)` は1〜5の整数を生成し、`for` ループで一つずつ取り出して処理します。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

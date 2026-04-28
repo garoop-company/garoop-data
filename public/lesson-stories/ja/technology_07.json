@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 未来の暮らしを技術で提案する企画"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "5Gが4Gと比べて最も改善された点は？",
+      "quizChoices": [
+        "超高速・超低遅延・多数同時接続",
+        "消費電力が半分になった",
+        "電波が遠くまで届くようになった",
+        "スマホが不要になった"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "5Gは最大20Gbpsの超高速通信、1ms以下の超低遅延、1km²に100万台接続できる大容量が特徴です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

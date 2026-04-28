@@ -115,6 +115,19 @@
       "highlight": "🤝 人間 × AI = 無限の可能性"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "2030年代に期待されるAIの活用分野はどれ？",
+      "quizChoices": [
+        "医療診断の精度向上",
+        "感情を持つAIロボット",
+        "AIが政府を運営する",
+        "AIが宇宙を征服する"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "医療分野ではAIによる画像診断や新薬開発など、実用的な活用が進んでいます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

@@ -115,6 +115,24 @@
       "highlight": "子育て支援に関わる全ての人：先生・保育士・医師・地域の人——社会全体で子育てを！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "10レッスン学んだ総まとめ！全部答えてね",
+      "background": "candy",
+      "emoji": "💕",
+      "quizQuestion": "子供の「自己肯定感」を育てるために最も大切なことは？",
+      "quizChoices": [
+        "無条件の愛（存在をそのまま肯定する）",
+        "厳しいしつけと高い期待",
+        "習い事をたくさんさせる",
+        "良い学校に入れる"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "「あなたはそのままで素晴らしい」という無条件の愛こそが、自己肯定感の土台！愛が最高の教育です"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

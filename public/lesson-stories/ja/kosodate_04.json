@@ -115,6 +115,24 @@
       "highlight": "一緒に料理をした子供：食への関心・野菜の摂取量が増加。偏食改善に効果的"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ごはんの大切さ、覚えてる？",
+      "background": "classroom",
+      "emoji": "🍳",
+      "quizQuestion": "子供の学力と最も強く関係があるのはどれ？",
+      "quizChoices": [
+        "朝食を毎日食べること",
+        "高い塾に通うこと",
+        "テレビを見ないこと",
+        "早起きすること"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "朝食を食べる子供は集中力・記憶力・学力が高いことが多くの研究で証明されています！"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

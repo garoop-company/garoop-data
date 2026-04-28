@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: チーム開発を意識した設計メモや試作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Gitで変更を記録するコマンドは？",
+      "quizChoices": [
+        "git commit",
+        "git save",
+        "git record",
+        "git update"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "`git commit -m 'メッセージ'` でステージング済みの変更をスナップショットとして記録します。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

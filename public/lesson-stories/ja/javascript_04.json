@@ -115,6 +115,19 @@
       "highlight": "count++ → 表示更新！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "DOMとは何？",
+      "quizChoices": [
+        "HTMLをプログラムで操作できるオブジェクト構造",
+        "データベース管理システム",
+        "デザインパターン",
+        "CSSフレームワーク"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "DOM（Document Object Model）はHTMLをツリー構造で表したもので、JSから要素の取得・変更・追加・削除ができます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

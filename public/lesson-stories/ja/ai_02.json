@@ -115,6 +115,19 @@
       "highlight": "🏥医療 💰金融 🌐翻訳 📸画像"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "機械学習でコンピューターは何をする？",
+      "quizChoices": [
+        "データから自動的に学ぶ",
+        "人間に命令される",
+        "インターネットを使う",
+        "電気を節約する"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "機械学習はデータを通じてコンピューターが自動的に学習し、改善していく技術です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

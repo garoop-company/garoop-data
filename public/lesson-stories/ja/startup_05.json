@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 身近な課題を解くサービス案づくり"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "MVPのMVPとは何の略？",
+      "quizChoices": [
+        "Minimum Viable Product（実用最小限の製品）",
+        "Most Valuable Player",
+        "Maximum Value Proposition",
+        "Modern Value Platform"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "MVPは仮説検証に必要な最小限の機能だけを持つプロダクトで、最短で市場の反応を確かめるために作ります。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

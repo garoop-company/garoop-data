@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 1つの遊びに絞ったミニゲーム制作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "What is a 'sprite' in 2D game development?",
+      "quizChoices": [
+        "A 2D image used to represent a character or object",
+        "A type of sound file",
+        "A programming error",
+        "A game difficulty level"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "A sprite is a 2D bitmap graphic used to represent characters, items, or backgrounds in 2D games."
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

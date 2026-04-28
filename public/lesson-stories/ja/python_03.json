@@ -115,6 +115,19 @@
       "highlight": "match 値:\n  case 'a': ...\n  case 'b': ..."
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Pythonのif文でインデント（字下げ）が必要な理由は？",
+      "quizChoices": [
+        "インデントでコードブロックを表す（波括弧の代わり）",
+        "美しく見せるため",
+        "コンパイルに必要だから",
+        "変数名と区別するため"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Pythonは `{ }` の代わりにインデントでブロックを表すため、インデントが間違えるとエラーになります。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

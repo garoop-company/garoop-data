@@ -115,6 +115,19 @@
       "highlight": "map/filter/reduce → 高階関数"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "アロー関数 `const add = (a, b) => a + b;` の特徴は？",
+      "quizChoices": [
+        "短く書けて `this` の束縛が異なる",
+        "速度が2倍になる",
+        "型チェックが自動になる",
+        "非同期処理専用"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "アロー関数は構文が短く、`this` が外側のスコープを参照する（レキシカルthis）という特徴があります。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

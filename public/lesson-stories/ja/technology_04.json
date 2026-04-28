@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 未来の暮らしを技術で提案する企画"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "ARとVRの違いは？",
+      "quizChoices": [
+        "ARは現実に仮想情報を重ねる、VRは完全な仮想空間に没入する",
+        "同じ技術の別名",
+        "ARは屋外専用、VRは室内専用",
+        "ARはゲーム専用"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "AR（拡張現実）は現実の映像に仮想情報を重ねる技術、VR（仮想現実）は完全な仮想空間に没入する技術です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

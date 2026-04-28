@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 1つの遊びに絞ったミニゲーム制作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "What does 'game design' primarily involve?",
+      "quizChoices": [
+        "Creating rules, systems, and player experiences",
+        "Drawing character art",
+        "Writing the game's code",
+        "Recording sound effects"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Game design focuses on defining rules, mechanics, and systems that create meaningful and enjoyable player experiences."
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

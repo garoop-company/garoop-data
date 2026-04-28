@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: Goで動く小さなツールやサービス作り"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Goのモジュール管理に使うコマンドは？",
+      "quizChoices": [
+        "go mod（go.modファイルで管理）",
+        "npm install",
+        "pip install",
+        "apt-get"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "GoはGo Modules（`go.mod`）でパッケージ管理を行い、`go get` でパッケージを追加します。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

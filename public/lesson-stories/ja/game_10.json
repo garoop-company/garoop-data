@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 1つの遊びに絞ったミニゲーム制作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "What is the best first game project for a beginner?",
+      "quizChoices": [
+        "A simple single-mechanic game like Pong or Flappy Bird",
+        "A massive open-world RPG",
+        "A multiplayer battle royale",
+        "A 3D photorealistic shooter"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Beginners should start with one simple mechanic — like Pong or Flappy Bird — to learn core concepts without being overwhelmed."
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

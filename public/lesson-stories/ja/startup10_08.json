@@ -115,6 +115,19 @@
       "highlight": "TikTokのバイラル効果：フォロワー0人でも10万回再生が起きる！コンテンツが命"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "10歳でも使えるビジネス向けデジタルツールはどれ？",
+      "quizChoices": [
+        "Canva（デザイン）・Notion（メモ）・Google Slides（発表）",
+        "Photoshop（高額）・AutoCAD（専門的）",
+        "Excelのみ",
+        "特になし"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Canva・Notion・Google Slides・Figmaなど多くの無料ツールが子どもでも使いやすいUIで提供されています。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

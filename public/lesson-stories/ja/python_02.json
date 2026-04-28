@@ -115,6 +115,19 @@
       "highlight": "MAX_SIZE = 100 → 変更しない値"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Pythonで変数に数値を代入する書き方は？",
+      "quizChoices": [
+        "x = 10（イコール記号）",
+        "x := 10",
+        "int x = 10",
+        "var x = 10"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Pythonは `x = 10` と書くだけで変数宣言と代入が同時にでき、型宣言が不要です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: チーム開発を意識した設計メモや試作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Dockerコンテナの特徴は？",
+      "quizChoices": [
+        "アプリと依存関係を一つのパッケージにして環境を統一する",
+        "仮想マシンより重い",
+        "OSを丸ごと含む",
+        "クラウドでしか使えない"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "コンテナはOSを共有しつつアプリの実行環境を分離するため、仮想マシンより軽量で起動が速いです。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

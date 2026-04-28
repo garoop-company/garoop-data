@@ -115,6 +115,24 @@
       "highlight": "文化によって異なる育児法：添い寝OK・NG、授乳期間など国によって全く違う"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "わかったかな？答えてみよう！",
+      "background": "candy",
+      "emoji": "🧠",
+      "quizQuestion": "「愛着理論」を提唱した心理学者は誰？",
+      "quizChoices": [
+        "ジョン・ボウルビィ",
+        "ジャン・ピアジェ",
+        "ジークムント・フロイト",
+        "バラス・スキナー"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "安心の基地があると子供は自信を持って挑戦できる！という愛着理論を提唱しました"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

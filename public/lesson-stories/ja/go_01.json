@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: Goで動く小さなツールやサービス作り"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Go言語が得意な用途はどれ？",
+      "quizChoices": [
+        "Webサーバー・クラウド・並行処理",
+        "機械学習モデルの学習",
+        "スマートフォンアプリ",
+        "ゲーム開発"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "GoはDockerやKubernetesなどの開発にも使われ、高速なWebサーバーや並行処理システムが得意です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

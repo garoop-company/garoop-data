@@ -115,6 +115,19 @@
       "highlight": "🐍 Python → 📊 ML → 🏆 Kaggle → 🌍 本番"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "AIプロジェクトを始める最初のステップは？",
+      "quizChoices": [
+        "解決したい問題を明確にする",
+        "高性能PCを買う",
+        "プログラミングを完全に習得する",
+        "大量のお金を集める"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "AIプロジェクトは「何を解決したいか」という問題定義から始めることが最も重要です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

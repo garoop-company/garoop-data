@@ -115,6 +115,19 @@
       "highlight": "お金 時間 料理 = 日常の計算！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "足し算の交換法則を表す式は？",
+      "quizChoices": [
+        "a + b = b + a",
+        "a + b = a × b",
+        "a - b = b - a",
+        "a ÷ b = b ÷ a"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "交換法則は順番を入れ替えても結果が変わらないことで、足し算と掛け算に成り立ちます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

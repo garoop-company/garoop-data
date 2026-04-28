@@ -115,6 +115,19 @@
       "highlight": "速さ・値段・年齢 → 方程式で解こう！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "一次方程式 2x + 4 = 10 の解は？",
+      "quizChoices": [
+        "x = 3",
+        "x = 5",
+        "x = 2",
+        "x = 7"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "2x + 4 = 10 → 2x = 6 → x = 3"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

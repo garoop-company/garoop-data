@@ -115,6 +115,24 @@
       "highlight": "自由時間の研究：計画されていない時間に子供の創造的活動・自己決定能力が最も発達"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "どれが正解かな？",
+      "background": "forest",
+      "emoji": "🎮",
+      "quizQuestion": "「やり抜く力（グリット）」を提唱した研究者は？",
+      "quizChoices": [
+        "アンジェラ・ダックワース",
+        "マリア・モンテッソーリ",
+        "キャロル・ドウェック",
+        "レフ・ヴィゴツキー"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "ダックワース博士は「情熱×継続力」が成功の最重要因子だと発見しました！"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

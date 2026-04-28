@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: AIを使った小さなサービス案や制作物の企画"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "生成AIが「生成」するものとして正しいのは？",
+      "quizChoices": [
+        "新しいコンテンツ（文章・画像など）",
+        "電気エネルギー",
+        "物理的な製品",
+        "自然の生き物"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "生成AIは学習データを基に新しい文章・画像・音楽などのコンテンツを生み出します。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

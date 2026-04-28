@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 1つの遊びに絞ったミニゲーム制作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "What does 'collision detection' do in a game?",
+      "quizChoices": [
+        "Checks if two objects are touching or overlapping",
+        "Detects player input",
+        "Loads game assets",
+        "Saves game progress"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Collision detection determines when game objects (players, enemies, bullets) touch each other so the game can respond appropriately."
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

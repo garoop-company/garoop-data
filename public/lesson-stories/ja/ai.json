@@ -115,6 +115,19 @@
       "highlight": "🔬 科学  🏥 医療  🌍 環境  🎓 教育"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "AIとはどういう意味？",
+      "quizChoices": [
+        "人工知能",
+        "自動識別",
+        "高度プログラム",
+        "電子頭脳"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "AIはArtificial Intelligence（人工知能）の略で、コンピューターが人間のように考える技術です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

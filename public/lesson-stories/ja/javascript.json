@@ -114,6 +114,19 @@
       "highlight": "📱 Webアプリ  🎮 ブラウザゲーム  🤖 Node.jsサーバー"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "JavaScriptが主に使われる場所は？",
+      "quizChoices": [
+        "Webブラウザ上での動的な処理",
+        "OS（Windows等）の開発",
+        "組み込みシステム",
+        "科学計算"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "JavaScriptはWebブラウザで動く唯一の公式プログラミング言語で、Webページのインタラクティブな動作を担います。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

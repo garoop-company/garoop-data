@@ -115,6 +115,19 @@
       "highlight": "os / sys / math / random → 標準装備！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Pythonのライブラリ管理に使うツールは？",
+      "quizChoices": [
+        "pip（pip install ライブラリ名）",
+        "brew",
+        "apt",
+        "npm"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "`pip install pandas` のように pip コマンドでライブラリをインストール・管理します。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

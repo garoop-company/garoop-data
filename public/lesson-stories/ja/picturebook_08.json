@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 誰か1人に届けるオリジナル絵本づくり"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "絵本を自費出版する最もハードルの低い方法は？",
+      "quizChoices": [
+        "PODサービス（print-on-demand）を利用する",
+        "大手出版社に持ち込む",
+        "10,000部印刷する",
+        "印刷所を建てる"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "POD（注文が入るたびに1冊ずつ印刷）サービスを使えば、在庫リスクなく少部数から絵本を出版できます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

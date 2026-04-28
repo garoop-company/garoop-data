@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: Goで動く小さなツールやサービス作り"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Goのチャネル（channel）の役割は？",
+      "quizChoices": [
+        "ゴルーチン間でデータを安全にやり取りする",
+        "ファイルを保存する",
+        "HTTPリクエストを送る",
+        "コードをコンパイルする"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "チャネルはゴルーチン間の通信パイプで、`make(chan int)` で作り `<-` でデータを送受信します。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

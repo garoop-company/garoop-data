@@ -115,6 +115,19 @@
       "highlight": "PokeAPI → 無料で使えるポケモンAPI！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "fetch APIを使う目的は？",
+      "quizChoices": [
+        "外部APIからデータを取得する（HTTPリクエスト）",
+        "ファイルをダウンロードする",
+        "画像を表示する",
+        "CSSを読み込む"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "`fetch('https://...')` でHTTPリクエストを送り、外部APIのJSONデータなどを取得できます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

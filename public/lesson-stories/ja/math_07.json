@@ -115,6 +115,19 @@
       "highlight": "天気・医療・ゲーム設計に活用！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "コインを2回投げて両方表が出る確率は？",
+      "quizChoices": [
+        "1/4（25%）",
+        "1/2（50%）",
+        "1/3（約33%）",
+        "3/4（75%）"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "各投げで表が出る確率は1/2。2回独立なので 1/2 × 1/2 = 1/4（25%）です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

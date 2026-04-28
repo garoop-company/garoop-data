@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 1つの遊びに絞ったミニゲーム制作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "What is a game engine primarily used for?",
+      "quizChoices": [
+        "Providing tools and frameworks to build games faster",
+        "Designing game art",
+        "Marketing games online",
+        "Selling games to players"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "A game engine provides a ready-made framework with rendering, physics, audio, and scripting tools so developers don't build everything from scratch."
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: Goで動く小さなツールやサービス作り"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "GoでシンプルなWebサーバーを作るには何を使う？",
+      "quizChoices": [
+        "net/httpパッケージ（標準ライブラリ）",
+        "外部フレームワーク必須",
+        "Pythonの併用が必要",
+        "Dockerが必要"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Goの標準ライブラリ `net/http` だけで高性能なWebサーバーを構築できます。フレームワーク不要で始められます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

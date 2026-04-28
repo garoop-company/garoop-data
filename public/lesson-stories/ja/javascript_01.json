@@ -115,6 +115,19 @@
       "highlight": "React Vue Node.js React Native"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "JavaScriptで文字列を表すのに使う記号は？",
+      "quizChoices": [
+        "引用符（' ' または \" \"）",
+        "角括弧（[ ]）",
+        "波括弧（{ }）",
+        "スラッシュ（/ /）"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "JavaScriptでは `'hello'` や `\"world\"` のようにシングルまたはダブルクォートで文字列を表します。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

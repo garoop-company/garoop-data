@@ -115,6 +115,19 @@
       "highlight": "GitHub → コード公開 → 世界とつながる！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "PythonプロジェクトでFlaskを使う目的は？",
+      "quizChoices": [
+        "シンプルなWebアプリ・APIサーバーの構築",
+        "データサイエンス",
+        "画像処理",
+        "ゲーム開発"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Flaskは軽量なWebフレームワークで、数行のコードでWebアプリやREST APIサーバーを構築できます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

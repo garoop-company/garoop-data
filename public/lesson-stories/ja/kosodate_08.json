@@ -115,6 +115,24 @@
       "highlight": "音楽＋運動（リズム教育）：数学能力・言語能力・協調運動能力を同時に高める"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "運動と脳、どれだけ覚えてる？",
+      "background": "dojo",
+      "emoji": "🏃",
+      "quizQuestion": "運動すると脳内で増加する「脳の栄養素」は？",
+      "quizChoices": [
+        "BDNF（脳由来神経栄養因子）",
+        "ATP（エネルギー物質）",
+        "セロトニン（幸福ホルモン）",
+        "コルチゾール（ストレスホルモン）"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "BDNFが増えると学習・記憶・集中力が一気に向上！運動は最高の脳トレです"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

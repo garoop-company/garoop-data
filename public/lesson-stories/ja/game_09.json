@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 1つの遊びに絞ったミニゲーム制作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Which game development tool is popular for 2D indie games?",
+      "quizChoices": [
+        "Unity or Godot",
+        "Photoshop",
+        "Excel",
+        "VLC Media Player"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Unity and Godot are widely used game engines for 2D indie development, offering free tiers and large community support."
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

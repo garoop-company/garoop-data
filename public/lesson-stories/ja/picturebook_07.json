@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 誰か1人に届けるオリジナル絵本づくり"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "AIで絵本を作る際の代表的なツールは？",
+      "quizChoices": [
+        "画像生成AI（Midjourney・DALL-E等）＋文章生成AI",
+        "Excelとメモ帳",
+        "ビデオ編集ソフト",
+        "3Dモデリングソフト"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Midjourney・DALL-Eなどの画像生成AIとChatGPTなどの文章生成AIを組み合わせて絵本を作成できます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

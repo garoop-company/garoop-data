@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: AIを使った小さなサービス案や制作物の企画"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "AI×サステナビリティの活用例として正しいのは？",
+      "quizChoices": [
+        "エネルギー消費の最適化・気候変動予測",
+        "AIで石油を増やす",
+        "AIで絶滅動物を復活させる",
+        "AIで宇宙に移住する"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "AIはエネルギーグリッドの最適化、気候モデルの予測精度向上などに活用されています。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

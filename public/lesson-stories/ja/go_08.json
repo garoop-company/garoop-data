@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: Goで動く小さなツールやサービス作り"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Goのエラー処理の慣習として正しいのは？",
+      "quizChoices": [
+        "関数がerror型を返し、呼び出し側でチェックする",
+        "try-catchを使う",
+        "エラーは無視する",
+        "パニックを使う"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "GoはJavaのtry-catchではなく、関数の戻り値にerror型を含め、呼び出し側が `if err != nil` でチェックするスタイルです。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

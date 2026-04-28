@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: AIを使った小さなサービス案や制作物の企画"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "ビジネスでAIが最も活用されている用途は？",
+      "quizChoices": [
+        "業務自動化と需要予測",
+        "社員の採用",
+        "オフィスの掃除",
+        "会議の開催"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "AIはデータ分析による需要予測、RPA（ロボティック・プロセス・オートメーション）による業務自動化で活躍しています。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

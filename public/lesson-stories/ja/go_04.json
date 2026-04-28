@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: Goで動く小さなツールやサービス作り"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Go言語の構造体（struct）の用途は？",
+      "quizChoices": [
+        "関連するフィールドをまとめてデータ型を定義する",
+        "ループを作る",
+        "エラーを処理する",
+        "ファイルを読む"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "structはC言語と同様に、関連するデータをまとめて一つの型として定義する機能です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

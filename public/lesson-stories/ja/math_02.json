@@ -115,6 +115,19 @@
       "highlight": "買い物・料理・時間 = 毎日使う！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "掛け算の結合法則を表す式は？",
+      "quizChoices": [
+        "(a × b) × c = a × (b × c)",
+        "a × b = a + b",
+        "a × 0 = a",
+        "a ÷ b = b ÷ a"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "結合法則は計算する順番を変えても結果が同じことで、足し算と掛け算に成り立ちます。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

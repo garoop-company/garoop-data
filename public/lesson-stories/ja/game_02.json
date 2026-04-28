@@ -115,6 +115,19 @@
       "highlight": "仕上げの課題: 1つの遊びに絞ったミニゲーム制作"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "What programming concept is essential for game loops?",
+      "quizChoices": [
+        "Iteration (repeating code each frame)",
+        "Sorting algorithms",
+        "Database queries",
+        "HTML tags"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "A game loop runs repeatedly every frame, updating game state and rendering graphics — iteration is its fundamental building block."
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

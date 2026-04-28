@@ -115,6 +115,19 @@
       "highlight": "基礎 → 応用 → プロジェクト → プロ！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Pythonでリストを作る書き方は？",
+      "quizChoices": [
+        "角括弧 [ ] を使う",
+        "波括弧 { } を使う",
+        "丸括弧 ( ) を使う",
+        "山括弧 < > を使う"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Pythonのリストは `my_list = [1, 2, 3]` のように `[ ]` で作ります。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

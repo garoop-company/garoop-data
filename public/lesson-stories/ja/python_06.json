@@ -115,6 +115,19 @@
       "highlight": "リスト・辞書・タプル・セット → 目的で選ぶ！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Pythonの辞書（dict）でキーと値を取り出す方法は？",
+      "quizChoices": [
+        "d['key'] または d.get('key')",
+        "d.find('key')",
+        "d.search('key')",
+        "d->key"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "辞書は `d = {'name': 'Taro'}` のように作り、`d['name']` または `d.get('name')` で値を取得します。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

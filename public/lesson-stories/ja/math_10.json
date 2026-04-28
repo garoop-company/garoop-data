@@ -115,6 +115,19 @@
       "highlight": "数学 → データサイエンス → AI → 未来！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "数学が日常生活で使われている例は？",
+      "quizChoices": [
+        "ローンの利息計算・気象予報・GPS位置計算",
+        "映画を見ること",
+        "食事をすること",
+        "睡眠をとること"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "数学は金融（利息・統計）・科学（気象・物理）・IT（暗号・GPS）など日常のあらゆる場所で活用されています。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

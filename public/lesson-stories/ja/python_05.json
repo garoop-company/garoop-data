@@ -115,6 +115,19 @@
       "highlight": "1関数1役割 + 分かりやすい名前 = 良いコード"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Pythonの関数定義に使うキーワードは？",
+      "quizChoices": [
+        "def",
+        "function",
+        "fun",
+        "proc"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Pythonでは `def my_function(引数):` と書いて関数を定義します。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

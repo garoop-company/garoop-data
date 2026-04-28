@@ -115,6 +115,24 @@
       "highlight": "就寝前の読み聞かせ：語彙力・共感力・想像力・親子の絆形成に効果（研究多数）"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "感情のこと、どれだけ覚えてるかな？",
+      "background": "candy",
+      "emoji": "💕",
+      "quizQuestion": "「EQ（感情知性）」という概念を広めた心理学者は？",
+      "quizChoices": [
+        "ダニエル・ゴールマン",
+        "アブラハム・マズロー",
+        "ジャン・ピアジェ",
+        "カール・ロジャーズ"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "ゴールマンは「EQはIQより人生の成功を予測する」と示し、世界に感情教育の重要性を広めました！"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

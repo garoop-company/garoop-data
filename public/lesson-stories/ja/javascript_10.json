@@ -115,6 +115,19 @@
       "highlight": "GitHub Pages → 無料でWeb公開！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "JavaScriptプロジェクトで `package.json` の役割は？",
+      "quizChoices": [
+        "依存パッケージとプロジェクト設定を管理する",
+        "HTMLの構造を定義する",
+        "CSSスタイルを記述する",
+        "サーバーを起動する"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "`package.json` はプロジェクト名・バージョン・依存ライブラリ（npm packages）・スクリプトなどを管理するファイルです。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

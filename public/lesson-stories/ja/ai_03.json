@@ -115,6 +115,19 @@
       "highlight": "🗣️ 文章 → RNN → 翻訳・生成"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "ニューラルネットワークのモデルは何から着想を得た？",
+      "quizChoices": [
+        "人間の脳の神経回路",
+        "蜂の巣",
+        "川の流れ",
+        "太陽系"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "ニューラルネットワークは人間の脳の神経細胞（ニューロン）のつながりを模倣して設計されています。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

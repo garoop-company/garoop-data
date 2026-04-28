@@ -115,6 +115,19 @@
       "highlight": "建築・設計・料理で使う！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "半径3cmの円の面積は？（π≒3.14）",
+      "quizChoices": [
+        "約28.26 cm²",
+        "約18.84 cm²",
+        "約9 cm²",
+        "約56.52 cm²"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "円の面積 = π × r² = 3.14 × 3² = 3.14 × 9 ≒ 28.26 cm²"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

@@ -115,6 +115,19 @@
       "highlight": "fetch API_URL → 天気データ取得！"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Promiseとasync/awaitの目的は？",
+      "quizChoices": [
+        "非同期処理を扱いやすく書くため",
+        "ループを速くするため",
+        "型を厳密にするため",
+        "CSSを制御するため"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Promiseとasync/awaitは、APIからのデータ取得などの非同期処理を、読みやすいコードで書くための仕組みです。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

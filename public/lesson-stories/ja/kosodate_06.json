@@ -115,6 +115,24 @@
       "highlight": "育児アプリ活用：授乳・睡眠記録・発達チェックなどデジタルサポートで親の負担軽減"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "スクリーンタイム、覚えてる？",
+      "background": "city",
+      "emoji": "📱",
+      "quizQuestion": "WHOが推奨する2〜5歳のスクリーンタイムの上限は？",
+      "quizChoices": [
+        "1時間以内/日",
+        "3時間以内/日",
+        "制限なし",
+        "30分以内/日"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "WHO（世界保健機関）は2〜5歳のスクリーンタイムを1日1時間以内に制限することを推奨しています"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

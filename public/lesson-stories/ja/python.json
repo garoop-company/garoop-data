@@ -114,6 +114,19 @@
       "highlight": "🎮 ゲーム  🌐 Web  🤖 AI  📊 データ分析"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Pythonの特徴として正しいのは？",
+      "quizChoices": [
+        "読みやすい文法・豊富なライブラリ・多用途",
+        "最も速い実行速度",
+        "ゲーム開発専用",
+        "Webのみで使える"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Pythonは英語に近い読みやすい文法、科学計算・Web・AIなど豊富なライブラリが特徴の汎用言語です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

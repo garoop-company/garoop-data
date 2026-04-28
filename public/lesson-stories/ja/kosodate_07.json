@@ -115,6 +115,24 @@
       "highlight": "親の国際経験：子供の多文化受容度・外国語学習意欲と正の相関関係"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "グローバルな子育て、チェックしよう！",
+      "background": "ocean",
+      "emoji": "🌍",
+      "quizQuestion": "バイリンガル教育の効果が最も高いのはいつから始める？",
+      "quizChoices": [
+        "できるだけ早い時期（0歳〜）",
+        "小学校入学後（6歳〜）",
+        "中学校入学後",
+        "大学入学後"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "言語の「臨界期」は0〜7歳！早ければ早いほど母国語と同じように言語を習得できます"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,

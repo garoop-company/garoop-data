@@ -115,6 +115,19 @@
       "highlight": "Simon Sinek「WHYから始めよ」：偉大な組織・リーダーはWHYから行動する"
     },
     {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "失敗から学ぶために大切なことは？",
+      "quizChoices": [
+        "何がうまくいかなかったかを分析して次に活かす",
+        "失敗を隠す",
+        "すぐに諦める",
+        "他の人のせいにする"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "レジリエンス（回復力）は失敗を否定するのではなく、学習の機会として捉え次の行動に活かす力です。"
+    },
+    {
       "id": 10,
       "type": "outro",
       "duration": 0,
