@@ -1,0 +1,105 @@
+{
+  "title": "Figma Design Mission",
+  "description": "A spy mission to design an app screen in Figma!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Design Agent! Today we design an app screen in Figma! 🎨",
+      "title": "Mission: Figma Op",
+      "content": "Mission: design one app screen using Figma. Three success conditions: state the purpose in one sentence, follow the 3-color rule, sign your name somewhere.",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Figma is a free design tool!",
+      "title": "What's Figma?",
+      "content": "Figma is a browser-based design tool. You can build app screens, websites, logos, posters — even with teammates simultaneously.",
+      "emoji": "🖌️",
+      "highlight": "Make in Figma:\n- App screens\n- Logos\n- Posters\n- Coediting"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "Place a 'frame' first!",
+      "title": "Place a Frame",
+      "content": "Press F to select Frame, pick an iPhone or desktop size. This is the canvas for your design.",
+      "emoji": "📱",
+      "highlight": "Frame steps:\n1. F key\n2. Pick size\n3. Place"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "Lay out with text and shapes!",
+      "title": "Add Elements",
+      "content": "T for text, R for rectangle. Place a title, description, and button — and you have a basic app screen.",
+      "emoji": "📝",
+      "highlight": "Shortcuts:\nT = text\nR = rect\nO = circle"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "Use the 3-color rule!",
+      "title": "Operation: Colors",
+      "content": "Pick main, sub, and accent. With three colors the layout feels unified. Stuck? Try sites like Color Hunt for palettes.",
+      "emoji": "🎨",
+      "highlight": "3-color hint:\n- Main 70%\n- Sub 25%\n- Accent 5%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "Alignment and spacing decide cleanliness!",
+      "title": "Polish It",
+      "content": "Auto Layout aligns elements automatically. Even spacing alone makes the design feel pro.",
+      "emoji": "📏",
+      "highlight": "3 polish moves:\n- Align\n- Equal gaps\n- Auto Layout"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Get the share link when done!",
+      "title": "Share It",
+      "content": "The Share button (top right) gives a link. Show family or friends and ask for one piece of feedback.",
+      "emoji": "🔗",
+      "highlight": "Share tips:\n- View-only\n- URL\n- Ask 1 reaction"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "Mission complete! Submit a screenshot for 500 points 🚀",
+      "title": "Mission Complete!",
+      "content": "Done means you can describe your design in a minute: who it's for and what feeling you wanted.",
+      "emoji": "🚀"
+    }
+  ]
+}

@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Cấu trúc slide",
+      "speech": "Slide đi 'mở → thân → kết'! 📊",
+      "emoji": "📊",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Nói thông điệp, giải thích, nhắc lại. Đơn giản mà mạnh.",
+      "highlight": "Cấu trúc 3:\n1. Mở (cuốn hút)\n2. Thân (chi tiết)\n3. Kết (đọng)"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Dùng hiệu ứng khéo",
+      "speech": "Ít chuyển động, sang hơn! ✨",
+      "emoji": "✨",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Giới hạn hiệu ứng một mỗi slide. Quá nhiều khó đọc; tiết chế tạo ấn tượng.",
+      "highlight": "Quy tắc:\n- 1 mỗi slide\n- Chỉ khi có ý nghĩa\n- Tránh hoa lá"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "कट विभाजन",
+      "speech": "कट विभाजनले भिडियोमा लय आउँछ गाल्! 🎬",
+      "emoji": "🎬",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "उही दृश्य लामो भयो भने दिक्क लाग्छ। ३–५ सेकेन्डमा कोण वा दृश्य बदल्दा हेरिरहन मन लाग्ने भिडियो बन्छ।",
+      "highlight": "कट सुझाव:\n• ३–५ से.मा\n• कोण फेर्ने\n• आकार फेर्ने"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "BGM छनोट",
+      "speech": "BGM ले भिडियोको भावना तय गर्छ गाल्! 🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "उज्यालो धुन = ऊर्जा, शान्त = भावुक, छिटो = साहसिक। दृश्य र भावना मिलाउनु पेसेवर रहस्य।",
+      "highlight": "BGM छनोट:\n• गति मिलाउने\n• भावना मिलाउने\n• शब्द कम राख्ने"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

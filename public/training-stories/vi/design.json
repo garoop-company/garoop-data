@@ -1,0 +1,105 @@
+{
+  "title": "Luyện thiết kế",
+  "description": "Rèn khả năng truyền cảm xúc bằng màu sắc và hình khối!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chào mừng đến lò luyện thiết kế! Truyền cảm xúc bằng màu và hình 🎨",
+      "background": "mountain",
+      "title": "Lò luyện thiết kế",
+      "content": "Luyện thiết kế không phải để vẽ giỏi, mà để 'thiết kế cảm xúc người xem'. Trước hết, quyết 'nói với ai' và 'muốn họ cảm thấy gì'.",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Mỗi màu mang một 'cảm xúc'!",
+      "background": "dojo",
+      "title": "Ý nghĩa màu",
+      "content": "Đỏ = nhiệt huyết / cảnh báo, xanh dương = tin cậy / điềm tĩnh, xanh lá = thiên nhiên / an tâm, vàng = năng lượng / chú ý. Chọn màu hợp cảm xúc, người xem cảm nhận ngay.",
+      "emoji": "🎨",
+      "highlight": "Màu và cảm xúc:\n- Đỏ = nhiệt huyết\n- Xanh dương = tin cậy\n- Xanh lá = an tâm\n- Vàng = năng lượng"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tối đa 3 màu trông sạch nhất!",
+      "background": "bamboo",
+      "title": "Quy tắc 3 màu",
+      "content": "Giới hạn ở màu chính, màu phụ, màu nhấn — nhiều nhất 3. Để màu nhấn dưới 10% tổng thể giúp nó nổi bật mà không lấn át.",
+      "emoji": "🌈",
+      "highlight": "Tỉ lệ vàng:\n- Chính 70%\n- Phụ 25%\n- Nhấn 5%"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "'Khoảng trống' cũng là một phần thiết kế!",
+      "background": "mountain",
+      "title": "Sức mạnh khoảng trống",
+      "content": "Nhồi nhét thông tin sẽ không ai đọc. Khoảng trống cho mắt nghỉ và phần cần khoe nổi lên. Chỉ cần chừa chút khoảng quanh chữ và hình là cảm giác khác hẳn.",
+      "emoji": "⬜",
+      "highlight": "Tác dụng khoảng trống:\n- Dễ đọc\n- Phần quan trọng nổi bật\n- Trông sang"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chỉ cần 'căn chỉnh' là trông chuyên nghiệp!",
+      "background": "dojo",
+      "title": "Phép màu căn chỉnh",
+      "content": "Căn chỉnh chữ và hình theo trái hoặc giữa thật chỉn chu là thiết kế trông chuyên nghiệp ngay. Bí quyết là theo lưới vô hình.",
+      "emoji": "📏",
+      "highlight": "Cách căn:\n- Căn trái\n- Căn giữa\n- Theo lưới"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Dùng 'chênh lệch kích thước' để chỉ ra điểm quan trọng!",
+      "background": "mountain",
+      "title": "Phân cấp theo kích thước",
+      "content": "Tiêu đề lớn, thân chữ nhỏ. Chênh lệch rõ ràng cho người xem biết phải nhìn vào đâu trước. Chênh lệch nhỏ thì 'tất cả như nhau' về tầm quan trọng.",
+      "emoji": "📊",
+      "highlight": "Chênh lệch kích thước:\n- Tiêu đề: lớn\n- Tiêu phụ: vừa\n- Thân: nhỏ"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Thử thách hôm nay: 'thiết kế danh thiếp của riêng bạn'!",
+      "background": "bamboo",
+      "title": "Danh thiếp của tôi",
+      "content": "Đặt tên, sở thích, ước mơ — 3 yếu tố, áp dụng quy tắc 3 màu và căn chỉnh, làm danh thiếp. Canva hay Figma giúp ra kết quả nhanh.",
+      "emoji": "💳",
+      "highlight": "3 yếu tố trên thiệp:\n- Tên\n- Sở thích\n- Ước mơ"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Vất vả rồi! Hãy làm thế giới đẹp hơn 🌟",
+      "background": "temple",
+      "title": "Hoàn thành luyện tập!",
+      "content": "Thiết kế không chỉ là cái đẹp; đó là công cụ giúp thông điệp đến nơi. Đưa danh thiếp hôm nay cho 1 người và lắng nghe cảm nhận của họ.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

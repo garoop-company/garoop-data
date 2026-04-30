@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "幻灯片结构",
+      "speech": "幻灯片走「开头→主体→结尾」3段加鲁📊",
+      "emoji": "📊",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "先点明要传达什么，中间详细说明，最后再次结论。简单但强劲的结构。",
+      "highlight": "3段结构：\n1. 开头（抓住）\n2. 主体（详细）\n3. 结尾（留存）"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "巧用动画",
+      "speech": "动画少才高级加鲁✨",
+      "emoji": "✨",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "动画每页只用1个。过多影响阅读，少则有印象。",
+      "highlight": "动画原则：\n・每页1个\n・有意义才用\n・避免花哨"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

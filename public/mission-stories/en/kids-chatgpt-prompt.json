@@ -1,0 +1,105 @@
+{
+  "title": "ChatGPT Prompt Mission",
+  "description": "A spy mission to master asking ChatGPT the right way!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Prompt Agent! Today's mission is to ask ChatGPT smartly! 🕵️💬",
+      "background": "lab",
+      "title": "Mission Briefing: Prompt Operation",
+      "content": "Your task is to get the answer you really want from ChatGPT. Three success conditions: state the goal in one sentence, specify the audience and format, and produce two versions to compare.",
+      "emoji": "💬",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "A prompt is how you 'ask the AI'. The wording changes everything!",
+      "background": "spy",
+      "title": "What is a Prompt?",
+      "content": "A prompt is the instruction you send to the AI. Adding 'who is this for', 'how long', and 'what format' to the same question changes the quality of the answer dramatically.",
+      "emoji": "📝",
+      "highlight": "Things that make a difference:\n- Audience (who?)\n- Length (how many words?)\n- Format (bullets? paragraph?)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "The basics of a good prompt are 5W1H! Decide them in order!",
+      "background": "hq",
+      "title": "Design with 5W1H",
+      "content": "Who, What, Why, When/Where, How — deciding these first leaves no room for the AI to guess. The clearer your inputs, the sharper the output.",
+      "emoji": "🧭",
+      "highlight": "5W1H check:\n- Who: for elementary school kids\n- What: ideas for a free study project\n- How: 5 ideas as bullet points"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Asking the AI to 'play a role' totally changes the answer!",
+      "background": "spy",
+      "title": "Role Prompts",
+      "content": "When you say 'You are an elementary school teacher,' the AI matches that voice and audience. Pick a role that fits the goal — teacher, editor, coach, expert.",
+      "emoji": "🎭",
+      "highlight": "Role examples:\n- Teacher (gentle explanation)\n- Editor (cut to the point)\n- Coach (encourage me)"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Try sending two prompts on the same topic — short vs. detailed!",
+      "background": "lab",
+      "title": "Operation: A/B Compare",
+      "content": "Compare a short prompt against a detailed one on the same topic. Lay both replies side-by-side and note which one fits the goal better.",
+      "emoji": "🧪",
+      "highlight": "Compare:\nA: 'Give me free study ideas'\nB: 'For 4th graders, doable in 3 days, science-based, list 5 in bullets'"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "You don't need a perfect first try! Refine it with follow-ups!",
+      "background": "hq",
+      "title": "Follow-up Prompts",
+      "content": "After the first answer, ask 'shorter please', 'in middle-school words', or 'add three examples'. Each follow-up sharpens the result without starting over.",
+      "emoji": "🔁",
+      "highlight": "Follow-up examples:\n- Make it simpler\n- Add more examples\n- Give me the opposite view"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Build your own template! Just paste it in next time!",
+      "background": "spy",
+      "title": "My Prompt Template",
+      "content": "Save the shape you reuse the most. Keep four blanks ready: role, audience, output format, and what to avoid — fill them in and go.",
+      "emoji": "📋",
+      "highlight": "Template slots:\n- Role: ___\n- Audience: ___\n- Output: ___\n- Avoid: ___"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mission complete! Submit a screenshot of your best prompt and earn 480 points! 🎯",
+      "background": "lab",
+      "title": "Mission Complete!",
+      "content": "Passing this mission is less about the AI's answer and more about explaining how the wording made it better. The craft of asking is your weapon.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

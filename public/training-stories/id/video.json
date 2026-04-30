@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Pengaturan Cut",
+      "speech": "Cut memberi ritme video! 🎬",
+      "emoji": "🎬",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "Adegan diam terlalu lama membosankan. Ganti sudut atau visual setiap 3–5 detik membuat penonton lengket.",
+      "highlight": "Tips cut:\n- Setiap 3–5 detik\n- Ganti sudut\n- Ganti ukuran"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Pilih BGM",
+      "speech": "BGM menetapkan emosi! 🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "Musik cerah = energi, sunyi = emosi, tempo cepat = petualangan. Mencocokkan gambar dengan perasaan adalah sentuhan profesional.",
+      "highlight": "Pilih BGM:\n- Selaraskan tempo\n- Selaraskan emosi\n- Lirik halus"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

@@ -1,0 +1,105 @@
+{
+  "title": "Nhiệm vụ sáng tác Suno",
+  "description": "Nhiệm vụ điệp viên tạo bài hát gốc của riêng bạn bằng AI!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đặc vụ Âm thanh! Hôm nay làm bài hát gốc với Suno nhé! 🎵",
+      "background": "lab",
+      "title": "Lệnh nhiệm vụ: Chiến dịch sáng tác",
+      "content": "Nhiệm vụ là hoàn thành một bài hát gốc dưới 2 phút bằng Suno. 3 điều kiện: nói chủ đề trong một câu, chốt thể loại, tự viết điệp khúc.",
+      "emoji": "🎵",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Suno chỉ cần 'lời' và 'thể loại' là sẽ tạo ra bài hát!",
+      "background": "spy",
+      "title": "Cơ chế Suno",
+      "content": "Suno là AI sinh giai điệu, hợp âm và giọng hát từ lời và phong cách bạn nhập. Thông tin càng cụ thể thì kết quả càng gần với hình dung.",
+      "emoji": "🎤",
+      "highlight": "Cần 3 thông tin:\n- Lời\n- Thể loại / không khí\n- Tốc độ và nhạc cụ"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chọn chủ đề! Cho ai nghe? Về điều gì?",
+      "background": "hq",
+      "title": "Chủ đề trong một câu",
+      "content": "'Bài hát cổ vũ cho bạn thân', 'Bài hát ngày đầu tập xe đạp' — gói gọn đối tượng và cảm xúc trong một câu giúp viết lời dễ hơn.",
+      "emoji": "🎯",
+      "highlight": "Khung chủ đề:\nCho ai + cảm xúc gì + bối cảnh nào"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Lời nên chia 'Verse / Pre / Chorus' để dễ hình dung!",
+      "background": "spy",
+      "title": "Cấu trúc bài hát",
+      "content": "Verse cho bối cảnh, Pre cho khoảnh khắc cảm xúc thay đổi, Chorus cho thông điệp chính. Hãy quyết Chorus trước vì nó lặp đi lặp lại.",
+      "emoji": "📝",
+      "highlight": "Khung cấu trúc:\nVerse: bối cảnh\nPre: chuyển cảm xúc\nChorus: thông điệp lớn"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy ghi cả thể loại và nhịp! Ví dụ: J-POP tươi sáng, 120 BPM, piano chủ đạo",
+      "background": "hq",
+      "title": "Chỉ định phong cách",
+      "content": "Ngoài thể loại, ghi thêm không khí, nhạc cụ, nhịp giúp giai điệu ổn định. Cùng một lời, 'rock' và 'ballad' ra hai bài khác hẳn nhau.",
+      "emoji": "🎸",
+      "highlight": "Ví dụ chỉ định:\n- Thể loại: J-POP\n- Không khí: cổ vũ tươi sáng\n- Nhạc cụ: piano + dây"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Dán lời và phong cách vào Suno, bấm tạo!",
+      "background": "lab",
+      "title": "Thực thi: Thời gian tạo",
+      "content": "Dán lời và phong cách rồi đợi Suno tạo. Lần đầu chưa ưng cũng không sao, sửa lời điệp khúc hoặc phong cách rồi tạo lại, mỗi lần một gần hơn.",
+      "emoji": "▶️",
+      "highlight": "Mẹo cải thiện:\n- Câu chữ điệp khúc mạnh hơn\n- Đổi tốc độ\n- Bớt nhạc cụ"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Có bản ưng ý rồi thì đặt tên và lưu lại nhé!",
+      "background": "spy",
+      "title": "Đặt tên và lưu",
+      "content": "Bài hát hoàn thành cần có tên. Tên là thứ người nghe đọc đầu tiên, hãy gói cảm xúc bài hát trong một câu ngắn.",
+      "emoji": "💾",
+      "highlight": "Mẹo đặt tên:\n- Ngắn\n- Truyền cảm xúc\n- Gây tò mò"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hoàn thành nhiệm vụ! Nộp link bài hát để nhận 500 điểm! 🎉",
+      "background": "lab",
+      "title": "Hoàn thành nhiệm vụ!",
+      "content": "Hoàn tất khi bạn có thể tự nói 'bài hát này về điều gì'. Khi chủ đề của bạn được đặt lên giai điệu do AI tạo, đó mới là tác phẩm thật sự.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

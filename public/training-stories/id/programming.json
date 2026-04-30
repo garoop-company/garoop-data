@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Tata dengan Fungsi",
+      "speech": "Fungsi = kotak dengan satu nama untuk satu kerja! 📦",
+      "emoji": "📦",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "Saat logika sama muncul tiga kali, saatnya jadikan fungsi. Beri nama 'kata kerja + objek' agar nanti mudah dibaca.",
+      "highlight": "Tanda dibungkus:\n- Berulang 3x\n- Nama menunjukkan maksud"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Cara Debug",
+      "speech": "Bug adalah sinyal 'ada yang aneh'! 🐞",
+      "emoji": "🐞",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "Saat bug ditemukan, pakai print atau console.log untuk memastikan 'sampai sini jalan'. Menentukan lokasi, sebab terselesaikan separuh.",
+      "highlight": "3 langkah debug:\n1. Ulangi\n2. Tambah print\n3. Sempitkan sebab"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

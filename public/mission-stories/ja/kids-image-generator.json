@@ -1,0 +1,105 @@
+{
+  "title": "AI画像生成ミッション",
+  "description": "AIで自分だけの絵を作るスパイミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "イメージエージェント！今日はAIで絵を作るガル！🎨",
+      "background": "lab",
+      "title": "ミッション指令：画像生成作戦",
+      "content": "任務はAI画像ツールでオリジナルの一枚絵を完成させること。完成条件は、主役・場所・雰囲気の3要素を入れること、生成を3回以上回すこと、最終1枚を選んで理由を言えることの3つだ。",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "AI画像生成は「言葉から絵」を作る魔法ガル！",
+      "background": "spy",
+      "title": "AI画像生成とは？",
+      "content": "MidjourneyやDALL-E、Stable Diffusionなどは、文章から1枚の画像を作るAIだ。書く言葉が具体的なほど、思った通りの絵に近づく。",
+      "emoji": "🖼️",
+      "highlight": "代表ツール:\n・Midjourney\n・DALL-E\n・Stable Diffusion"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "プロンプトには「主役・場所・雰囲気」を入れるガル！",
+      "background": "hq",
+      "title": "3要素プロンプト",
+      "content": "「主役は何？」「どこにいる？」「どんな雰囲気？」の3つを必ず入れると、絵がブレない。物足りないときは色や時間帯を足そう。",
+      "emoji": "📝",
+      "highlight": "3要素テンプレ:\n主役：白いネコ\n場所：宇宙ステーション\n雰囲気：未来的で青い光"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "「画風」を指定すると一気に雰囲気が変わるガル！",
+      "background": "spy",
+      "title": "画風スタイル",
+      "content": "「水彩画風」「ピクセルアート」「スタジオジブリ風」のようにスタイルを指定すると、同じ題材でもまったく違う絵になる。気に入った言葉はメモしておこう。",
+      "emoji": "🎭",
+      "highlight": "画風例:\n・水彩画\n・ピクセルアート\n・3Dレンダー\n・コミック調"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "プロンプトを送って3パターン作ってみよう！",
+      "background": "lab",
+      "title": "作戦実行：3パターン生成",
+      "content": "同じ主役で「画風だけ変えた3パターン」を生成すると、自分の好きな方向性が見えてくる。気に入った1枚を選んで、なぜ好きか理由まで言葉にしてみよう。",
+      "emoji": "🧪",
+      "highlight": "比較の例:\nA：水彩画\nB：ピクセルアート\nC：3Dレンダー"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "イメージと違ったら「禁止ワード」も使えるガル！",
+      "background": "hq",
+      "title": "ネガティブプロンプト",
+      "content": "「夜景にしたいのに昼の絵になる」ようなときは、避けたい要素を伝えると良い。「日中・明るい背景は除く」のように書くと精度が上がる。",
+      "emoji": "🚫",
+      "highlight": "避け方:\n・「〜は除く」\n・「〜は使わない」\n・「〜の代わりに」"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "選んだ1枚にタイトルと一言コメントをつけよう！",
+      "background": "spy",
+      "title": "作品化",
+      "content": "ただの生成画像ではなく、タイトルと一言コメントを添えると「作品」になる。コメントは「なぜこの絵か」を1文で書くだけでもいい。",
+      "emoji": "🖋️",
+      "highlight": "作品化テンプレ:\n・タイトル\n・コンセプト1文\n・使った画風"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "ミッション完了ガル！作品を提出して450ポイントゲット！🎉",
+      "background": "lab",
+      "title": "ミッション完了！",
+      "content": "AI画像生成は、絵を「描く」より「言葉で導く」スキルだ。プロンプトの一語一語が、画面の中の世界を作っていく。",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

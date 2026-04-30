@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Mixing Down",
+      "speech": "Menyeimbangkan audio menyelesaikan karya! 🎚️",
+      "emoji": "🎚️",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "Bandingkan keseimbangan vokal, alat musik, bass — kesan berubah banyak. Dorong bagian paling ingin didengar sedikit ke depan.",
+      "highlight": "Tips mix:\n- Lead di depan\n- Bass alasan\n- Cek dengan telinga"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Rima dalam Lirik",
+      "speech": "Rima membuat melekat! 🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "Cocokkan bunyi seperti 'mimpi / sepi' atau 'sky / fly' dan lagu jauh lebih mudah diingat.",
+      "highlight": "Jenis rima:\n- Bunyi akhir\n- Vokal sama\n- Paralel"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Setting Domain Sendiri",
+      "speech": "Punya domain sendiri menggandakan kesan 'nyata'! 🌐",
+      "emoji": "🌐",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Tambahkan Custom Domain di setting Vercel. Dengan my-app.com, layananmu langsung terasa nyata.",
+      "highlight": "Langkah domain:\n1. Domains\n2. Add Domain\n3. Setting DNS"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Pakai Environment Variable",
+      "speech": "Jangan taruh kunci rahasia di kode! 🔐",
+      "emoji": "🔐",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Simpan API key dan password sebagai environment variable di Vercel, jangan di kode. Walau kode publik, key tetap aman.",
+      "highlight": "Aturan env var:\n- Bukan di kode\n- Nama huruf besar\n- Atur di Vercel"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

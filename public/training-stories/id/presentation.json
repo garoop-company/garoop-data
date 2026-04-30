@@ -1,0 +1,105 @@
+{
+  "title": "Pelatihan Presentasi",
+  "description": "Latih kemampuan menyampaikan ide secara langsung!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Selamat datang di Dojo Presentasi! Sampaikan idemu langsung ke hati! 🎤",
+      "background": "mountain",
+      "title": "Dojo Presentasi",
+      "content": "Pelatihan presentasi melatih kemampuan 'memutuskan apa yang harus dibawa pulang oleh audiens', bukan sekadar berbicara lancar. Tentukan satu kalimat inti dulu, struktur akan terbentuk sendiri.",
+      "emoji": "🎤",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Pertama, tentukan 'satu kalimat untuk dibawa pulang'!",
+      "background": "dojo",
+      "title": "Pesan Inti",
+      "content": "Tentukan satu kalimat yang ingin tetap di kepala audiens setelah presentasi. Slide dan urutan ada untuk menopang satu kalimat itu.",
+      "emoji": "🎯",
+      "highlight": "Contoh satu kalimat:\n- AI adalah partner baru\n- Coba kecil mengubah masa depan\n- Saya ingin membuat ini"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Bicara dengan urutan 'kesimpulan → alasan → contoh' lebih mengena!",
+      "background": "bamboo",
+      "title": "Struktur PREP",
+      "content": "Point (kesimpulan), Reason (alasan), Example (contoh), Point (kesimpulan). Kesimpulan di awal dan akhir membuat pesan jelas walau presentasi singkat.",
+      "emoji": "📝",
+      "highlight": "PREP:\n- P: Kesimpulan\n- R: Alasan\n- E: Contoh\n- P: Kesimpulan lagi"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Slide 'satu halaman satu pesan'!",
+      "background": "mountain",
+      "title": "Desain Slide",
+      "content": "Halaman penuh teks tidak akan dibaca. Judul = kesimpulan, isi singkat, didukung gambar. Semakin sedikit kata, semakin audiens mendengarkan.",
+      "emoji": "🖼️",
+      "highlight": "1 slide = 1 pesan\n- Judul = kesimpulan\n- Isi ≤ 3 baris\n- Diperkuat gambar"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Latih juga suara dan jeda! Suara membawa 70%!",
+      "background": "dojo",
+      "title": "Suara dan Jeda",
+      "content": "Berhenti satu detik sebelum kata kunci membuat audiens menanti kata berikutnya. Hanya menyesuaikan volume, kecepatan, jeda mengubah cara pesan diterima.",
+      "emoji": "🗣️",
+      "highlight": "3 elemen suara:\n- Volume\n- Kecepatan\n- Jeda"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Tantangan hari ini: 'memperkenalkan hal favorit dalam 1 menit'!",
+      "background": "bamboo",
+      "title": "Pitch 1 Menit",
+      "content": "Pilih satu anime, buku, atau tempat favorit dan presentasikan dalam 1 menit. Terapkan pesan inti, PREP, dan 3 elemen suara — pitch singkat pun terasa serius.",
+      "emoji": "⏱️",
+      "highlight": "Struktur 1 menit:\n- 10 detik: kesimpulan\n- 30 detik: alasan dan contoh\n- 20 detik: kesimpulan lagi"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Mendapat 1 pertanyaan setelahnya adalah sinyal terkuat!",
+      "background": "mountain",
+      "title": "Undang Pertanyaan",
+      "content": "Akhiri dengan 'Ada pertanyaan sejauh ini?' agar tahu seberapa pesan menempel. Juga jadi tahu apa yang perlu diperkuat presentasi berikutnya.",
+      "emoji": "❓",
+      "highlight": "Cara mengundang:\n- Sisakan waktu di akhir\n- Sebut 'satu juga cukup'\n- Catat jawabannya"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Kerja bagus! Gerakkan dunia dengan suaramu! 🌟",
+      "background": "temple",
+      "title": "Pelatihan Selesai!",
+      "content": "Presentasi bukan 'teknik bicara' melainkan 'desain untuk menggerakkan orang'. Ingat satu kalimat hari ini dan jadikan pembuka presentasi berikutnya.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

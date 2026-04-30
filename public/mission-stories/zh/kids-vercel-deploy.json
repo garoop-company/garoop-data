@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "设置自定义域名",
+      "speech": "有专属域名「真实感」翻倍加鲁🌐",
+      "emoji": "🌐",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "在Vercel设置里可以添加Custom Domain。有了my-app.com这样的域名，服务立刻像样起来。",
+      "highlight": "域名设置：\n1. Domains\n2. Add Domain\n3. DNS设置"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "环境变量用法",
+      "speech": "秘密密钥别写在代码里加鲁🔐",
+      "emoji": "🔐",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "API密钥和密码别写代码，注册到Vercel的环境变量。代码公开也不会泄露密钥。",
+      "highlight": "环境变量铁则：\n・不写代码\n・名称大写\n・登记到ENV"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

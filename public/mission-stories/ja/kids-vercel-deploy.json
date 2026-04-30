@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "ドメインを設定する",
+      "speech": "独自ドメインがあると本物っぽさ倍増ガル🌐",
+      "emoji": "🌐",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Vercelの設定からCustom Domainを追加できる。my-app.comのような独自ドメインがあると、自分のサービスらしさが一気に出る。",
+      "highlight": "ドメインの設定:\n1. Domains\n2. Add Domain\n3. DNS設定"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "環境変数の使い方",
+      "speech": "秘密の鍵はコードに直接書かないガル🔐",
+      "emoji": "🔐",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "APIキーやパスワードはコードに書かず、Vercelの環境変数機能に登録する。コードを公開してもキーが漏れない仕組みだ。",
+      "highlight": "環境変数の鉄則:\n・コードに書かない\n・名前は大文字\n・ENVに登録"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

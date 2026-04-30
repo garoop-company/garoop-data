@@ -1,0 +1,105 @@
+{
+  "title": "Luyện Khởi nghiệp",
+  "description": "Rèn cơ bắp đưa ý tưởng ra thế giới!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "Chào mừng đến lò luyện khởi nghiệp! 💼",
+      "title": "Lò khởi nghiệp",
+      "content": "Luyện khởi nghiệp rèn cơ bắp 'giải vấn đề của ai?' hơn là kỹ thuật kinh doanh. Bắt đầu nhỏ — bước một bước làm vui một người thật.",
+      "emoji": "💼",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "dojo",
+      "speech": "Tìm 'vấn đề' trước!",
+      "title": "Tìm vấn đề",
+      "content": "Doanh nghiệp tốt sinh từ vấn đề. Ghi 3 bất tiện nhỏ hằng ngày từ gia đình, bạn, chính mình. Đó là bản đồ kho báu.",
+      "emoji": "🔍",
+      "highlight": "Săn vấn đề:\n- Gia đình\n- Bạn\n- Bản thân"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "bamboo",
+      "speech": "Bão não 3 giải pháp!",
+      "title": "Ý tưởng",
+      "content": "Bắt buộc ít nhất 3 ý tưởng cho mỗi vấn đề. AI làm bạn brainstorm tăng số ý lên 10 lần.",
+      "emoji": "💡",
+      "highlight": "Quy tắc ý tưởng:\n- Số lượng\n- Không phán xét\n- Kết hợp"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "mountain",
+      "speech": "Vẽ persona!",
+      "title": "Cho ai?",
+      "content": "'Sakura, 13 tuổi, đội bóng đá' — mô tả một người dùng cụ thể sống động. 'Cho mọi người' không chạm được ai.",
+      "emoji": "👤",
+      "highlight": "Persona:\n- Tuổi\n- Sở thích\n- Đau đầu"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "dojo",
+      "speech": "Làm prototype nhanh!",
+      "title": "Luyện Prototype",
+      "content": "Bỏ qua hoàn hảo. Giấy hay màn hình AI tạo cũng được. Càng nhanh đưa ai đó xem, càng gần lời giải thực.",
+      "emoji": "🛠️",
+      "highlight": "Quy tắc prototype:\n- Làm 3 ngày\n- Cho xem\n- Lặp lại"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "bamboo",
+      "speech": "Cũng nghĩ dòng tiền!",
+      "title": "Mô hình kinh doanh",
+      "content": "Ai trả, bao nhiêu, chi phí gì. Ba dòng trên giấy lộ ra liệu có thực sự là kinh doanh.",
+      "emoji": "💰",
+      "highlight": "3 câu hỏi:\n- Ai trả?\n- Bao nhiêu?\n- Chi phí?"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "Khách hàng đầu tiên ở cạnh bạn!",
+      "title": "Khách đầu tiên",
+      "content": "Bắt đầu với gia đình hoặc bạn. Không tiền cũng được — nghe 'cảm ơn' hay 'muốn thêm' là chứng minh đầu tiên.",
+      "emoji": "🤝",
+      "highlight": "Cột mốc:\n- Có người dùng\n- Cảm ơn bạn\n- Muốn thêm"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "temple",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "Vất vả rồi! Đưa ý tưởng ra thế giới 🌟",
+      "title": "Hoàn thành luyện tập!",
+      "content": "Đừng khởi sự lớn. Doanh nghiệp đổi thế giới lớn lên từ nhiều thí nghiệm nhỏ. Hôm nay thử một ý tưởng đi.",
+      "emoji": "🌟"
+    }
+  ]
+}

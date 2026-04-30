@@ -1,0 +1,105 @@
+{
+  "title": "読書修行",
+  "description": "本から世界を広げる力を鍛えよう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "読書道場へようこそ！本は世界一安い旅行ガル📚",
+      "title": "読書道場",
+      "content": "読書修行では、何冊読むかより「自分の言葉で何を残したか」を大切にする。1冊から得た1つの気づきが、人生を変えることもある。",
+      "emoji": "📚",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "dojo",
+      "speech": "本選びは「今の気分」でOKガル！",
+      "title": "本の選び方",
+      "content": "ベストセラーや課題図書じゃなくていい。表紙、タイトル、最初の1ページで「読みたい」と思った本が、今の自分にちょうどいい1冊だ。",
+      "emoji": "📖",
+      "highlight": "選び方:\n・表紙でピンとくる\n・最初の1ページ\n・今の気分"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "bamboo",
+      "speech": "1日10ページでいいガル！",
+      "title": "毎日10ページ",
+      "content": "1日10ページなら、1か月で300ページの本が1冊読める。完璧主義は読書の敵。少しずつ続けるほど力になる。",
+      "emoji": "📅",
+      "highlight": "読書ペース:\n・1日10ページ\n・1か月1冊\n・1年12冊"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "mountain",
+      "speech": "心が動いた1文に線を引こう！",
+      "title": "1文ハイライト",
+      "content": "読み終わった後すべてを覚えなくていい。1冊につき「これはずっと覚えておきたい」と思った1文だけ残そう。",
+      "emoji": "✏️",
+      "highlight": "ハイライトのコツ:\n・心が動いた\n・繰り返し読みたい\n・1冊に1〜3文"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "dojo",
+      "speech": "感想は「3行ノート」がおすすめ！",
+      "title": "3行感想ノート",
+      "content": "1行目に印象に残った場面、2行目になぜ心に残ったか、3行目に自分の生活に活かす点。たった3行でも頭に深く残る。",
+      "emoji": "📝",
+      "highlight": "3行型:\n1. 場面\n2. 理由\n3. 活かす点"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "bamboo",
+      "speech": "本を1冊読んだら誰かに話そう！",
+      "title": "話して定着",
+      "content": "人に話すと、自分が本当にわかったかどうかが分かる。家族や友達に「面白かった本」を1分で紹介してみよう。",
+      "emoji": "🗣️",
+      "highlight": "話し方:\n・1分でまとめる\n・心に残った1文\n・おすすめ理由"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "読書ジャンルは少しずつ広げるガル！",
+      "title": "読書の幅",
+      "content": "好きなジャンルだけでなく、半年に1冊は普段読まないジャンルにも挑戦しよう。世界の見え方が立体的になる。",
+      "emoji": "🌐",
+      "highlight": "広げ方:\n・小説 / ノンフィクション\n・科学 / 歴史\n・絵本も大人にOK"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "temple",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "読書修行おつかれガル！読んだ本を1冊家族に話そう🌟",
+      "title": "修行完了！",
+      "content": "読書の本当の価値は、読み終えた瞬間ではなく、その本が日々の選択にどう影響するかにある。今日読んだ1ページから、明日の自分が始まる。",
+      "emoji": "🌟"
+    }
+  ]
+}

@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "एरर आउँदा",
+      "speech": "एरर शत्रु होइन — सङ्केत हो गाल्! 🐛",
+      "emoji": "🐛",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Codex ले बनाएको कोडमा पनि एरर आउँछ। 'रातो अक्षर' पढेर अन्तिम लाइन Codex लाई फिर्ता टाँसी 'यो मिलाऊ' भन्नु छिटो।",
+      "highlight": "एरर सुधार:\n१. रातो लाइन पढ्ने\n२. Codex लाई टाँस्ने\n३. 'मिलाऊ' भन्ने"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "कोड पठन अभ्यास",
+      "speech": "AI मा मात्र भर नपर्ने — आफै पनि पढ्ने गाल्! 📖",
+      "emoji": "📖",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "AI लाई 'यो लाइनले के गर्छ?' एक एक लाइन सोध्ने। पढ्न सक्दा परिवर्तनको दायरा एकैचोटि फराकिलो हुन्छ।",
+      "highlight": "सोध्ने तरिका:\n• यो लाइन के?\n• मेटे के हुन्छ?\n• अर्को लेख्ने तरिका?"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

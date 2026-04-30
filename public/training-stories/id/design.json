@@ -1,0 +1,105 @@
+{
+  "title": "Pelatihan Desain",
+  "description": "Latih kemampuan menyampaikan perasaan lewat warna dan bentuk!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Selamat datang di Dojo Desain! Sampaikan perasaan dengan warna dan bentuk 🎨",
+      "background": "mountain",
+      "title": "Dojo Desain",
+      "content": "Pelatihan desain bukan tentang menggambar bagus, melainkan tentang 'mendesain perasaan yang kamu ingin penonton rasakan'. Putuskan dulu 'kepada siapa' dan 'ingin mereka rasakan apa'.",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Setiap warna memiliki 'perasaan'!",
+      "background": "dojo",
+      "title": "Arti Warna",
+      "content": "Merah = gairah/peringatan, biru = kepercayaan/tenang, hijau = alam/aman, kuning = energi/perhatian. Pilih warna sesuai perasaan yang ingin disampaikan, penonton merasakan langsung.",
+      "emoji": "🎨",
+      "highlight": "Warna dan perasaan:\n- Merah = gairah\n- Biru = kepercayaan\n- Hijau = aman\n- Kuning = energi"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Maksimal 3 warna paling rapi!",
+      "background": "bamboo",
+      "title": "Aturan 3 Warna",
+      "content": "Batasi pada warna utama, sub, aksen — paling banyak tiga. Aksen di bawah 10% total membuatnya menonjol tanpa berlebihan.",
+      "emoji": "🌈",
+      "highlight": "Rasio emas:\n- Utama 70%\n- Sub 25%\n- Aksen 5%"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "'Ruang kosong' juga bagian dari desain!",
+      "background": "mountain",
+      "title": "Kekuatan Ruang Kosong",
+      "content": "Menjejal informasi tidak akan dibaca. Ruang kosong membuat mata istirahat dan bagian yang ingin dipamerkan jadi menonjol. Sedikit ruang sekitar teks dan gambar mengubah kesan.",
+      "emoji": "⬜",
+      "highlight": "Efek ruang kosong:\n- Mudah dibaca\n- Bagian penting menonjol\n- Tampak premium"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Cukup 'merapikan' sudah membuat tampak profesional!",
+      "background": "dojo",
+      "title": "Sihir Penyelarasan",
+      "content": "Cukup ratakan teks dan gambar dengan rapi ke kiri atau ke tengah, desain langsung terasa profesional. Triknya mengikuti grid yang tak terlihat.",
+      "emoji": "📏",
+      "highlight": "Cara meratakan:\n- Rata kiri\n- Rata tengah\n- Ikuti grid"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Pakai 'beda ukuran' untuk menunjuk hal penting!",
+      "background": "mountain",
+      "title": "Hierarki Ukuran",
+      "content": "Judul besar, isi kecil. Kontras yang jelas memberi tahu penonton mana yang harus dilihat dulu. Kontras kecil membuat semua terasa sama pentingnya.",
+      "emoji": "📊",
+      "highlight": "Kontras ukuran:\n- Judul: besar\n- Subjudul: sedang\n- Isi: kecil"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tantangan hari ini: 'desain kartu nama sendiri'!",
+      "background": "bamboo",
+      "title": "Kartu Nama Saya",
+      "content": "Cantumkan nama, hal yang disukai, impian — 3 elemen, gunakan aturan 3 warna dan penyelarasan untuk membuat kartu nama. Canva atau Figma membantu cepat selesai.",
+      "emoji": "💳",
+      "highlight": "3 elemen di kartu:\n- Nama\n- Hal favorit\n- Impian"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Kerja bagus! Mari membuat dunia lebih cantik 🌟",
+      "background": "temple",
+      "title": "Pelatihan Selesai!",
+      "content": "Desain bukan sekadar kecantikan; ia alat yang membantu pesan sampai. Tunjukkan kartu hari ini ke satu orang dan dengar tanggapannya.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

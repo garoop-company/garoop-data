@@ -1,0 +1,149 @@
+{
+  "title": "英语数字与时间",
+  "description": "把每天用的数字用英语说出来！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "数字在英语里也超重要加鲁！每天都用⏰",
+      "title": "走进数字与时间",
+      "content": "本课学习「英语数字与时间」。价格、时刻、年龄、日期。会用英语说数字，生活每个角落都能用。",
+      "emoji": "🔢"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "先按顺序记1到10！",
+      "title": "1〜10",
+      "content": "one, two, three, four, five, six, seven, eight, nine, ten。游戏对话和分零食都用得到。",
+      "emoji": "1️⃣",
+      "highlight": "1 one  2 two  3 three  4 four  5 five\n6 six  7 seven  8 eight  9 nine  10 ten"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "11到20会让对话更丰富！",
+      "title": "11〜20",
+      "content": "11 eleven, 12 twelve, 13 thirteen之后词尾变teen。出声比较更容易记。",
+      "emoji": "🔟",
+      "highlight": "11 eleven\n12 twelve\n13 thirteen ... 19 nineteen\n20 twenty"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "能说到100、1000就最强！",
+      "title": "大数字",
+      "content": "100 one hundred, 1000 one thousand。21 twenty-one、35 thirty-five用连字符更易读。",
+      "emoji": "💯",
+      "highlight": "21 twenty-one\n100 one hundred\n1000 one thousand"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "报时方式有两种加鲁！",
+      "title": "报时",
+      "content": "It's seven o'clock. It's seven thirty.直接读数字，或分时和分。",
+      "emoji": "🕐",
+      "highlight": "It's 7 o'clock.\nIt's 7:30 = seven thirty."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "星期和数字一起记！",
+      "title": "星期",
+      "content": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday。英语很多日历里周一是一周的开始。",
+      "emoji": "📅",
+      "highlight": "Mon → Sun"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "看看怎么说日期！",
+      "title": "月与日",
+      "content": "从January到December。It's April 30.月+日的顺序。生日时很常用。",
+      "emoji": "📆",
+      "highlight": "January / February ... December\nApril 30"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "用英语读价格也很酷！",
+      "title": "价格",
+      "content": "$5 = five dollars. $9.99 = nine ninety-nine。$和¢分别表示元和分。",
+      "emoji": "💰",
+      "highlight": "$5 = five dollars\n$9.99 = nine ninety-nine"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "「数字+单位」也要掌握！",
+      "title": "加上单位",
+      "content": "I'm 10 years old. It's 3 kilometers. 5 minutes.数字+单位的型记住，说话才自然。",
+      "emoji": "📏",
+      "highlight": "10 years old / 3 km / 5 minutes"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "小测验加鲁！7点30分用英语怎么说？",
+      "quizQuestion": "「7点30分」最自然的说法是？",
+      "quizChoices": [
+        "It's seven thirty.",
+        "It's thirty seven.",
+        "It's seven hours.",
+        "It's half eight."
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "It's seven thirty.最自然。It's half past seven.也行。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "数字大师加鲁！日常活用🌟",
+      "title": "课程完成！",
+      "emoji": "🎉"
+    }
+  ]
+}

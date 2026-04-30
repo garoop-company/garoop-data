@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Set Your Goals",
+      "speech": "Goals change every training day! 🎯",
+      "emoji": "🎯",
+      "background": "mountain",
+      "garuchanAnimation": "float",
+      "content": "Write one sentence: 'In 3 months, I want to be able to ___.' Don't worry about possibility — write the version of yourself you'd like.",
+      "highlight": "Goal recipe:\n- Deadline\n- Subject\n- Future self"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Reflection Time",
+      "speech": "Five weekend minutes to reflect! 📝",
+      "emoji": "📝",
+      "background": "temple",
+      "garuchanAnimation": "bounce",
+      "content": "Each weekend, write three things: what worked, what didn't, what's next. Doing it weekly reveals patterns and growth.",
+      "highlight": "3 points:\n- Wins\n- Misses\n- Next week"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

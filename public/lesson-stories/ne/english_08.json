@@ -1,0 +1,149 @@
+{
+  "title": "विद्यालयको अंग्रेजी",
+  "description": "विद्यालयको दैनिकीमा प्रयोग हुने अंग्रेजी!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "विद्यालयको अंग्रेजी शिक्षक र साथी दुवैसँग प्रयोग्य गाल्! 🏫",
+      "title": "विद्यालयको अंग्रेजी",
+      "content": "यो पाठ 'विद्यालयको अंग्रेजी' सिक्ने। कक्षा, विश्राम, कक्षाकोठा, पुस्तकालय। दैनिकीमा प्रयोग्य अभिव्यक्ति सिकौं।",
+      "emoji": "🏫"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "विषयको नाम अंग्रेजीमा भन्न सक्छौ?",
+      "title": "विषय",
+      "content": "math (गणित), science (विज्ञान), English, history (इतिहास), music (सङ्गीत), P.E. (शारीरिक शिक्षा)। मनपर्ने विषयबाट सुरु गर्दा सजिलो।",
+      "emoji": "📚",
+      "highlight": "math / science / English\nhistory / music / P.E."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "शिक्षकलाई प्रश्न सोध्ने जादू!",
+      "title": "शिक्षकलाई प्रश्न",
+      "content": "Excuse me, can I ask a question? I don't understand। सोध्ने साहसले सिकाइ दोब्बर बनाउँछ। हात उठाएर भन्ने।",
+      "emoji": "🙋",
+      "highlight": "Can I ask a question?\nI don't understand."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'फेरि भनिदिनुहोस्' पनि अति महत्त्वपूर्ण!",
+      "title": "फेरि सोध्ने",
+      "content": "Could you say that again, please? Could you speak slowly? सुन्न नसके पनि ठीक छ — फेरि सोध्ने मात्र।",
+      "emoji": "👂",
+      "highlight": "Could you say that again?\nCould you speak slowly?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "कक्षाका सामग्री पनि अंग्रेजीमा!",
+      "title": "कक्षाका सामग्री",
+      "content": "pen, pencil, eraser, notebook, textbook, ruler। 'Can I borrow your pencil?' अभ्यास पनि उपयोगी।",
+      "emoji": "✏️",
+      "highlight": "pen / pencil / eraser\nnotebook / textbook / ruler"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "गृहकार्यको अंग्रेजी पनि!",
+      "title": "गृहकार्य",
+      "content": "What's the homework? I finished my homework। साथीसँग पुष्टि गर्न जस्ताको तस्तै प्रयोग्य।",
+      "emoji": "📝",
+      "highlight": "What's the homework?\nI finished my homework."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "विश्राम समयमा पनि अंग्रेजीमा कुरा!",
+      "title": "विश्राम",
+      "content": "Let's play together! Want to join us? साथी बोलाउने वाक्यले अंग्रेजी समूह बढाउँछ।",
+      "emoji": "⏰",
+      "highlight": "Let's play together!\nWant to join us?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "परीक्षाको अनुभूति पनि!",
+      "title": "परीक्षा",
+      "content": "The test was hard. I did my best। परिणाम भन्दा 'मैले प्रयास गरेँ' विश्वव्यापी प्रोत्साहन हो।",
+      "emoji": "📋",
+      "highlight": "The test was hard.\nI did my best."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "विद्यालय सकिए 'धन्यवाद'!",
+      "title": "घर फर्किने बेला",
+      "content": "See you tomorrow! Good job today! दिनको अन्त्यको अभिवादनले भोलि भेट्ने साथीप्रति भावना पुर्‍याउँछ।",
+      "emoji": "🌅",
+      "highlight": "See you tomorrow!\nGood job today!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "क्विज गाल्! 'फेरि भनिदिनुहोस्' अंग्रेजीमा?",
+      "quizQuestion": "विनम्रतापूर्वक फेरि सोध्ने तरिका?",
+      "quizChoices": [
+        "Could you say that again, please?",
+        "Repeat!",
+        "What?",
+        "Hello again."
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Could you say that again, please? विनम्र र प्राकृतिक। 'please' कुञ्जी।"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "विद्यालय अंग्रेजी मास्टर गाल्! भोलिदेखि प्रयोग 🌟",
+      "title": "पाठ पूरा!",
+      "emoji": "🎉"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Numbers and Time in English",
+  "description": "Say the numbers you use every day!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Numbers are super important in English too! Every day! ⏰",
+      "title": "Into Numbers and Time",
+      "content": "This lesson is about numbers and time in English. Prices, time, age, dates — saying numbers opens every part of daily life.",
+      "emoji": "🔢"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "First, 1 to 10 in order!",
+      "title": "1 to 10",
+      "content": "one, two, three, four, five, six, seven, eight, nine, ten. Useful in game chat or sharing snacks.",
+      "emoji": "1️⃣",
+      "highlight": "1 one  2 two  3 three  4 four  5 five\n6 six  7 seven  8 eight  9 nine  10 ten"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "11 to 20 expands your talks!",
+      "title": "11 to 20",
+      "content": "11 eleven, 12 twelve, 13 thirteen — from there the suffix becomes -teen. Saying them aloud makes the pattern stick.",
+      "emoji": "🔟",
+      "highlight": "11 eleven\n12 twelve\n13 thirteen ... 19 nineteen\n20 twenty"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Up to 100 and 1000 — that's the goal!",
+      "title": "Big Numbers",
+      "content": "100 one hundred, 1000 one thousand. Hyphenate twenty-one, thirty-five — easier to read.",
+      "emoji": "💯",
+      "highlight": "21 twenty-one\n100 one hundred\n1000 one thousand"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Two ways to say the time!",
+      "title": "Telling Time",
+      "content": "It's seven o'clock. It's seven thirty. You can read the digits straight, or split into hour and minute.",
+      "emoji": "🕐",
+      "highlight": "It's 7 o'clock.\nIt's 7:30 = seven thirty."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Days of the week, learned with numbers!",
+      "title": "Days of the Week",
+      "content": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. The week starts on Monday in many calendars.",
+      "emoji": "📅",
+      "highlight": "Mon → Sun"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Check how dates are said!",
+      "title": "Months and Dates",
+      "content": "From January to December. Say 'It's April 30.' — month then day. Great for birthdays.",
+      "emoji": "📆",
+      "highlight": "January / February ... December\nApril 30"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Reading prices in English looks cool!",
+      "title": "Prices",
+      "content": "$5 = five dollars. $9.99 = nine ninety-nine. Use $ and ¢ for dollars and cents.",
+      "emoji": "💰",
+      "highlight": "$5 = five dollars\n$9.99 = nine ninety-nine"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Master 'number + unit' too!",
+      "title": "Adding Units",
+      "content": "I'm 10 years old. It's 3 kilometers. 5 minutes. Pair numbers with units and you sound natural.",
+      "emoji": "📏",
+      "highlight": "10 years old / 3 km / 5 minutes"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Quiz! How do you say 7:30 in English?",
+      "quizQuestion": "Which is the most natural way to say '7:30'?",
+      "quizChoices": [
+        "It's seven thirty.",
+        "It's thirty seven.",
+        "It's seven hours.",
+        "It's half eight."
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "It's seven thirty. is the simplest. 'It's half past seven.' also works."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "You're a number master! Use them daily! 🌟",
+      "title": "Lesson Complete!",
+      "emoji": "🎉"
+    }
+  ]
+}

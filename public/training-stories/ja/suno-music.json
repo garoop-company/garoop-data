@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "ミックスダウン",
+      "speech": "音のバランス調整で作品が完成するガル🎚️",
+      "emoji": "🎚️",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "ボーカル・楽器・ベースのバランスを聞き比べると、印象がすごく変わる。一番伝えたい音を少し前に出すのがコツ。",
+      "highlight": "ミックスのコツ:\n・主役を前に\n・ベースで土台\n・全体は耳でチェック"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "歌詞の韻",
+      "speech": "韻を踏むと記憶に残るガル🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "「夢」と「闇」、「sky」と「fly」のように音の響きを揃えると、歌が一気に覚えやすくなる。",
+      "highlight": "韻の例:\n・末尾の音\n・同じ母音\n・対句"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

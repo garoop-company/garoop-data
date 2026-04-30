@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Sắp xếp bằng hàm",
+      "speech": "Hàm = hộp tên cho một việc! 📦",
+      "emoji": "📦",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "Cùng logic xuất hiện ba lần là lúc gói thành hàm. Đặt tên 'động từ + tân ngữ' để mai sau dễ đọc.",
+      "highlight": "Dấu hiệu gói:\n- Lặp 3 lần\n- Tên thể hiện ý"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Bí quyết debug",
+      "speech": "Bug là tín hiệu 'có gì sai'! 🐞",
+      "emoji": "🐞",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "Khi phát hiện bug, dùng print hay console.log để xác nhận 'tới đây vẫn chạy'. Tìm được vị trí, nguyên nhân giải quyết một nửa.",
+      "highlight": "3 bước debug:\n1. Tái hiện\n2. Thêm print\n3. Thu hẹp nguyên nhân"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

@@ -1,0 +1,105 @@
+{
+  "title": "Figmaデザインミッション",
+  "description": "Figmaでアプリのデザインを作るスパイミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "デザインエージェント！今日はFigmaでアプリ画面を作るガル🎨",
+      "title": "ミッション指令：Figma作戦",
+      "content": "任務はFigmaを使ってアプリの画面1枚をデザインすること。完成条件は、用途を1文で言える、3色ルールを守る、自分の名前をどこかに入れるの3つだ。",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Figmaは無料で使えるデザインツールガル！",
+      "title": "Figmaとは？",
+      "content": "Figmaはブラウザだけで動くデザインツール。Webサイトやアプリの画面、ロゴ、ポスターまで作れる。仲間と同時編集もできる。",
+      "emoji": "🖌️",
+      "highlight": "Figmaでできること:\n・アプリ画面\n・ロゴ\n・ポスター\n・同時編集"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "まず「フレーム」を作ろう！",
+      "title": "フレームを置く",
+      "content": "Fキーでフレームを選び、iPhoneやデスクトップサイズを選択。これがデザインの台紙になる。",
+      "emoji": "📱",
+      "highlight": "フレーム作成:\n1. Fキー\n2. サイズ選択\n3. 配置"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "テキストと図形でレイアウトしよう！",
+      "title": "要素を置く",
+      "content": "Tキーで文字、Rキーで四角。タイトル・説明・ボタンの3つを置くと、シンプルなアプリ画面が形になる。",
+      "emoji": "📝",
+      "highlight": "ショートカット:\nT = テキスト\nR = 四角\nO = 円"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "色は3色ルールで揃えよう！",
+      "title": "作戦実行：色選び",
+      "content": "メイン・サブ・アクセントの3色を決めると、まとまり感が出る。迷ったらColor Huntなどの配色サイトを参考に。",
+      "emoji": "🎨",
+      "highlight": "3色のヒント:\n・メイン70%\n・サブ25%\n・アクセント5%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "整列とスペースで「きれいさ」が決まるガル！",
+      "title": "整える",
+      "content": "Auto Layoutを使うと要素が自動で整列する。同じ余白が並ぶだけで、デザインが一気にプロっぽくなる。",
+      "emoji": "📏",
+      "highlight": "整える3技:\n・揃える\n・等間隔\n・Auto Layout"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "完成したら共有リンクを取ろう！",
+      "title": "作品を共有",
+      "content": "右上のShareボタンから共有リンクが取れる。仲間や家族に見せて感想をもらうと、次の改善ポイントが見える。",
+      "emoji": "🔗",
+      "highlight": "共有のコツ:\n・閲覧権限のみ\n・URLでシェア\n・感想を1つ聞く"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "ミッション完了ガル！スクショ提出で500ポイントゲット🚀",
+      "title": "ミッション完了！",
+      "content": "完成は「自分のデザインを1分で説明できる」状態。誰のためのアプリで、どんな雰囲気にしたかを言葉にしてみよう。",
+      "emoji": "🚀"
+    }
+  ]
+}

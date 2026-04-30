@@ -1,0 +1,105 @@
+{
+  "title": "デザイン修行",
+  "description": "色と形で気持ちを伝える力を鍛えよう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "デザイン道場へようこそガル！色と形で気持ちを伝える修行だガル🎨",
+      "background": "mountain",
+      "title": "デザイン道場",
+      "content": "デザイン修行では、絵がうまいかどうかより、見る人にどう感じてほしいかを設計する力を鍛える。「だれに、何を伝えたいか」を最初に決めよう。",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "色には「気持ち」があるガル！",
+      "background": "dojo",
+      "title": "色の意味",
+      "content": "赤＝情熱・注意、青＝信頼・冷静、緑＝自然・安心、黄＝元気・注目。伝えたい気持ちに合わせて色を選ぶと、見ただけで雰囲気が伝わる。",
+      "emoji": "🎨",
+      "highlight": "色と気持ち:\n・赤＝情熱\n・青＝信頼\n・緑＝安心\n・黄＝元気"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "色は「3色まで」がきれいに見えるガル！",
+      "background": "bamboo",
+      "title": "3色ルール",
+      "content": "メインカラー、サブカラー、アクセントカラーの3色までに絞ると、まとまりが出る。アクセントは全体の1割以下に抑えると効果的。",
+      "emoji": "🌈",
+      "highlight": "黄金比:\n・メイン70%\n・サブ25%\n・アクセント5%"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "「余白」もデザインの一部ガル！",
+      "background": "mountain",
+      "title": "余白の力",
+      "content": "情報を詰め込みすぎると読まれない。余白があると目が休まり、本当に見せたい部分が際立つ。文字や絵の周りを少し空けるだけで印象が変わる。",
+      "emoji": "⬜",
+      "highlight": "余白の効果:\n・読みやすい\n・大事な所が目立つ\n・高級感が出る"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "「揃える」だけでプロっぽく見えるガル！",
+      "background": "dojo",
+      "title": "整列の魔法",
+      "content": "文字や画像をきっちり左揃えや中央揃えにするだけで、デザインが急にプロっぽくなる。グリッドという見えない線に沿って配置するのがコツ。",
+      "emoji": "📏",
+      "highlight": "揃え方:\n・左揃え\n・中央揃え\n・グリッドに沿わせる"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "「大きさの差」で大事な所を伝えるガル！",
+      "background": "mountain",
+      "title": "ジャンプ率",
+      "content": "タイトルは大きく、本文は小さく。差をはっきりつけると、何を最初に見ればいいかが一目でわかる。差が小さいと「全部同じ重要度」に見えてしまう。",
+      "emoji": "📊",
+      "highlight": "サイズの差:\n・タイトル：大\n・小見出し：中\n・本文：小"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "今日の挑戦は「自分の名刺をデザイン」ガル！",
+      "background": "bamboo",
+      "title": "マイ名刺",
+      "content": "名前、好きなこと、夢の3つを入れて、3色ルールと整列を意識して名刺を作ってみよう。CanvaやFigmaを使えばすぐに形になる。",
+      "emoji": "💳",
+      "highlight": "名刺に入れる3要素:\n・名前\n・好きなこと\n・夢"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "デザイン修行おつかれガル！世界をきれいにしていこう🌟",
+      "background": "temple",
+      "title": "修行完了！",
+      "content": "デザインは美しさだけでなく、伝えたいことを助ける道具だ。今日作った名刺を1人に見せて、感想を聞いてみよう。",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

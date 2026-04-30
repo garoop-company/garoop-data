@@ -1,0 +1,149 @@
+{
+  "title": "数字と時間の英語",
+  "description": "毎日使う数を英語で言えるようになろう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "数字は英語でも超大事ガル！毎日使うよ⏰",
+      "title": "数と時間の世界へ",
+      "content": "このレッスンでは「数字と時間の英語」を学ぶ。値段、時刻、年齢、日付。数を英語で言えると、生活のあらゆる場面で世界が広がる。",
+      "emoji": "🔢"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "1から10まで、まずは順番に！",
+      "title": "1〜10",
+      "content": "one, two, three, four, five, six, seven, eight, nine, ten. ゲームの会話やお菓子を分けるときにも使える基本の数。",
+      "emoji": "1️⃣",
+      "highlight": "1 one  2 two  3 three  4 four  5 five\n6 six  7 seven  8 eight  9 nine  10 ten"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "11から20も覚えると会話が広がる！",
+      "title": "11〜20",
+      "content": "11 eleven, 12 twelve, 13 thirteenから先は語尾がteen。違いを声に出して比べると覚えやすい。",
+      "emoji": "🔟",
+      "highlight": "11 eleven\n12 twelve\n13 thirteen ... 19 nineteen\n20 twenty"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "100、1000まで言えると最強！",
+      "title": "大きな数",
+      "content": "100 one hundred, 1000 one thousand. 21 twenty-one、35 thirty-fiveのようにハイフンで区切ると読みやすい。",
+      "emoji": "💯",
+      "highlight": "21 twenty-one\n100 one hundred\n1000 one thousand"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "時刻の言い方は2種類あるガル！",
+      "title": "時刻の英語",
+      "content": "It's seven o'clock. It's seven thirty. 数字をそのまま並べる方法と、時間と分を分ける方法がある。",
+      "emoji": "🕐",
+      "highlight": "It's 7 o'clock.\nIt's 7:30 = seven thirty."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "曜日も数字とセットで覚えよう！",
+      "title": "曜日",
+      "content": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. 曜日は週の始まりがMondayなのが英語の標準。",
+      "emoji": "📅",
+      "highlight": "Mon → Sun\n月→日"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "日付の言い方もチェック！",
+      "title": "月日",
+      "content": "January（1月）から December（12月）。It's April 30. のように月＋日の順で言う。誕生日の話で活躍するよ。",
+      "emoji": "📆",
+      "highlight": "January / February ... December\nApril 30 = エイプリル サーティース"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "値段やお金も英語で読めるとカッコいい！",
+      "title": "値段",
+      "content": "$5 = five dollars. $9.99 = nine ninety-nine. ドルとセントは$と¢で書き分ける。",
+      "emoji": "💰",
+      "highlight": "$5 = five dollars\n$9.99 = nine ninety-nine"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "数字＋単位の表現もマスターしよう！",
+      "title": "単位を入れる",
+      "content": "I'm 10 years old. It's 3 kilometers. 5 minutes. 数字に単位をつけて使う型を覚えると、自然に話せるようになる。",
+      "emoji": "📏",
+      "highlight": "10 years old / 3 km / 5 minutes"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "クイズだガル！7時30分を英語で？",
+      "quizQuestion": "「7時30分です」を英語でなんと言う？",
+      "quizChoices": [
+        "It's seven thirty.",
+        "It's thirty seven.",
+        "It's seven hours.",
+        "It's half eight."
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "It's seven thirty. が一番自然。It's half past seven.も使える。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "数字マスターガル！日常で使ってみよう🌟",
+      "title": "レッスン完了！",
+      "emoji": "🎉"
+    }
+  ]
+}

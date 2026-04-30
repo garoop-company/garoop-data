@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "पात्र डिजाइन गहिरो",
+      "speech": "रूप मात्र होइन — भित्रबाट डिजाइन! 🎨",
+      "emoji": "🎨",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "मनपर्ने खाना, मन नपर्ने, बोलीको आदत, सपना। रूप बाहेक यी तीन कुरा निर्णय गर्दा पात्र चल्न थाल्छ।",
+      "highlight": "गहिराइ बुँदा:\n• मनपर्ने\n• मन नपर्ने\n• बोली आदत\n• सपना"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "ध्वनि प्रभाव",
+      "speech": "ध्वनिले संसार त्रिआयामिक बनाउँछ गाल्! 🔊",
+      "emoji": "🔊",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "पाइलाको आवाज, हावा, मुटुको ढुकढुक। एउटा प्रभावले चित्र जीवित देखिन्छ। Suno वा प्रभाव साइटमा खोजौं।",
+      "highlight": "ध्वनि विचार:\n• पाइला\n• हावा\n• मुटु"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

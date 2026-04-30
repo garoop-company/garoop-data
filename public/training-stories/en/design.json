@@ -1,0 +1,105 @@
+{
+  "title": "Design Training",
+  "description": "Train the skill of communicating feeling with color and shape!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Welcome to the Design Dojo! Train to express feelings through color and shape! 🎨",
+      "background": "mountain",
+      "title": "Design Dojo",
+      "content": "Design training trains less about drawing skill and more about designing how you want viewers to feel. Decide first 'who you're talking to' and 'what you want them to feel'.",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Colors carry feelings!",
+      "background": "dojo",
+      "title": "Meaning of Colors",
+      "content": "Red = passion / alert, blue = trust / calm, green = nature / safety, yellow = energy / attention. Pick a color that matches the feeling you want to share — viewers feel it instantly.",
+      "emoji": "🎨",
+      "highlight": "Colors and feelings:\n- Red = passion\n- Blue = trust\n- Green = safety\n- Yellow = energy"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Up to 3 colors looks clean!",
+      "background": "bamboo",
+      "title": "3-Color Rule",
+      "content": "Stick to a main, sub, and accent color — three at most. Keeping the accent under 10% of the design makes it pop without overpowering.",
+      "emoji": "🌈",
+      "highlight": "Golden ratio:\n- Main 70%\n- Sub 25%\n- Accent 5%"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "'Whitespace' is part of the design too!",
+      "background": "mountain",
+      "title": "Power of Whitespace",
+      "content": "Cramming everything in stops people from reading. Whitespace lets the eye rest and what you really want to show stand out. A little space around text and images changes the impression.",
+      "emoji": "⬜",
+      "highlight": "Whitespace effects:\n- Easy to read\n- Important parts pop\n- Looks premium"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Just 'aligning things' makes it look pro!",
+      "background": "dojo",
+      "title": "Magic of Alignment",
+      "content": "Just aligning text and images cleanly to the left or center makes a design feel professional in an instant. The trick is to follow an invisible grid.",
+      "emoji": "📏",
+      "highlight": "Alignment:\n- Left align\n- Center align\n- Follow the grid"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Use 'size contrast' to point out what matters!",
+      "background": "mountain",
+      "title": "Hierarchy by Size",
+      "content": "Big title, small body. A clear contrast tells the viewer where to look first. If the contrast is small, everything seems equally important.",
+      "emoji": "📊",
+      "highlight": "Size contrast:\n- Title: large\n- Subhead: medium\n- Body: small"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Today's challenge: 'design your own business card'!",
+      "background": "bamboo",
+      "title": "My Business Card",
+      "content": "Put name, what you love, and your dream on it. Apply the 3-color rule and alignment. Tools like Canva or Figma get you a result fast.",
+      "emoji": "💳",
+      "highlight": "3 things on the card:\n- Name\n- What you love\n- Your dream"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Great work! Let's make the world prettier! 🌟",
+      "background": "temple",
+      "title": "Training Complete!",
+      "content": "Design is not just beauty; it's a tool that helps your message land. Show today's card to one person and ask what they feel.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

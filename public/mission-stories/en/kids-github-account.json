@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Create a Repository",
+      "speech": "A repo is a box for your work! 📦",
+      "emoji": "📦",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Click '+' → New repository to create one. Names should be short, lowercase, with hyphens — that's GitHub style.",
+      "highlight": "Naming tips:\n- lowercase\n- hyphenated\n- short and clear"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Write a README",
+      "speech": "README is your project's self-intro! ✍️",
+      "emoji": "✍️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "A README answers three things: what you built, how to run it, who made it. Use Markdown headers (#) and bullets (-) for clean reading.",
+      "highlight": "README 3 things:\n1. What\n2. How to run\n3. Author"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

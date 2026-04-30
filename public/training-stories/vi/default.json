@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Đặt mục tiêu",
+      "speech": "Có mục tiêu thay đổi mỗi ngày luyện! 🎯",
+      "emoji": "🎯",
+      "background": "mountain",
+      "garuchanAnimation": "float",
+      "content": "Viết một câu: '3 tháng nữa tôi muốn làm được ___'. Đừng lo có làm được không, hãy viết phiên bản mình muốn.",
+      "highlight": "Công thức mục tiêu:\n- Hạn\n- Đối tượng\n- Bản thân tương lai"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Thời gian nhìn lại",
+      "speech": "5 phút cuối tuần để nhìn lại! 📝",
+      "emoji": "📝",
+      "background": "temple",
+      "garuchanAnimation": "bounce",
+      "content": "Cuối tuần, viết ba điều: làm được, chưa được, tuần sau làm gì. Đều đặn tuần qua tuần, mô thức và tiến bộ lộ ra.",
+      "highlight": "3 điểm:\n- Thành công\n- Chưa\n- Tuần tới"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

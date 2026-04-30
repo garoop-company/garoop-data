@@ -1,0 +1,149 @@
+{
+  "title": "भविष्यको काम र अंग्रेजी",
+  "description": "अंग्रेजीको शक्तिले सपनाको काम संसारमा फैलाऔं!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "तिम्रो सपनाको काम के? अंग्रेजी छ भने मञ्च सिंगो संसार! 🌍",
+      "title": "सपनाको काम र अंग्रेजी",
+      "content": "यो पाठ 'भविष्यको काम र अंग्रेजी' सिक्ने। अंग्रेजी आउँदा सपनाको काम संसारभर भेट्न सकिन्छ। काम र अंग्रेजीलाई जोडेर सोचौं।",
+      "emoji": "🚀"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "प्रोग्रामर विश्वव्यापी काम गाल्!",
+      "title": "प्रोग्रामर",
+      "content": "प्रोग्रामिङ भाषा, लाइब्रेरी, एरर सन्देश, कागजात धेरै अंग्रेजीमा छन्। अंग्रेजी जान्दा कोडको बुझाइ एक तह गहिरो हुन्छ।",
+      "emoji": "💻",
+      "highlight": "Programming = global job\nDocs are mostly in English"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "क्रिएटरले संसारभर फ्यान बनाउन सक्छ!",
+      "title": "क्रिएटर",
+      "content": "इलस्ट्रेसन, भिडियो, सङ्गीत। अंग्रेजी क्याप्सन र कमेन्ट लेख्न सक्दा रचना संसारका मानिससम्म पुग्छ।",
+      "emoji": "🎨",
+      "highlight": "Artist / YouTuber / Musician\n→ Reach the world"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "अनुसन्धानकर्ता र वैज्ञानिकलाई पनि अंग्रेजी अनिवार्य!",
+      "title": "अनुसन्धानकर्ता",
+      "content": "शोधपत्र, सम्मेलन, अन्तर्राष्ट्रिय सहकार्य। संसारका अनुसन्धानकर्तासँग सिक्न र काम गर्न अंग्रेजी अनिवार्य।",
+      "emoji": "🔬",
+      "highlight": "Research = global team\nPapers in English"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "उद्यमीले वैश्विक बजारमा चुनौती दिन सक्छ!",
+      "title": "उद्यमी",
+      "content": "सेवा संसारभर पुर्‍याउन चाहन्छ भने सुरुदेखि अंग्रेजी सोचेर डिजाइन गर्ने। बजार १० गुणा फराकिलो हुन्छ।",
+      "emoji": "💼",
+      "highlight": "Startup → Global market\n10x bigger world"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "स्वास्थ्य र कल्याणमा पनि अंग्रेजीको प्रयोग!",
+      "title": "स्वास्थ्य · कल्याण",
+      "content": "अन्तर्राष्ट्रिय स्वास्थ्य, विदेशी स्वयंसेवा, अनुसन्धान। अंग्रेजी छ भने सहयोग गर्न सकिने मानिसको सङ्ख्या बढ्छ।",
+      "emoji": "🏥",
+      "highlight": "Doctor / Nurse / Aid worker\n→ Help more people"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "शिक्षा र अनुवाद भविष्यको स्टार!",
+      "title": "शिक्षा · अनुवाद",
+      "content": "अन्तर्राष्ट्रिय विद्यालयका शिक्षक, अनुवादक, AI अनुवाद विशेषज्ञ। भाषाको पुल बनाउने कामको माग बढ्दैछ।",
+      "emoji": "📚",
+      "highlight": "Teacher / Interpreter / AI translator"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "'मनपर्ने कुरा' काम बन्ने युग गाल्!",
+      "title": "मनपर्ने काम",
+      "content": "गेम स्ट्रिमर, सामाजिक सञ्जाल क्रिएटर, ई-स्पोर्ट्स खेलाडी। शौकबाट जन्मने नयाँ पेसा निरन्तर। अंग्रेजीले घेरा फराकिलो बनाउँछ।",
+      "emoji": "💖",
+      "highlight": "Streamer / Creator / Pro gamer"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "अन्तर्वार्ताको अंग्रेजी पनि जाँचौं!",
+      "title": "अन्तर्वार्ता अंग्रेजी",
+      "content": "Tell me about yourself. Why do you want this job? What's your strength? आत्म परिचय + आवेदनको कारण + सबल पक्ष — यी ३ तयार गरे संसारभर चुनौती दिन सकिन्छ।",
+      "emoji": "🎤",
+      "highlight": "1. Tell me about yourself\n2. Why this job?\n3. Your strength?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "क्विज गाल्! अन्तर्वार्तामा 'आत्म परिचय दिनुहोस्' अंग्रेजीमा?",
+      "quizQuestion": "अन्तर्वार्ताको मानक पहिलो प्रश्न?",
+      "quizChoices": [
+        "Tell me about yourself.",
+        "Who are you?",
+        "Where are you?",
+        "What is your job?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Tell me about yourself. अन्तर्वार्ताको पहिलो क्लासिक प्रश्न।"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "सपना संसारभर फैलाऔं! तिम्रो अंग्रेजीले भविष्य निर्माण गर्छ 🌟",
+      "title": "श्रृंखला पूरा!",
+      "emoji": "🎉"
+    }
+  ]
+}

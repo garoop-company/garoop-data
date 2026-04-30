@@ -1,0 +1,105 @@
+{
+  "title": "Nhiệm vụ Prompt ChatGPT",
+  "description": "Nhiệm vụ điệp viên rèn luyện cách đặt câu hỏi với ChatGPT!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đặc vụ Prompt! Nhiệm vụ hôm nay là hỏi ChatGPT thật khôn ngoan! 🕵️💬",
+      "background": "lab",
+      "title": "Lệnh nhiệm vụ: Chiến dịch Prompt",
+      "content": "Nhiệm vụ là lấy được câu trả lời mình thực sự muốn từ ChatGPT. 3 điều kiện hoàn thành: nói rõ mục đích trong một câu, chỉ định đối tượng và định dạng, tạo hai bản để so sánh.",
+      "emoji": "💬",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Prompt là 'cách đặt câu hỏi với AI'! Cách viết khác thì câu trả lời cũng khác!",
+      "background": "spy",
+      "title": "Prompt là gì?",
+      "content": "Prompt là chỉ dẫn gửi cho AI. Cùng một câu hỏi, nếu thêm 'cho ai', 'dài bao nhiêu', 'theo định dạng nào' thì độ chính xác của câu trả lời sẽ khác hẳn.",
+      "emoji": "📝",
+      "highlight": "Điểm tạo ra khác biệt:\n- Đối tượng (cho ai?)\n- Độ dài (bao nhiêu chữ?)\n- Định dạng (gạch đầu dòng? đoạn văn?)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Cơ bản của prompt tốt là 5W1H! Hãy quyết định theo thứ tự!",
+      "background": "hq",
+      "title": "Thiết kế bằng 5W1H",
+      "content": "Who (cho ai), What (cái gì), Why (mục đích), When/Where (bối cảnh), How (cách viết) — quyết định trước thì AI không phải đoán. Đầu vào càng rõ, đầu ra càng sắc.",
+      "emoji": "🧭",
+      "highlight": "Kiểm tra 5W1H:\n- Who: học sinh tiểu học\n- What: ý tưởng nghiên cứu tự do\n- How: 5 ý dạng gạch đầu dòng"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Bảo AI 'đóng vai' thì câu trả lời sẽ thay đổi hẳn!",
+      "background": "spy",
+      "title": "Prompt nhập vai",
+      "content": "Khi bạn nói 'Bạn là giáo viên tiểu học', AI sẽ điều chỉnh giọng và nội dung phù hợp. Hãy chọn vai phù hợp mục đích: giáo viên, biên tập viên, huấn luyện viên, chuyên gia.",
+      "emoji": "🎭",
+      "highlight": "Ví dụ vai:\n- Giáo viên (giải thích nhẹ nhàng)\n- Biên tập (cô đọng)\n- Huấn luyện viên (động viên)"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hãy thử gửi 2 prompt cùng chủ đề - ngắn và chi tiết!",
+      "background": "lab",
+      "title": "Thực thi: So sánh A/B",
+      "content": "Cùng một chủ đề, so sánh 'prompt ngắn' với 'prompt có điều kiện'. Đặt hai câu trả lời cạnh nhau và ghi lại bản nào gần với mục tiêu hơn.",
+      "emoji": "🧪",
+      "highlight": "Ví dụ so sánh:\nA: 'Cho mình ý tưởng nghiên cứu tự do'\nB: 'Cho học sinh lớp 4, làm trong 3 ngày, môn khoa học, 5 ý dạng gạch đầu dòng'"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Lần đầu không cần hoàn hảo! Hãy tinh chỉnh bằng câu hỏi tiếp theo!",
+      "background": "hq",
+      "title": "Kỹ thuật prompt nối tiếp",
+      "content": "Sau câu trả lời đầu, hãy nói 'ngắn hơn nữa', 'dùng từ học sinh trung học hiểu được', 'thêm 3 ví dụ'. Mỗi lượt làm câu trả lời tốt hơn, không cần bắt đầu lại.",
+      "emoji": "🔁",
+      "highlight": "Ví dụ nối tiếp:\n- Đơn giản hơn\n- Thêm ví dụ\n- Cho ý kiến trái chiều"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tạo template riêng của mình! Lần sau chỉ cần dán vào!",
+      "background": "spy",
+      "title": "Template Prompt cá nhân",
+      "content": "Lưu lại khung mình hay dùng thành 'template'. Có sẵn 4 ô trống: vai, đối tượng, định dạng đầu ra, điều cấm — điền vào và gửi đi.",
+      "emoji": "📋",
+      "highlight": "Khung template:\n- Vai: ___\n- Đối tượng: ___\n- Đầu ra: ___\n- Cấm: ___"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hoàn thành nhiệm vụ! Nộp ảnh chụp prompt tốt nhất và nhận 480 điểm! 🎯",
+      "background": "lab",
+      "title": "Hoàn thành nhiệm vụ!",
+      "content": "Đậu nhiệm vụ này không phải nhờ câu trả lời của AI mà nhờ giải thích được 'cách hỏi nào làm câu trả lời tốt hơn'. Nghệ thuật đặt câu hỏi chính là vũ khí của bạn.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

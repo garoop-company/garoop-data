@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "出错的时候",
+      "speech": "错误不是敌人！是提示加鲁🐛",
+      "emoji": "🐛",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Codex生成的代码也会出错。先读「红字」，把最后一行贴回Codex说「修一下」最快。",
+      "highlight": "处理错误：\n1. 读红字\n2. 贴给Codex\n3. 说「修一下」"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "读代码修行",
+      "speech": "不能光靠AI，自己也要读加鲁📖",
+      "emoji": "📖",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "对AI说「这一行在做什么？」，逐行提问。能读懂代码后，改造的空间立刻翻倍。",
+      "highlight": "读法提问：\n・这行是什么？\n・删了会怎样？\n・还有其他写法吗？"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

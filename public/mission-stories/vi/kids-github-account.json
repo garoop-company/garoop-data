@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Tạo repository",
+      "speech": "Repo là hộp lưu tác phẩm! 📦",
+      "emoji": "📦",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Nhấn '+' → New repository để tạo. Tên ngắn, chữ thường, có dấu gạch — phong cách GitHub.",
+      "highlight": "Mẹo đặt tên:\n- Chữ thường\n- Có gạch nối\n- Ngắn và rõ"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Viết README",
+      "speech": "README là lời tự giới thiệu! ✍️",
+      "emoji": "✍️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "README trả lời 3 câu: làm cái gì, chạy thế nào, ai làm. Dùng Markdown tiêu đề (#) và gạch đầu dòng (-) cho dễ đọc.",
+      "highlight": "3 mục README:\n1. Cái gì\n2. Cách chạy\n3. Tác giả"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

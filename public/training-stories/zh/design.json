@@ -1,0 +1,105 @@
+{
+  "title": "设计修行",
+  "description": "用色彩和形状传递情感的修行！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "欢迎来到设计道场加鲁！用色彩和形状传递情感🎨",
+      "background": "mountain",
+      "title": "设计道场",
+      "content": "设计修行不是练「画得好」，而是练「设计观看者会有什么感受」。先决定「对谁说，想让对方感受什么」。",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "颜色都带着「情感」加鲁！",
+      "background": "dojo",
+      "title": "颜色的意义",
+      "content": "红＝激情/警示，蓝＝信任/冷静，绿＝自然/安心，黄＝活力/注目。配合想传达的情感选色，看一眼就感受到氛围。",
+      "emoji": "🎨",
+      "highlight": "色彩与情感：\n・红＝激情\n・蓝＝信任\n・绿＝安心\n・黄＝活力"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "颜色「最多3种」最美观加鲁！",
+      "background": "bamboo",
+      "title": "三色法则",
+      "content": "主色、副色、点缀色控制在3色以内更协调。点缀色占整体不超过10%最有效。",
+      "emoji": "🌈",
+      "highlight": "黄金比例：\n・主色70%\n・副色25%\n・点缀5%"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "「留白」也是设计的一部分加鲁！",
+      "background": "mountain",
+      "title": "留白的力量",
+      "content": "信息塞满就没人看。留白让眼睛休息，真正要展示的部分突出。文字图片周围留点空白印象就改变。",
+      "emoji": "⬜",
+      "highlight": "留白效果：\n・易读\n・重点突出\n・有高级感"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "光是「对齐」就显得专业加鲁！",
+      "background": "dojo",
+      "title": "对齐魔法",
+      "content": "把文字和图片严格地左对齐或居中对齐，设计立刻显得专业。沿着「网格」这条隐形线排版是关键。",
+      "emoji": "📏",
+      "highlight": "对齐方式：\n・左对齐\n・居中对齐\n・沿着网格"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "用「大小差」突出重点加鲁！",
+      "background": "mountain",
+      "title": "层级落差",
+      "content": "标题大，正文小。清晰的差异告诉观看者先看哪里。差异小就显得「都同样重要」。",
+      "emoji": "📊",
+      "highlight": "尺寸差：\n・标题：大\n・小标题：中\n・正文：小"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "今日挑战「设计自己的名片」加鲁！",
+      "background": "bamboo",
+      "title": "我的名片",
+      "content": "放上名字、喜好、梦想3要素，意识到三色法则与对齐做出名片。用Canva或Figma很快就能成型。",
+      "emoji": "💳",
+      "highlight": "名片3要素：\n・名字\n・喜好\n・梦想"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "设计修行辛苦加鲁！让世界更美好🌟",
+      "background": "temple",
+      "title": "修行完成！",
+      "content": "设计不仅是美观，更是助你传达讯息的工具。今天做的名片给1个人看，听听他的感受。",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

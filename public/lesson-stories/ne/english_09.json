@@ -1,0 +1,149 @@
+{
+  "title": "इन्टरनेट र गेमको अंग्रेजी",
+  "description": "अनलाइनमा संसारका साथीसँग कुरा गर्न सिकौं!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "नेट अंग्रेजी बुझे संसारका साथीसँग खेल्न सकिन्छ गाल्! 🎮",
+      "title": "इन्टरनेट र गेम अंग्रेजी",
+      "content": "यो पाठ 'इन्टरनेट र गेमको अंग्रेजी' सिक्ने। च्याट, गेम, सामाजिक सञ्जाल। संसारका साथीसँग कुरा गर्ने ढोका।",
+      "emoji": "🎮"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "च्याटका छोटा रूप कण्ठ गरौं!",
+      "title": "च्याट लघुरूप",
+      "content": "lol (हाँसो), brb (छिट्टै फर्केर), omg (आश्चर्य), gg (good game)। गेम च्याटमा पनि सामान्य।",
+      "emoji": "💬",
+      "highlight": "lol = laugh\nbrb = be right back\nomg = oh my god\ngg = good game"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "गेममा प्रयोग हुने वाक्य!",
+      "title": "गेम वाक्य",
+      "content": "Let's play! Nice shot! Watch out! गेम बीचको वाक्य छोटो र शक्तिशाली। साथीलाई हौसला दिने वाक्यले माहोल बदल्छ।",
+      "emoji": "🎯",
+      "highlight": "Let's play!\nNice shot!\nWatch out!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "सामाजिक सञ्जालका आधार पनि!",
+      "title": "सामाजिक सञ्जाल अंग्रेजी",
+      "content": "Follow me! DM me! Comment below! क्याप्सनमा पनि देखिने आधार वाक्य।",
+      "emoji": "📱",
+      "highlight": "Follow me!\nDM me!\nComment below!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "'लाइक!' अंग्रेजीमा यसरी!",
+      "title": "प्रतिक्रिया",
+      "content": "Cool! Awesome! Nice! That's so cute! प्रतिक्रिया फरक हुँदा कमेन्ट जवाफ दिन सजिलो।",
+      "emoji": "👍",
+      "highlight": "Cool! / Awesome! / Nice!\nThat's so cute!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "टोलीमा सामेल हुने वाक्य!",
+      "title": "टोलीमा सामेल",
+      "content": "Can I join? GG everyone! विनम्रतापूर्वक छिर्ने र विनम्रतापूर्वक निक्लने — यसैले 'राम्रो टोली साथी' बनिन्छ।",
+      "emoji": "🤝",
+      "highlight": "Can I join?\nGG everyone!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "अप्ठेरो परेको वाक्य!",
+      "title": "अप्ठेरो बेला",
+      "content": "I'm lost. What should I do? I'm AFK (किबोर्डबाट टाढा)। AFK = Away From Keyboard को लघुरूप।",
+      "emoji": "😵",
+      "highlight": "I'm lost.\nWhat should I do?\nI'm AFK."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "शब्द छनोटमा ध्यान!",
+      "title": "इन्टरनेट शिष्टाचार",
+      "content": "Please be kind. Don't be mean। अनलाइनमा पनि अनुहार भएका मानिससँगै कुरा गर्दैछौ। दया विश्वव्यापी भाषा हो।",
+      "emoji": "🤝",
+      "highlight": "Please be kind.\nDon't be mean."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "अन्त्य पनि राम्ररी!",
+      "title": "लगआउट अघि",
+      "content": "Thanks for the game! See you next time! अन्त्य राम्रो भए फेरि खेल्न बोलाइन्छ।",
+      "emoji": "👋",
+      "highlight": "Thanks for the game!\nSee you next time!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "क्विज गाल्! gg को अर्थ?",
+      "quizQuestion": "गेम च्याटमा प्रायः 'gg' को अर्थ?",
+      "quizChoices": [
+        "good game",
+        "got going",
+        "go go",
+        "great gift"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "gg = good game। खेल पछि एकअर्कालाई प्रशंसा गर्न प्रयोग।"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "नेट अंग्रेजी मास्टर गाल्! संसारका साथीसँग खेलौं 🌟",
+      "title": "पाठ पूरा!",
+      "emoji": "🎉"
+    }
+  ]
+}

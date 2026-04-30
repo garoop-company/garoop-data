@@ -1,0 +1,149 @@
+{
+  "title": "Greetings in English",
+  "description": "Magic greetings that change your day!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Greetings are the first step in English! Give people a smile! 👋",
+      "title": "Start with a Greeting",
+      "content": "This lesson is about English greetings. A short word shrinks the distance between you and someone you've just met.",
+      "emoji": "👋"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Hello works any time of day!",
+      "title": "Hello — All-Purpose",
+      "content": "Hello is the base greeting that fits any time. Try 'Hi there' when you want it slightly more friendly.",
+      "emoji": "👋",
+      "highlight": "Hello / Hi / Hi there"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "There are time-based greetings too!",
+      "title": "Morning, Noon, Night",
+      "content": "Good morning, Good afternoon, Good evening. Matching the time of day makes a great impression.",
+      "emoji": "🌅",
+      "highlight": "🌅 Good morning\n☀️ Good afternoon\n🌙 Good evening"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'How are you?' is the friendship password!",
+      "title": "How are you?",
+      "content": "When asked, reply with 'I'm good' or 'Not bad'. Send it back with 'And you?' to keep the conversation alive.",
+      "emoji": "💬",
+      "highlight": "Q: How are you?\nA: I'm good, and you?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Learn farewells too — they're a pair!",
+      "title": "Saying Goodbye",
+      "content": "Goodbye is a bit formal. With friends, 'See you' or 'Bye' works fine. 'See you tomorrow' is handy when you'll meet again.",
+      "emoji": "👋",
+      "highlight": "Bye / See you / See you tomorrow"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "'Thank you' is universal magic!",
+      "title": "Power of Thank You",
+      "content": "You can say Thank you many times a day. Thanks is the casual version. For deeper gratitude, Thank you so much.",
+      "emoji": "🙏",
+      "highlight": "Thanks / Thank you / Thank you so much"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Saying 'sorry' is cool too!",
+      "title": "Apologies",
+      "content": "I'm sorry is the basic apology. After bumping into someone, just 'Sorry!' is enough. Add 'really' when you mean it deeper.",
+      "emoji": "🙇",
+      "highlight": "Sorry / I'm sorry / I'm really sorry"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Greetings + a smile = 3x the effect!",
+      "title": "Smile and Eye Contact",
+      "content": "English greetings carry as much in the face and eyes as in the mouth. With a smile and eye contact, the same Hello changes everything.",
+      "emoji": "😊",
+      "highlight": "🎯 Word + Smile + Eyes = Greeting that lands"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Make greetings a daily routine!",
+      "title": "Build a Greeting Habit",
+      "content": "Greet your family or friends in English three times a day. The more reps, the more natural it gets.",
+      "emoji": "🔁",
+      "highlight": "Morning: Good morning\nNoon: How are you?\nNight: Good night"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Quiz time! How do you reply to 'How are you?'?",
+      "quizQuestion": "Which is the most natural reply to 'How are you?'",
+      "quizChoices": [
+        "I'm good, and you?",
+        "Yes, I am.",
+        "Thank you very much.",
+        "Hello!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Reply 'I'm good' (or similar), then bounce it back with 'And you?'."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "You're a greeting master from today! 🌟",
+      "title": "Lesson Complete!",
+      "emoji": "🎉"
+    }
+  ]
+}

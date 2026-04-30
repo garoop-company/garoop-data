@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Buat Repository",
+      "speech": "Repo adalah kotak penyimpan karya! 📦",
+      "emoji": "📦",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Klik '+' → New repository untuk membuatnya. Nama singkat, huruf kecil, dipisah tanda hubung — gaya GitHub.",
+      "highlight": "Tips penamaan:\n- huruf kecil\n- tanda hubung\n- ringkas dan jelas"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Tulis README",
+      "speech": "README adalah perkenalan karyamu! ✍️",
+      "emoji": "✍️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "README menjawab 3: apa yang dibuat, cara menjalankan, siapa pembuatnya. Markdown judul (#) dan poin (-) membuat tampilan rapi.",
+      "highlight": "README 3 hal:\n1. Apa\n2. Cara jalanin\n3. Pembuat"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

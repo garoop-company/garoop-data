@@ -1,0 +1,105 @@
+{
+  "title": "Reading Training",
+  "description": "Train the muscle to grow your world through books!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "Welcome to the Reading Dojo! Books are the cheapest travel! 📚",
+      "title": "Reading Dojo",
+      "content": "Reading training values 'what you carry away in your own words' more than the number of books. One insight from one book can change a life.",
+      "emoji": "📚",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "dojo",
+      "speech": "Pick by 'today's mood'!",
+      "title": "How to Pick a Book",
+      "content": "It doesn't need to be a bestseller. The cover, title, or first page that makes you want to read it is the right book for you now.",
+      "emoji": "📖",
+      "highlight": "Pick by:\n- Cover instinct\n- First page\n- Today's mood"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "bamboo",
+      "speech": "10 pages a day is enough!",
+      "title": "10 Pages a Day",
+      "content": "10 pages a day finishes a 300-page book in a month. Perfectionism kills reading. Steady drips become a flood.",
+      "emoji": "📅",
+      "highlight": "Pace:\n- 10 pages/day\n- 1 book/month\n- 12 books/year"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "mountain",
+      "speech": "Underline one line that moved you!",
+      "title": "One-Line Highlight",
+      "content": "You don't need to remember everything. Keep just one line per book — the one you 'never want to forget.'",
+      "emoji": "✏️",
+      "highlight": "Highlight rule:\n- Moved you\n- Want to reread\n- 1–3 per book"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "dojo",
+      "speech": "Try a '3-line note'!",
+      "title": "3-Line Note",
+      "content": "Line 1: a scene that stayed. Line 2: why. Line 3: how you'll use it. Even three lines anchor the book deeply.",
+      "emoji": "📝",
+      "highlight": "3-line shape:\n1. Scene\n2. Why\n3. How to use"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "bamboo",
+      "speech": "After finishing, tell someone!",
+      "title": "Talk to Anchor",
+      "content": "Telling reveals whether you really understood. Pitch the book to a family member or friend in one minute.",
+      "emoji": "🗣️",
+      "highlight": "How to share:\n- 1 minute\n- The line\n- Why recommend"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "Stretch your genres slowly!",
+      "title": "Range",
+      "content": "Beyond favorites, try one out-of-zone genre every six months. Your view of the world becomes 3D.",
+      "emoji": "🌐",
+      "highlight": "Stretch:\n- Fiction / Non-fiction\n- Science / History\n- Picture books for adults too"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "temple",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "Tell one family member about a book today 🌟",
+      "title": "Training Complete!",
+      "content": "The true value of reading isn't at the last page; it's how the book bends your daily choices. Tomorrow's you begins from today's page.",
+      "emoji": "🌟"
+    }
+  ]
+}

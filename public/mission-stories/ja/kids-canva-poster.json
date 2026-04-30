@@ -1,0 +1,105 @@
+{
+  "title": "Canvaポスターミッション",
+  "description": "Canvaでオリジナルポスターを作るスパイミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "ポスターエージェント！Canvaで1枚のポスターを作るガル🖼️",
+      "title": "ミッション指令：ポスター作戦",
+      "content": "任務はCanvaを使ってオリジナルポスターを完成させること。完成条件は、伝えたい1メッセージを決めている、写真を1枚使う、A4サイズで作るの3つだ。",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Canvaは初心者の味方ガル！",
+      "title": "Canvaとは？",
+      "content": "Canvaはテンプレートが豊富なデザインツール。Webブラウザでもアプリでも使えて、ドラッグ＆ドロップで簡単にデザインできる。",
+      "emoji": "✨",
+      "highlight": "Canvaの強み:\n・テンプレ豊富\n・ブラウザOK\n・無料素材"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "テーマを1文で決めよう！",
+      "title": "テーマ設定",
+      "content": "「読書を勧めるポスター」「文化祭の宣伝ポスター」など、誰のための、何のメッセージを伝えるかを1文に。",
+      "emoji": "🎯",
+      "highlight": "テーマ型:\n誰のための + 何を伝える"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "テンプレートを選ぼう！",
+      "title": "テンプレ選び",
+      "content": "「ポスター」で検索すると無数のテンプレが出る。雰囲気が近いものを選んで、文字や色だけ変えると速い。",
+      "emoji": "📋",
+      "highlight": "選び方:\n・雰囲気で\n・文字数で\n・色で"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "メッセージを目立たせよう！",
+      "title": "作戦実行：見出し",
+      "content": "ポスターは3秒で読まれる。一番大きな文字＝伝えたいメッセージ。10文字以内で短くまとめると印象が強い。",
+      "emoji": "📢",
+      "highlight": "見出しの条件:\n・大きい\n・10文字以内\n・色で目立つ"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "写真や画像を1枚入れよう！",
+      "title": "ビジュアル",
+      "content": "Canvaの素材は無料で何百万枚もある。テーマに合った写真やイラストを1枚入れるだけで世界観が出る。",
+      "emoji": "📸",
+      "highlight": "ビジュアル選び:\n・テーマに合う\n・1枚に絞る\n・余白を残す"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "印刷してリアルに残そう！",
+      "title": "ダウンロードと印刷",
+      "content": "右上のダウンロードからPDFやJPGで保存できる。実際に印刷して壁に貼ると、デジタルとは違う達成感がある。",
+      "emoji": "🖨️",
+      "highlight": "保存:\n・PDF（印刷向け）\n・JPG（共有向け）"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "ミッション完了ガル！画像を提出して400ポイントゲット🚀",
+      "title": "ミッション完了！",
+      "content": "完成は「3秒で何のポスターか伝わる」状態。実際に1人に見せて、3秒で理解してもらえるかチェックしよう。",
+      "emoji": "🚀"
+    }
+  ]
+}

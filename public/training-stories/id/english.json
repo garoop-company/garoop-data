@@ -1,0 +1,105 @@
+{
+  "title": "Pelatihan Bahasa Inggris",
+  "description": "Ubah bahasa Inggris jadi keterampilan yang benar-benar terpakai!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Selamat datang di Dojo Bahasa Inggris! Dapatkan kunci untuk terhubung dengan dunia! 🌍",
+      "background": "mountain",
+      "title": "Dojo Bahasa Inggris",
+      "content": "Dalam pelatihan bahasa Inggris, yang lebih penting daripada hafalan adalah 'frekuensi memakainya'. Latih membaca, menyimak, berbicara, menulis secara bergantian — pertumbuhan jadi lebih cepat.",
+      "emoji": "🌍",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Mulai dari 'bahasa Inggris tentang dirimu'!",
+      "background": "dojo",
+      "title": "Pelatihan Perkenalan Diri",
+      "content": "Siapkan kemampuan menyebut hal favorit, kegiatan harian, dan impian masa depan dalam bahasa Inggris. Kapan pun bisa memulai obrolan. Urutan yang mudah dipahami lebih penting dari tata bahasa sempurna.",
+      "emoji": "💬",
+      "highlight": "3 hal untuk diceritakan:\n- Apa yang disuka\n- Aktivitas harian\n- Impian"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Menyimak berkembang dengan kombinasi 'subtitle + suara'!",
+      "background": "bamboo",
+      "title": "Pelatihan Menyimak",
+      "content": "Tonton klip favorit dengan subtitle bahasa ibu, lalu subtitle bahasa Inggris, lalu tanpa subtitle. Konten sama, telinga dilatih 3 putaran. Mulai dari video pendek.",
+      "emoji": "🎧",
+      "highlight": "Menyimak 3 langkah:\n1. Subtitle bahasa ibu\n2. Subtitle bahasa Inggris\n3. Tanpa subtitle"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Latihan dengan AI juga sangat dianjurkan — tidak usah malu!",
+      "background": "mountain",
+      "title": "Percakapan AI",
+      "content": "Katakan ke ChatGPT atau Claude 'jadi teman ngobrol bahasa Inggris harianku', dan kamu punya ruang latihan tanpa batas. Tidak ada penilaian, jadi bicara keras dan salah pun tak apa.",
+      "emoji": "🤖",
+      "highlight": "Tips AI:\n- Tentukan topik\n- 5 menit/hari sudah cukup\n- Minta dikoreksi"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Simpan ekspresi yang dipelajari dalam 'catatan singkat' agar tak gampang lupa!",
+      "background": "dojo",
+      "title": "Buku Frasa",
+      "content": "Menyimpan per situasi lebih lekat daripada per kata. Untuk 'berterima kasih', 'meminta', 'berpendapat', kumpulkan 5 per kategori biar gampang dipakai ulang.",
+      "emoji": "📓",
+      "highlight": "Contoh situasi:\n- Berterima kasih\n- Meminta\n- Berpendapat"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Tantangan hari ini: 'perkenalan diri 30 detik'!",
+      "background": "bamboo",
+      "title": "Pidato 30 Detik",
+      "content": "Batas 30 detik memaksa kamu menyisakan hanya yang benar-benar ingin disampaikan. Rekam dan dengar lagi, kamu akan menemukan kebiasaan pengucapan dan hal yang ingin diperbaiki.",
+      "emoji": "⏱️",
+      "highlight": "Struktur 30 detik:\n- Salam 5 detik\n- Hal favorit 15 detik\n- Impian 10 detik"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "5 menit per hari sudah cukup! Konsistensi adalah kunci!",
+      "background": "mountain",
+      "title": "Tips Konsisten",
+      "content": "5 menit harian mengalahkan 2 jam sekali. Jangan kejar kesempurnaan — kumpulkan 'hari ini menyentuh juga'. Tiga bulan kemudian dirimu tak akan dikenali.",
+      "emoji": "🔁",
+      "highlight": "Tips konsisten:\n- Tetapkan waktu\n- Mulai kecil\n- Catat"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Kerja bagus! Mari bersuara untuk dunia! 🌟",
+      "background": "temple",
+      "title": "Pelatihan Selesai!",
+      "content": "Bahasa Inggris bukan untuk ujian melainkan alat berbicara dengan teman di seluruh dunia. Rekam pidato 30 detik hari ini agar dirimu di masa depan bisa mendengar lagi.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

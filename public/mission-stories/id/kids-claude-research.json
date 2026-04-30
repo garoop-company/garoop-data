@@ -1,0 +1,105 @@
+{
+  "title": "Misi Riset Claude",
+  "description": "Misi mata-mata melakukan riset mendalam dengan Claude!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agen Riset! Hari ini riset serius dengan Claude! 🕵️📚",
+      "background": "lab",
+      "title": "Briefing Misi: Operasi Riset",
+      "content": "Tugasnya menyelidiki satu topik dari berbagai sudut dengan Claude lalu meringkasnya dalam 3 baris. Tiga syarat: konfirmasi minimal 1 sumber, lihat pendapat pro dan kontra, tulis kesimpulan dengan kata-katamu sendiri.",
+      "emoji": "📚",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Claude sangat jago menata teks panjang!",
+      "background": "spy",
+      "title": "Apa itu Claude?",
+      "content": "Claude adalah AI yang ahli membaca dokumen panjang dan membandingkan banyak informasi. Kekuatannya keluar saat kamu menempelkan materi dan mendiskusikannya, bukan sekadar bertanya singkat.",
+      "emoji": "🧠",
+      "highlight": "Kelebihan:\n- Meringkas teks panjang\n- Menyusun banyak sudut pandang\n- Membandingkan argumen"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Ubah topik jadi 'pertanyaan' agar riset dimulai!",
+      "background": "hq",
+      "title": "Ubah jadi Pertanyaan",
+      "content": "Topik seperti 'AI' terlalu luas. Ubah jadi 'Apakah AI akan mengambil PR anak SD?' supaya bisa diteliti dari kedua sisi.",
+      "emoji": "❓",
+      "highlight": "Pola pertanyaan:\n- Apakah ~ benar\n- ~ mengubah apa\n- ~ butuh apa"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Jangan dengar satu sisi saja! Dengar pro dan kontra!",
+      "background": "spy",
+      "title": "Dua Sisi Sekaligus",
+      "content": "Minta Claude '3 alasan setuju' dan '3 alasan tidak setuju' secara terpisah, lalu minta 'kesimpulan yang menyatukan keduanya'. Pikiran jadi rapi.",
+      "emoji": "⚖️",
+      "highlight": "Cara bertanya:\n1. 3 alasan setuju\n2. 3 alasan tidak setuju\n3. Kesimpulanmu"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tempel materi dan baca bersama!",
+      "background": "lab",
+      "title": "Membaca Materi",
+      "content": "Tempel artikel berita atau cuplikan buku lalu minta '3 poin penting dari ini'. Memahami teks panjang jadi cepat. Simpan link atau halaman untuk dicek nanti.",
+      "emoji": "📰",
+      "highlight": "Cara bertanya:\n- 3 poin penting\n- Jelaskan kata sulit\n- Pengaruh ke saya"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Ragukan AI juga! Selalu verifikasi dengan kepalamu sendiri!",
+      "background": "hq",
+      "title": "Cek Fakta",
+      "content": "AI bisa salah, jadi verifikasi angka atau nama penting dengan sumber lain. Bertanya balik ke Claude 'Apa dasar info ini?' juga sangat berguna.",
+      "emoji": "🔍",
+      "highlight": "Cara cek:\n- Angka di data asli\n- Nama di situs resmi\n- Tanggal di arsip berita"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Akhirnya, ringkas dalam 3 baris dengan kata-katamu sendiri!",
+      "background": "spy",
+      "title": "Ringkasan 3 Baris",
+      "content": "Baris 1: pertanyaan. Baris 2: temuan. Baris 3: pendapatmu. Dengan template ini, laporan singkat pun mudah dimengerti.",
+      "emoji": "📝",
+      "highlight": "Laporan 3 baris:\nPertanyaan → Temuan → Pendapatku"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Misi selesai! Kirim ringkasan 3 baris untuk dapat 460 poin! 🎯",
+      "background": "lab",
+      "title": "Misi Selesai!",
+      "content": "Riset bukan mengumpulkan jawaban, tetapi melatih 'otot bertanya'. Gabungkan AI dengan cek fakta, kamu akan tahu lebih cepat dan lebih dalam dari siapapun.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

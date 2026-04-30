@@ -1,0 +1,105 @@
+{
+  "title": "Suno作曲任务",
+  "description": "用AI创作自己原创歌曲的间谍任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "声音特工！今天用Suno创作原创歌曲加鲁！🎵",
+      "background": "lab",
+      "title": "任务指令：作曲作战",
+      "content": "任务是用Suno完成2分钟以内的原创歌曲。完成条件3个：一句话说出主题、确定音乐风格、副歌部分自己写。",
+      "emoji": "🎵",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Suno只要给「歌词」和「风格」就能作曲加鲁！",
+      "background": "spy",
+      "title": "Suno的原理",
+      "content": "Suno是从输入的歌词和风格指示自动生成旋律、和弦、人声的AI。信息越具体，越接近想要的曲风。",
+      "emoji": "🎤",
+      "highlight": "需要3种信息：\n・歌词\n・风格/氛围\n・节奏与乐器"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "确定主题！为谁而写？写什么？",
+      "background": "hq",
+      "title": "一句话定主题",
+      "content": "「给朋友的加油歌」「第一次骑自行车那天的歌」这样写出对象和感受，歌词就好写。模糊地开始写，中途就会迷失。",
+      "emoji": "🎯",
+      "highlight": "主题模板：\n给谁＋什么心情＋哪个场景"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "歌词分「主歌・过渡・副歌」3部分思考会更清晰加鲁！",
+      "background": "spy",
+      "title": "歌曲结构",
+      "content": "主歌写情境，过渡写情绪变化，副歌写最想传达的信息，流程才自然。副歌会反复出现，所以先决定。",
+      "emoji": "📝",
+      "highlight": "结构模板：\n主歌：情境\n过渡：情绪转折\n副歌：核心信息"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "把风格和节奏也写出来！例：明快J-POP，120BPM，钢琴主导",
+      "background": "hq",
+      "title": "风格指示",
+      "content": "除了流派，还要告知氛围、乐器、节奏，曲调才稳定。同样的歌词在「摇滚」和「抒情」下完全是两首歌。",
+      "emoji": "🎸",
+      "highlight": "指示示例：\n・流派：J-POP\n・氛围：明快加油系\n・乐器：钢琴+弦乐"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "把歌词和风格输入Suno，开始生成！",
+      "background": "lab",
+      "title": "作战实施：生成时间",
+      "content": "把歌词和风格粘贴到Suno等待生成。第一次不满意也没关系，调整副歌词句或风格再生成，每一轮都更接近理想。",
+      "emoji": "▶️",
+      "highlight": "改进技巧：\n・加强副歌词句\n・改变节奏\n・精简乐器"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "找到喜欢的版本就起标题保存加鲁！",
+      "background": "spy",
+      "title": "命名与保存",
+      "content": "完成的歌曲一定要起标题。标题是听众最先看到的信息，要用一句话表达歌曲的氛围。",
+      "emoji": "💾",
+      "highlight": "起标题技巧：\n・简短\n・传达情感\n・让人想听"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "任务完成加鲁！上传歌曲链接获得500积分！🎉",
+      "background": "lab",
+      "title": "任务完成！",
+      "content": "完成的标志是你能用自己的话说明「这首歌是关于什么的」。当你的主题搭载在AI生成的旋律上时，它就成为真正的作品。",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

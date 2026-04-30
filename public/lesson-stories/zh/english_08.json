@@ -1,0 +1,149 @@
+{
+  "title": "学校英语",
+  "description": "学校生活能用的英语！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "学校英语对老师和朋友都用得上加鲁！🏫",
+      "title": "学校英语",
+      "content": "本课学习「学校英语」。上课、课间、教室、图书馆。学校生活能用的表达集中学习。",
+      "emoji": "🏫"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "学科名称英语怎么说？",
+      "title": "学科",
+      "content": "math（数学）, science（理科）, English, history（历史）, music（音乐）, P.E.（体育）。从喜欢的学科开始记轻松。",
+      "emoji": "📚",
+      "highlight": "math / science / English\nhistory / music / P.E."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "向老师提问的魔法！",
+      "title": "向老师提问",
+      "content": "Excuse me, can I ask a question? I don't understand. 提问的勇气能加倍学习速度。举手后说这句。",
+      "emoji": "🙋",
+      "highlight": "Can I ask a question?\nI don't understand."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "「请再说一次」也超重要！",
+      "title": "请求重复",
+      "content": "Could you say that again, please? Could you speak slowly? 没听清没关系，再请一次就行。",
+      "emoji": "👂",
+      "highlight": "Could you say that again?\nCould you speak slowly?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "教室工具也用英语试试！",
+      "title": "教室工具",
+      "content": "pen, pencil, eraser, notebook, textbook, ruler。练习「Can I borrow your pencil?」也很实用。",
+      "emoji": "✏️",
+      "highlight": "pen / pencil / eraser\nnotebook / textbook / ruler"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "作业英语也来看！",
+      "title": "作业",
+      "content": "What's the homework? I finished my homework. 和朋友确认时直接能用。",
+      "emoji": "📝",
+      "highlight": "What's the homework?\nI finished my homework."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "课间也用英语聊！",
+      "title": "课间",
+      "content": "Let's play together! Want to join us? 邀请朋友的话一句，英语聊天伙伴就增加。",
+      "emoji": "⏰",
+      "highlight": "Let's play together!\nWant to join us?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "考试感想也表达！",
+      "title": "考试",
+      "content": "The test was hard. I did my best. 比起结果，「我尽力了」是全球通用的鼓励。",
+      "emoji": "📋",
+      "highlight": "The test was hard.\nI did my best."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "放学时说「辛苦了」！",
+      "title": "放学",
+      "content": "See you tomorrow! Good job today! 结束一天的问候，对明天再见的朋友传达心意。",
+      "emoji": "🌅",
+      "highlight": "See you tomorrow!\nGood job today!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "小测验加鲁！「再说一次」用英语怎么说？",
+      "quizQuestion": "「请再说一次」最礼貌的说法是？",
+      "quizChoices": [
+        "Could you say that again, please?",
+        "Repeat!",
+        "What?",
+        "Hello again."
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Could you say that again, please?最礼貌自然。please是关键。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "学校英语大师加鲁！明天就用🌟",
+      "title": "课程完成！",
+      "emoji": "🎉"
+    }
+  ]
+}

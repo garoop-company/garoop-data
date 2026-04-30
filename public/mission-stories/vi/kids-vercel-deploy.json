@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Cài tên miền riêng",
+      "speech": "Có tên miền riêng tăng cảm giác 'thật' gấp đôi! 🌐",
+      "emoji": "🌐",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Thêm Custom Domain trong cài đặt Vercel. Với my-app.com, dịch vụ của bạn thật ngay lập tức.",
+      "highlight": "Bước tên miền:\n1. Domains\n2. Add Domain\n3. Cấu hình DNS"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Dùng biến môi trường",
+      "speech": "Đừng để key bí mật trong code! 🔐",
+      "emoji": "🔐",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Lưu API key và mật khẩu vào biến môi trường Vercel, không để trong code. Code công khai vẫn an toàn.",
+      "highlight": "Quy tắc env var:\n- Không trong code\n- Tên chữ in hoa\n- Đặt trên Vercel"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

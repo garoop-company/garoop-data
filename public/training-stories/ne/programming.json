@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "फङ्सनले व्यवस्थित",
+      "speech": "फङ्सन = एक नामको एक काम बाकस गाल्! 📦",
+      "emoji": "📦",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "उही तर्क ३ पटक देखिए फङ्सन बनाउने समय। 'क्रिया + उद्देश्य' को रूपमा नाम राख्दा पछि पढ्न सजिलो।",
+      "highlight": "फङ्सन बनाउने सङ्केत:\n• ३ पटक प्रयोग\n• नामले अर्थ देखाउने"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "डिबग प्रविधि",
+      "speech": "बग 'केही गडबड' को सङ्केत हो गाल्! 🐞",
+      "emoji": "🐞",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "बग देखिँदा print वा console.log ले 'यहाँसम्म चल्यो' पुष्टि गर्ने। ठाउँ थाहा भए कारण आधा समाधान।",
+      "highlight": "डिबग ३ चरण:\n१. पुनरावृत्ति\n२. print थप्ने\n३. कारण साँघुर्‍याउने"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

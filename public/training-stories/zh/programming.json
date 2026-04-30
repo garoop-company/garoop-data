@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "用函数整理",
+      "speech": "函数是「把同处理收进一个名字的箱」加鲁📦",
+      "emoji": "📦",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "同样的处理出现3次就该做成函数。函数名用「动词+宾语」写好，后续阅读方便。",
+      "highlight": "封装信号：\n・重复3次\n・看名字就懂意图"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "调试要诀",
+      "speech": "Bug是「奇怪动作」的信号加鲁🐞",
+      "emoji": "🐞",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "发现bug时用print或console.log确认「跑到这里了」。定位到位置，原因就解决一半。",
+      "highlight": "调试3步：\n1. 复现\n2. 加print\n3. 缩小原因"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

@@ -1,0 +1,149 @@
+{
+  "title": "Tại sao học tiếng Anh",
+  "description": "Tìm cánh cửa kết nối với thế giới!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Cùng Gal-chan phiêu lưu thế giới tiếng Anh nhé! 🌍",
+      "background": "city",
+      "title": "Tại sao học tiếng Anh",
+      "emoji": "🌍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "Bài học 'Tại sao học tiếng Anh' cùng tìm hiểu thế giới mà tiếng Anh mở ra. Không chỉ ý nghĩa từ vựng, qua tình huống quen thuộc và bài tập nhỏ, bạn sẽ giải thích bằng lời mình và đi tới hành động kế tiếp."
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Hơn 1,5 tỷ người trên thế giới dùng tiếng Anh như công cụ chung!",
+      "background": "city",
+      "title": "Ngôn ngữ chung của thế giới",
+      "content": "Người nói tiếng Anh bản xứ không phải là quá đông, nhưng tiếng Anh được dùng làm 'ngôn ngữ chung' khắp thế giới. Là cây cầu đầu tiên khi nói chuyện với người nước khác!",
+      "emoji": "🌐",
+      "highlight": "🌐 Tiếng Anh = cầu nối thế giới"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Phim, game yêu thích sẽ mở rộng nhờ tiếng Anh!",
+      "background": "candy",
+      "title": "Thế giới sở thích mở rộng",
+      "content": "Đọc được tiếng Anh, không cần chờ phụ đề hay bản dịch, bạn có thể tiếp cận nội dung mới nhất. Phim, game, manga, âm nhạc, niềm vui đều nhân lên!",
+      "emoji": "🎮",
+      "highlight": "🎬 phim 🎮 game 🎵 nhạc 📚 sách"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Tiếng Anh là chìa khóa thần kỳ mở rộng lựa chọn tương lai!",
+      "background": "ocean",
+      "title": "Lựa chọn tương lai",
+      "content": "Đại học nước ngoài, công việc nước ngoài, bạn bè khắp thế giới. Khi nói được tiếng Anh, nơi sống và làm việc mở rộng ra cả hành tinh!",
+      "emoji": "🌟",
+      "highlight": "🏫 du học 💼 làm việc nước ngoài ✈️ du lịch"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Trong IT và AI, hầu hết thông tin mới nhất công bố bằng tiếng Anh trước!",
+      "background": "space",
+      "title": "Công nghệ và tiếng Anh",
+      "content": "Ngôn ngữ lập trình, bài báo AI, hướng dẫn công cụ mới — phần lớn xuất hiện bằng tiếng Anh trước. Đọc được tiếng Anh, bạn chạm vào tiền tuyến sớm hơn nhiều tháng!",
+      "emoji": "💻",
+      "highlight": "Công nghệ mới → bài báo tiếng Anh → 6 tháng sau → bản dịch"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Tiếng Anh không cần hoàn hảo! 'Truyền đạt được' mới quan trọng!",
+      "background": "forest",
+      "title": "'Truyền đạt' hơn 'Hoàn hảo'",
+      "content": "Không cần nói như người bản xứ. Khoảng 80% người dùng tiếng Anh trên thế giới không phải bản xứ. 'Tiếng Anh không hoàn hảo nhưng truyền đạt được' là chuẩn của thời này!",
+      "emoji": "💬",
+      "highlight": "Hoàn hảo ❌ → Truyền đạt được ⭕"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI đang cách mạng việc học tiếng Anh! Tập mà không ngại!",
+      "background": "space",
+      "title": "AI và việc học tiếng Anh",
+      "content": "Bảo ChatGPT hay Claude làm bạn thoại tiếng Anh, có thể tập 24/7. Phát âm, ngữ pháp, cách diễn đạt — AI dạy nhẹ nhàng!",
+      "emoji": "🤖",
+      "highlight": "Bạn thoại AI = đối tác tập vô tận"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Mỗi ngày một chút thôi! Kiên trì là quan trọng nhất!",
+      "background": "classroom",
+      "title": "Mẹo duy trì",
+      "content": "10 phút mỗi ngày, kéo dài 100 ngày là hơn 16 giờ! Hằng ngày một ít hiệu quả hơn dồn cuối tuần. Bí quyết là bắt đầu từ điều mình thích!",
+      "emoji": "🔁",
+      "highlight": "10 phút × 100 ngày = 16+ giờ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Tiếng Anh là công cụ! Để đưa ước mơ ra thế giới!",
+      "background": "space",
+      "title": "Tiếng Anh là công cụ của ước mơ",
+      "content": "Tiếng Anh không phải là mục tiêu. Nó là công cụ giúp ước mơ của bạn lan tỏa ở quy mô toàn cầu. Khi quyết được mình muốn làm gì, ý nghĩa của việc học sẽ tự lộ ra!",
+      "emoji": "🚀",
+      "highlight": "Tiếng Anh = tên lửa đưa ước mơ ra thế giới"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Trong số người dùng tiếng Anh trên thế giới, người không phải bản xứ chiếm khoảng bao nhiêu?",
+      "quizChoices": [
+        "Khoảng 80%",
+        "Khoảng 50%",
+        "Khoảng 30%",
+        "Khoảng 10%"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Khoảng 80% người dùng tiếng Anh trên thế giới không phải bản xứ. Truyền đạt được quan trọng hơn hoàn hảo!",
+      "background": "city",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "Giờ là câu đố! Suy nghĩ thử nhé!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đã thấy ý nghĩa của việc học tiếng Anh chưa? Bắt đầu từ một từ cũng được nhé 🌟",
+      "background": "city",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

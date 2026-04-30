@@ -1,0 +1,149 @@
+{
+  "title": "Nghề tương lai và tiếng Anh",
+  "description": "Đưa nghề mơ ước ra thế giới bằng sức mạnh tiếng Anh!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Nghề mơ ước của bạn là gì? Có tiếng Anh, sân khấu là cả thế giới! 🌍",
+      "title": "Nghề mơ ước và tiếng Anh",
+      "content": "Bài học 'Nghề tương lai và tiếng Anh'. Biết tiếng Anh, bạn tìm được nghề mơ ước trên toàn thế giới. Hãy kết nối nghề và tiếng Anh.",
+      "emoji": "🚀"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Lập trình viên là nghề toàn cầu!",
+      "title": "Lập trình viên",
+      "content": "Ngôn ngữ lập trình, thư viện, thông báo lỗi, tài liệu — phần lớn bằng tiếng Anh. Biết tiếng Anh giúp hiểu code sâu thêm một bậc.",
+      "emoji": "💻",
+      "highlight": "Programming = global job\nDocs are mostly in English"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Người sáng tạo có thể có fan khắp thế giới!",
+      "title": "Sáng tạo",
+      "content": "Vẽ, video, âm nhạc. Viết caption và comment tiếng Anh, tác phẩm tới được người khắp nơi.",
+      "emoji": "🎨",
+      "highlight": "Artist / YouTuber / Musician\n→ Reach the world"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Nhà nghiên cứu và khoa học cũng cần tiếng Anh!",
+      "title": "Nhà nghiên cứu",
+      "content": "Bài báo, hội thảo, hợp tác quốc tế. Để cùng học với các nhà nghiên cứu toàn cầu, tiếng Anh là không thể thiếu.",
+      "emoji": "🔬",
+      "highlight": "Research = global team\nPapers in English"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Doanh nhân có thể thử thách thị trường toàn cầu!",
+      "title": "Doanh nhân",
+      "content": "Muốn đưa dịch vụ ra toàn cầu, hãy thiết kế bằng tiếng Anh ngay từ đầu. Thị trường mở rộng gấp 10 lần.",
+      "emoji": "💼",
+      "highlight": "Startup → Global market\n10x bigger world"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Y tế và phúc lợi cũng cần tiếng Anh!",
+      "title": "Y tế · Phúc lợi",
+      "content": "Y tế quốc tế, tình nguyện hải ngoại, nghiên cứu. Với tiếng Anh, số người bạn có thể giúp tăng lên.",
+      "emoji": "🏥",
+      "highlight": "Doctor / Nurse / Aid worker\n→ Help more people"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Giáo dục và phiên dịch là ngôi sao tương lai!",
+      "title": "Giáo dục · Phiên dịch",
+      "content": "Giáo viên trường quốc tế, phiên dịch, chuyên gia dịch AI. Nghề bắc cầu ngôn ngữ ngày càng được cần.",
+      "emoji": "📚",
+      "highlight": "Teacher / Interpreter / AI translator"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Thời đại 'điều bạn thích' biến thành nghề!",
+      "title": "Biến sở thích thành nghề",
+      "content": "Streamer game, người sáng tạo MXH, vận động viên esports. Nghề mới sinh từ sở thích liên tục. Tiếng Anh mở rộng vòng tròn.",
+      "emoji": "💖",
+      "highlight": "Streamer / Creator / Pro gamer"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Cũng kiểm tra tiếng Anh phỏng vấn!",
+      "title": "Tiếng Anh phỏng vấn",
+      "content": "Tell me about yourself. Why do you want this job? What's your strength? Tự giới thiệu + lý do + điểm mạnh — chuẩn bị 3 cái này là có thể thử thách khắp thế giới.",
+      "emoji": "🎤",
+      "highlight": "1. Tell me about yourself\n2. Why this job?\n3. Your strength?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Câu đố! 'Hãy giới thiệu bản thân' phỏng vấn tiếng Anh?",
+      "quizQuestion": "Câu mở đầu phỏng vấn tiêu chuẩn?",
+      "quizChoices": [
+        "Tell me about yourself.",
+        "Who are you?",
+        "Where are you?",
+        "What is your job?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Tell me about yourself. là câu hỏi đầu tiên kinh điển trong phỏng vấn."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Đưa ước mơ ra toàn cầu! Tiếng Anh của bạn xây tương lai! 🌟",
+      "title": "Hoàn thành loạt bài!",
+      "emoji": "🎉"
+    }
+  ]
+}

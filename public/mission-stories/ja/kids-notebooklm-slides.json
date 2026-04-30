@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "スライドの構成",
+      "speech": "スライドは「導入→本論→結び」の3部構成ガル📊",
+      "emoji": "📊",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "最初に何を伝えたいか、中で詳しく説明し、最後にもう一度結論。シンプルだけど強い構成だ。",
+      "highlight": "3部構成:\n1. 導入（つかむ）\n2. 本論（詳しく）\n3. 結び（残す）"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "アニメーション活用",
+      "speech": "動きは少なめが上品ガル✨",
+      "emoji": "✨",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "アニメーションは1スライドに1つまで。動きすぎると読みにくく、少ないと印象的になる。",
+      "highlight": "アニメ原則:\n・1スライド1動き\n・出番は意味のある時\n・派手すぎ注意"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

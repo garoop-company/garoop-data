@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Struktur Slide",
+      "speech": "Slide pakai 'pembuka → isi → penutup'! 📊",
+      "emoji": "📊",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Sampaikan pesan, jelaskan, ulangi. Sederhana tapi kuat.",
+      "highlight": "3 bagian:\n1. Pembuka (kait)\n2. Isi (detail)\n3. Penutup (jangkar)"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Pakai Animasi Bijak",
+      "speech": "Sedikit gerakan, lebih elegan! ✨",
+      "emoji": "✨",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Batasi animasi satu per slide. Terlalu banyak menyulitkan membaca; pengendalian menciptakan dampak.",
+      "highlight": "Aturan animasi:\n- 1 per slide\n- Hanya jika bermakna\n- Hindari heboh"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

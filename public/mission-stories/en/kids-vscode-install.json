@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Useful Extensions",
+      "speech": "Extensions make VSCode 10x more useful! 🔌",
+      "emoji": "🔌",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Prettier (auto-format), Live Server (instant preview), GitLens (history view). Just three boost your speed dramatically.",
+      "highlight": "3 must-haves:\n- Prettier\n- Live Server\n- GitLens"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Keyboard Shortcuts",
+      "speech": "Shortcuts make you look pro! ⌨️",
+      "emoji": "⌨️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Cmd+S (save), Cmd+P (find file), Cmd+Shift+P (command palette). Even three lets you work without a mouse.",
+      "highlight": "Learn 3:\n- Cmd+S\n- Cmd+P\n- Cmd+Shift+P"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

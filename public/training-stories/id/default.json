@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Tetapkan Tujuan",
+      "speech": "Tujuan mengubah setiap hari latihan! 🎯",
+      "emoji": "🎯",
+      "background": "mountain",
+      "garuchanAnimation": "float",
+      "content": "Tulis satu kalimat: '3 bulan lagi saya ingin bisa ___.' Jangan ragu bisa atau tidak, tulis dirimu yang ingin dituju.",
+      "highlight": "Resep tujuan:\n- Tenggat\n- Subjek\n- Diri masa depan"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Waktu Refleksi",
+      "speech": "Lima menit akhir pekan untuk refleksi! 📝",
+      "emoji": "📝",
+      "background": "temple",
+      "garuchanAnimation": "bounce",
+      "content": "Setiap akhir pekan tulis tiga: yang berhasil, yang tidak, yang berikutnya. Pola dan pertumbuhan akan terlihat.",
+      "highlight": "3 poin:\n- Sukses\n- Gagal\n- Minggu depan"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

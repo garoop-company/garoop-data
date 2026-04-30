@@ -1,0 +1,149 @@
+{
+  "title": "Lời chào tiếng Anh",
+  "description": "Lời chào kỳ diệu thay đổi cả ngày!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Chào hỏi là bước đầu của tiếng Anh! Trao đối phương một nụ cười 👋",
+      "title": "Bắt đầu bằng lời chào",
+      "content": "Bài học 'Lời chào tiếng Anh' giúp bạn rút ngắn khoảng cách với người mới gặp chỉ bằng một câu ngắn.",
+      "emoji": "👋"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Hello dùng được bất cứ lúc nào!",
+      "title": "Hello — Vạn năng",
+      "content": "Hello là lời chào cơ bản dùng mọi lúc. Muốn thân hơn chút thì 'Hi there'.",
+      "emoji": "👋",
+      "highlight": "Hello / Hi / Hi there"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Còn có lời chào theo thời gian!",
+      "title": "Sáng, trưa, tối",
+      "content": "Good morning, Good afternoon, Good evening. Hợp thời gian sẽ tạo ấn tượng tốt.",
+      "emoji": "🌅",
+      "highlight": "🌅 Good morning\n☀️ Good afternoon\n🌙 Good evening"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'How are you?' là mật mã tình bạn!",
+      "title": "How are you?",
+      "content": "Khi được hỏi, trả lời I'm good hoặc Not bad. Thêm And you? để giữ cuộc trò chuyện tiếp diễn.",
+      "emoji": "💬",
+      "highlight": "Q: How are you?\nA: I'm good, and you?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Học cả lời tạm biệt theo cặp!",
+      "title": "Cách chào tạm biệt",
+      "content": "Goodbye hơi trang trọng. Với bạn, 'See you' hoặc 'Bye' là đủ. Hẹn lại thì 'See you tomorrow'.",
+      "emoji": "👋",
+      "highlight": "Bye / See you / See you tomorrow"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "'Thank you' là phép thuật toàn cầu!",
+      "title": "Sức mạnh Thank You",
+      "content": "Bạn có thể nói Thank you nhiều lần trong ngày. Thanks là phiên bản thân mật. Cảm ơn sâu sắc thì Thank you so much.",
+      "emoji": "🙏",
+      "highlight": "Thanks / Thank you / Thank you so much"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Biết xin lỗi cũng rất ngầu!",
+      "title": "Lời xin lỗi",
+      "content": "I'm sorry là lời xin lỗi cơ bản. Va vào người khác thì 'Sorry!' là đủ. Xin lỗi sâu thêm 'really'.",
+      "emoji": "🙇",
+      "highlight": "Sorry / I'm sorry / I'm really sorry"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Chào hỏi + nụ cười = hiệu quả gấp 3!",
+      "title": "Nụ cười và ánh mắt",
+      "content": "Lời chào tiếng Anh không chỉ ở miệng mà còn ở mắt và biểu cảm. Thêm nụ cười và ánh mắt, cùng một Hello cảm giác khác hẳn.",
+      "emoji": "😊",
+      "highlight": "🎯 Lời + Nụ cười + Mắt = Lời chào chạm tới"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Đưa lời chào thành thói quen mỗi ngày!",
+      "title": "Thói quen chào hỏi",
+      "content": "Chào người thân hoặc bạn bằng tiếng Anh ba lần mỗi ngày. Càng tập, càng bật ra tự nhiên.",
+      "emoji": "🔁",
+      "highlight": "Sáng: Good morning\nTrưa: How are you?\nTối: Good night"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Câu đố! Trả lời 'How are you?' thế nào?",
+      "quizQuestion": "Câu trả lời tự nhiên nhất cho 'How are you?'?",
+      "quizChoices": [
+        "I'm good, and you?",
+        "Yes, I am.",
+        "Thank you very much.",
+        "Hello!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Trả lời 'I'm good' rồi thêm 'And you?' để gửi câu hỏi ngược lại."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Bạn là cao thủ chào hỏi từ hôm nay! 🌟",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉"
+    }
+  ]
+}

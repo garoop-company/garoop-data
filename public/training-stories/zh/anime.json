@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "深化人物设计",
+      "speech": "不只看外表的人物设计加鲁🎨",
+      "emoji": "🎨",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "爱吃的、讨厌的、口头禅、梦想。除了外表，再决定3个，人物就活起来。",
+      "highlight": "深化要点：\n・爱吃\n・讨厌\n・口头禅\n・梦想"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "音效的用法",
+      "speech": "声音让世界立体加鲁🔊",
+      "emoji": "🔊",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "脚步声、风声、心跳声。加1个音效，画面就活了。在Suno或音效网站找找看。",
+      "highlight": "音效例：\n・脚步\n・风\n・心跳"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

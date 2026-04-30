@@ -1,0 +1,149 @@
+{
+  "title": "Internet and Games English",
+  "description": "Talk with players around the world online!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Net English unlocks teammates worldwide! 🎮",
+      "title": "Internet & Games English",
+      "content": "This lesson is about English for the internet and games. Chat, games, social media — the doorway to friends across the planet.",
+      "emoji": "🎮"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Memorize the classic chat shortcuts!",
+      "title": "Chat Shortcuts",
+      "content": "lol (laugh), brb (be right back), omg (oh my god), gg (good game). Common in game chat too.",
+      "emoji": "💬",
+      "highlight": "lol = laugh\nbrb = be right back\nomg = oh my god\ngg = good game"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Phrases you'll use in games!",
+      "title": "Game Phrases",
+      "content": "Let's play! Nice shot! Watch out! Mid-game calls should be short and strong. Encouragement changes the mood.",
+      "emoji": "🎯",
+      "highlight": "Let's play!\nNice shot!\nWatch out!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Know social media basics too!",
+      "title": "Social Media",
+      "content": "Follow me! DM me! Comment below! Common in captions and bios.",
+      "emoji": "📱",
+      "highlight": "Follow me!\nDM me!\nComment below!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Sayings for 'Like!' in English!",
+      "title": "Reactions",
+      "content": "Cool! Awesome! Nice! That's so cute! More variety means easier comeback comments.",
+      "emoji": "👍",
+      "highlight": "Cool! / Awesome! / Nice!\nThat's so cute!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Words for joining a team!",
+      "title": "Joining a Team",
+      "content": "Can I join? GG everyone! Polite in, polite out — that's how you become a 'good teammate'.",
+      "emoji": "🤝",
+      "highlight": "Can I join?\nGG everyone!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Phrases when you're stuck!",
+      "title": "When in Trouble",
+      "content": "I'm lost. What should I do? I'm AFK. 'AFK' = Away From Keyboard, commonly used.",
+      "emoji": "😵",
+      "highlight": "I'm lost.\nWhat should I do?\nI'm AFK."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Mind the wording!",
+      "title": "Net Manners",
+      "content": "Please be kind. Don't be mean. Even online, you're talking to real people. Kindness translates everywhere.",
+      "emoji": "🤝",
+      "highlight": "Please be kind.\nDon't be mean."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "End with a clean farewell!",
+      "title": "Before Logging Out",
+      "content": "Thanks for the game! See you next time! Ending well gets invites to play again.",
+      "emoji": "👋",
+      "highlight": "Thanks for the game!\nSee you next time!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Quiz! What does 'gg' mean?",
+      "quizQuestion": "What does 'gg' commonly mean in game chat?",
+      "quizChoices": [
+        "good game",
+        "got going",
+        "go go",
+        "great gift"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "gg = good game. Used after a match to honor both sides."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Net-English master! Play with the world! 🌟",
+      "title": "Lesson Complete!",
+      "emoji": "🎉"
+    }
+  ]
+}

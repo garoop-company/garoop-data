@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "目標を立てる",
+      "speech": "ゴールがあると毎日の修行が変わるガル🎯",
+      "emoji": "🎯",
+      "background": "mountain",
+      "garuchanAnimation": "float",
+      "content": "「3か月後に何ができていたいか」を1文で書こう。できる/できないではなく、なりたい姿を素直に書くと続く。",
+      "highlight": "目標の書き方:\n・期限\n・対象\n・なりたい姿"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "ふり返りタイム",
+      "speech": "週末の5分でふり返りガル📝",
+      "emoji": "📝",
+      "background": "temple",
+      "garuchanAnimation": "bounce",
+      "content": "週末に「できたこと、できなかったこと、来週やること」の3つを書く。続けるほど、自分の癖と成長が見える。",
+      "highlight": "ふり返り3点:\n・できた\n・できなかった\n・来週"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

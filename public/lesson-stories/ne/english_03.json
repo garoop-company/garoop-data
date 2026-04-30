@@ -1,0 +1,149 @@
+{
+  "title": "अंग्रेजी आत्म परिचय",
+  "description": "तिमी को हौ संसारलाई बताऔं!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "आत्म परिचय सबभन्दा बलियो हतियार गाल्! ३ वाक्यले सकिन्छ ✨",
+      "title": "आफूबाट सुरु",
+      "content": "यो पाठ 'अंग्रेजी आत्म परिचय' सिक्ने हो। नाम, मनपर्ने, सपना — ३ छोटा वाक्यले जोसँग पनि साथी बन्न सकिन्छ।",
+      "emoji": "🎤"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "पहिले नाम! I'm ___ भन्ने!",
+      "title": "नाम भन्ने",
+      "content": "I'm Mika. My name is Mika. दुवै ठीक छ। थोरै सुस्तरी भन्दा अरूले राम्ररी सुन्छन्।",
+      "emoji": "📛",
+      "highlight": "I'm ___ . / My name is ___ ."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "मूल ठाउँ थप्दा कुरा फराकिलो हुन्छ!",
+      "title": "कहाँबाट हौ",
+      "content": "I'm from Japan. सहर थप्दा बढी छाप: I'm from Tokyo, Japan. मित्रवत र स्पष्ट।",
+      "emoji": "🌏",
+      "highlight": "I'm from ___ . / I'm from ___, Japan."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "उमेर र कक्षा पनि थप्ने!",
+      "title": "उमेर/कक्षा",
+      "content": "I'm 10 years old. I'm a 5th grader. अंक + उमेर एकाइ, वा कक्षा भन्ने तरिका सिकौं।",
+      "emoji": "🎂",
+      "highlight": "I'm 10 years old.\nI'm a 5th grader."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "एउटा मनपर्ने कुरा भन्दा कुरा अघि बढ्छ!",
+      "title": "मनपर्ने कुरा",
+      "content": "I like soccer. I love reading. like भन्दा love बलियो। एउटा विशिष्ट कुरा छानौं ताकि अरूले प्रश्न सोध्न सकोस्।",
+      "emoji": "💖",
+      "highlight": "I like ___ .\nI love ___ ."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "सपना भन्दा छाप तुरुन्तै बढ्छ!",
+      "title": "सपना",
+      "content": "I want to be a programmer. My dream is to make games. 'want to be ___' ढाँचा सबभन्दा प्राकृतिक।",
+      "emoji": "🌟",
+      "highlight": "I want to be a ___ .\nMy dream is to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "अन्तमा 'Nice to meet you!'",
+      "title": "Nice to meet you!",
+      "content": "Nice to meet you! पहिलो भेटको जादुई वाक्य। जवाफमा 'Nice to meet you, too!' भन्दा पूरा हुन्छ।",
+      "emoji": "🤝",
+      "highlight": "Nice to meet you! → Nice to meet you, too!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "३ वाक्य ढाँचा कण्ठ गरौं!",
+      "title": "३ वाक्य ढाँचा",
+      "content": "१) नाम २) मनपर्ने ३) सपना — क्रममा भन्ने। जति छोटो, त्यति मस्तिष्कमा बस्छ।",
+      "emoji": "📋",
+      "highlight": "1. I'm ___ .\n2. I love ___ .\n3. I want to be ___ ."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "ठूलो स्वरमा अभ्यास! रेकर्ड पनि उत्तम!",
+      "title": "ठूलो स्वरमा अभ्यास",
+      "content": "ऐनाको अगाडि मुस्कानसहित ठूलो स्वरमा बोल्नु उत्तम। रेकर्ड गरेर सुन्दा सुधार आफै देखिन्छ।",
+      "emoji": "🎙️",
+      "highlight": "🪞 ऐना अभ्यास\n🎙️ रेकर्ड\n👂 फेरि सुन्ने"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "क्विज गाल्! 'भेटेर खुशी' अंग्रेजीमा कसरी?",
+      "quizQuestion": "पहिलो भेटको मानक अभिवादन कुन?",
+      "quizChoices": [
+        "Nice to meet you!",
+        "How are you?",
+        "Goodbye!",
+        "Thank you!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Nice to meet you! क्लासिक हो। जवाफमा 'too' थप्ने।"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "तिम्रो आफ्नै ३ वाक्य आत्म परिचय तयार गाल् 🌟",
+      "title": "पाठ पूरा!",
+      "emoji": "🎉"
+    }
+  ]
+}

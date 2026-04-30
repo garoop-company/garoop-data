@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Sắp xếp ảnh",
+      "speech": "Tài liệu phải sắp xếp mới có ích! 🗂️",
+      "emoji": "🗂️",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Phân loại ảnh vào thư mục theo chủ đề, đặt tên có ngày và nội dung. Đó là kho báu có thể tìm kiếm sau này.",
+      "highlight": "3 quy tắc:\n- Theo chủ đề\n- Tên có nội dung\n- Có ngày"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Thi đặt caption",
+      "speech": "Caption một dòng thay đổi ấn tượng! ✏️",
+      "emoji": "✏️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Caption làm hiểu biết sâu hơn. Thêm 'cảm xúc' nhiều hơn 'sự thật' để caption đọng lại.",
+      "highlight": "Caption hay:\n- Ngắn\n- Cảm xúc\n- Chút bất ngờ"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

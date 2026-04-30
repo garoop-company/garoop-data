@@ -1,0 +1,105 @@
+{
+  "title": "Figma设计任务",
+  "description": "用Figma设计App画面的间谍任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "设计特工！今天用Figma设计App画面加鲁🎨",
+      "title": "任务指令：Figma作战",
+      "content": "任务：用Figma设计1张App画面。完成条件3个：一句话说出用途、遵守3色规则、把自己名字写在某处。",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Figma是免费的设计工具加鲁！",
+      "title": "什么是Figma？",
+      "content": "Figma是浏览器上运行的设计工具。能做网站、App画面、Logo、海报，还能多人同时编辑。",
+      "emoji": "🖌️",
+      "highlight": "Figma能做：\n・App画面\n・Logo\n・海报\n・协作编辑"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "先放「帧（Frame）」！",
+      "title": "放Frame",
+      "content": "按F键选Frame，选iPhone或桌面尺寸。这是设计的台纸。",
+      "emoji": "📱",
+      "highlight": "Frame步骤：\n1. F键\n2. 选尺寸\n3. 放置"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "用文字和图形布局！",
+      "title": "添加元素",
+      "content": "T键文字、R键矩形。放标题、说明、按钮3要素，简单的App画面就成型。",
+      "emoji": "📝",
+      "highlight": "快捷键：\nT = 文字\nR = 矩形\nO = 圆"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "颜色按3色规则统一！",
+      "title": "作战实施：选色",
+      "content": "决定主色、副色、点缀色，3色一致就有整体感。犹豫时参考Color Hunt等配色网站。",
+      "emoji": "🎨",
+      "highlight": "3色提示：\n・主70%\n・副25%\n・点缀5%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "对齐和间距决定整洁感加鲁！",
+      "title": "整理",
+      "content": "Auto Layout会自动对齐。同样间距并列就显得专业。",
+      "emoji": "📏",
+      "highlight": "整理3招：\n・对齐\n・等距\n・Auto Layout"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "完成后获取分享链接！",
+      "title": "分享作品",
+      "content": "右上Share按钮可获分享链接。给家人朋友看，请1个反馈，下次改进就清晰。",
+      "emoji": "🔗",
+      "highlight": "分享技巧：\n・只读权限\n・分享URL\n・听1个反馈"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "任务完成加鲁！上传截图领500积分🚀",
+      "title": "任务完成！",
+      "content": "完成的标志是能用1分钟说明自己的设计：给谁用、想要什么氛围。",
+      "emoji": "🚀"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Giới thiệu bản thân bằng tiếng Anh",
+  "description": "Hãy cho thế giới biết bạn là ai!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Tự giới thiệu là vũ khí mạnh nhất! Ba câu là xong ✨",
+      "title": "Bắt đầu từ chính bạn",
+      "content": "Bài học 'Giới thiệu bản thân bằng tiếng Anh'. Ba câu ngắn về tên, sở thích, ước mơ là bạn có thể kết bạn với bất kỳ ai.",
+      "emoji": "🎤"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Bắt đầu từ tên! Nói I'm ___!",
+      "title": "Nói tên",
+      "content": "I'm Mika. My name is Mika. Cả hai đều ổn. Nói chậm chút để đối phương nghe rõ.",
+      "emoji": "📛",
+      "highlight": "I'm ___ . / My name is ___ ."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Thêm nơi xuất thân để mở rộng câu chuyện!",
+      "title": "Bạn đến từ đâu",
+      "content": "I'm from Japan. Thêm thành phố cho ấn tượng: I'm from Tokyo, Japan. thân thiện và rõ.",
+      "emoji": "🌏",
+      "highlight": "I'm from ___ . / I'm from ___, Japan."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Cũng nói tuổi và lớp!",
+      "title": "Tuổi và lớp",
+      "content": "I'm 10 years old. I'm a 5th grader. Nhớ cấu trúc số + tuổi và cách nói lớp.",
+      "emoji": "🎂",
+      "highlight": "I'm 10 years old.\nI'm a 5th grader."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Chia sẻ một sở thích là câu chuyện tiếp tục!",
+      "title": "Sở thích",
+      "content": "I like soccer. I love reading. Love mạnh hơn like. Chọn một thứ cụ thể để đối phương dễ hỏi tiếp.",
+      "emoji": "💖",
+      "highlight": "I like ___ .\nI love ___ ."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Nói ước mơ ngay lập tức tạo ấn tượng!",
+      "title": "Ước mơ",
+      "content": "I want to be a programmer. My dream is to make games. Cấu trúc 'want to be ___' rất tự nhiên.",
+      "emoji": "🌟",
+      "highlight": "I want to be a ___ .\nMy dream is to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Kết bằng 'Nice to meet you!'",
+      "title": "Nice to meet you!",
+      "content": "Nice to meet you! là câu thần kỳ cho lần gặp đầu. Trả lời 'Nice to meet you, too!' là hoàn hảo.",
+      "emoji": "🤝",
+      "highlight": "Nice to meet you! → Nice to meet you, too!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Ghi nhớ khung 3 câu!",
+      "title": "Khung 3 câu",
+      "content": "1) tên 2) yêu gì 3) ước mơ — theo thứ tự. Càng ngắn gọn càng đọng lại.",
+      "emoji": "📋",
+      "highlight": "1. I'm ___ .\n2. I love ___ .\n3. I want to be ___ ."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Luyện thành tiếng nhiều lần! Ghi âm cũng tuyệt!",
+      "title": "Đọc thành tiếng",
+      "content": "Trước gương, mỉm cười, đọc to là tốt nhất. Ghi âm rồi nghe lại, điểm sửa tự lộ ra.",
+      "emoji": "🎙️",
+      "highlight": "🪞 Tập trước gương\n🎙️ Ghi âm\n👂 Nghe lại"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Câu đố! Nói 'Rất vui được gặp' bằng tiếng Anh thế nào?",
+      "quizQuestion": "Câu chào chuẩn cho lần đầu gặp là?",
+      "quizChoices": [
+        "Nice to meet you!",
+        "How are you?",
+        "Goodbye!",
+        "Thank you!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Nice to meet you! là câu kinh điển. Trả lời thêm 'too'."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Bài giới thiệu 3 câu của bạn đã sẵn sàng! 🌟",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉"
+    }
+  ]
+}

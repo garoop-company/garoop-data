@@ -1,0 +1,149 @@
+{
+  "title": "旅行英语",
+  "description": "出国旅行不慌张的最低限度英语！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "有旅行英语世界哪都能去加鲁！✈️",
+      "title": "旅途英语",
+      "content": "本课学习「旅行英语」。机场、酒店、景点真正需要的句子精选学习。",
+      "emoji": "🧳"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "机场第一关是入境审查！",
+      "title": "入境审查",
+      "content": "被问What's the purpose of your visit?时，答Sightseeing.（旅游）或Studying.（学习）一词即可。",
+      "emoji": "🛂",
+      "highlight": "Q: Purpose of visit?\nA: Sightseeing. / Studying."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "酒店「我有预订」是魔法句！",
+      "title": "酒店入住",
+      "content": "I have a reservation. My name is ___.只这两句就能用预订名办入住。关键是I have a reservation.一句。",
+      "emoji": "🏨",
+      "highlight": "I have a reservation.\nMy name is ___ ."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "迷路时「请问〜在哪里？」",
+      "title": "问路",
+      "content": "Excuse me, where is the station?车站、公交站、洗手间，问位置必备句。",
+      "emoji": "🗺️",
+      "highlight": "Excuse me, where is ___ ?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "问价的句子超重要！",
+      "title": "问价",
+      "content": "How much is this?购物绝对用得上。没价签时这一句就能问到。",
+      "emoji": "💰",
+      "highlight": "How much is this?\nHow much does it cost?"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "「英语说不太好」也可以说！",
+      "title": "遇到困难时",
+      "content": "I don't speak English well. Could you speak slowly, please?不用完美，遇困直说最有效。",
+      "emoji": "😅",
+      "highlight": "I don't speak English well.\nCould you speak slowly?"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "会问Wi-Fi旅程更安心！",
+      "title": "Wi-Fi",
+      "content": "Is there Wi-Fi? What's the password?咖啡馆或酒店问这两句立刻能上网。",
+      "emoji": "📶",
+      "highlight": "Is there Wi-Fi?\nWhat's the password?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "紧急情况句也要看！",
+      "title": "紧急情况",
+      "content": "Help! Call the police! Where is the hospital?万一出事时能脱口而出，先大声练习。",
+      "emoji": "🚨",
+      "highlight": "Help!\nCall the police!\nWhere is the hospital?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "旅行是相遇的宝库！享受对话！",
+      "title": "和当地人聊天",
+      "content": "Where are you from?是全世界旅行者最先问的话。回I'm from Japan.简单就行！",
+      "emoji": "🌍",
+      "highlight": "Q: Where are you from?\nA: I'm from Japan."
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "小测验加鲁！「多少钱？」用英语怎么说？",
+      "quizQuestion": "「这个多少钱？」用英语怎么说？",
+      "quizChoices": [
+        "How much is this?",
+        "What is this?",
+        "Where is this?",
+        "Who is this?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "How much is this?问价格的基本句。购物必备。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "旅行准备就绪加鲁🌟去看世界吧！",
+      "title": "课程完成！",
+      "emoji": "🎉"
+    }
+  ]
+}

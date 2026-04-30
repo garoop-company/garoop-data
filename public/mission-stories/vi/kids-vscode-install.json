@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Tiện ích hữu ích",
+      "speech": "Tiện ích làm VSCode tiện hơn 10 lần! 🔌",
+      "emoji": "🔌",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Prettier (tự định dạng), Live Server (xem trước tức thì), GitLens (lịch sử). Ba cái thôi đẩy tốc độ làm việc lên.",
+      "highlight": "3 phải có:\n- Prettier\n- Live Server\n- GitLens"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Phím tắt",
+      "speech": "Nhớ phím tắt là trông pro! ⌨️",
+      "emoji": "⌨️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Cmd+S (lưu), Cmd+P (tìm tệp), Cmd+Shift+P (command palette). Ba phím là làm được không cần chuột.",
+      "highlight": "Nhớ 3:\n- Cmd+S\n- Cmd+P\n- Cmd+Shift+P"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

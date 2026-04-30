@@ -1,0 +1,105 @@
+{
+  "title": "Misi Prompt ChatGPT",
+  "description": "Misi mata-mata melatih cara bertanya yang tepat ke ChatGPT!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agen Prompt! Misi hari ini bertanya ke ChatGPT dengan cerdas! 🕵️💬",
+      "background": "lab",
+      "title": "Briefing Misi: Operasi Prompt",
+      "content": "Tugasnya adalah mendapatkan jawaban yang benar-benar diinginkan dari ChatGPT. Tiga syarat sukses: nyatakan tujuan dalam satu kalimat, tentukan target dan format, hasilkan dua versi untuk dibandingkan.",
+      "emoji": "💬",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Prompt adalah 'cara bertanya ke AI'! Cara menulisnya menentukan jawaban!",
+      "background": "spy",
+      "title": "Apa itu Prompt?",
+      "content": "Prompt adalah instruksi yang dikirim ke AI. Pertanyaan yang sama akan menghasilkan jawaban yang berbeda jauh saat ditambahkan 'untuk siapa', 'sepanjang apa', dan 'format apa'.",
+      "emoji": "📝",
+      "highlight": "Hal yang membuat perbedaan:\n- Target (untuk siapa?)\n- Panjang (berapa kata?)\n- Format (poin? paragraf?)"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Dasar prompt yang baik adalah 5W1H! Tentukan secara berurutan!",
+      "background": "hq",
+      "title": "Desain dengan 5W1H",
+      "content": "Who (untuk siapa), What (apa), Why (tujuan), When/Where (situasi), How (caranya) — tentukan dulu agar AI tidak menebak. Semakin jelas masukan, semakin tajam keluaran.",
+      "emoji": "🧭",
+      "highlight": "Cek 5W1H:\n- Who: anak SD\n- What: ide riset bebas\n- How: 5 ide dalam poin"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Minta AI 'memerankan peran' akan mengubah jawaban total!",
+      "background": "spy",
+      "title": "Prompt Peran",
+      "content": "Saat berkata 'Kamu adalah guru SD', AI menyesuaikan gaya bahasa dan isinya. Pilih peran yang sesuai tujuan: guru, editor, pelatih, ahli.",
+      "emoji": "🎭",
+      "highlight": "Contoh peran:\n- Guru (penjelasan lembut)\n- Editor (ringkas)\n- Pelatih (memberi semangat)"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Coba kirim 2 prompt pada topik yang sama - pendek vs detail!",
+      "background": "lab",
+      "title": "Operasi: Bandingkan A/B",
+      "content": "Bandingkan 'prompt pendek' dengan 'prompt berkondisi' pada topik yang sama. Sandingkan dua jawaban dan catat mana yang lebih sesuai tujuan.",
+      "emoji": "🧪",
+      "highlight": "Contoh perbandingan:\nA: 'Beri ide riset bebas'\nB: 'Untuk anak SD kelas 4, selesai 3 hari, sains, 5 ide dalam poin'"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Tidak perlu sempurna sekali coba! Sempurnakan dengan pertanyaan lanjutan!",
+      "background": "hq",
+      "title": "Teknik Prompt Lanjutan",
+      "content": "Setelah jawaban pertama, katakan 'lebih singkat lagi', 'pakai kata yang dimengerti SMP', 'tambah 3 contoh'. Setiap dialog mengasah jawaban tanpa harus mulai dari awal.",
+      "emoji": "🔁",
+      "highlight": "Contoh prompt lanjutan:\n- Lebih sederhana\n- Tambah contoh\n- Beri pendapat sebaliknya"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Buat template sendiri! Lain kali tinggal tempel!",
+      "background": "spy",
+      "title": "Template Prompt Saya",
+      "content": "Simpan format yang sering dipakai sebagai 'template'. Siapkan 4 kolom: peran, target, format keluaran, dan larangan — isi lalu kirim.",
+      "emoji": "📋",
+      "highlight": "Slot template:\n- Peran: ___\n- Target: ___\n- Keluaran: ___\n- Larangan: ___"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Misi selesai! Kirim tangkapan layar prompt terbaik dan dapatkan 480 poin! 🎯",
+      "background": "lab",
+      "title": "Misi Selesai!",
+      "content": "Lulus misi ini bukan karena jawaban AI itu sendiri, melainkan karena bisa menjelaskan 'cara bertanya yang membuatnya lebih baik'. Seni bertanya itulah senjatamu.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Future Careers and English",
+  "description": "Take your dream job to the world with English!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "What's your dream job? With English, the stage is the whole world! 🌍",
+      "title": "Dream Jobs and English",
+      "content": "This lesson is about future careers and English. English lets you find your dream job worldwide. Connect the job and the language together.",
+      "emoji": "🚀"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Programmer is a global job!",
+      "title": "Programmer",
+      "content": "Programming languages, libraries, error messages, docs — most are in English. Knowing English deepens your code one extra level.",
+      "emoji": "💻",
+      "highlight": "Programming = global job\nDocs are mostly in English"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Creators can find fans worldwide!",
+      "title": "Creator",
+      "content": "Illustration, video, music. Writing English captions or comments brings your work to people across the world.",
+      "emoji": "🎨",
+      "highlight": "Artist / YouTuber / Musician\n→ Reach the world"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Researchers and scientists also need English!",
+      "title": "Researcher",
+      "content": "Papers, conferences, international collaborations. To work and learn with researchers worldwide, English is non-negotiable.",
+      "emoji": "🔬",
+      "highlight": "Research = global team\nPapers in English"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Founders can challenge the global market!",
+      "title": "Entrepreneur",
+      "content": "If you want to deliver your service to the world, design with English in mind from day one. Your market grows 10x.",
+      "emoji": "💼",
+      "highlight": "Startup → Global market\n10x bigger world"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Healthcare and welfare need English too!",
+      "title": "Healthcare and Welfare",
+      "content": "Global health, overseas volunteering, research. With English, the number of people you can help multiplies.",
+      "emoji": "🏥",
+      "highlight": "Doctor / Nurse / Aid worker\n→ Help more people"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Education and translation are stars of the future!",
+      "title": "Education / Translation",
+      "content": "International school teachers, interpreters, AI translation specialists. Bridge-the-language jobs are in growing demand.",
+      "emoji": "📚",
+      "highlight": "Teacher / Interpreter / AI translator"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "It's an era when 'what you love' becomes a job!",
+      "title": "Turn Hobby into Work",
+      "content": "Game streamers, social media creators, esports players. New professions keep being born from hobbies. English widens the circle.",
+      "emoji": "💖",
+      "highlight": "Streamer / Creator / Pro gamer"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Check the basics of interview English!",
+      "title": "Interview English",
+      "content": "Tell me about yourself. Why do you want this job? What's your strength? Self-intro + reason + strength — prepare these three to apply anywhere.",
+      "emoji": "🎤",
+      "highlight": "1. Tell me about yourself\n2. Why this job?\n3. Your strength?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Quiz! How do you say 'Tell me about yourself' for an interview?",
+      "quizQuestion": "Which is the standard interview opener in English?",
+      "quizChoices": [
+        "Tell me about yourself.",
+        "Who are you?",
+        "Where are you?",
+        "What is your job?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Tell me about yourself. is the classic first question in interviews."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Take your dream worldwide! Your English builds the future! 🌟",
+      "title": "Series Complete!",
+      "emoji": "🎉"
+    }
+  ]
+}

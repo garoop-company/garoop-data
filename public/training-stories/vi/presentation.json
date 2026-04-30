@@ -1,0 +1,105 @@
+{
+  "title": "Luyện thuyết trình",
+  "description": "Rèn khả năng truyền tải suy nghĩ một cách thẳng thắn!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chào mừng đến lò luyện thuyết trình! Truyền suy nghĩ thẳng vào tim! 🎤",
+      "background": "mountain",
+      "title": "Lò luyện thuyết trình",
+      "content": "Trong luyện thuyết trình, điều rèn không phải nói trôi chảy mà là 'quyết định người nghe nên mang về điều gì'. Chốt một câu cốt lõi trước thì cấu trúc tự lộ ra.",
+      "emoji": "🎤",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Trước hết, chốt 'một câu muốn người nghe mang về'!",
+      "background": "dojo",
+      "title": "Thông điệp lõi",
+      "content": "Hãy chọn một câu bạn muốn còn đọng trong đầu khán giả sau bài. Slide và thứ tự đều tồn tại để chống đỡ câu duy nhất ấy.",
+      "emoji": "🎯",
+      "highlight": "Ví dụ một câu:\n- AI là người bạn mới\n- Thử nhỏ thay đổi tương lai\n- Tôi muốn làm điều này"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Nói theo 'kết luận → lý do → ví dụ' truyền dễ hơn!",
+      "background": "bamboo",
+      "title": "Cấu trúc PREP",
+      "content": "Point (kết luận), Reason (lý do), Example (ví dụ), Point (kết luận). Đặt kết luận ở đầu và cuối, thông điệp rõ ngay cả trong bài ngắn.",
+      "emoji": "📝",
+      "highlight": "PREP:\n- P: Kết luận\n- R: Lý do\n- E: Ví dụ\n- P: Kết luận lại"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Slide 'một trang một thông điệp'!",
+      "background": "mountain",
+      "title": "Thiết kế slide",
+      "content": "Một trang đầy chữ sẽ không ai đọc. Tiêu đề là kết luận, thân ngắn gọn, hình ảnh hỗ trợ. Càng ít chữ, người nghe càng chịu nghe.",
+      "emoji": "🖼️",
+      "highlight": "1 slide = 1 thông điệp\n- Tiêu đề = kết luận\n- Thân ≤ 3 dòng\n- Củng cố bằng hình"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Luyện cả giọng và khoảng lặng! Giọng truyền 70%!",
+      "background": "dojo",
+      "title": "Giọng và khoảng lặng",
+      "content": "Một giây im lặng trước từ quan trọng khiến khán giả chờ đợi câu kế tiếp. Chỉ cần điều chỉnh âm lượng, tốc độ, khoảng lặng là cùng nội dung mà cảm giác khác hẳn.",
+      "emoji": "🗣️",
+      "highlight": "3 yếu tố giọng:\n- Âm lượng\n- Tốc độ\n- Khoảng lặng"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Thử thách hôm nay: 'giới thiệu thứ yêu thích trong 1 phút'!",
+      "background": "bamboo",
+      "title": "Pitch 1 phút",
+      "content": "Chọn một anime, sách, hay nơi yêu thích và giới thiệu trong 1 phút. Vận dụng thông điệp lõi, PREP, 3 yếu tố giọng — bài ngắn vẫn rất bài bản.",
+      "emoji": "⏱️",
+      "highlight": "Cấu trúc 1 phút:\n- 10s: kết luận\n- 30s: lý do và ví dụ\n- 20s: kết luận lại"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Nhận được 1 câu hỏi sau bài là tín hiệu mạnh nhất!",
+      "background": "mountain",
+      "title": "Mời hỏi",
+      "content": "Cuối bài hỏi 'Có câu hỏi nào không?' để biết bài đã đọng đến đâu. Cũng thấy điều cần củng cố cho lần tới.",
+      "emoji": "❓",
+      "highlight": "Cách mời:\n- Để dành thời gian cuối\n- Nói 'một câu cũng được'\n- Ghi lại câu trả lời"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Vất vả rồi! Hãy chuyển động thế giới bằng giọng nói của bạn 🌟",
+      "background": "temple",
+      "title": "Hoàn thành luyện tập!",
+      "content": "Thuyết trình ít hơn 'kỹ thuật nói' và nhiều hơn 'thiết kế làm người ta hành động'. Hãy nhớ một câu hôm nay và dùng làm câu mở của bài kế.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

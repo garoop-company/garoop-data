@@ -1,0 +1,149 @@
+{
+  "title": "Perkenalan Diri Bahasa Inggris",
+  "description": "Tunjukkan dirimu kepada dunia!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Perkenalan diri adalah senjata terkuat! Tiga kalimat selesai ✨",
+      "title": "Mulai dari Dirimu",
+      "content": "Pelajaran 'Perkenalan diri bahasa Inggris'. Tiga kalimat untuk nama, sukai, impian — dan kamu bisa berteman dengan siapa saja.",
+      "emoji": "🎤"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Mulai dari nama! Katakan I'm ___!",
+      "title": "Sebutkan Nama",
+      "content": "I'm Mika. My name is Mika. Keduanya boleh. Bicara sedikit pelan agar lawan bicara menangkap.",
+      "emoji": "📛",
+      "highlight": "I'm ___ . / My name is ___ ."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Tambahkan asal untuk membuka percakapan!",
+      "title": "Dari Mana",
+      "content": "I'm from Japan. Tambah kota agar berkesan: I'm from Tokyo, Japan. ramah dan jelas.",
+      "emoji": "🌏",
+      "highlight": "I'm from ___ . / I'm from ___, Japan."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Tambahkan usia dan kelas!",
+      "title": "Usia dan Kelas",
+      "content": "I'm 10 years old. I'm a 5th grader. Pelajari struktur angka+satuan dan bentuk kelas.",
+      "emoji": "🎂",
+      "highlight": "I'm 10 years old.\nI'm a 5th grader."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Sebut satu hal favorit, percakapan berlanjut!",
+      "title": "Apa yang Disukai",
+      "content": "I like soccer. I love reading. Love lebih kuat dari like. Pilih satu hal spesifik agar lawan bicara mudah bertanya.",
+      "emoji": "💖",
+      "highlight": "I like ___ .\nI love ___ ."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Sebut impian, kesan langsung naik!",
+      "title": "Impianmu",
+      "content": "I want to be a programmer. My dream is to make games. Struktur 'want to be ___' terdengar paling alami.",
+      "emoji": "🌟",
+      "highlight": "I want to be a ___ .\nMy dream is to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Tutup dengan 'Nice to meet you!'",
+      "title": "Nice to meet you!",
+      "content": "Nice to meet you! adalah frasa ajaib pertemuan pertama. Jawab 'Nice to meet you, too!' untuk penutup sempurna.",
+      "emoji": "🤝",
+      "highlight": "Nice to meet you! → Nice to meet you, too!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Hafal template 3 kalimat!",
+      "title": "Template 3 Kalimat",
+      "content": "1) nama 2) yang disukai 3) impian — berurutan. Semakin singkat, semakin tertanam.",
+      "emoji": "📋",
+      "highlight": "1. I'm ___ .\n2. I love ___ .\n3. I want to be ___ ."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Berlatih dengan suara! Rekam juga bagus!",
+      "title": "Bicarakan Keras",
+      "content": "Di depan cermin, dengan senyum, dengan suara — yang terbaik. Merekam lalu mendengarkan, perbaikan langsung kelihatan.",
+      "emoji": "🎙️",
+      "highlight": "🪞 Latihan cermin\n🎙️ Rekam\n👂 Dengarkan ulang"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Kuis! Bagaimana mengucapkan 'Senang berkenalan' dalam bahasa Inggris?",
+      "quizQuestion": "Sapaan standar untuk pertemuan pertama adalah?",
+      "quizChoices": [
+        "Nice to meet you!",
+        "How are you?",
+        "Goodbye!",
+        "Thank you!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Nice to meet you! adalah klasik. Balas dengan menambahkan 'too'."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Perkenalan 3 kalimatmu sudah siap! 🌟",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉"
+    }
+  ]
+}

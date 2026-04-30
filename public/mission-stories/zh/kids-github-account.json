@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "创建仓库",
+      "speech": "仓库是作品的收纳箱加鲁📦",
+      "emoji": "📦",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "点「+」→ New repository创建仓库。名字用小写英文+连字符是GitHub惯例。",
+      "highlight": "命名要点：\n・小写\n・连字符\n・简短具体"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "写README",
+      "speech": "README是作品的自我介绍加鲁✍️",
+      "emoji": "✍️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "README写「做了什么」「怎么运行」「作者是谁」3点。Markdown的标题（#）和列表（-）让排版更清楚。",
+      "highlight": "README 3点：\n1. 是什么\n2. 怎么跑\n3. 作者"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

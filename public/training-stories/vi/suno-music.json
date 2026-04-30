@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Mix down",
+      "speech": "Cân âm là cái kết của tác phẩm! 🎚️",
+      "emoji": "🎚️",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "So sánh cân bằng giữa giọng hát, nhạc cụ, bass — cảm giác thay đổi nhiều. Đẩy phần bạn muốn nổi nhất lên trên một chút.",
+      "highlight": "Mẹo mix:\n- Chính lên trước\n- Bass làm nền\n- Kiểm tra bằng tai"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Vần trong lời",
+      "speech": "Vần làm bài hát đọng lại! 🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "Vần như 'mơ / mờ' hay 'sky / fly' làm bài hát dễ nhớ hơn rất nhiều.",
+      "highlight": "Loại vần:\n- Âm cuối\n- Cùng nguyên âm\n- Đối câu"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

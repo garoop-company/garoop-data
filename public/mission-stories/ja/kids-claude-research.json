@@ -1,0 +1,105 @@
+{
+  "title": "Claudeリサーチミッション",
+  "description": "Claudeを使って深いリサーチをするスパイミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "リサーチエージェント！今回はClaudeで本格調査だガル！🕵️📚",
+      "background": "lab",
+      "title": "ミッション指令：リサーチ作戦",
+      "content": "任務はClaudeを相棒に1つのテーマを多角的に調べ、要点を3行にまとめること。完成条件は、出典を1つ以上確認すること、賛否両方の意見を見ること、自分の言葉で結論を書くことの3つだ。",
+      "emoji": "📚",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Claudeは長文の整理がとくに得意ガル！",
+      "background": "spy",
+      "title": "Claudeとは？",
+      "content": "Claudeは長い文章を読み解き、複数の情報を比べてまとめるのが得意なAIだ。短い質問だけでなく、資料を貼って相談する使い方が力を発揮する。",
+      "emoji": "🧠",
+      "highlight": "得意なこと:\n・長文の要約\n・複数視点の整理\n・論点の比較"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "テーマを「問い」に変えると調査が始まるガル！",
+      "background": "hq",
+      "title": "問いに変える",
+      "content": "「AI」のようなテーマだけだと広すぎて答えにくい。「AIは小学生の宿題を奪うか？」のように問いに変えると、賛否の両側から調べられるようになる。",
+      "emoji": "❓",
+      "highlight": "問いの型:\n・〜は本当か\n・〜は何を変えたか\n・〜には何が必要か"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "片方だけ聞かないガル！賛成と反対の両方を聞こう！",
+      "background": "spy",
+      "title": "賛否両論を出す",
+      "content": "Claudeに「賛成側の理由を3つ」「反対側の理由を3つ」と分けて頼むと、視野が広がる。最後に「両方を踏まえた結論」を聞くと、思考を整理しやすい。",
+      "emoji": "⚖️",
+      "highlight": "聞き方:\n1. 賛成3つ\n2. 反対3つ\n3. 君ならどう思う？"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "資料を貼って一緒に読んでもらおう！",
+      "background": "lab",
+      "title": "資料リーディング",
+      "content": "ニュース記事や本の一部を貼り付けて「ここから3つの要点」と頼むと、長文の理解が早い。出典のリンクや本のページを残しておくと後で確認しやすい。",
+      "emoji": "📰",
+      "highlight": "頼み方:\n・3つの要点\n・難しい言葉を解説\n・自分への影響"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "AIの答えも疑うガル！必ず自分の頭で確認するよ！",
+      "background": "hq",
+      "title": "事実チェック",
+      "content": "AIは間違うこともあるので、重要な数字や固有名詞は別の情報源で確認しよう。Claudeに「この情報の根拠は？」と聞き返すのも有効だ。",
+      "emoji": "🔍",
+      "highlight": "チェック方法:\n・数字は元データ\n・名前は公式サイト\n・日付は新聞記事"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "最後に自分の言葉で3行にまとめよう！",
+      "background": "spy",
+      "title": "3行まとめ",
+      "content": "1行目に問い、2行目に分かったこと、3行目に自分の意見を書く。型に当てはめると、調べた内容が短くても伝わるレポートになる。",
+      "emoji": "📝",
+      "highlight": "3行レポート:\n問い → 分かったこと → 自分の意見"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "ミッション完了ガル！3行まとめを提出して460ポイントゲット！🎯",
+      "background": "lab",
+      "title": "ミッション完了！",
+      "content": "リサーチは答えを集めることではなく、質問の力を鍛えることだ。AIと事実チェックを組み合わせれば、君は誰よりも早く深く知ることができる。",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

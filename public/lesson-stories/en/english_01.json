@@ -1,0 +1,149 @@
+{
+  "title": "Why Learn English",
+  "description": "Find your gateway to the world!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Let's adventure into the world of English with Gal-chan! 🌍",
+      "background": "city",
+      "title": "Why Learn English",
+      "emoji": "🌍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "In this lesson on 'Why learn English', we explore the world English opens up. More than just word meanings, this lesson uses real situations and small tasks so you can explain it in your own words and take the next step."
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "More than 1.5 billion people use English as a shared tool!",
+      "background": "city",
+      "title": "The Common Language",
+      "content": "Even if not everyone speaks it as a first language, English is used as the common language across the world. It's the first bridge when you talk to someone from another country!",
+      "emoji": "🌐",
+      "highlight": "🌐 English = bridge of the world"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Your favorite movies and games open up wider in English!",
+      "background": "candy",
+      "title": "Wider World of Favorites",
+      "content": "When you can read English, you don't have to wait for subtitles or translations. Movies, games, manga, music — all of your favorites multiply!",
+      "emoji": "🎮",
+      "highlight": "🎬 movies 🎮 games 🎵 music 📚 books"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "English is a magic key that grows your future options!",
+      "background": "ocean",
+      "title": "Future Options",
+      "content": "Universities abroad, jobs overseas, friends around the world. With English, where you live and work expands to the whole planet!",
+      "emoji": "🌟",
+      "highlight": "🏫 study 💼 work abroad ✈️ travel"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "In IT and AI, most cutting-edge information appears in English first!",
+      "background": "space",
+      "title": "Tech and English",
+      "content": "Programming languages, AI papers, latest tool docs — most of them appear in English first. Reading English lets you touch the cutting edge months earlier!",
+      "emoji": "💻",
+      "highlight": "New tech → English paper → 6 months later → other languages"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Your English doesn't need to be perfect — just clear enough!",
+      "background": "forest",
+      "title": "'Gets Through' Beats 'Perfect'",
+      "content": "You don't need to sound like a native. About 80% of English users worldwide are non-native speakers. 'Imperfect English that gets through' is today's global standard!",
+      "emoji": "💬",
+      "highlight": "Perfect ❌ → Gets through ⭕"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI is revolutionizing English study — practice without shame!",
+      "background": "space",
+      "title": "AI and English Study",
+      "content": "Make ChatGPT or Claude your conversation partner and you can practice 24/7. Pronunciation, grammar, expressions — AI teaches kindly!",
+      "emoji": "🤖",
+      "highlight": "AI English partner = unlimited practice"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "A little every day matters more than anything!",
+      "background": "classroom",
+      "title": "How to Keep Going",
+      "content": "10 minutes a day for 100 days is over 16 hours! Daily beats weekend bursts. Start with what you already love.",
+      "emoji": "🔁",
+      "highlight": "10 min × 100 days = 16+ hours"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "English is a tool — for taking your dream around the world!",
+      "background": "space",
+      "title": "English Is the Tool of Dreams",
+      "content": "English itself isn't the goal. It's the tool to grow your dream to a global scale. Once you decide what you want to do, the meaning of learning becomes obvious!",
+      "emoji": "🚀",
+      "highlight": "English = a rocket carrying dreams"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Roughly what share of English users worldwide are non-native speakers?",
+      "quizChoices": [
+        "About 80%",
+        "About 50%",
+        "About 30%",
+        "About 10%"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "About 80% of English users worldwide are non-native speakers. 'Gets through' matters more than 'perfect'!",
+      "background": "city",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "Quiz time! Have a think!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Got why English matters? Start with even a single word today! 🌟",
+      "background": "city",
+      "title": "Lesson Complete!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

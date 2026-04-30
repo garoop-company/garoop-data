@@ -1,0 +1,105 @@
+{
+  "title": "プレゼン修行",
+  "description": "自分の考えをまっすぐ伝える力を鍛えよう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "プレゼン道場へようこそガル！考えをまっすぐ届ける修行だガル🎤",
+      "background": "mountain",
+      "title": "プレゼン道場",
+      "content": "プレゼン修行では、話のうまさより「相手に何を持ち帰ってもらいたいか」を決める力を鍛える。一番大事な1文を最初に決められれば、構成は自然に整う。",
+      "emoji": "🎤",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "まず「持ち帰ってほしい1文」を決めるガル！",
+      "background": "dojo",
+      "title": "中心メッセージ",
+      "content": "プレゼンが終わったあとに聞き手の頭に残ってほしい1文を決めよう。スライドや話の順番は、その1文を支えるためにある。",
+      "emoji": "🎯",
+      "highlight": "1文の例:\n・AIは新しい相棒になる\n・小さな挑戦が未来を変える\n・私はこれを作りたい"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "「結論→理由→例」の順で話すと伝わりやすいガル！",
+      "background": "bamboo",
+      "title": "PREP構成",
+      "content": "Point（結論）、Reason（理由）、Example（例）、Point（結論）の順で話すと、何が言いたいかが最初と最後でハッキリする。短い時間でも力強く伝わる。",
+      "emoji": "📝",
+      "highlight": "PREP:\n・P: 結論\n・R: 理由\n・E: 例\n・P: もう一度結論"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "スライドは「1枚に1メッセージ」だけガル！",
+      "background": "mountain",
+      "title": "スライド設計",
+      "content": "1枚にたくさん文字を入れると読まれない。タイトルは結論、本文は短く、絵や図で支える。文字を減らすほど、聞き手は話を聞いてくれる。",
+      "emoji": "🖼️",
+      "highlight": "1枚=1メッセージ\n・タイトル＝結論\n・本文＝3行以内\n・図や写真で補強"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "声と間（ま）も練習するガル！声は7割伝える！",
+      "background": "dojo",
+      "title": "声と間の修行",
+      "content": "大事な言葉の前で1秒止まると、聞き手は次の言葉を待つ姿勢になる。声の大小、速さ、間を意識するだけで、同じ内容でも伝わり方が変わる。",
+      "emoji": "🗣️",
+      "highlight": "声の3要素:\n・大きさ\n・速さ\n・間（ま）"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "今日の挑戦は「1分で好きなものを紹介」ガル！",
+      "background": "bamboo",
+      "title": "1分プレゼン",
+      "content": "好きなアニメ・本・場所など、1つを選んで1分で紹介してみよう。中心メッセージ、PREP、声の3要素を意識すれば、短くても本格的なプレゼンになる。",
+      "emoji": "⏱️",
+      "highlight": "1分の組み立て:\n・10秒：結論\n・30秒：理由と例\n・20秒：もう一度結論"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "終わったあと「質問1個」をもらえると最強ガル！",
+      "background": "mountain",
+      "title": "質問をもらう",
+      "content": "プレゼンの最後に「ここまでで聞きたいことありますか？」と聞くと、聞き手の理解度がわかる。次のプレゼンで何を強化すべきかも見えてくる。",
+      "emoji": "❓",
+      "highlight": "質問のもらい方:\n・最後に時間を残す\n・1つでOKと伝える\n・答えはメモに残す"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "プレゼン修行おつかれガル！君の声で世界を動かそう🌟",
+      "background": "temple",
+      "title": "修行完了！",
+      "content": "プレゼンは「話す技術」より「相手を動かす設計」だ。今日決めた1文を覚えておいて、次のプレゼンの最初の言葉として使おう。",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

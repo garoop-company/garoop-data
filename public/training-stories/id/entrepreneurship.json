@@ -1,0 +1,105 @@
+{
+  "title": "Pelatihan Kewirausahaan",
+  "description": "Latih otot membawa ide ke dunia!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "Selamat datang di Dojo Kewirausahaan! 💼",
+      "title": "Dojo Kewirausahaan",
+      "content": "Pelatihan ini melatih otot 'masalah siapa yang saya pecahkan?' bukan sekadar teknik bisnis. Mulai kecil — buat satu langkah yang membahagiakan orang nyata.",
+      "emoji": "💼",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "dojo",
+      "speech": "Temukan 'masalah' dulu!",
+      "title": "Temukan Masalah",
+      "content": "Bisnis bagus lahir dari masalah. Catat tiga ketidaknyamanan kecil harian dari keluarga, teman, atau diri sendiri. Itu peta hartamu.",
+      "emoji": "🔍",
+      "highlight": "Berburu masalah:\n- Keluarga\n- Teman\n- Diri"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "bamboo",
+      "speech": "Brainstorm 3 solusi!",
+      "title": "Brainstorm Ide",
+      "content": "Paksa minimal tiga ide per masalah. Pasang AI sebagai partner brainstorm, ide jadi 10x lipat.",
+      "emoji": "💡",
+      "highlight": "Aturan ide:\n- Kuantitas\n- Tanpa menghakimi\n- Kombinasi"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "mountain",
+      "speech": "Gambar persona!",
+      "title": "Untuk Siapa?",
+      "content": "'Sakura, 13, klub sepak bola' — deskripsikan satu pengguna spesifik dengan jelas. 'Untuk semua' tidak mengenai siapa pun.",
+      "emoji": "👤",
+      "highlight": "Item persona:\n- Usia\n- Suka\n- Sakit"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "dojo",
+      "speech": "Bangun prototipe cepat!",
+      "title": "Latihan Prototipe",
+      "content": "Jangan kejar sempurna. Kertas atau layar AI juga oke. Semakin cepat ditunjukkan ke orang, semakin dekat ke solusi nyata.",
+      "emoji": "🛠️",
+      "highlight": "Aturan prototipe:\n- Bangun 3 hari\n- Tunjukkan\n- Iterasi"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "bamboo",
+      "speech": "Pikirkan aliran uang juga!",
+      "title": "Model Bisnis",
+      "content": "Siapa bayar, berapa, biaya apa. Tiga baris di kertas mengungkap apakah benar-benar bisnis.",
+      "emoji": "💰",
+      "highlight": "3 pertanyaan:\n- Siapa bayar?\n- Berapa?\n- Biaya apa?"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "Pelanggan pertama dekat denganmu!",
+      "title": "Pelanggan Pertama",
+      "content": "Mulai dari keluarga atau teman. Tanpa uang pun — mendengar 'terima kasih' atau 'mau lagi' adalah bukti pertama.",
+      "emoji": "🤝",
+      "highlight": "Tonggak pertama:\n- Ada yang pakai\n- Berterima kasih\n- Ingin lagi"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "temple",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "Latihan selesai! Bawa idemu ke dunia 🌟",
+      "title": "Pelatihan Selesai!",
+      "content": "Jangan mulai besar. Bisnis pengubah dunia tumbuh dari banyak eksperimen kecil. Hari ini coba satu ide.",
+      "emoji": "🌟"
+    }
+  ]
+}

@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Memperdalam Desain Karakter",
+      "speech": "Bukan cuma penampilan — desain dari dalam! 🎨",
+      "emoji": "🎨",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "Makanan favorit, yang dibenci, ucapan khas, impian. Tiga hal di luar penampilan membuat karakter bergerak.",
+      "highlight": "Titik kedalaman:\n- Favorit\n- Benci\n- Ucapan khas\n- Impian"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Pakai Efek Suara",
+      "speech": "Suara membuat dunia 3D! 🔊",
+      "emoji": "🔊",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "Langkah kaki, angin, detak jantung. Satu efek membuat gambar terasa hidup. Cari di Suno atau situs efek suara.",
+      "highlight": "Ide suara:\n- Langkah\n- Angin\n- Detak"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

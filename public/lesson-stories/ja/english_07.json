@@ -1,0 +1,149 @@
+{
+  "title": "友達と感情の英語",
+  "description": "気持ちを伝えて、世界中に友達を作ろう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "気持ちを言える人は世界中で愛されるガル！💖",
+      "title": "気持ちの英語",
+      "content": "このレッスンでは「友達と感情の英語」を学ぶ。気持ちを言葉にできれば、文化や国を越えて人とつながることができる。",
+      "emoji": "💖"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "嬉しい気持ちの英語！",
+      "title": "Happy 表現",
+      "content": "I'm happy. I'm so glad! Yay! 嬉しさの度合いを使い分けると、感情がもっと伝わる。",
+      "emoji": "😄",
+      "highlight": "I'm happy. / I'm so glad! / Yay!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "悲しい気持ちも我慢しないで！",
+      "title": "Sad 表現",
+      "content": "I'm sad. I feel down. I miss you. 悲しい気持ちを言葉にすると、相手が気にかけてくれる。我慢より共有が大事。",
+      "emoji": "😢",
+      "highlight": "I'm sad. / I feel down. / I miss you."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "怒りも上手に伝えるとケンカにならない！",
+      "title": "Angry 表現",
+      "content": "I'm angry. I'm upset. That's not fair. 怒鳴るのではなく「悲しい・困った」のニュアンスで伝えるのがポイント。",
+      "emoji": "😠",
+      "highlight": "I'm angry. / I'm upset. / That's not fair."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "ワクワクや興奮は元気の源！",
+      "title": "Excited 表現",
+      "content": "I'm excited! I can't wait! テストや旅行、誕生日。楽しみな気持ちを言葉にすると一気に明るくなる。",
+      "emoji": "🤩",
+      "highlight": "I'm excited!\nI can't wait!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "怖いや不安も言っていい！",
+      "title": "Scared 表現",
+      "content": "I'm scared. I'm worried. I'm nervous. 弱音は弱さじゃない。素直に言える人ほど信頼される。",
+      "emoji": "😨",
+      "highlight": "I'm scared. / I'm worried. / I'm nervous."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "友達への気持ちを伝える魔法！",
+      "title": "友達への一言",
+      "content": "You're my best friend. I'm here for you. 困った時、嬉しい時。この一言があれば友情がぐっと深まる。",
+      "emoji": "🤝",
+      "highlight": "You're my best friend.\nI'm here for you."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "「ありがとう」は気持ちの王様！",
+      "title": "感謝の言葉",
+      "content": "Thank you. I appreciate it. You made my day. 感謝のバリエーションを増やすと、心の伝わり方が深くなる。",
+      "emoji": "🙏",
+      "highlight": "Thank you.\nI appreciate it.\nYou made my day."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "気持ちを聞くフレーズもセットで！",
+      "title": "相手に聞く",
+      "content": "How do you feel? Are you OK? 気持ちを聞ける人は、聞かれる人より2倍信頼される。",
+      "emoji": "❓",
+      "highlight": "How do you feel?\nAre you OK?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "クイズだガル！「楽しみ！」を英語で？",
+      "quizQuestion": "ワクワクする時の自然な英語は？",
+      "quizChoices": [
+        "I'm excited!",
+        "I'm scared!",
+        "I'm tired!",
+        "I'm sorry!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "I'm excited! が「ワクワクする」の自然表現。I can't wait!も類義表現。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "気持ちの英語マスターガル！世界中で友達を作ろう🌟",
+      "title": "レッスン完了！",
+      "emoji": "🎉"
+    }
+  ]
+}

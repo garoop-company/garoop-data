@@ -1,0 +1,149 @@
+{
+  "title": "Tiếng Anh du lịch",
+  "description": "Tiếng Anh tối thiểu để không lúng túng khi đi nước ngoài!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Có tiếng Anh du lịch là đi đâu cũng được! ✈️",
+      "title": "Tiếng Anh trên đường",
+      "content": "Bài học 'Tiếng Anh du lịch'. Chỉ chọn lọc các câu thật sự cần ở sân bay, khách sạn, điểm du lịch.",
+      "emoji": "🧳"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Cửa đầu sân bay là nhập cảnh!",
+      "title": "Nhập cảnh",
+      "content": "Khi được hỏi 'What's the purpose of your visit?' trả lời ngắn 'Sightseeing.' (du lịch) hay 'Studying.' (học) là được.",
+      "emoji": "🛂",
+      "highlight": "Q: Purpose of visit?\nA: Sightseeing. / Studying."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Ở khách sạn 'Tôi đã đặt phòng' là câu thần kỳ!",
+      "title": "Check-in khách sạn",
+      "content": "I have a reservation. My name is ___. Chỉ vậy là check-in được theo tên. Câu chìa khóa: 'I have a reservation.'",
+      "emoji": "🏨",
+      "highlight": "I have a reservation.\nMy name is ___ ."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Lạc đường thì 'Excuse me, where is ___?'",
+      "title": "Hỏi đường",
+      "content": "Excuse me, where is the station? Cần thiết khi hỏi nhà ga, bến xe, nhà vệ sinh, v.v.",
+      "emoji": "🗺️",
+      "highlight": "Excuse me, where is ___ ?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Hỏi giá rất quan trọng!",
+      "title": "Hỏi giá",
+      "content": "How much is this? Mua sắm chắc chắn dùng. Không có bảng giá, một câu là biết ngay.",
+      "emoji": "💰",
+      "highlight": "How much is this?\nHow much does it cost?"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Nói 'Tôi không giỏi tiếng Anh' cũng được!",
+      "title": "Khi gặp khó",
+      "content": "I don't speak English well. Could you speak slowly, please? Không cần hoàn hảo, thành thật là cách tốt nhất.",
+      "emoji": "😅",
+      "highlight": "I don't speak English well.\nCould you speak slowly?"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Biết hỏi Wi-Fi thì yên tâm!",
+      "title": "Wi-Fi",
+      "content": "Is there Wi-Fi? What's the password? Hai câu này ở quán cà phê hay khách sạn là online ngay.",
+      "emoji": "📶",
+      "highlight": "Is there Wi-Fi?\nWhat's the password?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Cũng kiểm tra câu khẩn cấp!",
+      "title": "Khẩn cấp",
+      "content": "Help! Call the police! Where is the hospital? Tập to để khi cần là bật ra ngay.",
+      "emoji": "🚨",
+      "highlight": "Help!\nCall the police!\nWhere is the hospital?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Du lịch là kho gặp gỡ — tận hưởng trò chuyện!",
+      "title": "Trò chuyện tại chỗ",
+      "content": "'Where are you from?' là câu hỏi đầu tiên khắp thế giới. Trả lời 'I'm from Japan.' đơn giản là được!",
+      "emoji": "🌍",
+      "highlight": "Q: Where are you from?\nA: I'm from Japan."
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Câu đố! Nói 'Bao nhiêu?' bằng tiếng Anh thế nào?",
+      "quizQuestion": "Cách nói 'Cái này bao nhiêu?'",
+      "quizChoices": [
+        "How much is this?",
+        "What is this?",
+        "Where is this?",
+        "Who is this?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "How much is this? là câu cơ bản hỏi giá. Bắt buộc khi mua sắm."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Sẵn sàng du lịch rồi! Đi ngắm thế giới nào! 🌟",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "साथी र भावना",
+  "description": "भावना व्यक्त गरेर संसारभर साथी बनाऔं!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "भावना भन्न सक्ने व्यक्ति संसारभर मन पराइन्छ गाल्! 💖",
+      "title": "भावनाको अंग्रेजी",
+      "content": "यो पाठ 'साथी र भावनाको अंग्रेजी'। भावना शब्दमा परिणत गर्न सकिए, संस्कृति र देश पार गरेर मानिससँग जोडिन सकिन्छ।",
+      "emoji": "💖"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "खुशी भएको भन्ने अंग्रेजी!",
+      "title": "Happy अभिव्यक्ति",
+      "content": "I'm happy. I'm so glad! Yay! स्तर फरक प्रयोग गर्दा भावना अझ राम्रो पुग्छ।",
+      "emoji": "😄",
+      "highlight": "I'm happy. / I'm so glad! / Yay!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "दुःख पनि नथिच्ने!",
+      "title": "Sad अभिव्यक्ति",
+      "content": "I'm sad. I feel down. I miss you। दुःखलाई शब्दमा भन्दा अरूले ख्याल गर्छन्। थिच्नुभन्दा साझा गर्नु राम्रो।",
+      "emoji": "😢",
+      "highlight": "I'm sad. / I feel down. / I miss you."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "रिस राम्ररी व्यक्त गरे झगडा हुँदैन!",
+      "title": "Angry अभिव्यक्ति",
+      "content": "I'm angry. I'm upset. That's not fair। चिच्याउनेभन्दा 'दुःखी/अप्ठेरो' को अर्थमा भन्दा कुराकानी अघि बढ्छ।",
+      "emoji": "😠",
+      "highlight": "I'm angry. / I'm upset. / That's not fair."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "उत्साह ऊर्जाको स्रोत!",
+      "title": "Excited अभिव्यक्ति",
+      "content": "I'm excited! I can't wait! परीक्षा, यात्रा, जन्मदिन — व्यक्त गर्दा ठाउँ उज्यालो हुन्छ।",
+      "emoji": "🤩",
+      "highlight": "I'm excited!\nI can't wait!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "डर र चिन्ता पनि भन्न पाइन्छ!",
+      "title": "Scared अभिव्यक्ति",
+      "content": "I'm scared. I'm worried. I'm nervous। इमान्दारी कमजोरी होइन — भन्न सक्ने व्यक्ति बढी विश्वासयोग्य।",
+      "emoji": "😨",
+      "highlight": "I'm scared. / I'm worried. / I'm nervous."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "साथीलाई भन्ने जादुई शब्द!",
+      "title": "साथीलाई एक हरफ",
+      "content": "You're my best friend. I'm here for you। दुःख वा खुशी जुनसुकै बेला यी वाक्यले मित्रता गहिरो बनाउँछन्।",
+      "emoji": "🤝",
+      "highlight": "You're my best friend.\nI'm here for you."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "'धन्यवाद' भावनाको राजा!",
+      "title": "धन्यवादका शब्द",
+      "content": "Thank you. I appreciate it. You made my day। धन्यवादका भिन्न रूप प्रयोग गर्दा हृदयलाई गहिरो छुन्छ।",
+      "emoji": "🙏",
+      "highlight": "Thank you.\nI appreciate it.\nYou made my day."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "अरूलाई सोध्ने वाक्य पनि सेटमा!",
+      "title": "अरूलाई सोध्ने",
+      "content": "How do you feel? Are you OK? भावना सोध्न सक्ने व्यक्ति आफैले सुनाउने भन्दा दुई गुणा बढी विश्वसनीय।",
+      "emoji": "❓",
+      "highlight": "How do you feel?\nAre you OK?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "क्विज गाल्! 'आतुर छु!' अंग्रेजीमा कसरी?",
+      "quizQuestion": "उत्साहित बेलाको प्राकृतिक अंग्रेजी?",
+      "quizChoices": [
+        "I'm excited!",
+        "I'm scared!",
+        "I'm tired!",
+        "I'm sorry!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "I'm excited! प्राकृतिक। I can't wait! पनि समानार्थी।"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "भावना अंग्रेजी मास्टर गाल्! संसारभर साथी बनाऔं 🌟",
+      "title": "पाठ पूरा!",
+      "emoji": "🎉"
+    }
+  ]
+}

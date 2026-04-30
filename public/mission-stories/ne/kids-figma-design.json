@@ -1,0 +1,105 @@
+{
+  "title": "Figma डिजाइन मिसन",
+  "description": "Figma मा app स्क्रिन डिजाइन गर्ने जासुसी मिसन!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "डिजाइन एजेन्ट! आज Figma मा app स्क्रिन डिजाइन गर्छौं गाल्! 🎨",
+      "title": "मिसन आदेश: Figma अभियान",
+      "content": "मिसन: Figma प्रयोग गरेर एउटा app स्क्रिन डिजाइन गर्ने। ३ शर्त: उद्देश्य एक वाक्यमा, ३ रङ नियम पालना, आफ्नो नाम कतै राख्ने।",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Figma निःशुल्क डिजाइन उपकरण हो गाल्!",
+      "title": "Figma भनेको के?",
+      "content": "Figma ब्राउजरमा चल्ने डिजाइन उपकरण। App स्क्रिन, वेबसाइट, लोगो, पोस्टर बनाउन सकिन्छ — एकसाथ काम पनि।",
+      "emoji": "🖌️",
+      "highlight": "Figma मा:\n• App स्क्रिन\n• लोगो\n• पोस्टर\n• साझा सम्पादन"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "पहिले 'Frame' राख्ने!",
+      "title": "Frame राख्ने",
+      "content": "F थिचेर Frame छानौं, iPhone वा desktop साइज छान्नुहोस्। यो डिजाइनको क्यानभास हो।",
+      "emoji": "📱",
+      "highlight": "Frame चरण:\n१. F कुञ्जी\n२. साइज\n३. राख्ने"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "अक्षर र आकारले लेआउट!",
+      "title": "तत्व थप्ने",
+      "content": "T अक्षर, R आयत। शीर्षक, विवरण, बटन ३ राख्दा सरल app स्क्रिन बन्छ।",
+      "emoji": "📝",
+      "highlight": "सर्टकट:\nT = अक्षर\nR = आयत\nO = गोलो"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "३ रङ नियम पालना!",
+      "title": "अभियान: रङ",
+      "content": "मुख्य, उप, उच्चारण रङ छान्ने। ३ रङले लेआउट एकीकृत देखिन्छ। अल्मलिए Color Hunt हेर्ने।",
+      "emoji": "🎨",
+      "highlight": "३ रङ सङ्केत:\n• मुख्य ७०%\n• उप २५%\n• उच्चारण ५%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "मिलाउने र खाली ठाउँले सफाइ निर्धारण!",
+      "title": "सजाउने",
+      "content": "Auto Layout ले तत्वलाई स्वचालित मिलाउँछ। बराबर खाली ठाउँले डिजाइन व्यावसायिक देखाउँछ।",
+      "emoji": "📏",
+      "highlight": "३ कदम:\n• मिलाउने\n• बराबर खाली\n• Auto Layout"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "सकिएपछि शेयर लिङ्क लिऔं!",
+      "title": "साझेदारी",
+      "content": "माथि दाहिने Share बटनले लिङ्क दिन्छ। परिवार र साथीलाई देखाएर एक प्रतिक्रिया लिऔं।",
+      "emoji": "🔗",
+      "highlight": "साझा सुझाव:\n• हेर्न मात्र\n• URL\n• १ प्रतिक्रिया"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "मिसन पूरा गाल्! स्क्रिनसट पेस गरेर ५०० अंक 🚀",
+      "title": "मिसन पूरा!",
+      "content": "सम्पन्न भनेको आफ्नो डिजाइनलाई १ मिनेटमा वर्णन गर्न सक्नु: कसका लागि, कुन वातावरण।",
+      "emoji": "🚀"
+    }
+  ]
+}

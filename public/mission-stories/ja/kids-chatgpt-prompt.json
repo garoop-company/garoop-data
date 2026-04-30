@@ -1,0 +1,105 @@
+{
+  "title": "ChatGPTプロンプト指令",
+  "description": "ChatGPTにうまく質問する力を身につけるスパイミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "プロンプトエージェント！今回のミッションはChatGPTに賢く質問することだガル！🕵️💬",
+      "background": "lab",
+      "title": "ミッション指令：プロンプト作戦",
+      "content": "任務はChatGPTから自分が本当にほしい答えを引き出すこと。完成条件は、目的を1文で言えること、対象と形式を指定できること、答えを1回作り直して比較できることの3つだ。",
+      "emoji": "💬",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "プロンプトはAIへの「お願いの書き方」ガル！書き方で答えが変わるよ！",
+      "background": "spy",
+      "title": "プロンプトとは？",
+      "content": "プロンプトはAIに渡す指示文のこと。同じ質問でも、誰向けか・どの長さで・どの形式でを足すだけで返ってくる答えの精度が大きく変わる。",
+      "emoji": "📝",
+      "highlight": "差が出るポイント:\n・対象（誰向け？）\n・長さ（何字くらい？）\n・形式（箇条書き？文章？）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "良いプロンプトの基本は5W1Hガル！順番に決めていこう！",
+      "background": "hq",
+      "title": "5W1Hで設計する",
+      "content": "Who（誰に）、What（何を）、Why（目的）、When/Where（場面）、How（どう書くか）を最初に決めると、AIに迷いを与えない指示になる。",
+      "emoji": "🧭",
+      "highlight": "5W1Hチェック:\n・Who: 小学生向け\n・What: 自由研究のテーマ案\n・How: 5案を箇条書きで"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "AIに「役を演じてもらう」と答えがぐっと変わるガル！",
+      "background": "spy",
+      "title": "ロールプロンプト",
+      "content": "「あなたは小学校の先生です」のように役を与えると、AIはその立場に合った言葉づかいや内容で答えてくれる。専門家、コーチ、編集者など、目的に合った役を選ぼう。",
+      "emoji": "🎭",
+      "highlight": "ロール例:\n・先生（やさしく説明）\n・編集者（短くする）\n・コーチ（背中を押す）"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "実際にChatGPTに送ってみよう！同じ題材でプロンプトを2種類試すよ！",
+      "background": "lab",
+      "title": "作戦実行：A/B比較",
+      "content": "同じテーマで「短いプロンプト」と「条件を入れたプロンプト」を比較すると、書き方の差が一目でわかる。返ってきた2つを並べて、どちらが目的に近いかメモしよう。",
+      "emoji": "🧪",
+      "highlight": "比較例:\nA: 「自由研究のテーマ教えて」\nB: 「小学4年生向け、夏休み3日でできる、理科の自由研究を5案、箇条書きで」"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "1回で完璧じゃなくていいガル！追いかけ質問で精度を上げよう！",
+      "background": "hq",
+      "title": "追いプロンプト技",
+      "content": "AIの答えに対して「もう少し短く」「中学生にもわかる言葉で」「例を3つ追加して」のように追加で指示を出すと、対話のたびに答えが磨かれていく。",
+      "emoji": "🔁",
+      "highlight": "追いプロンプト例:\n・もっと簡単に\n・例を増やして\n・反対意見もちょうだい"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "自分専用テンプレを作ろう！次から貼るだけで使えるよ！",
+      "background": "spy",
+      "title": "マイ・プロンプト・テンプレ",
+      "content": "よく使う形を「テンプレ」にして保存しておくと、毎回ゼロから書かずに済む。役割・対象・出力形式・禁止事項の4点を埋める枠を作っておくと便利だ。",
+      "emoji": "📋",
+      "highlight": "テンプレの枠:\n・役割: ___\n・対象: ___\n・出力: ___\n・禁止: ___"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "ミッション完了ガル！ベストプロンプトをスクショで提出して480ポイントゲット！🎯",
+      "background": "lab",
+      "title": "ミッション完了！",
+      "content": "プロンプト作戦の合格は、答えそのものより「どう聞いたら良くなったか」を説明できることだ。書き方の工夫こそが、君だけの武器になる。",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

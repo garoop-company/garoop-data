@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Mengelola Gambar",
+      "speech": "Materi berguna setelah ditata! 🗂️",
+      "emoji": "🗂️",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Pisahkan gambar ke folder per tema, taruh tanggal dan isi di nama file. Mereka jadi harta yang bisa dicari kapan saja.",
+      "highlight": "3 aturan:\n- Per tema\n- Nama berisi isi\n- Tanggal"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Lomba Caption",
+      "speech": "Caption satu baris mengubah kesan! ✏️",
+      "emoji": "✏️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Caption memperdalam pemahaman. Tambahkan 'perasaan' lebih banyak daripada 'fakta' agar melekat.",
+      "highlight": "Caption bagus:\n- Singkat\n- Perasaan\n- Sentuhan kejutan"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

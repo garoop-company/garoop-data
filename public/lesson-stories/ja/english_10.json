@@ -1,0 +1,149 @@
+{
+  "title": "将来の仕事と英語",
+  "description": "夢の仕事を英語の力で世界に広げよう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "君の夢の仕事は何？英語があれば世界が舞台ガル！🌍",
+      "title": "夢の仕事と英語",
+      "content": "このレッスンでは「将来の仕事と英語」を学ぶ。英語ができると、好きな仕事を世界中で見つけられる。仕事と英語を結びつけて考えよう。",
+      "emoji": "🚀"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "プログラマーは世界共通の仕事ガル！",
+      "title": "プログラマー",
+      "content": "プログラミング言語、ライブラリ、エラーメッセージ、ドキュメント。多くが英語だから、英語ができればコードの理解が一段深くなる。",
+      "emoji": "💻",
+      "highlight": "Programming = global job\nDocs are mostly in English"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "クリエイターは世界中にファンを作れる！",
+      "title": "クリエイター",
+      "content": "イラスト、動画、音楽。英語のキャプションやコメントが書けると、世界の人にも作品が届く。",
+      "emoji": "🎨",
+      "highlight": "Artist / YouTuber / Musician\n→ Reach the world"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "研究者やサイエンティストにも英語は必須！",
+      "title": "研究者",
+      "content": "論文、学会発表、国際共同研究。世界中の研究者と共に学び、世界を進める仕事には英語が欠かせない。",
+      "emoji": "🔬",
+      "highlight": "Research = global team\nPapers in English"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "起業家は世界マーケットに挑戦できる！",
+      "title": "起業家",
+      "content": "サービスを世界中の人に届けたいなら、最初から英語を意識して設計するといい。日本だけより市場が10倍以上に広がる。",
+      "emoji": "💼",
+      "highlight": "Startup → Global market\n10x bigger world"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "医療や福祉でも英語の出番！",
+      "title": "医療・福祉",
+      "content": "国際医療、海外ボランティア、論文。患者さんにも研究にも、英語ができると助けられる人の数が増える。",
+      "emoji": "🏥",
+      "highlight": "Doctor / Nurse / Aid worker\n→ Help more people"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "教育・通訳もこれからの花形！",
+      "title": "教育・通訳",
+      "content": "国際学校の先生、通訳者、AI翻訳の専門家。言葉の橋を架ける仕事は、これからもっと求められる。",
+      "emoji": "📚",
+      "highlight": "Teacher / Interpreter / AI translator"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "好きなことが仕事になる時代ガル！",
+      "title": "好きを仕事に",
+      "content": "ゲーム実況、SNSクリエイター、eスポーツ選手。趣味が仕事になる新しい職業が次々生まれている。英語があるとその輪がぐっと広がる。",
+      "emoji": "💖",
+      "highlight": "Streamer / Creator / Pro gamer"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "面接英語の基本もチェック！",
+      "title": "面接の英語",
+      "content": "Tell me about yourself. Why do you want this job? What's your strength? 自己紹介＋志望理由＋強み、この3つを準備すれば世界中で挑戦できる。",
+      "emoji": "🎤",
+      "highlight": "1. Tell me about yourself\n2. Why this job?\n3. Your strength?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "クイズだガル！面接で「自己紹介してください」は？",
+      "quizQuestion": "「自己紹介してください」を英語で？",
+      "quizChoices": [
+        "Tell me about yourself.",
+        "Who are you?",
+        "Where are you?",
+        "What is your job?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Tell me about yourself.が面接で必ず最初に聞かれる定番フレーズ。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "夢を世界規模に広げよう！君の英語が未来をつくる🌟",
+      "title": "シリーズ完了！",
+      "emoji": "🎉"
+    }
+  ]
+}

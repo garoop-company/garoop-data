@@ -1,0 +1,105 @@
+{
+  "title": "Pelatihan Matematika",
+  "description": "Latih perasaan terhadap angka dan kemampuan memecahkan soal!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Selamat datang di Dojo Matematika! Mari menjelajah dunia angka 🔢",
+      "background": "mountain",
+      "title": "Dojo Matematika",
+      "content": "Dalam pelatihan matematika, bukan hanya kecepatan menghitung yang penting tetapi juga kemampuan mengubah soal menjadi 'gambar' atau contoh yang akrab. Sebelum hafal rumus, jelaskan dulu dengan kata-kata apa yang sedang dicari.",
+      "emoji": "🔢",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Memecahkan soal dimulai dari 'mengulang dengan kata sendiri'!",
+      "background": "dojo",
+      "title": "Gambar soalnya",
+      "content": "Soal cerita terlihat sulit. Gambarkan orang dan benda yang muncul, lalu kamu akan tahu harus menambah atau mengurangi. Coba tuliskan dengan tangan.",
+      "emoji": "🖼️",
+      "highlight": "Langkah ulang ucap:\n1. Tulis benda-benda\n2. Hubungkan dengan panah\n3. Lingkari yang dicari"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Memikirkan 'kira-kira berapa?' membantu menemukan kesalahan dengan cepat!",
+      "background": "bamboo",
+      "title": "Pelatihan Estimasi",
+      "content": "Sebelum menghitung, perkirakan 'jawaban kira-kira sebesar apa'. Salah digit langsung terlihat. Bangun kepekaan ratusan dan ribuan.",
+      "emoji": "🎯",
+      "highlight": "Contoh estimasi:\n- 98×21 → sekitar 2000\n- 1.2×3 → sekitar 3.6"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Hafal rumus bersama 'kapan dipakai'!",
+      "background": "mountain",
+      "title": "Pelatihan Rumus",
+      "content": "Setiap rumus punya konteks: luas, kecepatan, perbandingan. Pasangkan rumus dengan kontekstnya supaya melihat angka langsung tahu rumus mana.",
+      "emoji": "📐",
+      "highlight": "Hafalan berpasangan:\n- Kecepatan = jarak ÷ waktu\n- Luas = panjang × lebar\n- Perbandingan = jumlah dibandingkan / jumlah dasar"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Buat 'buku catatan kesalahan'! Tidak mengulang kesalahan yang sama dua kali!",
+      "background": "dojo",
+      "title": "Buku Kesalahan",
+      "content": "Catat soal yang salah dalam ujian dan PR beserta sebab dan cara memperbaikinya. Bedakan sebab 'lalai', 'tidak tahu cara', 'salah baca' agar penanganannya tepat.",
+      "emoji": "📓",
+      "highlight": "3 jenis kesalahan:\n- Lalai\n- Tidak tahu cara\n- Salah baca"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Tantangan hari ini: 'tuliskan benda di sekitar dalam angka'!",
+      "background": "bamboo",
+      "title": "Temukan Angka",
+      "content": "Cari di rumah 3 hal: jumlah X, panjang Y, berat Z, lalu tuliskan. Matematika bukan hanya di buku pelajaran, tapi ada di mana-mana dalam kehidupan.",
+      "emoji": "🔍",
+      "highlight": "Cara mencari:\n- Jumlah piring di dapur\n- Panjang dinding\n- Berat botol minum"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Minta petunjuk ke AI juga boleh! Minta jalannya, bukan jawabannya!",
+      "background": "mountain",
+      "title": "AI dan Matematika",
+      "content": "Soal sulit, minta AI 'jangan tunjukkan jawabannya, ajari langkahnya saja'. Menerima petunjuk sedikit demi sedikit membantu menyelesaikan sendiri.",
+      "emoji": "🤖",
+      "highlight": "Cara meminta AI:\n- Sembunyikan jawaban\n- Hanya petunjuk pertama\n- Jelaskan dengan diagram"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Kerja bagus! Sudah akrab dengan angka? 🌟",
+      "background": "temple",
+      "title": "Pelatihan Selesai!",
+      "content": "Kekuatan matematika sebenarnya adalah 'bisa menjelaskan cara berpikir', bukan sekadar mendapat jawaban. Bagikan satu angka yang kamu temukan hari ini ke keluarga.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

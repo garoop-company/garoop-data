@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "लक्ष्य बनाउने",
+      "speech": "लक्ष्यले दैनिक अभ्यास बदल्छ गाल्! 🎯",
+      "emoji": "🎯",
+      "background": "mountain",
+      "garuchanAnimation": "float",
+      "content": "एक वाक्यमा लेखौं: '३ महिनापछि म ___ गर्न सक्ने भएको हुँ।' सक्ने/नसक्ने भन्दा बन्न चाहेको आफू लेख्दा निरन्तरता आउँछ।",
+      "highlight": "लक्ष्यको ढाँचा:\n• समयसीमा\n• विषय\n• भविष्यको आफू"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "पुनरावलोकन समय",
+      "speech": "हप्तान्तको ५ मिनेट पुनरावलोकन गाल्! 📝",
+      "emoji": "📝",
+      "background": "temple",
+      "garuchanAnimation": "bounce",
+      "content": "हप्तान्तमा ३ कुरा लेखौं: सकेको, नसकेको, अर्को हप्ता। निरन्तर गर्दा आफ्नो बानी र वृद्धि देखिन्छ।",
+      "highlight": "३ बुँदा:\n• सकेको\n• नसकेको\n• अर्को हप्ता"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

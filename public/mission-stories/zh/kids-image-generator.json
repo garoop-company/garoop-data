@@ -1,0 +1,105 @@
+{
+  "title": "AI图像生成任务",
+  "description": "用AI创作独一无二画作的间谍任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "图像特工！今天用AI画画加鲁！🎨",
+      "background": "lab",
+      "title": "任务指令：图像生成作战",
+      "content": "任务是用AI图像工具完成一张原创画作。完成条件3个：包含主角、场所、氛围三要素；至少生成3次；选定最终一张并能说明理由。",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "AI图像生成是「文字变图像」的魔法加鲁！",
+      "background": "spy",
+      "title": "什么是AI图像生成？",
+      "content": "Midjourney、DALL-E、Stable Diffusion都是从文字生成图像的AI。文字越具体，画面越接近你的想象。",
+      "emoji": "🖼️",
+      "highlight": "代表工具：\n・Midjourney\n・DALL-E\n・Stable Diffusion"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "提示词必须包含「主角・场所・氛围」加鲁！",
+      "background": "hq",
+      "title": "三要素提示词",
+      "content": "「主角是谁？」「在哪里？」「什么氛围？」三个要素必须写进去，画面才不偏。觉得不够再加颜色和时间段。",
+      "emoji": "📝",
+      "highlight": "三要素模板：\n主角：白猫\n场所：太空站\n氛围：未来感蓝光"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "指定「画风」氛围立刻就变加鲁！",
+      "background": "spy",
+      "title": "艺术画风",
+      "content": "「水彩画风」「像素艺术」「吉卜力风」这样指定画风，同一题材会变成完全不同的画。喜欢的词记得保存。",
+      "emoji": "🎭",
+      "highlight": "画风示例：\n・水彩画\n・像素艺术\n・3D渲染\n・漫画风"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "发送提示词生成3个版本！",
+      "background": "lab",
+      "title": "作战实施：3版本生成",
+      "content": "同一主角只换画风生成3个版本，自己喜欢的方向就清晰了。挑出心仪的1张，用一句话写下喜欢的理由。",
+      "emoji": "🧪",
+      "highlight": "比较示例：\nA：水彩画\nB：像素艺术\nC：3D渲染"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "和想象不一样时也能用「禁止词」加鲁！",
+      "background": "hq",
+      "title": "负向提示词",
+      "content": "「想要夜景却出来白天」时，要告知避开的元素。写「排除白天、明亮背景」可提高精准度。",
+      "emoji": "🚫",
+      "highlight": "避开方式：\n・「排除〜」\n・「不使用〜」\n・「用〜替代」"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "给选中的1张配上标题和一句评论！",
+      "background": "spy",
+      "title": "做成作品",
+      "content": "加上标题和一句话评论，就从「生成图」变成「作品」。评论用一句话说明「为什么是这张」也足够。",
+      "emoji": "🖋️",
+      "highlight": "作品化模板：\n・标题\n・一句话概念\n・使用画风"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "任务完成加鲁！上传作品领取450积分！🎉",
+      "background": "lab",
+      "title": "任务完成！",
+      "content": "AI图像生成不是「画画」，而是「用文字引导」的技能。提示词的每个字都在构建画面里的世界。",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

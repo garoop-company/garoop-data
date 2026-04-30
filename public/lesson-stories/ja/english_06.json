@@ -1,0 +1,149 @@
+{
+  "title": "旅行の英語",
+  "description": "海外旅行で困らない最低限の英語！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "旅行英語があれば世界中どこでも行けるガル！✈️",
+      "title": "旅の英語",
+      "content": "このレッスンでは「旅行の英語」を学ぶ。空港、ホテル、観光地で本当に必要なフレーズを厳選して身につけよう。",
+      "emoji": "🧳"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "空港で最初の関門は入国審査！",
+      "title": "入国審査",
+      "content": "What's the purpose of your visit? と聞かれたら Sightseeing.（観光）や Studying.（勉強）と一語でOK。",
+      "emoji": "🛂",
+      "highlight": "Q: Purpose of visit?\nA: Sightseeing. / Studying."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "ホテルでは「予約してます」が魔法ワード！",
+      "title": "ホテルチェックイン",
+      "content": "I have a reservation. My name is ___. これだけで予約名でチェックインできる。鍵はI have a reservation.の一言。",
+      "emoji": "🏨",
+      "highlight": "I have a reservation.\nMy name is ___ ."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "道に迷ったら「すみません、〜はどこですか？」",
+      "title": "道を聞く",
+      "content": "Excuse me, where is the station? 駅、バス停、トイレなどの場所を聞く時の必修フレーズ。",
+      "emoji": "🗺️",
+      "highlight": "Excuse me, where is ___ ?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "値段を聞くフレーズも超重要！",
+      "title": "値段を聞く",
+      "content": "How much is this? 買い物では絶対使うフレーズ。値札がない時もこの一言で値段がわかる。",
+      "emoji": "💰",
+      "highlight": "How much is this?\nHow much does it cost?"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "「英語が話せません」も伝えていい！",
+      "title": "困ったとき",
+      "content": "I don't speak English well. Could you speak slowly, please? 完璧じゃなくていい。困った時は素直に伝えるのが一番。",
+      "emoji": "😅",
+      "highlight": "I don't speak English well.\nCould you speak slowly?"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Wi-Fiを聞ければ旅は安心！",
+      "title": "Wi-Fi",
+      "content": "Is there Wi-Fi? What's the password? カフェやホテルでこの2つを聞ければ、すぐに繋がれる。",
+      "emoji": "📶",
+      "highlight": "Is there Wi-Fi?\nWhat's the password?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "緊急時のフレーズもチェック！",
+      "title": "緊急のとき",
+      "content": "Help! Call the police! Where is the hospital? 万が一の時にすぐ口から出るよう声に出して練習しておこう。",
+      "emoji": "🚨",
+      "highlight": "Help!\nCall the police!\nWhere is the hospital?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "旅行は出会いの宝庫！会話を楽しもう！",
+      "title": "現地で会話",
+      "content": "Where are you from? は世界中の旅行者が使う最初の質問。返事は I'm from Japan. シンプルでOK！",
+      "emoji": "🌍",
+      "highlight": "Q: Where are you from?\nA: I'm from Japan."
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "クイズだガル！「いくらですか？」を英語で？",
+      "quizQuestion": "「これ、いくらですか？」を英語でなんと言う？",
+      "quizChoices": [
+        "How much is this?",
+        "What is this?",
+        "Where is this?",
+        "Who is this?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "How much is this? が値段を聞く基本フレーズ。買い物で必須。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "これで旅も安心ガル🌟世界を見に行こう！",
+      "title": "レッスン完了！",
+      "emoji": "🎉"
+    }
+  ]
+}

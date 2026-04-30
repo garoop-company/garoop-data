@@ -1,0 +1,149 @@
+{
+  "title": "ネットとゲームの英語",
+  "description": "オンラインで世界中の仲間と話せるようになろう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "ネット英語が分かれば世界の仲間と遊べるガル！🎮",
+      "title": "ネットとゲーム英語",
+      "content": "このレッスンでは「ネットとゲームの英語」を学ぶ。チャット、ゲーム、SNS。オンラインで世界の友達と話せるようになる入口だ。",
+      "emoji": "🎮"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "チャットの定番省略形を覚えよう！",
+      "title": "チャット略語",
+      "content": "lol（笑）, brb（すぐ戻る）, omg（びっくり）, gg（good game）。ゲームのチャットでも普通に使われる。",
+      "emoji": "💬",
+      "highlight": "lol = laugh\nbrb = be right back\nomg = oh my god\ngg = good game"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "ゲームでよく使うフレーズ！",
+      "title": "ゲームフレーズ",
+      "content": "Let's play! Nice shot! Watch out! ゲーム中の声かけは短く力強くがコツ。仲間を励ます一言で空気が変わる。",
+      "emoji": "🎯",
+      "highlight": "Let's play!\nNice shot!\nWatch out!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "SNSの基本も知っておこう！",
+      "title": "SNSの英語",
+      "content": "Follow me! DM me! Comment below! 投稿のキャプションでもよく見る基本フレーズ。",
+      "emoji": "📱",
+      "highlight": "Follow me!\nDM me!\nComment below!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "「いいね！」も英語ならこう！",
+      "title": "リアクション",
+      "content": "Cool! Awesome! Nice! That's so cute! 反応のバリエーションを増やすと、コメントが返しやすくなる。",
+      "emoji": "👍",
+      "highlight": "Cool! / Awesome! / Nice!\nThat's so cute!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "チームに合流するときの一言！",
+      "title": "チームに入る",
+      "content": "Can I join? GG everyone! 礼儀正しく入って礼儀正しく終わる。それだけで「いい仲間」になれる。",
+      "emoji": "🤝",
+      "highlight": "Can I join?\nGG everyone!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "困った時のフレーズ！",
+      "title": "困った時",
+      "content": "I'm lost. What should I do? I'm AFK（離席）. AFKはAway From Keyboardの略でよく使われる。",
+      "emoji": "😵",
+      "highlight": "I'm lost.\nWhat should I do?\nI'm AFK."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "言葉づかいに気をつけよう！",
+      "title": "ネットマナー",
+      "content": "Please be kind. Don't be mean. ネット上でも顔のある人と話している。優しさは世界共通の言葉。",
+      "emoji": "🤝",
+      "highlight": "Please be kind.\nDon't be mean."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "終わりの挨拶もきちんと！",
+      "title": "ログアウト前",
+      "content": "Thanks for the game! See you next time! 終わり方が良ければ、また一緒に遊ぼうと言ってもらえる。",
+      "emoji": "👋",
+      "highlight": "Thanks for the game!\nSee you next time!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "クイズだガル！ggの意味は？",
+      "quizQuestion": "ゲームチャットでよく見る「gg」の意味は？",
+      "quizChoices": [
+        "good game（いい試合）",
+        "got going",
+        "go go",
+        "great gift"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "ggはgood game。試合終了後にお互いを称える挨拶として使われる。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "ネット英語マスターガル！世界中の仲間と遊ぼう🌟",
+      "title": "レッスン完了！",
+      "emoji": "🎉"
+    }
+  ]
+}

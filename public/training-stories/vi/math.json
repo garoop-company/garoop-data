@@ -1,0 +1,105 @@
+{
+  "title": "Luyện tập Toán",
+  "description": "Rèn cảm giác về số và năng lực giải bài!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chào mừng đến với lò luyện Toán! Hãy khám phá thế giới con số 🔢",
+      "background": "mountain",
+      "title": "Lò luyện Toán",
+      "content": "Trong luyện toán, không chỉ tốc độ tính nhẩm mà cả khả năng biến bài toán thành 'bức tranh' hoặc ví dụ quen thuộc đều quan trọng. Trước khi thuộc công thức, hãy diễn đạt bằng lời điều mình đang tìm.",
+      "emoji": "🔢",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Giải bài bắt đầu từ 'diễn đạt lại'!",
+      "background": "dojo",
+      "title": "Vẽ bài toán",
+      "content": "Bài có lời giải nhìn chữ thấy khó. Vẽ người và đồ vật trong đó ra, bạn sẽ thấy phải cộng hay trừ. Hãy viết tay để xác nhận.",
+      "emoji": "🖼️",
+      "highlight": "Diễn đạt lại các bước:\n1. Viết các vật xuất hiện\n2. Nối quan hệ bằng mũi tên\n3. Khoanh tròn cái cần tìm"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Hỏi 'khoảng bao nhiêu?' giúp phát hiện sai sót nhanh!",
+      "background": "bamboo",
+      "title": "Luyện ước lượng",
+      "content": "Trước khi tính, hãy đoán 'đáp án cỡ bao nhiêu'. Sai một chữ số là nhận ra ngay. Hãy có cảm giác về hàng trăm, hàng nghìn.",
+      "emoji": "🎯",
+      "highlight": "Ví dụ ước lượng:\n- 98×21 → khoảng 2000\n- 1.2×3 → khoảng 3.6"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Công thức nhớ kèm 'khi nào dùng'!",
+      "background": "mountain",
+      "title": "Luyện công thức",
+      "content": "Mỗi công thức ứng với một bối cảnh: diện tích, vận tốc, tỉ lệ. Ghép công thức với bối cảnh, nhìn số là biết dùng cái nào.",
+      "emoji": "📐",
+      "highlight": "Ghi nhớ kèm cặp:\n- Vận tốc = quãng đường ÷ thời gian\n- Diện tích = dài × rộng\n- Tỉ lệ = lượng so / lượng gốc"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Lập 'sổ lỗi' nhé! Không lặp lại cùng một lỗi!",
+      "background": "dojo",
+      "title": "Sổ lỗi",
+      "content": "Bài làm sai trong kiểm tra hoặc bài tập, hãy ghi nguyên nhân và cách sửa. Phân loại 'sơ ý', 'không biết cách', 'đọc sai' giúp đối phó hiệu quả.",
+      "emoji": "📓",
+      "highlight": "3 loại lỗi:\n- Sơ ý\n- Không biết cách\n- Đọc sai"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Thử thách hôm nay: 'biểu diễn đồ vật xung quanh bằng số'!",
+      "background": "bamboo",
+      "title": "Tìm các con số",
+      "content": "Tìm trong nhà 3 thứ: số lượng X, chiều dài Y, cân nặng Z, rồi viết ra. Toán có khắp nơi ngoài sách giáo khoa.",
+      "emoji": "🔍",
+      "highlight": "Cách tìm:\n- Số chén ở bếp\n- Chiều dài tường\n- Cân nặng chai nước"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Xin gợi ý từ AI cũng ổn! Xin lộ trình, không xin đáp án!",
+      "background": "mountain",
+      "title": "AI và Toán",
+      "content": "Bài khó hãy bảo AI 'đừng cho đáp án, chỉ chỉ các bước'. Nhận gợi ý từng chút giúp bạn tự đi đến đích.",
+      "emoji": "🤖",
+      "highlight": "Cách nhờ AI:\n- Giấu đáp án\n- Chỉ gợi ý đầu\n- Giải thích bằng sơ đồ"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Vất vả rồi! Đã thân với những con số chưa? 🌟",
+      "background": "temple",
+      "title": "Hoàn thành luyện tập!",
+      "content": "Sức mạnh thật sự của toán là 'giải thích được cách nghĩ' chứ không phải đưa ra đáp số. Hãy chia sẻ một con số tìm được hôm nay với gia đình.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Teman dan Perasaan",
+  "description": "Sampaikan perasaan dan jalin teman di seluruh dunia!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Orang yang bisa menyebut perasaan dicintai di seluruh dunia! 💖",
+      "title": "Perasaan dalam Bahasa Inggris",
+      "content": "Pelajaran 'Teman dan perasaan'. Saat bisa mengubah perasaan jadi kata, kamu terhubung melintasi budaya dan negara.",
+      "emoji": "💖"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Kata-kata bahagia!",
+      "title": "Kata Happy",
+      "content": "I'm happy. I'm so glad! Yay! Pakai tingkat berbeda agar emosi sampai dengan tepat.",
+      "emoji": "😄",
+      "highlight": "I'm happy. / I'm so glad! / Yay!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Sedih juga jangan dipendam!",
+      "title": "Kata Sad",
+      "content": "I'm sad. I feel down. I miss you. Memberi nama pada kesedihan mengundang perhatian. Berbagi lebih baik dari menahan.",
+      "emoji": "😢",
+      "highlight": "I'm sad. / I feel down. / I miss you."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Mengungkap marah dengan baik mencegah pertengkaran!",
+      "title": "Kata Angry",
+      "content": "I'm angry. I'm upset. That's not fair. Jangan teriak — sampaikan dengan nuansa 'sedih/terganggu' agar percakapan tetap terbuka.",
+      "emoji": "😠",
+      "highlight": "I'm angry. / I'm upset. / That's not fair."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Gembira adalah sumber semangat!",
+      "title": "Kata Excited",
+      "content": "I'm excited! I can't wait! Ujian, traveling, ulang tahun — mengucapkan menyalakan ruangan.",
+      "emoji": "🤩",
+      "highlight": "I'm excited!\nI can't wait!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Takut dan khawatir juga boleh disebut!",
+      "title": "Kata Scared",
+      "content": "I'm scared. I'm worried. I'm nervous. Jujur bukan kelemahan — orang yang bisa menyebutnya lebih dipercaya.",
+      "emoji": "😨",
+      "highlight": "I'm scared. / I'm worried. / I'm nervous."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Kata sakti untuk teman!",
+      "title": "Kata untuk Teman",
+      "content": "You're my best friend. I'm here for you. Saat sulit atau senang, kalimat ini mendalamkan persahabatan.",
+      "emoji": "🤝",
+      "highlight": "You're my best friend.\nI'm here for you."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "'Terima kasih' adalah raja perasaan!",
+      "title": "Kata Syukur",
+      "content": "Thank you. I appreciate it. You made my day. Variasi terima kasih membuat hati merasakan lebih dalam.",
+      "emoji": "🙏",
+      "highlight": "Thank you.\nI appreciate it.\nYou made my day."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Pasangkan dengan cara bertanya juga!",
+      "title": "Bertanya Perasaan",
+      "content": "How do you feel? Are you OK? Orang yang bisa bertanya tentang perasaan dipercaya dua kali lipat.",
+      "emoji": "❓",
+      "highlight": "How do you feel?\nAre you OK?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Kuis! 'Tak sabar!' bahasa Inggris bagaimana?",
+      "quizQuestion": "Bahasa Inggris alami untuk 'sangat antusias'?",
+      "quizChoices": [
+        "I'm excited!",
+        "I'm scared!",
+        "I'm tired!",
+        "I'm sorry!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "I'm excited! alami. 'I can't wait!' juga sama."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Master perasaan! Cari teman seluruh dunia 🌟",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉"
+    }
+  ]
+}

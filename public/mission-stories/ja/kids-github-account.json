@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "リポジトリを作る",
+      "speech": "リポジトリは作品の保存箱ガル📦",
+      "emoji": "📦",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "「+」→ New repositoryで自分のリポジトリが作れる。名前は短く英語で、小文字とハイフンで作るのがGitHubの作法。",
+      "highlight": "命名のコツ:\n・小文字\n・ハイフン区切り\n・短く具体的"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "READMEを書く",
+      "speech": "READMEは作品の自己紹介ガル✍️",
+      "emoji": "✍️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "READMEには「何を作ったか」「どう動くか」「誰が作ったか」の3つを書く。Markdownで見出し（#）と箇条書き（-）を使えば見やすい。",
+      "highlight": "READMEの3点:\n1. 何\n2. 動かし方\n3. 作者"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

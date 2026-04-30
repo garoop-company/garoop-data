@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "मिक्सिङ डाउन",
+      "speech": "ध्वनिको सन्तुलनले रचना पूरा हुन्छ गाल्! 🎚️",
+      "emoji": "🎚️",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "गायन, वाद्य, बेसको सन्तुलन तुलना गर्दा छाप धेरै फरक हुन्छ। सबभन्दा सुनाउन चाहेको भाग अलि अघि ल्याउने।",
+      "highlight": "मिक्स सुझाव:\n• मुख्य अघि\n• बेसले आधार\n• कानले जाँच"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "गीतमा प्रास",
+      "speech": "प्रासले स्मृतिमा बस्छ गाल्! 🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "'सपना/हराउना' वा 'sky/fly' जस्तै ध्वनि मिलाउँदा गीत सजिलै कण्ठ हुन्छ।",
+      "highlight": "प्रासका प्रकार:\n• अन्त्य ध्वनि\n• उही स्वर\n• समानान्तर"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

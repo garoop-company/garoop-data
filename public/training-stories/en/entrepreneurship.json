@@ -1,0 +1,105 @@
+{
+  "title": "Entrepreneurship Training",
+  "description": "Train the muscle to deliver ideas to the world!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "Welcome to the Entrepreneurship Dojo! 💼",
+      "title": "Entrepreneurship Dojo",
+      "content": "This training builds the muscle of asking 'whose problem do I solve?' more than business techniques. Start small — take one step that delights a real person.",
+      "emoji": "💼",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "dojo",
+      "speech": "Find a 'problem' first!",
+      "title": "Find Problems",
+      "content": "Good businesses come from problems. Note three tiny daily inconveniences from family, friends, or yourself. That's your treasure map.",
+      "emoji": "🔍",
+      "highlight": "Problem hunt:\n- Family\n- Friends\n- Self"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "bamboo",
+      "speech": "Brainstorm 3 solutions!",
+      "title": "Ideation",
+      "content": "Force at least three ideas per problem. AI brainstorming partners scale this 10x.",
+      "emoji": "💡",
+      "highlight": "Ideation rules:\n- Quantity\n- No judging\n- Combine"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "mountain",
+      "speech": "Draw a persona!",
+      "title": "Who's it For?",
+      "content": "'Sakura, age 13, soccer club' — describe one specific user vividly. 'For everyone' lands with no one.",
+      "emoji": "👤",
+      "highlight": "Persona items:\n- Age\n- Likes\n- Pains"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "dojo",
+      "speech": "Build a prototype fast!",
+      "title": "Prototype Training",
+      "content": "Skip perfection. Paper or AI-made screens are fine. The faster someone sees it, the closer you get to a real solution.",
+      "emoji": "🛠️",
+      "highlight": "Prototype rule:\n- Build in 3 days\n- Show people\n- Iterate"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "bamboo",
+      "speech": "Think money flow too!",
+      "title": "Business Model",
+      "content": "Who pays, how much, what costs you. Three lines on paper reveal whether it's actually a business.",
+      "emoji": "💰",
+      "highlight": "3 questions:\n- Who pays?\n- How much?\n- What's the cost?"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "Your first customer is nearby!",
+      "title": "First Customer",
+      "content": "Start with family or friends. Even without money, hearing 'thanks' or 'I want more' is your first proof.",
+      "emoji": "🤝",
+      "highlight": "First milestone:\n- Someone used it\n- They thanked you\n- They want more"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "temple",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "Great training! Take your idea to the world 🌟",
+      "title": "Training Complete!",
+      "content": "Don't try to start big. World-changing companies grow from countless small experiments. Try one of today's ideas today.",
+      "emoji": "🌟"
+    }
+  ]
+}

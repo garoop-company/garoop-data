@@ -1,0 +1,149 @@
+{
+  "title": "为什么要学英语",
+  "description": "找到通往世界的入口！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "和加鲁酱一起冒险英语世界！🌍",
+      "background": "city",
+      "title": "为什么要学英语",
+      "emoji": "🌍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "本课以「为什么要学英语」为主题，按顺序学习英语打开的世界。不只是了解词义，还通过身边场景和小练习，让你能用自己的话解释，并迈出下一步。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "全世界15亿以上的人在用英语作为通用工具！",
+      "background": "city",
+      "title": "世界共通语",
+      "content": "母语者不算特别多，但英语是全世界的「通用语」。是和不同国家的人交流时第一座桥！",
+      "emoji": "🌐",
+      "highlight": "🌐 英语＝连接世界的桥"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "喜欢的电影和游戏，英语让你的乐趣翻倍！",
+      "background": "candy",
+      "title": "喜好的世界拓宽",
+      "content": "看得懂英语，就不用等字幕和翻译，直接接触最新内容。电影、游戏、漫画、音乐，所有兴趣都能放大！",
+      "emoji": "🎮",
+      "highlight": "🎬 电影 🎮 游戏 🎵 音乐 📚 书"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "英语是为你打开「未来选择」的魔法钥匙！",
+      "background": "ocean",
+      "title": "未来选择",
+      "content": "海外大学、海外工作、世界各地的朋友。会说英语，居住和工作的地点就扩展到整个地球！",
+      "emoji": "🌟",
+      "highlight": "🏫 留学 💼 海外工作 ✈️ 旅行"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "IT和AI领域，最新信息几乎都先用英语发布！",
+      "background": "space",
+      "title": "科技与英语",
+      "content": "编程语言、AI论文、最新工具说明，多数先用英语发表。看得懂英语，能比别人提前几个月触及前沿！",
+      "emoji": "💻",
+      "highlight": "新技术 → 英语论文 → 半年后 → 中文译"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "英语不必完美！能传达就够！",
+      "background": "forest",
+      "title": "「能传达」胜过「完美」",
+      "content": "不用说得像本地人。世界英语使用者中约8成不是母语者。「不完美但能传达」就是当今世界的标准！",
+      "emoji": "💬",
+      "highlight": "完美 ❌ → 能传达 ⭕"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI让英语学习革命中！不用害羞地练！",
+      "background": "space",
+      "title": "AI与英语学习",
+      "content": "让ChatGPT或Claude当英语对话伙伴，24小时随时练。发音、语法、表达，AI都温柔教你！",
+      "emoji": "🤖",
+      "highlight": "AI英语对话＝无限练习对象"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "每天一点点就够！坚持比什么都重要！",
+      "background": "classroom",
+      "title": "坚持的技巧",
+      "content": "1天10分钟坚持100天就是16小时以上！每天少胜过周末突击。从喜欢的领域开始就是诀窍！",
+      "emoji": "🔁",
+      "highlight": "每日10分钟 × 100天 = 16小时"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "英语是工具！是把你的梦想带向世界的工具！",
+      "background": "space",
+      "title": "英语是梦想的工具",
+      "content": "英语本身不是目标。英语是把你想做的事在世界范围内实现的工具。决定想做什么，学习的意义就清晰了！",
+      "emoji": "🚀",
+      "highlight": "英语 = 把梦想送往世界的火箭"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "世界英语使用者中，非母语者大约占多少？",
+      "quizChoices": [
+        "约8成",
+        "约5成",
+        "约3成",
+        "约1成"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "世界英语使用者中约8成不是母语者。比起完美，能传达更重要！",
+      "background": "city",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "来做小测验！想想看吧！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "英语学习的意义看清了吗？从1个单词开始也行🌟",
+      "background": "city",
+      "title": "课程完成！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

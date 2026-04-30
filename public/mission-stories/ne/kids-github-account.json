@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "रिपोजिटरी बनाउने",
+      "speech": "रिपो कामको बाकस गाल्! 📦",
+      "emoji": "📦",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "'+' → New repository मा क्लिक गर्दा बन्छ। नाम छोटो, साना अक्षर, हाइफनसहित — GitHub शैली।",
+      "highlight": "नामको सुझाव:\n• साना अक्षर\n• हाइफन\n• छोटो र स्पष्ट"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "README लेख्ने",
+      "speech": "README तिम्रो कामको परिचय हो गाल्! ✍️",
+      "emoji": "✍️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "README ले ३ कुरा भन्छ: के बनाइयो, कसरी चलाउने, कसले बनायो। Markdown शीर्षक (#) र बुँदा (-) ले सजिलो पढिन्छ।",
+      "highlight": "README ३ बुँदा:\n१. के\n२. कसरी चलाउने\n३. लेखक"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

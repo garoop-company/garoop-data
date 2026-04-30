@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "画像の整理術",
+      "speech": "資料は整理して初めて役立つガル🗂️",
+      "emoji": "🗂️",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "集めた画像はテーマごとにフォルダに分け、ファイル名に日付や内容を入れると、あとから検索できる宝物になる。",
+      "highlight": "整理の3ルール:\n・テーマで分ける\n・名前に内容\n・日付を入れる"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "キャプション勝負",
+      "speech": "1行のキャプションで印象が変わるガル✏️",
+      "emoji": "✏️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "画像にキャプションを書くと、見る人の理解が深まる。「事実」より「気持ち」を入れると、印象に残るキャプションになる。",
+      "highlight": "良いキャプション:\n・短い\n・気持ち\n・少しの驚き"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

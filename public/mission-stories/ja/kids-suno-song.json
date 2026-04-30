@@ -1,0 +1,105 @@
+{
+  "title": "Suno作曲ミッション",
+  "description": "AIで自分のオリジナルソングを作るスパイミッション！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "サウンドエージェント！今日はSunoでオリジナル曲を作るガル！🎵",
+      "background": "lab",
+      "title": "ミッション指令：作曲作戦",
+      "content": "任務はSunoを使って2分以内のオリジナル曲を完成させること。完成条件は、テーマを1文で言えること、ジャンルを決めていること、サビを自分で書いていることの3つだ。",
+      "emoji": "🎵",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Sunoは「歌詞」と「ジャンル」を伝えれば曲を作ってくれるガル！",
+      "background": "spy",
+      "title": "Sunoの仕組み",
+      "content": "Sunoは入力された歌詞とスタイル指示から、メロディ・コード・ボーカルまで自動生成するAIだ。情報が具体的なほど狙った曲調に近づく。",
+      "emoji": "🎤",
+      "highlight": "必要な3情報:\n・歌詞\n・ジャンル/雰囲気\n・テンポや楽器"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "テーマを決めよう！誰のための、何の歌？",
+      "background": "hq",
+      "title": "テーマを1文に",
+      "content": "「友達への応援ソング」「初めて自転車に乗れた日の歌」のように、対象と気持ちを1文にすると歌詞が書きやすい。曖昧なまま書き始めると途中で迷う。",
+      "emoji": "🎯",
+      "highlight": "テーマの型:\n誰に向けて＋どんな気持ち＋シーン"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "歌詞は「Aメロ・Bメロ・サビ」の3つで考えるといいガル！",
+      "background": "spy",
+      "title": "歌の構成",
+      "content": "Aメロは状況、Bメロは気持ちの変化、サビは一番伝えたいメッセージにすると流れが自然になる。サビは何度も繰り返されるので、最初に決めよう。",
+      "emoji": "📝",
+      "highlight": "構成テンプレ:\nA：状況\nB：気持ちの動き\nサビ：いちばん言いたいこと"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "ジャンルやテンポも書こう！例：明るいJ-POP、120BPM、ピアノ中心",
+      "background": "hq",
+      "title": "スタイル指示",
+      "content": "ジャンルだけでなく、雰囲気・楽器・テンポを伝えると曲調が安定する。同じ歌詞でも「ロック」と「バラード」では全く別の曲に変わる。",
+      "emoji": "🎸",
+      "highlight": "指示例:\n・ジャンル：J-POP\n・雰囲気：明るい応援系\n・楽器：ピアノ＋ストリングス"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Sunoに歌詞とスタイルを入れて、生成してみよう！",
+      "background": "lab",
+      "title": "作戦実行：生成タイム",
+      "content": "Sunoに歌詞とスタイルをコピペし、生成を待つ。最初の生成が思ったのと違っても、歌詞やスタイルを少し変えて再生成すれば理想に近づく。",
+      "emoji": "▶️",
+      "highlight": "改善のコツ:\n・サビの言葉を強くする\n・テンポを変える\n・楽器を絞る"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "気に入ったバージョンが出たら、タイトルを付けて保存ガル！",
+      "background": "spy",
+      "title": "命名と保存",
+      "content": "完成した曲には必ずタイトルを付けよう。タイトルは曲の世界観を一言で表すので、聴く人が最初に受け取る情報になる。",
+      "emoji": "💾",
+      "highlight": "タイトルの考え方:\n・短い\n・気持ちが伝わる\n・聴く前に少しワクワクする"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "ミッション完了ガル！曲のリンクを提出して500ポイントゲット！🎉",
+      "background": "lab",
+      "title": "ミッション完了！",
+      "content": "完成の合図は、自分の言葉で「この曲は何の歌か」を説明できる状態だ。AIが作ったメロディの上に、君だけのテーマが乗ったとき、それは本当の作品になる。",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "title": "English Training",
+  "description": "Turn English into a skill you actually use!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Welcome to the English Dojo! Get the key to connect with the world! 🌍",
+      "background": "mountain",
+      "title": "English Dojo",
+      "content": "In English training, what matters more than memorization is how often you use the language. Train reading, listening, speaking, and writing in rotation, and growth comes faster.",
+      "emoji": "🌍",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Start with 'English about yourself'!",
+      "background": "dojo",
+      "title": "Self-Intro Training",
+      "content": "Be ready to say your favorites, your daily routine, and your future dream in English. Then any conversation can start. Order that lands clearly matters more than perfect grammar.",
+      "emoji": "💬",
+      "highlight": "3 things to share:\n- What you love\n- Your daily life\n- Your dream"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Listening grows when you pair 'subtitles + sound'!",
+      "background": "bamboo",
+      "title": "Listening Training",
+      "content": "Watch a favorite clip with native subtitles, then English subtitles, then no subtitles. Same content, three rounds of training for your ears. Start with short videos.",
+      "emoji": "🎧",
+      "highlight": "3-step listening:\n1. Native subs\n2. English subs\n3. No subs"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Practicing with AI is great too — no shyness needed!",
+      "background": "mountain",
+      "title": "AI Conversation",
+      "content": "Tell ChatGPT or Claude 'be my casual English partner', and you have a practice room as long as you want. No one judges, so speak out loud and make mistakes freely.",
+      "emoji": "🤖",
+      "highlight": "AI tips:\n- Pick a topic\n- 5 minutes a day is fine\n- Ask for corrections"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Save what you learn into a 'short notes' phrase book!",
+      "background": "dojo",
+      "title": "Phrase Notebook",
+      "content": "Words are easier to remember when stored by situation rather than alone. Collect five each for 'thanking', 'asking', and 'sharing your view' to make them reusable.",
+      "emoji": "📓",
+      "highlight": "Scene examples:\n- Thanking\n- Requesting\n- Stating opinion"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Today's challenge: a 30-second self-intro!",
+      "background": "bamboo",
+      "title": "30-Second Speech",
+      "content": "A 30-second limit forces you to keep only what truly matters. Record it and listen back — you'll catch your own pronunciation habits and ideas to fix.",
+      "emoji": "⏱️",
+      "highlight": "30s structure:\n- Greeting 5s\n- Favorites 15s\n- Dream 10s"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Five minutes a day is enough! Consistency wins!",
+      "background": "mountain",
+      "title": "How to Keep Going",
+      "content": "Five minutes daily beats two hours once. Don't chase perfection — stack 'I touched it today'. Three months later you won't recognize your old self.",
+      "emoji": "🔁",
+      "highlight": "Keep-going tips:\n- Fix the time\n- Start tiny\n- Track it"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Great work! Let's speak out to the world! 🌟",
+      "background": "temple",
+      "title": "Training Complete!",
+      "content": "English isn't for tests; it's a tool to talk with friends across the world. Record today's 30-second speech so your future self can listen back.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

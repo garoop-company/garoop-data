@@ -1,0 +1,105 @@
+{
+  "title": "Misi Lagu Suno",
+  "description": "Misi mata-mata membuat lagu orisinalmu sendiri dengan AI!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agen Suara! Hari ini buat lagu orisinal dengan Suno! 🎵",
+      "background": "lab",
+      "title": "Briefing Misi: Operasi Komposisi",
+      "content": "Tugasnya menyelesaikan satu lagu orisinal di bawah 2 menit dengan Suno. Tiga syarat sukses: nyatakan tema dalam satu kalimat, kunci genrenya, dan tulis sendiri bagian reff.",
+      "emoji": "🎵",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Suno cukup diberi 'lirik' dan 'genre' lalu lagunya jadi!",
+      "background": "spy",
+      "title": "Cara Kerja Suno",
+      "content": "Suno adalah AI yang menghasilkan melodi, akor, dan vokal dari lirik dan gaya yang kamu masukkan. Semakin spesifik input, semakin dekat dengan lagu yang dibayangkan.",
+      "emoji": "🎤",
+      "highlight": "Tiga info wajib:\n- Lirik\n- Genre / suasana\n- Tempo & instrumen"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tentukan tema! Untuk siapa? Tentang apa?",
+      "background": "hq",
+      "title": "Tema dalam Satu Kalimat",
+      "content": "'Lagu semangat untuk teman', 'Lagu hari pertama bisa naik sepeda' — merangkum target dan perasaan dalam satu kalimat membuat lirik mudah ditulis.",
+      "emoji": "🎯",
+      "highlight": "Pola tema:\nUntuk siapa + perasaan apa + adegan apa"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Pikirkan lirik dalam 'Verse / Pre / Chorus'!",
+      "background": "spy",
+      "title": "Struktur Lagu",
+      "content": "Verse untuk situasi, Pre untuk pergeseran emosi, Chorus untuk pesan utama. Tentukan Chorus dulu karena bagian itu yang berulang.",
+      "emoji": "📝",
+      "highlight": "Pola struktur:\nVerse: situasi\nPre: pergeseran emosi\nChorus: pesan utama"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Tulis genre dan tempo juga! Contoh: J-POP cerah, 120 BPM, piano dominan",
+      "background": "hq",
+      "title": "Arahan Gaya",
+      "content": "Selain genre, beri tahu suasana, instrumen, dan tempo agar nadanya stabil. Lirik yang sama jadi lagu beda jauh antara 'rock' dan 'ballad'.",
+      "emoji": "🎸",
+      "highlight": "Contoh arahan:\n- Genre: J-POP\n- Suasana: penyemangat cerah\n- Instrumen: piano + string"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Tempel lirik dan gaya ke Suno, lalu generate!",
+      "background": "lab",
+      "title": "Operasi: Saatnya Generate",
+      "content": "Tempel lirik dan gaya ke Suno lalu tunggu. Kalau hasil pertama belum cocok, ubah kata di reff atau gayanya lalu generate ulang — tiap iterasi semakin pas.",
+      "emoji": "▶️",
+      "highlight": "Tips perbaikan:\n- Perkuat kata di reff\n- Ubah tempo\n- Kurangi instrumen"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kalau sudah suka satu versi, beri judul dan simpan!",
+      "background": "spy",
+      "title": "Beri Judul dan Simpan",
+      "content": "Lagu yang selesai layak punya judul. Judul adalah hal pertama yang dibaca pendengar, jadi rangkum perasaan lagu dalam satu kalimat singkat.",
+      "emoji": "💾",
+      "highlight": "Tips judul:\n- Singkat\n- Menyampaikan perasaan\n- Membuat penasaran"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Misi selesai! Kirim link lagu untuk dapat 500 poin! 🎉",
+      "background": "lab",
+      "title": "Misi Selesai!",
+      "content": "Selesai saat kamu bisa menjelaskan sendiri 'lagu ini tentang apa'. Begitu temamu menumpang melodi buatan AI, itulah saat ia menjadi karya sungguhan.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

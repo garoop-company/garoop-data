@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "キャラデザの深め方",
+      "speech": "見た目だけじゃないキャラ作りガル🎨",
+      "emoji": "🎨",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "好きな食べ物、苦手なもの、口ぐせ、夢。見た目以外の3つが決まるとキャラはぐっと動き出す。",
+      "highlight": "深めるポイント:\n・好物\n・苦手\n・口ぐせ\n・夢"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "効果音の使い方",
+      "speech": "音は世界を立体にするガル🔊",
+      "emoji": "🔊",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "歩く音、風の音、心臓の音。効果音を1つ追加するだけで、絵が動いて見える。Sunoや効果音サイトで探してみよう。",
+      "highlight": "音の例:\n・足音\n・風\n・心音"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

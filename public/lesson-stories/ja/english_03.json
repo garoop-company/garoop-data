@@ -1,0 +1,149 @@
+{
+  "title": "自己紹介の英語",
+  "description": "君のことを世界に伝えよう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "自己紹介は最強の武器ガル！3文で君を伝えよう✨",
+      "title": "自己紹介から始まる",
+      "content": "このレッスンでは「自己紹介の英語」を学ぶ。短い3文で名前・好き・夢が言えれば、誰とでも友達になれる。",
+      "emoji": "🎤"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "まずは名前から！I'm 〜で言えるよ！",
+      "title": "名前を伝える",
+      "content": "I'm Mika. My name is Mika.どちらでもOK。少しゆっくり言うと相手にも伝わりやすい。",
+      "emoji": "📛",
+      "highlight": "I'm ___ . / My name is ___ ."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "出身も伝えると話が広がる！",
+      "title": "出身を伝える",
+      "content": "I'm from Japan. 国だけでなく、街を入れるともっと印象的。I'm from Tokyo, Japan.の形が便利。",
+      "emoji": "🌏",
+      "highlight": "I'm from ___ . / I'm from ___, Japan."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "年齢や学年も自己紹介に入れよう！",
+      "title": "年齢・学年",
+      "content": "I'm 10 years old. I'm a 5th grader.数字＋年齢の単位、または学年の言い方を覚えておこう。",
+      "emoji": "🎂",
+      "highlight": "I'm 10 years old.\nI'm a 5th grader."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "好きなことを1つ伝えるだけで会話が弾む！",
+      "title": "好きを伝える",
+      "content": "I like soccer. I love reading.likeより強いのがloveだ。具体的なものを1つ選ぶと相手が質問しやすい。",
+      "emoji": "💖",
+      "highlight": "I like ___ .\nI love ___ ."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "夢や目標も言えると印象アップ！",
+      "title": "夢を伝える",
+      "content": "I want to be a programmer. My dream is to make games.want to be 〜（〜になりたい）の形で言うと伝わりやすい。",
+      "emoji": "🌟",
+      "highlight": "I want to be a ___ .\nMy dream is to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "最後は「会えてうれしい」の一言！",
+      "title": "Nice to meet you!",
+      "content": "Nice to meet you!は初対面の魔法の言葉。返事はNice to meet you, too!と言えば完璧。",
+      "emoji": "🤝",
+      "highlight": "Nice to meet you! → Nice to meet you, too!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "3文テンプレで覚えておこう！",
+      "title": "3文テンプレ",
+      "content": "①名前 ②好き ③夢 の3つを順番に言うだけで立派な自己紹介。短いほど聞き手の印象に残る。",
+      "emoji": "📋",
+      "highlight": "1. I'm ___ .\n2. I love ___ .\n3. I want to be ___ ."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "練習は声に出して何度も！録音もおすすめ！",
+      "title": "口に出して練習",
+      "content": "鏡の前で笑顔をつけて声に出すのが一番。録音して聞き返すと、改善点が自分で見える。",
+      "emoji": "🎙️",
+      "highlight": "🪞 鏡で練習\n🎙️ 録音\n👂 聞き返す"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "クイズだガル！「会えてうれしい」を英語で？",
+      "quizQuestion": "「初めまして、会えてうれしい」を英語で言うと？",
+      "quizChoices": [
+        "Nice to meet you!",
+        "How are you?",
+        "Goodbye!",
+        "Thank you!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Nice to meet you!が初対面の鉄板フレーズ。返事はtooを足すよ。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "君だけの3文自己紹介、完成だガル🌟",
+      "title": "レッスン完了！",
+      "emoji": "🎉"
+    }
+  ]
+}

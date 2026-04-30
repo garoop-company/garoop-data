@@ -1,0 +1,149 @@
+{
+  "title": "Bahasa Inggris di Sekolah",
+  "description": "Bahasa Inggris yang bisa dipakai di kehidupan sekolah!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Bahasa Inggris di sekolah dipakai ke guru dan teman! 🏫",
+      "title": "Bahasa Inggris di Sekolah",
+      "content": "Pelajaran 'Bahasa Inggris di sekolah'. Pelajaran, istirahat, kelas, perpustakaan — frasa yang dipakai dalam kehidupan sehari-hari.",
+      "emoji": "🏫"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Bisa sebut mata pelajaran dalam bahasa Inggris?",
+      "title": "Mata Pelajaran",
+      "content": "math, science, English, history, music, P.E. Mulai dari pelajaran kesukaan agar mudah diingat.",
+      "emoji": "📚",
+      "highlight": "math / science / English\nhistory / music / P.E."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Frasa ajaib untuk bertanya ke guru!",
+      "title": "Bertanya ke Guru",
+      "content": "Excuse me, can I ask a question? I don't understand. Keberanian bertanya menggandakan kecepatan belajar. Angkat tangan lalu ucapkan.",
+      "emoji": "🙋",
+      "highlight": "Can I ask a question?\nI don't understand."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'Tolong ulangi' juga sangat penting!",
+      "title": "Minta Diulang",
+      "content": "Could you say that again, please? Could you speak slowly? Tidak menangkap juga tak apa — minta lagi saja.",
+      "emoji": "👂",
+      "highlight": "Could you say that again?\nCould you speak slowly?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Coba sebut alat kelas dalam bahasa Inggris!",
+      "title": "Alat Kelas",
+      "content": "pen, pencil, eraser, notebook, textbook, ruler. Latih 'Can I borrow your pencil?' juga praktis.",
+      "emoji": "✏️",
+      "highlight": "pen / pencil / eraser\nnotebook / textbook / ruler"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Cek juga bahasa Inggris PR!",
+      "title": "PR",
+      "content": "What's the homework? I finished my homework. Dipakai langsung dengan teman.",
+      "emoji": "📝",
+      "highlight": "What's the homework?\nI finished my homework."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Saat istirahat juga ngobrol bahasa Inggris!",
+      "title": "Istirahat",
+      "content": "Let's play together! Want to join us? Mengajak teman dalam bahasa Inggris menambah geng bahasa Inggris.",
+      "emoji": "⏰",
+      "highlight": "Let's play together!\nWant to join us?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Sampaikan kesan ujian juga!",
+      "title": "Ujian",
+      "content": "The test was hard. I did my best. Setelah ujian, 'saya sudah berusaha' adalah dukungan universal.",
+      "emoji": "📋",
+      "highlight": "The test was hard.\nI did my best."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Pulang sekolah ucap 'Terima kasih atas hari ini'!",
+      "title": "Pulang Sekolah",
+      "content": "See you tomorrow! Good job today! Sapaan akhir hari menyampaikan rasa kepada teman yang besok bertemu lagi.",
+      "emoji": "🌅",
+      "highlight": "See you tomorrow!\nGood job today!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Kuis! 'Tolong ulangi' bahasa Inggris bagaimana?",
+      "quizQuestion": "Cara paling sopan minta ulang?",
+      "quizChoices": [
+        "Could you say that again, please?",
+        "Repeat!",
+        "What?",
+        "Hello again."
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Could you say that again, please? sopan dan alami. 'please' kuncinya."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Master bahasa Inggris sekolah! Pakai besok! 🌟",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉"
+    }
+  ]
+}

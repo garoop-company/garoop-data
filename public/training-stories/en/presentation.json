@@ -1,0 +1,105 @@
+{
+  "title": "Presentation Training",
+  "description": "Train the skill of delivering your ideas straight!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Welcome to the Presentation Dojo! Today's training: deliver your ideas straight! 🎤",
+      "background": "mountain",
+      "title": "Presentation Dojo",
+      "content": "In presentation training, you train the skill of deciding 'what one thing the audience should take away' more than the skill of speaking smoothly. Pick that one sentence first, and the structure falls into place.",
+      "emoji": "🎤",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Decide the 'one sentence to take away' first!",
+      "background": "dojo",
+      "title": "Core Message",
+      "content": "Decide one sentence you want to stay in the audience's head after the talk. Slides and order exist to support that single sentence.",
+      "emoji": "🎯",
+      "highlight": "Examples:\n- AI is your new partner\n- Small bets change the future\n- I want to build this"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Speak in 'conclusion → reason → example' to land cleanly!",
+      "background": "bamboo",
+      "title": "PREP Structure",
+      "content": "Point, Reason, Example, Point. Putting your conclusion at the start and end makes your message clear in even a short talk.",
+      "emoji": "📝",
+      "highlight": "PREP:\n- P: Point\n- R: Reason\n- E: Example\n- P: Point again"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "One slide, one message — that's the rule!",
+      "background": "mountain",
+      "title": "Slide Design",
+      "content": "Slides crammed with text won't be read. Title states the conclusion, body stays short, visuals do the heavy lifting. The fewer the words, the more the audience listens.",
+      "emoji": "🖼️",
+      "highlight": "1 slide = 1 message\n- Title = conclusion\n- Body within 3 lines\n- Reinforce with image"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Practice voice and pauses too! Voice carries 70% of it!",
+      "background": "dojo",
+      "title": "Voice and Pauses",
+      "content": "A 1-second pause before a key word puts the audience on alert for what's next. Just adjusting volume, pace, and pauses changes how the same content lands.",
+      "emoji": "🗣️",
+      "highlight": "3 voice elements:\n- Volume\n- Pace\n- Pause"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Today's challenge: 'introduce your favorite thing in one minute'!",
+      "background": "bamboo",
+      "title": "1-Minute Pitch",
+      "content": "Pick one favorite anime, book, or place and present it in one minute. Apply core message, PREP, and the 3 voice elements — even a short pitch becomes serious.",
+      "emoji": "⏱️",
+      "highlight": "1-minute build:\n- 10s: conclusion\n- 30s: reason and example\n- 20s: conclusion again"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Getting one question afterwards is the strongest signal!",
+      "background": "mountain",
+      "title": "Invite Questions",
+      "content": "End with 'Any one question so far?' and you'll see how well it landed. You'll also know what to strengthen for the next pitch.",
+      "emoji": "❓",
+      "highlight": "How to invite:\n- Reserve time at the end\n- Say 'just one is fine'\n- Take notes on the answer"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Great work! Move the world with your voice! 🌟",
+      "background": "temple",
+      "title": "Training Complete!",
+      "content": "Presentation is less 'talking technique' and more 'designing to move people'. Remember today's one sentence and use it as the opener of your next talk.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

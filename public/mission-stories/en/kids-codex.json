@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "When Errors Appear",
+      "speech": "Errors aren't enemies — they're hints! 🐛",
+      "emoji": "🐛",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Even Codex's code can throw errors. Read the 'red text', paste the last line back to Codex with 'fix this'. That's the fastest path.",
+      "highlight": "Error fix:\n1. Read the red line\n2. Paste to Codex\n3. Say 'fix this'"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Reading Code Practice",
+      "speech": "Don't just lean on AI — read it yourself! 📖",
+      "emoji": "📖",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Ask the AI 'what does this line do?' line by line. Once you can read it, the range of changes you can make explodes.",
+      "highlight": "Ways to ask:\n- What does this line do?\n- What if I delete it?\n- Any other way to write it?"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

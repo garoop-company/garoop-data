@@ -1,0 +1,149 @@
+{
+  "title": "Food and Drinks in English",
+  "description": "Order your favorites anywhere in the world!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Food English works everywhere in the world! 🍔",
+      "title": "Food in English",
+      "content": "This lesson is about food and drinks in English. Build the power to order your favorites in restaurants while traveling or studying abroad.",
+      "emoji": "🍽️"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Can you say your favorite food in English?",
+      "title": "Food Words",
+      "content": "pizza, hamburger, sushi, ramen, sandwich, salad, rice, noodles. Starting with what you love is the trick to keep going.",
+      "emoji": "🍕",
+      "highlight": "🍕 pizza  🍔 burger  🍣 sushi\n🍜 ramen  🥗 salad  🍚 rice"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Don't forget the drinks!",
+      "title": "Drinks",
+      "content": "water, milk, juice, tea, coffee, soda. Remember 'water' for the most essential one. 'Can I have some water?' is super handy.",
+      "emoji": "🥤",
+      "highlight": "💧 water  🥛 milk  🧃 juice\n🍵 tea  ☕ coffee  🥤 soda"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'I'm hungry' and 'I'm thirsty' kick off conversations!",
+      "title": "Saying How You Feel",
+      "content": "I'm hungry. I'm thirsty. Two simple lines to start a meal conversation at home or out.",
+      "emoji": "😋",
+      "highlight": "I'm hungry.\nI'm thirsty."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "The magic phrase to order!",
+      "title": "Ordering",
+      "content": "Can I have a hamburger, please? The polite request pattern. Adding 'please' immediately raises the impression.",
+      "emoji": "📋",
+      "highlight": "Can I have ___, please?\nI'd like ___, please."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Tell what you like and dislike too!",
+      "title": "Likes and Dislikes",
+      "content": "I like sushi. I don't like onions. If you have allergies, learn 'I'm allergic to peanuts.' too.",
+      "emoji": "👍",
+      "highlight": "I like ___ .\nI don't like ___ .\nI'm allergic to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Share how it tastes in English!",
+      "title": "Reactions",
+      "content": "It's delicious! Yummy! Tasty! Saying the meal is good makes the cook happy.",
+      "emoji": "😋",
+      "highlight": "Delicious! / Yummy! / Tasty!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Asking for the check also matters!",
+      "title": "The Check",
+      "content": "Check, please. Or Can I have the bill, please? Both are essential phrases at the end of a meal.",
+      "emoji": "💳",
+      "highlight": "Check, please.\nCan I have the bill?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "End on a 'thank you' for warmth!",
+      "title": "Thank you!",
+      "content": "Thank you for the meal. The English version of expressing gratitude after eating. Saying it warms up the table.",
+      "emoji": "🙏",
+      "highlight": "Thank you for the meal!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Quiz! How do you politely ask for water?",
+      "quizQuestion": "Which is the most polite way to ask for water?",
+      "quizChoices": [
+        "Can I have some water, please?",
+        "Water!",
+        "Give me water.",
+        "Where is water?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Can I have some water, please? is polite and natural. Don't forget 'please'."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "You'll never starve in any country now! 🌟",
+      "title": "Lesson Complete!",
+      "emoji": "🎉"
+    }
+  ]
+}

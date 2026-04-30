@@ -1,0 +1,149 @@
+{
+  "title": "अंग्रेजीमा अंक र समय",
+  "description": "हरेक दिन प्रयोग गर्ने अंक अंग्रेजीमा भनौं!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "अंग्रेजीमा पनि अंक अति महत्त्वपूर्ण गाल्! दैनिक प्रयोग ⏰",
+      "title": "अंक र समयको संसार",
+      "content": "यो पाठ 'अंग्रेजीमा अंक र समय' सिक्ने। मूल्य, समय, उमेर, मिति — अंग्रेजीमा अंक भन्न सक्दा दैनिक जीवनका सबै ठाउँमा संसार फराकिलो हुन्छ।",
+      "emoji": "🔢"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "पहिले १ देखि १० क्रममा!",
+      "title": "१ देखि १०",
+      "content": "one, two, three, four, five, six, seven, eight, nine, ten। गेम च्याट र मीठाई बाँड्दा प्रयोग।",
+      "emoji": "1️⃣",
+      "highlight": "1 one  2 two  3 three  4 four  5 five\n6 six  7 seven  8 eight  9 nine  10 ten"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "११ देखि २० ले कुरा फराकिलो बनाउँछ!",
+      "title": "११ देखि २०",
+      "content": "11 eleven, 12 twelve, 13 thirteen — यहाँबाट अन्त्य -teen हुन्छ। ठूलो स्वरमा भन्दा ढाँचा बस्छ।",
+      "emoji": "🔟",
+      "highlight": "11 eleven\n12 twelve\n13 thirteen ... 19 nineteen\n20 twenty"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "१०० र १००० सम्म पुग्नु लक्ष्य!",
+      "title": "ठूला अंक",
+      "content": "100 one hundred, 1000 one thousand। 21 twenty-one, 35 thirty-five — हाइफनले छुट्याउँदा पढ्न सजिलो।",
+      "emoji": "💯",
+      "highlight": "21 twenty-one\n100 one hundred\n1000 one thousand"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "समय भन्ने २ तरिका!",
+      "title": "समय भन्ने",
+      "content": "It's seven o'clock. It's seven thirty। अंक सिधै पढ्ने वा घण्टा र मिनेट छुट्याउने।",
+      "emoji": "🕐",
+      "highlight": "It's 7 o'clock.\nIt's 7:30 = seven thirty."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "हप्ताका दिन अंकसँगै सिकौं!",
+      "title": "हप्ताका दिन",
+      "content": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday। धेरै अंग्रेजी क्यालेन्डरमा हप्ता Monday बाट सुरु हुन्छ।",
+      "emoji": "📅",
+      "highlight": "Mon → Sun"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "मिति भन्ने तरिका जाँचौं!",
+      "title": "महिना र मिति",
+      "content": "January देखि December सम्म। 'It's April 30.' भन्ने — महिना अघि, मिति पछि। जन्मदिनमा उपयोगी।",
+      "emoji": "📆",
+      "highlight": "January / February ... December\nApril 30"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "अंग्रेजीमा मूल्य पढ्न पनि स्टाइलिस्ट!",
+      "title": "मूल्य",
+      "content": "$5 = five dollars. $9.99 = nine ninety-nine। डलरका लागि $ र सेन्टका लागि ¢।",
+      "emoji": "💰",
+      "highlight": "$5 = five dollars\n$9.99 = nine ninety-nine"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "'अंक + एकाइ' पनि कण्ठ!",
+      "title": "एकाइ थप्ने",
+      "content": "I'm 10 years old. It's 3 kilometers. 5 minutes। अंकमा एकाइ जोड्ने ढाँचा सिक्दा प्राकृतिक बोलाइ हुन्छ।",
+      "emoji": "📏",
+      "highlight": "10 years old / 3 km / 5 minutes"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "क्विज गाल्! ७:३० लाई अंग्रेजीमा कसरी?",
+      "quizQuestion": "'७:३०' को सबभन्दा प्राकृतिक भनाइ?",
+      "quizChoices": [
+        "It's seven thirty.",
+        "It's thirty seven.",
+        "It's seven hours.",
+        "It's half eight."
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "It's seven thirty. सरल। 'It's half past seven.' पनि चल्छ।"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "अंक मास्टर गाल्! दैनिक प्रयोग 🌟",
+      "title": "पाठ पूरा!",
+      "emoji": "🎉"
+    }
+  ]
+}

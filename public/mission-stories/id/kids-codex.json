@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Ketika Muncul Error",
+      "speech": "Error bukan musuh — itu petunjuk! 🐛",
+      "emoji": "🐛",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Kode dari Codex juga bisa error. Baca 'teks merah', tempel baris terakhir ke Codex dengan 'tolong perbaiki'. Itu cara tercepat.",
+      "highlight": "Memperbaiki error:\n1. Baca baris merah\n2. Tempel ke Codex\n3. Bilang 'tolong perbaiki'"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Latihan Membaca Kode",
+      "speech": "Jangan hanya andalkan AI — baca sendiri juga! 📖",
+      "emoji": "📖",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Tanya AI 'baris ini apa fungsinya?' baris per baris. Begitu kamu bisa baca, ruang modifikasi langsung melebar.",
+      "highlight": "Cara bertanya:\n- Baris ini apa?\n- Kalau dihapus bagaimana?\n- Ada cara penulisan lain?"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

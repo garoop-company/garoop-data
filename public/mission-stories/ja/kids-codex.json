@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "エラーが出たとき",
+      "speech": "エラーは敵じゃない！ヒントだガル🐛",
+      "emoji": "🐛",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Codexが出すコードでもエラーは出る。「赤い文字」を読み、最後の行をCodexに貼って「これを直して」と頼むのが一番早い。",
+      "highlight": "エラー対処:\n1. 赤い行を読む\n2. Codexに貼る\n3. 「直して」と頼む"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "コード読解修行",
+      "speech": "AIに頼るだけじゃダメ！自分でも読もうガル📖",
+      "emoji": "📖",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "受け取ったコードに「これは何をしている行？」と1行ずつ質問すると、AIが解説してくれる。読めるようになると、改造の幅が一気に広がる。",
+      "highlight": "読解の聞き方:\n・この行は何？\n・これを消すとどうなる？\n・他の書き方はある？"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

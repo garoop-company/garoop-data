@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "镜头切换",
+      "speech": "切换让视频有节奏加鲁🎬",
+      "emoji": "🎬",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "同一画面太久会腻。每3〜5秒切换视角或画面，让人想继续看。",
+      "highlight": "切换要点：\n・3〜5秒切\n・换视角\n・换大小"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "选BGM",
+      "speech": "BGM决定视频情绪加鲁🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "明快=活力片，宁静=感动片，快节奏=冒险片。让画面和情绪匹配是专业秘诀。",
+      "highlight": "选BGM：\n・节奏匹配\n・情绪匹配\n・歌词宜简"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

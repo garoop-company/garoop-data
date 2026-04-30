@@ -1,0 +1,149 @@
+{
+  "title": "英语问候语",
+  "description": "改变一天的魔法问候！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "问候是英语第一步！送对方一个笑容👋",
+      "title": "从问候开始",
+      "content": "本课学习「英语问候」。一句短话能把初次见面的距离一下子拉近。",
+      "emoji": "👋"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Hello万能！早中晚都可用！",
+      "title": "Hello — 万能问候",
+      "content": "Hello不分时间都可用，是基本问候。想稍微亲切就用「Hi there」。",
+      "emoji": "👋",
+      "highlight": "Hello / Hi / Hi there"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "也有按时间分的问候！",
+      "title": "早午晚问候",
+      "content": "Good morning（早）、Good afternoon（午）、Good evening（晚）。配合时间提升印象。",
+      "emoji": "🌅",
+      "highlight": "🌅 Good morning\n☀️ Good afternoon\n🌙 Good evening"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "How are you?是「最近好吗？」的暗号！",
+      "title": "How are you?",
+      "content": "被问时回I'm good或Not bad，加一句And you?把话题抛回去更得体。",
+      "emoji": "💬",
+      "highlight": "Q: How are you?\nA: I'm good, and you?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "告别也成对记！",
+      "title": "再见的英语",
+      "content": "Goodbye稍正式。对朋友用See you或Bye就行。约好再见就See you tomorrow。",
+      "emoji": "👋",
+      "highlight": "Bye / See you / See you tomorrow"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "「谢谢」是世界通用的魔法加鲁！",
+      "title": "Thank you 的力量",
+      "content": "Thank you一天用多少次都行。Thanks是轻松版。深谢用Thank you so much。",
+      "emoji": "🙏",
+      "highlight": "Thanks / Thank you / Thank you so much"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "会说「对不起」也很酷！",
+      "title": "道歉用语",
+      "content": "I'm sorry是基本道歉。撞到人时一句Sorry!就够。深致歉用I'm really sorry。",
+      "emoji": "🙇",
+      "highlight": "Sorry / I'm sorry / I'm really sorry"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "问候配上「笑容」效果3倍！",
+      "title": "笑容与眼神",
+      "content": "英语问候不只用嘴，还用眼神和表情。加上笑容和眼神交流，同一个Hello效果完全不同。",
+      "emoji": "😊",
+      "highlight": "🎯 词 + 笑容 + 眼神 = 真正传达的问候"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "把问候纳入每天的习惯！",
+      "title": "养成问候习惯",
+      "content": "对家人朋友每天用英语问候3次。次数累积起来，话就会自然脱口而出。",
+      "emoji": "🔁",
+      "highlight": "早：Good morning\n午：How are you?\n晚：Good night"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "小测验加鲁！How are you?该怎么回？",
+      "quizQuestion": "对How are you?最自然的回应是？",
+      "quizChoices": [
+        "I'm good, and you?",
+        "Yes, I am.",
+        "Thank you very much.",
+        "Hello!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "对How are you?用I'm good等回，然后加And you?把话题回给对方。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "从今天开始你就是问候大师加鲁！🌟",
+      "title": "课程完成！",
+      "emoji": "🎉"
+    }
+  ]
+}

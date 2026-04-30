@@ -1,0 +1,149 @@
+{
+  "title": "Mengapa Belajar Bahasa Inggris",
+  "description": "Temukan pintu menuju dunia!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "Mari berpetualang dunia bahasa Inggris bersama Gal-chan! 🌍",
+      "background": "city",
+      "title": "Mengapa Belajar Bahasa Inggris",
+      "emoji": "🌍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "Pelajaran 'Mengapa belajar bahasa Inggris' menelusuri dunia yang dibuka oleh bahasa Inggris. Bukan hanya makna kata, lewat situasi dan tugas kecil, kamu bisa menjelaskan dengan kata-kata sendiri dan melangkah ke aksi berikutnya."
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Lebih dari 1,5 miliar orang di dunia memakai bahasa Inggris sebagai alat bersama!",
+      "background": "city",
+      "title": "Bahasa Bersama Dunia",
+      "content": "Penutur asli memang tidak banyak, tetapi bahasa Inggris dipakai sebagai 'bahasa bersama' di seluruh dunia. Inilah jembatan pertama saat berbicara dengan orang dari negara lain!",
+      "emoji": "🌐",
+      "highlight": "🌐 Bahasa Inggris = jembatan dunia"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Film dan game favorit pun melebar dalam bahasa Inggris!",
+      "background": "candy",
+      "title": "Dunia Kesukaan Melebar",
+      "content": "Saat bisa membaca bahasa Inggris, kamu tidak perlu menunggu subtitle atau terjemahan. Film, game, manga, musik — semua kesukaan jadi berkali lipat!",
+      "emoji": "🎮",
+      "highlight": "🎬 film 🎮 game 🎵 musik 📚 buku"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Bahasa Inggris adalah kunci ajaib yang melebarkan pilihan masa depan!",
+      "background": "ocean",
+      "title": "Pilihan Masa Depan",
+      "content": "Universitas di luar negeri, pekerjaan di luar negeri, teman dari seluruh dunia. Saat bisa berbahasa Inggris, tempat tinggal dan tempat kerjamu meluas ke seluruh planet!",
+      "emoji": "🌟",
+      "highlight": "🏫 studi 💼 kerja luar negeri ✈️ travel"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Di IT dan AI, info terbaru hampir selalu rilis dalam bahasa Inggris dulu!",
+      "background": "space",
+      "title": "Teknologi dan Bahasa Inggris",
+      "content": "Bahasa pemrograman, makalah AI, dokumentasi alat baru — sebagian besar muncul dalam bahasa Inggris dulu. Membaca bahasa Inggris membuatmu menyentuh garis depan beberapa bulan lebih awal!",
+      "emoji": "💻",
+      "highlight": "Teknologi baru → makalah Inggris → 6 bulan kemudian → terjemahan"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Bahasa Inggrismu tidak perlu sempurna! 'Bisa dimengerti' yang penting!",
+      "background": "forest",
+      "title": "'Tersampai' Kalahkan 'Sempurna'",
+      "content": "Tidak perlu terdengar seperti penutur asli. Sekitar 80% pengguna bahasa Inggris dunia bukan penutur asli. 'Bahasa Inggris tidak sempurna tapi tersampai' adalah standar dunia saat ini!",
+      "emoji": "💬",
+      "highlight": "Sempurna ❌ → Tersampai ⭕"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AI sedang merevolusi belajar bahasa Inggris — latihan tanpa malu!",
+      "background": "space",
+      "title": "AI dan Belajar Bahasa Inggris",
+      "content": "Jadikan ChatGPT atau Claude partner percakapan, kamu bisa berlatih 24/7. Pengucapan, tata bahasa, ungkapan — AI mengajar dengan lembut!",
+      "emoji": "🤖",
+      "highlight": "Partner percakapan AI = latihan tanpa batas"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "Sedikit setiap hari sudah cukup! Konsistensi paling penting!",
+      "background": "classroom",
+      "title": "Tips Konsisten",
+      "content": "10 menit sehari selama 100 hari berarti lebih dari 16 jam! Sedikit tiap hari mengalahkan ledakan akhir pekan. Mulailah dari yang kamu suka, itu kuncinya!",
+      "emoji": "🔁",
+      "highlight": "10 menit × 100 hari = 16+ jam"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "Bahasa Inggris adalah alat! Untuk membawa impianmu ke dunia!",
+      "background": "space",
+      "title": "Bahasa Inggris adalah Alat Impian",
+      "content": "Bahasa Inggris bukan tujuan. Ia alat untuk mewujudkan impian dalam skala dunia. Begitu kamu menentukan apa yang ingin kamu lakukan, makna belajar akan terlihat!",
+      "emoji": "🚀",
+      "highlight": "Bahasa Inggris = roket pembawa impian"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "Berapa kira-kira persentase pengguna bahasa Inggris dunia yang bukan penutur asli?",
+      "quizChoices": [
+        "Sekitar 80%",
+        "Sekitar 50%",
+        "Sekitar 30%",
+        "Sekitar 10%"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Sekitar 80% pengguna bahasa Inggris dunia bukan penutur asli. Bisa dimengerti lebih penting daripada sempurna!",
+      "background": "city",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "Saatnya kuis! Pikirkan dulu ya!"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Sudah lihat makna belajar bahasa Inggris? Mulai dari satu kata pun boleh 🌟",
+      "background": "city",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

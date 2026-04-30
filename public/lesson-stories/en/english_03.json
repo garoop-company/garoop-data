@@ -1,0 +1,149 @@
+{
+  "title": "Self-Introduction in English",
+  "description": "Tell the world who you are!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Self-intro is your strongest weapon! Three sentences and you're set ✨",
+      "title": "Start with You",
+      "content": "This lesson is about English self-introduction. Three short sentences for name, likes, and dream — and you can make friends anywhere.",
+      "emoji": "🎤"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Start with the name! Say I'm ___!",
+      "title": "Say Your Name",
+      "content": "I'm Mika. My name is Mika. Either works. Slow down a bit so the other person catches it.",
+      "emoji": "📛",
+      "highlight": "I'm ___ . / My name is ___ ."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Adding where you're from opens conversation!",
+      "title": "Where You're From",
+      "content": "I'm from Japan. Add your city for impact: I'm from Tokyo, Japan. is friendly and clear.",
+      "emoji": "🌏",
+      "highlight": "I'm from ___ . / I'm from ___, Japan."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Add your age or grade!",
+      "title": "Age and Grade",
+      "content": "I'm 10 years old. I'm a 5th grader. Learn the number+unit and the grade form.",
+      "emoji": "🎂",
+      "highlight": "I'm 10 years old.\nI'm a 5th grader."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Sharing one favorite thing keeps the talk alive!",
+      "title": "What You Like",
+      "content": "I like soccer. I love reading. Love is stronger than like. Pick one specific thing so the listener can ask back.",
+      "emoji": "💖",
+      "highlight": "I like ___ .\nI love ___ ."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Sharing your dream lifts the impression!",
+      "title": "Your Dream",
+      "content": "I want to be a programmer. My dream is to make games. The 'want to be ___' form lands well.",
+      "emoji": "🌟",
+      "highlight": "I want to be a ___ .\nMy dream is to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Wrap up with 'Nice to meet you!'",
+      "title": "Nice to meet you!",
+      "content": "Nice to meet you! is the magic line for first meetings. Reply with 'Nice to meet you, too!' for the perfect close.",
+      "emoji": "🤝",
+      "highlight": "Nice to meet you! → Nice to meet you, too!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Memorize the 3-sentence template!",
+      "title": "3-Sentence Template",
+      "content": "1) name 2) what you love 3) dream — in order. Short and clean lands in the listener's memory.",
+      "emoji": "📋",
+      "highlight": "1. I'm ___ .\n2. I love ___ .\n3. I want to be ___ ."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Practice out loud! Record yourself!",
+      "title": "Speak It Out",
+      "content": "In front of a mirror, with a smile, out loud — best practice. Recording and listening back makes your fixes obvious.",
+      "emoji": "🎙️",
+      "highlight": "🪞 Mirror practice\n🎙️ Record\n👂 Listen back"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Quiz! How do you say 'Nice to meet you' in English?",
+      "quizQuestion": "Which is the standard greeting for a first meeting?",
+      "quizChoices": [
+        "Nice to meet you!",
+        "How are you?",
+        "Goodbye!",
+        "Thank you!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Nice to meet you! is the classic. Reply with the same plus 'too'."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Your own 3-line self-intro is ready! 🌟",
+      "title": "Lesson Complete!",
+      "emoji": "🎉"
+    }
+  ]
+}

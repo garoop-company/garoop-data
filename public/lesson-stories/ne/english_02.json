@@ -1,0 +1,149 @@
+{
+  "title": "अंग्रेजी अभिवादन",
+  "description": "दिन बदल्ने जादुई अभिवादन!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "अभिवादन अंग्रेजीको पहिलो पाइला! अरूलाई मुस्कान दिऔं 👋",
+      "title": "अभिवादनबाट सुरु",
+      "content": "यो पाठ 'अंग्रेजी अभिवादन' सिक्ने हो। एउटा छोटो वाक्यले पहिलो भेटको दूरीलाई एकदम घटाउँछ।",
+      "emoji": "👋"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Hello बहुउद्देशीय! बिहान, दिउँसो, बेलुका सबै!",
+      "title": "Hello — सबैभन्दा प्रयोग्य",
+      "content": "Hello समय छानेर प्रयोग गर्नु पर्दैन, आधार अभिवादन हो। थोरै सौहार्द बढाउन 'Hi there' पनि।",
+      "emoji": "👋",
+      "highlight": "Hello / Hi / Hi there"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "समय अनुसारको अभिवादन पनि छ!",
+      "title": "बिहान, दिउँसो, बेलुका",
+      "content": "Good morning, Good afternoon, Good evening। समय मिलाउँदा छाप राम्रो हुन्छ।",
+      "emoji": "🌅",
+      "highlight": "🌅 Good morning\n☀️ Good afternoon\n🌙 Good evening"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'How are you?' मित्रताको साँचो वाक्य!",
+      "title": "How are you?",
+      "content": "सोधे I'm good वा Not bad भन्नुहोस्। अनि And you? थप्दा अरूतर्फ कुरा फर्किन्छ।",
+      "emoji": "💬",
+      "highlight": "Q: How are you?\nA: I'm good, and you?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "बिदाइको अभिवादन पनि जोडीमा सिक्ने!",
+      "title": "बिदाइ अंग्रेजी",
+      "content": "Goodbye अलि औपचारिक। साथीसँग See you वा Bye काफी। फेरि भेट्ने भए See you tomorrow।",
+      "emoji": "👋",
+      "highlight": "Bye / See you / See you tomorrow"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "'Thank you' विश्वव्यापी जादू गाल्!",
+      "title": "Thank you को शक्ति",
+      "content": "Thank you दिनको धेरै पटक भन्न सकिन्छ। Thanks सहज संस्करण। गहिरो आभारका लागि Thank you so much।",
+      "emoji": "🙏",
+      "highlight": "Thanks / Thank you / Thank you so much"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "माफी माग्न सक्नु पनि स्टाइल गाल्!",
+      "title": "माफीको अभिवादन",
+      "content": "I'm sorry आधार माफी। ठक्कर लाग्दा 'Sorry!' पुग्छ। गहिरो माफीमा 'really' थप्ने।",
+      "emoji": "🙇",
+      "highlight": "Sorry / I'm sorry / I'm really sorry"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "अभिवादन र मुस्कान मिलाउँदा प्रभाव ३ गुणा!",
+      "title": "मुस्कान र आँखा सम्पर्क",
+      "content": "अंग्रेजी अभिवादन मुख मात्र होइन, आँखा र अनुहारमा पनि छ। मुस्कान र आँखा सम्पर्क थप्दा उही Hello को छाप फरक हुन्छ।",
+      "emoji": "😊",
+      "highlight": "🎯 शब्द + मुस्कान + आँखा = पुग्ने अभिवादन"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "अभिवादनलाई दैनिक दिनचर्यामा राख्नुहोस्!",
+      "title": "अभिवादनको बानी",
+      "content": "परिवार वा साथीलाई दिनको ३ पटक अंग्रेजीमा अभिवादन गरौं। पटक धेरै हुँदा शब्द आफै निक्लिन्छन्।",
+      "emoji": "🔁",
+      "highlight": "बिहान: Good morning\nदिउँसो: How are you?\nबेलुका: Good night"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "क्विज गाल्! How are you? को जवाफ कसरी?",
+      "quizQuestion": "How are you? को सबभन्दा प्राकृतिक जवाफ कुन?",
+      "quizChoices": [
+        "I'm good, and you?",
+        "Yes, I am.",
+        "Thank you very much.",
+        "Hello!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "How are you? को जवाफमा I'm good भन्नुहोस्, अनि And you? ले अरूतर्फ कुरा फर्काउनुहोस्।"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "आजबाट तिमी अभिवादन मास्टर गाल्! 🌟",
+      "title": "पाठ पूरा!",
+      "emoji": "🎉"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Nhiệm vụ Thiết kế Figma",
+  "description": "Nhiệm vụ điệp viên thiết kế màn hình app bằng Figma!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Đặc vụ Thiết kế! Hôm nay thiết kế màn hình app trong Figma! 🎨",
+      "title": "Mệnh lệnh: Chiến dịch Figma",
+      "content": "Nhiệm vụ: thiết kế một màn hình app bằng Figma. Ba điều kiện: nói mục đích trong một câu, theo quy tắc 3 màu, ký tên ở đâu đó.",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Figma là công cụ thiết kế miễn phí!",
+      "title": "Figma là gì?",
+      "content": "Figma chạy ngay trên trình duyệt. Có thể tạo màn hình app, web, logo, poster — thậm chí làm chung cùng lúc.",
+      "emoji": "🖌️",
+      "highlight": "Làm bằng Figma:\n- Màn hình app\n- Logo\n- Poster\n- Cùng chỉnh sửa"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "Đặt 'Frame' trước!",
+      "title": "Đặt Frame",
+      "content": "Bấm F chọn Frame, chọn kích thước iPhone hay desktop. Đây là khung thiết kế của bạn.",
+      "emoji": "📱",
+      "highlight": "Bước Frame:\n1. Phím F\n2. Chọn size\n3. Đặt"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "Bố cục bằng chữ và hình!",
+      "title": "Thêm Yếu tố",
+      "content": "T cho chữ, R cho hình chữ nhật. Đặt tiêu đề, mô tả, nút — bạn có màn hình app cơ bản.",
+      "emoji": "📝",
+      "highlight": "Phím tắt:\nT = chữ\nR = chữ nhật\nO = tròn"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "Dùng quy tắc 3 màu!",
+      "title": "Thực thi: Màu sắc",
+      "content": "Chọn màu chính, phụ, nhấn. Ba màu là layout có sự thống nhất. Bí thì xem Color Hunt.",
+      "emoji": "🎨",
+      "highlight": "Gợi ý 3 màu:\n- Chính 70%\n- Phụ 25%\n- Nhấn 5%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "Căn chỉnh và khoảng cách quyết định độ sạch!",
+      "title": "Tinh chỉnh",
+      "content": "Auto Layout căn các yếu tố tự động. Khoảng cách đều thôi đã trông chuyên nghiệp.",
+      "emoji": "📏",
+      "highlight": "3 việc tinh chỉnh:\n- Căn\n- Khoảng cách đều\n- Auto Layout"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Lấy link chia sẻ khi xong!",
+      "title": "Chia sẻ",
+      "content": "Nút Share ở góc phải trên cho link. Cho gia đình bạn xem và xin một phản hồi.",
+      "emoji": "🔗",
+      "highlight": "Mẹo chia sẻ:\n- Chỉ xem\n- URL\n- Xin 1 phản ứng"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "Hoàn thành! Nộp ảnh chụp lấy 500 điểm 🚀",
+      "title": "Hoàn thành nhiệm vụ!",
+      "content": "Hoàn thành nghĩa là bạn nói được trong một phút: cho ai, không khí muốn truyền.",
+      "emoji": "🚀"
+    }
+  ]
+}

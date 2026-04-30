@@ -1,0 +1,149 @@
+{
+  "title": "Đồ ăn và thức uống bằng tiếng Anh",
+  "description": "Gọi món yêu thích ở mọi nơi trên thế giới!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Tiếng Anh đồ ăn dùng khắp thế giới! 🍔",
+      "title": "Tiếng Anh trên bàn ăn",
+      "content": "Bài học 'Đồ ăn và thức uống bằng tiếng Anh'. Khi du lịch, du học hay đi nhà hàng, bạn sẽ gọi được món mình thích.",
+      "emoji": "🍽️"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Bạn nói được món yêu thích bằng tiếng Anh không?",
+      "title": "Từ vựng đồ ăn",
+      "content": "pizza, hamburger, sushi, ramen, sandwich, salad, rice, noodles. Bắt đầu từ món thích là bí quyết duy trì.",
+      "emoji": "🍕",
+      "highlight": "🍕 pizza  🍔 burger  🍣 sushi\n🍜 ramen  🥗 salad  🍚 rice"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Đừng quên thức uống!",
+      "title": "Thức uống",
+      "content": "water, milk, juice, tea, coffee, soda. Quan trọng nhất là water. 'Can I have some water?' rất tiện.",
+      "emoji": "🥤",
+      "highlight": "💧 water  🥛 milk  🧃 juice\n🍵 tea  ☕ coffee  🥤 soda"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'Đói' và 'Khát' mở đầu câu chuyện!",
+      "title": "Nói về trạng thái",
+      "content": "I'm hungry. I'm thirsty. Hai câu đơn giản mở đầu câu chuyện về bữa ăn ở nhà hay ngoài.",
+      "emoji": "😋",
+      "highlight": "I'm hungry.\nI'm thirsty."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Câu thần kỳ để gọi món!",
+      "title": "Gọi món",
+      "content": "Can I have a hamburger, please? Mẫu yêu cầu lịch sự. Thêm 'please' nâng ấn tượng ngay lập tức.",
+      "emoji": "📋",
+      "highlight": "Can I have ___, please?\nI'd like ___, please."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Nói được sở thích và không thích cũng nhẹ nhàng hơn!",
+      "title": "Thích/Không thích",
+      "content": "I like sushi. I don't like onions. Nếu có dị ứng, học cả 'I'm allergic to peanuts.'",
+      "emoji": "👍",
+      "highlight": "I like ___ .\nI don't like ___ .\nI'm allergic to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Chia sẻ cảm nhận bằng tiếng Anh!",
+      "title": "Cảm nhận",
+      "content": "It's delicious! Yummy! Tasty! Nói món ngon làm người nấu vui.",
+      "emoji": "😋",
+      "highlight": "Delicious! / Yummy! / Tasty!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Hỏi tính tiền cũng quan trọng!",
+      "title": "Tính tiền",
+      "content": "Check, please. Hoặc Can I have the bill, please? Đều là câu thiết yếu cuối bữa.",
+      "emoji": "💳",
+      "highlight": "Check, please.\nCan I have the bill?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Kết bằng 'cảm ơn' cho ấm áp!",
+      "title": "Thank you!",
+      "content": "Thank you for the meal. Phiên bản tiếng Anh của lời cảm ơn sau bữa. Nói ra làm bàn ăn thêm ấm.",
+      "emoji": "🙏",
+      "highlight": "Thank you for the meal!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Câu đố! Lịch sự xin nước thế nào?",
+      "quizQuestion": "Cách lịch sự nhất để xin nước?",
+      "quizChoices": [
+        "Can I have some water, please?",
+        "Water!",
+        "Give me water.",
+        "Where is water?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Can I have some water, please? lịch sự và tự nhiên. Nhớ thêm 'please'."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Bạn sẽ không đói ở bất kỳ nước nào nữa! 🌟",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉"
+    }
+  ]
+}

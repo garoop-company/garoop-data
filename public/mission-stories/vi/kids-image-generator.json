@@ -1,0 +1,105 @@
+{
+  "title": "Nhiệm vụ Sinh Ảnh AI",
+  "description": "Nhiệm vụ điệp viên tạo bức tranh độc nhất bằng AI!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đặc vụ Hình ảnh! Hôm nay vẽ tranh bằng AI! 🎨",
+      "background": "lab",
+      "title": "Lệnh nhiệm vụ: Sinh ảnh",
+      "content": "Nhiệm vụ là hoàn thành một bức tranh gốc bằng công cụ AI sinh ảnh. 3 điều kiện: bao gồm 3 yếu tố nhân vật-nơi chốn-không khí; sinh ít nhất 3 lần; chọn 1 bức cuối và nói rõ lý do.",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Sinh ảnh AI là phép thuật biến 'lời thành tranh'!",
+      "background": "spy",
+      "title": "Sinh ảnh AI là gì?",
+      "content": "Midjourney, DALL-E, Stable Diffusion đều là AI tạo ra một bức tranh từ một câu văn. Lời càng cụ thể, hình càng gần với tưởng tượng.",
+      "emoji": "🖼️",
+      "highlight": "Công cụ phổ biến:\n- Midjourney\n- DALL-E\n- Stable Diffusion"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Prompt phải có 'nhân vật, nơi chốn, không khí'!",
+      "background": "hq",
+      "title": "Prompt 3 yếu tố",
+      "content": "Luôn có 'nhân vật là ai', 'ở đâu', 'không khí thế nào' — bức tranh sẽ không bị lệch. Thiếu thì thêm màu sắc và thời điểm trong ngày.",
+      "emoji": "📝",
+      "highlight": "Mẫu 3 yếu tố:\nNhân vật: mèo trắng\nNơi chốn: trạm vũ trụ\nKhông khí: ánh sáng xanh tương lai"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Chọn 'phong cách vẽ' thì không khí thay đổi hẳn!",
+      "background": "spy",
+      "title": "Phong cách nghệ thuật",
+      "content": "Nói 'màu nước', 'pixel art', hay 'phong cách Ghibli' biến cùng đề tài thành những bức tranh khác nhau hoàn toàn. Lưu lại từ bạn ưng để dùng lần sau.",
+      "emoji": "🎭",
+      "highlight": "Ví dụ phong cách:\n- Màu nước\n- Pixel art\n- 3D render\n- Truyện tranh"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Gửi prompt và tạo 3 phiên bản!",
+      "background": "lab",
+      "title": "Thực thi: Tạo 3 phiên bản",
+      "content": "Cùng một nhân vật, chỉ đổi phong cách rồi tạo 3 bản. Sự khác biệt sẽ cho thấy gu của bạn. Chọn 1 bức và viết một câu lý do.",
+      "emoji": "🧪",
+      "highlight": "So sánh:\nA: Màu nước\nB: Pixel art\nC: 3D render"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Khác hình dung thì dùng 'từ cấm'!",
+      "background": "hq",
+      "title": "Negative Prompt",
+      "content": "Muốn cảnh đêm mà ra cảnh ngày, hãy liệt kê thứ cần tránh. 'Loại bỏ ban ngày, nền sáng' giúp định hướng chính xác hơn.",
+      "emoji": "🚫",
+      "highlight": "Cách tránh:\n- 'Loại bỏ X'\n- 'Không dùng X'\n- 'Thay X bằng Y'"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đặt cho bức tranh đã chọn một tiêu đề và một câu bình luận!",
+      "background": "spy",
+      "title": "Biến thành tác phẩm",
+      "content": "Khi thêm tiêu đề và một câu bình luận, nó không còn là 'ảnh sinh ra' mà là 'tác phẩm'. Một câu 'vì sao chọn bức này' cũng đủ.",
+      "emoji": "🖋️",
+      "highlight": "Mẫu tác phẩm:\n- Tiêu đề\n- Concept một câu\n- Phong cách đã dùng"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hoàn thành nhiệm vụ! Nộp tác phẩm để nhận 450 điểm! 🎉",
+      "background": "lab",
+      "title": "Hoàn thành nhiệm vụ!",
+      "content": "Sinh ảnh AI là kỹ năng 'dẫn dắt bằng lời' hơn là 'vẽ'. Mỗi từ trong prompt xây dựng cả một thế giới bên trong khung hình.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

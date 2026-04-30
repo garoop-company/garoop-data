@@ -1,0 +1,105 @@
+{
+  "title": "Canva Poster Mission",
+  "description": "A spy mission to make an original poster in Canva!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Poster Agent! Make one poster in Canva! 🖼️",
+      "title": "Mission: Poster Op",
+      "content": "Mission: finish an original poster using Canva. Three conditions: pick one message to convey, use one photo, work at A4 size.",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Canva is a friend to beginners!",
+      "title": "What's Canva?",
+      "content": "Canva is full of templates. Browser or app, drag and drop to design easily.",
+      "emoji": "✨",
+      "highlight": "Canva strengths:\n- Many templates\n- Browser OK\n- Free assets"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "Decide the theme in one sentence!",
+      "title": "Theme",
+      "content": "'A poster about reading', 'School fest poster' — say who it's for and what message in one line.",
+      "emoji": "🎯",
+      "highlight": "Theme shape:\nFor whom + what message"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "Pick a template!",
+      "title": "Pick Template",
+      "content": "Search 'poster' for many templates. Pick one near your vibe; just change text and colors for speed.",
+      "emoji": "📋",
+      "highlight": "Pick by:\n- Vibe\n- Text length\n- Color"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "Make your message pop!",
+      "title": "Op: Headline",
+      "content": "Posters are read in 3 seconds. The biggest text = your message. Keep it under 10 words for impact.",
+      "emoji": "📢",
+      "highlight": "Headline rule:\n- Big\n- Under 10 words\n- Stand-out color"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "Add a photo or image!",
+      "title": "Visuals",
+      "content": "Canva has millions of free assets. One on-theme photo or illustration shapes the whole feeling.",
+      "emoji": "📸",
+      "highlight": "Visual choice:\n- On theme\n- Just one\n- Keep whitespace"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Print it for a real copy!",
+      "title": "Download & Print",
+      "content": "Top-right Download saves as PDF or JPG. Printing and sticking it up gives a different satisfaction than digital.",
+      "emoji": "🖨️",
+      "highlight": "Save as:\n- PDF (print)\n- JPG (share)"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "Mission complete! Submit the image for 400 points 🚀",
+      "title": "Mission Complete!",
+      "content": "Done means a viewer 'gets it' in 3 seconds. Show one person and check if they understand the message.",
+      "emoji": "🚀"
+    }
+  ]
+}

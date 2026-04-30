@@ -1,0 +1,149 @@
+{
+  "title": "अंग्रेजीमा खाना र पेय",
+  "description": "संसारको कुनै ठाउँमा पनि मनपर्ने कुरा अर्डर गर्न सकिने हुनुहोस्!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "खाना अंग्रेजी संसारभर प्रयोगयोग्य गाल्! 🍔",
+      "title": "खाने टेबलको अंग्रेजी",
+      "content": "यो पाठ 'अंग्रेजीमा खाना र पेय' सिक्ने। यात्रा, विदेश अध्ययन, रेस्टुरेन्टमा आफूले मनपर्ने अर्डर गर्न सकिने बल आर्जन गरौं।",
+      "emoji": "🍽️"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "मनपर्ने खाना अंग्रेजीमा भन्न सक्छौ?",
+      "title": "खानाका शब्दहरू",
+      "content": "pizza, hamburger, sushi, ramen, sandwich, salad, rice, noodles। मनपर्नेदेखि सुरु गर्नु निरन्तरताको कुञ्जी।",
+      "emoji": "🍕",
+      "highlight": "🍕 pizza  🍔 burger  🍣 sushi\n🍜 ramen  🥗 salad  🍚 rice"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "पेय पनि नबिर्सने!",
+      "title": "पेय",
+      "content": "water, milk, juice, tea, coffee, soda। सबभन्दा महत्त्वपूर्ण water हो। 'Can I have some water?' अति उपयोगी।",
+      "emoji": "🥤",
+      "highlight": "💧 water  🥛 milk  🧃 juice\n🍵 tea  ☕ coffee  🥤 soda"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'भोक' र 'तिर्खा'ले कुरा सुरु!",
+      "title": "अवस्था भन्ने",
+      "content": "I'm hungry. I'm thirsty। दुई सरल वाक्यले घर वा बाहिर खानाको कुरा सुरु गर्न सकिन्छ।",
+      "emoji": "😋",
+      "highlight": "I'm hungry.\nI'm thirsty."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "अर्डरको जादुई वाक्य!",
+      "title": "अर्डर गर्ने",
+      "content": "Can I have a hamburger, please? विनम्र अनुरोधको ढाँचा। 'please' थप्दा छाप तुरुन्त बढ्छ।",
+      "emoji": "📋",
+      "highlight": "Can I have ___, please?\nI'd like ___, please."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "मनपर्ने/नपर्ने भन्न सक्दा सजिलो!",
+      "title": "मन पर्ने/नपर्ने",
+      "content": "I like sushi. I don't like onions। एलर्जी छ भने 'I'm allergic to peanuts.' पनि सिकौं।",
+      "emoji": "👍",
+      "highlight": "I like ___ .\nI don't like ___ .\nI'm allergic to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "अंग्रेजीमा प्रतिक्रिया दिऔं!",
+      "title": "प्रतिक्रिया",
+      "content": "It's delicious! Yummy! Tasty! खाना मीठो हो भन्दा बनाउनेलाई खुसी लाग्छ।",
+      "emoji": "😋",
+      "highlight": "Delicious! / Yummy! / Tasty!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "बिल माग्नु पनि महत्त्वपूर्ण!",
+      "title": "बिल",
+      "content": "Check, please। वा Can I have the bill, please? दुवै खाना सकिएपछिको आवश्यक वाक्य।",
+      "emoji": "💳",
+      "highlight": "Check, please.\nCan I have the bill?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "धन्यवादले न्यानो अन्त्य!",
+      "title": "Thank you!",
+      "content": "Thank you for the meal। खाना पछिको आभारको अंग्रेजी संस्करण। यो वाक्यले खानाको टेबल न्यानो हुन्छ।",
+      "emoji": "🙏",
+      "highlight": "Thank you for the meal!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "क्विज गाल्! 'पानी दिनुहोस्' विनम्र भनाइ?",
+      "quizQuestion": "पानी विनम्रतापूर्वक माग्ने सबभन्दा प्राकृतिक भनाइ?",
+      "quizChoices": [
+        "Can I have some water, please?",
+        "Water!",
+        "Give me water.",
+        "Where is water?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Can I have some water, please? विनम्र र प्राकृतिक। 'please' नबिर्सने।"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "अब कुनै देशको रेस्टुरेन्टमा डर लाग्दैन गाल् 🌟",
+      "title": "पाठ पूरा!",
+      "emoji": "🎉"
+    }
+  ]
+}

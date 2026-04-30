@@ -1,0 +1,149 @@
+{
+  "title": "あいさつ英語",
+  "description": "1日が変わる魔法のあいさつ！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "あいさつは英語の第一歩！相手に笑顔をプレゼントしよう👋",
+      "title": "あいさつから始めよう",
+      "content": "このレッスンでは「あいさつ英語」を学ぶ。短いひと言が、初対面の相手と君の距離をぐっと縮めてくれる。",
+      "emoji": "👋"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Helloは万能！朝も昼も夜もOKだよ！",
+      "title": "Hello — 万能あいさつ",
+      "content": "Helloは時間を選ばず使える基本のあいさつ。少し丁寧に言いたいときは「Hi there」も使える。",
+      "emoji": "👋",
+      "highlight": "Hello / Hi / Hi there"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "時間で使い分けるあいさつもあるよ！",
+      "title": "朝・昼・夜のあいさつ",
+      "content": "Good morning（朝）、Good afternoon（昼）、Good evening（夕方〜夜）。時間に合わせると印象アップ。",
+      "emoji": "🌅",
+      "highlight": "🌅 Good morning\n☀️ Good afternoon\n🌙 Good evening"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "How are you?は「元気？」って意味の合言葉！",
+      "title": "How are you?",
+      "content": "How are you?と聞かれたらI'm goodやNot badなどで返そう。相手にもAnd you?と返すのが礼儀。",
+      "emoji": "💬",
+      "highlight": "Q: How are you?\nA: I'm good, and you?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "別れのあいさつもセットで覚えよう！",
+      "title": "さよならの英語",
+      "content": "Goodbyeは少しかたい。友達にはSee you、Byeでも十分通じる。次に会う約束があればSee you tomorrowも便利。",
+      "emoji": "👋",
+      "highlight": "Bye / See you / See you tomorrow"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "「ありがとう」は世界共通の魔法ガル！",
+      "title": "Thank you の力",
+      "content": "Thank youは1日に何度でも使える。Thanks!は気軽な版。ちょっと深い感謝にはThank you so much。",
+      "emoji": "🙏",
+      "highlight": "Thanks / Thank you / Thank you so much"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "「ごめんね」もしっかり言えるとカッコいい！",
+      "title": "謝るあいさつ",
+      "content": "I'm sorryは謝罪の基本。ぶつかったときはSorry!の一言でOK。深く謝るときはI'm really sorry。",
+      "emoji": "🙇",
+      "highlight": "Sorry / I'm sorry / I'm really sorry"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "あいさつに「笑顔」をつけると効果は3倍！",
+      "title": "笑顔とアイコンタクト",
+      "content": "英語のあいさつは口だけでなく目と顔で伝える文化。笑顔とアイコンタクトを加えれば、同じHelloでも印象が大きく変わる。",
+      "emoji": "😊",
+      "highlight": "🎯 言葉 + 笑顔 + 目 = 通じるあいさつ"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "毎日のルーティンにあいさつを入れよう！",
+      "title": "あいさつ習慣を作る",
+      "content": "家族や友達に1日3回、英語であいさつしてみよう。回数を重ねるほど、口から自然に出てくるようになる。",
+      "emoji": "🔁",
+      "highlight": "朝：Good morning\n昼：How are you?\n夜：Good night"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "クイズだガル！How are you?と聞かれた時の返し方は？",
+      "quizQuestion": "How are you?への一番自然な返事はどれ？",
+      "quizChoices": [
+        "I'm good, and you?",
+        "Yes, I am.",
+        "Thank you very much.",
+        "Hello!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "How are you?にはI'm goodなどで答えて、And you?で相手にも返すのが基本。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "今日からあいさつマスターガル！🌟",
+      "title": "レッスン完了！",
+      "emoji": "🎉"
+    }
+  ]
+}

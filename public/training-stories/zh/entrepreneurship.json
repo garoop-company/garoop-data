@@ -1,0 +1,105 @@
+{
+  "title": "创业修行",
+  "description": "锻炼把创意带向世界的能力！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "欢迎来到创业道场加鲁！把创意带向世界💼",
+      "title": "创业道场",
+      "content": "创业修行不练商业技巧，而练「为谁解决问题」的思考力。从小开始，做能让一个人开心的事就好。",
+      "emoji": "💼",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "dojo",
+      "speech": "先找「困扰」加鲁！",
+      "title": "发现问题",
+      "content": "好生意来自问题。把家人、朋友、自己日常的3个小不便记下来。那就是宝藏地图。",
+      "emoji": "🔍",
+      "highlight": "找问题：\n・家人\n・朋友\n・自己"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "bamboo",
+      "speech": "想出3个解决创意！",
+      "title": "发想",
+      "content": "1个问题至少3个想法。AI做头脑风暴对手可让点子翻10倍。",
+      "emoji": "💡",
+      "highlight": "发想规则：\n・数量\n・不批评\n・组合"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "mountain",
+      "speech": "画用户画像！",
+      "title": "为谁做？",
+      "content": "「13岁初二樱花，足球部」这样具体描述1个用户。「为大家」就谁都打不中。",
+      "emoji": "👤",
+      "highlight": "画像要素：\n・年龄\n・喜好\n・困扰"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "dojo",
+      "speech": "快做原型！",
+      "title": "原型修行",
+      "content": "别求完美，纸上或AI生成的画面都行。早给别人看，越快接近真正能用的形态。",
+      "emoji": "🛠️",
+      "highlight": "原型铁则：\n・3天做\n・给人看\n・改进"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "bamboo",
+      "speech": "想想钱的流向加鲁！",
+      "title": "商业模式",
+      "content": "谁付钱、多少钱、成本何处。3个问题写到纸上，是不是生意就清楚。",
+      "emoji": "💰",
+      "highlight": "3问：\n・谁付？\n・多少？\n・成本？"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "其实首个客户就在身边加鲁！",
+      "title": "第一位客户",
+      "content": "开始让家人朋友试。不要钱也行，「谢谢」「还要」的声音就是创业第一个证明。",
+      "emoji": "🤝",
+      "highlight": "首个里程碑：\n・有人用\n・被感谢\n・想要更多"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "temple",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "创业修行辛苦加鲁！把创意带向世界🌟",
+      "title": "修行完成！",
+      "content": "创业不必大开始。小实验反复做，最终诞生改变世界的事业。今天就试1个想法。",
+      "emoji": "🌟"
+    }
+  ]
+}

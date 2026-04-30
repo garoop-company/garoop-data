@@ -1,0 +1,149 @@
+{
+  "title": "Makanan dan Minuman dalam Bahasa Inggris",
+  "description": "Pesan makanan favoritmu di mana saja di dunia!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Bahasa Inggris makanan dipakai di seluruh dunia! 🍔",
+      "title": "Bahasa Inggris Meja Makan",
+      "content": "Pelajaran 'Makanan dan minuman dalam bahasa Inggris'. Saat traveling, kuliah luar negeri, atau di restoran, kamu bisa pesan favoritmu.",
+      "emoji": "🍽️"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Bisa sebut makanan favorit dalam bahasa Inggris?",
+      "title": "Kosakata Makanan",
+      "content": "pizza, hamburger, sushi, ramen, sandwich, salad, rice, noodles. Mulai dari yang disuka adalah kunci agar konsisten.",
+      "emoji": "🍕",
+      "highlight": "🍕 pizza  🍔 burger  🍣 sushi\n🍜 ramen  🥗 salad  🍚 rice"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Jangan lupa minuman!",
+      "title": "Minuman",
+      "content": "water, milk, juice, tea, coffee, soda. Yang paling penting: water. 'Can I have some water?' sangat berguna.",
+      "emoji": "🥤",
+      "highlight": "💧 water  🥛 milk  🧃 juice\n🍵 tea  ☕ coffee  🥤 soda"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'Lapar' dan 'haus' membuka percakapan!",
+      "title": "Mengatakan Kondisi",
+      "content": "I'm hungry. I'm thirsty. Dua kalimat sederhana untuk membuka pembicaraan makan di rumah atau luar.",
+      "emoji": "😋",
+      "highlight": "I'm hungry.\nI'm thirsty."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Frasa ajaib untuk memesan!",
+      "title": "Memesan",
+      "content": "Can I have a hamburger, please? Pola permintaan sopan. Menambahkan 'please' langsung menaikkan kesan.",
+      "emoji": "📋",
+      "highlight": "Can I have ___, please?\nI'd like ___, please."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Bisa menyatakan suka dan tidak suka juga membantu!",
+      "title": "Suka/Tidak Suka",
+      "content": "I like sushi. I don't like onions. Kalau alergi, hafal juga 'I'm allergic to peanuts.'",
+      "emoji": "👍",
+      "highlight": "I like ___ .\nI don't like ___ .\nI'm allergic to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Sampaikan kesan dalam bahasa Inggris!",
+      "title": "Reaksi",
+      "content": "It's delicious! Yummy! Tasty! Mengatakan makanannya enak membuat juru masak senang.",
+      "emoji": "😋",
+      "highlight": "Delicious! / Yummy! / Tasty!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Minta bon juga penting!",
+      "title": "Minta Bon",
+      "content": "Check, please. Atau Can I have the bill, please? Keduanya wajib di akhir makan.",
+      "emoji": "💳",
+      "highlight": "Check, please.\nCan I have the bill?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Tutup dengan terima kasih agar hangat!",
+      "title": "Thank you!",
+      "content": "Thank you for the meal. Versi bahasa Inggris ungkapan syukur usai makan. Mengucapkannya menghangatkan meja.",
+      "emoji": "🙏",
+      "highlight": "Thank you for the meal!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Kuis! Bagaimana sopan minta air?",
+      "quizQuestion": "Cara paling sopan minta air?",
+      "quizChoices": [
+        "Can I have some water, please?",
+        "Water!",
+        "Give me water.",
+        "Where is water?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Can I have some water, please? sopan dan alami. Jangan lupa 'please'."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Tidak akan kelaparan di negara mana pun! 🌟",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉"
+    }
+  ]
+}

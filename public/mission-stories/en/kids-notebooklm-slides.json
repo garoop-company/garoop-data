@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Slide Structure",
+      "speech": "Slides go 'intro → main → close'! 📊",
+      "emoji": "📊",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "State the message, explain it, restate it. Simple but strong.",
+      "highlight": "3-part:\n1. Intro (hook)\n2. Main (details)\n3. Close (anchor)"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Use Animation Wisely",
+      "speech": "Less motion, more class! ✨",
+      "emoji": "✨",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Limit animation to one per slide. Too much hurts readability; restraint creates impact.",
+      "highlight": "Anim rules:\n- 1 per slide\n- Only with meaning\n- Avoid flashy"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

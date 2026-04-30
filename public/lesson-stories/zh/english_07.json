@@ -1,0 +1,149 @@
+{
+  "title": "朋友与情感的英语",
+  "description": "表达情感，结交世界各地的朋友！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "会表达感情的人在世界都受欢迎加鲁！💖",
+      "title": "情感英语",
+      "content": "本课学习「朋友与情感的英语」。把感情说出口，就能跨越文化和国家与人相连。",
+      "emoji": "💖"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "高兴的英语！",
+      "title": "Happy 表达",
+      "content": "I'm happy. I'm so glad! Yay! 程度不同感情传达也更精准。",
+      "emoji": "😄",
+      "highlight": "I'm happy. / I'm so glad! / Yay!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "难过也别忍着！",
+      "title": "Sad 表达",
+      "content": "I'm sad. I feel down. I miss you. 把难过说出来，对方会关心你。分享胜过憋着。",
+      "emoji": "😢",
+      "highlight": "I'm sad. / I feel down. / I miss you."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "把愤怒好好表达不会变成吵架！",
+      "title": "Angry 表达",
+      "content": "I'm angry. I'm upset. That's not fair. 不吼叫，用「难过/困扰」的语感表达，对话能继续。",
+      "emoji": "😠",
+      "highlight": "I'm angry. / I'm upset. / That's not fair."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "兴奋是元气的源泉！",
+      "title": "Excited 表达",
+      "content": "I'm excited! I can't wait! 考试、旅行、生日，把期待说出来场面立刻明亮。",
+      "emoji": "🤩",
+      "highlight": "I'm excited!\nI can't wait!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "害怕、不安也可以说！",
+      "title": "Scared 表达",
+      "content": "I'm scared. I'm worried. I'm nervous. 表达脆弱不是弱点，能直说的人更被信赖。",
+      "emoji": "😨",
+      "highlight": "I'm scared. / I'm worried. / I'm nervous."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "向朋友传达心意的魔法！",
+      "title": "对朋友说的一句",
+      "content": "You're my best friend. I'm here for you. 在困难或快乐时，这句话会让友情立刻加深。",
+      "emoji": "🤝",
+      "highlight": "You're my best friend.\nI'm here for you."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "「谢谢」是情感之王！",
+      "title": "感谢的话",
+      "content": "Thank you. I appreciate it. You made my day. 感谢说法多样化，心意传得更深。",
+      "emoji": "🙏",
+      "highlight": "Thank you.\nI appreciate it.\nYou made my day."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "也学会问对方感受！",
+      "title": "询问对方",
+      "content": "How do you feel? Are you OK? 会问别人感受的人比只表达自己的人受信任两倍。",
+      "emoji": "❓",
+      "highlight": "How do you feel?\nAre you OK?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "小测验加鲁！「好期待！」用英语怎么说？",
+      "quizQuestion": "兴奋时的自然英语是？",
+      "quizChoices": [
+        "I'm excited!",
+        "I'm scared!",
+        "I'm tired!",
+        "I'm sorry!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "I'm excited!是兴奋的自然表达。I can't wait!也是同义。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "情感英语大师加鲁！全球结交朋友🌟",
+      "title": "课程完成！",
+      "emoji": "🎉"
+    }
+  ]
+}

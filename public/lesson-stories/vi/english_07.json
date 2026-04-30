@@ -1,0 +1,149 @@
+{
+  "title": "Bạn bè và Cảm xúc",
+  "description": "Bày tỏ cảm xúc và kết bạn khắp thế giới!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Người nói được cảm xúc luôn được yêu khắp thế giới! 💖",
+      "title": "Cảm xúc tiếng Anh",
+      "content": "Bài học 'Bạn bè và cảm xúc'. Khi đưa cảm xúc thành lời, bạn nối với người khác xuyên qua văn hóa và quốc gia.",
+      "emoji": "💖"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Cách nói vui!",
+      "title": "Từ vui",
+      "content": "I'm happy. I'm so glad! Yay! Dùng các mức độ khác nhau để cảm xúc đến đúng.",
+      "emoji": "😄",
+      "highlight": "I'm happy. / I'm so glad! / Yay!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Buồn cũng đừng nén!",
+      "title": "Từ buồn",
+      "content": "I'm sad. I feel down. I miss you. Đặt tên cho nỗi buồn mời gọi sự quan tâm. Chia sẻ tốt hơn nén lại.",
+      "emoji": "😢",
+      "highlight": "I'm sad. / I feel down. / I miss you."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Diễn đạt giận khéo léo tránh cãi vã!",
+      "title": "Từ giận",
+      "content": "I'm angry. I'm upset. That's not fair. Đừng la, hãy nói theo nghĩa 'buồn/khó chịu' để câu chuyện tiếp tục.",
+      "emoji": "😠",
+      "highlight": "I'm angry. / I'm upset. / That's not fair."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Hào hứng là nguồn năng lượng!",
+      "title": "Từ hào hứng",
+      "content": "I'm excited! I can't wait! Bài kiểm tra, du lịch, sinh nhật — nói ra hào hứng làm không khí sáng lên.",
+      "emoji": "🤩",
+      "highlight": "I'm excited!\nI can't wait!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Sợ và lo cũng được phép nói!",
+      "title": "Từ sợ",
+      "content": "I'm scared. I'm worried. I'm nervous. Trung thực không phải yếu — người dám nói được tin cậy hơn.",
+      "emoji": "😨",
+      "highlight": "I'm scared. / I'm worried. / I'm nervous."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Câu thần kỳ cho bạn bè!",
+      "title": "Lời cho bạn",
+      "content": "You're my best friend. I'm here for you. Lúc khó hay vui, câu này làm tình bạn sâu hơn.",
+      "emoji": "🤝",
+      "highlight": "You're my best friend.\nI'm here for you."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "'Cảm ơn' là vua của cảm xúc!",
+      "title": "Lời cảm ơn",
+      "content": "Thank you. I appreciate it. You made my day. Đa dạng cảm ơn giúp tấm lòng nghe sâu hơn.",
+      "emoji": "🙏",
+      "highlight": "Thank you.\nI appreciate it.\nYou made my day."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Học cả câu hỏi cảm xúc!",
+      "title": "Hỏi cảm xúc",
+      "content": "How do you feel? Are you OK? Người biết hỏi cảm xúc được tin gấp đôi người chỉ kể.",
+      "emoji": "❓",
+      "highlight": "How do you feel?\nAre you OK?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Câu đố! 'Mong quá!' tiếng Anh thế nào?",
+      "quizQuestion": "Tiếng Anh tự nhiên cho 'không thể chờ'?",
+      "quizChoices": [
+        "I'm excited!",
+        "I'm scared!",
+        "I'm tired!",
+        "I'm sorry!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "I'm excited! tự nhiên. 'I can't wait!' đồng nghĩa."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Cao thủ cảm xúc tiếng Anh! Kết bạn khắp thế giới 🌟",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉"
+    }
+  ]
+}

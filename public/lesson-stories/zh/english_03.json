@@ -1,0 +1,149 @@
+{
+  "title": "英语自我介绍",
+  "description": "把你的样子告诉世界！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "自我介绍是最强武器加鲁！3句话搞定✨",
+      "title": "从自我介绍开始",
+      "content": "本课学习「英语自我介绍」。3句话说出姓名、喜好、梦想，就能和任何人交朋友。",
+      "emoji": "🎤"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "先说名字！I'm ___ 就行！",
+      "title": "说出名字",
+      "content": "I'm Mika. My name is Mika.两种都行。说慢一点对方更容易听清。",
+      "emoji": "📛",
+      "highlight": "I'm ___ . / My name is ___ ."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "说出来自哪里，话题就拓宽！",
+      "title": "来自哪里",
+      "content": "I'm from Japan. 加上城市更有印象：I'm from Tokyo, Japan.亲切又清楚。",
+      "emoji": "🌏",
+      "highlight": "I'm from ___ . / I'm from ___, Japan."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "年龄和年级也加进自我介绍！",
+      "title": "年龄·年级",
+      "content": "I'm 10 years old. I'm a 5th grader.记住数字+年龄单位，或者年级的说法。",
+      "emoji": "🎂",
+      "highlight": "I'm 10 years old.\nI'm a 5th grader."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "说一个喜欢的东西话题就活了！",
+      "title": "说出喜好",
+      "content": "I like soccer. I love reading.love比like更强。选一个具体的，对方更好接话。",
+      "emoji": "💖",
+      "highlight": "I like ___ .\nI love ___ ."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "说出梦想印象立即提升！",
+      "title": "说出梦想",
+      "content": "I want to be a programmer. My dream is to make games.用want to be 〜（想成为）的句型最自然。",
+      "emoji": "🌟",
+      "highlight": "I want to be a ___ .\nMy dream is to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "结尾「很高兴认识你」一句！",
+      "title": "Nice to meet you!",
+      "content": "Nice to meet you!是初次见面的魔法。回应Nice to meet you, too!就完美。",
+      "emoji": "🤝",
+      "highlight": "Nice to meet you! → Nice to meet you, too!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "记住3句话的模板！",
+      "title": "3句话模板",
+      "content": "①名字 ②喜好 ③梦想 顺序说就行。越短越能留在对方脑中。",
+      "emoji": "📋",
+      "highlight": "1. I'm ___ .\n2. I love ___ .\n3. I want to be ___ ."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "出声练习反复练！录音也推荐！",
+      "title": "出声练习",
+      "content": "对着镜子带笑容大声说最有效。录下来重听，改进点自己就能发现。",
+      "emoji": "🎙️",
+      "highlight": "🪞 镜子练习\n🎙️ 录音\n👂 重听"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "小测验加鲁！「很高兴认识你」用英语怎么说？",
+      "quizQuestion": "初次见面的标准问候是？",
+      "quizChoices": [
+        "Nice to meet you!",
+        "How are you?",
+        "Goodbye!",
+        "Thank you!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Nice to meet you!是经典。回应时加too。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "你专属的3句自我介绍完成加鲁🌟",
+      "title": "课程完成！",
+      "emoji": "🎉"
+    }
+  ]
+}

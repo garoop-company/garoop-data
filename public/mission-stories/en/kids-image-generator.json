@@ -1,0 +1,105 @@
+{
+  "title": "AI Image Generation Mission",
+  "description": "A spy mission to make a one-of-a-kind picture with AI!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Image Agent! Today's mission is to make art with AI! 🎨",
+      "background": "lab",
+      "title": "Mission Briefing: Image Generation Operation",
+      "content": "Your task is to finish one original image using an AI image tool. Three success conditions: include subject, place, and mood; generate at least three times; pick a final image and explain why.",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "AI image generation turns 'words into pictures' like magic!",
+      "background": "spy",
+      "title": "What is AI Image Generation?",
+      "content": "Midjourney, DALL-E, and Stable Diffusion are AIs that produce a single image from a sentence. The more concrete your words, the closer the picture gets to what you imagined.",
+      "emoji": "🖼️",
+      "highlight": "Common tools:\n- Midjourney\n- DALL-E\n- Stable Diffusion"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Your prompt should always include subject, place, and mood!",
+      "background": "hq",
+      "title": "3-Element Prompt",
+      "content": "Always include 'who is the subject', 'where are they', and 'what's the mood'. The picture stays focused. Add color or time of day if it still feels off.",
+      "emoji": "📝",
+      "highlight": "3-element template:\nSubject: white cat\nPlace: space station\nMood: futuristic blue light"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Specifying a 'style' totally changes the vibe!",
+      "background": "spy",
+      "title": "Art Style",
+      "content": "Saying 'watercolor', 'pixel art', or 'Studio Ghibli style' transforms the same subject into completely different art. Save the words you love for next time.",
+      "emoji": "🎭",
+      "highlight": "Style examples:\n- Watercolor\n- Pixel art\n- 3D render\n- Comic style"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Send the prompt and make three versions!",
+      "background": "lab",
+      "title": "Operation: Three Versions",
+      "content": "Generate three versions of the same subject with only the style changed. The differences make your taste visible. Pick a favorite and write down why you chose it.",
+      "emoji": "🧪",
+      "highlight": "Compare:\nA: Watercolor\nB: Pixel art\nC: 3D render"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "If it's not what you wanted, use 'negative prompts' too!",
+      "background": "hq",
+      "title": "Negative Prompts",
+      "content": "If you wanted a night scene but got a day scene, list what to avoid. 'Exclude daytime, bright backgrounds' steers the generator more accurately.",
+      "emoji": "🚫",
+      "highlight": "How to avoid:\n- 'Exclude X'\n- 'Do not use X'\n- 'Replace X with Y'"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Give your chosen image a title and a one-line comment!",
+      "background": "spy",
+      "title": "Make It a Work",
+      "content": "It stops being 'just a generated image' once you add a title and a short comment. Even one line on 'why this picture' is enough to make it a piece.",
+      "emoji": "🖋️",
+      "highlight": "Work template:\n- Title\n- One-line concept\n- Style used"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mission complete! Submit your work to earn 450 points! 🎉",
+      "background": "lab",
+      "title": "Mission Complete!",
+      "content": "AI image generation is less about 'drawing' and more about 'guiding with words'. Every word in your prompt builds the world inside the frame.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

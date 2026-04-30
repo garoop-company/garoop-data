@@ -1,0 +1,149 @@
+{
+  "title": "Sapaan Bahasa Inggris",
+  "description": "Sapaan ajaib yang mengubah harimu!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Sapaan adalah langkah pertama bahasa Inggris! Beri lawan bicara senyum 👋",
+      "title": "Mulai dengan sapaan",
+      "content": "Pelajaran 'Sapaan bahasa Inggris' membuatmu menyusutkan jarak dengan orang yang baru ditemui hanya dengan satu kalimat singkat.",
+      "emoji": "👋"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Hello bisa dipakai kapan saja!",
+      "title": "Hello — Serbaguna",
+      "content": "Hello adalah sapaan dasar yang cocok kapan saja. Mau sedikit akrab pakai 'Hi there'.",
+      "emoji": "👋",
+      "highlight": "Hello / Hi / Hi there"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Ada juga sapaan menurut waktu!",
+      "title": "Pagi, Siang, Malam",
+      "content": "Good morning, Good afternoon, Good evening. Sesuai waktu akan memberi kesan baik.",
+      "emoji": "🌅",
+      "highlight": "🌅 Good morning\n☀️ Good afternoon\n🌙 Good evening"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'How are you?' adalah kata kunci pertemanan!",
+      "title": "How are you?",
+      "content": "Saat ditanya, jawab 'I'm good' atau 'Not bad'. Tambahkan 'And you?' agar percakapan berlanjut.",
+      "emoji": "💬",
+      "highlight": "Q: How are you?\nA: I'm good, and you?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Belajar juga ucapan perpisahan berpasangan!",
+      "title": "Mengucapkan selamat tinggal",
+      "content": "Goodbye agak formal. Dengan teman, 'See you' atau 'Bye' sudah cukup. Bila ada janji bertemu lagi, 'See you tomorrow'.",
+      "emoji": "👋",
+      "highlight": "Bye / See you / See you tomorrow"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "'Thank you' adalah sihir universal!",
+      "title": "Kekuatan Thank You",
+      "content": "Kamu boleh mengucap Thank you berkali-kali sehari. Thanks versi santai. Untuk syukur dalam, Thank you so much.",
+      "emoji": "🙏",
+      "highlight": "Thanks / Thank you / Thank you so much"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Bisa minta maaf juga keren!",
+      "title": "Permintaan maaf",
+      "content": "I'm sorry adalah maaf dasar. Saat menabrak orang, 'Sorry!' sudah cukup. Maaf yang dalam tambahkan 'really'.",
+      "emoji": "🙇",
+      "highlight": "Sorry / I'm sorry / I'm really sorry"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Sapaan + senyum = efek tiga kali lipat!",
+      "title": "Senyum dan Kontak Mata",
+      "content": "Sapaan bahasa Inggris bukan hanya di mulut tapi juga di mata dan wajah. Dengan senyum dan kontak mata, Hello yang sama terasa berbeda.",
+      "emoji": "😊",
+      "highlight": "🎯 Kata + Senyum + Mata = Sapaan yang sampai"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Jadikan sapaan rutinitas harian!",
+      "title": "Bangun Kebiasaan Menyapa",
+      "content": "Sapa keluarga atau teman dalam bahasa Inggris tiga kali sehari. Semakin sering, semakin alami keluar.",
+      "emoji": "🔁",
+      "highlight": "Pagi: Good morning\nSiang: How are you?\nMalam: Good night"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Saatnya kuis! Bagaimana menjawab 'How are you?'?",
+      "quizQuestion": "Mana jawaban paling alami untuk 'How are you?'",
+      "quizChoices": [
+        "I'm good, and you?",
+        "Yes, I am.",
+        "Thank you very much.",
+        "Hello!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Jawab 'I'm good', lalu tambahkan 'And you?' untuk membalikkan ke lawan bicara."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Mulai hari ini kamu master sapaan! 🌟",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉"
+    }
+  ]
+}

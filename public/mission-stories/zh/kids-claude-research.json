@@ -1,0 +1,105 @@
+{
+  "title": "Claude调研任务",
+  "description": "用Claude进行深度调研的间谍任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "调研特工！这次用Claude进行正式调研加鲁！🕵️📚",
+      "background": "lab",
+      "title": "任务指令：调研作战",
+      "content": "任务是用Claude多角度调查一个主题，用3行总结要点。完成条件3个：至少确认1个出处、查看正反两方意见、用自己的话写出结论。",
+      "emoji": "📚",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Claude特别擅长长文整理加鲁！",
+      "background": "spy",
+      "title": "Claude是什么？",
+      "content": "Claude是擅长读懂长文并对比多种信息进行整理的AI。比起短问题，把资料贴上去一起讨论时威力更大。",
+      "emoji": "🧠",
+      "highlight": "拿手好戏：\n・长文摘要\n・多视角整理\n・观点对比"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "把主题变成「问题」调研就开始了加鲁！",
+      "background": "hq",
+      "title": "转化成问题",
+      "content": "「AI」这种主题太宽泛。改成「AI会抢走小学生的作业吗？」就能从正反两面调研。",
+      "emoji": "❓",
+      "highlight": "问题模式：\n・〜是真的吗\n・〜改变了什么\n・〜需要什么"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "不要只听一边！正反两方都要听加鲁！",
+      "background": "spy",
+      "title": "正反两面",
+      "content": "向Claude分别要「赞成的3个理由」和「反对的3个理由」，最后再问「综合双方的结论」，思维就会清晰。",
+      "emoji": "⚖️",
+      "highlight": "提问方式：\n1. 赞成3点\n2. 反对3点\n3. 你的结论"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "把资料贴上去一起读吧！",
+      "background": "lab",
+      "title": "资料阅读",
+      "content": "把新闻或书的一部分粘贴上去，让Claude「从中提取3个要点」，长文理解就变快。出处链接或页码记得保留以便日后核实。",
+      "emoji": "📰",
+      "highlight": "提问方式：\n・3个要点\n・解释难懂词\n・对我的影响"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "AI的回答也要怀疑加鲁！必须用自己的脑子核实！",
+      "background": "hq",
+      "title": "事实核查",
+      "content": "AI也会出错，重要的数字或人名要用另一个信息源核实。反问Claude「这个信息的依据是什么？」也很有效。",
+      "emoji": "🔍",
+      "highlight": "核查方法：\n・数字看原始数据\n・人名看官方网站\n・日期看新闻记录"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "最后用自己的话写3行总结！",
+      "background": "spy",
+      "title": "3行总结",
+      "content": "第1行写问题，第2行写发现，第3行写自己的观点。套这个模板，再短的报告也能讲清楚。",
+      "emoji": "📝",
+      "highlight": "3行报告：\n问题 → 发现 → 我的看法"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "任务完成加鲁！上传3行总结领取460积分！🎯",
+      "background": "lab",
+      "title": "任务完成！",
+      "content": "调研不是收集答案，而是锻炼「提问的肌肉」。结合AI与事实核查，你将比任何人更快更深地了解世界。",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

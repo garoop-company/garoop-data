@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "设定目标",
+      "speech": "有目标每日修行就改变加鲁🎯",
+      "emoji": "🎯",
+      "background": "mountain",
+      "garuchanAnimation": "float",
+      "content": "用一句话写「3个月后想做到什么」。不管能不能，先写出想成为的样子，才能持续。",
+      "highlight": "目标写法：\n・期限\n・对象\n・想成为的样子"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "回顾时间",
+      "speech": "周末5分钟回顾加鲁📝",
+      "emoji": "📝",
+      "background": "temple",
+      "garuchanAnimation": "bounce",
+      "content": "周末写3点：做到的、没做到的、下周做的。持续做能看清自己的习惯和成长。",
+      "highlight": "回顾3点：\n・做到\n・没做到\n・下周"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

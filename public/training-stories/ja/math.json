@@ -1,0 +1,105 @@
+{
+  "title": "算数修行",
+  "description": "数の感覚と問題を解く力を鍛えよう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "算数道場へようこそガル！数字の世界を探検しよう🔢",
+      "background": "mountain",
+      "title": "算数道場",
+      "content": "算数修行では、計算の速さだけでなく、問題を「絵」や「身近な例」に置き換える力を鍛える。式を覚える前に、何を求めているのかを言葉で説明できるようにしよう。",
+      "emoji": "🔢",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "問題は「言いかえる」ことから始めるガル！",
+      "background": "dojo",
+      "title": "問題を絵にする",
+      "content": "文章題はそのままだと難しく見える。出てくる人や物を絵や図にすると、足し算なのか引き算なのかが見えてくる。手で書いて確かめよう。",
+      "emoji": "🖼️",
+      "highlight": "言いかえ手順:\n1. 出てくる物を書く\n2. 関係を矢印で結ぶ\n3. 求めるものに丸"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "「だいたいいくつ？」を考えると間違いに気づきやすいガル！",
+      "background": "bamboo",
+      "title": "見積もりの修行",
+      "content": "計算する前に「答えはだいたいどれくらいか」を予想しておくと、桁を間違えたときにすぐ気づける。100の位、1000の位の感覚を持っておこう。",
+      "emoji": "🎯",
+      "highlight": "見積もりの例:\n・98×21 → 約2000\n・1.2×3 → 約3.6"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "公式は「いつ使うか」をセットで覚えるガル！",
+      "background": "mountain",
+      "title": "公式の修行",
+      "content": "公式は「面積」「速さ」「割合」など、それぞれ場面が決まっている。数字を見ただけで何の公式か思い出せるよう、場面と一緒に頭に入れよう。",
+      "emoji": "📐",
+      "highlight": "セット記憶:\n・速さ＝距離÷時間\n・面積＝たて×よこ\n・割合＝比べる量÷もとの量"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "間違いノートを作るガル！同じミスを2回しないために！",
+      "background": "dojo",
+      "title": "ミスノート",
+      "content": "テストや宿題で間違えた問題は、原因と直し方をノートに残そう。「うっかり」「やり方を知らない」「読み間違い」と原因を分けると対策が立てやすい。",
+      "emoji": "📓",
+      "highlight": "ミスの3分類:\n・うっかり\n・やり方不明\n・読み間違い"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "今日の挑戦は「身近なものを数で表す」ガル！",
+      "background": "bamboo",
+      "title": "数を見つける",
+      "content": "家の中で「○○の数」「△△の長さ」「□□の重さ」を3つ見つけて書き出してみよう。算数は教科書の中だけでなく、生活の中に山ほどある。",
+      "emoji": "🔍",
+      "highlight": "見つけ方:\n・キッチンの食器の数\n・部屋の壁の長さ\n・ペットボトルの重さ"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "AIにヒントをもらうのもアリガル！答えではなく道筋を聞くよ！",
+      "background": "mountain",
+      "title": "AIと算数",
+      "content": "難しい問題はAIに「答えは見せず、解き方の手順だけ教えて」と頼むと、自分の力で最後までたどり着ける。ヒントを少しずつ受け取るのがコツだ。",
+      "emoji": "🤖",
+      "highlight": "AIへの頼み方:\n・答えは隠して\n・最初のヒントだけ\n・図にして説明して"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "算数修行おつかれガル！数字と仲良くなれたかな？🌟",
+      "background": "temple",
+      "title": "修行完了！",
+      "content": "算数の本当の力は、答えを出すことより「考え方を説明できる」ことにある。今日見つけた身近な数を1つ、家族に話してみよう。",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

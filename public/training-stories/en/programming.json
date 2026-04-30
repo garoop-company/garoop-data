@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Organize with Functions",
+      "speech": "Functions = box with one name for one job! 📦",
+      "emoji": "📦",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "When the same logic appears three times, it's time for a function. Name with 'verb + object' so future you can read it.",
+      "highlight": "Sign to wrap:\n- Used 3 times\n- Name reveals intent"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "The Debug Way",
+      "speech": "Bugs are signals of 'something off'! 🐞",
+      "emoji": "🐞",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "When you spot a bug, drop print or console.log to check 'I got this far'. Pinpointing the place is half the fix.",
+      "highlight": "Debug 3 steps:\n1. Reproduce\n2. Add prints\n3. Narrow the cause"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

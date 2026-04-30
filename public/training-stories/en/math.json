@@ -1,0 +1,105 @@
+{
+  "title": "Math Training",
+  "description": "Train your number sense and problem-solving!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Welcome to the Math Dojo! Let's explore the world of numbers! 🔢",
+      "background": "mountain",
+      "title": "Math Dojo",
+      "content": "In math training, what matters is not only calculation speed but also the skill of turning a problem into a 'picture' or familiar example. Before memorizing formulas, learn to explain in words what you're solving.",
+      "emoji": "🔢",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Solving starts with 'rephrasing' the problem!",
+      "background": "dojo",
+      "title": "Picture the Problem",
+      "content": "Word problems look hard as text. Sketch the people and things in them, and you'll see whether to add or subtract. Try writing it out by hand.",
+      "emoji": "🖼️",
+      "highlight": "Rephrase steps:\n1. Write the items\n2. Connect them with arrows\n3. Circle what you need to find"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Asking 'roughly how much?' helps catch mistakes fast!",
+      "background": "bamboo",
+      "title": "Estimation Training",
+      "content": "Before calculating, predict 'about how big the answer should be'. If you misplace a digit, you'll notice instantly. Build a feel for hundreds and thousands.",
+      "emoji": "🎯",
+      "highlight": "Estimation examples:\n- 98×21 → about 2000\n- 1.2×3 → about 3.6"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Memorize formulas together with 'when to use them'!",
+      "background": "mountain",
+      "title": "Formula Training",
+      "content": "Each formula belongs to a setting — area, speed, ratio. Pair the formula with its scene so that just seeing the numbers reminds you which one applies.",
+      "emoji": "📐",
+      "highlight": "Pair memory:\n- Speed = distance ÷ time\n- Area = length × width\n- Ratio = compared / base"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Make a 'mistake notebook'! No same mistake twice!",
+      "background": "dojo",
+      "title": "Mistake Notebook",
+      "content": "Record problems you got wrong with the cause and the fix. Sort causes into 'careless', 'method unknown', 'misread' so countermeasures fit each.",
+      "emoji": "📓",
+      "highlight": "3 mistake types:\n- Careless\n- Method unknown\n- Misread"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Today's challenge: 'turn things around you into numbers'!",
+      "background": "bamboo",
+      "title": "Find the Numbers",
+      "content": "Find three things at home — count of X, length of Y, weight of Z — and write them down. Math is everywhere outside the textbook.",
+      "emoji": "🔍",
+      "highlight": "Finds:\n- Kitchen plates count\n- Wall length\n- Bottle weight"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Getting hints from AI is OK! Ask for the path, not the answer!",
+      "background": "mountain",
+      "title": "AI and Math",
+      "content": "For tough problems, ask the AI: 'don't show the answer, just walk me through the steps'. Receiving hints little by little lets you finish on your own.",
+      "emoji": "🤖",
+      "highlight": "How to ask AI:\n- Hide the answer\n- Just the first hint\n- Explain with a diagram"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Great training! Friends with numbers yet? 🌟",
+      "background": "temple",
+      "title": "Training Complete!",
+      "content": "The real power of math is being able to explain your reasoning, not just produce an answer. Share one of today's numbers with your family.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

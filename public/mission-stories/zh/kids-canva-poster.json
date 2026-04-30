@@ -1,0 +1,105 @@
+{
+  "title": "Canva海报任务",
+  "description": "用Canva制作原创海报的间谍任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "海报特工！用Canva做1张海报加鲁🖼️",
+      "title": "任务指令：海报作战",
+      "content": "任务：用Canva完成一张原创海报。完成条件3个：决定要传达的1个信息、使用1张照片、按A4尺寸制作。",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Canva是新手好朋友加鲁！",
+      "title": "什么是Canva？",
+      "content": "Canva有大量模板。浏览器或App都能用，拖拽就能设计。",
+      "emoji": "✨",
+      "highlight": "Canva优点：\n・模板多\n・浏览器可用\n・免费素材"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "用一句话决定主题！",
+      "title": "设定主题",
+      "content": "「劝读书的海报」「文化节宣传海报」，给谁、传达什么用一句话。",
+      "emoji": "🎯",
+      "highlight": "主题型：\n给谁的 + 传达什么"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "选模板！",
+      "title": "选模板",
+      "content": "搜「海报」会出大量模板。选氛围接近的，只改文字和颜色更快。",
+      "emoji": "📋",
+      "highlight": "选择：\n・按氛围\n・按字数\n・按颜色"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "让信息显眼！",
+      "title": "作战实施：标题",
+      "content": "海报3秒被看到。最大字＝核心信息。控制在10字以内印象更深。",
+      "emoji": "📢",
+      "highlight": "标题要点：\n・大\n・10字以内\n・抢眼颜色"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "加1张图片！",
+      "title": "视觉素材",
+      "content": "Canva免费素材数百万。一张符合主题的图就能塑造氛围。",
+      "emoji": "📸",
+      "highlight": "视觉选法：\n・贴合主题\n・只选1张\n・留白"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "打印留下实物！",
+      "title": "下载和打印",
+      "content": "右上下载可保存PDF或JPG。打印贴墙上的成就感和数字版不同。",
+      "emoji": "🖨️",
+      "highlight": "保存：\n・PDF（打印用）\n・JPG（分享用）"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "任务完成加鲁！上传图片得400积分🚀",
+      "title": "任务完成！",
+      "content": "完成的标志是「3秒能看懂主题」。给1个人看，确认能否3秒理解。",
+      "emoji": "🚀"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Nhiệm vụ Nghiên cứu Claude",
+  "description": "Nhiệm vụ điệp viên nghiên cứu sâu cùng Claude!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Đặc vụ Nghiên cứu! Hôm nay nghiên cứu nghiêm túc với Claude! 🕵️📚",
+      "background": "lab",
+      "title": "Lệnh nhiệm vụ: Chiến dịch Nghiên cứu",
+      "content": "Nhiệm vụ là điều tra một chủ đề từ nhiều góc với Claude và tóm gọn trong 3 dòng. Ba điều kiện: xác nhận ít nhất 1 nguồn, xem cả ý kiến ủng hộ lẫn phản đối, viết kết luận bằng lời của mình.",
+      "emoji": "📚",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Claude rất giỏi sắp xếp văn bản dài!",
+      "background": "spy",
+      "title": "Claude là gì?",
+      "content": "Claude là AI giỏi đọc tài liệu dài và so sánh nhiều thông tin. Nó phát huy nhất khi bạn dán tài liệu vào và thảo luận, không chỉ hỏi câu ngắn.",
+      "emoji": "🧠",
+      "highlight": "Điểm mạnh:\n- Tóm tắt văn bản dài\n- Sắp xếp nhiều quan điểm\n- So sánh luận điểm"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Biến chủ đề thành 'câu hỏi' là bắt đầu nghiên cứu!",
+      "background": "hq",
+      "title": "Chuyển thành câu hỏi",
+      "content": "Chủ đề như 'AI' quá rộng. Đổi thành 'AI có cướp bài tập của học sinh tiểu học không?' thì có thể nghiên cứu cả hai phía.",
+      "emoji": "❓",
+      "highlight": "Mẫu câu hỏi:\n- ~ có thật không\n- ~ đã thay đổi điều gì\n- ~ cần những gì"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Đừng nghe một phía! Nghe cả ủng hộ lẫn phản đối!",
+      "background": "spy",
+      "title": "Cả hai phía",
+      "content": "Hỏi Claude '3 lý do ủng hộ' và '3 lý do phản đối' riêng rẽ, rồi hỏi 'kết luận tổng hợp cả hai'. Suy nghĩ sẽ rõ ràng.",
+      "emoji": "⚖️",
+      "highlight": "Cách hỏi:\n1. 3 lý do ủng hộ\n2. 3 lý do phản đối\n3. Kết luận của bạn"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Dán tài liệu vào và đọc cùng nhau!",
+      "background": "lab",
+      "title": "Đọc tài liệu",
+      "content": "Dán bài báo hoặc đoạn sách rồi nhờ 'rút 3 ý chính từ đây' — văn bản dài hiểu nhanh hẳn. Lưu link nguồn hoặc số trang để kiểm tra sau.",
+      "emoji": "📰",
+      "highlight": "Cách hỏi:\n- 3 ý chính\n- Giải thích từ khó\n- Ảnh hưởng tới mình"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Nghi ngờ cả AI! Luôn tự xác minh bằng đầu của mình!",
+      "background": "hq",
+      "title": "Kiểm tra sự thật",
+      "content": "AI cũng có thể sai, hãy xác minh số liệu hay tên riêng quan trọng bằng nguồn khác. Hỏi ngược Claude 'Căn cứ ở đâu?' cũng rất hữu ích.",
+      "emoji": "🔍",
+      "highlight": "Phương pháp kiểm tra:\n- Số liệu ở dữ liệu gốc\n- Tên ở trang chính thức\n- Ngày tháng ở báo chí"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Cuối cùng, hãy tóm tắt 3 dòng bằng lời của mình!",
+      "background": "spy",
+      "title": "Tóm tắt 3 dòng",
+      "content": "Dòng 1: câu hỏi. Dòng 2: phát hiện. Dòng 3: ý kiến của bạn. Theo khung này, dù báo cáo ngắn vẫn rõ ràng.",
+      "emoji": "📝",
+      "highlight": "Báo cáo 3 dòng:\nCâu hỏi → Phát hiện → Quan điểm của tôi"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Hoàn thành nhiệm vụ! Nộp tóm tắt 3 dòng để nhận 460 điểm! 🎯",
+      "background": "lab",
+      "title": "Hoàn thành nhiệm vụ!",
+      "content": "Nghiên cứu không phải gom đáp án mà là rèn 'cơ bắp đặt câu hỏi'. Kết hợp AI và kiểm chứng, bạn sẽ biết nhanh và sâu hơn ai hết.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

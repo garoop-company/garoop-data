@@ -1,0 +1,149 @@
+{
+  "title": "English at School",
+  "description": "English you can use in school life!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "School English works with teachers and friends! 🏫",
+      "title": "English at School",
+      "content": "This lesson is about English at school. Class, break time, the classroom, the library — phrases for everyday school life.",
+      "emoji": "🏫"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Can you say subjects in English?",
+      "title": "Subjects",
+      "content": "math, science, English, history, music, P.E. Start from the subject you like — it's easier to remember.",
+      "emoji": "📚",
+      "highlight": "math / science / English\nhistory / music / P.E."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Magic words to ask the teacher!",
+      "title": "Asking the Teacher",
+      "content": "Excuse me, can I ask a question? I don't understand. The courage to ask doubles your learning speed. Raise a hand, then say it.",
+      "emoji": "🙋",
+      "highlight": "Can I ask a question?\nI don't understand."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'Say it again' is super important!",
+      "title": "Asking to Repeat",
+      "content": "Could you say that again, please? Could you speak slowly? It's fine to miss it — just ask again.",
+      "emoji": "👂",
+      "highlight": "Could you say that again?\nCould you speak slowly?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Try saying classroom tools in English!",
+      "title": "Classroom Tools",
+      "content": "pen, pencil, eraser, notebook, textbook, ruler. Practice 'Can I borrow your pencil?' — useful in class.",
+      "emoji": "✏️",
+      "highlight": "pen / pencil / eraser\nnotebook / textbook / ruler"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Check the homework English too!",
+      "title": "Homework",
+      "content": "What's the homework? I finished my homework. Use them with friends as-is.",
+      "emoji": "📝",
+      "highlight": "What's the homework?\nI finished my homework."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Talk in English during break time!",
+      "title": "Break Time",
+      "content": "Let's play together! Want to join us? Inviting friends in English builds an English-speaking gang.",
+      "emoji": "⏰",
+      "highlight": "Let's play together!\nWant to join us?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Share test feelings too!",
+      "title": "Tests",
+      "content": "The test was hard. I did my best. After a test, sharing 'I did my best' is a universal encouragement.",
+      "emoji": "📋",
+      "highlight": "The test was hard.\nI did my best."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Say 'Good work' when school ends!",
+      "title": "Going Home",
+      "content": "See you tomorrow! Good job today! End-of-day greetings convey care for the friends you'll see again.",
+      "emoji": "🌅",
+      "highlight": "See you tomorrow!\nGood job today!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Quiz! How do you politely ask 'Could you say it again?'",
+      "quizQuestion": "Which is the politest way to ask for repetition?",
+      "quizChoices": [
+        "Could you say that again, please?",
+        "Repeat!",
+        "What?",
+        "Hello again."
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Could you say that again, please? is the politest. The 'please' is key."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "School-English master! Use it tomorrow! 🌟",
+      "title": "Lesson Complete!",
+      "emoji": "🎉"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Tiếng Anh ở trường",
+  "description": "Tiếng Anh dùng được trong sinh hoạt học đường!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Tiếng Anh ở trường dùng được với cả thầy cô và bạn! 🏫",
+      "title": "Tiếng Anh ở trường",
+      "content": "Bài học 'Tiếng Anh ở trường'. Tiết học, giờ giải lao, lớp học, thư viện — câu nói dùng được trong sinh hoạt hàng ngày.",
+      "emoji": "🏫"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Bạn nói được tên môn học bằng tiếng Anh chưa?",
+      "title": "Môn học",
+      "content": "math, science, English, history, music, P.E. Bắt đầu từ môn yêu thích sẽ dễ nhớ.",
+      "emoji": "📚",
+      "highlight": "math / science / English\nhistory / music / P.E."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Câu thần kỳ để hỏi giáo viên!",
+      "title": "Hỏi giáo viên",
+      "content": "Excuse me, can I ask a question? I don't understand. Dũng cảm hỏi giúp tốc độ học tăng gấp đôi. Giơ tay rồi nói.",
+      "emoji": "🙋",
+      "highlight": "Can I ask a question?\nI don't understand."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "'Nói lại lần nữa' rất quan trọng!",
+      "title": "Nhờ nhắc lại",
+      "content": "Could you say that again, please? Could you speak slowly? Nghe sót cũng không sao, nhờ lại là được.",
+      "emoji": "👂",
+      "highlight": "Could you say that again?\nCould you speak slowly?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Đồ dùng trong lớp cũng nói tiếng Anh!",
+      "title": "Đồ dùng lớp học",
+      "content": "pen, pencil, eraser, notebook, textbook, ruler. Tập 'Can I borrow your pencil?' cũng tiện.",
+      "emoji": "✏️",
+      "highlight": "pen / pencil / eraser\nnotebook / textbook / ruler"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Cũng kiểm tra tiếng Anh bài tập!",
+      "title": "Bài tập về nhà",
+      "content": "What's the homework? I finished my homework. Dùng với bạn ngay tại chỗ.",
+      "emoji": "📝",
+      "highlight": "What's the homework?\nI finished my homework."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Giờ giải lao nói tiếng Anh!",
+      "title": "Giờ giải lao",
+      "content": "Let's play together! Want to join us? Câu rủ bạn bằng tiếng Anh sẽ làm tăng đồng đội nói tiếng Anh.",
+      "emoji": "⏰",
+      "highlight": "Let's play together!\nWant to join us?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Cũng chia sẻ cảm nhận sau bài kiểm tra!",
+      "title": "Bài kiểm tra",
+      "content": "The test was hard. I did my best. Sau kiểm tra, 'mình đã cố gắng' là lời động viên toàn cầu.",
+      "emoji": "📋",
+      "highlight": "The test was hard.\nI did my best."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Tan trường nói 'Vất vả rồi'!",
+      "title": "Tan trường",
+      "content": "See you tomorrow! Good job today! Lời chào kết thúc ngày, chuyển tâm tình tới bạn ngày mai.",
+      "emoji": "🌅",
+      "highlight": "See you tomorrow!\nGood job today!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Câu đố! Lịch sự nhờ nhắc lại bằng tiếng Anh?",
+      "quizQuestion": "Cách lịch sự nhất nhờ nhắc lại?",
+      "quizChoices": [
+        "Could you say that again, please?",
+        "Repeat!",
+        "What?",
+        "Hello again."
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Could you say that again, please? lịch sự và tự nhiên. 'please' là điểm mấu chốt."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Cao thủ tiếng Anh ở trường! Mai dùng nhé! 🌟",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉"
+    }
+  ]
+}

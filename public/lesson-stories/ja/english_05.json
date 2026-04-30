@@ -1,0 +1,149 @@
+{
+  "title": "食べ物と飲み物の英語",
+  "description": "海外でも好きなものを注文できるようになろう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "食べ物英語は世界どこでも使えるガル！🍔",
+      "title": "食の英語",
+      "content": "このレッスンでは「食べ物と飲み物の英語」を学ぶ。海外旅行や留学、レストランで自分の好きなものを注文できる力をつけよう。",
+      "emoji": "🍽️"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "好きな食べ物を英語で言える？",
+      "title": "食べ物の単語",
+      "content": "pizza, hamburger, sushi, ramen, sandwich, salad, rice, noodles. 好きなものから覚えるのが続けるコツ。",
+      "emoji": "🍕",
+      "highlight": "🍕 pizza  🍔 burger  🍣 sushi\n🍜 ramen  🥗 salad  🍚 rice"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "飲み物も忘れずに！",
+      "title": "飲み物",
+      "content": "water, milk, juice, tea, coffee, soda. 体に大事な水はwaterと覚えて。Can I have some water?は超便利。",
+      "emoji": "🥤",
+      "highlight": "💧 water  🥛 milk  🧃 juice\n🍵 tea  ☕ coffee  🥤 soda"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "「お腹すいた」「のどかわいた」で会話開始！",
+      "title": "状態を言う",
+      "content": "I'm hungry. I'm thirsty.のシンプルな2文を覚えれば、家でも外でも食事の会話が始められる。",
+      "emoji": "😋",
+      "highlight": "I'm hungry. (お腹すいた)\nI'm thirsty. (のどかわいた)"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "注文の魔法フレーズはこれ！",
+      "title": "注文する",
+      "content": "Can I have a hamburger, please? 礼儀正しくお願いする型。pleaseをつけると印象が一気に良くなる。",
+      "emoji": "📋",
+      "highlight": "Can I have ___, please?\nI'd like ___, please."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "好き嫌いも伝えられるとラクだよ！",
+      "title": "好き・嫌い",
+      "content": "I like sushi. I don't like onions. アレルギーがあるならI'm allergic to peanuts.も大事に覚えて。",
+      "emoji": "👍",
+      "highlight": "I like ___ .\nI don't like ___ .\nI'm allergic to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "食べた感想も英語で！",
+      "title": "感想を伝える",
+      "content": "It's delicious! Yummy! Tasty! 食事を楽しんでいるサインを言葉で伝えると、作ってくれた人も嬉しい。",
+      "emoji": "😋",
+      "highlight": "Delicious! / Yummy! / Tasty!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "「お会計お願いします」も大事！",
+      "title": "お会計",
+      "content": "Check, please. または Can I have the bill, please? どちらもレストランの最後で必須のフレーズ。",
+      "emoji": "💳",
+      "highlight": "Check, please.\nCan I have the bill?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "感謝の一言で気持ちよく終わろう！",
+      "title": "Thank you!",
+      "content": "Thank you for the meal. ごちそうさまの英語版。自分でも周りでもこの一言があると食事が温かくなる。",
+      "emoji": "🙏",
+      "highlight": "Thank you for the meal!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "クイズだガル！「水ください」を英語で？",
+      "quizQuestion": "「水をください」と丁寧に頼むには？",
+      "quizChoices": [
+        "Can I have some water, please?",
+        "Water!",
+        "Give me water.",
+        "Where is water?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Can I have some water, please? が一番丁寧で自然。please をつけるのがポイント。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "これで世界中のレストランで困らないガル🌟",
+      "title": "レッスン完了！",
+      "emoji": "🎉"
+    }
+  ]
+}

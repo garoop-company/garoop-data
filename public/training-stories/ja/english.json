@@ -1,0 +1,105 @@
+{
+  "title": "英語修行",
+  "description": "英語を「使える力」に変えていこう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "英語道場へようこそガル！世界とつながるカギを手に入れよう🌍",
+      "background": "mountain",
+      "title": "英語道場",
+      "content": "英語修行では、暗記より「使ってみる回数」を増やすことを大事にする。読む・聞く・話す・書くの4つは、別々ではなく交互に鍛えると伸びが早い。",
+      "emoji": "🌍",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "まずは「自分のことを話す英語」から始めようガル！",
+      "background": "dojo",
+      "title": "自分紹介の修行",
+      "content": "好きなもの、毎日していること、将来の夢の3つを英語で言えるようにしておくと、誰と話してもスタートできる。完璧な文法より、伝わる順番が大切だ。",
+      "emoji": "💬",
+      "highlight": "話せるとよい3要素:\n・好き\n・毎日のこと\n・夢"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "リスニングは「字幕＋音」のセットで力がつくガル！",
+      "background": "bamboo",
+      "title": "リスニング修行",
+      "content": "好きなアニメや動画を、最初は日本語字幕、次に英語字幕、最後に字幕なしで見ると、同じ内容で耳が3回鍛えられる。短い動画から始めよう。",
+      "emoji": "🎧",
+      "highlight": "3段階リスニング:\n1. 日本語字幕\n2. 英語字幕\n3. 字幕なし"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "AIと英会話するのもおすすめガル！恥ずかしがらず話せる！",
+      "background": "mountain",
+      "title": "AI英会話",
+      "content": "ChatGPTやClaudeに「英語で日常会話の相手をしてください」と頼むと、好きなだけ話せる練習場になる。間違えても評価されないので、声に出して試そう。",
+      "emoji": "🤖",
+      "highlight": "AI会話のコツ:\n・テーマを決める\n・1日5分でOK\n・間違いは直してもらう"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "覚えた表現は「短いメモ」に残すと忘れにくいガル！",
+      "background": "dojo",
+      "title": "フレーズ帳",
+      "content": "単語だけより、使う場面ごと覚えると忘れにくい。「お礼を言うとき」「お願いするとき」のように、シーン別に5つずつ集めると応用がきく。",
+      "emoji": "📓",
+      "highlight": "シーン例:\n・お礼\n・お願い\n・自分の意見"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "今日の挑戦は「30秒で自己紹介」ガル！",
+      "background": "bamboo",
+      "title": "30秒スピーチ",
+      "content": "30秒という制限があるから、本当に伝えたいことだけ残せる。録音して聞き直すと、発音の癖や直したい部分が自分で見つかる。",
+      "emoji": "⏱️",
+      "highlight": "30秒の組み立て:\n・あいさつ5秒\n・好きなこと15秒\n・夢10秒"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "毎日5分でいいガル！続けることが一番のコツ！",
+      "background": "mountain",
+      "title": "続けるコツ",
+      "content": "1日2時間より、毎日5分のほうが脳に残る。完璧を目指さず「今日も触った」を積み重ねれば、3か月後の自分は別人になる。",
+      "emoji": "🔁",
+      "highlight": "続け方:\n・時間を固定\n・小さく始める\n・記録を残す"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "英語修行おつかれガル！世界に向けて声を出していこう🌟",
+      "background": "temple",
+      "title": "修行完了！",
+      "content": "英語は試験のためでなく、世界の友達と話すための道具だ。今日の30秒スピーチを録音して、未来の自分が聞き返せるようにしておこう。",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

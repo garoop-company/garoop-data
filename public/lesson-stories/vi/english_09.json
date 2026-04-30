@@ -1,0 +1,149 @@
+{
+  "title": "Tiếng Anh Internet và Game",
+  "description": "Trò chuyện online với bạn bè khắp thế giới!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Hiểu tiếng Anh internet là chơi với bạn khắp thế giới! 🎮",
+      "title": "Tiếng Anh Internet và Game",
+      "content": "Bài học 'Tiếng Anh internet và game'. Chat, game, mạng xã hội — cửa ngõ đến bạn bè khắp hành tinh.",
+      "emoji": "🎮"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Nhớ các viết tắt chat phổ biến!",
+      "title": "Viết tắt chat",
+      "content": "lol (cười), brb (quay lại ngay), omg (ôi trời), gg (good game). Chat game cũng dùng nhiều.",
+      "emoji": "💬",
+      "highlight": "lol = laugh\nbrb = be right back\nomg = oh my god\ngg = good game"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Câu hay dùng trong game!",
+      "title": "Câu game",
+      "content": "Let's play! Nice shot! Watch out! Hô khẩu lệnh trong game nên ngắn và mạnh. Câu khích lệ thay đổi không khí.",
+      "emoji": "🎯",
+      "highlight": "Let's play!\nNice shot!\nWatch out!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Cũng nắm cơ bản mạng xã hội!",
+      "title": "Tiếng Anh mạng xã hội",
+      "content": "Follow me! DM me! Comment below! Cũng thường thấy trong caption.",
+      "emoji": "📱",
+      "highlight": "Follow me!\nDM me!\nComment below!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "'Thích!' bằng tiếng Anh nói thế này!",
+      "title": "Phản ứng",
+      "content": "Cool! Awesome! Nice! That's so cute! Đa dạng phản ứng giúp bình luận dễ trả lời hơn.",
+      "emoji": "👍",
+      "highlight": "Cool! / Awesome! / Nice!\nThat's so cute!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Câu nói khi vào đội!",
+      "title": "Vào đội",
+      "content": "Can I join? GG everyone! Vào lịch sự, ra lịch sự — vậy là 'đồng đội tốt'.",
+      "emoji": "🤝",
+      "highlight": "Can I join?\nGG everyone!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Câu nói khi gặp khó!",
+      "title": "Khi gặp khó",
+      "content": "I'm lost. What should I do? I'm AFK (rời bàn phím). AFK là Away From Keyboard, dùng nhiều.",
+      "emoji": "😵",
+      "highlight": "I'm lost.\nWhat should I do?\nI'm AFK."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Chú ý lời lẽ!",
+      "title": "Văn hóa mạng",
+      "content": "Please be kind. Don't be mean. Trực tuyến cũng là nói với người thật có khuôn mặt. Lòng tử tế là ngôn ngữ chung.",
+      "emoji": "🤝",
+      "highlight": "Please be kind.\nDon't be mean."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Kết thúc bằng lời chào tử tế!",
+      "title": "Trước khi logout",
+      "content": "Thanks for the game! See you next time! Kết thúc đẹp sẽ được mời chơi tiếp.",
+      "emoji": "👋",
+      "highlight": "Thanks for the game!\nSee you next time!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Câu đố! 'gg' nghĩa là gì?",
+      "quizQuestion": "'gg' trong chat game thường có nghĩa?",
+      "quizChoices": [
+        "good game",
+        "got going",
+        "go go",
+        "great gift"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "gg là good game. Sau trận, dùng để khen nhau."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Cao thủ tiếng Anh net! Chơi cùng thế giới! 🌟",
+      "title": "Hoàn thành bài học!",
+      "emoji": "🎉"
+    }
+  ]
+}

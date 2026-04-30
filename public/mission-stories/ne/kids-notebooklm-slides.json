@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "स्लाइड संरचना",
+      "speech": "स्लाइड 'परिचय → मुख्य → अन्त्य' ३ भागमा गाल्! 📊",
+      "emoji": "📊",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "पहिले के भन्ने, बीचमा विस्तार, अन्तमा फेरि निष्कर्ष। सरल तर बलियो संरचना।",
+      "highlight": "३ भाग:\n१. परिचय (समात्ने)\n२. मुख्य (विस्तार)\n३. अन्त्य (बस्ने)"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "एनिमेसनको प्रयोग",
+      "speech": "थोरै चालले बढी सुन्दर गाल्! ✨",
+      "emoji": "✨",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "एनिमेसन प्रति स्लाइड एक मात्र। धेरै भए पढ्न गाह्रो, थोरै भए छाप बढी।",
+      "highlight": "एनिमेसन नियम:\n• प्रति स्लाइड १\n• अर्थ हुँदा मात्र\n• चहलपहल नबढाउने"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

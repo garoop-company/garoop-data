@@ -1,0 +1,149 @@
+{
+  "title": "यात्राको अंग्रेजी",
+  "description": "विदेश यात्रामा अल्मलिनबाट बच्ने न्यूनतम अंग्रेजी!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "यात्रा अंग्रेजी भए जहाँ पनि जान सकिन्छ गाल्! ✈️",
+      "title": "यात्राको अंग्रेजी",
+      "content": "यो पाठ 'यात्राको अंग्रेजी' सिक्ने। विमानस्थल, होटेल, पर्यटन स्थलमा साँच्चै चाहिने वाक्य चयन गरेर सिकौं।",
+      "emoji": "🧳"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "विमानस्थलको पहिलो ढोका अध्यागमन!",
+      "title": "अध्यागमन",
+      "content": "'What's the purpose of your visit?' सोधे 'Sightseeing.' (पर्यटन) वा 'Studying.' (अध्ययन) एक शब्दमा भन्दा हुन्छ।",
+      "emoji": "🛂",
+      "highlight": "Q: Purpose of visit?\nA: Sightseeing. / Studying."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "होटेलमा 'मसँग बुकिङ छ' जादुई वाक्य!",
+      "title": "होटेल चेक-इन",
+      "content": "I have a reservation. My name is ___। यति भए नाममा चेक-इन हुन्छ। कुञ्जी 'I have a reservation.'",
+      "emoji": "🏨",
+      "highlight": "I have a reservation.\nMy name is ___ ."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "अल्मल भए 'Excuse me, where is ___?'",
+      "title": "बाटो सोध्ने",
+      "content": "Excuse me, where is the station? स्टेसन, बस स्टप, शौचालय आदि सोध्न आवश्यक वाक्य।",
+      "emoji": "🗺️",
+      "highlight": "Excuse me, where is ___ ?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "मूल्य सोध्ने वाक्य अति महत्त्वपूर्ण!",
+      "title": "मूल्य सोध्ने",
+      "content": "How much is this? किनमेलमा निश्चित प्रयोग। मूल्य ट्याग नभए पनि एक वाक्यले जानिन्छ।",
+      "emoji": "💰",
+      "highlight": "How much is this?\nHow much does it cost?"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "'अंग्रेजी राम्रो आउँदैन' पनि भन्न सकिन्छ!",
+      "title": "समस्यामा परेको",
+      "content": "I don't speak English well. Could you speak slowly, please? पूर्ण नभए पनि इमान्दारी सबभन्दा राम्रो।",
+      "emoji": "😅",
+      "highlight": "I don't speak English well.\nCould you speak slowly?"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Wi-Fi सोध्न सक्दा यात्रामा निश्चिन्त!",
+      "title": "Wi-Fi",
+      "content": "Is there Wi-Fi? What's the password? क्याफे वा होटेलमा यी दुई सोधे तुरुन्त जोडिन्छ।",
+      "emoji": "📶",
+      "highlight": "Is there Wi-Fi?\nWhat's the password?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "आपतकालीन वाक्य पनि जाँचौं!",
+      "title": "आपतकाल",
+      "content": "Help! Call the police! Where is the hospital? चाहिँदा छिटो निक्लियोस् भनेर ठूलो स्वरमा अभ्यास गरौं।",
+      "emoji": "🚨",
+      "highlight": "Help!\nCall the police!\nWhere is the hospital?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "यात्रा भेटको खजाना — कुराकानी आनन्द लिऔं!",
+      "title": "स्थानीयसँग कुरा",
+      "content": "'Where are you from?' संसारका यात्रुले पहिले सोध्ने प्रश्न। जवाफ 'I'm from Japan.' सरल भए हुन्छ!",
+      "emoji": "🌍",
+      "highlight": "Q: Where are you from?\nA: I'm from Japan."
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "क्विज गाल्! 'कति?' अंग्रेजीमा कसरी?",
+      "quizQuestion": "'यो कतिको हो?' अंग्रेजीमा कसरी?",
+      "quizChoices": [
+        "How much is this?",
+        "What is this?",
+        "Where is this?",
+        "Who is this?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "How much is this? मूल्य सोध्ने आधार वाक्य। किनमेलमा अनिवार्य।"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "अब यात्रामा डर लाग्दैन गाल् 🌟 संसार हेर्न जाऔं!",
+      "title": "पाठ पूरा!",
+      "emoji": "🎉"
+    }
+  ]
+}

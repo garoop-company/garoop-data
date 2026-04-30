@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "कस्टम डोमेन सेटिङ",
+      "speech": "आफ्नै डोमेन भए 'वास्तविक' अनुभूति दोब्बर गाल्! 🌐",
+      "emoji": "🌐",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Vercel सेटिङमा Custom Domain थप्न सकिन्छ। my-app.com जस्तै डोमेन भए सेवा तुरुन्तै वास्तविक हुन्छ।",
+      "highlight": "डोमेन चरण:\n१. Domains\n२. Add Domain\n३. DNS सेटिङ"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Environment Variable प्रयोग",
+      "speech": "गोप्य key कोडमा नराख्ने गाल्! 🔐",
+      "emoji": "🔐",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "API key र password लाई कोडमा होइन Vercel को environment variable मा राख्ने। कोड सार्वजनिक भए पनि key सुरक्षित।",
+      "highlight": "Env var नियम:\n• कोडमा होइन\n• ठूला अक्षरमा नाम\n• Vercel मा सेट"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

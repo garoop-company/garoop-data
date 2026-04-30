@@ -1,0 +1,149 @@
+{
+  "title": "Bahasa Inggris Internet dan Game",
+  "description": "Mengobrol online dengan teman dari seluruh dunia!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Mengerti bahasa Inggris internet bisa main bareng teman dunia! 🎮",
+      "title": "Bahasa Inggris Internet & Game",
+      "content": "Pelajaran 'Bahasa Inggris internet dan game'. Chat, game, media sosial — gerbang ke teman di seluruh dunia.",
+      "emoji": "🎮"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Hafal singkatan chat yang umum!",
+      "title": "Singkatan Chat",
+      "content": "lol (tawa), brb (segera kembali), omg (ya ampun), gg (good game). Sering juga di chat game.",
+      "emoji": "💬",
+      "highlight": "lol = laugh\nbrb = be right back\nomg = oh my god\ngg = good game"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Frasa sering dipakai di game!",
+      "title": "Frasa Game",
+      "content": "Let's play! Nice shot! Watch out! Aba-aba di tengah game harus singkat kuat. Kata semangat mengubah suasana.",
+      "emoji": "🎯",
+      "highlight": "Let's play!\nNice shot!\nWatch out!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Pelajari juga dasar media sosial!",
+      "title": "Bahasa Inggris Medsos",
+      "content": "Follow me! DM me! Comment below! Sering muncul di caption.",
+      "emoji": "📱",
+      "highlight": "Follow me!\nDM me!\nComment below!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "'Suka!' dalam bahasa Inggris dikatakan begini!",
+      "title": "Reaksi",
+      "content": "Cool! Awesome! Nice! That's so cute! Variasi reaksi membuat komentar lebih mudah dibalas.",
+      "emoji": "👍",
+      "highlight": "Cool! / Awesome! / Nice!\nThat's so cute!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Kalimat saat masuk tim!",
+      "title": "Masuk Tim",
+      "content": "Can I join? GG everyone! Masuk sopan, keluar sopan — begitulah jadi 'teman tim yang baik'.",
+      "emoji": "🤝",
+      "highlight": "Can I join?\nGG everyone!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Frasa saat kesulitan!",
+      "title": "Saat Sulit",
+      "content": "I'm lost. What should I do? I'm AFK (tinggalkan keyboard). AFK = Away From Keyboard, sering dipakai.",
+      "emoji": "😵",
+      "highlight": "I'm lost.\nWhat should I do?\nI'm AFK."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Hati-hati cara berbicara!",
+      "title": "Etiket Internet",
+      "content": "Please be kind. Don't be mean. Online pun bicara dengan manusia berwajah. Kebaikan adalah bahasa universal.",
+      "emoji": "🤝",
+      "highlight": "Please be kind.\nDon't be mean."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Tutup juga dengan sapaan yang baik!",
+      "title": "Sebelum Logout",
+      "content": "Thanks for the game! See you next time! Akhir yang bagus akan mendapat undangan main lagi.",
+      "emoji": "👋",
+      "highlight": "Thanks for the game!\nSee you next time!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Kuis! Apa arti gg?",
+      "quizQuestion": "Arti 'gg' di chat game biasanya?",
+      "quizChoices": [
+        "good game",
+        "got going",
+        "go go",
+        "great gift"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "gg = good game. Dipakai setelah pertandingan untuk saling memuji."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Master bahasa Inggris internet! Main dengan teman dunia! 🌟",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉"
+    }
+  ]
+}

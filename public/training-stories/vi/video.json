@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Cắt cảnh",
+      "speech": "Cắt cảnh tạo nhịp cho video! 🎬",
+      "emoji": "🎬",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "Cảnh quá dài sẽ chán. Đổi góc nhìn hoặc hình ảnh mỗi 3–5 giây giúp người xem dán mắt.",
+      "highlight": "Mẹo cắt:\n- Mỗi 3–5s\n- Đổi góc\n- Đổi kích thước"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Chọn BGM",
+      "speech": "BGM định cảm xúc! 🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "Nhạc tươi = năng lượng, lặng = cảm xúc, nhanh = phiêu lưu. Khớp hình ảnh với cảm xúc là nghề pro.",
+      "highlight": "Chọn BGM:\n- Khớp nhịp\n- Khớp cảm xúc\n- Lời nhẹ nhàng"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

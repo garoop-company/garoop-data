@@ -1,0 +1,105 @@
+{
+  "title": "起業修行",
+  "description": "アイデアを世界に届ける力を鍛えよう！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "起業道場へようこそ！アイデアを世界に届ける修行ガル💼",
+      "title": "起業道場",
+      "content": "起業修行では、ビジネスのテクニックより「誰の困りごとを解くか」を考える力を鍛える。最初は小さくでいいから、誰かに喜んでもらう一歩を踏み出そう。",
+      "emoji": "💼",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "dojo",
+      "speech": "まず「困りごと」を見つけるガル！",
+      "title": "課題発見",
+      "content": "良いビジネスは課題から生まれる。家族、友達、自分自身の毎日の小さな不便を3つメモしよう。それが宝の地図になる。",
+      "emoji": "🔍",
+      "highlight": "課題の見つけ方:\n・家族の困り\n・友達の困り\n・自分の困り"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "bamboo",
+      "speech": "解決アイデアを3つ考えよう！",
+      "title": "アイデア出し",
+      "content": "1つの課題に最低3つのアイデアを出すと、最初の発想に縛られない。AIにブレストの相手をしてもらうとアイデアが10倍に。",
+      "emoji": "💡",
+      "highlight": "発想ルール:\n・量を出す\n・批判しない\n・組み合わせる"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "mountain",
+      "speech": "ペルソナを描こう！",
+      "title": "誰のため？",
+      "content": "「13歳の中学2年生、サッカー部のさくら」のように、たった1人の使い手を細かく描く。みんなに合わせると誰にも刺さらない。",
+      "emoji": "👤",
+      "highlight": "ペルソナ要素:\n・年齢\n・好きなもの\n・困りごと"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "dojo",
+      "speech": "プロトタイプを早く作ろう！",
+      "title": "試作の修行",
+      "content": "完璧を目指さず、紙でも、AIで作った画面でもいい。早く誰かに見せて反応をもらうほど、本当に使える形に近づく。",
+      "emoji": "🛠️",
+      "highlight": "試作の鉄則:\n・3日で作る\n・人に見せる\n・直す"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "bamboo",
+      "speech": "値段とお金の流れも考えるガル！",
+      "title": "ビジネスモデル",
+      "content": "誰がお金を払うか、いくらか、何にコストがかかるか。3つを紙に書くだけで、ビジネスとして成り立つかが見えてくる。",
+      "emoji": "💰",
+      "highlight": "3つの問い:\n・誰が払う？\n・いくら？\n・何にコスト？"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "実は最初の顧客は身近にいるガル！",
+      "title": "最初のお客",
+      "content": "最初は家族や友達でいい。お金じゃなくても「ありがとう」「もっとほしい」の声が、起業の最初の証明になる。",
+      "emoji": "🤝",
+      "highlight": "最初の合格:\n・誰かが使った\n・感謝された\n・また欲しいと言われた"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "temple",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "起業修行おつかれガル！君のアイデアを世界に🌟",
+      "title": "修行完了！",
+      "content": "起業は大きく始める必要はない。小さな実験を繰り返した先に、世界を変える事業が生まれる。今日のアイデアを1つ試してみよう。",
+      "emoji": "🌟"
+    }
+  ]
+}

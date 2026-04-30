@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "图片整理术",
+      "speech": "资料整理后才好用加鲁🗂️",
+      "emoji": "🗂️",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "把收集的图片按主题分文件夹，文件名加日期和内容，就成了之后能搜索的宝藏。",
+      "highlight": "整理3规则：\n・按主题\n・名字带内容\n・加日期"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "说明文比赛",
+      "speech": "一行说明改变印象加鲁✏️",
+      "emoji": "✏️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "给图片加说明能加深理解。比起「事实」，加入「感受」更让人留印象。",
+      "highlight": "好说明：\n・简短\n・感受\n・少量惊喜"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

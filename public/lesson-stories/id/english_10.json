@@ -1,0 +1,149 @@
+{
+  "title": "Pekerjaan Masa Depan dan Bahasa Inggris",
+  "description": "Bawa pekerjaan impianmu ke dunia dengan kekuatan bahasa Inggris!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Apa pekerjaan impianmu? Dengan bahasa Inggris, panggungnya adalah dunia! 🌍",
+      "title": "Pekerjaan Impian dan Bahasa Inggris",
+      "content": "Pelajaran 'Pekerjaan masa depan dan bahasa Inggris'. Bahasa Inggris membuatmu menemukan pekerjaan impian di seluruh dunia. Hubungkan pekerjaan dan bahasa Inggris.",
+      "emoji": "🚀"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Programmer adalah pekerjaan global!",
+      "title": "Programmer",
+      "content": "Bahasa pemrograman, library, pesan error, dokumentasi — sebagian besar dalam bahasa Inggris. Tahu bahasa Inggris memperdalam pemahaman kode satu tingkat.",
+      "emoji": "💻",
+      "highlight": "Programming = global job\nDocs are mostly in English"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Kreator bisa memiliki fans di seluruh dunia!",
+      "title": "Kreator",
+      "content": "Ilustrasi, video, musik. Menulis caption dan komentar bahasa Inggris membuat karyamu menjangkau orang di mana pun.",
+      "emoji": "🎨",
+      "highlight": "Artist / YouTuber / Musician\n→ Reach the world"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Peneliti dan ilmuwan juga butuh bahasa Inggris!",
+      "title": "Peneliti",
+      "content": "Makalah, konferensi, kolaborasi internasional. Untuk belajar dan bekerja dengan peneliti global, bahasa Inggris tidak bisa ditawar.",
+      "emoji": "🔬",
+      "highlight": "Research = global team\nPapers in English"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Pengusaha bisa menantang pasar global!",
+      "title": "Pengusaha",
+      "content": "Ingin layananmu sampai ke dunia, desainlah dengan bahasa Inggris sejak hari pertama. Pasar tumbuh 10 kali lipat.",
+      "emoji": "💼",
+      "highlight": "Startup → Global market\n10x bigger world"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Medis dan kesejahteraan juga butuh bahasa Inggris!",
+      "title": "Medis & Kesejahteraan",
+      "content": "Kesehatan global, sukarelawan luar negeri, penelitian. Dengan bahasa Inggris, jumlah orang yang bisa kamu bantu meningkat.",
+      "emoji": "🏥",
+      "highlight": "Doctor / Nurse / Aid worker\n→ Help more people"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Pendidikan dan terjemahan adalah bintang masa depan!",
+      "title": "Pendidikan & Terjemahan",
+      "content": "Guru sekolah internasional, juru bahasa, spesialis terjemahan AI. Pekerjaan menjembatani bahasa makin dibutuhkan.",
+      "emoji": "📚",
+      "highlight": "Teacher / Interpreter / AI translator"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Era 'apa yang kamu suka' menjadi pekerjaan!",
+      "title": "Hobi jadi Pekerjaan",
+      "content": "Streamer game, kreator medsos, atlet esports. Profesi baru lahir dari hobi terus-menerus. Bahasa Inggris memperluas lingkaran.",
+      "emoji": "💖",
+      "highlight": "Streamer / Creator / Pro gamer"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Cek juga bahasa Inggris wawancara!",
+      "title": "Bahasa Inggris Wawancara",
+      "content": "Tell me about yourself. Why do you want this job? What's your strength? Perkenalan + alasan + kekuatan — siapkan tiga ini untuk menantang di seluruh dunia.",
+      "emoji": "🎤",
+      "highlight": "1. Tell me about yourself\n2. Why this job?\n3. Your strength?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Kuis! 'Tolong perkenalkan diri' bahasa Inggris untuk wawancara?",
+      "quizQuestion": "Pembuka wawancara standar dalam bahasa Inggris?",
+      "quizChoices": [
+        "Tell me about yourself.",
+        "Who are you?",
+        "Where are you?",
+        "What is your job?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Tell me about yourself. adalah pertanyaan pertama klasik di wawancara."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Bawa impianmu ke dunia! Bahasa Inggrismu membangun masa depan! 🌟",
+      "title": "Seri Selesai!",
+      "emoji": "🎉"
+    }
+  ]
+}

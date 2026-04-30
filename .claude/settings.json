@@ -7,7 +7,8 @@
       "Bash(mysql -h localhost -P 3306 -u garoop_kids -pgaroop_kids kids -e \"SELECT id, parent_id, title, locale, url, level FROM branch_lesson WHERE delete_flg=0 ORDER BY id DESC LIMIT 30;\")",
       "Bash(mysql -h localhost -P 3306 -u garoop_kids -pgaroop_kids kids -e \"DESCRIBE branch_lesson;\")",
       "Bash(mysql -h localhost -P 3306 -u garoop_kids -pgaroop_kids kids -e \"DESCRIBE parent_lesson;\")",
-      "Bash(mysql -h localhost -P 3306 -u garoop_kids -pgaroop_kids kids -e \"SELECT id, parent_id, title, locale, level, icon, content_path FROM branch_lesson WHERE delete_flg=0 ORDER BY id DESC LIMIT 30;\")"
+      "Bash(mysql -h localhost -P 3306 -u garoop_kids -pgaroop_kids kids -e \"SELECT id, parent_id, title, locale, level, icon, content_path FROM branch_lesson WHERE delete_flg=0 ORDER BY id DESC LIMIT 30;\")",
+      "Bash(python3 /tmp/gen_english_lessons.py)"
     ]
   }
 }

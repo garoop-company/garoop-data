@@ -1,0 +1,149 @@
+{
+  "title": "网络与游戏英语",
+  "description": "线上和世界各地的朋友交流！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "懂网络英语就能和世界玩家一起玩加鲁！🎮",
+      "title": "网络与游戏英语",
+      "content": "本课学习「网络与游戏英语」。聊天、游戏、社交媒体。打开和世界朋友交流的入口。",
+      "emoji": "🎮"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "记住聊天的常用缩写！",
+      "title": "聊天缩写",
+      "content": "lol（笑）, brb（马上回来）, omg（天哪）, gg（好局）。游戏聊天里也常见。",
+      "emoji": "💬",
+      "highlight": "lol = laugh\nbrb = be right back\nomg = oh my god\ngg = good game"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "游戏常用句！",
+      "title": "游戏句子",
+      "content": "Let's play! Nice shot! Watch out! 游戏中喊话要短促有力。一句鼓励就能改变气氛。",
+      "emoji": "🎯",
+      "highlight": "Let's play!\nNice shot!\nWatch out!"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "也来了解社交媒体基础！",
+      "title": "社交媒体英语",
+      "content": "Follow me! DM me! Comment below! 帖子说明里也常出现的基本句。",
+      "emoji": "📱",
+      "highlight": "Follow me!\nDM me!\nComment below!"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "「点赞」用英语这样说！",
+      "title": "反应表达",
+      "content": "Cool! Awesome! Nice! That's so cute! 反应多样化，对评论也更好回应。",
+      "emoji": "👍",
+      "highlight": "Cool! / Awesome! / Nice!\nThat's so cute!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "加入队伍的一句话！",
+      "title": "加入队伍",
+      "content": "Can I join? GG everyone! 礼貌加入礼貌结束，这样就能成为「好队友」。",
+      "emoji": "🤝",
+      "highlight": "Can I join?\nGG everyone!"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "遇到困难的句子！",
+      "title": "困难时",
+      "content": "I'm lost. What should I do? I'm AFK（离开键盘）。AFK是Away From Keyboard的缩写。",
+      "emoji": "😵",
+      "highlight": "I'm lost.\nWhat should I do?\nI'm AFK."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "注意说话方式！",
+      "title": "网络礼仪",
+      "content": "Please be kind. Don't be mean. 网络上也是和有脸的人对话。善意在哪里都通用。",
+      "emoji": "🤝",
+      "highlight": "Please be kind.\nDon't be mean."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "结束时也要好好告别！",
+      "title": "下线前",
+      "content": "Thanks for the game! See you next time! 结尾好就会被再次邀请。",
+      "emoji": "👋",
+      "highlight": "Thanks for the game!\nSee you next time!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "小测验加鲁！gg是什么意思？",
+      "quizQuestion": "游戏聊天里「gg」常见的意思？",
+      "quizChoices": [
+        "good game（好局）",
+        "got going",
+        "go go",
+        "great gift"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "gg是good game。比赛结束后互相称赞用。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "网络英语大师加鲁！和世界朋友玩🌟",
+      "title": "课程完成！",
+      "emoji": "🎉"
+    }
+  ]
+}

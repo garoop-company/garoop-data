@@ -1,0 +1,105 @@
+{
+  "title": "Misi Poster Canva",
+  "description": "Misi mata-mata membuat poster orisinal dengan Canva!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Agen Poster! Buat satu poster di Canva! 🖼️",
+      "title": "Briefing: Operasi Poster",
+      "content": "Misi: selesaikan satu poster orisinal dengan Canva. Tiga syarat: pilih satu pesan, pakai satu foto, ukuran A4.",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Canva sahabat pemula!",
+      "title": "Apa itu Canva?",
+      "content": "Canva penuh template. Browser atau aplikasi, drag-drop untuk desain mudah.",
+      "emoji": "✨",
+      "highlight": "Kelebihan Canva:\n- Banyak template\n- Browser OK\n- Aset gratis"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "Tetapkan tema dalam satu kalimat!",
+      "title": "Tema",
+      "content": "'Poster ajakan membaca', 'Poster festival sekolah' — tulis untuk siapa dan pesan apa dalam satu kalimat.",
+      "emoji": "🎯",
+      "highlight": "Pola tema:\nUntuk siapa + pesan"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "Pilih template!",
+      "title": "Pilih Template",
+      "content": "Cari 'poster' untuk banyak template. Pilih yang dekat suasanamu; hanya ubah teks dan warna agar cepat.",
+      "emoji": "📋",
+      "highlight": "Pilih dari:\n- Suasana\n- Panjang teks\n- Warna"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "Buat pesannya menonjol!",
+      "title": "Operasi: Headline",
+      "content": "Poster dibaca dalam 3 detik. Teks terbesar = pesanmu. Di bawah 10 kata untuk dampak.",
+      "emoji": "📢",
+      "highlight": "Aturan headline:\n- Besar\n- < 10 kata\n- Warna menonjol"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "Tambahkan satu foto!",
+      "title": "Visual",
+      "content": "Canva punya jutaan aset gratis. Satu foto sesuai tema membentuk seluruh perasaan.",
+      "emoji": "📸",
+      "highlight": "Pilih visual:\n- Sesuai tema\n- Satu saja\n- Sisakan ruang"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Cetak untuk versi nyata!",
+      "title": "Unduh & Cetak",
+      "content": "Tombol Download di kanan atas menyimpan PDF atau JPG. Mencetak dan menempel beda kepuasan dari digital.",
+      "emoji": "🖨️",
+      "highlight": "Simpan:\n- PDF (cetak)\n- JPG (bagikan)"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "Misi selesai! Kirim gambar dapat 400 poin 🚀",
+      "title": "Misi Selesai!",
+      "content": "Selesai berarti penonton mengerti dalam 3 detik. Tunjukkan ke satu orang untuk cek.",
+      "emoji": "🚀"
+    }
+  ]
+}

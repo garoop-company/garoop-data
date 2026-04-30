@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "उपयोगी एक्सटेन्सन",
+      "speech": "एक्सटेन्सनले VSCode लाई १० गुणा उपयोगी बनाउँछ गाल्! 🔌",
+      "emoji": "🔌",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Prettier (स्वचालित ढाँचा), Live Server (तुरुन्त प्रिभ्यू), GitLens (इतिहास दृश्य)। ३ ओटा मात्र राख्दा कामको गति निकै बढ्छ।",
+      "highlight": "३ आवश्यक:\n• Prettier\n• Live Server\n• GitLens"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "किबोर्ड सर्टकट",
+      "speech": "सर्टकट कण्ठ गर्दा पेसेवर देखिन्छ गाल्! ⌨️",
+      "emoji": "⌨️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Cmd+S (सेभ), Cmd+P (फाइल खोज), Cmd+Shift+P (command palette)। ३ ओटा मात्र भए माउस बिना काम सम्भव।",
+      "highlight": "कण्ठ ३:\n• Cmd+S\n• Cmd+P\n• Cmd+Shift+P"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

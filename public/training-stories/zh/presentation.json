@@ -1,0 +1,105 @@
+{
+  "title": "演讲修行",
+  "description": "锻炼把自己想法直击人心的能力！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "欢迎来到演讲道场加鲁！直击人心的修行开始🎤",
+      "background": "mountain",
+      "title": "演讲道场",
+      "content": "演讲修行不是练「会说话」，而是练「决定让对方带走什么」的能力。先确定最关键的一句话，结构自然就成型。",
+      "emoji": "🎤",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "先决定「想让对方带走的1句话」加鲁！",
+      "background": "dojo",
+      "title": "核心讯息",
+      "content": "决定演讲结束后想留在听众脑中的1句话。幻灯片和顺序都为支撑这1句话而存在。",
+      "emoji": "🎯",
+      "highlight": "1句话示例：\n・AI是新搭档\n・小尝试改变未来\n・我想做这个"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "按「结论→理由→例子」顺序最易传达加鲁！",
+      "background": "bamboo",
+      "title": "PREP结构",
+      "content": "Point（结论）、Reason（理由）、Example（例子）、Point（结论）的顺序，让你想说的内容在开头和结尾都清晰，短时间内也有力量。",
+      "emoji": "📝",
+      "highlight": "PREP：\n・P：结论\n・R：理由\n・E：例子\n・P：再次结论"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "幻灯片「1页1讯息」加鲁！",
+      "background": "mountain",
+      "title": "幻灯片设计",
+      "content": "1页塞满字没人看。标题写结论、正文简短、图片支撑。文字越少，听众越愿意听你说。",
+      "emoji": "🖼️",
+      "highlight": "1页=1讯息\n・标题=结论\n・正文≤3行\n・用图片或照片强化"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "声音和停顿也要练加鲁！声音传达7成！",
+      "background": "dojo",
+      "title": "声音与停顿",
+      "content": "重点词前停1秒，听众就会等下一句。注意音量、语速、停顿，同样的内容传达就完全不同。",
+      "emoji": "🗣️",
+      "highlight": "声音3要素：\n・音量\n・语速\n・停顿"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "今日挑战「1分钟介绍喜欢的东西」加鲁！",
+      "background": "bamboo",
+      "title": "1分钟演讲",
+      "content": "选一部喜欢的动画、书、地点，1分钟介绍。运用核心讯息、PREP、声音3要素，短演讲也能很专业。",
+      "emoji": "⏱️",
+      "highlight": "1分钟结构：\n・10秒：结论\n・30秒：理由+例子\n・20秒：再次结论"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "结束后能收到「1个提问」就最强加鲁！",
+      "background": "mountain",
+      "title": "邀请提问",
+      "content": "演讲最后说「这里有想问的吗？」，就能看出听众的理解度。下次该强化哪里也清晰了。",
+      "emoji": "❓",
+      "highlight": "邀请方式：\n・末尾留时间\n・说「1个就好」\n・把答案记下来"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "演讲修行辛苦加鲁！用你的声音推动世界🌟",
+      "background": "temple",
+      "title": "修行完成！",
+      "content": "演讲不是「会说」的技术，而是「设计去打动人」。记住今天定下的1句话，作为下次演讲的开头。",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

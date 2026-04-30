@@ -1,0 +1,105 @@
+{
+  "title": "Claude Research Mission",
+  "description": "A spy mission to do deep research with Claude!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Research Agent! Today's mission is real research with Claude! 🕵️📚",
+      "background": "lab",
+      "title": "Mission Briefing: Research Operation",
+      "content": "Your task is to investigate one topic from multiple angles using Claude and summarize it in three lines. Three success conditions: confirm at least one source, look at both pros and cons, and write the conclusion in your own words.",
+      "emoji": "📚",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Claude is especially good at organizing long text!",
+      "background": "spy",
+      "title": "What is Claude?",
+      "content": "Claude is an AI that excels at reading long documents and comparing several pieces of information. It really shines when you paste material and discuss it, not just send a short question.",
+      "emoji": "🧠",
+      "highlight": "Strong points:\n- Summarizing long text\n- Comparing viewpoints\n- Sorting arguments"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Turn the topic into a 'question' to start the research!",
+      "background": "hq",
+      "title": "Turn It into a Question",
+      "content": "A topic like 'AI' is too broad. Reframe it as 'Will AI take over kids' homework?' so you can research both sides of a clear question.",
+      "emoji": "❓",
+      "highlight": "Question shapes:\n- Is X really true?\n- What did X change?\n- What does X need?"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Don't ask one side! Hear both for and against!",
+      "background": "spy",
+      "title": "Both Sides at Once",
+      "content": "Ask Claude for 'three reasons in favor' and 'three reasons against' separately, then ask for 'a conclusion balancing both'. It clears your thinking.",
+      "emoji": "⚖️",
+      "highlight": "How to ask:\n1. 3 pro reasons\n2. 3 con reasons\n3. Your own conclusion"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Paste the source and read it together!",
+      "background": "lab",
+      "title": "Source Reading",
+      "content": "Paste a news article or book excerpt and ask 'Give me three key points from this'. Long text becomes easy. Keep the source link or page for later checking.",
+      "emoji": "📰",
+      "highlight": "How to ask:\n- Three key points\n- Explain hard words\n- Impact on me"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Doubt the AI too! Always verify with your own head!",
+      "background": "hq",
+      "title": "Fact Check",
+      "content": "AI can be wrong, so verify important numbers or names with another source. Asking Claude back, 'What's the basis for this?' is also a useful check.",
+      "emoji": "🔍",
+      "highlight": "Check methods:\n- Numbers in the original data\n- Names on official sites\n- Dates in newspaper records"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Finally, summarize in three lines using your own words!",
+      "background": "spy",
+      "title": "Three-Line Summary",
+      "content": "Line 1: the question. Line 2: what you found. Line 3: your opinion. This template makes even short reports easy to read.",
+      "emoji": "📝",
+      "highlight": "3-line report:\nQuestion → Findings → My take"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mission complete! Submit your 3-line summary to earn 460 points! 🎯",
+      "background": "lab",
+      "title": "Mission Complete!",
+      "content": "Research isn't about collecting answers — it's about training the muscle of asking. Combine AI with fact-checking and you'll know things faster and deeper than anyone.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

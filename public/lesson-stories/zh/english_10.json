@@ -1,0 +1,149 @@
+{
+  "title": "未来的工作与英语",
+  "description": "用英语把梦想的工作扩展到世界！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "你的梦想工作是什么？有英语全世界都是舞台加鲁！🌍",
+      "title": "梦想工作与英语",
+      "content": "本课学习「未来的工作与英语」。会英语就能在全世界找到喜欢的工作。把工作和英语联系起来思考。",
+      "emoji": "🚀"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "程序员是全球通用职业加鲁！",
+      "title": "程序员",
+      "content": "编程语言、库、错误信息、文档大多是英语。会英语对代码理解更深一层。",
+      "emoji": "💻",
+      "highlight": "Programming = global job\nDocs are mostly in English"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "创作者能在全世界找到粉丝！",
+      "title": "创作者",
+      "content": "插画、视频、音乐。能写英语标题和评论，作品就能传到世界各地。",
+      "emoji": "🎨",
+      "highlight": "Artist / YouTuber / Musician\n→ Reach the world"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "研究者和科学家也必须英语！",
+      "title": "研究者",
+      "content": "论文、学会发表、国际合作研究。要和全球研究者共学共进，英语不可或缺。",
+      "emoji": "🔬",
+      "highlight": "Research = global team\nPapers in English"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "创业者能挑战全球市场！",
+      "title": "创业者",
+      "content": "想把服务送到全球，从一开始用英语设计就好。市场比国内大10倍以上。",
+      "emoji": "💼",
+      "highlight": "Startup → Global market\n10x bigger world"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "医疗福祉也用得上英语！",
+      "title": "医疗·福祉",
+      "content": "国际医疗、海外志愿、论文。会英语就能帮助更多人。",
+      "emoji": "🏥",
+      "highlight": "Doctor / Nurse / Aid worker\n→ Help more people"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "教育·翻译也是未来的明星！",
+      "title": "教育·翻译",
+      "content": "国际学校老师、翻译、AI翻译专家。架起语言桥梁的工作未来需求会更多。",
+      "emoji": "📚",
+      "highlight": "Teacher / Interpreter / AI translator"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "「喜欢」变工作的时代加鲁！",
+      "title": "把喜好变工作",
+      "content": "游戏直播、社交创作者、电竞选手。从兴趣诞生的新职业层出不穷。英语让圈子更大。",
+      "emoji": "💖",
+      "highlight": "Streamer / Creator / Pro gamer"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "面试英语基础也来看！",
+      "title": "面试英语",
+      "content": "Tell me about yourself. Why do you want this job? What's your strength? 自我介绍+志愿理由+优势，准备这3点就能在世界挑战。",
+      "emoji": "🎤",
+      "highlight": "1. Tell me about yourself\n2. Why this job?\n3. Your strength?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "小测验加鲁！面试时「请自我介绍」用英语？",
+      "quizQuestion": "面试时常见的第一个问题是？",
+      "quizChoices": [
+        "Tell me about yourself.",
+        "Who are you?",
+        "Where are you?",
+        "What is your job?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Tell me about yourself.是面试一定会被问的开场。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "把梦想扩展到全球！你的英语在创造未来🌟",
+      "title": "系列完成！",
+      "emoji": "🎉"
+    }
+  ]
+}

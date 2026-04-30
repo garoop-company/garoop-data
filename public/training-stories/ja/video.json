@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "カット割り",
+      "speech": "切り替えで動画にリズムが出るガル🎬",
+      "emoji": "🎬",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "同じ画面が長いと飽きる。3〜5秒ごとに視点や絵を変えると、見続けたくなる動画になる。",
+      "highlight": "カットのコツ:\n・3〜5秒で変える\n・視点を変える\n・大きさを変える"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "BGM選び",
+      "speech": "BGMで動画の感情が決まるガル🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "明るい曲は元気な動画、静かな曲は感動系、テンポの速い曲は冒険系。映像と感情を合わせるのがプロのコツ。",
+      "highlight": "BGM選び方:\n・テンポを合わせる\n・感情を合わせる\n・歌詞は控えめに"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

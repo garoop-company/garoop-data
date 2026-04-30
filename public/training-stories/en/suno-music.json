@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Mixing Down",
+      "speech": "Balancing audio is what finishes a piece! 🎚️",
+      "emoji": "🎚️",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "Compare the balance of vocals, instruments, and bass — the feel changes a lot. Push the part you most want heard slightly forward.",
+      "highlight": "Mix tips:\n- Lead in front\n- Bass as base\n- Check by ear"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Rhyme in Lyrics",
+      "speech": "Rhyme makes it stick! 🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "Match sounds like 'dream / scheme' or 'sky / fly' and the song becomes far easier to remember.",
+      "highlight": "Rhyme types:\n- End sounds\n- Same vowels\n- Parallel"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

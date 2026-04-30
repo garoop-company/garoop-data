@@ -1,0 +1,105 @@
+{
+  "title": "Misi Desain Figma",
+  "description": "Misi mata-mata mendesain layar app di Figma!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Agen Desain! Hari ini mendesain layar app di Figma! 🎨",
+      "title": "Briefing: Operasi Figma",
+      "content": "Misi: desain satu layar app dengan Figma. Tiga syarat: nyatakan tujuan dalam satu kalimat, ikuti aturan 3 warna, tulis namamu di suatu tempat.",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Figma adalah alat desain gratis!",
+      "title": "Apa itu Figma?",
+      "content": "Figma berjalan di browser. Bisa buat layar app, web, logo, poster — bahkan kerja bareng bersamaan.",
+      "emoji": "🖌️",
+      "highlight": "Bisa di Figma:\n- Layar app\n- Logo\n- Poster\n- Kolaborasi"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "Letakkan 'Frame' dulu!",
+      "title": "Tempatkan Frame",
+      "content": "Tekan F pilih Frame, pilih ukuran iPhone atau desktop. Itu kanvas desainmu.",
+      "emoji": "📱",
+      "highlight": "Langkah Frame:\n1. Tombol F\n2. Pilih ukuran\n3. Tempatkan"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "Tata dengan teks dan bentuk!",
+      "title": "Tambah Elemen",
+      "content": "T untuk teks, R untuk persegi. Pasang judul, deskripsi, tombol — layar app dasar terbentuk.",
+      "emoji": "📝",
+      "highlight": "Pintasan:\nT = teks\nR = persegi\nO = lingkaran"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "Pakai aturan 3 warna!",
+      "title": "Operasi: Warna",
+      "content": "Pilih utama, sub, aksen. Tiga warna membuat tata terasa menyatu. Buntu? Cek Color Hunt.",
+      "emoji": "🎨",
+      "highlight": "Petunjuk 3 warna:\n- Utama 70%\n- Sub 25%\n- Aksen 5%"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "Penyelarasan dan jarak menentukan kebersihan!",
+      "title": "Rapikan",
+      "content": "Auto Layout menyelaraskan elemen otomatis. Jarak sama sudah membuat desain terasa profesional.",
+      "emoji": "📏",
+      "highlight": "3 langkah rapi:\n- Selaraskan\n- Jarak sama\n- Auto Layout"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Ambil link berbagi saat selesai!",
+      "title": "Bagikan",
+      "content": "Tombol Share di kanan atas memberi link. Tunjukkan ke keluarga teman, minta satu umpan balik.",
+      "emoji": "🔗",
+      "highlight": "Tips bagi:\n- View-only\n- URL\n- Minta 1 reaksi"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "Misi selesai! Kirim screenshot dapat 500 poin 🚀",
+      "title": "Misi Selesai!",
+      "content": "Selesai berarti kamu bisa menjelaskan desainmu dalam semenit: untuk siapa dan suasana apa.",
+      "emoji": "🚀"
+    }
+  ]
+}

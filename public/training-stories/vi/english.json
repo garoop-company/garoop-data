@@ -1,0 +1,105 @@
+{
+  "title": "Luyện tập tiếng Anh",
+  "description": "Biến tiếng Anh thành kỹ năng thật sự dùng được!",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Chào mừng đến lò luyện tiếng Anh! Cầm chìa khóa kết nối với thế giới! 🌍",
+      "background": "mountain",
+      "title": "Lò luyện tiếng Anh",
+      "content": "Trong luyện tiếng Anh, quan trọng hơn việc học thuộc là 'số lần sử dụng'. Hãy luân phiên đọc, nghe, nói, viết — tăng trưởng đến nhanh hơn.",
+      "emoji": "🌍",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Bắt đầu từ 'tiếng Anh nói về bản thân'!",
+      "background": "dojo",
+      "title": "Luyện giới thiệu bản thân",
+      "content": "Hãy sẵn sàng nói về sở thích, sinh hoạt hằng ngày, ước mơ tương lai bằng tiếng Anh. Gặp ai cũng có thể bắt chuyện. Thứ tự dễ hiểu quan trọng hơn ngữ pháp hoàn hảo.",
+      "emoji": "💬",
+      "highlight": "3 điều cần kể:\n- Sở thích\n- Sinh hoạt\n- Ước mơ"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Nghe tiến bộ nhờ kết hợp 'phụ đề + âm thanh'!",
+      "background": "bamboo",
+      "title": "Luyện nghe",
+      "content": "Xem clip yêu thích với phụ đề tiếng mẹ đẻ, rồi tiếng Anh, rồi không phụ đề. Cùng nội dung, tai được luyện 3 vòng. Bắt đầu từ video ngắn.",
+      "emoji": "🎧",
+      "highlight": "Nghe 3 bước:\n1. Phụ đề tiếng mẹ\n2. Phụ đề tiếng Anh\n3. Không phụ đề"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Trò chuyện với AI cũng rất tốt — không cần ngại!",
+      "background": "mountain",
+      "title": "Hội thoại AI",
+      "content": "Bảo ChatGPT hay Claude 'làm bạn thoại tiếng Anh hằng ngày của tôi' là có ngay phòng luyện không giới hạn. Không bị chấm điểm nên cứ nói to và sai thoải mái.",
+      "emoji": "🤖",
+      "highlight": "Mẹo dùng AI:\n- Chốt chủ đề\n- 5 phút/ngày là đủ\n- Yêu cầu sửa lỗi"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Lưu cách dùng đã học vào 'sổ ngắn' để khó quên!",
+      "background": "dojo",
+      "title": "Sổ tay cụm từ",
+      "content": "Lưu theo tình huống dễ nhớ hơn lưu từng từ. Với 'cảm ơn', 'đề nghị', 'nêu ý kiến', mỗi nhóm 5 cụm là dễ vận dụng.",
+      "emoji": "📓",
+      "highlight": "Ví dụ tình huống:\n- Cảm ơn\n- Đề nghị\n- Nêu ý kiến"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Thử thách hôm nay: 'giới thiệu bản thân trong 30 giây'!",
+      "background": "bamboo",
+      "title": "Bài thuyết trình 30 giây",
+      "content": "Giới hạn 30 giây buộc bạn chỉ giữ lại điều thật sự muốn nói. Ghi âm rồi nghe lại, bạn sẽ tự nhận ra thói quen phát âm và điểm cần sửa.",
+      "emoji": "⏱️",
+      "highlight": "Cấu trúc 30 giây:\n- Chào hỏi 5s\n- Sở thích 15s\n- Ước mơ 10s"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "5 phút mỗi ngày là đủ! Kiên trì là quan trọng nhất!",
+      "background": "mountain",
+      "title": "Mẹo duy trì",
+      "content": "5 phút mỗi ngày tốt hơn 2 tiếng một lần. Đừng đuổi theo hoàn hảo — hãy gom 'hôm nay đã chạm vào'. Sau 3 tháng bạn sẽ khác hẳn.",
+      "emoji": "🔁",
+      "highlight": "Mẹo duy trì:\n- Cố định giờ\n- Bắt đầu nhỏ\n- Ghi lại"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Vất vả rồi! Hãy cất tiếng nói với thế giới! 🌟",
+      "background": "temple",
+      "title": "Hoàn thành luyện tập!",
+      "content": "Tiếng Anh không phải để thi mà là công cụ trò chuyện với bạn bè khắp thế giới. Hãy ghi âm bài 30 giây hôm nay để tương lai mình nghe lại.",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

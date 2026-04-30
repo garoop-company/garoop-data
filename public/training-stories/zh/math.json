@@ -1,0 +1,105 @@
+{
+  "title": "算数修行",
+  "description": "锻炼数字感觉和解题能力！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "欢迎来到算数道场加鲁！一起探索数字世界🔢",
+      "background": "mountain",
+      "title": "算数道场",
+      "content": "算数修行不只是计算速度，还要锻炼把题目转化成「图」或「身边例子」的能力。背公式之前，先用语言说明你在求什么。",
+      "emoji": "🔢",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "解题从「换种说法」开始加鲁！",
+      "background": "dojo",
+      "title": "把题目画出来",
+      "content": "应用题看文字很难。把出现的人物和物品画成图，加法还是减法就一目了然。动手画出来确认。",
+      "emoji": "🖼️",
+      "highlight": "换说法步骤：\n1. 写出物品\n2. 用箭头连关系\n3. 圈出要求的"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "想「大概多少？」就容易发现错误加鲁！",
+      "background": "bamboo",
+      "title": "估算修行",
+      "content": "计算前先预估「答案大概多大」，位数错了就能立刻察觉。培养百位、千位的感觉。",
+      "emoji": "🎯",
+      "highlight": "估算示例：\n・98×21 → 约2000\n・1.2×3 → 约3.6"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "公式要和「什么时候用」一起记加鲁！",
+      "background": "mountain",
+      "title": "公式修行",
+      "content": "公式各有适用场景：面积、速度、比例。把公式和场景配对记忆，看到数字就能想到该用哪个。",
+      "emoji": "📐",
+      "highlight": "配对记忆：\n・速度＝距离÷时间\n・面积＝长×宽\n・比例＝比较量÷基准量"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "做错题本加鲁！同样的错不犯第二次！",
+      "background": "dojo",
+      "title": "错题本",
+      "content": "把考试和作业里错的题，连同原因和改正方法记下来。把原因分成「粗心」「不会」「读错」，对症下药。",
+      "emoji": "📓",
+      "highlight": "错题3类：\n・粗心\n・不会做\n・读错题"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "今日挑战「把身边事物用数字表示」加鲁！",
+      "background": "bamboo",
+      "title": "找数字",
+      "content": "在家找出「○○的数量」「△△的长度」「□□的重量」3个写下来。算数不只在课本里，生活中遍地都是。",
+      "emoji": "🔍",
+      "highlight": "找法示例：\n・厨房餐具数量\n・房间墙的长度\n・矿泉水瓶的重量"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "向AI要提示也行加鲁！要的是路径不是答案！",
+      "background": "mountain",
+      "title": "AI与算数",
+      "content": "难题让AI「不要给答案，只教解题步骤」，就能靠自己走到终点。一步步接收提示是关键。",
+      "emoji": "🤖",
+      "highlight": "向AI提问方式：\n・隐藏答案\n・只要第一个提示\n・用图解释"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "算数修行辛苦加鲁！和数字成为朋友了吗？🌟",
+      "background": "temple",
+      "title": "修行完成！",
+      "content": "算数真正的力量在于「能说明思路」，而非求出答案。把今天发现的1个身边数字告诉家人吧。",
+      "emoji": "🌟",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

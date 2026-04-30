@@ -1,0 +1,149 @@
+{
+  "title": "Travel English",
+  "description": "The minimum English to survive abroad!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "With travel English you can go anywhere in the world! ✈️",
+      "title": "English for the Road",
+      "content": "This lesson is about travel English. Learn only the truly essential phrases for airports, hotels, and sightseeing.",
+      "emoji": "🧳"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "First gate at the airport — immigration!",
+      "title": "Immigration",
+      "content": "If asked 'What's the purpose of your visit?' answer with one word like 'Sightseeing.' or 'Studying.'",
+      "emoji": "🛂",
+      "highlight": "Q: Purpose of visit?\nA: Sightseeing. / Studying."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "At the hotel, 'I have a reservation' is the magic line!",
+      "title": "Hotel Check-in",
+      "content": "I have a reservation. My name is ___. With this you can check in by your name. The key is the line 'I have a reservation.'",
+      "emoji": "🏨",
+      "highlight": "I have a reservation.\nMy name is ___ ."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Lost? Use 'Excuse me, where is ___?'",
+      "title": "Asking Directions",
+      "content": "Excuse me, where is the station? Essential when asking for the station, the bus stop, the bathroom, etc.",
+      "emoji": "🗺️",
+      "highlight": "Excuse me, where is ___ ?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Asking the price is super important!",
+      "title": "Asking the Price",
+      "content": "How much is this? You'll use it shopping every time. Even when there's no price tag, this one line tells you.",
+      "emoji": "💰",
+      "highlight": "How much is this?\nHow much does it cost?"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "It's OK to say 'I don't speak English well.'",
+      "title": "When in Trouble",
+      "content": "I don't speak English well. Could you speak slowly, please? You don't need to be perfect; honesty wins.",
+      "emoji": "😅",
+      "highlight": "I don't speak English well.\nCould you speak slowly?"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Asking for Wi-Fi puts you at ease!",
+      "title": "Wi-Fi",
+      "content": "Is there Wi-Fi? What's the password? With these two at cafes or hotels, you're online in seconds.",
+      "emoji": "📶",
+      "highlight": "Is there Wi-Fi?\nWhat's the password?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Check emergency phrases too!",
+      "title": "Emergencies",
+      "content": "Help! Call the police! Where is the hospital? Practice out loud so they jump out fast if needed.",
+      "emoji": "🚨",
+      "highlight": "Help!\nCall the police!\nWhere is the hospital?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Travel is a treasure of encounters — enjoy the chats!",
+      "title": "Talking with Locals",
+      "content": "'Where are you from?' is the first question travelers everywhere ask. Reply 'I'm from Japan.' — simple is fine!",
+      "emoji": "🌍",
+      "highlight": "Q: Where are you from?\nA: I'm from Japan."
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Quiz! How do you say 'How much?' in English?",
+      "quizQuestion": "How do you ask 'How much is this?' in English?",
+      "quizChoices": [
+        "How much is this?",
+        "What is this?",
+        "Where is this?",
+        "Who is this?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "How much is this? is the basic phrase for asking the price. A must in shopping."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Travel-ready! Go see the world! 🌟",
+      "title": "Lesson Complete!",
+      "emoji": "🎉"
+    }
+  ]
+}

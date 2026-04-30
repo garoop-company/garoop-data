@@ -1,0 +1,149 @@
+{
+  "title": "Friends and Feelings",
+  "description": "Express your feelings and make friends everywhere!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "People who say their feelings are loved worldwide! 💖",
+      "title": "Feelings in English",
+      "content": "This lesson is about friends and feelings. When you can put feelings into words, you can connect across cultures and countries.",
+      "emoji": "💖"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Words for happy!",
+      "title": "Happy Words",
+      "content": "I'm happy. I'm so glad! Yay! Use different intensities and your emotion lands better.",
+      "emoji": "😄",
+      "highlight": "I'm happy. / I'm so glad! / Yay!"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Don't bottle up sadness either!",
+      "title": "Sad Words",
+      "content": "I'm sad. I feel down. I miss you. Naming sadness invites care from people around you. Sharing beats holding it in.",
+      "emoji": "😢",
+      "highlight": "I'm sad. / I feel down. / I miss you."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Voicing anger well prevents fights!",
+      "title": "Angry Words",
+      "content": "I'm angry. I'm upset. That's not fair. Don't shout — convey it as 'sad/troubled', and conversations stay open.",
+      "emoji": "😠",
+      "highlight": "I'm angry. / I'm upset. / That's not fair."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Excitement is your fuel!",
+      "title": "Excited Words",
+      "content": "I'm excited! I can't wait! Tests, trips, birthdays — putting excitement in words lights up the room.",
+      "emoji": "🤩",
+      "highlight": "I'm excited!\nI can't wait!"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "It's OK to say you're scared too!",
+      "title": "Scared Words",
+      "content": "I'm scared. I'm worried. I'm nervous. Honesty is not weakness — people trust those who can say it.",
+      "emoji": "😨",
+      "highlight": "I'm scared. / I'm worried. / I'm nervous."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Magic words for friends!",
+      "title": "Words for Friends",
+      "content": "You're my best friend. I'm here for you. In tough or joyful moments, these lines deepen any friendship.",
+      "emoji": "🤝",
+      "highlight": "You're my best friend.\nI'm here for you."
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "'Thank you' is the king of feelings!",
+      "title": "Words of Gratitude",
+      "content": "Thank you. I appreciate it. You made my day. Variety in gratitude makes hearts hear it deeper.",
+      "emoji": "🙏",
+      "highlight": "Thank you.\nI appreciate it.\nYou made my day."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Pair them with phrases for asking too!",
+      "title": "Asking About Feelings",
+      "content": "How do you feel? Are you OK? People who can ask feelings are trusted twice as much as those who only speak.",
+      "emoji": "❓",
+      "highlight": "How do you feel?\nAre you OK?"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Quiz! How do you say 'I'm so excited!' in English?",
+      "quizQuestion": "Which is the natural English for 'I can't wait'?",
+      "quizChoices": [
+        "I'm excited!",
+        "I'm scared!",
+        "I'm tired!",
+        "I'm sorry!"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "I'm excited! is the natural way to say it. 'I can't wait!' works too."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Feeling-English master! Make friends worldwide! 🌟",
+      "title": "Lesson Complete!",
+      "emoji": "🎉"
+    }
+  ]
+}

@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "関数で整理する",
+      "speech": "関数は「同じ処理を1つの名前にまとめる箱」ガル📦",
+      "emoji": "📦",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "同じ処理が3回出てきたら、関数にまとめどき。関数名は「動詞＋目的語」で命名すると後で読みやすい。",
+      "highlight": "関数化のサイン:\n・3回繰り返す\n・名前で意図がわかる"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "デバッグの極意",
+      "speech": "バグは「変な動き」のシグナルガル🐞",
+      "emoji": "🐞",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "バグ発見時はprintやconsole.logで「ここまで動いた」を確認。場所がわかれば、原因はもう半分解決している。",
+      "highlight": "デバッグ3歩:\n1. 再現する\n2. printで挟む\n3. 原因を絞る"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

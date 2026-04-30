@@ -1,0 +1,105 @@
+{
+  "title": "Suno Song Mission",
+  "description": "A spy mission to create your original song with AI!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Sound Agent! Today's mission is to make an original song with Suno! 🎵",
+      "background": "lab",
+      "title": "Mission Briefing: Songwriting Operation",
+      "content": "Your task is to finish an original song under 2 minutes using Suno. Three success conditions: state the theme in one sentence, lock in the genre, and write the chorus yourself.",
+      "emoji": "🎵",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Suno makes a song from your 'lyrics' and 'genre'!",
+      "background": "spy",
+      "title": "How Suno Works",
+      "content": "Suno is an AI that generates melody, chords, and vocals from the lyrics and style you give it. The more specific your inputs, the closer it lands to the song you imagined.",
+      "emoji": "🎤",
+      "highlight": "Three things you need:\n- Lyrics\n- Genre / mood\n- Tempo & instruments"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Pick a theme! Who is it for, and what is it about?",
+      "background": "hq",
+      "title": "Theme in One Sentence",
+      "content": "Try 'a cheer song for my friend' or 'the day I first rode a bike'. Naming the audience and the feeling in one line makes lyrics easy to write.",
+      "emoji": "🎯",
+      "highlight": "Theme template:\nFor whom + which feeling + which scene"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Think of lyrics in 'Verse / Pre-Chorus / Chorus'!",
+      "background": "spy",
+      "title": "Song Structure",
+      "content": "Use the verse for the situation, the pre-chorus for the emotional turn, and the chorus for the message you most want to land. Decide the chorus first because it repeats.",
+      "emoji": "📝",
+      "highlight": "Structure template:\nVerse: situation\nPre: emotional turn\nChorus: the big message"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Write the genre and tempo too! e.g. bright J-POP, 120 BPM, piano-led",
+      "background": "hq",
+      "title": "Style Direction",
+      "content": "Beyond genre, telling Suno the mood, instruments, and tempo stabilizes the result. The same lyrics turn into a totally different song between 'rock' and 'ballad'.",
+      "emoji": "🎸",
+      "highlight": "Direction example:\n- Genre: J-POP\n- Mood: bright cheer\n- Instruments: piano + strings"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Paste your lyrics and style into Suno and hit generate!",
+      "background": "lab",
+      "title": "Operation: Generate Time",
+      "content": "Drop the lyrics and style into Suno and wait. If the first take isn't what you wanted, tweak the chorus words or style and regenerate — each pass gets closer.",
+      "emoji": "▶️",
+      "highlight": "Refinement tips:\n- Strengthen the chorus words\n- Change the tempo\n- Limit the instruments"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Once you love a take, give it a title and save it!",
+      "background": "spy",
+      "title": "Title and Save",
+      "content": "A finished song deserves a title. The title is the first thing listeners read, so make it summarize the song's feeling in one line.",
+      "emoji": "💾",
+      "highlight": "Title tips:\n- Keep it short\n- Convey the feeling\n- Make people curious"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Mission complete! Submit the song link to earn 500 points! 🎉",
+      "background": "lab",
+      "title": "Mission Complete!",
+      "content": "You finish when you can explain in your own words 'what this song is about'. The moment your theme rides on the AI-made melody, it becomes a real piece of work.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

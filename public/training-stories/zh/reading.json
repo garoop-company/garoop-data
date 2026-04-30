@@ -1,0 +1,105 @@
+{
+  "title": "读书修行",
+  "description": "锻炼用书拓展世界的能力！",
+  "bgTheme": "dojo",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "欢迎来到读书道场加鲁！书是世界最便宜的旅行📚",
+      "title": "读书道场",
+      "content": "读书修行重要的不是读多少本，而是「自己用什么话留下了什么」。一本书带来的一个领悟，可能改变人生。",
+      "emoji": "📚",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "dojo",
+      "speech": "选书凭「当下心情」就好加鲁！",
+      "title": "选书方法",
+      "content": "不必畅销书或必读书。封面、书名、第一页让你想读的，就是当下最适合你的那本。",
+      "emoji": "📖",
+      "highlight": "选法：\n・封面直觉\n・第一页\n・当下心情"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "bamboo",
+      "speech": "每天10页就够加鲁！",
+      "title": "每日10页",
+      "content": "每天10页，1个月可读完300页的书。完美主义是读书的敌人。点滴坚持终成洪流。",
+      "emoji": "📅",
+      "highlight": "节奏：\n・每日10页\n・每月1本\n・每年12本"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "mountain",
+      "speech": "在打动你的1句话上画线！",
+      "title": "1句高亮",
+      "content": "读完不必都记住。每本只留下1句「这辈子都想记住」的话。",
+      "emoji": "✏️",
+      "highlight": "高亮要点：\n・打动你\n・想反复读\n・每本1〜3句"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "dojo",
+      "speech": "感想用「3行笔记」！",
+      "title": "3行笔记",
+      "content": "第1行：留下印象的场景。第2行：为何留下印象。第3行：怎样用在自己生活里。3行就深深扎根。",
+      "emoji": "📝",
+      "highlight": "3行型：\n1. 场景\n2. 原因\n3. 怎么用"
+    },
+    {
+      "id": 6,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "bamboo",
+      "speech": "读完讲给一个人听！",
+      "title": "讲出来",
+      "content": "给别人讲，能看出自己是否真懂。给家人朋友1分钟介绍一本「读过觉得好」的书。",
+      "emoji": "🗣️",
+      "highlight": "讲法：\n・1分钟\n・那一句\n・推荐理由"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "mountain",
+      "speech": "慢慢拓宽阅读类型加鲁！",
+      "title": "扩展类型",
+      "content": "除了喜欢的类型，半年挑战1本平时不读的。世界变得立体起来。",
+      "emoji": "🌐",
+      "highlight": "拓宽：\n・小说 / 非虚构\n・科学 / 历史\n・绘本大人也行"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "temple",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "读书修行辛苦加鲁！把1本介绍给家人🌟",
+      "title": "修行完成！",
+      "content": "读书真正的价值不在合上书的瞬间，而在它如何左右日常选择。明天的自己从今天的1页开始。",
+      "emoji": "🌟"
+    }
+  ]
+}

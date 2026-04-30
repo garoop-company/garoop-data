@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Set a Custom Domain",
+      "speech": "A custom domain doubles the 'real' vibe! 🌐",
+      "emoji": "🌐",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Add a Custom Domain in Vercel settings. With my-app.com, your service feels real instantly.",
+      "highlight": "Domain steps:\n1. Domains\n2. Add Domain\n3. DNS setup"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "Use Environment Variables",
+      "speech": "Don't put secret keys in code! 🔐",
+      "emoji": "🔐",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Store API keys and passwords as Vercel environment variables, not in code. Even if the code is public, the keys stay safe.",
+      "highlight": "Env var rules:\n- Not in code\n- All caps name\n- Set on Vercel"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

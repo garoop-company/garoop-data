@@ -1,0 +1,149 @@
+{
+  "title": "なぜ英語を学ぶのか",
+  "description": "世界とつながる入口を見つけよう！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "speech": "ガルちゃんと英語の世界を冒険しよう！🌍",
+      "background": "city",
+      "title": "なぜ英語を学ぶのか",
+      "emoji": "🌍",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "content": "このレッスンでは「なぜ英語を学ぶのか」をテーマに、英語が開く世界を順番に学ぶ。ことばの意味だけでなく、身近な場面とミニ課題を通して、自分の言葉で説明し、次の行動につなげられる理解を目指そう。"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "英語は世界15億人以上が話す共通の道具だよ！",
+      "background": "city",
+      "title": "世界の共通語",
+      "content": "母語で話す人はそれほど多くなくても、英語は世界中で「共通語」として使われている。違う国の人と話すときの最初の橋になるんだ！",
+      "emoji": "🌐",
+      "highlight": "🌐 英語＝世界をつなぐ橋"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "好きな映画やゲームも、英語で楽しめる幅が広がるよ！",
+      "background": "candy",
+      "title": "好きの世界が広がる",
+      "content": "英語が読めると、字幕や翻訳を待たず最新情報に触れられる。映画、ゲーム、漫画、音楽、すべての楽しみが2倍3倍になるんだ！",
+      "emoji": "🎮",
+      "highlight": "🎬 映画 🎮 ゲーム 🎵 音楽 📚 本"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "英語は「将来の選択肢」を増やしてくれる魔法の鍵だよ！",
+      "background": "ocean",
+      "title": "将来の選択肢",
+      "content": "外国の大学、海外の仕事、世界中の友達。英語が話せると、住む場所や働く場所が地球全体に広がる！",
+      "emoji": "🌟",
+      "highlight": "🏫 留学 💼 海外勤務 ✈️ 旅行"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "ITやAIの世界では、最新情報のほとんどが英語なんだ！",
+      "background": "space",
+      "title": "テクノロジーと英語",
+      "content": "プログラミング言語、AIの論文、最新のツール解説。多くが英語で先に発表される。英語が読めると、最先端に何カ月も早く触れられるよ！",
+      "emoji": "💻",
+      "highlight": "新技術 → 英語論文 → 半年後 → 日本語訳"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "英語は完璧じゃなくていい！通じることが大事だよ！",
+      "background": "forest",
+      "title": "完璧より「通じる」",
+      "content": "ネイティブのように話さなくてもいい。世界の英語使用者の8割は「英語が母語じゃない人」。下手でも伝わる英語が今の世界の標準！",
+      "emoji": "💬",
+      "highlight": "完璧 ❌ → 通じる ⭕"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "AIで英語学習は革命中！恥ずかしがらず練習できるよ！",
+      "background": "space",
+      "title": "AIと英語学習",
+      "content": "ChatGPTやClaudeに英会話パートナーになってもらえば、24時間いつでも練習可能。発音、文法、表現、AIが優しく教えてくれる！",
+      "emoji": "🤖",
+      "highlight": "AI英会話＝無限の練習相手"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "speech": "毎日少しでいい！続けることが何より大切！",
+      "background": "classroom",
+      "title": "続けるコツ",
+      "content": "1日10分を100日続ければ16時間以上！週末まとめてより、毎日少しが脳に残る。好きな分野から始めるのがコツだよ！",
+      "emoji": "🔁",
+      "highlight": "毎日10分 × 100日 = 16時間"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "speech": "英語は道具！君の夢を世界に広げるための道具だよ！",
+      "background": "space",
+      "title": "英語は夢の道具",
+      "content": "英語そのものが目的じゃない。英語は君がやりたいことを世界規模で実現するための道具。何をしたいか決めれば、学ぶ意味も見える！",
+      "emoji": "🚀",
+      "highlight": "英語 = 夢を世界へ運ぶロケット"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "quizQuestion": "世界の英語使用者のうち、英語が母語ではない人の割合はどれくらい？",
+      "quizChoices": [
+        "約8割",
+        "約5割",
+        "約3割",
+        "約1割"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "世界の英語使用者の約8割は英語が母語ではない人だよ。完璧でなくても通じることが大切！",
+      "background": "city",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "speech": "さあ、クイズだよ！考えてみてね！"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "英語学習の意味、見えてきたかな？さっそく1単語からでも始めよう🌟",
+      "background": "city",
+      "title": "レッスン完了！",
+      "emoji": "🎉",
+      "effects": [
+        "confetti",
+        "stars"
+      ]
+    }
+  ]
+}

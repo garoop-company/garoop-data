@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "实用扩展",
+      "speech": "扩展让VSCode好用10倍加鲁🔌",
+      "emoji": "🔌",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Prettier（自动格式化）、Live Server（即时预览）、GitLens（历史可视化）。装3个工作速度大幅提升。",
+      "highlight": "推荐3扩展：\n・Prettier\n・Live Server\n・GitLens"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "快捷键",
+      "speech": "记住快捷键就显得专业加鲁⌨️",
+      "emoji": "⌨️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Cmd+S（保存）、Cmd+P（搜索文件）、Cmd+Shift+P（命令面板）。记3个就能不用鼠标。",
+      "highlight": "记3个：\n・Cmd+S\n・Cmd+P\n・Cmd+Shift+P"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

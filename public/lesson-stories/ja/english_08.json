@@ -1,0 +1,149 @@
+{
+  "title": "学校の英語",
+  "description": "学校生活で使える英語！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "学校での英語、先生にも友達にも使えるガル！🏫",
+      "title": "学校の英語",
+      "content": "このレッスンでは「学校の英語」を学ぶ。授業、休み時間、教室、図書室。学校生活で使える表現を集めて覚えよう。",
+      "emoji": "🏫"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "教科の名前を英語で言える？",
+      "title": "教科",
+      "content": "math（算数）, science（理科）, English, history（歴史）, music（音楽）, P.E.（体育）。好きな教科から覚えると気軽。",
+      "emoji": "📚",
+      "highlight": "math / science / English\nhistory / music / P.E."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "先生に質問するときの魔法！",
+      "title": "先生に質問",
+      "content": "Excuse me, can I ask a question? I don't understand. 質問する勇気が学びを倍速にする。手を挙げてからこの一言。",
+      "emoji": "🙋",
+      "highlight": "Can I ask a question?\nI don't understand."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "「もう一度言ってください」も超大事！",
+      "title": "聞き直し",
+      "content": "Could you say that again, please? Could you speak slowly? 聞き取れなくて大丈夫。もう一度頼めばいい。",
+      "emoji": "👂",
+      "highlight": "Could you say that again?\nCould you speak slowly?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "教室の道具も英語で言ってみよう！",
+      "title": "教室の道具",
+      "content": "pen, pencil, eraser, notebook, textbook, ruler. 「Can I borrow your pencil?」のように頼む練習にもなる。",
+      "emoji": "✏️",
+      "highlight": "pen / pencil / eraser\nnotebook / textbook / ruler"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "宿題の英語もチェック！",
+      "title": "宿題",
+      "content": "What's the homework? I finished my homework. 友達と確認するときにそのまま使える表現。",
+      "emoji": "📝",
+      "highlight": "What's the homework?\nI finished my homework."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "休み時間の話も英語で！",
+      "title": "休み時間",
+      "content": "Let's play together! Want to join us? 友達を誘う一言が言えれば、英語で遊べる仲間が増える。",
+      "emoji": "⏰",
+      "highlight": "Let's play together!\nWant to join us?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "テストの感想も伝えよう！",
+      "title": "テスト",
+      "content": "The test was hard. I did my best. テストの後、結果より「がんばった」を伝えるのが世界共通の励まし。",
+      "emoji": "📋",
+      "highlight": "The test was hard.\nI did my best."
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "学校が終わったら「お疲れさま」！",
+      "title": "下校",
+      "content": "See you tomorrow! Good job today! 一日を終える挨拶。明日また会う友達への気持ちが伝わる。",
+      "emoji": "🌅",
+      "highlight": "See you tomorrow!\nGood job today!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "クイズだガル！「もう一度言って」を英語で？",
+      "quizQuestion": "「もう一度言ってください」を丁寧に頼むには？",
+      "quizChoices": [
+        "Could you say that again, please?",
+        "Repeat!",
+        "What?",
+        "Hello again."
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Could you say that again, please? が一番丁寧で自然。pleaseがポイント。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "学校英語マスターガル！明日から使ってみよう🌟",
+      "title": "レッスン完了！",
+      "emoji": "🎉"
+    }
+  ]
+}

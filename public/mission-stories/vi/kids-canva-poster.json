@@ -1,0 +1,105 @@
+{
+  "title": "Nhiệm vụ Poster Canva",
+  "description": "Nhiệm vụ điệp viên làm poster gốc trên Canva!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "Đặc vụ Poster! Làm một poster bằng Canva! 🖼️",
+      "title": "Nhiệm vụ: Poster",
+      "content": "Nhiệm vụ: hoàn thành một poster gốc bằng Canva. Ba điều kiện: chọn một thông điệp, dùng một ảnh, làm khổ A4.",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Canva là bạn của người mới!",
+      "title": "Canva là gì?",
+      "content": "Canva đầy template. Trình duyệt hoặc ứng dụng, kéo thả là thiết kế dễ dàng.",
+      "emoji": "✨",
+      "highlight": "Mạnh của Canva:\n- Nhiều mẫu\n- Trình duyệt OK\n- Tài nguyên miễn phí"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "Chốt chủ đề trong một câu!",
+      "title": "Chủ đề",
+      "content": "'Poster cổ vũ đọc sách', 'Poster lễ hội trường' — nói rõ cho ai và thông điệp gì trong một câu.",
+      "emoji": "🎯",
+      "highlight": "Khung chủ đề:\nCho ai + thông điệp"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "Chọn template!",
+      "title": "Chọn Template",
+      "content": "Tìm 'poster' để thấy hàng loạt. Chọn cái hợp tinh thần, chỉ đổi chữ và màu cho nhanh.",
+      "emoji": "📋",
+      "highlight": "Chọn theo:\n- Không khí\n- Số chữ\n- Màu"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "Cho thông điệp nổi bật!",
+      "title": "Thực thi: Tiêu đề",
+      "content": "Poster được nhìn trong 3 giây. Chữ lớn nhất = thông điệp. Dưới 10 chữ cho ấn tượng.",
+      "emoji": "📢",
+      "highlight": "Quy tắc tiêu đề:\n- Lớn\n- Dưới 10 chữ\n- Màu nổi"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "Thêm một ảnh!",
+      "title": "Hình ảnh",
+      "content": "Canva có hàng triệu ảnh miễn phí. Một ảnh hợp chủ đề định hình cả không khí.",
+      "emoji": "📸",
+      "highlight": "Chọn ảnh:\n- Hợp chủ đề\n- Một thôi\n- Giữ khoảng trắng"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "In ra để có bản thật!",
+      "title": "Tải & In",
+      "content": "Nút Download trên cùng phải xuất PDF hay JPG. In ra dán tường mang lại cảm giác khác kỹ thuật số.",
+      "emoji": "🖨️",
+      "highlight": "Lưu:\n- PDF (in)\n- JPG (chia sẻ)"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "Hoàn thành! Nộp ảnh nhận 400 điểm 🚀",
+      "title": "Hoàn thành nhiệm vụ!",
+      "content": "Hoàn thành là người xem hiểu trong 3 giây. Cho một người xem để kiểm tra.",
+      "emoji": "🚀"
+    }
+  ]
+}

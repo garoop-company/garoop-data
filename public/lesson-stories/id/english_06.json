@@ -1,0 +1,149 @@
+{
+  "title": "Bahasa Inggris untuk Bepergian",
+  "description": "Bahasa Inggris minimum agar tidak panik di luar negeri!",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "Dengan bahasa Inggris bepergian, ke mana saja jalan! ✈️",
+      "title": "Bahasa Inggris di Perjalanan",
+      "content": "Pelajaran 'Bahasa Inggris bepergian'. Hanya frasa yang benar-benar perlu di bandara, hotel, dan tempat wisata.",
+      "emoji": "🧳"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Gerbang pertama bandara: imigrasi!",
+      "title": "Imigrasi",
+      "content": "Ditanya 'What's the purpose of your visit?' jawab satu kata: 'Sightseeing.' atau 'Studying.'",
+      "emoji": "🛂",
+      "highlight": "Q: Purpose of visit?\nA: Sightseeing. / Studying."
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Di hotel, 'Saya sudah pesan' adalah kata sakti!",
+      "title": "Check-in Hotel",
+      "content": "I have a reservation. My name is ___. Cukup itu untuk check-in atas nama. Kuncinya 'I have a reservation.'",
+      "emoji": "🏨",
+      "highlight": "I have a reservation.\nMy name is ___ ."
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "Tersesat? Pakai 'Excuse me, where is ___?'",
+      "title": "Bertanya Arah",
+      "content": "Excuse me, where is the station? Wajib saat menanyakan stasiun, halte, toilet, dll.",
+      "emoji": "🗺️",
+      "highlight": "Excuse me, where is ___ ?"
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "Frasa menanyakan harga sangat penting!",
+      "title": "Bertanya Harga",
+      "content": "How much is this? Pasti dipakai saat belanja. Bahkan tanpa label harga, satu kalimat ini cukup.",
+      "emoji": "💰",
+      "highlight": "How much is this?\nHow much does it cost?"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "Bilang 'Saya kurang bisa bahasa Inggris' juga boleh!",
+      "title": "Saat Sulit",
+      "content": "I don't speak English well. Could you speak slowly, please? Tidak perlu sempurna, jujur adalah yang terbaik.",
+      "emoji": "😅",
+      "highlight": "I don't speak English well.\nCould you speak slowly?"
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "Bisa minta Wi-Fi, hati tenang!",
+      "title": "Wi-Fi",
+      "content": "Is there Wi-Fi? What's the password? Dua frasa ini di kafe atau hotel langsung online.",
+      "emoji": "📶",
+      "highlight": "Is there Wi-Fi?\nWhat's the password?"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "Cek juga frasa darurat!",
+      "title": "Darurat",
+      "content": "Help! Call the police! Where is the hospital? Latih keras agar segera keluar saat dibutuhkan.",
+      "emoji": "🚨",
+      "highlight": "Help!\nCall the police!\nWhere is the hospital?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "Bepergian adalah harta perjumpaan — nikmati obrolan!",
+      "title": "Bicara dengan Lokal",
+      "content": "'Where are you from?' adalah pertanyaan pertama traveler di mana saja. Jawab 'I'm from Japan.' sederhana cukup!",
+      "emoji": "🌍",
+      "highlight": "Q: Where are you from?\nA: I'm from Japan."
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "Kuis! Bagaimana mengucapkan 'Berapa?' dalam bahasa Inggris?",
+      "quizQuestion": "Cara mengatakan 'Ini berapa?'",
+      "quizChoices": [
+        "How much is this?",
+        "What is this?",
+        "Where is this?",
+        "Who is this?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "How much is this? frasa dasar tanya harga. Wajib saat belanja."
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "Siap bepergian! Ayo lihat dunia! 🌟",
+      "title": "Pelajaran Selesai!",
+      "emoji": "🎉"
+    }
+  ]
+}

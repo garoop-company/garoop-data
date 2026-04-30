@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Chiều sâu thiết kế nhân vật",
+      "speech": "Không chỉ vẻ ngoài — thiết kế từ bên trong! 🎨",
+      "emoji": "🎨",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "Món thích, thứ ghét, câu cửa miệng, ước mơ. Ba thứ này (ngoài vẻ ngoài) giúp nhân vật chuyển động.",
+      "highlight": "Điểm chiều sâu:\n- Món thích\n- Ghét\n- Câu cửa miệng\n- Ước mơ"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Dùng hiệu ứng âm thanh",
+      "speech": "Âm thanh làm thế giới ba chiều! 🔊",
+      "emoji": "🔊",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "Tiếng bước, tiếng gió, tiếng tim. Một hiệu ứng đủ làm bức tranh sống động. Tìm trên Suno hay trang hiệu ứng.",
+      "highlight": "Ý tưởng âm:\n- Bước chân\n- Gió\n- Tim đập"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

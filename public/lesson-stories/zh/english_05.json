@@ -1,0 +1,149 @@
+{
+  "title": "英语食物与饮料",
+  "description": "去任何地方都能点喜欢的菜！",
+  "bgTheme": "city",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 5000,
+      "garuchanAnimation": "wave",
+      "background": "city",
+      "effects": [
+        "sparkle",
+        "stars"
+      ],
+      "speech": "食物英语全世界通用加鲁！🍔",
+      "title": "餐桌英语",
+      "content": "本课学习「英语食物与饮料」。无论旅游、留学还是去餐厅，都能点到自己喜欢的菜。",
+      "emoji": "🍽️"
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "喜欢的食物用英语怎么说？",
+      "title": "食物词汇",
+      "content": "pizza, hamburger, sushi, ramen, sandwich, salad, rice, noodles。从喜欢的开始记是坚持的秘诀。",
+      "emoji": "🍕",
+      "highlight": "🍕 pizza  🍔 burger  🍣 sushi\n🍜 ramen  🥗 salad  🍚 rice"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "饮料别忘了！",
+      "title": "饮料",
+      "content": "water, milk, juice, tea, coffee, soda。最重要的水是water。Can I have some water?超好用。",
+      "emoji": "🥤",
+      "highlight": "💧 water  🥛 milk  🧃 juice\n🍵 tea  ☕ coffee  🥤 soda"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "ocean",
+      "speech": "「肚子饿」「口渴」开启对话！",
+      "title": "说出状态",
+      "content": "I'm hungry. I'm thirsty.两句简单的话，在家或外面都能开启餐桌话题。",
+      "emoji": "😋",
+      "highlight": "I'm hungry.\nI'm thirsty."
+    },
+    {
+      "id": 5,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "classroom",
+      "speech": "点餐的魔法句型！",
+      "title": "点餐",
+      "content": "Can I have a hamburger, please?礼貌请求的句型。加please立刻有印象。",
+      "emoji": "📋",
+      "highlight": "Can I have ___, please?\nI'd like ___, please."
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "forest",
+      "speech": "好恶也能传达就轻松！",
+      "title": "喜欢/不喜欢",
+      "content": "I like sushi. I don't like onions.过敏的话也要记I'm allergic to peanuts.",
+      "emoji": "👍",
+      "highlight": "I like ___ .\nI don't like ___ .\nI'm allergic to ___ ."
+    },
+    {
+      "id": 7,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "space",
+      "speech": "用英语说感想！",
+      "title": "表达感想",
+      "content": "It's delicious! Yummy! Tasty!用言语传达「享受用餐」的信号，做菜的人也开心。",
+      "emoji": "😋",
+      "highlight": "Delicious! / Yummy! / Tasty!"
+    },
+    {
+      "id": 8,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "float",
+      "background": "city",
+      "speech": "「请结账」也很重要！",
+      "title": "结账",
+      "content": "Check, please.或Can I have the bill, please?都是餐厅最后必备句。",
+      "emoji": "💳",
+      "highlight": "Check, please.\nCan I have the bill?"
+    },
+    {
+      "id": 9,
+      "type": "lesson",
+      "duration": 6000,
+      "garuchanAnimation": "bounce",
+      "background": "candy",
+      "speech": "用一句感谢温暖收尾！",
+      "title": "Thank you!",
+      "content": "Thank you for the meal.「我开动了/谢谢款待」的英语版。说出来餐桌就温暖。",
+      "emoji": "🙏",
+      "highlight": "Thank you for the meal!"
+    },
+    {
+      "id": 11,
+      "type": "quiz",
+      "duration": 0,
+      "garuchanAnimation": "idle",
+      "background": "city",
+      "speech": "小测验加鲁！「请给我水」用英语怎么说？",
+      "quizQuestion": "礼貌地要水，最自然的句子是？",
+      "quizChoices": [
+        "Can I have some water, please?",
+        "Water!",
+        "Give me water.",
+        "Where is water?"
+      ],
+      "quizCorrectIndex": 0,
+      "quizExplanation": "Can I have some water, please?最礼貌自然。重点是加please。"
+    },
+    {
+      "id": 10,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "city",
+      "effects": [
+        "confetti",
+        "stars"
+      ],
+      "speech": "这下世界各地餐厅都不怕加鲁🌟",
+      "title": "课程完成！",
+      "emoji": "🎉"
+    }
+  ]
+}

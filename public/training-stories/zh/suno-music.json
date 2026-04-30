@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "混音处理",
+      "speech": "音量平衡决定作品完成度加鲁🎚️",
+      "emoji": "🎚️",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "比较人声、乐器、低音的平衡，印象大不同。把最想被听到的部分稍微提前一点。",
+      "highlight": "混音要点：\n・主角前\n・低音垫底\n・整体用耳朵检查"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "歌词押韵",
+      "speech": "押韵让人记住加鲁🎵",
+      "emoji": "🎵",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "「梦」和「风」、「sky」和「fly」让音响一致，歌就更容易记住。",
+      "highlight": "押韵类型：\n・末尾音\n・同元音\n・对偶"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

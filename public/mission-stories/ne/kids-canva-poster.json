@@ -1,0 +1,105 @@
+{
+  "title": "Canva पोस्टर मिसन",
+  "description": "Canva मा मौलिक पोस्टर बनाउने जासुसी मिसन!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "पोस्टर एजेन्ट! Canva मा एउटा पोस्टर बनाऔं! 🖼️",
+      "title": "मिसन आदेश: पोस्टर अभियान",
+      "content": "मिसन: Canva ले मौलिक पोस्टर पूरा गर्ने। ३ शर्त: एक सन्देश छान्ने, १ फोटो प्रयोग, A4 साइज।",
+      "emoji": "🖼️",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "spy",
+      "speech": "Canva नौसिखियाहरूको साथी गाल्!",
+      "title": "Canva भनेको के?",
+      "content": "Canva मा प्रशस्त टेम्प्लेट छन्। ब्राउजर वा एप्प, drag-drop ले सजिलै डिजाइन।",
+      "emoji": "✨",
+      "highlight": "Canva को बल:\n• धेरै टेम्प्लेट\n• ब्राउजर ठीक\n• निःशुल्क सामग्री"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "hq",
+      "speech": "एक वाक्यमा विषय निर्णय!",
+      "title": "विषय",
+      "content": "'पठनप्रेरणा पोस्टर', 'विद्यालय उत्सव पोस्टर' — कसका लागि र कुन सन्देश एक वाक्यमा।",
+      "emoji": "🎯",
+      "highlight": "विषय ढाँचा:\nकसका लागि + सन्देश"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "lab",
+      "speech": "टेम्प्लेट छान्ने!",
+      "title": "टेम्प्लेट छनोट",
+      "content": "'poster' खोज्दा प्रशस्त आउँछ। आफ्नो वातावरण नजिकको छानेर अक्षर र रङ मात्र फेरिए छिटो।",
+      "emoji": "📋",
+      "highlight": "छनोट:\n• वातावरण\n• अक्षर लम्बाइ\n• रङ"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "spy",
+      "speech": "सन्देशलाई प्रमुख बनाऔं!",
+      "title": "अभियान: हेडलाइन",
+      "content": "पोस्टर ३ सेकेन्डमा हेरिन्छ। सबभन्दा ठूलो अक्षर = सन्देश। १० शब्द भन्दा कम राख्दा छाप गहिरो।",
+      "emoji": "📢",
+      "highlight": "हेडलाइन नियम:\n• ठूलो\n• १० शब्द भन्दा कम\n• प्रमुख रङ"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "background": "hq",
+      "speech": "एउटा फोटो थप्ने!",
+      "title": "दृश्य सामग्री",
+      "content": "Canva मा लाखौं निःशुल्क सामग्री। विषय अनुकूल एक फोटोले सिङ्गो वातावरण बनाउँछ।",
+      "emoji": "📸",
+      "highlight": "दृश्य छनोट:\n• विषय अनुकूल\n• एउटा मात्र\n• खाली ठाउँ राख्ने"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "background": "lab",
+      "speech": "वास्तविक प्रति लिन प्रिन्ट गरौं!",
+      "title": "डाउनलोड र प्रिन्ट",
+      "content": "माथि दाहिनेको Download ले PDF वा JPG दिन्छ। प्रिन्ट गरेर पर्खालमा टाँस्दा डिजिटलभन्दा फरक सन्तुष्टि।",
+      "emoji": "🖨️",
+      "highlight": "सुरक्षा:\n• PDF (प्रिन्ट)\n• JPG (साझा)"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "background": "lab",
+      "effects": [
+        "confetti"
+      ],
+      "speech": "मिसन पूरा गाल्! तस्बिर पेस गरेर ४०० अंक 🚀",
+      "title": "मिसन पूरा!",
+      "content": "सम्पन्न भनेको हेर्ने व्यक्तिले ३ सेकेन्डमा बुझ्ने। १ जनालाई देखाएर पुष्टि गरौं।",
+      "emoji": "🚀"
+    }
+  ]
+}

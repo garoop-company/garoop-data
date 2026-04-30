@@ -1,0 +1,105 @@
+{
+  "title": "Misi Generasi Gambar AI",
+  "description": "Misi mata-mata membuat gambar yang khas hanya milikmu dengan AI!",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Agen Gambar! Hari ini melukis dengan AI! 🎨",
+      "background": "lab",
+      "title": "Briefing Misi: Operasi Generasi Gambar",
+      "content": "Tugasnya menyelesaikan satu gambar orisinal pakai alat AI gambar. Tiga syarat sukses: sertakan tiga elemen subjek, tempat, suasana; generate minimal tiga kali; pilih satu gambar final dan jelaskan alasannya.",
+      "emoji": "🎨",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Generasi gambar AI adalah sihir 'mengubah kata jadi gambar'!",
+      "background": "spy",
+      "title": "Apa itu Generasi Gambar AI?",
+      "content": "Midjourney, DALL-E, dan Stable Diffusion adalah AI yang menghasilkan satu gambar dari sebuah kalimat. Semakin konkret kata-katamu, semakin dekat gambarnya dengan bayanganmu.",
+      "emoji": "🖼️",
+      "highlight": "Alat populer:\n- Midjourney\n- DALL-E\n- Stable Diffusion"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Prompt harus berisi 'subjek, tempat, suasana'!",
+      "background": "hq",
+      "title": "Prompt 3 Elemen",
+      "content": "Selalu masukkan 'siapa subjeknya', 'di mana', 'suasananya bagaimana' agar gambar tidak melenceng. Kalau masih kurang, tambahkan warna dan waktu.",
+      "emoji": "📝",
+      "highlight": "Template 3 elemen:\nSubjek: kucing putih\nTempat: stasiun antariksa\nSuasana: cahaya biru futuristik"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Tentukan 'gaya seni' lalu suasananya berubah total!",
+      "background": "spy",
+      "title": "Gaya Seni",
+      "content": "Mengatakan 'cat air', 'pixel art', atau 'gaya Studio Ghibli' membuat subjek yang sama jadi gambar yang sangat berbeda. Simpan kata-kata yang kamu suka untuk lain kali.",
+      "emoji": "🎭",
+      "highlight": "Contoh gaya:\n- Cat air\n- Pixel art\n- 3D render\n- Gaya komik"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Kirim prompt dan buat tiga versi!",
+      "background": "lab",
+      "title": "Operasi: Tiga Versi",
+      "content": "Subjek sama, hanya gaya yang diubah, lalu generate tiga versi. Perbedaannya membuat seleramu kelihatan. Pilih satu favorit dan tulis alasannya.",
+      "emoji": "🧪",
+      "highlight": "Bandingkan:\nA: Cat air\nB: Pixel art\nC: 3D render"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "Kalau beda dari bayangan, pakai 'kata terlarang' juga bisa!",
+      "background": "hq",
+      "title": "Negative Prompt",
+      "content": "Mau pemandangan malam tapi keluar siang? Sebut elemen yang dihindari. 'Kecuali siang, latar terang' membuat arah lebih akurat.",
+      "emoji": "🚫",
+      "highlight": "Cara menghindari:\n- 'Kecuali X'\n- 'Jangan pakai X'\n- 'Ganti X dengan Y'"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "Beri gambar pilihan judul dan satu kalimat komentar!",
+      "background": "spy",
+      "title": "Jadikan Karya",
+      "content": "Setelah ditambah judul dan satu kalimat komentar, ia bukan lagi 'gambar hasil generate' melainkan 'karya'. Satu kalimat tentang 'kenapa gambar ini' sudah cukup.",
+      "emoji": "🖋️",
+      "highlight": "Template karya:\n- Judul\n- Konsep satu kalimat\n- Gaya yang dipakai"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "Misi selesai! Kirim karyamu untuk dapat 450 poin! 🎉",
+      "background": "lab",
+      "title": "Misi Selesai!",
+      "content": "Generasi gambar AI bukan keterampilan 'menggambar' melainkan 'memandu lewat kata'. Setiap kata di prompt membangun dunia di dalam bingkai.",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

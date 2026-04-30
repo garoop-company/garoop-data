@@ -1,0 +1,105 @@
+{
+  "title": "ChatGPT提示词任务",
+  "description": "学会向ChatGPT精准提问的间谍任务！",
+  "bgTheme": "spy",
+  "scenes": [
+    {
+      "id": 1,
+      "type": "intro",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "提示词特工！这次的任务是向ChatGPT精准提问加鲁！🕵️💬",
+      "background": "lab",
+      "title": "任务指令：提示词作战",
+      "content": "任务是从ChatGPT得到自己真正想要的答案。完成条件有3个：一句话说清目的、指定对象和形式、产出两个版本进行比较。",
+      "emoji": "💬",
+      "effects": []
+    },
+    {
+      "id": 2,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "提示词就是「向AI提问的方法」加鲁！写法不同答案天差地别！",
+      "background": "spy",
+      "title": "什么是提示词？",
+      "content": "提示词是发给AI的指令。同样的问题，加上「给谁看」「写多长」「什么格式」，回答的精准度就会完全不一样。",
+      "emoji": "📝",
+      "highlight": "差距来源：\n・对象（给谁？）\n・长度（多少字？）\n・形式（要点？文章？）"
+    },
+    {
+      "id": 3,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "好提示词的基础是5W1H加鲁！按顺序决定！",
+      "background": "hq",
+      "title": "用5W1H设计",
+      "content": "Who（给谁）、What（要什么）、Why（目的）、When/Where（场合）、How（怎么写）先确定，AI就不会乱猜。输入越清晰，输出越精准。",
+      "emoji": "🧭",
+      "highlight": "5W1H检查：\n・Who：小学生\n・What：自由研究主题\n・How：用5条要点列出"
+    },
+    {
+      "id": 4,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "让AI「扮演角色」答案会大不相同加鲁！",
+      "background": "spy",
+      "title": "角色提示词",
+      "content": "当你说「你是一位小学老师」时，AI会按那个立场调整语气和内容。根据目的选择合适的角色：老师、编辑、教练、专家等。",
+      "emoji": "🎭",
+      "highlight": "角色示例：\n・老师（温柔讲解）\n・编辑（精简内容）\n・教练（鼓励推动）"
+    },
+    {
+      "id": 5,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "实际向ChatGPT发两条提示词比较一下！",
+      "background": "lab",
+      "title": "作战实施：A/B比较",
+      "content": "在同一个主题上比较「简短提示词」和「带条件提示词」，差距一目了然。把两个回答并排放，记录哪个更接近目的。",
+      "emoji": "🧪",
+      "highlight": "比较示例：\nA：「给我自由研究主题」\nB：「给小学4年级，3天完成，科学类，列5条要点」"
+    },
+    {
+      "id": 6,
+      "type": "lesson",
+      "duration": 0,
+      "garuchanAnimation": "float",
+      "speech": "第一次不需要完美加鲁！用追问让答案变好！",
+      "background": "hq",
+      "title": "追问技巧",
+      "content": "对AI的回答说「再简短一点」「用初中生能懂的话」「再加3个例子」，每一次对话都会让答案更精炼，不用重新开始。",
+      "emoji": "🔁",
+      "highlight": "追问示例：\n・更简单一些\n・增加例子\n・给我反方观点"
+    },
+    {
+      "id": 7,
+      "type": "activity",
+      "duration": 0,
+      "garuchanAnimation": "bounce",
+      "speech": "做一个自己的模板！下次粘贴就能用！",
+      "background": "spy",
+      "title": "我的提示词模板",
+      "content": "把常用的格式存成「模板」，每次不用从头写。准备好「角色、对象、输出格式、禁止事项」4个空格的模板会很方便。",
+      "emoji": "📋",
+      "highlight": "模板框架：\n・角色：___\n・对象：___\n・输出：___\n・禁止：___"
+    },
+    {
+      "id": 8,
+      "type": "outro",
+      "duration": 0,
+      "garuchanAnimation": "wave",
+      "speech": "任务完成加鲁！上传最佳提示词的截图领取480积分！🎯",
+      "background": "lab",
+      "title": "任务完成！",
+      "content": "提示词作战的合格标准不是AI的回答本身，而是能说明「怎么问让答案更好」。提问的技巧才是你独有的武器。",
+      "emoji": "🚀",
+      "effects": [
+        "confetti"
+      ]
+    }
+  ]
+}

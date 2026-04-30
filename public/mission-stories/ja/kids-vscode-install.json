@@ -53,6 +53,30 @@
     },
     {
       "id": 5,
+      "duration": 0,
+      "type": "lesson",
+      "title": "便利な拡張機能",
+      "speech": "拡張機能でVSCodeは10倍便利になるガル🔌",
+      "emoji": "🔌",
+      "background": "lab",
+      "garuchanAnimation": "float",
+      "content": "Prettier（自動整形）、Live Server（即プレビュー）、GitLens（履歴可視化）。3つ入れるだけで作業速度が大きく上がる。",
+      "highlight": "おすすめ3拡張:\n・Prettier\n・Live Server\n・GitLens"
+    },
+    {
+      "id": 6,
+      "duration": 0,
+      "type": "activity",
+      "title": "ショートカットキー",
+      "speech": "ショートカット覚えるとプロっぽいガル⌨️",
+      "emoji": "⌨️",
+      "background": "spy",
+      "garuchanAnimation": "bounce",
+      "content": "Cmd+S（保存）、Cmd+P（ファイル検索）、Cmd+Shift+P（コマンドパレット）。3つだけ覚えてもキーボードだけで作業できる。",
+      "highlight": "覚える3つ:\n・Cmd+S\n・Cmd+P\n・Cmd+Shift+P"
+    },
+    {
+      "id": 7,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",

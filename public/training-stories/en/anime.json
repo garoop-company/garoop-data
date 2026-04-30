@@ -65,6 +65,30 @@
     },
     {
       "id": 6,
+      "duration": 0,
+      "type": "lesson",
+      "title": "Deepen Character Design",
+      "speech": "More than looks — design from the inside! 🎨",
+      "emoji": "🎨",
+      "background": "dojo",
+      "garuchanAnimation": "float",
+      "content": "Favorite food, what they hate, catchphrase, dream. Three of these (beyond looks) make the character move.",
+      "highlight": "Depth points:\n- Favorite\n- Hate\n- Catchphrase\n- Dream"
+    },
+    {
+      "id": 7,
+      "duration": 0,
+      "type": "activity",
+      "title": "Use Sound Effects",
+      "speech": "Sound makes the world 3D! 🔊",
+      "emoji": "🔊",
+      "background": "bamboo",
+      "garuchanAnimation": "bounce",
+      "content": "Footsteps, wind, heartbeats. Just one effect makes the picture feel alive. Hunt for them on Suno or effect-sound sites.",
+      "highlight": "Sound ideas:\n- Footsteps\n- Wind\n- Heartbeat"
+    },
+    {
+      "id": 8,
       "type": "outro",
       "duration": 0,
       "garuchanAnimation": "wave",
