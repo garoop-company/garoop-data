@@ -1308,6 +1308,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-04-30-single-mother": {
+      "default": "2026-04-30-single-mother.md",
+      "locales": {
+        "ne": "2026-04-30-single-mother.ne.md",
+        "zh": "2026-04-30-single-mother.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-04-30",
+          "tags": [
+            "シングルママ",
+            "子供の可能性",
+            "家族"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "एकल आमा र तिनीहरूको साहस",
+          "date": "2026-04-30",
+          "description": "एकल आमाहरू कसरी संघर्ष गर्छन् र तिनीहरूले बालबालिकाहरूलाई कस्तो प्रेरित गर्छन्",
+          "tags": [
+            "एकल आमा",
+            "सिर्जनशीलता",
+            "बालबालिका प्रेरणा",
+            "परिवार समर्थन"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "单亲妈妈：勇敢的力量",
+          "date": "2026-04-30",
+          "description": "单亲妈妈面临许多挑战，但她们的勇气和决心激励着我们。让我们探索单亲妈妈的世界，发现她们的故事，并激发我们的创造力和行动力。",
+          "tags": [
+            "单亲妈妈",
+            "家庭",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
