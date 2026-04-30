@@ -1222,6 +1222,92 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-04-28-children": {
+      "default": "2026-04-28-children.md",
+      "locales": {
+        "ne": "2026-04-28-children.ne.md",
+        "zh": "2026-04-28-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "未来を創る子供たちの可能性",
+          "date": "2026-04-28",
+          "description": "子供たちの可能性を広げるワクワクした話",
+          "tags": [
+            "子ども",
+            "可能性",
+            "未来"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिका : सिर्जनशीलता र सम्भावना",
+          "date": "2026-04-28",
+          "description": "बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलता सिकाउने",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "激发小小创造力的火花",
+          "date": "2026-04-28",
+          "description": "如何激发孩子的创造力和行动力，成为一个更好的自己？",
+          "tags": [
+            "孩子",
+            "创造力",
+            "行动力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-04-29-entrepreneurship": {
+      "default": "2026-04-29-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-04-29-entrepreneurship.ne.md",
+        "zh": "2026-04-29-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "自分だけのビジネスを始める魔法",
+          "date": "2026-04-29",
+          "description": "起業の世界で子供たちが輝く",
+          "tags": [
+            "起業",
+            "創造性",
+            "ビジネス"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिका हरूको लागि उद्यमशीलता",
+          "date": "2026-04-29",
+          "description": "बालबालिकाहरूलाई उद्यमशीलता सिकाउने",
+          "tags": [
+            "उद्यमशीलता",
+            "बालबालिका",
+            "सिर्जनशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家，梦想就在眼前",
+          "date": "2026-04-29",
+          "description": "一起探索创业的世界，激发创造力和行动力，让梦想变成现实",
+          "tags": [
+            "创业",
+            "儿童教育",
+            "创造力",
+            "自主学习"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
