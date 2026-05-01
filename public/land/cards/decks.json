@@ -1,0 +1,444 @@
+{
+  "decks": [
+    {
+      "id": "rookie",
+      "title": "みなみのもり",
+      "flavor": "森の生きものたちが集った優しいデッキ",
+      "leader": "🦌",
+      "cards": [
+        {
+          "id": "g_caterpup",
+          "count": 3
+        },
+        {
+          "id": "g_cocoon",
+          "count": 2
+        },
+        {
+          "id": "g_papilord",
+          "count": 1
+        },
+        {
+          "id": "g_bunseed",
+          "count": 3
+        },
+        {
+          "id": "g_leafstag",
+          "count": 2
+        },
+        {
+          "id": "g_stagforest",
+          "count": 1
+        },
+        {
+          "id": "g_beebud",
+          "count": 3
+        },
+        {
+          "id": "g_honeyguard",
+          "count": 2
+        },
+        {
+          "id": "g_queenswarm",
+          "count": 1
+        },
+        {
+          "id": "g_tadleaf",
+          "count": 2
+        },
+        {
+          "id": "g_treefrog",
+          "count": 2
+        },
+        {
+          "id": "g_jungleking",
+          "count": 1
+        },
+        {
+          "id": "g_slimini",
+          "count": 2
+        },
+        {
+          "id": "c_bunkid",
+          "count": 2
+        },
+        {
+          "id": "c_hare",
+          "count": 2
+        },
+        {
+          "id": "c_royalhare",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "volcano",
+      "title": "ほのおざん",
+      "flavor": "火山の獣が暴れまわる超火力デッキ",
+      "leader": "🔥",
+      "cards": [
+        {
+          "id": "f_fyrkit",
+          "count": 3
+        },
+        {
+          "id": "f_pyrofox",
+          "count": 2
+        },
+        {
+          "id": "f_solarfox",
+          "count": 1
+        },
+        {
+          "id": "f_sparkchick",
+          "count": 3
+        },
+        {
+          "id": "f_phoenixblaze",
+          "count": 2
+        },
+        {
+          "id": "f_phoenixrise",
+          "count": 1
+        },
+        {
+          "id": "f_embercat",
+          "count": 3
+        },
+        {
+          "id": "f_flamecat",
+          "count": 2
+        },
+        {
+          "id": "f_volcat",
+          "count": 1
+        },
+        {
+          "id": "f_lavashell",
+          "count": 2
+        },
+        {
+          "id": "f_inferturtle",
+          "count": 2
+        },
+        {
+          "id": "f_phoenixsmall",
+          "count": 2
+        },
+        {
+          "id": "c_dovelet",
+          "count": 2
+        },
+        {
+          "id": "c_hawk",
+          "count": 2
+        },
+        {
+          "id": "c_eagleking",
+          "count": 1
+        },
+        {
+          "id": "fi_charger",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "ocean",
+      "title": "うみのおうこく",
+      "flavor": "海と氷の獣が織りなす速攻デッキ",
+      "leader": "💧",
+      "cards": [
+        {
+          "id": "w_pengling",
+          "count": 3
+        },
+        {
+          "id": "w_pengblade",
+          "count": 2
+        },
+        {
+          "id": "w_emperorpeng",
+          "count": 1
+        },
+        {
+          "id": "w_otterpup",
+          "count": 3
+        },
+        {
+          "id": "w_riverotter",
+          "count": 2
+        },
+        {
+          "id": "w_seaotterking",
+          "count": 1
+        },
+        {
+          "id": "w_sealpup",
+          "count": 3
+        },
+        {
+          "id": "w_frostseal",
+          "count": 2
+        },
+        {
+          "id": "w_sealord",
+          "count": 1
+        },
+        {
+          "id": "w_sharkpup",
+          "count": 2
+        },
+        {
+          "id": "w_megashark",
+          "count": 1
+        },
+        {
+          "id": "w_jellyglow",
+          "count": 2
+        },
+        {
+          "id": "l_sparkmouse",
+          "count": 2
+        },
+        {
+          "id": "l_thundermouse",
+          "count": 2
+        },
+        {
+          "id": "l_stormrat",
+          "count": 1
+        },
+        {
+          "id": "dr_seawyrmling",
+          "count": 1
+        },
+        {
+          "id": "dr_leviathan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "shadow",
+      "title": "よるのしはい",
+      "flavor": "闇と念力で相手を翻弄する策略デッキ",
+      "leader": "🌑",
+      "cards": [
+        {
+          "id": "d_lonepup",
+          "count": 3
+        },
+        {
+          "id": "d_nightwolf",
+          "count": 2
+        },
+        {
+          "id": "d_shadowfang",
+          "count": 1
+        },
+        {
+          "id": "d_crowling",
+          "count": 3
+        },
+        {
+          "id": "d_ravenshade",
+          "count": 2
+        },
+        {
+          "id": "d_dreadcrow",
+          "count": 1
+        },
+        {
+          "id": "d_hatchsnake",
+          "count": 2
+        },
+        {
+          "id": "d_cobraking",
+          "count": 2
+        },
+        {
+          "id": "d_sandscorp",
+          "count": 2
+        },
+        {
+          "id": "p_mysticat",
+          "count": 2
+        },
+        {
+          "id": "p_spiritcat",
+          "count": 2
+        },
+        {
+          "id": "p_cosmocat",
+          "count": 1
+        },
+        {
+          "id": "p_owlet",
+          "count": 2
+        },
+        {
+          "id": "p_wiseowl",
+          "count": 2
+        },
+        {
+          "id": "p_cosmowl",
+          "count": 1
+        },
+        {
+          "id": "p_petbat",
+          "count": 2
+        },
+        {
+          "id": "p_voidbat",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "titan",
+      "title": "てつのとうし",
+      "flavor": "鋼と拳の重戦士で固めた要塞デッキ",
+      "leader": "⚙️",
+      "cards": [
+        {
+          "id": "m_ironbug",
+          "count": 3
+        },
+        {
+          "id": "m_steelbeetle",
+          "count": 2
+        },
+        {
+          "id": "m_titanbeetle",
+          "count": 1
+        },
+        {
+          "id": "m_steelhog",
+          "count": 3
+        },
+        {
+          "id": "m_tankhog",
+          "count": 2
+        },
+        {
+          "id": "m_steelraptor",
+          "count": 2
+        },
+        {
+          "id": "fi_joeyfist",
+          "count": 3
+        },
+        {
+          "id": "fi_boxroo",
+          "count": 2
+        },
+        {
+          "id": "fi_heavyroo",
+          "count": 1
+        },
+        {
+          "id": "fi_bearcub",
+          "count": 3
+        },
+        {
+          "id": "fi_brownbear",
+          "count": 2
+        },
+        {
+          "id": "fi_grizzking",
+          "count": 1
+        },
+        {
+          "id": "fi_karatecrab",
+          "count": 2
+        },
+        {
+          "id": "fi_lordcrab",
+          "count": 1
+        },
+        {
+          "id": "fi_charger",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "dragon",
+      "title": "りゅうのほし",
+      "flavor": "伝説の竜が支配する最強デッキ",
+      "leader": "🐉",
+      "cards": [
+        {
+          "id": "dr_hatchling",
+          "count": 3
+        },
+        {
+          "id": "dr_wyrm",
+          "count": 2
+        },
+        {
+          "id": "dr_ancient",
+          "count": 1
+        },
+        {
+          "id": "dr_seawyrmling",
+          "count": 2
+        },
+        {
+          "id": "dr_leviathan",
+          "count": 1
+        },
+        {
+          "id": "dr_skywyvern",
+          "count": 2
+        },
+        {
+          "id": "l_boltbunny",
+          "count": 2
+        },
+        {
+          "id": "l_voltrabbit",
+          "count": 2
+        },
+        {
+          "id": "l_tempestbun",
+          "count": 1
+        },
+        {
+          "id": "l_voltbug",
+          "count": 2
+        },
+        {
+          "id": "l_boltbeetle",
+          "count": 1
+        },
+        {
+          "id": "p_octomind",
+          "count": 2
+        },
+        {
+          "id": "f_phoenixsmall",
+          "count": 2
+        },
+        {
+          "id": "f_phoenixblaze",
+          "count": 2
+        },
+        {
+          "id": "f_phoenixrise",
+          "count": 1
+        },
+        {
+          "id": "c_squirreling",
+          "count": 2
+        },
+        {
+          "id": "c_tailmaster",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

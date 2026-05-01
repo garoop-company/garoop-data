@@ -1,0 +1,2624 @@
+{
+  "animals": [
+    {
+      "id": "g_caterpup",
+      "name": "ハッパムシ",
+      "type": "grass",
+      "stage": "basic",
+      "hp": 40,
+      "weakness": "fire",
+      "resistance": "water",
+      "retreat": 1,
+      "emoji": "🐛",
+      "rarity": "common",
+      "flavor": "葉っぱを食べて大きくなる",
+      "attacks": [
+        {
+          "name": "ぱくぱく",
+          "cost": 1,
+          "damage": 10,
+          "flavor": "葉のかみつき"
+        }
+      ]
+    },
+    {
+      "id": "g_cocoon",
+      "name": "コクーンガル",
+      "type": "grass",
+      "stage": "stage1",
+      "evolvesFrom": "g_caterpup",
+      "hp": 70,
+      "weakness": "fire",
+      "resistance": "water",
+      "retreat": 2,
+      "emoji": "🪲",
+      "rarity": "common",
+      "flavor": "硬い殻で身を守る",
+      "ability": {
+        "name": "こうねんき",
+        "description": "登場時に2HP回復",
+        "trigger": "enter",
+        "effect": {
+          "kind": "heal",
+          "amount": 10
+        }
+      },
+      "attacks": [
+        {
+          "name": "タックル",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "殻ごと突進"
+        }
+      ]
+    },
+    {
+      "id": "g_papilord",
+      "name": "パピロード",
+      "type": "grass",
+      "stage": "stage2",
+      "evolvesFrom": "g_cocoon",
+      "hp": 130,
+      "weakness": "fire",
+      "resistance": "water",
+      "retreat": 1,
+      "emoji": "🦋",
+      "rarity": "rare",
+      "flavor": "虹色の鱗粉を撒き散らす蝶の王",
+      "attacks": [
+        {
+          "name": "りんぷん",
+          "cost": 2,
+          "damage": 30,
+          "flavor": "まひ効果あり",
+          "effects": [
+            {
+              "kind": "paralyze",
+              "chance": 0.5
+            }
+          ]
+        },
+        {
+          "name": "サイケビーム",
+          "cost": 4,
+          "damage": 90,
+          "flavor": "虹色の閃光",
+          "effects": [
+            {
+              "kind": "confuse",
+              "chance": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g_bunseed",
+      "name": "ハッパウサ",
+      "type": "grass",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "fire",
+      "resistance": "water",
+      "retreat": 1,
+      "emoji": "🐰",
+      "rarity": "common",
+      "flavor": "頭にハッパが生えた子うさぎ",
+      "attacks": [
+        {
+          "name": "リーフキック",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "足のハッパで蹴る"
+        }
+      ]
+    },
+    {
+      "id": "g_leafstag",
+      "name": "リーフディア",
+      "type": "grass",
+      "stage": "stage1",
+      "evolvesFrom": "g_bunseed",
+      "hp": 90,
+      "weakness": "fire",
+      "resistance": "water",
+      "retreat": 2,
+      "emoji": "🦌",
+      "rarity": "uncommon",
+      "flavor": "森を駆ける若い鹿",
+      "attacks": [
+        {
+          "name": "つのつき",
+          "cost": 2,
+          "damage": 35,
+          "flavor": "鋭い角で突く"
+        },
+        {
+          "name": "はっぱカッター",
+          "cost": 3,
+          "damage": 55,
+          "flavor": "葉刃を飛ばす"
+        }
+      ]
+    },
+    {
+      "id": "g_stagforest",
+      "name": "フォレストキング",
+      "type": "grass",
+      "stage": "stage2",
+      "evolvesFrom": "g_leafstag",
+      "hp": 150,
+      "weakness": "fire",
+      "resistance": "water",
+      "retreat": 3,
+      "emoji": "🦌",
+      "rarity": "legendary",
+      "flavor": "森の精霊が宿る大鹿",
+      "ability": {
+        "name": "もりのいぶき",
+        "description": "登場時カード2枚ドロー",
+        "trigger": "enter",
+        "effect": {
+          "kind": "draw",
+          "cards": 2
+        }
+      },
+      "attacks": [
+        {
+          "name": "ねっこしばり",
+          "cost": 2,
+          "damage": 30,
+          "flavor": "まひの可能性",
+          "effects": [
+            {
+              "kind": "paralyze",
+              "chance": 0.6
+            }
+          ]
+        },
+        {
+          "name": "ソーラーバースト",
+          "cost": 5,
+          "damage": 130,
+          "flavor": "太陽光の大砲"
+        }
+      ]
+    },
+    {
+      "id": "g_beebud",
+      "name": "ハニービー",
+      "type": "grass",
+      "stage": "basic",
+      "hp": 40,
+      "weakness": "fire",
+      "resistance": "fighting",
+      "retreat": 0,
+      "emoji": "🐝",
+      "rarity": "common",
+      "flavor": "巣を守る働きバチ",
+      "attacks": [
+        {
+          "name": "はり",
+          "cost": 1,
+          "damage": 10,
+          "flavor": "どくの可能性",
+          "effects": [
+            {
+              "kind": "poison",
+              "chance": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g_honeyguard",
+      "name": "ハニーガード",
+      "type": "grass",
+      "stage": "stage1",
+      "evolvesFrom": "g_beebud",
+      "hp": 80,
+      "weakness": "fire",
+      "resistance": "fighting",
+      "retreat": 1,
+      "emoji": "🐝",
+      "rarity": "uncommon",
+      "flavor": "兵隊バチの精鋭",
+      "attacks": [
+        {
+          "name": "ダブルスティング",
+          "cost": 2,
+          "damage": 35,
+          "flavor": "どく確定",
+          "effects": [
+            {
+              "kind": "poison"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g_queenswarm",
+      "name": "クイーンビー",
+      "type": "grass",
+      "stage": "stage2",
+      "evolvesFrom": "g_honeyguard",
+      "hp": 130,
+      "weakness": "fire",
+      "resistance": "fighting",
+      "retreat": 2,
+      "emoji": "🐝",
+      "rarity": "rare",
+      "flavor": "群れを率いる女王蜂",
+      "attacks": [
+        {
+          "name": "スウォーム",
+          "cost": 3,
+          "damage": 60,
+          "flavor": "群れで襲う"
+        },
+        {
+          "name": "ロイヤルゼリー",
+          "cost": 4,
+          "damage": 60,
+          "flavor": "HP30回復",
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g_tadleaf",
+      "name": "ハッパガエル",
+      "type": "grass",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "fire",
+      "resistance": "water",
+      "retreat": 1,
+      "emoji": "🐸",
+      "rarity": "common",
+      "flavor": "背中に苔が生えたカエル",
+      "attacks": [
+        {
+          "name": "みずかけ",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "湿った舌"
+        }
+      ]
+    },
+    {
+      "id": "g_treefrog",
+      "name": "ツリーフロッグ",
+      "type": "grass",
+      "stage": "stage1",
+      "evolvesFrom": "g_tadleaf",
+      "hp": 90,
+      "weakness": "fire",
+      "resistance": "water",
+      "retreat": 1,
+      "emoji": "🐸",
+      "rarity": "uncommon",
+      "flavor": "木の上から獲物を狙う",
+      "attacks": [
+        {
+          "name": "リーフタン",
+          "cost": 2,
+          "damage": 30,
+          "flavor": "葉舌アタック"
+        },
+        {
+          "name": "マッドショット",
+          "cost": 3,
+          "damage": 50,
+          "flavor": "泥の弾丸"
+        }
+      ]
+    },
+    {
+      "id": "g_jungleking",
+      "name": "ジャングルロード",
+      "type": "grass",
+      "stage": "stage2",
+      "evolvesFrom": "g_treefrog",
+      "hp": 140,
+      "weakness": "fire",
+      "resistance": "water",
+      "retreat": 3,
+      "emoji": "🐸",
+      "rarity": "rare",
+      "flavor": "密林の支配者",
+      "attacks": [
+        {
+          "name": "つるムチ",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "長いつるで叩く"
+        },
+        {
+          "name": "ジャングルラッシュ",
+          "cost": 4,
+          "damage": 100,
+          "flavor": "怒りの突進"
+        }
+      ]
+    },
+    {
+      "id": "f_fyrkit",
+      "name": "ファイアキッド",
+      "type": "fire",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 1,
+      "emoji": "🦊",
+      "rarity": "common",
+      "flavor": "尻尾に小さな炎",
+      "attacks": [
+        {
+          "name": "ひのこ",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "やけど可能性",
+          "effects": [
+            {
+              "kind": "burn",
+              "chance": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_pyrofox",
+      "name": "パイロフォックス",
+      "type": "fire",
+      "stage": "stage1",
+      "evolvesFrom": "f_fyrkit",
+      "hp": 90,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 1,
+      "emoji": "🦊",
+      "rarity": "uncommon",
+      "flavor": "炎を操る狐",
+      "attacks": [
+        {
+          "name": "かみつき",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "鋭い牙"
+        },
+        {
+          "name": "フレイムテイル",
+          "cost": 3,
+          "damage": 60,
+          "flavor": "炎の尻尾",
+          "effects": [
+            {
+              "kind": "burn",
+              "chance": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_solarfox",
+      "name": "ソーラーフォックス",
+      "type": "fire",
+      "stage": "stage2",
+      "evolvesFrom": "f_pyrofox",
+      "hp": 150,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 2,
+      "emoji": "🦊",
+      "rarity": "legendary",
+      "flavor": "九尾の太陽の化身",
+      "ability": {
+        "name": "ソーラーチャージ",
+        "description": "登場時+2エネルギー",
+        "trigger": "enter",
+        "effect": {
+          "kind": "energy",
+          "amount": 2
+        }
+      },
+      "attacks": [
+        {
+          "name": "ナインテイル",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "九本の尻尾の連撃"
+        },
+        {
+          "name": "サンセットビーム",
+          "cost": 5,
+          "damage": 130,
+          "flavor": "太陽の光線",
+          "effects": [
+            {
+              "kind": "burn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_sparkchick",
+      "name": "スパークチック",
+      "type": "fire",
+      "stage": "basic",
+      "hp": 40,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 0,
+      "emoji": "🐤",
+      "rarity": "common",
+      "flavor": "火花を散らす雛鳥",
+      "attacks": [
+        {
+          "name": "つつく",
+          "cost": 1,
+          "damage": 10,
+          "flavor": "小さなつつき"
+        }
+      ]
+    },
+    {
+      "id": "f_phoenixblaze",
+      "name": "フェニックス",
+      "type": "fire",
+      "stage": "stage1",
+      "evolvesFrom": "f_sparkchick",
+      "hp": 90,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 1,
+      "emoji": "🦅",
+      "rarity": "rare",
+      "flavor": "炎を纏う伝説の鳥",
+      "attacks": [
+        {
+          "name": "つばさのほのお",
+          "cost": 2,
+          "damage": 35,
+          "flavor": "炎の翼で叩く",
+          "effects": [
+            {
+              "kind": "burn",
+              "chance": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_phoenixrise",
+      "name": "リバースフェニックス",
+      "type": "fire",
+      "stage": "stage2",
+      "evolvesFrom": "f_phoenixblaze",
+      "hp": 140,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 2,
+      "emoji": "🦅",
+      "rarity": "legendary",
+      "flavor": "何度でも蘇る不死鳥",
+      "ability": {
+        "name": "ふっかつ",
+        "description": "登場時HP30回復",
+        "trigger": "enter",
+        "effect": {
+          "kind": "heal",
+          "amount": 30
+        }
+      },
+      "attacks": [
+        {
+          "name": "ほのおのうず",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "炎の渦",
+          "effects": [
+            {
+              "kind": "burn"
+            }
+          ]
+        },
+        {
+          "name": "インフェルノ",
+          "cost": 5,
+          "damage": 130,
+          "flavor": "地獄の業火",
+          "effects": [
+            {
+              "kind": "recoil",
+              "amount": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_embercat",
+      "name": "エンバーキャット",
+      "type": "fire",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 1,
+      "emoji": "🐈",
+      "rarity": "common",
+      "flavor": "炎を吐く子猫",
+      "attacks": [
+        {
+          "name": "ひのねこパンチ",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "炎の前足"
+        }
+      ]
+    },
+    {
+      "id": "f_flamecat",
+      "name": "フレイムキャット",
+      "type": "fire",
+      "stage": "stage1",
+      "evolvesFrom": "f_embercat",
+      "hp": 90,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 1,
+      "emoji": "🐈",
+      "rarity": "uncommon",
+      "flavor": "炎の鬣を持つ猫",
+      "attacks": [
+        {
+          "name": "ひっかき",
+          "cost": 1,
+          "damage": 25,
+          "flavor": "鋭い爪"
+        },
+        {
+          "name": "ファイアダッシュ",
+          "cost": 3,
+          "damage": 55,
+          "flavor": "炎の突進",
+          "effects": [
+            {
+              "kind": "burn",
+              "chance": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_volcat",
+      "name": "ボルカット",
+      "type": "fire",
+      "stage": "stage2",
+      "evolvesFrom": "f_flamecat",
+      "hp": 140,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 2,
+      "emoji": "🐅",
+      "rarity": "rare",
+      "flavor": "火山に住む獅子",
+      "attacks": [
+        {
+          "name": "マグマパンチ",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "やけど確定",
+          "effects": [
+            {
+              "kind": "burn"
+            }
+          ]
+        },
+        {
+          "name": "ボルケーノクラッシュ",
+          "cost": 5,
+          "damage": 120,
+          "flavor": "噴火の一撃"
+        }
+      ]
+    },
+    {
+      "id": "f_lavashell",
+      "name": "マグマガメ",
+      "type": "fire",
+      "stage": "basic",
+      "hp": 60,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 2,
+      "emoji": "🐢",
+      "rarity": "common",
+      "flavor": "甲羅から噴火する亀",
+      "attacks": [
+        {
+          "name": "こうらタックル",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "硬い甲羅で突進"
+        }
+      ]
+    },
+    {
+      "id": "f_inferturtle",
+      "name": "インフェルタートル",
+      "type": "fire",
+      "stage": "stage1",
+      "evolvesFrom": "f_lavashell",
+      "hp": 110,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 3,
+      "emoji": "🐢",
+      "rarity": "uncommon",
+      "flavor": "マグマを操る亀の戦士",
+      "attacks": [
+        {
+          "name": "マグマブロー",
+          "cost": 2,
+          "damage": 35,
+          "flavor": "マグマの拳"
+        },
+        {
+          "name": "ヒートウェーブ",
+          "cost": 4,
+          "damage": 80,
+          "flavor": "熱波",
+          "effects": [
+            {
+              "kind": "burn",
+              "chance": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_pengling",
+      "name": "ペンギング",
+      "type": "water",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 1,
+      "emoji": "🐧",
+      "rarity": "common",
+      "flavor": "生まれたての氷上ペンギン",
+      "attacks": [
+        {
+          "name": "みずでっぽう",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "水の弾丸"
+        }
+      ]
+    },
+    {
+      "id": "w_pengblade",
+      "name": "ブレードペンギン",
+      "type": "water",
+      "stage": "stage1",
+      "evolvesFrom": "w_pengling",
+      "hp": 90,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 1,
+      "emoji": "🐧",
+      "rarity": "uncommon",
+      "flavor": "クチバシが氷の刃",
+      "attacks": [
+        {
+          "name": "こおりのつばさ",
+          "cost": 2,
+          "damage": 35,
+          "flavor": "氷翼斬",
+          "effects": [
+            {
+              "kind": "paralyze",
+              "chance": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_emperorpeng",
+      "name": "エンペラーペンギン",
+      "type": "water",
+      "stage": "stage2",
+      "evolvesFrom": "w_pengblade",
+      "hp": 140,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 2,
+      "emoji": "🐧",
+      "rarity": "rare",
+      "flavor": "氷海の皇帝",
+      "attacks": [
+        {
+          "name": "アイスショット",
+          "cost": 2,
+          "damage": 50,
+          "flavor": "氷弾の連射"
+        },
+        {
+          "name": "ブリザード",
+          "cost": 4,
+          "damage": 100,
+          "flavor": "吹雪",
+          "effects": [
+            {
+              "kind": "paralyze",
+              "chance": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_otterpup",
+      "name": "オッタープップ",
+      "type": "water",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 0,
+      "emoji": "🦦",
+      "rarity": "common",
+      "flavor": "お腹に貝を抱える子カワウソ",
+      "attacks": [
+        {
+          "name": "かいこうげき",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "貝で殴る"
+        }
+      ]
+    },
+    {
+      "id": "w_riverotter",
+      "name": "リバーオッター",
+      "type": "water",
+      "stage": "stage1",
+      "evolvesFrom": "w_otterpup",
+      "hp": 90,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 1,
+      "emoji": "🦦",
+      "rarity": "uncommon",
+      "flavor": "川を駆ける名手",
+      "attacks": [
+        {
+          "name": "うずしおキック",
+          "cost": 2,
+          "damage": 35,
+          "flavor": "渦の蹴り"
+        },
+        {
+          "name": "ウェイブダッシュ",
+          "cost": 3,
+          "damage": 55,
+          "flavor": "波乗りの突進"
+        }
+      ]
+    },
+    {
+      "id": "w_seaotterking",
+      "name": "シーオッターキング",
+      "type": "water",
+      "stage": "stage2",
+      "evolvesFrom": "w_riverotter",
+      "hp": 140,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 2,
+      "emoji": "🦦",
+      "rarity": "rare",
+      "flavor": "海の領主",
+      "ability": {
+        "name": "なみのり",
+        "description": "登場時カード1枚ドロー",
+        "trigger": "enter",
+        "effect": {
+          "kind": "draw",
+          "cards": 1
+        }
+      },
+      "attacks": [
+        {
+          "name": "ハイドロパンチ",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "水圧の拳"
+        },
+        {
+          "name": "タイダルウェーブ",
+          "cost": 5,
+          "damage": 130,
+          "flavor": "津波の襲来"
+        }
+      ]
+    },
+    {
+      "id": "w_sealpup",
+      "name": "シールパップ",
+      "type": "water",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 1,
+      "emoji": "🦭",
+      "rarity": "common",
+      "flavor": "氷の上で日向ぼっこ",
+      "attacks": [
+        {
+          "name": "たいあたり",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "丸い体当たり"
+        }
+      ]
+    },
+    {
+      "id": "w_frostseal",
+      "name": "フロストシール",
+      "type": "water",
+      "stage": "stage1",
+      "evolvesFrom": "w_sealpup",
+      "hp": 90,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 2,
+      "emoji": "🦭",
+      "rarity": "uncommon",
+      "flavor": "氷を吐くアザラシ",
+      "attacks": [
+        {
+          "name": "こおりブレス",
+          "cost": 2,
+          "damage": 35,
+          "flavor": "冷気の息",
+          "effects": [
+            {
+              "kind": "paralyze",
+              "chance": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w_sealord",
+      "name": "シーローズ",
+      "type": "water",
+      "stage": "stage2",
+      "evolvesFrom": "w_frostseal",
+      "hp": 140,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 3,
+      "emoji": "🦭",
+      "rarity": "rare",
+      "flavor": "氷海の貴族",
+      "attacks": [
+        {
+          "name": "クリスタルアロー",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "氷の矢"
+        },
+        {
+          "name": "グレイシャーバースト",
+          "cost": 5,
+          "damage": 120,
+          "flavor": "氷河爆発"
+        }
+      ]
+    },
+    {
+      "id": "w_sharkpup",
+      "name": "シャークパップ",
+      "type": "water",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 1,
+      "emoji": "🦈",
+      "rarity": "common",
+      "flavor": "まだ歯が生えそろわないサメ",
+      "attacks": [
+        {
+          "name": "かみつき",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "弱い噛み付き"
+        }
+      ]
+    },
+    {
+      "id": "w_megashark",
+      "name": "メガシャーク",
+      "type": "water",
+      "stage": "stage1",
+      "evolvesFrom": "w_sharkpup",
+      "hp": 110,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 2,
+      "emoji": "🦈",
+      "rarity": "rare",
+      "flavor": "海の暴君",
+      "attacks": [
+        {
+          "name": "バイトクラッシュ",
+          "cost": 2,
+          "damage": 50,
+          "flavor": "猛烈な噛み付き"
+        },
+        {
+          "name": "デプスアタック",
+          "cost": 4,
+          "damage": 90,
+          "flavor": "深海からの突撃"
+        }
+      ]
+    },
+    {
+      "id": "l_sparkmouse",
+      "name": "スパークマウス",
+      "type": "lightning",
+      "stage": "basic",
+      "hp": 40,
+      "weakness": "fighting",
+      "resistance": "metal",
+      "retreat": 0,
+      "emoji": "🐭",
+      "rarity": "common",
+      "flavor": "ほっぺに電気を貯めるネズミ",
+      "attacks": [
+        {
+          "name": "でんきショック",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "まひ可能性",
+          "effects": [
+            {
+              "kind": "paralyze",
+              "chance": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_thundermouse",
+      "name": "サンダーマウス",
+      "type": "lightning",
+      "stage": "stage1",
+      "evolvesFrom": "l_sparkmouse",
+      "hp": 80,
+      "weakness": "fighting",
+      "resistance": "metal",
+      "retreat": 0,
+      "emoji": "🐭",
+      "rarity": "uncommon",
+      "flavor": "雷を呼ぶ大ネズミ",
+      "attacks": [
+        {
+          "name": "かみなり",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "まひ可能性",
+          "effects": [
+            {
+              "kind": "paralyze",
+              "chance": 0.4
+            }
+          ]
+        },
+        {
+          "name": "クイックタックル",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "素早い体当たり"
+        }
+      ]
+    },
+    {
+      "id": "l_stormrat",
+      "name": "ストームラット",
+      "type": "lightning",
+      "stage": "stage2",
+      "evolvesFrom": "l_thundermouse",
+      "hp": 130,
+      "weakness": "fighting",
+      "resistance": "metal",
+      "retreat": 1,
+      "emoji": "🐭",
+      "rarity": "rare",
+      "flavor": "嵐を従える小さき王",
+      "attacks": [
+        {
+          "name": "プラズマキック",
+          "cost": 2,
+          "damage": 50,
+          "flavor": "プラズマの蹴り"
+        },
+        {
+          "name": "サンダーストーム",
+          "cost": 4,
+          "damage": 100,
+          "flavor": "雷の嵐",
+          "effects": [
+            {
+              "kind": "paralyze"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_boltbunny",
+      "name": "ボルトバニー",
+      "type": "lightning",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "fighting",
+      "resistance": "metal",
+      "retreat": 0,
+      "emoji": "🐰",
+      "rarity": "common",
+      "flavor": "耳がアンテナのウサギ",
+      "attacks": [
+        {
+          "name": "スパーク",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "電気のキック"
+        }
+      ]
+    },
+    {
+      "id": "l_voltrabbit",
+      "name": "ボルトラビット",
+      "type": "lightning",
+      "stage": "stage1",
+      "evolvesFrom": "l_boltbunny",
+      "hp": 80,
+      "weakness": "fighting",
+      "resistance": "metal",
+      "retreat": 0,
+      "emoji": "🐰",
+      "rarity": "uncommon",
+      "flavor": "稲妻のように跳ねる",
+      "attacks": [
+        {
+          "name": "ライトニングキック",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "光速の蹴り"
+        }
+      ]
+    },
+    {
+      "id": "l_tempestbun",
+      "name": "テンペストバニー",
+      "type": "lightning",
+      "stage": "stage2",
+      "evolvesFrom": "l_voltrabbit",
+      "hp": 130,
+      "weakness": "fighting",
+      "resistance": "metal",
+      "retreat": 1,
+      "emoji": "🐰",
+      "rarity": "rare",
+      "flavor": "嵐のうさぎ",
+      "attacks": [
+        {
+          "name": "リープボルト",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "跳躍雷撃"
+        },
+        {
+          "name": "テンペストエンド",
+          "cost": 5,
+          "damage": 120,
+          "flavor": "嵐の終焉",
+          "effects": [
+            {
+              "kind": "paralyze"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_voltbug",
+      "name": "ボルトビートル",
+      "type": "lightning",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "fighting",
+      "resistance": "metal",
+      "retreat": 1,
+      "emoji": "🪲",
+      "rarity": "common",
+      "flavor": "電気を蓄える甲虫",
+      "attacks": [
+        {
+          "name": "チャージタックル",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "電気を帯びた突進"
+        }
+      ]
+    },
+    {
+      "id": "l_boltbeetle",
+      "name": "プラズマビートル",
+      "type": "lightning",
+      "stage": "stage1",
+      "evolvesFrom": "l_voltbug",
+      "hp": 100,
+      "weakness": "fighting",
+      "resistance": "metal",
+      "retreat": 1,
+      "emoji": "🪲",
+      "rarity": "rare",
+      "flavor": "角からプラズマを放つ",
+      "ability": {
+        "name": "たいでん",
+        "description": "登場時+1エネルギー",
+        "trigger": "enter",
+        "effect": {
+          "kind": "energy",
+          "amount": 1
+        }
+      },
+      "attacks": [
+        {
+          "name": "プラズマホーン",
+          "cost": 2,
+          "damage": 45,
+          "flavor": "プラズマの角"
+        },
+        {
+          "name": "ライトニングロード",
+          "cost": 4,
+          "damage": 90,
+          "flavor": "雷の道"
+        }
+      ]
+    },
+    {
+      "id": "p_mysticat",
+      "name": "ミスティキャット",
+      "type": "psychic",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "darkness",
+      "resistance": "fighting",
+      "retreat": 1,
+      "emoji": "🐈",
+      "rarity": "common",
+      "flavor": "神秘の力を秘めた子猫",
+      "attacks": [
+        {
+          "name": "サイコショット",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "念力の弾"
+        }
+      ]
+    },
+    {
+      "id": "p_spiritcat",
+      "name": "スピリットキャット",
+      "type": "psychic",
+      "stage": "stage1",
+      "evolvesFrom": "p_mysticat",
+      "hp": 90,
+      "weakness": "darkness",
+      "resistance": "fighting",
+      "retreat": 1,
+      "emoji": "🐈",
+      "rarity": "uncommon",
+      "flavor": "霊感を持つ猫",
+      "attacks": [
+        {
+          "name": "マインドブレイク",
+          "cost": 2,
+          "damage": 35,
+          "flavor": "混乱可能性",
+          "effects": [
+            {
+              "kind": "confuse",
+              "chance": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p_cosmocat",
+      "name": "コスモキャット",
+      "type": "psychic",
+      "stage": "stage2",
+      "evolvesFrom": "p_spiritcat",
+      "hp": 140,
+      "weakness": "darkness",
+      "resistance": "fighting",
+      "retreat": 2,
+      "emoji": "🐈",
+      "rarity": "rare",
+      "flavor": "宇宙を見通す猫",
+      "attacks": [
+        {
+          "name": "スターブラスト",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "星の閃光"
+        },
+        {
+          "name": "コスミックレイ",
+          "cost": 5,
+          "damage": 130,
+          "flavor": "宇宙の光線",
+          "effects": [
+            {
+              "kind": "confuse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p_owlet",
+      "name": "オウレット",
+      "type": "psychic",
+      "stage": "basic",
+      "hp": 40,
+      "weakness": "darkness",
+      "resistance": "fighting",
+      "retreat": 0,
+      "emoji": "🦉",
+      "rarity": "common",
+      "flavor": "小さな知恵者",
+      "attacks": [
+        {
+          "name": "つつく",
+          "cost": 1,
+          "damage": 10,
+          "flavor": "鋭いクチバシ"
+        }
+      ]
+    },
+    {
+      "id": "p_wiseowl",
+      "name": "ワイズオウル",
+      "type": "psychic",
+      "stage": "stage1",
+      "evolvesFrom": "p_owlet",
+      "hp": 80,
+      "weakness": "darkness",
+      "resistance": "fighting",
+      "retreat": 1,
+      "emoji": "🦉",
+      "rarity": "uncommon",
+      "flavor": "森の賢者",
+      "ability": {
+        "name": "みらいよち",
+        "description": "登場時カード1枚ドロー",
+        "trigger": "enter",
+        "effect": {
+          "kind": "draw",
+          "cards": 1
+        }
+      },
+      "attacks": [
+        {
+          "name": "ヒプノパルス",
+          "cost": 2,
+          "damage": 30,
+          "flavor": "催眠の波",
+          "effects": [
+            {
+              "kind": "sleep",
+              "chance": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p_cosmowl",
+      "name": "コスモオウル",
+      "type": "psychic",
+      "stage": "stage2",
+      "evolvesFrom": "p_wiseowl",
+      "hp": 130,
+      "weakness": "darkness",
+      "resistance": "fighting",
+      "retreat": 2,
+      "emoji": "🦉",
+      "rarity": "legendary",
+      "flavor": "星々の語り部",
+      "ability": {
+        "name": "せいざよみ",
+        "description": "登場時カード2枚ドロー",
+        "trigger": "enter",
+        "effect": {
+          "kind": "draw",
+          "cards": 2
+        }
+      },
+      "attacks": [
+        {
+          "name": "スターウィング",
+          "cost": 3,
+          "damage": 60,
+          "flavor": "星屑の翼"
+        },
+        {
+          "name": "ギャラクシーソング",
+          "cost": 5,
+          "damage": 110,
+          "flavor": "銀河の歌",
+          "effects": [
+            {
+              "kind": "sleep"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p_petbat",
+      "name": "ペットバット",
+      "type": "psychic",
+      "stage": "basic",
+      "hp": 40,
+      "weakness": "darkness",
+      "resistance": "fighting",
+      "retreat": 0,
+      "emoji": "🦇",
+      "rarity": "common",
+      "flavor": "なつっこい小コウモリ",
+      "attacks": [
+        {
+          "name": "スーパーソニック",
+          "cost": 1,
+          "damage": 10,
+          "flavor": "混乱可能性",
+          "effects": [
+            {
+              "kind": "confuse",
+              "chance": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p_voidbat",
+      "name": "ボイドバット",
+      "type": "psychic",
+      "stage": "stage1",
+      "evolvesFrom": "p_petbat",
+      "hp": 80,
+      "weakness": "darkness",
+      "resistance": "fighting",
+      "retreat": 1,
+      "emoji": "🦇",
+      "rarity": "uncommon",
+      "flavor": "闇から現れる蝙蝠",
+      "attacks": [
+        {
+          "name": "シャドウバイト",
+          "cost": 2,
+          "damage": 30,
+          "flavor": "影の噛みつき"
+        },
+        {
+          "name": "マインドドレイン",
+          "cost": 3,
+          "damage": 50,
+          "flavor": "HP20回復",
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fi_joeyfist",
+      "name": "ジョーイフィスト",
+      "type": "fighting",
+      "stage": "basic",
+      "hp": 60,
+      "weakness": "psychic",
+      "resistance": "darkness",
+      "retreat": 1,
+      "emoji": "🦘",
+      "rarity": "common",
+      "flavor": "生まれつきの拳闘士",
+      "attacks": [
+        {
+          "name": "ジャブ",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "素早い拳"
+        }
+      ]
+    },
+    {
+      "id": "fi_boxroo",
+      "name": "ボックスルー",
+      "type": "fighting",
+      "stage": "stage1",
+      "evolvesFrom": "fi_joeyfist",
+      "hp": 100,
+      "weakness": "psychic",
+      "resistance": "darkness",
+      "retreat": 1,
+      "emoji": "🦘",
+      "rarity": "uncommon",
+      "flavor": "カンガルー流ボクシング",
+      "attacks": [
+        {
+          "name": "ダブルパンチ",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "二連撃"
+        },
+        {
+          "name": "スピンキック",
+          "cost": 3,
+          "damage": 60,
+          "flavor": "回転キック"
+        }
+      ]
+    },
+    {
+      "id": "fi_heavyroo",
+      "name": "ヘビールー",
+      "type": "fighting",
+      "stage": "stage2",
+      "evolvesFrom": "fi_boxroo",
+      "hp": 160,
+      "weakness": "psychic",
+      "resistance": "darkness",
+      "retreat": 2,
+      "emoji": "🦘",
+      "rarity": "rare",
+      "flavor": "ヘビー級チャンピオン",
+      "attacks": [
+        {
+          "name": "メガアッパー",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "炸裂のアッパー"
+        },
+        {
+          "name": "ファイナルブロー",
+          "cost": 5,
+          "damage": 140,
+          "flavor": "勝利の一撃"
+        }
+      ]
+    },
+    {
+      "id": "fi_bearcub",
+      "name": "ベアカブ",
+      "type": "fighting",
+      "stage": "basic",
+      "hp": 60,
+      "weakness": "psychic",
+      "resistance": "darkness",
+      "retreat": 2,
+      "emoji": "🐻",
+      "rarity": "common",
+      "flavor": "腕白な小熊",
+      "attacks": [
+        {
+          "name": "ひっかき",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "爪攻撃"
+        }
+      ]
+    },
+    {
+      "id": "fi_brownbear",
+      "name": "ブラウンベア",
+      "type": "fighting",
+      "stage": "stage1",
+      "evolvesFrom": "fi_bearcub",
+      "hp": 110,
+      "weakness": "psychic",
+      "resistance": "darkness",
+      "retreat": 2,
+      "emoji": "🐻",
+      "rarity": "uncommon",
+      "flavor": "森の中で暮らす熊",
+      "attacks": [
+        {
+          "name": "ベアハグ",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "抱きしめ攻撃"
+        },
+        {
+          "name": "パワースラム",
+          "cost": 3,
+          "damage": 65,
+          "flavor": "体重を乗せた一撃"
+        }
+      ]
+    },
+    {
+      "id": "fi_grizzking",
+      "name": "グリズリーキング",
+      "type": "fighting",
+      "stage": "stage2",
+      "evolvesFrom": "fi_brownbear",
+      "hp": 170,
+      "weakness": "psychic",
+      "resistance": "darkness",
+      "retreat": 3,
+      "emoji": "🐻",
+      "rarity": "legendary",
+      "flavor": "森の絶対王者",
+      "ability": {
+        "name": "いかく",
+        "description": "登場時シールド+30",
+        "trigger": "enter",
+        "effect": {
+          "kind": "shield",
+          "amount": 30
+        }
+      },
+      "attacks": [
+        {
+          "name": "リッパーアタック",
+          "cost": 3,
+          "damage": 75,
+          "flavor": "裂き爪"
+        },
+        {
+          "name": "ロイヤルクラッシュ",
+          "cost": 5,
+          "damage": 140,
+          "flavor": "王者の一撃"
+        }
+      ]
+    },
+    {
+      "id": "fi_karatecrab",
+      "name": "カラテクラブ",
+      "type": "fighting",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "psychic",
+      "resistance": "darkness",
+      "retreat": 1,
+      "emoji": "🦀",
+      "rarity": "common",
+      "flavor": "空手を極めた蟹",
+      "attacks": [
+        {
+          "name": "ハサミチョップ",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "一刀両断"
+        }
+      ]
+    },
+    {
+      "id": "fi_lordcrab",
+      "name": "ロードクラブ",
+      "type": "fighting",
+      "stage": "stage1",
+      "evolvesFrom": "fi_karatecrab",
+      "hp": 100,
+      "weakness": "psychic",
+      "resistance": "darkness",
+      "retreat": 2,
+      "emoji": "🦀",
+      "rarity": "uncommon",
+      "flavor": "蟹拳の達人",
+      "attacks": [
+        {
+          "name": "ダブルチョップ",
+          "cost": 2,
+          "damage": 45,
+          "flavor": "二刀流"
+        },
+        {
+          "name": "シェルディフェンス",
+          "cost": 1,
+          "damage": 0,
+          "flavor": "シールド+30",
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d_lonepup",
+      "name": "ロンパップ",
+      "type": "darkness",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "fighting",
+      "resistance": "psychic",
+      "retreat": 0,
+      "emoji": "🐺",
+      "rarity": "common",
+      "flavor": "群れからはぐれた仔オオカミ",
+      "attacks": [
+        {
+          "name": "かみつき",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "鋭い牙"
+        }
+      ]
+    },
+    {
+      "id": "d_nightwolf",
+      "name": "ナイトウルフ",
+      "type": "darkness",
+      "stage": "stage1",
+      "evolvesFrom": "d_lonepup",
+      "hp": 90,
+      "weakness": "fighting",
+      "resistance": "psychic",
+      "retreat": 1,
+      "emoji": "🐺",
+      "rarity": "uncommon",
+      "flavor": "夜を駆ける狼",
+      "attacks": [
+        {
+          "name": "シャドウファング",
+          "cost": 2,
+          "damage": 35,
+          "flavor": "影の牙"
+        },
+        {
+          "name": "ハウル",
+          "cost": 1,
+          "damage": 10,
+          "flavor": "相手を眠らせる",
+          "effects": [
+            {
+              "kind": "sleep",
+              "chance": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d_shadowfang",
+      "name": "シャドウファング",
+      "type": "darkness",
+      "stage": "stage2",
+      "evolvesFrom": "d_nightwolf",
+      "hp": 140,
+      "weakness": "fighting",
+      "resistance": "psychic",
+      "retreat": 2,
+      "emoji": "🐺",
+      "rarity": "rare",
+      "flavor": "闇の支配者",
+      "attacks": [
+        {
+          "name": "ダークラッシュ",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "闇の突撃"
+        },
+        {
+          "name": "エクリプスバイト",
+          "cost": 5,
+          "damage": 130,
+          "flavor": "日蝕の噛みつき"
+        }
+      ]
+    },
+    {
+      "id": "d_crowling",
+      "name": "クロウリング",
+      "type": "darkness",
+      "stage": "basic",
+      "hp": 40,
+      "weakness": "fighting",
+      "resistance": "psychic",
+      "retreat": 0,
+      "emoji": "🐦‍⬛",
+      "rarity": "common",
+      "flavor": "黒羽の若鳥",
+      "attacks": [
+        {
+          "name": "ついばみ",
+          "cost": 1,
+          "damage": 10,
+          "flavor": "黒い羽根のつつき"
+        }
+      ]
+    },
+    {
+      "id": "d_ravenshade",
+      "name": "ラヴェンシェイド",
+      "type": "darkness",
+      "stage": "stage1",
+      "evolvesFrom": "d_crowling",
+      "hp": 80,
+      "weakness": "fighting",
+      "resistance": "psychic",
+      "retreat": 1,
+      "emoji": "🐦‍⬛",
+      "rarity": "uncommon",
+      "flavor": "影をまとう烏",
+      "attacks": [
+        {
+          "name": "シャドウクロー",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "影の爪"
+        }
+      ]
+    },
+    {
+      "id": "d_dreadcrow",
+      "name": "ドレッドクロウ",
+      "type": "darkness",
+      "stage": "stage2",
+      "evolvesFrom": "d_ravenshade",
+      "hp": 130,
+      "weakness": "fighting",
+      "resistance": "psychic",
+      "retreat": 1,
+      "emoji": "🐦‍⬛",
+      "rarity": "rare",
+      "flavor": "不吉を運ぶ大烏",
+      "attacks": [
+        {
+          "name": "ダークウィング",
+          "cost": 3,
+          "damage": 60,
+          "flavor": "闇の翼"
+        },
+        {
+          "name": "カースコール",
+          "cost": 4,
+          "damage": 90,
+          "flavor": "呪いの叫び",
+          "effects": [
+            {
+              "kind": "confuse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d_hatchsnake",
+      "name": "ハッチスネーク",
+      "type": "darkness",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "fighting",
+      "resistance": "psychic",
+      "retreat": 1,
+      "emoji": "🐍",
+      "rarity": "common",
+      "flavor": "生まれたばかりの蛇",
+      "attacks": [
+        {
+          "name": "まきつき",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "締め付け"
+        }
+      ]
+    },
+    {
+      "id": "d_cobraking",
+      "name": "コブラキング",
+      "type": "darkness",
+      "stage": "stage1",
+      "evolvesFrom": "d_hatchsnake",
+      "hp": 100,
+      "weakness": "fighting",
+      "resistance": "psychic",
+      "retreat": 2,
+      "emoji": "🐍",
+      "rarity": "rare",
+      "flavor": "毒蛇の王",
+      "attacks": [
+        {
+          "name": "ベノムバイト",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "どく確定",
+          "effects": [
+            {
+              "kind": "poison"
+            }
+          ]
+        },
+        {
+          "name": "デスコイル",
+          "cost": 4,
+          "damage": 80,
+          "flavor": "死の絞め技"
+        }
+      ]
+    },
+    {
+      "id": "m_ironbug",
+      "name": "アイアンビートル",
+      "type": "metal",
+      "stage": "basic",
+      "hp": 60,
+      "weakness": "fire",
+      "resistance": "grass",
+      "retreat": 1,
+      "emoji": "🪲",
+      "rarity": "common",
+      "flavor": "鋼の甲殻を持つ虫",
+      "attacks": [
+        {
+          "name": "スチールタックル",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "鋼の突進"
+        }
+      ]
+    },
+    {
+      "id": "m_steelbeetle",
+      "name": "スチールビートル",
+      "type": "metal",
+      "stage": "stage1",
+      "evolvesFrom": "m_ironbug",
+      "hp": 110,
+      "weakness": "fire",
+      "resistance": "grass",
+      "retreat": 2,
+      "emoji": "🪲",
+      "rarity": "uncommon",
+      "flavor": "鋼の角を持つ甲虫",
+      "attacks": [
+        {
+          "name": "メタルホーン",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "鋼の角"
+        },
+        {
+          "name": "ガードプレス",
+          "cost": 3,
+          "damage": 50,
+          "flavor": "シールド+20",
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m_titanbeetle",
+      "name": "タイタンビートル",
+      "type": "metal",
+      "stage": "stage2",
+      "evolvesFrom": "m_steelbeetle",
+      "hp": 160,
+      "weakness": "fire",
+      "resistance": "grass",
+      "retreat": 3,
+      "emoji": "🪲",
+      "rarity": "legendary",
+      "flavor": "神鋼の戦虫",
+      "ability": {
+        "name": "てつのよろい",
+        "description": "登場時シールド+40",
+        "trigger": "enter",
+        "effect": {
+          "kind": "shield",
+          "amount": 40
+        }
+      },
+      "attacks": [
+        {
+          "name": "タイタンチャージ",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "巨人の突進"
+        },
+        {
+          "name": "メテオストライク",
+          "cost": 5,
+          "damage": 130,
+          "flavor": "隕石の一撃"
+        }
+      ]
+    },
+    {
+      "id": "m_steelhog",
+      "name": "スチールホッグ",
+      "type": "metal",
+      "stage": "basic",
+      "hp": 60,
+      "weakness": "fire",
+      "resistance": "grass",
+      "retreat": 1,
+      "emoji": "🦔",
+      "rarity": "common",
+      "flavor": "鋼の針を持つハリネズミ",
+      "attacks": [
+        {
+          "name": "はりタックル",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "針の突撃"
+        }
+      ]
+    },
+    {
+      "id": "m_tankhog",
+      "name": "タンクホッグ",
+      "type": "metal",
+      "stage": "stage1",
+      "evolvesFrom": "m_steelhog",
+      "hp": 110,
+      "weakness": "fire",
+      "resistance": "grass",
+      "retreat": 3,
+      "emoji": "🦔",
+      "rarity": "rare",
+      "flavor": "鋼鉄の戦車",
+      "attacks": [
+        {
+          "name": "スパイクボール",
+          "cost": 2,
+          "damage": 45,
+          "flavor": "転がり攻撃"
+        },
+        {
+          "name": "アイアンプレス",
+          "cost": 4,
+          "damage": 90,
+          "flavor": "鋼の圧迫"
+        }
+      ]
+    },
+    {
+      "id": "dr_hatchling",
+      "name": "ドラゴンハッチ",
+      "type": "dragon",
+      "stage": "basic",
+      "hp": 60,
+      "retreat": 1,
+      "emoji": "🥚",
+      "rarity": "common",
+      "flavor": "生まれたての竜の子",
+      "attacks": [
+        {
+          "name": "かみつき",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "小さな牙"
+        }
+      ]
+    },
+    {
+      "id": "dr_wyrm",
+      "name": "ヤングドレイク",
+      "type": "dragon",
+      "stage": "stage1",
+      "evolvesFrom": "dr_hatchling",
+      "hp": 100,
+      "retreat": 2,
+      "emoji": "🐲",
+      "rarity": "rare",
+      "flavor": "若き竜",
+      "attacks": [
+        {
+          "name": "ドラゴンクロー",
+          "cost": 2,
+          "damage": 45,
+          "flavor": "竜の爪"
+        },
+        {
+          "name": "ドラゴンブレス",
+          "cost": 4,
+          "damage": 80,
+          "flavor": "竜の息吹"
+        }
+      ]
+    },
+    {
+      "id": "dr_ancient",
+      "name": "エンシェントドラゴン",
+      "type": "dragon",
+      "stage": "stage2",
+      "evolvesFrom": "dr_wyrm",
+      "hp": 180,
+      "retreat": 3,
+      "emoji": "🐉",
+      "rarity": "legendary",
+      "flavor": "太古から生きる竜王",
+      "ability": {
+        "name": "ドラゴンソウル",
+        "description": "登場時カード2枚+1エネルギー",
+        "trigger": "enter",
+        "effect": {
+          "kind": "draw",
+          "cards": 2
+        }
+      },
+      "attacks": [
+        {
+          "name": "メテオダイブ",
+          "cost": 3,
+          "damage": 80,
+          "flavor": "隕石降下"
+        },
+        {
+          "name": "デスペアフレア",
+          "cost": 6,
+          "damage": 170,
+          "flavor": "絶望の業火",
+          "effects": [
+            {
+              "kind": "recoil",
+              "amount": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dr_seawyrmling",
+      "name": "シーワイバーン",
+      "type": "dragon",
+      "stage": "basic",
+      "hp": 60,
+      "retreat": 2,
+      "emoji": "🐊",
+      "rarity": "common",
+      "flavor": "海に住む幼竜",
+      "attacks": [
+        {
+          "name": "みずかみ",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "水を含む噛みつき"
+        }
+      ]
+    },
+    {
+      "id": "dr_leviathan",
+      "name": "レヴィアタン",
+      "type": "dragon",
+      "stage": "stage1",
+      "evolvesFrom": "dr_seawyrmling",
+      "hp": 130,
+      "retreat": 3,
+      "emoji": "🐉",
+      "rarity": "rare",
+      "flavor": "海の支配者",
+      "attacks": [
+        {
+          "name": "ハイドロキャノン",
+          "cost": 3,
+          "damage": 65,
+          "flavor": "水流砲"
+        },
+        {
+          "name": "タイダルクラッシュ",
+          "cost": 5,
+          "damage": 120,
+          "flavor": "海の嵐"
+        }
+      ]
+    },
+    {
+      "id": "c_bunkid",
+      "name": "バンキッド",
+      "type": "colorless",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "fighting",
+      "retreat": 0,
+      "emoji": "🐰",
+      "rarity": "common",
+      "flavor": "元気いっぱいのウサギ",
+      "attacks": [
+        {
+          "name": "タックル",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "体当たり"
+        }
+      ]
+    },
+    {
+      "id": "c_hare",
+      "name": "ジャンプハレ",
+      "type": "colorless",
+      "stage": "stage1",
+      "evolvesFrom": "c_bunkid",
+      "hp": 90,
+      "weakness": "fighting",
+      "retreat": 0,
+      "emoji": "🐇",
+      "rarity": "uncommon",
+      "flavor": "高くジャンプする野ウサギ",
+      "attacks": [
+        {
+          "name": "ハイジャンプキック",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "空中蹴り"
+        }
+      ]
+    },
+    {
+      "id": "c_royalhare",
+      "name": "ロイヤルハレ",
+      "type": "colorless",
+      "stage": "stage2",
+      "evolvesFrom": "c_hare",
+      "hp": 140,
+      "weakness": "fighting",
+      "retreat": 1,
+      "emoji": "🐇",
+      "rarity": "rare",
+      "flavor": "兎の貴族",
+      "ability": {
+        "name": "はやあし",
+        "description": "登場時カード1枚ドロー",
+        "trigger": "enter",
+        "effect": {
+          "kind": "draw",
+          "cards": 1
+        }
+      },
+      "attacks": [
+        {
+          "name": "ロイヤルキック",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "貴族の蹴り"
+        },
+        {
+          "name": "スピードフォーム",
+          "cost": 4,
+          "damage": 90,
+          "flavor": "俊足の連撃"
+        }
+      ]
+    },
+    {
+      "id": "c_squirreling",
+      "name": "リスリン",
+      "type": "colorless",
+      "stage": "basic",
+      "hp": 40,
+      "weakness": "fighting",
+      "retreat": 0,
+      "emoji": "🐿️",
+      "rarity": "common",
+      "flavor": "木の実大好きリス",
+      "attacks": [
+        {
+          "name": "ナッツ投げ",
+          "cost": 1,
+          "damage": 10,
+          "flavor": "木の実投げ"
+        }
+      ]
+    },
+    {
+      "id": "c_tailmaster",
+      "name": "テイルマスター",
+      "type": "colorless",
+      "stage": "stage1",
+      "evolvesFrom": "c_squirreling",
+      "hp": 90,
+      "weakness": "fighting",
+      "retreat": 1,
+      "emoji": "🐿️",
+      "rarity": "uncommon",
+      "flavor": "尻尾を巧みに操るリス",
+      "attacks": [
+        {
+          "name": "テイルウィップ",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "尻尾の鞭"
+        },
+        {
+          "name": "ナッツストーム",
+          "cost": 3,
+          "damage": 60,
+          "flavor": "木の実の嵐"
+        }
+      ]
+    },
+    {
+      "id": "c_dovelet",
+      "name": "ハト",
+      "type": "colorless",
+      "stage": "basic",
+      "hp": 40,
+      "weakness": "fighting",
+      "retreat": 0,
+      "emoji": "🕊️",
+      "rarity": "common",
+      "flavor": "街の使者",
+      "attacks": [
+        {
+          "name": "はばたき",
+          "cost": 1,
+          "damage": 10,
+          "flavor": "羽ばたき"
+        }
+      ]
+    },
+    {
+      "id": "c_hawk",
+      "name": "ホーク",
+      "type": "colorless",
+      "stage": "stage1",
+      "evolvesFrom": "c_dovelet",
+      "hp": 90,
+      "weakness": "fighting",
+      "retreat": 1,
+      "emoji": "🦅",
+      "rarity": "uncommon",
+      "flavor": "空を舞う狩人",
+      "attacks": [
+        {
+          "name": "スカイダイブ",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "空中急降下"
+        },
+        {
+          "name": "タロンクロー",
+          "cost": 3,
+          "damage": 60,
+          "flavor": "鉤爪攻撃"
+        }
+      ]
+    },
+    {
+      "id": "c_eagleking",
+      "name": "イーグルキング",
+      "type": "colorless",
+      "stage": "stage2",
+      "evolvesFrom": "c_hawk",
+      "hp": 140,
+      "weakness": "fighting",
+      "retreat": 2,
+      "emoji": "🦅",
+      "rarity": "rare",
+      "flavor": "空の覇者",
+      "attacks": [
+        {
+          "name": "ロイヤルダイブ",
+          "cost": 3,
+          "damage": 70,
+          "flavor": "王者の急降下"
+        },
+        {
+          "name": "スカイバースト",
+          "cost": 5,
+          "damage": 130,
+          "flavor": "天空の閃光"
+        }
+      ]
+    },
+    {
+      "id": "g_slimini",
+      "name": "リーフスライム",
+      "type": "grass",
+      "stage": "basic",
+      "hp": 60,
+      "weakness": "fire",
+      "resistance": "water",
+      "retreat": 2,
+      "emoji": "🐌",
+      "rarity": "common",
+      "flavor": "のんびりカタツムリ",
+      "attacks": [
+        {
+          "name": "スライムショット",
+          "cost": 1,
+          "damage": 15,
+          "flavor": "粘液弾",
+          "effects": [
+            {
+              "kind": "paralyze",
+              "chance": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_voltliz",
+      "name": "ボルトリザード",
+      "type": "lightning",
+      "stage": "basic",
+      "hp": 70,
+      "weakness": "fighting",
+      "resistance": "metal",
+      "retreat": 1,
+      "emoji": "🦎",
+      "rarity": "uncommon",
+      "flavor": "雷を蓄える蜥蜴",
+      "attacks": [
+        {
+          "name": "チャージビーム",
+          "cost": 2,
+          "damage": 30,
+          "flavor": "雷の光線",
+          "effects": [
+            {
+              "kind": "paralyze",
+              "chance": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fi_charger",
+      "name": "チャージャーライノ",
+      "type": "fighting",
+      "stage": "basic",
+      "hp": 80,
+      "weakness": "psychic",
+      "resistance": "darkness",
+      "retreat": 2,
+      "emoji": "🦏",
+      "rarity": "uncommon",
+      "flavor": "一直線に突進するサイ",
+      "attacks": [
+        {
+          "name": "チャージタックル",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "猛突進"
+        },
+        {
+          "name": "ホーンスマッシュ",
+          "cost": 4,
+          "damage": 80,
+          "flavor": "角の打撃"
+        }
+      ]
+    },
+    {
+      "id": "p_octomind",
+      "name": "マインドオクト",
+      "type": "psychic",
+      "stage": "basic",
+      "hp": 70,
+      "weakness": "darkness",
+      "resistance": "fighting",
+      "retreat": 1,
+      "emoji": "🐙",
+      "rarity": "rare",
+      "flavor": "8本足の念力使い",
+      "ability": {
+        "name": "よみとり",
+        "description": "登場時カード1枚ドロー",
+        "trigger": "enter",
+        "effect": {
+          "kind": "draw",
+          "cards": 1
+        }
+      },
+      "attacks": [
+        {
+          "name": "インクスプレー",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "混乱可能性",
+          "effects": [
+            {
+              "kind": "confuse",
+              "chance": 0.5
+            }
+          ]
+        },
+        {
+          "name": "マインドクラッシュ",
+          "cost": 3,
+          "damage": 50,
+          "flavor": "念力破壊"
+        }
+      ]
+    },
+    {
+      "id": "d_sandscorp",
+      "name": "サンドスコーピオン",
+      "type": "darkness",
+      "stage": "basic",
+      "hp": 70,
+      "weakness": "fighting",
+      "resistance": "psychic",
+      "retreat": 1,
+      "emoji": "🦂",
+      "rarity": "uncommon",
+      "flavor": "砂漠を這う毒蠍",
+      "attacks": [
+        {
+          "name": "ベノムスティング",
+          "cost": 2,
+          "damage": 25,
+          "flavor": "どく確定",
+          "effects": [
+            {
+              "kind": "poison"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m_steelraptor",
+      "name": "スチールラプトル",
+      "type": "metal",
+      "stage": "basic",
+      "hp": 80,
+      "weakness": "fire",
+      "resistance": "grass",
+      "retreat": 1,
+      "emoji": "🦖",
+      "rarity": "rare",
+      "flavor": "鋼の鱗を持つ恐竜",
+      "attacks": [
+        {
+          "name": "クロムバイト",
+          "cost": 2,
+          "damage": 35,
+          "flavor": "クロムの牙"
+        },
+        {
+          "name": "メタルクラッシュ",
+          "cost": 4,
+          "damage": 75,
+          "flavor": "鋼鉄の一撃"
+        }
+      ]
+    },
+    {
+      "id": "dr_skywyvern",
+      "name": "スカイワイバーン",
+      "type": "dragon",
+      "stage": "basic",
+      "hp": 80,
+      "retreat": 2,
+      "emoji": "🦅",
+      "rarity": "rare",
+      "flavor": "空を翔る飛竜",
+      "attacks": [
+        {
+          "name": "ウィングダイブ",
+          "cost": 2,
+          "damage": 40,
+          "flavor": "翼の急降下"
+        },
+        {
+          "name": "ストームブレス",
+          "cost": 4,
+          "damage": 90,
+          "flavor": "嵐の息吹"
+        }
+      ]
+    },
+    {
+      "id": "w_jellyglow",
+      "name": "グロウクラゲ",
+      "type": "water",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "lightning",
+      "resistance": "fire",
+      "retreat": 1,
+      "emoji": "🪼",
+      "rarity": "common",
+      "flavor": "光るクラゲ",
+      "attacks": [
+        {
+          "name": "しびれショック",
+          "cost": 1,
+          "damage": 10,
+          "flavor": "まひ可能性",
+          "effects": [
+            {
+              "kind": "paralyze",
+              "chance": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f_phoenixsmall",
+      "name": "スパロフェニックス",
+      "type": "fire",
+      "stage": "basic",
+      "hp": 50,
+      "weakness": "water",
+      "resistance": "grass",
+      "retreat": 0,
+      "emoji": "🐦",
+      "rarity": "uncommon",
+      "flavor": "小さな炎の鳥",
+      "attacks": [
+        {
+          "name": "ファイアウィング",
+          "cost": 1,
+          "damage": 20,
+          "flavor": "炎の翼"
+        },
+        {
+          "name": "リバイブ",
+          "cost": 2,
+          "damage": 0,
+          "flavor": "HP30回復",
+          "effects": [
+            {
+              "kind": "heal",
+              "amount": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
