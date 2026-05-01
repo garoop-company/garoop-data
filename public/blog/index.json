@@ -1308,6 +1308,90 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-04-30-single-mother": {
+      "default": "2026-04-30-single-mother.md",
+      "locales": {
+        "ne": "2026-04-30-single-mother.ne.md",
+        "zh": "2026-04-30-single-mother.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-04-30",
+          "tags": [
+            "シングルママ",
+            "子供の可能性",
+            "家族"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "एकल आमा र तिनीहरूको साहस",
+          "date": "2026-04-30",
+          "description": "एकल आमाहरू कसरी संघर्ष गर्छन् र तिनीहरूले बालबालिकाहरूलाई कस्तो प्रेरित गर्छन्",
+          "tags": [
+            "एकल आमा",
+            "सिर्जनशीलता",
+            "बालबालिका प्रेरणा",
+            "परिवार समर्थन"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "单亲妈妈：勇敢的力量",
+          "date": "2026-04-30",
+          "description": "单亲妈妈面临许多挑战，但她们的勇气和决心激励着我们。让我们探索单亲妈妈的世界，发现她们的故事，并激发我们的创造力和行动力。",
+          "tags": [
+            "单亲妈妈",
+            "家庭",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-05-01-creation": {
+      "default": "2026-05-01-creation.md",
+      "locales": {
+        "ne": "2026-05-01-creation.ne.md",
+        "zh": "2026-05-01-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作で夢を広げよう！",
+          "date": "2026-05-01",
+          "description": "創作の楽しさを紹介する記事です。",
+          "tags": [
+            "創作",
+            "小学生",
+            "起業"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जना: तिम्रो कल्पनाको प्रवाह",
+          "date": "2026-05-01",
+          "description": "सिर्जना र तिम्रो सम्भावना बढाउने कुराहरू",
+          "tags": [
+            "सिर्जना",
+            "उद्यमशीलता",
+            "बालबालिका",
+            "सिकाइ"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "释放你的创造力",
+          "date": "2026-05-01",
+          "description": "激发孩子的创造力和行动力是每位家长的希望。让我们一起探索创作的世界，点燃孩子心中的创造火花。",
+          "tags": [
+            "创作",
+            "儿童教育",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
