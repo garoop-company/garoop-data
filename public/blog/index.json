@@ -1392,6 +1392,46 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-02-startup": {
+      "default": "2026-05-02-startup.md",
+      "locales": {
+        "ne": "2026-05-02-startup.ne.md",
+        "zh": "2026-05-02-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-05-02",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअप र तिम्रो सपना",
+          "date": "2026-05-02",
+          "description": "स्टार्टअप सुरु गर्ने बारेमा जानिनेछ",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家：点燃你的创造力",
+          "date": "2026-05-02",
+          "description": "让孩子们了解创业的基本概念，激发他们的创造力和行动力，鼓励他们去探索和实践创业的世界。",
+          "tags": [
+            "创业",
+            "小学生",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
