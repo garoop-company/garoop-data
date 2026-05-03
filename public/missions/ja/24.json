@@ -1,0 +1,9 @@
+{
+  "id": 24,
+  "title": "Vercelにデプロイしてみる",
+  "image": "https://d3ez7mat4qd439.cloudfront.net/garuchan.webp",
+  "category": "AI Challenge",
+  "detailText": "GitHubにあるページをVercelで公開してみよう。「New Project」を選んでDeploy、公開URLを開いて確認する。ミッションは公開前に個人情報がないか見直そう。",
+  "referenceUrl": "https://vercel.com/new",
+  "locale": "ja"
+}

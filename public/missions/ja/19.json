@@ -1,0 +1,9 @@
+{
+  "id": 19,
+  "title": "NotebookLMを使ってスライドを作る",
+  "image": "https://d3ez7mat4qd439.cloudfront.net/garuchan.webp",
+  "category": "AI Challenge",
+  "detailText": "NotebookLMで資料を読みこみ、3ページのスライド案を作ろう。タイトル、大事なこと、感想を入れて、小学生向けにわかりやすくをお願い。最後に自分の言葉を1文足す。",
+  "referenceUrl": "https://notebooklm.google.com/",
+  "locale": "ja"
+}

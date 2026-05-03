@@ -1,0 +1,9 @@
+{
+  "id": 23,
+  "title": "GitHubアカウントを作る",
+  "image": "https://d3ez7mat4qd439.cloudfront.net/garuchan.webp",
+  "category": "AI Challenge",
+  "detailText": "GitHubのアカウントをおうちの人といっしょに作ろう。本名や学校名を入れない安全なユーザー名を考え、ログインできればOK。リポジトリの意味も調べよう。",
+  "referenceUrl": "https://github.com/signup",
+  "locale": "ja"
+}

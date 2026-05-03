@@ -1,0 +1,9 @@
+{
+  "id": 20,
+  "title": "NotebookLMを使って画像を作る",
+  "image": "https://d3ez7mat4qd439.cloudfront.net/garuchan.webp",
+  "category": "AI Challenge",
+  "detailText": "NotebookLMで作りたい絵のアイデアを整理しよう。何を描きたいか、色、気分をまとめて、画像生成AIにわたすお願い文を作るミッションを1回練習してみよう。",
+  "referenceUrl": "https://notebooklm.google.com/",
+  "locale": "ja"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 21,
+  "title": "Codexを使う",
+  "image": "https://d3ez7mat4qd439.cloudfront.net/garuchan.webp",
+  "category": "AI Challenge",
+  "detailText": "Codexにボタンを押すとメッセージが出るページを作ってもらおう。タイトル、ボタン、メッセージを入れてお願い。少し自分で直したらクリアだ。",
+  "referenceUrl": "https://chatgpt.com/",
+  "locale": "ja"
+}

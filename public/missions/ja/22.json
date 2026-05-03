@@ -1,0 +1,9 @@
+{
+  "id": 22,
+  "title": "VsCodeをインストールする",
+  "image": "https://d3ez7mat4qd439.cloudfront.net/garuchan.webp",
+  "category": "AI Challenge",
+  "detailText": "VS Codeをインストールして、はじめての作業フォルダを作ろう。その中にメモファイルを1つ作って3行書いて保存できればクリア。余裕があればHTMLを作ろう。",
+  "referenceUrl": "https://code.visualstudio.com/",
+  "locale": "ja"
+}
