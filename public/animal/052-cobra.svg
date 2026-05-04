@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Cobra</title>
+  <desc id="desc">A stylized reptile illustration for Cobra, without background or label text.</desc>
+  <g>
+      <path d="M73 174c29-47 83-70 159-50 35 9 56 26 64 51-27 31-84 38-164 20-25-6-45-13-59-21Z" fill="#F08A7A"/>
+      <path d="M70 174c-17 13-35 17-54 12 17-14 35-23 55-27Z" fill="#FFF0EC"/>
+      <circle cx="250" cy="143" r="8" fill="#4A2A35"/>
+      <path d="M111 190l-17 31M152 199l8 33M214 192l25 25" stroke="#4A2A35" stroke-width="8" stroke-linecap="round"/>
+      <path d="M111 139c28-13 69-14 123 4" stroke="#FFF0EC" stroke-width="14" stroke-linecap="round" opacity=".8"/>
+      
+    </g>
+</svg>

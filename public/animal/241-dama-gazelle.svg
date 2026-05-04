@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Dama Gazelle</title>
+  <desc id="desc">A stylized mammal illustration for Dama Gazelle, without background or label text.</desc>
+  <g>
+    <ellipse cx="159" cy="167" rx="83" ry="57" fill="#F7C873"/>
+    <circle cx="228" cy="132" r="43" fill="#F7C873"/>
+    <path d="M196 100l-15-36 39 19M252 100l25-30 7 43" fill="#F7C873"/>
+    <ellipse cx="245" cy="139" rx="17" ry="13" fill="#FFF3D6"/>
+    <circle cx="216" cy="122" r="6" fill="#3A445D"/>
+    <circle cx="251" cy="120" r="6" fill="#3A445D"/>
+    <path d="M91 176c-35-22-48-51-39-87 30 25 50 52 59 83" fill="#F7C873"/>
+    <path d="M108 212l-15 37M162 221l-3 41M216 208l18 36" stroke="#3A445D" stroke-width="10" stroke-linecap="round"/>
+    
+    
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Snowy Owl</title>
+  <desc id="desc">A stylized bird illustration for Snowy Owl, without background or label text.</desc>
+  <g>
+      <path d="M86 168c18-52 59-75 108-58 28 10 49 33 56 61-40 21-94 22-164-3Z" fill="#9CD6F0"/>
+      <path d="M194 110c26-28 65-24 86 2-20 7-43 14-68 23Z" fill="#EAF9FF"/>
+      <path d="M247 128l43-15-28 31Z" fill="#F3A53A"/>
+      <circle cx="225" cy="121" r="6" fill="#1B4B61"/>
+      <path d="M123 168c19 16 41 23 65 23" stroke="#1B4B61" stroke-width="8" stroke-linecap="round" opacity=".35"/>
+      <path d="M147 183l-14 33M178 188l7 32" stroke="#1B4B61" stroke-width="7" stroke-linecap="round"/>
+      <path d="M84 166c-22-25-22-51 0-79 14 29 20 56 0 79Z" fill="#EAF9FF"/>
+    </g>
+</svg>

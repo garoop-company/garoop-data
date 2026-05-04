@@ -1,0 +1,356 @@
+# 動物画像
+
+`public/animal` に配置した動物画像セットです。SVG 形式で 323 種類あります。
+
+## 形式
+
+このセットでは SVG を採用しています。現在の SVG 合計サイズは約 265KB です。各画像は背景なし、表示文字なしのイラストのみです。
+
+## ファイル
+
+- 画像: `001-aardvark.svg` のような連番付き kebab-case ファイル
+- 一覧データ: `index.json`
+- パス例: `/animal/001-aardvark.svg`
+
+## 種類別の数
+
+- amphibian: 9
+- arachnid: 3
+- bird: 60
+- cnidarian: 1
+- crustacean: 6
+- echinoderm: 1
+- fish: 28
+- insect: 11
+- mammal: 166
+- mollusk: 7
+- mythical: 1
+- reptile: 30
+
+## 動物一覧
+
+動物名はファイル名と対応する英名で記載しています。
+
+- Aardvark - `001-aardvark.svg`
+- African Buffalo - `002-african-buffalo.svg`
+- African Elephant - `003-african-elephant.svg`
+- African Wild Dog - `004-african-wild-dog.svg`
+- Albatross - `005-albatross.svg`
+- Alligator - `006-alligator.svg`
+- Alpaca - `007-alpaca.svg`
+- Anaconda - `008-anaconda.svg`
+- Angelfish - `009-angelfish.svg`
+- Anteater - `010-anteater.svg`
+- Antelope - `011-antelope.svg`
+- Arctic Fox - `012-arctic-fox.svg`
+- Armadillo - `013-armadillo.svg`
+- Axolotl - `014-axolotl.svg`
+- Baboon - `015-baboon.svg`
+- Badger - `016-badger.svg`
+- Bald Eagle - `017-bald-eagle.svg`
+- Bandicoot - `018-bandicoot.svg`
+- Barn Owl - `019-barn-owl.svg`
+- Barracuda - `020-barracuda.svg`
+- Basilisk Lizard - `021-basilisk-lizard.svg`
+- Bat - `022-bat.svg`
+- Beaver - `023-beaver.svg`
+- Bengal Tiger - `024-bengal-tiger.svg`
+- Bison - `025-bison.svg`
+- Black Bear - `026-black-bear.svg`
+- Blue Jay - `027-blue-jay.svg`
+- Blue Whale - `028-blue-whale.svg`
+- Boa Constrictor - `029-boa-constrictor.svg`
+- Bobcat - `030-bobcat.svg`
+- Bonobo - `031-bonobo.svg`
+- Bottlenose Dolphin - `032-bottlenose-dolphin.svg`
+- Bowerbird - `033-bowerbird.svg`
+- Box Turtle - `034-box-turtle.svg`
+- Brown Bear - `035-brown-bear.svg`
+- Budgerigar - `036-budgerigar.svg`
+- Butterfly - `037-butterfly.svg`
+- Camel - `038-camel.svg`
+- Capybara - `039-capybara.svg`
+- Caracal - `040-caracal.svg`
+- Cardinal - `041-cardinal.svg`
+- Cassowary - `042-cassowary.svg`
+- Cat - `043-cat.svg`
+- Caterpillar - `044-caterpillar.svg`
+- Cheetah - `045-cheetah.svg`
+- Chicken - `046-chicken.svg`
+- Chimpanzee - `047-chimpanzee.svg`
+- Chinchilla - `048-chinchilla.svg`
+- Chipmunk - `049-chipmunk.svg`
+- Chameleon - `050-chameleon.svg`
+- Clownfish - `051-clownfish.svg`
+- Cobra - `052-cobra.svg`
+- Cockatoo - `053-cockatoo.svg`
+- Cod - `054-cod.svg`
+- Coelacanth - `055-coelacanth.svg`
+- Condor - `056-condor.svg`
+- Coral Snake - `057-coral-snake.svg`
+- Cormorant - `058-cormorant.svg`
+- Coyote - `059-coyote.svg`
+- Crab - `060-crab.svg`
+- Crane - `061-crane.svg`
+- Crocodile - `062-crocodile.svg`
+- Crow - `063-crow.svg`
+- Cuttlefish - `064-cuttlefish.svg`
+- Deer - `065-deer.svg`
+- Dingo - `066-dingo.svg`
+- Dog - `067-dog.svg`
+- Dolphin - `068-dolphin.svg`
+- Donkey - `069-donkey.svg`
+- Dragonfly - `070-dragonfly.svg`
+- Dugong - `071-dugong.svg`
+- Duck - `072-duck.svg`
+- Echidna - `073-echidna.svg`
+- Eel - `074-eel.svg`
+- Elephant Seal - `075-elephant-seal.svg`
+- Emperor Penguin - `076-emperor-penguin.svg`
+- Emu - `077-emu.svg`
+- Falcon - `078-falcon.svg`
+- Fennec Fox - `079-fennec-fox.svg`
+- Ferret - `080-ferret.svg`
+- Firefly - `081-firefly.svg`
+- Flamingo - `082-flamingo.svg`
+- Flying Squirrel - `083-flying-squirrel.svg`
+- Fox - `084-fox.svg`
+- Frilled Lizard - `085-frilled-lizard.svg`
+- Frog - `086-frog.svg`
+- Gazelle - `087-gazelle.svg`
+- Gecko - `088-gecko.svg`
+- Gibbon - `089-gibbon.svg`
+- Gila Monster - `090-gila-monster.svg`
+- Giraffe - `091-giraffe.svg`
+- Goat - `092-goat.svg`
+- Goose - `093-goose.svg`
+- Gorilla - `094-gorilla.svg`
+- Grasshopper - `095-grasshopper.svg`
+- Great White Shark - `096-great-white-shark.svg`
+- Green Sea Turtle - `097-green-sea-turtle.svg`
+- Groundhog - `098-groundhog.svg`
+- Guinea Pig - `099-guinea-pig.svg`
+- Hamster - `100-hamster.svg`
+- Hare - `101-hare.svg`
+- Hawk - `102-hawk.svg`
+- Hedgehog - `103-hedgehog.svg`
+- Hippopotamus - `104-hippopotamus.svg`
+- Hornbill - `105-hornbill.svg`
+- Horse - `106-horse.svg`
+- Hummingbird - `107-hummingbird.svg`
+- Hyena - `108-hyena.svg`
+- Ibis - `109-ibis.svg`
+- Iguana - `110-iguana.svg`
+- Impala - `111-impala.svg`
+- Jackal - `112-jackal.svg`
+- Jaguar - `113-jaguar.svg`
+- Jellyfish - `114-jellyfish.svg`
+- Kangaroo - `115-kangaroo.svg`
+- King Cobra - `116-king-cobra.svg`
+- Kingfisher - `117-kingfisher.svg`
+- Kiwi - `118-kiwi.svg`
+- Koala - `119-koala.svg`
+- Komodo Dragon - `120-komodo-dragon.svg`
+- Kookaburra - `121-kookaburra.svg`
+- Lemur - `122-lemur.svg`
+- Leopard - `123-leopard.svg`
+- Lion - `124-lion.svg`
+- Llama - `125-llama.svg`
+- Lobster - `126-lobster.svg`
+- Lynx - `127-lynx.svg`
+- Macaw - `128-macaw.svg`
+- Manatee - `129-manatee.svg`
+- Mandrill - `130-mandrill.svg`
+- Manta Ray - `131-manta-ray.svg`
+- Meerkat - `132-meerkat.svg`
+- Mole - `133-mole.svg`
+- Mongoose - `134-mongoose.svg`
+- Monitor Lizard - `135-monitor-lizard.svg`
+- Moose - `136-moose.svg`
+- Moray Eel - `137-moray-eel.svg`
+- Moth - `138-moth.svg`
+- Mountain Goat - `139-mountain-goat.svg`
+- Mouse - `140-mouse.svg`
+- Narwhal - `141-narwhal.svg`
+- Newt - `142-newt.svg`
+- Nightingale - `143-nightingale.svg`
+- Octopus - `144-octopus.svg`
+- Okapi - `145-okapi.svg`
+- Opossum - `146-opossum.svg`
+- Orangutan - `147-orangutan.svg`
+- Orca - `148-orca.svg`
+- Ostrich - `149-ostrich.svg`
+- Otter - `150-otter.svg`
+- Owl - `151-owl.svg`
+- Panda - `152-panda.svg`
+- Pangolin - `153-pangolin.svg`
+- Panther - `154-panther.svg`
+- Parrot - `155-parrot.svg`
+- Peacock - `156-peacock.svg`
+- Pelican - `157-pelican.svg`
+- Peregrine Falcon - `158-peregrine-falcon.svg`
+- Pig - `159-pig.svg`
+- Platypus - `160-platypus.svg`
+- Polar Bear - `161-polar-bear.svg`
+- Porcupine - `162-porcupine.svg`
+- Prairie Dog - `163-prairie-dog.svg`
+- Praying Mantis - `164-praying-mantis.svg`
+- Puffin - `165-puffin.svg`
+- Python - `166-python.svg`
+- Quail - `167-quail.svg`
+- Quokka - `168-quokka.svg`
+- Rabbit - `169-rabbit.svg`
+- Raccoon - `170-raccoon.svg`
+- Rat - `171-rat.svg`
+- Raven - `172-raven.svg`
+- Red Panda - `173-red-panda.svg`
+- Reindeer - `174-reindeer.svg`
+- Rhinoceros - `175-rhinoceros.svg`
+- Roadrunner - `176-roadrunner.svg`
+- Salamander - `177-salamander.svg`
+- Salmon - `178-salmon.svg`
+- Scorpion - `179-scorpion.svg`
+- Seahorse - `180-seahorse.svg`
+- Seal - `181-seal.svg`
+- Sea Lion - `182-sea-lion.svg`
+- Sea Otter - `183-sea-otter.svg`
+- Sheep - `184-sheep.svg`
+- Shrimp - `185-shrimp.svg`
+- Skunk - `186-skunk.svg`
+- Sloth - `187-sloth.svg`
+- Snail - `188-snail.svg`
+- Snake - `189-snake.svg`
+- Snow Leopard - `190-snow-leopard.svg`
+- Sparrow - `191-sparrow.svg`
+- Spider - `192-spider.svg`
+- Squid - `193-squid.svg`
+- Squirrel - `194-squirrel.svg`
+- Starfish - `195-starfish.svg`
+- Stingray - `196-stingray.svg`
+- Swan - `197-swan.svg`
+- Tapir - `198-tapir.svg`
+- Tasmanian Devil - `199-tasmanian-devil.svg`
+- Toucan - `200-toucan.svg`
+- Trout - `201-trout.svg`
+- Tuna - `202-tuna.svg`
+- Turkey - `203-turkey.svg`
+- Walrus - `204-walrus.svg`
+- Warthog - `205-warthog.svg`
+- Wasp - `206-wasp.svg`
+- Weasel - `207-weasel.svg`
+- Whale Shark - `208-whale-shark.svg`
+- Wolf - `209-wolf.svg`
+- Wombat - `210-wombat.svg`
+- Woodpecker - `211-woodpecker.svg`
+- Yak - `212-yak.svg`
+- Zebra - `213-zebra.svg`
+- Zebu - `214-zebu.svg`
+- Addax - `215-addax.svg`
+- Agama Lizard - `216-agama-lizard.svg`
+- Arapaima - `217-arapaima.svg`
+- Asian Elephant - `218-asian-elephant.svg`
+- Asian Small-clawed Otter - `219-asian-small-clawed-otter.svg`
+- Atlantic Puffin - `220-atlantic-puffin.svg`
+- Aye-aye - `221-aye-aye.svg`
+- Bearded Dragon - `222-bearded-dragon.svg`
+- Beluga Whale - `223-beluga-whale.svg`
+- Binturong - `224-binturong.svg`
+- Black Mamba - `225-black-mamba.svg`
+- Black Swan - `226-black-swan.svg`
+- Blue Morpho Butterfly - `227-blue-morpho-butterfly.svg`
+- Blue-footed Booby - `228-blue-footed-booby.svg`
+- Bontebok - `229-bontebok.svg`
+- Bushbaby - `230-bushbaby.svg`
+- Caecilian - `231-caecilian.svg`
+- Caribou - `232-caribou.svg`
+- Carp - `233-carp.svg`
+- Chamois - `234-chamois.svg`
+- Clam - `235-clam.svg`
+- Clouded Leopard - `236-clouded-leopard.svg`
+- Coati - `237-coati.svg`
+- Cockroach - `238-cockroach.svg`
+- Common Loon - `239-common-loon.svg`
+- Cougar - `240-cougar.svg`
+- Dama Gazelle - `241-dama-gazelle.svg`
+- Dik-dik - `242-dik-dik.svg`
+- Eagle Ray - `243-eagle-ray.svg`
+- Eastern Newt - `244-eastern-newt.svg`
+- Electric Eel - `245-electric-eel.svg`
+- Elk - `246-elk.svg`
+- Fiddler Crab - `247-fiddler-crab.svg`
+- Fin Whale - `248-fin-whale.svg`
+- Fossa - `249-fossa.svg`
+- Galapagos Tortoise - `250-galapagos-tortoise.svg`
+- Gar - `251-gar.svg`
+- Gharial - `252-gharial.svg`
+- Giant Clam - `253-giant-clam.svg`
+- Giant Panda - `254-giant-panda.svg`
+- Golden Eagle - `255-golden-eagle.svg`
+- Golden Lion Tamarin - `256-golden-lion-tamarin.svg`
+- Grouper - `257-grouper.svg`
+- Guanaco - `258-guanaco.svg`
+- Harbor Porpoise - `259-harbor-porpoise.svg`
+- Harp Seal - `260-harp-seal.svg`
+- Harpy Eagle - `261-harpy-eagle.svg`
+- Hercules Beetle - `262-hercules-beetle.svg`
+- Hermit Crab - `263-hermit-crab.svg`
+- Hoatzin - `264-hoatzin.svg`
+- Horseshoe Crab - `265-horseshoe-crab.svg`
+- Ibex - `266-ibex.svg`
+- Indri - `267-indri.svg`
+- Japanese Macaque - `268-japanese-macaque.svg`
+- Kakapo - `269-kakapo.svg`
+- Kea - `270-kea.svg`
+- Kudu - `271-kudu.svg`
+- Leaf-tailed Gecko - `272-leaf-tailed-gecko.svg`
+- Leatherback Turtle - `273-leatherback-turtle.svg`
+- Lionfish - `274-lionfish.svg`
+- Little Penguin - `275-little-penguin.svg`
+- Lungfish - `276-lungfish.svg`
+- Malayan Tapir - `277-malayan-tapir.svg`
+- Mallard - `278-mallard.svg`
+- Mantis Shrimp - `279-mantis-shrimp.svg`
+- Margay - `280-margay.svg`
+- Marmoset - `281-marmoset.svg`
+- Musk Ox - `282-musk-ox.svg`
+- Nautilus - `283-nautilus.svg`
+- Nile Monitor - `284-nile-monitor.svg`
+- Ocelot - `285-ocelot.svg`
+- Olm - `286-olm.svg`
+- Oni - `287-oni.svg`
+- Oryx - `288-oryx.svg`
+- Pacu - `289-pacu.svg`
+- Pika - `290-pika.svg`
+- Poison Dart Frog - `291-poison-dart-frog.svg`
+- Proboscis Monkey - `292-proboscis-monkey.svg`
+- Puma - `293-puma.svg`
+- Quetzal - `294-quetzal.svg`
+- Red Fox - `295-red-fox.svg`
+- Rhea - `296-rhea.svg`
+- Ring-tailed Lemur - `297-ring-tailed-lemur.svg`
+- Rockhopper Penguin - `298-rockhopper-penguin.svg`
+- Saiga Antelope - `299-saiga-antelope.svg`
+- Sawfish - `300-sawfish.svg`
+- Serval - `301-serval.svg`
+- Shoebill - `302-shoebill.svg`
+- Siberian Husky - `303-siberian-husky.svg`
+- Sifaka - `304-sifaka.svg`
+- Slow Loris - `305-slow-loris.svg`
+- Snowy Owl - `306-snowy-owl.svg`
+- Spectacled Bear - `307-spectacled-bear.svg`
+- Spider Monkey - `308-spider-monkey.svg`
+- Sun Bear - `309-sun-bear.svg`
+- Tamarin - `310-tamarin.svg`
+- Tarsier - `311-tarsier.svg`
+- Thorny Devil - `312-thorny-devil.svg`
+- Tiger Shark - `313-tiger-shark.svg`
+- Tortoise - `314-tortoise.svg`
+- Tree Frog - `315-tree-frog.svg`
+- Vicuna - `316-vicuna.svg`
+- Viper - `317-viper.svg`
+- Water Buffalo - `318-water-buffalo.svg`
+- Whale - `319-whale.svg`
+- Wildebeest - `320-wildebeest.svg`
+- Wolverine - `321-wolverine.svg`
+- Wrasse - `322-wrasse.svg`
+- Yellowfin Tuna - `323-yellowfin-tuna.svg`

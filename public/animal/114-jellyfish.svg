@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Jellyfish</title>
+  <desc id="desc">A stylized cnidarian illustration for Jellyfish, without background or label text.</desc>
+  <g>
+        <path d="M98 151c8-58 116-58 124 0 2 14-17 31-62 31s-64-17-62-31Z" fill="#8ED1C6"/>
+        <path d="M109 174c7 22 5 42-6 61M143 181c-13 25-14 48-3 68M176 181c13 25 14 48 3 68M211 174c-7 22-5 42 6 61" stroke="#24524A" stroke-width="8" stroke-linecap="round" opacity=".7"/>
+        <circle cx="143" cy="145" r="6" fill="#24524A"/><circle cx="177" cy="145" r="6" fill="#24524A"/>
+      </g>
+</svg>

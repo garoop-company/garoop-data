@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Cockroach</title>
+  <desc id="desc">A stylized insect illustration for Cockroach, without background or label text.</desc>
+  <g>
+      <ellipse cx="162" cy="162" rx="48" ry="61" fill="#FFB366"/>
+      <circle cx="229" cy="154" r="34" fill="#FFF1DE"/>
+      <circle cx="247" cy="143" r="5" fill="#59361D"/>
+      <path d="M154 126c-42-22-72-20-94 7M169 132c42-22 72-20 94 7" stroke="#59361D" stroke-width="8" stroke-linecap="round" opacity=".68"/><path d="M154 150c-42-22-72-20-94 7M169 156c42-22 72-20 94 7" stroke="#59361D" stroke-width="8" stroke-linecap="round" opacity=".68"/><path d="M154 174c-42-22-72-20-94 7M169 180c42-22 72-20 94 7" stroke="#59361D" stroke-width="8" stroke-linecap="round" opacity=".68"/>
+      <path d="M129 117c-28-44-3-73 36-50 30 18 41 52 17 78Z" fill="#FFF1DE" opacity=".78"/><path d="M182 118c28-44 3-73-36-50-30 18-41 52-17 78Z" fill="#FFF1DE" opacity=".58"/>
+      <path d="M162 108v108" stroke="#59361D" stroke-width="6" opacity=".3"/>
+    </g>
+</svg>

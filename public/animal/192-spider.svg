@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Spider</title>
+  <desc id="desc">A stylized arachnid illustration for Spider, without background or label text.</desc>
+  <g>
+      <ellipse cx="162" cy="162" rx="48" ry="61" fill="#F7C873"/>
+      <circle cx="229" cy="154" r="34" fill="#FFF3D6"/>
+      <circle cx="247" cy="143" r="5" fill="#3A445D"/>
+      <path d="M154 126c-42-22-72-20-94 7M169 132c42-22 72-20 94 7" stroke="#3A445D" stroke-width="8" stroke-linecap="round" opacity=".68"/><path d="M154 150c-42-22-72-20-94 7M169 156c42-22 72-20 94 7" stroke="#3A445D" stroke-width="8" stroke-linecap="round" opacity=".68"/><path d="M154 174c-42-22-72-20-94 7M169 180c42-22 72-20 94 7" stroke="#3A445D" stroke-width="8" stroke-linecap="round" opacity=".68"/><path d="M154 198c-42-22-72-20-94 7M169 204c42-22 72-20 94 7" stroke="#3A445D" stroke-width="8" stroke-linecap="round" opacity=".68"/>
+      
+      <path d="M162 108v108" stroke="#3A445D" stroke-width="6" opacity=".3"/>
+    </g>
+</svg>

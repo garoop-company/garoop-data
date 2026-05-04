@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Starfish</title>
+  <desc id="desc">A stylized echinoderm illustration for Starfish, without background or label text.</desc>
+  <g>
+        <path d="M160 68l26 65 70-6-54 45 27 65-69-37-69 37 27-65-54-45 70 6Z" fill="#9CD6F0"/>
+        <circle cx="160" cy="162" r="38" fill="#EAF9FF" opacity=".72"/>
+        <circle cx="145" cy="154" r="5" fill="#1B4B61"/><circle cx="175" cy="154" r="5" fill="#1B4B61"/>
+      </g>
+</svg>

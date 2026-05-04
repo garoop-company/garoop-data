@@ -1,0 +1,1945 @@
+{
+  "count": 323,
+  "format": "svg",
+  "generatedBy": "scripts/generate-animal-assets.mjs",
+  "animals": [
+    {
+      "name": "Aardvark",
+      "group": "mammal",
+      "filename": "001-aardvark.svg",
+      "path": "/animal/001-aardvark.svg"
+    },
+    {
+      "name": "African Buffalo",
+      "group": "mammal",
+      "filename": "002-african-buffalo.svg",
+      "path": "/animal/002-african-buffalo.svg"
+    },
+    {
+      "name": "African Elephant",
+      "group": "mammal",
+      "filename": "003-african-elephant.svg",
+      "path": "/animal/003-african-elephant.svg"
+    },
+    {
+      "name": "African Wild Dog",
+      "group": "mammal",
+      "filename": "004-african-wild-dog.svg",
+      "path": "/animal/004-african-wild-dog.svg"
+    },
+    {
+      "name": "Albatross",
+      "group": "bird",
+      "filename": "005-albatross.svg",
+      "path": "/animal/005-albatross.svg"
+    },
+    {
+      "name": "Alligator",
+      "group": "reptile",
+      "filename": "006-alligator.svg",
+      "path": "/animal/006-alligator.svg"
+    },
+    {
+      "name": "Alpaca",
+      "group": "mammal",
+      "filename": "007-alpaca.svg",
+      "path": "/animal/007-alpaca.svg"
+    },
+    {
+      "name": "Anaconda",
+      "group": "reptile",
+      "filename": "008-anaconda.svg",
+      "path": "/animal/008-anaconda.svg"
+    },
+    {
+      "name": "Angelfish",
+      "group": "fish",
+      "filename": "009-angelfish.svg",
+      "path": "/animal/009-angelfish.svg"
+    },
+    {
+      "name": "Anteater",
+      "group": "mammal",
+      "filename": "010-anteater.svg",
+      "path": "/animal/010-anteater.svg"
+    },
+    {
+      "name": "Antelope",
+      "group": "mammal",
+      "filename": "011-antelope.svg",
+      "path": "/animal/011-antelope.svg"
+    },
+    {
+      "name": "Arctic Fox",
+      "group": "mammal",
+      "filename": "012-arctic-fox.svg",
+      "path": "/animal/012-arctic-fox.svg"
+    },
+    {
+      "name": "Armadillo",
+      "group": "mammal",
+      "filename": "013-armadillo.svg",
+      "path": "/animal/013-armadillo.svg"
+    },
+    {
+      "name": "Axolotl",
+      "group": "amphibian",
+      "filename": "014-axolotl.svg",
+      "path": "/animal/014-axolotl.svg"
+    },
+    {
+      "name": "Baboon",
+      "group": "mammal",
+      "filename": "015-baboon.svg",
+      "path": "/animal/015-baboon.svg"
+    },
+    {
+      "name": "Badger",
+      "group": "mammal",
+      "filename": "016-badger.svg",
+      "path": "/animal/016-badger.svg"
+    },
+    {
+      "name": "Bald Eagle",
+      "group": "bird",
+      "filename": "017-bald-eagle.svg",
+      "path": "/animal/017-bald-eagle.svg"
+    },
+    {
+      "name": "Bandicoot",
+      "group": "mammal",
+      "filename": "018-bandicoot.svg",
+      "path": "/animal/018-bandicoot.svg"
+    },
+    {
+      "name": "Barn Owl",
+      "group": "bird",
+      "filename": "019-barn-owl.svg",
+      "path": "/animal/019-barn-owl.svg"
+    },
+    {
+      "name": "Barracuda",
+      "group": "fish",
+      "filename": "020-barracuda.svg",
+      "path": "/animal/020-barracuda.svg"
+    },
+    {
+      "name": "Basilisk Lizard",
+      "group": "reptile",
+      "filename": "021-basilisk-lizard.svg",
+      "path": "/animal/021-basilisk-lizard.svg"
+    },
+    {
+      "name": "Bat",
+      "group": "mammal",
+      "filename": "022-bat.svg",
+      "path": "/animal/022-bat.svg"
+    },
+    {
+      "name": "Beaver",
+      "group": "mammal",
+      "filename": "023-beaver.svg",
+      "path": "/animal/023-beaver.svg"
+    },
+    {
+      "name": "Bengal Tiger",
+      "group": "mammal",
+      "filename": "024-bengal-tiger.svg",
+      "path": "/animal/024-bengal-tiger.svg"
+    },
+    {
+      "name": "Bison",
+      "group": "mammal",
+      "filename": "025-bison.svg",
+      "path": "/animal/025-bison.svg"
+    },
+    {
+      "name": "Black Bear",
+      "group": "mammal",
+      "filename": "026-black-bear.svg",
+      "path": "/animal/026-black-bear.svg"
+    },
+    {
+      "name": "Blue Jay",
+      "group": "bird",
+      "filename": "027-blue-jay.svg",
+      "path": "/animal/027-blue-jay.svg"
+    },
+    {
+      "name": "Blue Whale",
+      "group": "mammal",
+      "filename": "028-blue-whale.svg",
+      "path": "/animal/028-blue-whale.svg"
+    },
+    {
+      "name": "Boa Constrictor",
+      "group": "reptile",
+      "filename": "029-boa-constrictor.svg",
+      "path": "/animal/029-boa-constrictor.svg"
+    },
+    {
+      "name": "Bobcat",
+      "group": "mammal",
+      "filename": "030-bobcat.svg",
+      "path": "/animal/030-bobcat.svg"
+    },
+    {
+      "name": "Bonobo",
+      "group": "mammal",
+      "filename": "031-bonobo.svg",
+      "path": "/animal/031-bonobo.svg"
+    },
+    {
+      "name": "Bottlenose Dolphin",
+      "group": "mammal",
+      "filename": "032-bottlenose-dolphin.svg",
+      "path": "/animal/032-bottlenose-dolphin.svg"
+    },
+    {
+      "name": "Bowerbird",
+      "group": "bird",
+      "filename": "033-bowerbird.svg",
+      "path": "/animal/033-bowerbird.svg"
+    },
+    {
+      "name": "Box Turtle",
+      "group": "reptile",
+      "filename": "034-box-turtle.svg",
+      "path": "/animal/034-box-turtle.svg"
+    },
+    {
+      "name": "Brown Bear",
+      "group": "mammal",
+      "filename": "035-brown-bear.svg",
+      "path": "/animal/035-brown-bear.svg"
+    },
+    {
+      "name": "Budgerigar",
+      "group": "bird",
+      "filename": "036-budgerigar.svg",
+      "path": "/animal/036-budgerigar.svg"
+    },
+    {
+      "name": "Butterfly",
+      "group": "insect",
+      "filename": "037-butterfly.svg",
+      "path": "/animal/037-butterfly.svg"
+    },
+    {
+      "name": "Camel",
+      "group": "mammal",
+      "filename": "038-camel.svg",
+      "path": "/animal/038-camel.svg"
+    },
+    {
+      "name": "Capybara",
+      "group": "mammal",
+      "filename": "039-capybara.svg",
+      "path": "/animal/039-capybara.svg"
+    },
+    {
+      "name": "Caracal",
+      "group": "mammal",
+      "filename": "040-caracal.svg",
+      "path": "/animal/040-caracal.svg"
+    },
+    {
+      "name": "Cardinal",
+      "group": "bird",
+      "filename": "041-cardinal.svg",
+      "path": "/animal/041-cardinal.svg"
+    },
+    {
+      "name": "Cassowary",
+      "group": "bird",
+      "filename": "042-cassowary.svg",
+      "path": "/animal/042-cassowary.svg"
+    },
+    {
+      "name": "Cat",
+      "group": "mammal",
+      "filename": "043-cat.svg",
+      "path": "/animal/043-cat.svg"
+    },
+    {
+      "name": "Caterpillar",
+      "group": "insect",
+      "filename": "044-caterpillar.svg",
+      "path": "/animal/044-caterpillar.svg"
+    },
+    {
+      "name": "Cheetah",
+      "group": "mammal",
+      "filename": "045-cheetah.svg",
+      "path": "/animal/045-cheetah.svg"
+    },
+    {
+      "name": "Chicken",
+      "group": "bird",
+      "filename": "046-chicken.svg",
+      "path": "/animal/046-chicken.svg"
+    },
+    {
+      "name": "Chimpanzee",
+      "group": "mammal",
+      "filename": "047-chimpanzee.svg",
+      "path": "/animal/047-chimpanzee.svg"
+    },
+    {
+      "name": "Chinchilla",
+      "group": "mammal",
+      "filename": "048-chinchilla.svg",
+      "path": "/animal/048-chinchilla.svg"
+    },
+    {
+      "name": "Chipmunk",
+      "group": "mammal",
+      "filename": "049-chipmunk.svg",
+      "path": "/animal/049-chipmunk.svg"
+    },
+    {
+      "name": "Chameleon",
+      "group": "reptile",
+      "filename": "050-chameleon.svg",
+      "path": "/animal/050-chameleon.svg"
+    },
+    {
+      "name": "Clownfish",
+      "group": "fish",
+      "filename": "051-clownfish.svg",
+      "path": "/animal/051-clownfish.svg"
+    },
+    {
+      "name": "Cobra",
+      "group": "reptile",
+      "filename": "052-cobra.svg",
+      "path": "/animal/052-cobra.svg"
+    },
+    {
+      "name": "Cockatoo",
+      "group": "bird",
+      "filename": "053-cockatoo.svg",
+      "path": "/animal/053-cockatoo.svg"
+    },
+    {
+      "name": "Cod",
+      "group": "fish",
+      "filename": "054-cod.svg",
+      "path": "/animal/054-cod.svg"
+    },
+    {
+      "name": "Coelacanth",
+      "group": "fish",
+      "filename": "055-coelacanth.svg",
+      "path": "/animal/055-coelacanth.svg"
+    },
+    {
+      "name": "Condor",
+      "group": "bird",
+      "filename": "056-condor.svg",
+      "path": "/animal/056-condor.svg"
+    },
+    {
+      "name": "Coral Snake",
+      "group": "reptile",
+      "filename": "057-coral-snake.svg",
+      "path": "/animal/057-coral-snake.svg"
+    },
+    {
+      "name": "Cormorant",
+      "group": "bird",
+      "filename": "058-cormorant.svg",
+      "path": "/animal/058-cormorant.svg"
+    },
+    {
+      "name": "Coyote",
+      "group": "mammal",
+      "filename": "059-coyote.svg",
+      "path": "/animal/059-coyote.svg"
+    },
+    {
+      "name": "Crab",
+      "group": "crustacean",
+      "filename": "060-crab.svg",
+      "path": "/animal/060-crab.svg"
+    },
+    {
+      "name": "Crane",
+      "group": "bird",
+      "filename": "061-crane.svg",
+      "path": "/animal/061-crane.svg"
+    },
+    {
+      "name": "Crocodile",
+      "group": "reptile",
+      "filename": "062-crocodile.svg",
+      "path": "/animal/062-crocodile.svg"
+    },
+    {
+      "name": "Crow",
+      "group": "bird",
+      "filename": "063-crow.svg",
+      "path": "/animal/063-crow.svg"
+    },
+    {
+      "name": "Cuttlefish",
+      "group": "mollusk",
+      "filename": "064-cuttlefish.svg",
+      "path": "/animal/064-cuttlefish.svg"
+    },
+    {
+      "name": "Deer",
+      "group": "mammal",
+      "filename": "065-deer.svg",
+      "path": "/animal/065-deer.svg"
+    },
+    {
+      "name": "Dingo",
+      "group": "mammal",
+      "filename": "066-dingo.svg",
+      "path": "/animal/066-dingo.svg"
+    },
+    {
+      "name": "Dog",
+      "group": "mammal",
+      "filename": "067-dog.svg",
+      "path": "/animal/067-dog.svg"
+    },
+    {
+      "name": "Dolphin",
+      "group": "mammal",
+      "filename": "068-dolphin.svg",
+      "path": "/animal/068-dolphin.svg"
+    },
+    {
+      "name": "Donkey",
+      "group": "mammal",
+      "filename": "069-donkey.svg",
+      "path": "/animal/069-donkey.svg"
+    },
+    {
+      "name": "Dragonfly",
+      "group": "insect",
+      "filename": "070-dragonfly.svg",
+      "path": "/animal/070-dragonfly.svg"
+    },
+    {
+      "name": "Dugong",
+      "group": "mammal",
+      "filename": "071-dugong.svg",
+      "path": "/animal/071-dugong.svg"
+    },
+    {
+      "name": "Duck",
+      "group": "bird",
+      "filename": "072-duck.svg",
+      "path": "/animal/072-duck.svg"
+    },
+    {
+      "name": "Echidna",
+      "group": "mammal",
+      "filename": "073-echidna.svg",
+      "path": "/animal/073-echidna.svg"
+    },
+    {
+      "name": "Eel",
+      "group": "fish",
+      "filename": "074-eel.svg",
+      "path": "/animal/074-eel.svg"
+    },
+    {
+      "name": "Elephant Seal",
+      "group": "mammal",
+      "filename": "075-elephant-seal.svg",
+      "path": "/animal/075-elephant-seal.svg"
+    },
+    {
+      "name": "Emperor Penguin",
+      "group": "bird",
+      "filename": "076-emperor-penguin.svg",
+      "path": "/animal/076-emperor-penguin.svg"
+    },
+    {
+      "name": "Emu",
+      "group": "bird",
+      "filename": "077-emu.svg",
+      "path": "/animal/077-emu.svg"
+    },
+    {
+      "name": "Falcon",
+      "group": "bird",
+      "filename": "078-falcon.svg",
+      "path": "/animal/078-falcon.svg"
+    },
+    {
+      "name": "Fennec Fox",
+      "group": "mammal",
+      "filename": "079-fennec-fox.svg",
+      "path": "/animal/079-fennec-fox.svg"
+    },
+    {
+      "name": "Ferret",
+      "group": "mammal",
+      "filename": "080-ferret.svg",
+      "path": "/animal/080-ferret.svg"
+    },
+    {
+      "name": "Firefly",
+      "group": "insect",
+      "filename": "081-firefly.svg",
+      "path": "/animal/081-firefly.svg"
+    },
+    {
+      "name": "Flamingo",
+      "group": "bird",
+      "filename": "082-flamingo.svg",
+      "path": "/animal/082-flamingo.svg"
+    },
+    {
+      "name": "Flying Squirrel",
+      "group": "mammal",
+      "filename": "083-flying-squirrel.svg",
+      "path": "/animal/083-flying-squirrel.svg"
+    },
+    {
+      "name": "Fox",
+      "group": "mammal",
+      "filename": "084-fox.svg",
+      "path": "/animal/084-fox.svg"
+    },
+    {
+      "name": "Frilled Lizard",
+      "group": "reptile",
+      "filename": "085-frilled-lizard.svg",
+      "path": "/animal/085-frilled-lizard.svg"
+    },
+    {
+      "name": "Frog",
+      "group": "amphibian",
+      "filename": "086-frog.svg",
+      "path": "/animal/086-frog.svg"
+    },
+    {
+      "name": "Gazelle",
+      "group": "mammal",
+      "filename": "087-gazelle.svg",
+      "path": "/animal/087-gazelle.svg"
+    },
+    {
+      "name": "Gecko",
+      "group": "reptile",
+      "filename": "088-gecko.svg",
+      "path": "/animal/088-gecko.svg"
+    },
+    {
+      "name": "Gibbon",
+      "group": "mammal",
+      "filename": "089-gibbon.svg",
+      "path": "/animal/089-gibbon.svg"
+    },
+    {
+      "name": "Gila Monster",
+      "group": "reptile",
+      "filename": "090-gila-monster.svg",
+      "path": "/animal/090-gila-monster.svg"
+    },
+    {
+      "name": "Giraffe",
+      "group": "mammal",
+      "filename": "091-giraffe.svg",
+      "path": "/animal/091-giraffe.svg"
+    },
+    {
+      "name": "Goat",
+      "group": "mammal",
+      "filename": "092-goat.svg",
+      "path": "/animal/092-goat.svg"
+    },
+    {
+      "name": "Goose",
+      "group": "bird",
+      "filename": "093-goose.svg",
+      "path": "/animal/093-goose.svg"
+    },
+    {
+      "name": "Gorilla",
+      "group": "mammal",
+      "filename": "094-gorilla.svg",
+      "path": "/animal/094-gorilla.svg"
+    },
+    {
+      "name": "Grasshopper",
+      "group": "insect",
+      "filename": "095-grasshopper.svg",
+      "path": "/animal/095-grasshopper.svg"
+    },
+    {
+      "name": "Great White Shark",
+      "group": "fish",
+      "filename": "096-great-white-shark.svg",
+      "path": "/animal/096-great-white-shark.svg"
+    },
+    {
+      "name": "Green Sea Turtle",
+      "group": "reptile",
+      "filename": "097-green-sea-turtle.svg",
+      "path": "/animal/097-green-sea-turtle.svg"
+    },
+    {
+      "name": "Groundhog",
+      "group": "mammal",
+      "filename": "098-groundhog.svg",
+      "path": "/animal/098-groundhog.svg"
+    },
+    {
+      "name": "Guinea Pig",
+      "group": "mammal",
+      "filename": "099-guinea-pig.svg",
+      "path": "/animal/099-guinea-pig.svg"
+    },
+    {
+      "name": "Hamster",
+      "group": "mammal",
+      "filename": "100-hamster.svg",
+      "path": "/animal/100-hamster.svg"
+    },
+    {
+      "name": "Hare",
+      "group": "mammal",
+      "filename": "101-hare.svg",
+      "path": "/animal/101-hare.svg"
+    },
+    {
+      "name": "Hawk",
+      "group": "bird",
+      "filename": "102-hawk.svg",
+      "path": "/animal/102-hawk.svg"
+    },
+    {
+      "name": "Hedgehog",
+      "group": "mammal",
+      "filename": "103-hedgehog.svg",
+      "path": "/animal/103-hedgehog.svg"
+    },
+    {
+      "name": "Hippopotamus",
+      "group": "mammal",
+      "filename": "104-hippopotamus.svg",
+      "path": "/animal/104-hippopotamus.svg"
+    },
+    {
+      "name": "Hornbill",
+      "group": "bird",
+      "filename": "105-hornbill.svg",
+      "path": "/animal/105-hornbill.svg"
+    },
+    {
+      "name": "Horse",
+      "group": "mammal",
+      "filename": "106-horse.svg",
+      "path": "/animal/106-horse.svg"
+    },
+    {
+      "name": "Hummingbird",
+      "group": "bird",
+      "filename": "107-hummingbird.svg",
+      "path": "/animal/107-hummingbird.svg"
+    },
+    {
+      "name": "Hyena",
+      "group": "mammal",
+      "filename": "108-hyena.svg",
+      "path": "/animal/108-hyena.svg"
+    },
+    {
+      "name": "Ibis",
+      "group": "bird",
+      "filename": "109-ibis.svg",
+      "path": "/animal/109-ibis.svg"
+    },
+    {
+      "name": "Iguana",
+      "group": "reptile",
+      "filename": "110-iguana.svg",
+      "path": "/animal/110-iguana.svg"
+    },
+    {
+      "name": "Impala",
+      "group": "mammal",
+      "filename": "111-impala.svg",
+      "path": "/animal/111-impala.svg"
+    },
+    {
+      "name": "Jackal",
+      "group": "mammal",
+      "filename": "112-jackal.svg",
+      "path": "/animal/112-jackal.svg"
+    },
+    {
+      "name": "Jaguar",
+      "group": "mammal",
+      "filename": "113-jaguar.svg",
+      "path": "/animal/113-jaguar.svg"
+    },
+    {
+      "name": "Jellyfish",
+      "group": "cnidarian",
+      "filename": "114-jellyfish.svg",
+      "path": "/animal/114-jellyfish.svg"
+    },
+    {
+      "name": "Kangaroo",
+      "group": "mammal",
+      "filename": "115-kangaroo.svg",
+      "path": "/animal/115-kangaroo.svg"
+    },
+    {
+      "name": "King Cobra",
+      "group": "reptile",
+      "filename": "116-king-cobra.svg",
+      "path": "/animal/116-king-cobra.svg"
+    },
+    {
+      "name": "Kingfisher",
+      "group": "bird",
+      "filename": "117-kingfisher.svg",
+      "path": "/animal/117-kingfisher.svg"
+    },
+    {
+      "name": "Kiwi",
+      "group": "bird",
+      "filename": "118-kiwi.svg",
+      "path": "/animal/118-kiwi.svg"
+    },
+    {
+      "name": "Koala",
+      "group": "mammal",
+      "filename": "119-koala.svg",
+      "path": "/animal/119-koala.svg"
+    },
+    {
+      "name": "Komodo Dragon",
+      "group": "reptile",
+      "filename": "120-komodo-dragon.svg",
+      "path": "/animal/120-komodo-dragon.svg"
+    },
+    {
+      "name": "Kookaburra",
+      "group": "bird",
+      "filename": "121-kookaburra.svg",
+      "path": "/animal/121-kookaburra.svg"
+    },
+    {
+      "name": "Lemur",
+      "group": "mammal",
+      "filename": "122-lemur.svg",
+      "path": "/animal/122-lemur.svg"
+    },
+    {
+      "name": "Leopard",
+      "group": "mammal",
+      "filename": "123-leopard.svg",
+      "path": "/animal/123-leopard.svg"
+    },
+    {
+      "name": "Lion",
+      "group": "mammal",
+      "filename": "124-lion.svg",
+      "path": "/animal/124-lion.svg"
+    },
+    {
+      "name": "Llama",
+      "group": "mammal",
+      "filename": "125-llama.svg",
+      "path": "/animal/125-llama.svg"
+    },
+    {
+      "name": "Lobster",
+      "group": "crustacean",
+      "filename": "126-lobster.svg",
+      "path": "/animal/126-lobster.svg"
+    },
+    {
+      "name": "Lynx",
+      "group": "mammal",
+      "filename": "127-lynx.svg",
+      "path": "/animal/127-lynx.svg"
+    },
+    {
+      "name": "Macaw",
+      "group": "bird",
+      "filename": "128-macaw.svg",
+      "path": "/animal/128-macaw.svg"
+    },
+    {
+      "name": "Manatee",
+      "group": "mammal",
+      "filename": "129-manatee.svg",
+      "path": "/animal/129-manatee.svg"
+    },
+    {
+      "name": "Mandrill",
+      "group": "mammal",
+      "filename": "130-mandrill.svg",
+      "path": "/animal/130-mandrill.svg"
+    },
+    {
+      "name": "Manta Ray",
+      "group": "fish",
+      "filename": "131-manta-ray.svg",
+      "path": "/animal/131-manta-ray.svg"
+    },
+    {
+      "name": "Meerkat",
+      "group": "mammal",
+      "filename": "132-meerkat.svg",
+      "path": "/animal/132-meerkat.svg"
+    },
+    {
+      "name": "Mole",
+      "group": "mammal",
+      "filename": "133-mole.svg",
+      "path": "/animal/133-mole.svg"
+    },
+    {
+      "name": "Mongoose",
+      "group": "mammal",
+      "filename": "134-mongoose.svg",
+      "path": "/animal/134-mongoose.svg"
+    },
+    {
+      "name": "Monitor Lizard",
+      "group": "reptile",
+      "filename": "135-monitor-lizard.svg",
+      "path": "/animal/135-monitor-lizard.svg"
+    },
+    {
+      "name": "Moose",
+      "group": "mammal",
+      "filename": "136-moose.svg",
+      "path": "/animal/136-moose.svg"
+    },
+    {
+      "name": "Moray Eel",
+      "group": "fish",
+      "filename": "137-moray-eel.svg",
+      "path": "/animal/137-moray-eel.svg"
+    },
+    {
+      "name": "Moth",
+      "group": "insect",
+      "filename": "138-moth.svg",
+      "path": "/animal/138-moth.svg"
+    },
+    {
+      "name": "Mountain Goat",
+      "group": "mammal",
+      "filename": "139-mountain-goat.svg",
+      "path": "/animal/139-mountain-goat.svg"
+    },
+    {
+      "name": "Mouse",
+      "group": "mammal",
+      "filename": "140-mouse.svg",
+      "path": "/animal/140-mouse.svg"
+    },
+    {
+      "name": "Narwhal",
+      "group": "mammal",
+      "filename": "141-narwhal.svg",
+      "path": "/animal/141-narwhal.svg"
+    },
+    {
+      "name": "Newt",
+      "group": "amphibian",
+      "filename": "142-newt.svg",
+      "path": "/animal/142-newt.svg"
+    },
+    {
+      "name": "Nightingale",
+      "group": "bird",
+      "filename": "143-nightingale.svg",
+      "path": "/animal/143-nightingale.svg"
+    },
+    {
+      "name": "Octopus",
+      "group": "mollusk",
+      "filename": "144-octopus.svg",
+      "path": "/animal/144-octopus.svg"
+    },
+    {
+      "name": "Okapi",
+      "group": "mammal",
+      "filename": "145-okapi.svg",
+      "path": "/animal/145-okapi.svg"
+    },
+    {
+      "name": "Opossum",
+      "group": "mammal",
+      "filename": "146-opossum.svg",
+      "path": "/animal/146-opossum.svg"
+    },
+    {
+      "name": "Orangutan",
+      "group": "mammal",
+      "filename": "147-orangutan.svg",
+      "path": "/animal/147-orangutan.svg"
+    },
+    {
+      "name": "Orca",
+      "group": "mammal",
+      "filename": "148-orca.svg",
+      "path": "/animal/148-orca.svg"
+    },
+    {
+      "name": "Ostrich",
+      "group": "bird",
+      "filename": "149-ostrich.svg",
+      "path": "/animal/149-ostrich.svg"
+    },
+    {
+      "name": "Otter",
+      "group": "mammal",
+      "filename": "150-otter.svg",
+      "path": "/animal/150-otter.svg"
+    },
+    {
+      "name": "Owl",
+      "group": "bird",
+      "filename": "151-owl.svg",
+      "path": "/animal/151-owl.svg"
+    },
+    {
+      "name": "Panda",
+      "group": "mammal",
+      "filename": "152-panda.svg",
+      "path": "/animal/152-panda.svg"
+    },
+    {
+      "name": "Pangolin",
+      "group": "mammal",
+      "filename": "153-pangolin.svg",
+      "path": "/animal/153-pangolin.svg"
+    },
+    {
+      "name": "Panther",
+      "group": "mammal",
+      "filename": "154-panther.svg",
+      "path": "/animal/154-panther.svg"
+    },
+    {
+      "name": "Parrot",
+      "group": "bird",
+      "filename": "155-parrot.svg",
+      "path": "/animal/155-parrot.svg"
+    },
+    {
+      "name": "Peacock",
+      "group": "bird",
+      "filename": "156-peacock.svg",
+      "path": "/animal/156-peacock.svg"
+    },
+    {
+      "name": "Pelican",
+      "group": "bird",
+      "filename": "157-pelican.svg",
+      "path": "/animal/157-pelican.svg"
+    },
+    {
+      "name": "Peregrine Falcon",
+      "group": "bird",
+      "filename": "158-peregrine-falcon.svg",
+      "path": "/animal/158-peregrine-falcon.svg"
+    },
+    {
+      "name": "Pig",
+      "group": "mammal",
+      "filename": "159-pig.svg",
+      "path": "/animal/159-pig.svg"
+    },
+    {
+      "name": "Platypus",
+      "group": "mammal",
+      "filename": "160-platypus.svg",
+      "path": "/animal/160-platypus.svg"
+    },
+    {
+      "name": "Polar Bear",
+      "group": "mammal",
+      "filename": "161-polar-bear.svg",
+      "path": "/animal/161-polar-bear.svg"
+    },
+    {
+      "name": "Porcupine",
+      "group": "mammal",
+      "filename": "162-porcupine.svg",
+      "path": "/animal/162-porcupine.svg"
+    },
+    {
+      "name": "Prairie Dog",
+      "group": "mammal",
+      "filename": "163-prairie-dog.svg",
+      "path": "/animal/163-prairie-dog.svg"
+    },
+    {
+      "name": "Praying Mantis",
+      "group": "insect",
+      "filename": "164-praying-mantis.svg",
+      "path": "/animal/164-praying-mantis.svg"
+    },
+    {
+      "name": "Puffin",
+      "group": "bird",
+      "filename": "165-puffin.svg",
+      "path": "/animal/165-puffin.svg"
+    },
+    {
+      "name": "Python",
+      "group": "reptile",
+      "filename": "166-python.svg",
+      "path": "/animal/166-python.svg"
+    },
+    {
+      "name": "Quail",
+      "group": "bird",
+      "filename": "167-quail.svg",
+      "path": "/animal/167-quail.svg"
+    },
+    {
+      "name": "Quokka",
+      "group": "mammal",
+      "filename": "168-quokka.svg",
+      "path": "/animal/168-quokka.svg"
+    },
+    {
+      "name": "Rabbit",
+      "group": "mammal",
+      "filename": "169-rabbit.svg",
+      "path": "/animal/169-rabbit.svg"
+    },
+    {
+      "name": "Raccoon",
+      "group": "mammal",
+      "filename": "170-raccoon.svg",
+      "path": "/animal/170-raccoon.svg"
+    },
+    {
+      "name": "Rat",
+      "group": "mammal",
+      "filename": "171-rat.svg",
+      "path": "/animal/171-rat.svg"
+    },
+    {
+      "name": "Raven",
+      "group": "bird",
+      "filename": "172-raven.svg",
+      "path": "/animal/172-raven.svg"
+    },
+    {
+      "name": "Red Panda",
+      "group": "mammal",
+      "filename": "173-red-panda.svg",
+      "path": "/animal/173-red-panda.svg"
+    },
+    {
+      "name": "Reindeer",
+      "group": "mammal",
+      "filename": "174-reindeer.svg",
+      "path": "/animal/174-reindeer.svg"
+    },
+    {
+      "name": "Rhinoceros",
+      "group": "mammal",
+      "filename": "175-rhinoceros.svg",
+      "path": "/animal/175-rhinoceros.svg"
+    },
+    {
+      "name": "Roadrunner",
+      "group": "bird",
+      "filename": "176-roadrunner.svg",
+      "path": "/animal/176-roadrunner.svg"
+    },
+    {
+      "name": "Salamander",
+      "group": "amphibian",
+      "filename": "177-salamander.svg",
+      "path": "/animal/177-salamander.svg"
+    },
+    {
+      "name": "Salmon",
+      "group": "fish",
+      "filename": "178-salmon.svg",
+      "path": "/animal/178-salmon.svg"
+    },
+    {
+      "name": "Scorpion",
+      "group": "arachnid",
+      "filename": "179-scorpion.svg",
+      "path": "/animal/179-scorpion.svg"
+    },
+    {
+      "name": "Seahorse",
+      "group": "fish",
+      "filename": "180-seahorse.svg",
+      "path": "/animal/180-seahorse.svg"
+    },
+    {
+      "name": "Seal",
+      "group": "mammal",
+      "filename": "181-seal.svg",
+      "path": "/animal/181-seal.svg"
+    },
+    {
+      "name": "Sea Lion",
+      "group": "mammal",
+      "filename": "182-sea-lion.svg",
+      "path": "/animal/182-sea-lion.svg"
+    },
+    {
+      "name": "Sea Otter",
+      "group": "mammal",
+      "filename": "183-sea-otter.svg",
+      "path": "/animal/183-sea-otter.svg"
+    },
+    {
+      "name": "Sheep",
+      "group": "mammal",
+      "filename": "184-sheep.svg",
+      "path": "/animal/184-sheep.svg"
+    },
+    {
+      "name": "Shrimp",
+      "group": "crustacean",
+      "filename": "185-shrimp.svg",
+      "path": "/animal/185-shrimp.svg"
+    },
+    {
+      "name": "Skunk",
+      "group": "mammal",
+      "filename": "186-skunk.svg",
+      "path": "/animal/186-skunk.svg"
+    },
+    {
+      "name": "Sloth",
+      "group": "mammal",
+      "filename": "187-sloth.svg",
+      "path": "/animal/187-sloth.svg"
+    },
+    {
+      "name": "Snail",
+      "group": "mollusk",
+      "filename": "188-snail.svg",
+      "path": "/animal/188-snail.svg"
+    },
+    {
+      "name": "Snake",
+      "group": "reptile",
+      "filename": "189-snake.svg",
+      "path": "/animal/189-snake.svg"
+    },
+    {
+      "name": "Snow Leopard",
+      "group": "mammal",
+      "filename": "190-snow-leopard.svg",
+      "path": "/animal/190-snow-leopard.svg"
+    },
+    {
+      "name": "Sparrow",
+      "group": "bird",
+      "filename": "191-sparrow.svg",
+      "path": "/animal/191-sparrow.svg"
+    },
+    {
+      "name": "Spider",
+      "group": "arachnid",
+      "filename": "192-spider.svg",
+      "path": "/animal/192-spider.svg"
+    },
+    {
+      "name": "Squid",
+      "group": "mollusk",
+      "filename": "193-squid.svg",
+      "path": "/animal/193-squid.svg"
+    },
+    {
+      "name": "Squirrel",
+      "group": "mammal",
+      "filename": "194-squirrel.svg",
+      "path": "/animal/194-squirrel.svg"
+    },
+    {
+      "name": "Starfish",
+      "group": "echinoderm",
+      "filename": "195-starfish.svg",
+      "path": "/animal/195-starfish.svg"
+    },
+    {
+      "name": "Stingray",
+      "group": "fish",
+      "filename": "196-stingray.svg",
+      "path": "/animal/196-stingray.svg"
+    },
+    {
+      "name": "Swan",
+      "group": "bird",
+      "filename": "197-swan.svg",
+      "path": "/animal/197-swan.svg"
+    },
+    {
+      "name": "Tapir",
+      "group": "mammal",
+      "filename": "198-tapir.svg",
+      "path": "/animal/198-tapir.svg"
+    },
+    {
+      "name": "Tasmanian Devil",
+      "group": "mammal",
+      "filename": "199-tasmanian-devil.svg",
+      "path": "/animal/199-tasmanian-devil.svg"
+    },
+    {
+      "name": "Toucan",
+      "group": "bird",
+      "filename": "200-toucan.svg",
+      "path": "/animal/200-toucan.svg"
+    },
+    {
+      "name": "Trout",
+      "group": "fish",
+      "filename": "201-trout.svg",
+      "path": "/animal/201-trout.svg"
+    },
+    {
+      "name": "Tuna",
+      "group": "fish",
+      "filename": "202-tuna.svg",
+      "path": "/animal/202-tuna.svg"
+    },
+    {
+      "name": "Turkey",
+      "group": "bird",
+      "filename": "203-turkey.svg",
+      "path": "/animal/203-turkey.svg"
+    },
+    {
+      "name": "Walrus",
+      "group": "mammal",
+      "filename": "204-walrus.svg",
+      "path": "/animal/204-walrus.svg"
+    },
+    {
+      "name": "Warthog",
+      "group": "mammal",
+      "filename": "205-warthog.svg",
+      "path": "/animal/205-warthog.svg"
+    },
+    {
+      "name": "Wasp",
+      "group": "insect",
+      "filename": "206-wasp.svg",
+      "path": "/animal/206-wasp.svg"
+    },
+    {
+      "name": "Weasel",
+      "group": "mammal",
+      "filename": "207-weasel.svg",
+      "path": "/animal/207-weasel.svg"
+    },
+    {
+      "name": "Whale Shark",
+      "group": "fish",
+      "filename": "208-whale-shark.svg",
+      "path": "/animal/208-whale-shark.svg"
+    },
+    {
+      "name": "Wolf",
+      "group": "mammal",
+      "filename": "209-wolf.svg",
+      "path": "/animal/209-wolf.svg"
+    },
+    {
+      "name": "Wombat",
+      "group": "mammal",
+      "filename": "210-wombat.svg",
+      "path": "/animal/210-wombat.svg"
+    },
+    {
+      "name": "Woodpecker",
+      "group": "bird",
+      "filename": "211-woodpecker.svg",
+      "path": "/animal/211-woodpecker.svg"
+    },
+    {
+      "name": "Yak",
+      "group": "mammal",
+      "filename": "212-yak.svg",
+      "path": "/animal/212-yak.svg"
+    },
+    {
+      "name": "Zebra",
+      "group": "mammal",
+      "filename": "213-zebra.svg",
+      "path": "/animal/213-zebra.svg"
+    },
+    {
+      "name": "Zebu",
+      "group": "mammal",
+      "filename": "214-zebu.svg",
+      "path": "/animal/214-zebu.svg"
+    },
+    {
+      "name": "Addax",
+      "group": "mammal",
+      "filename": "215-addax.svg",
+      "path": "/animal/215-addax.svg"
+    },
+    {
+      "name": "Agama Lizard",
+      "group": "reptile",
+      "filename": "216-agama-lizard.svg",
+      "path": "/animal/216-agama-lizard.svg"
+    },
+    {
+      "name": "Arapaima",
+      "group": "fish",
+      "filename": "217-arapaima.svg",
+      "path": "/animal/217-arapaima.svg"
+    },
+    {
+      "name": "Asian Elephant",
+      "group": "mammal",
+      "filename": "218-asian-elephant.svg",
+      "path": "/animal/218-asian-elephant.svg"
+    },
+    {
+      "name": "Asian Small-clawed Otter",
+      "group": "mammal",
+      "filename": "219-asian-small-clawed-otter.svg",
+      "path": "/animal/219-asian-small-clawed-otter.svg"
+    },
+    {
+      "name": "Atlantic Puffin",
+      "group": "bird",
+      "filename": "220-atlantic-puffin.svg",
+      "path": "/animal/220-atlantic-puffin.svg"
+    },
+    {
+      "name": "Aye-aye",
+      "group": "mammal",
+      "filename": "221-aye-aye.svg",
+      "path": "/animal/221-aye-aye.svg"
+    },
+    {
+      "name": "Bearded Dragon",
+      "group": "reptile",
+      "filename": "222-bearded-dragon.svg",
+      "path": "/animal/222-bearded-dragon.svg"
+    },
+    {
+      "name": "Beluga Whale",
+      "group": "mammal",
+      "filename": "223-beluga-whale.svg",
+      "path": "/animal/223-beluga-whale.svg"
+    },
+    {
+      "name": "Binturong",
+      "group": "mammal",
+      "filename": "224-binturong.svg",
+      "path": "/animal/224-binturong.svg"
+    },
+    {
+      "name": "Black Mamba",
+      "group": "reptile",
+      "filename": "225-black-mamba.svg",
+      "path": "/animal/225-black-mamba.svg"
+    },
+    {
+      "name": "Black Swan",
+      "group": "bird",
+      "filename": "226-black-swan.svg",
+      "path": "/animal/226-black-swan.svg"
+    },
+    {
+      "name": "Blue Morpho Butterfly",
+      "group": "insect",
+      "filename": "227-blue-morpho-butterfly.svg",
+      "path": "/animal/227-blue-morpho-butterfly.svg"
+    },
+    {
+      "name": "Blue-footed Booby",
+      "group": "bird",
+      "filename": "228-blue-footed-booby.svg",
+      "path": "/animal/228-blue-footed-booby.svg"
+    },
+    {
+      "name": "Bontebok",
+      "group": "mammal",
+      "filename": "229-bontebok.svg",
+      "path": "/animal/229-bontebok.svg"
+    },
+    {
+      "name": "Bushbaby",
+      "group": "mammal",
+      "filename": "230-bushbaby.svg",
+      "path": "/animal/230-bushbaby.svg"
+    },
+    {
+      "name": "Caecilian",
+      "group": "amphibian",
+      "filename": "231-caecilian.svg",
+      "path": "/animal/231-caecilian.svg"
+    },
+    {
+      "name": "Caribou",
+      "group": "mammal",
+      "filename": "232-caribou.svg",
+      "path": "/animal/232-caribou.svg"
+    },
+    {
+      "name": "Carp",
+      "group": "fish",
+      "filename": "233-carp.svg",
+      "path": "/animal/233-carp.svg"
+    },
+    {
+      "name": "Chamois",
+      "group": "mammal",
+      "filename": "234-chamois.svg",
+      "path": "/animal/234-chamois.svg"
+    },
+    {
+      "name": "Clam",
+      "group": "mollusk",
+      "filename": "235-clam.svg",
+      "path": "/animal/235-clam.svg"
+    },
+    {
+      "name": "Clouded Leopard",
+      "group": "mammal",
+      "filename": "236-clouded-leopard.svg",
+      "path": "/animal/236-clouded-leopard.svg"
+    },
+    {
+      "name": "Coati",
+      "group": "mammal",
+      "filename": "237-coati.svg",
+      "path": "/animal/237-coati.svg"
+    },
+    {
+      "name": "Cockroach",
+      "group": "insect",
+      "filename": "238-cockroach.svg",
+      "path": "/animal/238-cockroach.svg"
+    },
+    {
+      "name": "Common Loon",
+      "group": "bird",
+      "filename": "239-common-loon.svg",
+      "path": "/animal/239-common-loon.svg"
+    },
+    {
+      "name": "Cougar",
+      "group": "mammal",
+      "filename": "240-cougar.svg",
+      "path": "/animal/240-cougar.svg"
+    },
+    {
+      "name": "Dama Gazelle",
+      "group": "mammal",
+      "filename": "241-dama-gazelle.svg",
+      "path": "/animal/241-dama-gazelle.svg"
+    },
+    {
+      "name": "Dik-dik",
+      "group": "mammal",
+      "filename": "242-dik-dik.svg",
+      "path": "/animal/242-dik-dik.svg"
+    },
+    {
+      "name": "Eagle Ray",
+      "group": "fish",
+      "filename": "243-eagle-ray.svg",
+      "path": "/animal/243-eagle-ray.svg"
+    },
+    {
+      "name": "Eastern Newt",
+      "group": "amphibian",
+      "filename": "244-eastern-newt.svg",
+      "path": "/animal/244-eastern-newt.svg"
+    },
+    {
+      "name": "Electric Eel",
+      "group": "fish",
+      "filename": "245-electric-eel.svg",
+      "path": "/animal/245-electric-eel.svg"
+    },
+    {
+      "name": "Elk",
+      "group": "mammal",
+      "filename": "246-elk.svg",
+      "path": "/animal/246-elk.svg"
+    },
+    {
+      "name": "Fiddler Crab",
+      "group": "crustacean",
+      "filename": "247-fiddler-crab.svg",
+      "path": "/animal/247-fiddler-crab.svg"
+    },
+    {
+      "name": "Fin Whale",
+      "group": "mammal",
+      "filename": "248-fin-whale.svg",
+      "path": "/animal/248-fin-whale.svg"
+    },
+    {
+      "name": "Fossa",
+      "group": "mammal",
+      "filename": "249-fossa.svg",
+      "path": "/animal/249-fossa.svg"
+    },
+    {
+      "name": "Galapagos Tortoise",
+      "group": "reptile",
+      "filename": "250-galapagos-tortoise.svg",
+      "path": "/animal/250-galapagos-tortoise.svg"
+    },
+    {
+      "name": "Gar",
+      "group": "fish",
+      "filename": "251-gar.svg",
+      "path": "/animal/251-gar.svg"
+    },
+    {
+      "name": "Gharial",
+      "group": "reptile",
+      "filename": "252-gharial.svg",
+      "path": "/animal/252-gharial.svg"
+    },
+    {
+      "name": "Giant Clam",
+      "group": "mollusk",
+      "filename": "253-giant-clam.svg",
+      "path": "/animal/253-giant-clam.svg"
+    },
+    {
+      "name": "Giant Panda",
+      "group": "mammal",
+      "filename": "254-giant-panda.svg",
+      "path": "/animal/254-giant-panda.svg"
+    },
+    {
+      "name": "Golden Eagle",
+      "group": "bird",
+      "filename": "255-golden-eagle.svg",
+      "path": "/animal/255-golden-eagle.svg"
+    },
+    {
+      "name": "Golden Lion Tamarin",
+      "group": "mammal",
+      "filename": "256-golden-lion-tamarin.svg",
+      "path": "/animal/256-golden-lion-tamarin.svg"
+    },
+    {
+      "name": "Grouper",
+      "group": "fish",
+      "filename": "257-grouper.svg",
+      "path": "/animal/257-grouper.svg"
+    },
+    {
+      "name": "Guanaco",
+      "group": "mammal",
+      "filename": "258-guanaco.svg",
+      "path": "/animal/258-guanaco.svg"
+    },
+    {
+      "name": "Harbor Porpoise",
+      "group": "mammal",
+      "filename": "259-harbor-porpoise.svg",
+      "path": "/animal/259-harbor-porpoise.svg"
+    },
+    {
+      "name": "Harp Seal",
+      "group": "mammal",
+      "filename": "260-harp-seal.svg",
+      "path": "/animal/260-harp-seal.svg"
+    },
+    {
+      "name": "Harpy Eagle",
+      "group": "bird",
+      "filename": "261-harpy-eagle.svg",
+      "path": "/animal/261-harpy-eagle.svg"
+    },
+    {
+      "name": "Hercules Beetle",
+      "group": "insect",
+      "filename": "262-hercules-beetle.svg",
+      "path": "/animal/262-hercules-beetle.svg"
+    },
+    {
+      "name": "Hermit Crab",
+      "group": "crustacean",
+      "filename": "263-hermit-crab.svg",
+      "path": "/animal/263-hermit-crab.svg"
+    },
+    {
+      "name": "Hoatzin",
+      "group": "bird",
+      "filename": "264-hoatzin.svg",
+      "path": "/animal/264-hoatzin.svg"
+    },
+    {
+      "name": "Horseshoe Crab",
+      "group": "arachnid",
+      "filename": "265-horseshoe-crab.svg",
+      "path": "/animal/265-horseshoe-crab.svg"
+    },
+    {
+      "name": "Ibex",
+      "group": "mammal",
+      "filename": "266-ibex.svg",
+      "path": "/animal/266-ibex.svg"
+    },
+    {
+      "name": "Indri",
+      "group": "mammal",
+      "filename": "267-indri.svg",
+      "path": "/animal/267-indri.svg"
+    },
+    {
+      "name": "Japanese Macaque",
+      "group": "mammal",
+      "filename": "268-japanese-macaque.svg",
+      "path": "/animal/268-japanese-macaque.svg"
+    },
+    {
+      "name": "Kakapo",
+      "group": "bird",
+      "filename": "269-kakapo.svg",
+      "path": "/animal/269-kakapo.svg"
+    },
+    {
+      "name": "Kea",
+      "group": "bird",
+      "filename": "270-kea.svg",
+      "path": "/animal/270-kea.svg"
+    },
+    {
+      "name": "Kudu",
+      "group": "mammal",
+      "filename": "271-kudu.svg",
+      "path": "/animal/271-kudu.svg"
+    },
+    {
+      "name": "Leaf-tailed Gecko",
+      "group": "reptile",
+      "filename": "272-leaf-tailed-gecko.svg",
+      "path": "/animal/272-leaf-tailed-gecko.svg"
+    },
+    {
+      "name": "Leatherback Turtle",
+      "group": "reptile",
+      "filename": "273-leatherback-turtle.svg",
+      "path": "/animal/273-leatherback-turtle.svg"
+    },
+    {
+      "name": "Lionfish",
+      "group": "fish",
+      "filename": "274-lionfish.svg",
+      "path": "/animal/274-lionfish.svg"
+    },
+    {
+      "name": "Little Penguin",
+      "group": "bird",
+      "filename": "275-little-penguin.svg",
+      "path": "/animal/275-little-penguin.svg"
+    },
+    {
+      "name": "Lungfish",
+      "group": "fish",
+      "filename": "276-lungfish.svg",
+      "path": "/animal/276-lungfish.svg"
+    },
+    {
+      "name": "Malayan Tapir",
+      "group": "mammal",
+      "filename": "277-malayan-tapir.svg",
+      "path": "/animal/277-malayan-tapir.svg"
+    },
+    {
+      "name": "Mallard",
+      "group": "bird",
+      "filename": "278-mallard.svg",
+      "path": "/animal/278-mallard.svg"
+    },
+    {
+      "name": "Mantis Shrimp",
+      "group": "crustacean",
+      "filename": "279-mantis-shrimp.svg",
+      "path": "/animal/279-mantis-shrimp.svg"
+    },
+    {
+      "name": "Margay",
+      "group": "mammal",
+      "filename": "280-margay.svg",
+      "path": "/animal/280-margay.svg"
+    },
+    {
+      "name": "Marmoset",
+      "group": "mammal",
+      "filename": "281-marmoset.svg",
+      "path": "/animal/281-marmoset.svg"
+    },
+    {
+      "name": "Musk Ox",
+      "group": "mammal",
+      "filename": "282-musk-ox.svg",
+      "path": "/animal/282-musk-ox.svg"
+    },
+    {
+      "name": "Nautilus",
+      "group": "mollusk",
+      "filename": "283-nautilus.svg",
+      "path": "/animal/283-nautilus.svg"
+    },
+    {
+      "name": "Nile Monitor",
+      "group": "reptile",
+      "filename": "284-nile-monitor.svg",
+      "path": "/animal/284-nile-monitor.svg"
+    },
+    {
+      "name": "Ocelot",
+      "group": "mammal",
+      "filename": "285-ocelot.svg",
+      "path": "/animal/285-ocelot.svg"
+    },
+    {
+      "name": "Olm",
+      "group": "amphibian",
+      "filename": "286-olm.svg",
+      "path": "/animal/286-olm.svg"
+    },
+    {
+      "name": "Oni",
+      "group": "mythical",
+      "filename": "287-oni.svg",
+      "path": "/animal/287-oni.svg"
+    },
+    {
+      "name": "Oryx",
+      "group": "mammal",
+      "filename": "288-oryx.svg",
+      "path": "/animal/288-oryx.svg"
+    },
+    {
+      "name": "Pacu",
+      "group": "fish",
+      "filename": "289-pacu.svg",
+      "path": "/animal/289-pacu.svg"
+    },
+    {
+      "name": "Pika",
+      "group": "mammal",
+      "filename": "290-pika.svg",
+      "path": "/animal/290-pika.svg"
+    },
+    {
+      "name": "Poison Dart Frog",
+      "group": "amphibian",
+      "filename": "291-poison-dart-frog.svg",
+      "path": "/animal/291-poison-dart-frog.svg"
+    },
+    {
+      "name": "Proboscis Monkey",
+      "group": "mammal",
+      "filename": "292-proboscis-monkey.svg",
+      "path": "/animal/292-proboscis-monkey.svg"
+    },
+    {
+      "name": "Puma",
+      "group": "mammal",
+      "filename": "293-puma.svg",
+      "path": "/animal/293-puma.svg"
+    },
+    {
+      "name": "Quetzal",
+      "group": "bird",
+      "filename": "294-quetzal.svg",
+      "path": "/animal/294-quetzal.svg"
+    },
+    {
+      "name": "Red Fox",
+      "group": "mammal",
+      "filename": "295-red-fox.svg",
+      "path": "/animal/295-red-fox.svg"
+    },
+    {
+      "name": "Rhea",
+      "group": "bird",
+      "filename": "296-rhea.svg",
+      "path": "/animal/296-rhea.svg"
+    },
+    {
+      "name": "Ring-tailed Lemur",
+      "group": "mammal",
+      "filename": "297-ring-tailed-lemur.svg",
+      "path": "/animal/297-ring-tailed-lemur.svg"
+    },
+    {
+      "name": "Rockhopper Penguin",
+      "group": "bird",
+      "filename": "298-rockhopper-penguin.svg",
+      "path": "/animal/298-rockhopper-penguin.svg"
+    },
+    {
+      "name": "Saiga Antelope",
+      "group": "mammal",
+      "filename": "299-saiga-antelope.svg",
+      "path": "/animal/299-saiga-antelope.svg"
+    },
+    {
+      "name": "Sawfish",
+      "group": "fish",
+      "filename": "300-sawfish.svg",
+      "path": "/animal/300-sawfish.svg"
+    },
+    {
+      "name": "Serval",
+      "group": "mammal",
+      "filename": "301-serval.svg",
+      "path": "/animal/301-serval.svg"
+    },
+    {
+      "name": "Shoebill",
+      "group": "bird",
+      "filename": "302-shoebill.svg",
+      "path": "/animal/302-shoebill.svg"
+    },
+    {
+      "name": "Siberian Husky",
+      "group": "mammal",
+      "filename": "303-siberian-husky.svg",
+      "path": "/animal/303-siberian-husky.svg"
+    },
+    {
+      "name": "Sifaka",
+      "group": "mammal",
+      "filename": "304-sifaka.svg",
+      "path": "/animal/304-sifaka.svg"
+    },
+    {
+      "name": "Slow Loris",
+      "group": "mammal",
+      "filename": "305-slow-loris.svg",
+      "path": "/animal/305-slow-loris.svg"
+    },
+    {
+      "name": "Snowy Owl",
+      "group": "bird",
+      "filename": "306-snowy-owl.svg",
+      "path": "/animal/306-snowy-owl.svg"
+    },
+    {
+      "name": "Spectacled Bear",
+      "group": "mammal",
+      "filename": "307-spectacled-bear.svg",
+      "path": "/animal/307-spectacled-bear.svg"
+    },
+    {
+      "name": "Spider Monkey",
+      "group": "mammal",
+      "filename": "308-spider-monkey.svg",
+      "path": "/animal/308-spider-monkey.svg"
+    },
+    {
+      "name": "Sun Bear",
+      "group": "mammal",
+      "filename": "309-sun-bear.svg",
+      "path": "/animal/309-sun-bear.svg"
+    },
+    {
+      "name": "Tamarin",
+      "group": "mammal",
+      "filename": "310-tamarin.svg",
+      "path": "/animal/310-tamarin.svg"
+    },
+    {
+      "name": "Tarsier",
+      "group": "mammal",
+      "filename": "311-tarsier.svg",
+      "path": "/animal/311-tarsier.svg"
+    },
+    {
+      "name": "Thorny Devil",
+      "group": "reptile",
+      "filename": "312-thorny-devil.svg",
+      "path": "/animal/312-thorny-devil.svg"
+    },
+    {
+      "name": "Tiger Shark",
+      "group": "fish",
+      "filename": "313-tiger-shark.svg",
+      "path": "/animal/313-tiger-shark.svg"
+    },
+    {
+      "name": "Tortoise",
+      "group": "reptile",
+      "filename": "314-tortoise.svg",
+      "path": "/animal/314-tortoise.svg"
+    },
+    {
+      "name": "Tree Frog",
+      "group": "amphibian",
+      "filename": "315-tree-frog.svg",
+      "path": "/animal/315-tree-frog.svg"
+    },
+    {
+      "name": "Vicuna",
+      "group": "mammal",
+      "filename": "316-vicuna.svg",
+      "path": "/animal/316-vicuna.svg"
+    },
+    {
+      "name": "Viper",
+      "group": "reptile",
+      "filename": "317-viper.svg",
+      "path": "/animal/317-viper.svg"
+    },
+    {
+      "name": "Water Buffalo",
+      "group": "mammal",
+      "filename": "318-water-buffalo.svg",
+      "path": "/animal/318-water-buffalo.svg"
+    },
+    {
+      "name": "Whale",
+      "group": "mammal",
+      "filename": "319-whale.svg",
+      "path": "/animal/319-whale.svg"
+    },
+    {
+      "name": "Wildebeest",
+      "group": "mammal",
+      "filename": "320-wildebeest.svg",
+      "path": "/animal/320-wildebeest.svg"
+    },
+    {
+      "name": "Wolverine",
+      "group": "mammal",
+      "filename": "321-wolverine.svg",
+      "path": "/animal/321-wolverine.svg"
+    },
+    {
+      "name": "Wrasse",
+      "group": "fish",
+      "filename": "322-wrasse.svg",
+      "path": "/animal/322-wrasse.svg"
+    },
+    {
+      "name": "Yellowfin Tuna",
+      "group": "fish",
+      "filename": "323-yellowfin-tuna.svg",
+      "path": "/animal/323-yellowfin-tuna.svg"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Snail</title>
+  <desc id="desc">A stylized mollusk illustration for Snail, without background or label text.</desc>
+  <g>
+      <ellipse cx="158" cy="164" rx="72" ry="47" fill="#F08A7A"/>
+      <path d="M92 158c-25-22-37-45-34-69 23 8 44 29 63 62M224 158c25-22 37-45 34-69-23 8-44 29-63 62" fill="#FFF0EC"/>
+      <circle cx="134" cy="144" r="6" fill="#4A2A35"/><circle cx="184" cy="144" r="6" fill="#4A2A35"/>
+      <path d="M101 190l-33 29M132 204l-16 36M185 204l16 36M216 190l33 29" stroke="#4A2A35" stroke-width="8" stroke-linecap="round" opacity=".7"/>
+    </g>
+</svg>
