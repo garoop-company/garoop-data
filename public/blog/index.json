@@ -1475,6 +1475,87 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-04-future-education": {
+      "default": "2026-05-04-future-education.md",
+      "locales": {
+        "ne": "2026-05-04-future-education.ne.md",
+        "zh": "2026-05-04-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-05-04",
+          "tags": [
+            "未来の教育",
+            "子ども",
+            "学習"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा",
+          "date": "2026-05-04",
+          "description": "भविष्यको शिक्षा बारे सिक्ने सिकाई",
+          "tags": [
+            "शिक्षा",
+            "भविष्य",
+            "सिर्जनशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "date": "2026-05-04",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-05-05-ai": {
+      "default": "2026-05-05-ai.md",
+      "locales": {
+        "ne": "2026-05-05-ai.ne.md",
+        "zh": "2026-05-05-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "未来を創るAIの世界にようこそ!",
+          "date": "2026-05-05",
+          "description": "AIの可能性と子供たちの創造性を結びつけるエキサイティングな記事",
+          "tags": [
+            "AI",
+            "創造性",
+            "未来"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI को संसार: तपाईंको सिर्जनशीलता को बढाउने",
+          "date": "2026-05-05",
+          "description": "AI को बारेमा जान्नु र सिर्जनशीलता बढाउनु",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "探索人工智能的奇妙世界",
+          "date": "2026-05-05",
+          "description": "一起了解人工智能的基本概念，并发现它如何激发我们的创造力和行动力。",
+          "tags": [
+            "AI",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
