@@ -15,11 +15,11 @@
                 "mood": "FOCUSED"
             },
             {
-                "text": "プロダクト開発",
+                "text": "プロジェクト計画",
                 "mood": "CREATIVE"
             },
             {
-                "text": "会計処理",
+                "text": "会議準備",
                 "mood": "OFF"
             }
         ]
@@ -347,16 +347,16 @@
         },
         "taskPool": [
             {
-                "text": "謎のシグナルを追跡中",
+                "text": "OSINT",
                 "mood": "FOCUSED"
             },
             {
-                "text": "データの裏側を潜行調査中",
-                "mood": "FOCUSED"
-            },
-            {
-                "text": "ミッションの全容を解明中",
+                "text": "浸透調査",
                 "mood": "CREATIVE"
+            },
+            {
+                "text": "高度暗号解析",
+                "mood": "OFF"
             }
         ]
     },
@@ -373,15 +373,15 @@
         },
         "taskPool": [
             {
-                "text": "バックドアの脆弱性を診断中",
+                "text": "作戦調整",
                 "mood": "FOCUSED"
             },
             {
-                "text": "暗号化プロトコルを調整中",
-                "mood": "FOCUSED"
+                "text": "脆弱性ハンドリング",
+                "mood": "CREATIVE"
             },
             {
-                "text": "秘密の合流地点を確認中",
+                "text": "緊急対応プロトコル",
                 "mood": "OFF"
             }
         ]
@@ -399,16 +399,16 @@
         },
         "taskPool": [
             {
-                "text": "影のスポンサーと交渉中",
+                "text": "高度心理交渉",
                 "mood": "FOCUSED"
             },
             {
-                "text": "情報の対価を計算中",
-                "mood": "FOCUSED"
-            },
-            {
-                "text": "不可能な契約を可能に調整中",
+                "text": "戦略的誘導",
                 "mood": "CREATIVE"
+            },
+            {
+                "text": "利害関係調整",
+                "mood": "OFF"
             }
         ]
     },
@@ -428,7 +428,7 @@
                 "mood": "FOCUSED"
             },
             {
-                "text": "動画制作",
+                "text": "ビジュアルデザイン",
                 "mood": "CREATIVE"
             },
             {
@@ -449,15 +449,15 @@
         },
         "taskPool": [
             {
-                "text": "アプリ開発",
+                "text": "プロダクト開発",
                 "mood": "FOCUSED"
             },
             {
-                "text": "クラウドアーキテクチャ",
+                "text": "AI/ML",
                 "mood": "CREATIVE"
             },
             {
-                "text": "AI/ML",
+                "text": "クラウドアーキテクチャ",
                 "mood": "OFF"
             }
         ]
