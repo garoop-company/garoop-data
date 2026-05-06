@@ -1556,6 +1556,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-06-kangaroo": {
+      "default": "2026-05-06-kangaroo.md",
+      "locales": {
+        "ne": "2026-05-06-kangaroo.ne.md",
+        "zh": "2026-05-06-kangaroo.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "カンガルーの秘密を探そう！",
+          "date": "2026-05-06",
+          "description": "カンガルーが大好きなガルちゃんがお届けする、カンガルーについての魅力的な記事です。",
+          "tags": [
+            "カンガルー",
+            "動物",
+            "自然"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "कंगारु: सिर्जनशीलता र सम्भावनाको प्रतीक",
+          "date": "2026-05-06",
+          "description": "कंगारुले हामीलाई के सिकाउन्छ?",
+          "tags": [
+            "कंगारु",
+            "सिर्जनशीलता",
+            "सम्भावना",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "卡鲁酱带你认识袋鼠：跳跃的创造力之旅",
+          "date": "2026-05-06",
+          "description": "让我们一起探索袋鼠的世界，发现它的独特能力和特点，激发孩子们的创造力和行动力。",
+          "tags": [
+            "袋鼠",
+            "创造力",
+            "动物探索"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
