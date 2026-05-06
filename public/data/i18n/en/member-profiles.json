@@ -110,33 +110,6 @@
             "github": ""
         }
     },
-    "ambassador_yui": {
-        "id": "ambassador_yui",
-        "name": "松下由依",
-        "nameEn": "Yui Matsushita",
-        "role": "アンバサダー",
-        "roleEn": "Ambassador",
-        "avatar": "/images/town/yui.webp",
-        "bio": "フリーアナウンサー・イラストレーターとして活動。福岡拠点。「伝える」「描く」両面の表現力を活かし、AIをやさしく・わかりやすく伝える存在。GaroopではAIアンバサダーとしてプロジェクトに関わり、生成AIやテクノロジーを人の言葉と感情に翻訳する役割を担う。子ども・保護者・一般層にも届く表現力が強み。",
-        "skills": [
-            "アナウンス",
-            "イラストレーション",
-            "AI解説",
-            "コミュニケーション"
-        ],
-        "experience": [
-            {
-                "period": "現在",
-                "title": "Garoop AIアンバサダー",
-                "description": "生成AIやテクノロジーを人の言葉と感情に翻訳する役割を担当。"
-            }
-        ],
-        "social": {
-            "twitter": "",
-            "linkedin": "",
-            "github": ""
-        }
-    },
     "talent_uka": {
         "id": "talent_uka",
         "name": "uka",

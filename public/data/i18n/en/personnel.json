@@ -127,32 +127,6 @@
         ]
     },
     {
-        "id": "ambassador_yui",
-        "name": "松下由依",
-        "role": "AMBASSADOR",
-        "imageSrc": "/images/town/yui.webp",
-        "isPlaceholder": true,
-        "mapConfig": {
-            "x": 35,
-            "y": 55,
-            "state": "patrol"
-        },
-        "taskPool": [
-            {
-                "text": "アナウンス",
-                "mood": "FOCUSED"
-            },
-            {
-                "text": "イラストレーション",
-                "mood": "CREATIVE"
-            },
-            {
-                "text": "AI解説",
-                "mood": "OFF"
-            }
-        ]
-    },
-    {
         "id": "talent_uka",
         "name": "uka",
         "role": "TALENT",
