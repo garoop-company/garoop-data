@@ -1,0 +1,693 @@
+{
+  "_doc": "繰り返しイベント。フィルタ無し=毎日 / weekday(0=Sun..6=Sat) / monthDay(1..31) / monthDate('MM-DD' 毎年同日)。'special: true' は UI で虹色フチ・脈動光・『今日だけ!』バッジで強調。日付ごとに id プレフィックスが付くため受け取りは 1 日 1 回。",
+  "recurring": [
+    {
+      "id": "daily-login-bonus",
+      "emoji": "🎁",
+      "title": {
+        "ja": "今日のログインボーナス",
+        "en": "Daily Login Bonus",
+        "zh": "今日登录奖励",
+        "fr": "Bonus de connexion",
+        "id": "Bonus harian",
+        "it": "Bonus quotidiano",
+        "ne": "दैनिक बोनस"
+      },
+      "description": {
+        "ja": "あいに来てくれてありがとう！毎日コツコツ育てよう。",
+        "en": "Thanks for coming back today!",
+        "zh": "谢谢你今天又来了！",
+        "fr": "Merci d'être revenu aujourd'hui !",
+        "id": "Terima kasih sudah kembali hari ini!",
+        "it": "Grazie per essere tornato oggi!",
+        "ne": "आज पनि आउनुभएकोमा धन्यवाद!"
+      },
+      "rewardKind": "growth",
+      "rewardAmount": 3
+    },
+
+    {
+      "id": "weekly-sunday-rest",
+      "weekday": 0,
+      "emoji": "☀️",
+      "title": {
+        "ja": "おやすみの日曜日",
+        "en": "Lazy Sunday",
+        "zh": "悠闲星期日",
+        "fr": "Dimanche tranquille",
+        "id": "Minggu santai",
+        "it": "Domenica tranquilla",
+        "ne": "आरामदायी आइतबार"
+      },
+      "description": {
+        "ja": "ゆっくり過ごそう。やさしさが少し育つよ。",
+        "en": "Take it easy. Gentleness grows.",
+        "zh": "慢慢来吧，温柔会成长。",
+        "fr": "Profite tranquillement.",
+        "id": "Santai aja, kelembutan tumbuh.",
+        "it": "Prenditela comoda, la gentilezza cresce.",
+        "ne": "बिस्तारै बिताऊँ, दया बढ्छ।"
+      },
+      "rewardKind": "gentleness",
+      "rewardAmount": 6
+    },
+    {
+      "id": "weekly-monday-push",
+      "weekday": 1,
+      "emoji": "💪",
+      "title": {
+        "ja": "がんばる月曜日",
+        "en": "Monday Push",
+        "zh": "加油星期一",
+        "fr": "Lundi en force",
+        "id": "Senin semangat",
+        "it": "Lunedì carico",
+        "ne": "उत्साहजनक सोमबार"
+      },
+      "description": {
+        "ja": "一週間のはじまり！挑戦心アップ。",
+        "en": "Start of the week — challenge boost!",
+        "zh": "新一周开始，挑战心提升！",
+        "fr": "Début de semaine — courage boosté !",
+        "id": "Awal pekan — semangat tantangan!",
+        "it": "Inizio settimana — sfida potenziata!",
+        "ne": "हप्ताको सुरुवात — चुनौती बढ्छ!"
+      },
+      "rewardKind": "challenge",
+      "rewardAmount": 6
+    },
+    {
+      "id": "weekly-tuesday-words",
+      "weekday": 2,
+      "emoji": "📚",
+      "title": {
+        "ja": "ことばの火曜日",
+        "en": "Word Tuesday",
+        "zh": "词汇星期二",
+        "fr": "Mardi des mots",
+        "id": "Selasa kata",
+        "it": "Martedì delle parole",
+        "ne": "शब्द मंगलबार"
+      },
+      "description": {
+        "ja": "新しい言葉をたくさん覚える日。",
+        "en": "Learn lots of new words today.",
+        "zh": "今天学很多新词。",
+        "fr": "Apprends plein de mots !",
+        "id": "Hari belajar kata baru.",
+        "it": "Impariamo nuove parole.",
+        "ne": "नयाँ शब्दहरू सिक्ने दिन।"
+      },
+      "rewardKind": "vocabulary",
+      "rewardAmount": 7
+    },
+    {
+      "id": "weekly-wednesday-mid",
+      "weekday": 3,
+      "emoji": "🌈",
+      "title": {
+        "ja": "まんなか水曜日",
+        "en": "Rainbow Wednesday",
+        "zh": "中段星期三",
+        "fr": "Mercredi arc-en-ciel",
+        "id": "Rabu pelangi",
+        "it": "Mercoledì arcobaleno",
+        "ne": "इन्द्रेणी बुधबार"
+      },
+      "description": {
+        "ja": "週の真ん中、もうひとがんばり！成長度+5。",
+        "en": "Halfway through — keep going! +5 growth.",
+        "zh": "周中加油！成长度+5。",
+        "fr": "Mi-semaine ! +5 croissance.",
+        "id": "Pertengahan pekan! +5 pertumbuhan.",
+        "it": "Metà settimana! +5 crescita.",
+        "ne": "हप्ताको बीच! +5 वृद्धि।"
+      },
+      "rewardKind": "growth",
+      "rewardAmount": 5
+    },
+    {
+      "id": "weekly-thursday-forest",
+      "weekday": 4,
+      "emoji": "🌳",
+      "title": {
+        "ja": "もくもく木曜日",
+        "en": "Forest Thursday",
+        "zh": "森林星期四",
+        "fr": "Jeudi forêt",
+        "id": "Kamis hutan",
+        "it": "Giovedì bosco",
+        "ne": "जङ्गल बिहीबार"
+      },
+      "description": {
+        "ja": "緑をいっぱいすって、やさしさ+5。",
+        "en": "Breathe in green — +5 gentleness.",
+        "zh": "呼吸绿意，温柔+5。",
+        "fr": "Respire le vert — +5 gentillesse.",
+        "id": "Napas hijau — +5 kelembutan.",
+        "it": "Respira il verde — +5 gentilezza.",
+        "ne": "हरियाली श्वासमा +5 दया।"
+      },
+      "rewardKind": "gentleness",
+      "rewardAmount": 5
+    },
+    {
+      "id": "weekly-friday-fancy",
+      "weekday": 5,
+      "emoji": "🎈",
+      "title": {
+        "ja": "はなやか金曜日",
+        "en": "Festive Friday",
+        "zh": "华丽星期五",
+        "fr": "Vendredi festif",
+        "id": "Jumat meriah",
+        "it": "Venerdì festoso",
+        "ne": "रौनक शुक्रबार"
+      },
+      "description": {
+        "ja": "今週もよくがんばった！挑戦心+6。",
+        "en": "Great week! +6 challenge.",
+        "zh": "本周辛苦了！挑战心+6。",
+        "fr": "Bonne semaine ! +6 courage.",
+        "id": "Pekan kerja keras! +6 tantangan.",
+        "it": "Bella settimana! +6 sfida.",
+        "ne": "राम्रो हप्ता! +6 चुनौती।"
+      },
+      "rewardKind": "challenge",
+      "rewardAmount": 6
+    },
+    {
+      "id": "weekly-saturday-play",
+      "weekday": 6,
+      "emoji": "🎉",
+      "title": {
+        "ja": "あそびの土曜日",
+        "en": "Playful Saturday",
+        "zh": "玩耍星期六",
+        "fr": "Samedi joyeux",
+        "id": "Sabtu seru",
+        "it": "Sabato di gioco",
+        "ne": "रमाइलो शनिबार"
+      },
+      "description": {
+        "ja": "一緒におでかけしよう！成長度ぐんっとアップ。",
+        "en": "Go out and play! Big growth boost.",
+        "zh": "一起出门玩！成长度大涨。",
+        "fr": "Sortez jouer ! Gros boost.",
+        "id": "Ayo keluar main! Pertumbuhan melonjak.",
+        "it": "Esci a giocare!",
+        "ne": "बाहिर खेल्न जाऊँ!"
+      },
+      "rewardKind": "growth",
+      "rewardAmount": 8
+    },
+
+    {
+      "id": "monthly-first-day",
+      "monthDay": 1,
+      "emoji": "🌱",
+      "title": {
+        "ja": "新しい月のはじまり",
+        "en": "New Month",
+        "zh": "新月开始",
+        "fr": "Nouveau mois",
+        "id": "Bulan baru",
+        "it": "Nuovo mese",
+        "ne": "नयाँ महिना"
+      },
+      "description": {
+        "ja": "あたらしい月！ボーナスで成長度が10アップ。",
+        "en": "Fresh month bonus! +10 growth.",
+        "zh": "新月奖励！成长度+10。",
+        "fr": "Bonus début de mois ! +10 croissance.",
+        "id": "Bonus awal bulan! +10 pertumbuhan.",
+        "it": "Bonus inizio mese! +10 crescita.",
+        "ne": "नयाँ महिना बोनस! +10 वृद्धि।"
+      },
+      "rewardKind": "growth",
+      "rewardAmount": 10
+    },
+    {
+      "id": "monthly-mid-day",
+      "monthDay": 15,
+      "emoji": "✨",
+      "title": {
+        "ja": "まんなかの日",
+        "en": "Mid-Month Day",
+        "zh": "月中日",
+        "fr": "Mi-mois",
+        "id": "Tengah bulan",
+        "it": "Metà mese",
+        "ne": "महिनाको मध्य"
+      },
+      "description": {
+        "ja": "月の真ん中！語彙力+8。",
+        "en": "Halfway through the month! +8 vocabulary.",
+        "zh": "月中！词汇+8。",
+        "fr": "Mi-mois ! +8 vocabulaire.",
+        "id": "Tengah bulan! +8 kosakata.",
+        "it": "Metà mese! +8 vocabolario.",
+        "ne": "महिनाको बीच! +8 शब्दभण्डार।"
+      },
+      "rewardKind": "vocabulary",
+      "rewardAmount": 8
+    },
+
+    {
+      "id": "annual-newyear",
+      "monthDate": "01-01",
+      "special": true,
+      "emoji": "🎍",
+      "title": {
+        "ja": "あけましておめでとう",
+        "en": "Happy New Year",
+        "zh": "新年快乐",
+        "fr": "Bonne année",
+        "id": "Selamat Tahun Baru",
+        "it": "Buon anno",
+        "ne": "नयाँ वर्षको शुभकामना"
+      },
+      "description": {
+        "ja": "今年もよろしくね！成長度がドカンと+25！",
+        "en": "Big New Year boost! +25 growth.",
+        "zh": "新年大爆发！成长度+25。",
+        "fr": "Boost du Nouvel An ! +25 croissance.",
+        "id": "Tahun Baru besar! +25 pertumbuhan.",
+        "it": "Grande spinta di Capodanno! +25.",
+        "ne": "नयाँ वर्ष बूस्ट! +25।"
+      },
+      "rewardKind": "growth",
+      "rewardAmount": 25,
+      "actionLabel": {
+        "ja": "あけおめ! 🎍",
+        "en": "Happy NY! 🎍",
+        "zh": "新年快乐! 🎍",
+        "fr": "Bonne année ! 🎍",
+        "id": "Selamat TB! 🎍",
+        "it": "Buon anno! 🎍",
+        "ne": "नयाँ वर्ष! 🎍"
+      }
+    },
+    {
+      "id": "annual-setsubun",
+      "monthDate": "02-03",
+      "emoji": "👹",
+      "title": {
+        "ja": "節分",
+        "en": "Setsubun",
+        "zh": "节分",
+        "fr": "Setsubun",
+        "id": "Setsubun",
+        "it": "Setsubun",
+        "ne": "सेत्सुबुन"
+      },
+      "description": {
+        "ja": "鬼は外！福は内！挑戦心+15。",
+        "en": "Out with demons! +15 challenge.",
+        "zh": "驱鬼迎福！挑战心+15。",
+        "fr": "Dehors les démons ! +15 courage.",
+        "id": "Usir setan! +15 tantangan.",
+        "it": "Via i demoni! +15 sfida.",
+        "ne": "भुतलाई बाहिर! +15 चुनौती।"
+      },
+      "rewardKind": "challenge",
+      "rewardAmount": 15
+    },
+    {
+      "id": "annual-valentine",
+      "monthDate": "02-14",
+      "emoji": "💝",
+      "title": {
+        "ja": "バレンタイン",
+        "en": "Valentine's Day",
+        "zh": "情人节",
+        "fr": "Saint-Valentin",
+        "id": "Hari Valentine",
+        "it": "San Valentino",
+        "ne": "भ्यालेन्टाइन"
+      },
+      "description": {
+        "ja": "甘い気持ちのおすそ分け。やさしさ+15！",
+        "en": "Sweet day! +15 gentleness.",
+        "zh": "甜蜜的一天！温柔+15。",
+        "fr": "Journée douce ! +15 gentillesse.",
+        "id": "Hari manis! +15 kelembutan.",
+        "it": "Giornata dolce! +15 gentilezza.",
+        "ne": "मीठो दिन! +15 दया।"
+      },
+      "rewardKind": "gentleness",
+      "rewardAmount": 15
+    },
+    {
+      "id": "annual-hinamatsuri",
+      "monthDate": "03-03",
+      "emoji": "🎎",
+      "title": {
+        "ja": "ひな祭り",
+        "en": "Hinamatsuri",
+        "zh": "雏祭",
+        "fr": "Hinamatsuri",
+        "id": "Hinamatsuri",
+        "it": "Hinamatsuri",
+        "ne": "हिनामत्सुरी"
+      },
+      "description": {
+        "ja": "おひなさまと一緒。やさしさ+12。",
+        "en": "With the dolls. +12 gentleness.",
+        "zh": "和雏人形一起。温柔+12。",
+        "fr": "Avec les poupées. +12 gentillesse.",
+        "id": "Bersama boneka. +12 kelembutan.",
+        "it": "Con le bambole. +12 gentilezza.",
+        "ne": "गुडियाहरूसँग। +12 दया।"
+      },
+      "rewardKind": "gentleness",
+      "rewardAmount": 12
+    },
+    {
+      "id": "annual-april-fools",
+      "monthDate": "04-01",
+      "emoji": "🤡",
+      "title": {
+        "ja": "エイプリルフール",
+        "en": "April Fools",
+        "zh": "愚人节",
+        "fr": "Poisson d'avril",
+        "id": "April Mop",
+        "it": "Pesce d'aprile",
+        "ne": "अप्रिल फुल"
+      },
+      "description": {
+        "ja": "うそも楽しい日！語彙力+12。",
+        "en": "Playful day! +12 vocabulary.",
+        "zh": "玩笑日！词汇+12。",
+        "fr": "Jour de farces ! +12 vocabulaire.",
+        "id": "Hari iseng! +12 kosakata.",
+        "it": "Giornata di scherzi! +12 vocabolario.",
+        "ne": "मजाकको दिन! +12 शब्दभण्डार।"
+      },
+      "rewardKind": "vocabulary",
+      "rewardAmount": 12
+    },
+    {
+      "id": "annual-childrens-day",
+      "monthDate": "05-05",
+      "special": true,
+      "emoji": "🎏",
+      "title": {
+        "ja": "こどもの日",
+        "en": "Children's Day",
+        "zh": "儿童节",
+        "fr": "Fête des enfants",
+        "id": "Hari Anak",
+        "it": "Festa dei bambini",
+        "ne": "बाल दिवस"
+      },
+      "description": {
+        "ja": "鯉のぼりがおよぐ日！全部の力+25!",
+        "en": "Carp streamers fly! Big bonus.",
+        "zh": "鲤鱼旗飘扬！大奖励。",
+        "fr": "Carpes au vent ! Gros bonus.",
+        "id": "Bendera ikan koi! Bonus besar.",
+        "it": "Carpe al vento! Grande bonus.",
+        "ne": "कोइ झण्डा! ठूलो बोनस।"
+      },
+      "rewardKind": "growth",
+      "rewardAmount": 25,
+      "actionLabel": {
+        "ja": "こいのぼり! 🎏",
+        "en": "Koi! 🎏",
+        "zh": "鲤鱼旗! 🎏",
+        "fr": "Carpe ! 🎏",
+        "id": "Koi! 🎏",
+        "it": "Koi! 🎏",
+        "ne": "कोइ! 🎏"
+      }
+    },
+    {
+      "id": "annual-tanabata",
+      "monthDate": "07-07",
+      "special": true,
+      "emoji": "🎋",
+      "title": {
+        "ja": "七夕",
+        "en": "Tanabata",
+        "zh": "七夕",
+        "fr": "Tanabata",
+        "id": "Tanabata",
+        "it": "Tanabata",
+        "ne": "तानाबाता"
+      },
+      "description": {
+        "ja": "願いごとを書こう！語彙力+20、特別な日！",
+        "en": "Make a wish! +20 vocabulary, special!",
+        "zh": "许愿吧！词汇+20，特别日！",
+        "fr": "Fais un voeu ! +20 vocabulaire.",
+        "id": "Buat permohonan! +20 kosakata.",
+        "it": "Esprimi un desiderio! +20.",
+        "ne": "इच्छा लेखौं! +20 शब्दभण्डार।"
+      },
+      "rewardKind": "vocabulary",
+      "rewardAmount": 20,
+      "actionLabel": {
+        "ja": "ねがいごと 🎋",
+        "en": "Make a wish 🎋",
+        "zh": "许愿 🎋",
+        "fr": "Faire un voeu 🎋",
+        "id": "Permohonan 🎋",
+        "it": "Esprimi un desiderio 🎋",
+        "ne": "इच्छा 🎋"
+      }
+    },
+    {
+      "id": "annual-mountain-day",
+      "monthDate": "08-11",
+      "emoji": "⛰️",
+      "title": {
+        "ja": "山の日",
+        "en": "Mountain Day",
+        "zh": "山之日",
+        "fr": "Jour de la montagne",
+        "id": "Hari Gunung",
+        "it": "Giornata della montagna",
+        "ne": "पर्वत दिवस"
+      },
+      "description": {
+        "ja": "山の写真をあげよう！挑戦心+12。",
+        "en": "Feed a mountain photo! +12 challenge.",
+        "zh": "喂张山的照片！挑战心+12。",
+        "fr": "Photo de montagne ! +12 courage.",
+        "id": "Foto gunung! +12 tantangan.",
+        "it": "Foto di montagna! +12 sfida.",
+        "ne": "पहाडको तस्बिर! +12 चुनौती।"
+      },
+      "rewardKind": "challenge",
+      "rewardAmount": 12
+    },
+    {
+      "id": "annual-tsukimi",
+      "monthDate": "09-15",
+      "emoji": "🎑",
+      "title": {
+        "ja": "十五夜お月見",
+        "en": "Moon Viewing",
+        "zh": "中秋赏月",
+        "fr": "Tsukimi",
+        "id": "Lihat Bulan",
+        "it": "Tsukimi",
+        "ne": "त्सुकिमी"
+      },
+      "description": {
+        "ja": "おだんごとお月さま。やさしさ+10。",
+        "en": "Moon and dumplings. +10 gentleness.",
+        "zh": "团子赏月。温柔+10。",
+        "fr": "Lune et dumplings. +10 gentillesse.",
+        "id": "Bulan dan kue. +10 kelembutan.",
+        "it": "Luna e gnocchi. +10 gentilezza.",
+        "ne": "चन्द्रमा। +10 दया।"
+      },
+      "rewardKind": "gentleness",
+      "rewardAmount": 10
+    },
+    {
+      "id": "annual-halloween",
+      "monthDate": "10-31",
+      "special": true,
+      "emoji": "🎃",
+      "title": {
+        "ja": "ハロウィン",
+        "en": "Halloween",
+        "zh": "万圣夜",
+        "fr": "Halloween",
+        "id": "Halloween",
+        "it": "Halloween",
+        "ne": "ह्यालोवीन"
+      },
+      "description": {
+        "ja": "Trick or Treat! 挑戦心+20、特別!",
+        "en": "Trick or treat! +20 challenge.",
+        "zh": "不给糖就捣蛋！挑战心+20。",
+        "fr": "Bonbon ou farce ! +20 courage.",
+        "id": "Trik atau permen! +20 tantangan.",
+        "it": "Dolcetto o scherzetto! +20 sfida.",
+        "ne": "ट्रिक अर ट्रिट! +20।"
+      },
+      "rewardKind": "challenge",
+      "rewardAmount": 20,
+      "actionLabel": {
+        "ja": "Trick or Treat! 🎃",
+        "en": "Trick or Treat! 🎃",
+        "zh": "捣蛋! 🎃",
+        "fr": "Farce ou bonbon! 🎃",
+        "id": "Trik! 🎃",
+        "it": "Scherzetto! 🎃",
+        "ne": "ह्यालोवीन! 🎃"
+      }
+    },
+    {
+      "id": "annual-shichigosan",
+      "monthDate": "11-15",
+      "emoji": "👘",
+      "title": {
+        "ja": "七五三",
+        "en": "Shichi-Go-San",
+        "zh": "七五三",
+        "fr": "Shichi-Go-San",
+        "id": "Shichi-Go-San",
+        "it": "Shichi-Go-San",
+        "ne": "शिचि-गो-सान"
+      },
+      "description": {
+        "ja": "おとなになる第一歩。やさしさ+12。",
+        "en": "Growing up — +12 gentleness.",
+        "zh": "成长一步。温柔+12。",
+        "fr": "Grandir — +12 gentillesse.",
+        "id": "Tumbuh dewasa — +12 kelembutan.",
+        "it": "Crescere — +12 gentilezza.",
+        "ne": "ठूलो हुने — +12 दया।"
+      },
+      "rewardKind": "gentleness",
+      "rewardAmount": 12
+    },
+    {
+      "id": "annual-winter-solstice",
+      "monthDate": "12-22",
+      "emoji": "❄️",
+      "title": {
+        "ja": "冬至",
+        "en": "Winter Solstice",
+        "zh": "冬至",
+        "fr": "Solstice d'hiver",
+        "id": "Titik Balik Musim Dingin",
+        "it": "Solstizio d'inverno",
+        "ne": "हिउँदको संक्रान्ति"
+      },
+      "description": {
+        "ja": "ゆず湯でぽかぽか。成長度+10。",
+        "en": "Warm bath day. +10 growth.",
+        "zh": "柚子浴暖暖的。成长+10。",
+        "fr": "Bain de yuzu. +10 croissance.",
+        "id": "Hari mandi hangat. +10.",
+        "it": "Giorno di yuzu. +10 crescita.",
+        "ne": "न्यानो दिन। +10 वृद्धि।"
+      },
+      "rewardKind": "growth",
+      "rewardAmount": 10
+    },
+    {
+      "id": "annual-christmas-eve",
+      "monthDate": "12-24",
+      "special": true,
+      "emoji": "🎄",
+      "title": {
+        "ja": "クリスマスイブ",
+        "en": "Christmas Eve",
+        "zh": "平安夜",
+        "fr": "Veille de Noël",
+        "id": "Malam Natal",
+        "it": "Vigilia di Natale",
+        "ne": "क्रिसमस इभ"
+      },
+      "description": {
+        "ja": "サンタさんが来る前夜。やさしさ+20。",
+        "en": "Eve of Santa! +20 gentleness.",
+        "zh": "圣诞前夜。温柔+20。",
+        "fr": "Veille du Père Noël ! +20.",
+        "id": "Malam Sinterklas! +20.",
+        "it": "Vigilia di Babbo! +20.",
+        "ne": "सान्ताको रात! +20।"
+      },
+      "rewardKind": "gentleness",
+      "rewardAmount": 20
+    },
+    {
+      "id": "annual-christmas",
+      "monthDate": "12-25",
+      "special": true,
+      "emoji": "🎁",
+      "title": {
+        "ja": "クリスマス",
+        "en": "Christmas",
+        "zh": "圣诞节",
+        "fr": "Noël",
+        "id": "Natal",
+        "it": "Natale",
+        "ne": "क्रिसमस"
+      },
+      "description": {
+        "ja": "メリークリスマス！やさしさ+25、特別!",
+        "en": "Merry Christmas! +25 gentleness.",
+        "zh": "圣诞快乐！温柔+25。",
+        "fr": "Joyeux Noël ! +25 gentillesse.",
+        "id": "Selamat Natal! +25 kelembutan.",
+        "it": "Buon Natale! +25 gentilezza.",
+        "ne": "क्रिसमसको शुभकामना! +25।"
+      },
+      "rewardKind": "gentleness",
+      "rewardAmount": 25,
+      "actionLabel": {
+        "ja": "メリクリ! 🎁",
+        "en": "Merry Xmas! 🎁",
+        "zh": "圣诞快乐! 🎁",
+        "fr": "Joyeux Noël! 🎁",
+        "id": "Selamat Natal! 🎁",
+        "it": "Buon Natale! 🎁",
+        "ne": "क्रिसमस! 🎁"
+      }
+    },
+    {
+      "id": "annual-new-years-eve",
+      "monthDate": "12-31",
+      "special": true,
+      "emoji": "🎆",
+      "title": {
+        "ja": "大晦日",
+        "en": "New Year's Eve",
+        "zh": "除夕",
+        "fr": "Réveillon",
+        "id": "Malam Tahun Baru",
+        "it": "Capodanno",
+        "ne": "नयाँ वर्षको पूर्व सन्ध्या"
+      },
+      "description": {
+        "ja": "今年もありがとう！成長度+25、特別!",
+        "en": "Thanks for the year! +25 growth.",
+        "zh": "感谢这一年！成长度+25。",
+        "fr": "Merci pour l'année ! +25.",
+        "id": "Terima kasih tahun ini! +25.",
+        "it": "Grazie per l'anno! +25.",
+        "ne": "वर्षको धन्यवाद! +25।"
+      },
+      "rewardKind": "growth",
+      "rewardAmount": 25,
+      "actionLabel": {
+        "ja": "よいお年を! 🎆",
+        "en": "Cheers! 🎆",
+        "zh": "辞旧! 🎆",
+        "fr": "À l'année prochaine! 🎆",
+        "id": "Selamat TB! 🎆",
+        "it": "Buon anno! 🎆",
+        "ne": "नयाँ वर्ष! 🎆"
+      }
+    }
+  ]
+}

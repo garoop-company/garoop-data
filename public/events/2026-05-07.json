@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": "may-7-fresh-green",
+      "emoji": "🌿",
+      "title": {
+        "ja": "新緑のおさんぽ",
+        "en": "Fresh Green Walk",
+        "zh": "新绿散步",
+        "fr": "Promenade printanière",
+        "id": "Jalan hijau",
+        "it": "Passeggiata tra il verde",
+        "ne": "हरियाली घुम्ने"
+      },
+      "description": {
+        "ja": "新緑の写真をあげると、語彙力がぐんと伸びるよ。",
+        "en": "Feed a green photo to boost vocabulary.",
+        "zh": "喂一张新绿照片，词汇力大涨。",
+        "fr": "Donne une photo de verdure pour booster le vocabulaire.",
+        "id": "Beri foto hijau untuk menambah kosakata.",
+        "it": "Dai una foto verde per aumentare il vocabolario.",
+        "ne": "हरियो फोटो खुवाएर शब्दभण्डार बढाऊँ।"
+      },
+      "rewardKind": "vocabulary",
+      "rewardAmount": 8,
+      "actionLabel": {
+        "ja": "おさんぽする ✨",
+        "en": "Take a walk ✨",
+        "zh": "去散步 ✨",
+        "fr": "Promenade ✨",
+        "id": "Jalan-jalan ✨",
+        "it": "Passeggia ✨",
+        "ne": "घुम्ने ✨"
+      }
+    }
+  ]
+}

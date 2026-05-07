@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": "mothers-day-2026",
+      "emoji": "💐",
+      "title": {
+        "ja": "母の日",
+        "en": "Mother's Day",
+        "zh": "母亲节",
+        "fr": "Fête des mères",
+        "id": "Hari Ibu",
+        "it": "Festa della mamma",
+        "ne": "आमाको दिन"
+      },
+      "description": {
+        "ja": "おかあさんありがとう！やさしさが大きく育つよ。",
+        "en": "Thanks Mom! Gentleness blossoms today.",
+        "zh": "妈妈谢谢！温柔大幅成长。",
+        "fr": "Merci Maman ! La gentillesse fleurit.",
+        "id": "Terima kasih Mama! Kelembutan tumbuh besar.",
+        "it": "Grazie mamma! La gentilezza fiorisce.",
+        "ne": "धन्यवाद आमा! दया खूब बढ्छ।"
+      },
+      "rewardKind": "gentleness",
+      "rewardAmount": 12,
+      "actionLabel": {
+        "ja": "ありがとうを伝える 💐",
+        "en": "Say thank you 💐",
+        "zh": "说谢谢 💐",
+        "fr": "Dire merci 💐",
+        "id": "Ucap terima kasih 💐",
+        "it": "Di' grazie 💐",
+        "ne": "धन्यवाद भन्ने 💐"
+      }
+    }
+  ]
+}
