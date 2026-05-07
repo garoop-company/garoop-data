@@ -1599,6 +1599,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-07-creation": {
+      "default": "2026-05-07-creation.md",
+      "locales": {
+        "ne": "2026-05-07-creation.ne.md",
+        "zh": "2026-05-07-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作の世界で夢を描こう!",
+          "date": "2026-05-07",
+          "description": "創作は、子どもたちの可能性を広げる大切なものです。本記事では、創作の楽しさと、創作によって広がる可能性について紹介します。",
+          "tags": [
+            "創作",
+            "子ども教育",
+            "表現力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जनाको शक्ति",
+          "date": "2026-05-07",
+          "description": "बालबालिकाहरूलाई सिर्जना संग सम्बन्धित प्रेरणादायी कुरा",
+          "tags": [
+            "सिर्जना",
+            "उद्यमशीलता",
+            "बालबालिका",
+            "सिक्षा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "解锁创作的秘密",
+          "date": "2026-05-07",
+          "description": "让我们一起探索创作的世界，发现孩子的创造力和行动力",
+          "tags": [
+            "创作",
+            "儿童教育",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
