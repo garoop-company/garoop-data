@@ -1642,6 +1642,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-08-creation": {
+      "default": "2026-05-08-creation.md",
+      "locales": {
+        "ne": "2026-05-08-creation.ne.md",
+        "zh": "2026-05-08-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作の世界に飛び込もう！",
+          "date": "2026-05-08",
+          "description": "創作の可能性を広げるワクワクした話",
+          "tags": [
+            "創作",
+            "起業",
+            "小学生"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जना: बालबालिकाहरूको शक्ति",
+          "date": "2026-05-08",
+          "description": "सिर्जना र बालबालिकाहरूको सम्भावना",
+          "tags": [
+            "सिर्जना",
+            "बालबालिका",
+            "सिर्जनशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "解锁创作的魔力",
+          "date": "2026-05-08",
+          "description": "卡鲁酱带你探索创作的世界，激发你的创造力和想象力，发现新颖的创作方式，释放你的潜能！",
+          "tags": [
+            "创作",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
