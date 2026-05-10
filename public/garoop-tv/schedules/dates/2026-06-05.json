@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-05",
+  "title": "応援と言葉の日",
+  "channels": [
+    {
+      "channelId": 3,
+      "programs": [
+        {
+          "id": "cheer-words-day",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "応援ことば選手権",
+          "subtitle": "人を元気にする言葉を選ぶ",
+          "mission": "がんばった人に言いたい言葉を1つ作ろう",
+          "reward": "ことば応援バッジ",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 4,
+      "programs": [
+        {
+          "id": "kind-voice-day",
+          "start": "18:00",
+          "end": "21:59",
+          "title": "やさしい声の研究室",
+          "subtitle": "声の大きさと気持ちを学ぶ",
+          "mission": "小さな声で優しい言葉を言おう",
+          "reward": "声のハート"
+        }
+      ]
+    }
+  ]
+}

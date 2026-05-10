@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-25",
+  "title": "AI安全につかう日",
+  "channels": [
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "ai-safety-day",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "AIあんしんルールSP",
+          "subtitle": "AIを便利で安全に使う約束を学ぶ",
+          "mission": "個人情報を入れない約束を声に出そう",
+          "reward": "あんしんAIメダル",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 4,
+      "programs": [
+        {
+          "id": "kind-digital-words",
+          "start": "10:00",
+          "end": "13:59",
+          "title": "やさしいネット言葉",
+          "subtitle": "画面の向こうにも人がいると学ぶ",
+          "mission": "やさしいコメントを1つ考えよう",
+          "reward": "デジタルハート"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "weekly": [
+    {
+      "weekday": 0,
+      "channels": [
+        {
+          "channelId": 1,
+          "programs": [
+            { "id": "weekly-sunday-garu-family", "start": "10:00", "end": "17:59", "title": "日曜ファミリー実験室", "subtitle": "家族でできる安全な観察あそび", "mission": "家族と一緒に発見を3つ集めよう", "reward": "ファミリー星" }
+          ]
+        }
+      ]
+    },
+    {
+      "weekday": 1,
+      "channels": [
+        {
+          "channelId": 5,
+          "programs": [
+            { "id": "weekly-monday-ai-founder", "start": "18:00", "end": "21:59", "title": "月曜AI起業家ナイト", "subtitle": "1週間のはじめに新しいアイデアを作る", "mission": "今週作りたいものを1つ決めよう", "reward": "起業家クラウン", "special": true }
+          ]
+        }
+      ]
+    },
+    {
+      "weekday": 4,
+      "channels": [
+        {
+          "channelId": 6,
+          "programs": [
+            { "id": "weekly-thursday-green-town", "start": "14:00", "end": "21:59", "title": "木曜グリーンタウンSP", "subtitle": "緑と人にやさしい街を考える特別放送", "mission": "街にある緑を3つ見つけよう", "reward": "グリーン葉っぱ", "special": true }
+          ]
+        }
+      ]
+    },
+    {
+      "weekday": 5,
+      "channels": [
+        {
+          "channelId": 3,
+          "programs": [
+            { "id": "weekly-friday-home-cheer", "start": "18:00", "end": "21:59", "title": "金曜ホーム応援SP", "subtitle": "1週間のがんばりを応援に変える", "mission": "今週がんばった人に拍手を送ろう", "reward": "金曜応援クラウン", "special": true }
+          ]
+        }
+      ]
+    },
+    {
+      "weekday": 6,
+      "channels": [
+        {
+          "channelId": 2,
+          "programs": [
+            { "id": "weekly-saturday-nagasaki-night", "start": "18:00", "end": "21:59", "title": "土曜プレミアム夜景SP", "subtitle": "家族で眺める長崎の光の物語", "mission": "夜景の光を3色見つけよう", "reward": "プレミアム夜景カード", "special": true }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-28",
+  "title": "街の未来会議",
+  "channels": [
+    {
+      "channelId": 6,
+      "programs": [
+        {
+          "id": "future-town-meeting",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "街の未来会議SP",
+          "subtitle": "子どものアイデアで未来の街を考える",
+          "mission": "近所にほしい場所を1つ考えよう",
+          "reward": "未来葉っぱ",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 2,
+      "programs": [
+        {
+          "id": "future-nagasaki-trip",
+          "start": "18:00",
+          "end": "21:59",
+          "title": "未来の長崎クルーズ",
+          "subtitle": "歴史と未来をつなげて見る",
+          "mission": "昔から残したいものを1つ選ぼう",
+          "reward": "未来たびメモ"
+        }
+      ]
+    }
+  ]
+}

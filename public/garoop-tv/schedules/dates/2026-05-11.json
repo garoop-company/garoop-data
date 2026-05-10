@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-11",
+  "title": "AIアイデアはじめ特集",
+  "channels": [
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "ai-idea-kickoff",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "AIアイデアはじめSP",
+          "subtitle": "困りごとを見つけてAIに相談する日",
+          "mission": "助けたい人を1人決めて、困りごとを1つ書こう",
+          "reward": "アイデアの種",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 1,
+      "programs": [
+        {
+          "id": "garu-question-lab",
+          "start": "10:00",
+          "end": "17:59",
+          "title": "ガルちゃん質問ラボ",
+          "subtitle": "良い質問を作る練習",
+          "mission": "なぜ？を3回言ってみよう",
+          "reward": "質問スター"
+        }
+      ]
+    }
+  ]
+}

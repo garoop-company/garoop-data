@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-17",
+  "title": "日曜ファミリー実験",
+  "channels": [
+    {
+      "channelId": 1,
+      "programs": [
+        {
+          "id": "family-safe-experiment",
+          "start": "10:00",
+          "end": "17:59",
+          "title": "日曜ファミリー実験室",
+          "subtitle": "家族でできる安全な観察あそび",
+          "mission": "家族と発見を3つ集めよう",
+          "reward": "ファミリー星",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 4,
+      "programs": [
+        {
+          "id": "family-kind-words",
+          "start": "18:00",
+          "end": "21:59",
+          "title": "やさしい言葉ナイト",
+          "subtitle": "家族にかける言葉を練習",
+          "mission": "ありがとう以外の優しい言葉を1つ言おう",
+          "reward": "やさしさリボン"
+        }
+      ]
+    }
+  ]
+}

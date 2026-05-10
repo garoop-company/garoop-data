@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-03",
+  "title": "世界とつながる日",
+  "channels": [
+    {
+      "channelId": 2,
+      "programs": [
+        {
+          "id": "global-port-day",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "港から世界へSP",
+          "subtitle": "港町が世界とつながる理由を学ぶ",
+          "mission": "外国から来たものを家で1つ探そう",
+          "reward": "世界港カード",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "global-ai-helper",
+          "start": "14:00",
+          "end": "17:59",
+          "title": "AI世界ヘルパー",
+          "subtitle": "世界の困りごとをAIで考える",
+          "mission": "遠くの誰かを助けるアイデアを1つ考えよう",
+          "reward": "世界AIメダル"
+        }
+      ]
+    }
+  ]
+}

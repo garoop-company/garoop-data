@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-23",
+  "title": "週末ものづくりデー",
+  "channels": [
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "weekend-prototype-day",
+          "start": "10:00",
+          "end": "17:59",
+          "title": "週末プロトタイプ工房",
+          "subtitle": "紙に画面を描いて試作品を作る",
+          "mission": "サービス画面を1つ紙に描こう",
+          "reward": "試作メダル",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 6,
+      "programs": [
+        {
+          "id": "reuse-town-idea",
+          "start": "14:00",
+          "end": "21:59",
+          "title": "空き家アイデア工房",
+          "subtitle": "古い場所の新しい使い道を考える",
+          "mission": "空いている場所の使い道を1つ考えよう",
+          "reward": "リユース葉っぱ"
+        }
+      ]
+    }
+  ]
+}

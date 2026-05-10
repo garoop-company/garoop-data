@@ -1,0 +1,73 @@
+{
+  "_doc": "GaroopTV の特別編成イベント。channels.json 側の channel.events と同じ考え方で、運用時に特別日を確認するための一覧。",
+  "events": [
+    {
+      "id": "mothers-day-2026-garooptv",
+      "date": "2026-05-10",
+      "emoji": "💐",
+      "title": "母の日ありがとう特別編成",
+      "description": "ガルちゃんと一緒に、ありがとうを伝えるミッションを各チャンネルで放送。",
+      "channels": [1, 4],
+      "reward": "ありがとう花メダル",
+      "special": true
+    },
+    {
+      "id": "weekly-sunday-family",
+      "weekday": 0,
+      "emoji": "🏠",
+      "title": "日曜ファミリー放送",
+      "description": "親子で話せる問いと、家族でできるミッションを多めに編成。",
+      "channels": [1, 2, 4],
+      "reward": "ファミリー星"
+    },
+    {
+      "id": "weekly-monday-ai-founder",
+      "weekday": 1,
+      "emoji": "🤖",
+      "title": "月曜AI起業家ナイト",
+      "description": "新しい週のはじめに、困りごとからアイデアを作る特別番組。",
+      "channels": [5],
+      "reward": "起業家クラウン",
+      "special": true
+    },
+    {
+      "id": "weekly-thursday-green-town",
+      "weekday": 4,
+      "emoji": "🌳",
+      "title": "木曜グリーンタウンSP",
+      "description": "地方創生ラボで、緑と人にやさしい街づくりを考える。",
+      "channels": [6],
+      "reward": "グリーン葉っぱ",
+      "special": true
+    },
+    {
+      "id": "weekly-friday-home-cheer",
+      "weekday": 5,
+      "emoji": "📣",
+      "title": "金曜ホーム応援SP",
+      "description": "1週間のがんばりを応援に変えるスポーツ特別編成。",
+      "channels": [3],
+      "reward": "金曜応援クラウン",
+      "special": true
+    },
+    {
+      "id": "weekly-saturday-nagasaki-night",
+      "weekday": 6,
+      "emoji": "🌃",
+      "title": "土曜プレミアム夜景SP",
+      "description": "長崎ナイトクルーズで、夜景と街の物語を家族で眺める。",
+      "channels": [2],
+      "reward": "プレミアム夜景カード",
+      "special": true
+    },
+    {
+      "id": "monthly-dejima-day",
+      "monthDate": "05-15",
+      "emoji": "⛵",
+      "title": "出島発見デー",
+      "description": "世界とつながる長崎の入り口を特集する月日イベント。",
+      "channels": [2],
+      "reward": "世界とつながる切符"
+    }
+  ]
+}

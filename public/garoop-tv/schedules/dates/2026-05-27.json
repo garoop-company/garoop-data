@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-27",
+  "title": "発明と実験の日",
+  "channels": [
+    {
+      "channelId": 1,
+      "programs": [
+        {
+          "id": "invention-experiment-day",
+          "start": "06:00",
+          "end": "17:59",
+          "title": "ガルちゃん発明実験",
+          "subtitle": "身近な不便を動きで解決する",
+          "mission": "困ったことを1つ実験テーマにしよう",
+          "reward": "発明星",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "ai-invention-news",
+          "start": "10:00",
+          "end": "21:59",
+          "title": "AI発明ニュース",
+          "subtitle": "アイデアをAIで広げる",
+          "mission": "AIに聞きたい発明テーマを1つ決めよう",
+          "reward": "発明AIメダル"
+        }
+      ]
+    }
+  ]
+}

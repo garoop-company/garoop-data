@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-21",
+  "title": "グリーンタウン特集",
+  "channels": [
+    {
+      "channelId": 6,
+      "programs": [
+        {
+          "id": "green-town-special",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "木曜グリーンタウンSP",
+          "subtitle": "緑と人にやさしい街を考える",
+          "mission": "街にある緑を3つ見つけよう",
+          "reward": "グリーン葉っぱ",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 2,
+      "programs": [
+        {
+          "id": "nagasaki-green-map",
+          "start": "10:00",
+          "end": "13:59",
+          "title": "長崎グリーンマップ",
+          "subtitle": "坂の街の緑を探す地図番組",
+          "mission": "地図の中で緑の場所を探そう",
+          "reward": "緑のたびメモ"
+        }
+      ]
+    }
+  ]
+}

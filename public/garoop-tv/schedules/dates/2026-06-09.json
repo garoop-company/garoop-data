@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-09",
+  "title": "小さな研究者の日",
+  "channels": [
+    {
+      "channelId": 1,
+      "programs": [
+        {
+          "id": "little-researcher-day",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "小さな研究者SP",
+          "subtitle": "見つけたことを記録する日",
+          "mission": "気づいたことを絵か言葉で残そう",
+          "reward": "研究者スター",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 2,
+      "programs": [
+        {
+          "id": "research-trip-nagasaki",
+          "start": "14:00",
+          "end": "17:59",
+          "title": "長崎研究トリップ",
+          "subtitle": "旅先で観察メモを作る",
+          "mission": "長崎で調べたいことを1つ決めよう",
+          "reward": "研究たびメモ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-14",
+  "title": "チームワーク放送",
+  "channels": [
+    {
+      "channelId": 3,
+      "programs": [
+        {
+          "id": "teamwork-day",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "チームワーク作戦会議",
+          "subtitle": "声かけと役割を学ぶスポーツ特集",
+          "mission": "仲間を元気にする言葉を1つ作ろう",
+          "reward": "チームバッジ",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "ai-team-product",
+          "start": "14:00",
+          "end": "17:59",
+          "title": "AIチーム開発ミニ",
+          "subtitle": "役割を分けて作る考え方",
+          "mission": "作る人、伝える人、試す人を考えよう",
+          "reward": "チームAIメダル"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-29",
+  "title": "スポーツ作戦デー",
+  "channels": [
+    {
+      "channelId": 3,
+      "programs": [
+        {
+          "id": "sports-strategy-day",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "作戦ボードスペシャル",
+          "subtitle": "予測とチームワークを鍛える",
+          "mission": "次の動きを1つ予想しよう",
+          "reward": "作戦王バッジ",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "strategy-ai-prompt",
+          "start": "14:00",
+          "end": "17:59",
+          "title": "AI作戦プロンプト",
+          "subtitle": "作戦を言葉で整理する",
+          "mission": "目的と条件を入れたお願い文を作ろう",
+          "reward": "作戦AIカード"
+        }
+      ]
+    }
+  ]
+}

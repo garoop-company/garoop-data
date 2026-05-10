@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-08",
+  "title": "月曜スタートアップ会議",
+  "channels": [
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "startup-monday-meeting",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "月曜スタートアップ会議",
+          "subtitle": "今週の小さな挑戦を決める",
+          "mission": "今週試すプロトタイプを1つ決めよう",
+          "reward": "スタートアップクラウン",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 3,
+      "programs": [
+        {
+          "id": "challenge-training-monday",
+          "start": "06:00",
+          "end": "09:59",
+          "title": "挑戦トレーニング朝会",
+          "subtitle": "体と気持ちを起こす",
+          "mission": "今日の応援ポーズを決めよう",
+          "reward": "朝会バッジ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-24",
+  "title": "親子ふりかえりの日",
+  "channels": [
+    {
+      "channelId": 4,
+      "programs": [
+        {
+          "id": "family-reflection-care",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "親子ふりかえりケア",
+          "subtitle": "今週できたことをやさしく見つける",
+          "mission": "できたことを1つ家族に話そう",
+          "reward": "ふりかえりハート",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 1,
+      "programs": [
+        {
+          "id": "garu-week-review",
+          "start": "18:00",
+          "end": "21:59",
+          "title": "ガルちゃん週間レビュー",
+          "subtitle": "実験でわかったことを振り返る",
+          "mission": "今週の発見を1つ思い出そう",
+          "reward": "レビュー星"
+        }
+      ]
+    }
+  ]
+}

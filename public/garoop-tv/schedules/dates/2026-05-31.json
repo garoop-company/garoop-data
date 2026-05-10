@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-31",
+  "title": "月末チャレンジ総集編",
+  "channels": [
+    {
+      "channelId": 1,
+      "programs": [
+        {
+          "id": "month-end-garu-review",
+          "start": "10:00",
+          "end": "17:59",
+          "title": "月末ガルちゃん総集編",
+          "subtitle": "今月の実験を楽しく振り返る",
+          "mission": "今月の発見ベスト1を決めよう",
+          "reward": "月末ひらめき星",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "month-end-pitch-review",
+          "start": "18:00",
+          "end": "21:59",
+          "title": "月末アイデア発表会",
+          "subtitle": "今月のアイデアを1文で発表",
+          "mission": "作りたいものを家族に発表しよう",
+          "reward": "月末発表メダル",
+          "special": true
+        }
+      ]
+    }
+  ]
+}

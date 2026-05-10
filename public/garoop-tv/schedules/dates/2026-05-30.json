@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-30",
+  "title": "夜景と物語の日",
+  "channels": [
+    {
+      "channelId": 2,
+      "programs": [
+        {
+          "id": "night-story-day",
+          "start": "18:00",
+          "end": "21:59",
+          "title": "夜景ものがたりSP",
+          "subtitle": "光から街の物語を想像する",
+          "mission": "一番気になる光に名前をつけよう",
+          "reward": "物語夜景カード",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 4,
+      "programs": [
+        {
+          "id": "sleepy-story-care",
+          "start": "22:00",
+          "end": "05:59",
+          "title": "すやすや物語ケア",
+          "subtitle": "寝る前にやさしい言葉を聞く",
+          "mission": "明日楽しみなことを1つ思い浮かべよう",
+          "reward": "すやすやハート"
+        }
+      ]
+    }
+  ]
+}

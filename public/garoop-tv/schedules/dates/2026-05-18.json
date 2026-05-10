@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-18",
+  "title": "起業家月曜ナイト",
+  "channels": [
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "monday-founder-night",
+          "start": "18:00",
+          "end": "21:59",
+          "title": "月曜AI起業家ナイト",
+          "subtitle": "新しい週のはじめにアイデアを作る",
+          "mission": "今週作りたいものを1つ決めよう",
+          "reward": "起業家クラウン",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 6,
+      "programs": [
+        {
+          "id": "problem-finder-town",
+          "start": "10:00",
+          "end": "17:59",
+          "title": "街の困りごと発見隊",
+          "subtitle": "地域の不便をアイデアに変える",
+          "mission": "街の困りごとを1つ言葉にしよう",
+          "reward": "発見葉っぱ"
+        }
+      ]
+    }
+  ]
+}

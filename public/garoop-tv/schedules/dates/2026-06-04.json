@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-04",
+  "title": "環境と街づくりの日",
+  "channels": [
+    {
+      "channelId": 6,
+      "programs": [
+        {
+          "id": "eco-town-day",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "エコタウン作戦会議",
+          "subtitle": "緑とゴミと移動を考える街づくり",
+          "mission": "今日できるエコ行動を1つ決めよう",
+          "reward": "エコ葉っぱ",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 1,
+      "programs": [
+        {
+          "id": "animal-balance-eco",
+          "start": "10:00",
+          "end": "13:59",
+          "title": "動物バランスと自然",
+          "subtitle": "動物の体と自然の関係を見る",
+          "mission": "好きな動物の得意な動きを話そう",
+          "reward": "自然ひらめき星"
+        }
+      ]
+    }
+  ]
+}

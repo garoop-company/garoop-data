@@ -1,0 +1,15 @@
+{
+  "monthly": [
+    {
+      "monthDate": "05-15",
+      "channels": [
+        {
+          "channelId": 2,
+          "programs": [
+            { "id": "monthly-dejima-day", "start": "10:00", "end": "17:59", "title": "出島発見デー", "subtitle": "世界とつながる長崎の入り口を特集", "mission": "海外から来た言葉を1つ探そう", "reward": "世界とつながる切符" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2026-05-12",
+  "title": "ことば発見デー",
+  "channels": [
+    {
+      "channelId": 2,
+      "programs": [
+        {
+          "id": "nagasaki-words-trip",
+          "start": "10:00",
+          "end": "17:59",
+          "title": "長崎ことば探検",
+          "subtitle": "地名と食べ物の言葉を集める",
+          "mission": "気になる地名を1つ声に出そう",
+          "reward": "ことば切符"
+        }
+      ]
+    },
+    {
+      "channelId": 4,
+      "programs": [
+        {
+          "id": "baby-sound-words",
+          "start": "06:00",
+          "end": "13:59",
+          "title": "音とことばの研究室",
+          "subtitle": "声のリズムを体で感じる",
+          "mission": "好きな言葉をゆっくり3回言おう",
+          "reward": "ことばハート"
+        }
+      ]
+    }
+  ]
+}

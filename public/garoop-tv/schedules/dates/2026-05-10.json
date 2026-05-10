@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-10",
+  "title": "母の日ありがとう特別編成",
+  "channels": [
+    {
+      "channelId": 1,
+      "programs": [
+        {
+          "id": "mothers-day-garu-thanks",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "母の日ありがとうジャンプSP",
+          "subtitle": "ありがとうを言う勇気をガルちゃんと練習",
+          "mission": "おうちの人にありがとうを1つ伝えよう",
+          "reward": "ありがとう花メダル",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 4,
+      "programs": [
+        {
+          "id": "mothers-day-care-special",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "母の日やさしさケアSP",
+          "subtitle": "ありがとうの気持ちを声と表情で伝える",
+          "mission": "おうちの人にやさしい言葉を1つ届けよう",
+          "reward": "母の日ハート",
+          "special": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-20",
+  "title": "プレゼン練習デー",
+  "channels": [
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "presentation-practice-day",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "ガルちゃんプレゼン道場",
+          "subtitle": "誰の何を助けるか短く伝える",
+          "mission": "これは誰のため？を1文で言おう",
+          "reward": "発表スター",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 3,
+      "programs": [
+        {
+          "id": "sports-commentator-day",
+          "start": "14:00",
+          "end": "17:59",
+          "title": "実況コメント練習",
+          "subtitle": "良いところを見つけて言葉にする",
+          "mission": "ナイスプレーを1つ実況しよう",
+          "reward": "実況マイク"
+        }
+      ]
+    }
+  ]
+}

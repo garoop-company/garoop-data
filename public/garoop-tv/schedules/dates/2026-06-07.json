@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-07",
+  "title": "日曜ありがとうレビュー",
+  "channels": [
+    {
+      "channelId": 4,
+      "programs": [
+        {
+          "id": "sunday-thanks-review",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "日曜ありがとうレビュー",
+          "subtitle": "今週助けてもらったことを思い出す",
+          "mission": "ありがとうを伝えたい人を1人決めよう",
+          "reward": "ありがとうハート",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 6,
+      "programs": [
+        {
+          "id": "sunday-community-review",
+          "start": "10:00",
+          "end": "17:59",
+          "title": "地域ありがとう散歩",
+          "subtitle": "街で支えてくれる人を考える",
+          "mission": "街で働く人を1人思い浮かべよう",
+          "reward": "地域ありがとう葉っぱ"
+        }
+      ]
+    }
+  ]
+}

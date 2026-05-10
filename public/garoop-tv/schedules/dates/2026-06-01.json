@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-01",
+  "title": "新しい月のはじまり",
+  "channels": [
+    {
+      "channelId": 6,
+      "programs": [
+        {
+          "id": "new-month-town-start",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "新しい月のまちづくり",
+          "subtitle": "6月に見つけたい街の宝物を決める",
+          "mission": "今月見つけたい場所を1つ決めよう",
+          "reward": "新月葉っぱ",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 1,
+      "programs": [
+        {
+          "id": "new-month-jump-start",
+          "start": "06:00",
+          "end": "13:59",
+          "title": "6月ジャンプスタート",
+          "subtitle": "新しい月の目標を体で表す",
+          "mission": "今月チャレンジしたい動きを決めよう",
+          "reward": "6月スタート星"
+        }
+      ]
+    }
+  ]
+}

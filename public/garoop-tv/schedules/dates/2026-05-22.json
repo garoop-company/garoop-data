@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-22",
+  "title": "ホーム応援フライデー",
+  "channels": [
+    {
+      "channelId": 3,
+      "programs": [
+        {
+          "id": "home-cheer-friday",
+          "start": "18:00",
+          "end": "21:59",
+          "title": "金曜ホーム応援SP",
+          "subtitle": "1週間のがんばりを応援に変える",
+          "mission": "今週がんばった人に拍手を送ろう",
+          "reward": "金曜応援クラウン",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 1,
+      "programs": [
+        {
+          "id": "cheer-jump-garu",
+          "start": "10:00",
+          "end": "17:59",
+          "title": "応援ジャンプチャレンジ",
+          "subtitle": "応援の気持ちを体で表す",
+          "mission": "小さくジャンプして応援ポーズを作ろう",
+          "reward": "応援ジャンプ星"
+        }
+      ]
+    }
+  ]
+}

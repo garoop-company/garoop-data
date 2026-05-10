@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-16",
+  "title": "土曜夜景プレミアム",
+  "channels": [
+    {
+      "channelId": 2,
+      "programs": [
+        {
+          "id": "premium-night-view-family",
+          "start": "18:00",
+          "end": "21:59",
+          "title": "家族で夜景プレミアム",
+          "subtitle": "長崎の光を家族で眺める特別編成",
+          "mission": "光っている場所を3つ見つけよう",
+          "reward": "夜景カード",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 3,
+      "programs": [
+        {
+          "id": "saturday-cheer-practice",
+          "start": "10:00",
+          "end": "17:59",
+          "title": "土曜応援れんしゅう",
+          "subtitle": "週末の応援ポーズを作る",
+          "mission": "家族と応援ポーズを1つ決めよう",
+          "reward": "週末応援旗"
+        }
+      ]
+    }
+  ]
+}

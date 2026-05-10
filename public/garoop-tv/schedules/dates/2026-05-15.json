@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-15",
+  "title": "出島発見デー",
+  "channels": [
+    {
+      "channelId": 2,
+      "programs": [
+        {
+          "id": "dejima-discovery-day",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "出島発見デーSP",
+          "subtitle": "世界とつながる長崎の入り口を特集",
+          "mission": "海外から来た言葉を1つ探そう",
+          "reward": "世界とつながる切符",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 5,
+      "programs": [
+        {
+          "id": "global-ai-words",
+          "start": "10:00",
+          "end": "13:59",
+          "title": "AIで世界の言葉",
+          "subtitle": "AIと一緒に言葉の違いを楽しむ",
+          "mission": "ありがとうを別の言葉で調べよう",
+          "reward": "世界ことばメダル"
+        }
+      ]
+    }
+  ]
+}

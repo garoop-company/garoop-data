@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-26",
+  "title": "長崎食文化デー",
+  "channels": [
+    {
+      "channelId": 2,
+      "programs": [
+        {
+          "id": "chanpon-culture-day",
+          "start": "06:00",
+          "end": "21:59",
+          "title": "ちゃんぽん文化クイズSP",
+          "subtitle": "まざるから面白い長崎の食文化",
+          "mission": "まざって楽しいものを1つ言ってみよう",
+          "reward": "ちゃんぽん星",
+          "special": true
+        }
+      ]
+    },
+    {
+      "channelId": 6,
+      "programs": [
+        {
+          "id": "local-food-town",
+          "start": "14:00",
+          "end": "17:59",
+          "title": "地域の食べもの会議",
+          "subtitle": "食べものから街の魅力を考える",
+          "mission": "地元のおいしいものを1つ話そう",
+          "reward": "ご当地葉っぱ"
+        }
+      ]
+    }
+  ]
+}
