@@ -1770,6 +1770,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-11-future-education": {
+      "default": "2026-05-11-future-education.md",
+      "locales": {
+        "ne": "2026-05-11-future-education.ne.md",
+        "zh": "2026-05-11-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-05-11",
+          "tags": [
+            "未来の教育",
+            "創造性",
+            "小学生",
+            "トレーニング"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा",
+          "date": "2026-05-11",
+          "description": "भविष्यको शिक्षा कस्तो हुने होला?",
+          "tags": [
+            "भविष्यको शिक्षा",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "一起探索未来教育的无限可能",
+          "date": "2026-05-11",
+          "description": "未来教育不仅仅是关于知识的传授，也是关于培养创造力、激发想象力和行动力的旅程。",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "儿童自主学习"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
