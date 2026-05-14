@@ -1,0 +1,176 @@
+{
+    "date": "2026-05-15",
+    "generated_at": "2026-05-14T18:49:12.177Z",
+    "task_pool_updates": [
+        {
+            "member_id": "representative",
+            "task_pool": [
+                {
+                    "text": "意思決定/戦略",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "プロジェクト計画",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "会議準備",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "designer",
+            "task_pool": [
+                {
+                    "text": "デザインレビュー",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "ビジュアルデザイン",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "ブランディング",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "engineer",
+            "task_pool": [
+                {
+                    "text": "プロダクト開発",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "AI/ML",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "クラウドアーキテクチャ",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "marketing",
+            "task_pool": [
+                {
+                    "text": "デジタルマーケティング",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "グロースハック",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "コンテンツ戦略",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "tax_accountant",
+            "task_pool": [
+                {
+                    "text": "会計設計",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "税務戦略",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "資金管理",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "labor_consultant",
+            "task_pool": [
+                {
+                    "text": "労務管理",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "就業規則設計",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "組織づくり",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "talent_uka",
+            "task_pool": [
+                {
+                    "text": "モデリング",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "表現力",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "ビジュアル表現",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "investigator",
+            "task_pool": [
+                {
+                    "text": "OSINT",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "浸透調査",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "高度暗号解析",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "coordinator",
+            "task_pool": [
+                {
+                    "text": "作戦調整",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "脆弱性ハンドリング",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "緊急対応プロトコル",
+                    "mood": "OFF"
+                }
+            ]
+        },
+        {
+            "member_id": "negotiator",
+            "task_pool": [
+                {
+                    "text": "高度心理交渉",
+                    "mood": "FOCUSED"
+                },
+                {
+                    "text": "戦略的誘導",
+                    "mood": "CREATIVE"
+                },
+                {
+                    "text": "利害関係調整",
+                    "mood": "OFF"
+                }
+            ]
+        }
+    ]
+}
