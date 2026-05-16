@@ -1982,6 +1982,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-16-single-mother": {
+      "default": "2026-05-16-single-mother.md",
+      "locales": {
+        "ne": "2026-05-16-single-mother.ne.md",
+        "zh": "2026-05-16-single-mother.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "シングルママのすごい力！夢を叶えるために",
+          "date": "2026-05-16",
+          "description": "シングルママの活躍を紹介して、子供たちの可能性を広げるためのワクワクした話",
+          "tags": [
+            "シングルママ",
+            "起業",
+            "創作",
+            "夢を叶える"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "एकल आमाको साहस र सिर्जनशीलता",
+          "date": "2026-05-16",
+          "description": "एकल आमाहरु कसरी सिर्जनशील हुन सक्छन् र तिनीहरुका बालबालिकाहरु कसरी सफल हुन्छन्",
+          "tags": [
+            "एकल आमा",
+            "सिर्जनशीलता",
+            "सफलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "理解和支持单亲妈妈：激发孩子的创造力与行动力",
+          "date": "2026-05-16",
+          "description": "让我们一起了解单亲妈妈的挑战和贡献，激发孩子的创造力和行动力，支持他们成长和发展。",
+          "tags": [
+            "单亲妈妈",
+            "孩子创造力",
+            "家庭支持"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
