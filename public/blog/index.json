@@ -2026,6 +2026,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-17-children": {
+      "default": "2026-05-17-children.md",
+      "locales": {
+        "ne": "2026-05-17-children.ne.md",
+        "zh": "2026-05-17-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "夢を広げる、ワクワクする子供の世界!",
+          "date": "2026-05-17",
+          "description": "子供の可能性を広げるためのヒントを紹介します!",
+          "tags": [
+            "子供",
+            "夢",
+            "挑戦",
+            "学習"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलताको प्रेरणा",
+          "date": "2026-05-17",
+          "description": "बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलताको प्रेरणा दिने",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "date": "2026-05-17",
+          "tags": [
+            "孩子",
+            "创造力",
+            "行动力",
+            "教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
