@@ -2069,6 +2069,45 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-18-future-education": {
+      "default": "2026-05-18-future-education.md",
+      "locales": {
+        "ne": "2026-05-18-future-education.ne.md",
+        "zh": "2026-05-18-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-05-18",
+          "tags": [
+            "教育",
+            "未来",
+            "夢"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा",
+          "date": "2026-05-18",
+          "description": "भविष्यको शिक्षा बारे जान्ने",
+          "tags": [
+            "भविष्यको शिक्षा",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "date": "2026-05-18",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
