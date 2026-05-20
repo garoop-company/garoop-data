@@ -2151,6 +2151,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-20-elementary-school": {
+      "default": "2026-05-20-elementary-school.md",
+      "locales": {
+        "ne": "2026-05-20-elementary-school.ne.md",
+        "zh": "2026-05-20-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生の可能性を広げる",
+          "date": "2026-05-20",
+          "description": "小学生のためのワクワクした学習法",
+          "tags": [
+            "小学生",
+            "学習",
+            "起業"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "date": "2026-05-20",
+          "tags": [
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "प्राथमिक विद्यालय",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "激发小学生的创造力与行动力",
+          "date": "2026-05-20",
+          "description": "本文将探讨激发小学生创造力与行动力的方法，帮助孩子们发掘潜能，成为更自信、更有抱负的未来人。",
+          "tags": [
+            "小学生",
+            "创造力",
+            "行动力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
