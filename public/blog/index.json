@@ -2193,6 +2193,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-21-kangaroo": {
+      "default": "2026-05-21-kangaroo.md",
+      "locales": {
+        "ne": "2026-05-21-kangaroo.ne.md",
+        "zh": "2026-05-21-kangaroo.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "カンガルーを目指せ！梦中の強い仲間と一緒に挑戦しよう",
+          "date": "2026-05-21",
+          "description": "カンガルーは驚くほどの強さと能力を持っています。そんなカンガルーにインスパイアされて、自分自身の強い仲間と一緒に新しい挑戦をしてみませんか？",
+          "tags": [
+            "カンガルー",
+            "強い仲間",
+            "挑戦"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "कंगारु: सिर्जनशीलता र सम्भावनाको प्रतीक",
+          "date": "2026-05-21",
+          "description": "कंगारु सँग सम्बन्धित रुचिकर तथ्यहरू र बालबालिकाको सिर्जनशीलता बढाउने कुराहरू",
+          "tags": [
+            "कंगारु",
+            "सिर्जनशीलता",
+            "सम्भावना",
+            "बालबालिका शिक्षा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "袋鼠的奇妙世界：激发你的创造力和行动力",
+          "date": "2026-05-21",
+          "description": "让我们一起探索袋鼠的神奇世界，了解它们独特的特征和习性，激发你的创造力和行动力，成为一名勇敢的探险家！",
+          "tags": [
+            "袋鼠",
+            "野生动物",
+            "创造力",
+            "行动力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
