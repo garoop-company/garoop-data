@@ -2325,6 +2325,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-24-single-mother": {
+      "default": "2026-05-24-single-mother.md",
+      "locales": {
+        "ne": "2026-05-24-single-mother.ne.md",
+        "zh": "2026-05-24-single-mother.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "シングルマザーの子どもって、こんなにすごい！",
+          "date": "2026-05-24",
+          "description": "シングルマザーの子どもは、特に強い可能性を持っていることが分かっています。",
+          "tags": [
+            "シングルマザー",
+            "子どもの可能性",
+            "家族"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "एकल आमाँको प्रेरणा",
+          "date": "2026-05-24",
+          "description": "एकल आमाले पनि गर्न सकिन्छ!",
+          "tags": [
+            "एकल आमा",
+            "सिर्जनशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "单亲妈妈：坚强的女性，伟大的榜样",
+          "date": "2026-05-24",
+          "description": "了解单亲妈妈的勇气和智慧，激发孩子的创造力和行动力。",
+          "tags": [
+            "单亲妈妈",
+            "家庭教育",
+            "孩子成长"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
