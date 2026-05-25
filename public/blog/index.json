@@ -2367,6 +2367,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-25-kangaroo": {
+      "default": "2026-05-25-kangaroo.md",
+      "locales": {
+        "ne": "2026-05-25-kangaroo.ne.md",
+        "zh": "2026-05-25-kangaroo.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "カンガルーに学ぶ、夢を追いかける力!",
+          "date": "2026-05-25",
+          "description": "カンガルーの惊くべき能力と適応力が教えてくれる、大胆な梦を追う勇気について",
+          "tags": [
+            "カンガルー",
+            "夢追い",
+            "自己啓発"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "कंगारु: उड्दै नहुँदै पनि उचाईमा पुग्ने सपना",
+          "date": "2026-05-25",
+          "description": "कंगारु सँगै बालबालिकाहरूले आफ्नो सपना पूरा गर्ने प्रेरणा पाएरसँगै सिर्जनशीलता बढाउने कुराहरू",
+          "tags": [
+            "कंगारु",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "袋鼠的奇妙世界",
+          "date": "2026-05-25",
+          "description": "今天我们要去探索袋鼠的世界，了解他们的独特特征和生活方式。我们还会谈谈如何通过学习袋鼠来激发我们的创造力和行动力。",
+          "tags": [
+            "袋鼠",
+            "创造力",
+            "行动力",
+            "自然探索"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
