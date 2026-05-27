@@ -2456,6 +2456,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-27-entrepreneurship": {
+      "default": "2026-05-27-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-05-27-entrepreneurship.ne.md",
+        "zh": "2026-05-27-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "梦を叶える起業の世界へようこそ！",
+          "date": "2026-05-27",
+          "description": "起業家になる夢を叶えるための初歩",
+          "tags": [
+            "起業",
+            "創作",
+            "スタートアップ"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता : बालबालिकाहरूको सिर्जनशीलताको उडान",
+          "date": "2026-05-27",
+          "description": "उद्यमशीलता र सिर्जनशीलता बारे जान्ने गरो!",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "गारु-चान"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "创业小英雄，梦想起航",
+          "date": "2026-05-27",
+          "description": "创业不仅是大人才能做的事情，孩子们也可以成为创业小英雄。让我们一起探索创业的世界，激发创造力和行动力。",
+          "tags": [
+            "创业",
+            "儿童教育",
+            "自主学习"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
