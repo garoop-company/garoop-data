@@ -2499,6 +2499,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-28-elementary-school": {
+      "default": "2026-05-28-elementary-school.md",
+      "locales": {
+        "ne": "2026-05-28-elementary-school.ne.md",
+        "zh": "2026-05-28-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生の可能性を広げる！夢中にできること",
+          "date": "2026-05-28",
+          "description": "小学生が新しいことにチャレンジするためのヒント",
+          "tags": [
+            "小学生",
+            "創造力",
+            "起業"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "प्राथमिक विद्यालयका बालबालिकाहरूको सिर्जनशीलता",
+          "date": "2026-05-28",
+          "description": "प्राथमिक विद्यालयका बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलता सिकाउने",
+          "tags": [
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका",
+            "प्राथमिक विद्यालय"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "激发小学生的创造力与行动力",
+          "date": "2026-05-28",
+          "description": "卡鲁酱带你探索如何激发小学生的创造力与行动力，鼓励他们勇敢尝试和创造。",
+          "tags": [
+            "小学生",
+            "创造力",
+            "行动力",
+            "教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
