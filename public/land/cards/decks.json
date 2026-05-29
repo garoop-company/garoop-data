@@ -439,6 +439,1834 @@
           "count": 2
         }
       ]
+    },
+    {
+      "id": "grass_grove",
+      "title": "みどりのもり",
+      "flavor": "くさの生命力で押すデッキ",
+      "leader": "🦌",
+      "cards": [
+        {
+          "id": "g_caterpup",
+          "count": 3
+        },
+        {
+          "id": "g_cocoon",
+          "count": 2
+        },
+        {
+          "id": "g_papilord",
+          "count": 1
+        },
+        {
+          "id": "g_bunseed",
+          "count": 3
+        },
+        {
+          "id": "g_leafstag",
+          "count": 2
+        },
+        {
+          "id": "g_stagforest",
+          "count": 1
+        },
+        {
+          "id": "g_beebud",
+          "count": 3
+        },
+        {
+          "id": "g_honeyguard",
+          "count": 2
+        },
+        {
+          "id": "g_queenswarm",
+          "count": 1
+        },
+        {
+          "id": "g_tadleaf",
+          "count": 3
+        },
+        {
+          "id": "g_treefrog",
+          "count": 2
+        },
+        {
+          "id": "g_jungleking",
+          "count": 1
+        },
+        {
+          "id": "g_slimini",
+          "count": 2
+        },
+        {
+          "id": "g100_solo",
+          "count": 2
+        },
+        {
+          "id": "g101_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "grass_bloom",
+      "title": "はなさくその",
+      "flavor": "花と毒で削るデッキ",
+      "leader": "🌼",
+      "cards": [
+        {
+          "id": "g_caterpup",
+          "count": 3
+        },
+        {
+          "id": "g_cocoon",
+          "count": 2
+        },
+        {
+          "id": "g_papilord",
+          "count": 1
+        },
+        {
+          "id": "g_bunseed",
+          "count": 3
+        },
+        {
+          "id": "g_leafstag",
+          "count": 2
+        },
+        {
+          "id": "g_stagforest",
+          "count": 1
+        },
+        {
+          "id": "g_beebud",
+          "count": 3
+        },
+        {
+          "id": "g_honeyguard",
+          "count": 2
+        },
+        {
+          "id": "g_queenswarm",
+          "count": 1
+        },
+        {
+          "id": "g_tadleaf",
+          "count": 3
+        },
+        {
+          "id": "g_treefrog",
+          "count": 2
+        },
+        {
+          "id": "g_jungleking",
+          "count": 1
+        },
+        {
+          "id": "g_slimini",
+          "count": 2
+        },
+        {
+          "id": "g100_solo",
+          "count": 2
+        },
+        {
+          "id": "g101_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "fire_blaze",
+      "title": "もえあがる炎",
+      "flavor": "ほのおの猛攻デッキ",
+      "leader": "🔥",
+      "cards": [
+        {
+          "id": "f_fyrkit",
+          "count": 4
+        },
+        {
+          "id": "f_pyrofox",
+          "count": 2
+        },
+        {
+          "id": "f_solarfox",
+          "count": 1
+        },
+        {
+          "id": "f_sparkchick",
+          "count": 3
+        },
+        {
+          "id": "f_phoenixblaze",
+          "count": 2
+        },
+        {
+          "id": "f_phoenixrise",
+          "count": 1
+        },
+        {
+          "id": "f_embercat",
+          "count": 3
+        },
+        {
+          "id": "f_flamecat",
+          "count": 2
+        },
+        {
+          "id": "f_volcat",
+          "count": 1
+        },
+        {
+          "id": "f_lavashell",
+          "count": 3
+        },
+        {
+          "id": "f_inferturtle",
+          "count": 2
+        },
+        {
+          "id": "f_phoenixsmall",
+          "count": 2
+        },
+        {
+          "id": "f103_solo",
+          "count": 2
+        },
+        {
+          "id": "f104_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "fire_ember",
+      "title": "おきびのまち",
+      "flavor": "やけど継続火力デッキ",
+      "leader": "🦊",
+      "cards": [
+        {
+          "id": "f_fyrkit",
+          "count": 4
+        },
+        {
+          "id": "f_pyrofox",
+          "count": 2
+        },
+        {
+          "id": "f_solarfox",
+          "count": 1
+        },
+        {
+          "id": "f_sparkchick",
+          "count": 3
+        },
+        {
+          "id": "f_phoenixblaze",
+          "count": 2
+        },
+        {
+          "id": "f_phoenixrise",
+          "count": 1
+        },
+        {
+          "id": "f_embercat",
+          "count": 3
+        },
+        {
+          "id": "f_flamecat",
+          "count": 2
+        },
+        {
+          "id": "f_volcat",
+          "count": 1
+        },
+        {
+          "id": "f_lavashell",
+          "count": 3
+        },
+        {
+          "id": "f_inferturtle",
+          "count": 2
+        },
+        {
+          "id": "f_phoenixsmall",
+          "count": 2
+        },
+        {
+          "id": "f103_solo",
+          "count": 2
+        },
+        {
+          "id": "f104_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "water_tide",
+      "title": "あおきうみ",
+      "flavor": "みずの波状攻撃デッキ",
+      "leader": "🐳",
+      "cards": [
+        {
+          "id": "w_pengling",
+          "count": 4
+        },
+        {
+          "id": "w_pengblade",
+          "count": 2
+        },
+        {
+          "id": "w_emperorpeng",
+          "count": 1
+        },
+        {
+          "id": "w_otterpup",
+          "count": 3
+        },
+        {
+          "id": "w_riverotter",
+          "count": 2
+        },
+        {
+          "id": "w_seaotterking",
+          "count": 1
+        },
+        {
+          "id": "w_sealpup",
+          "count": 3
+        },
+        {
+          "id": "w_frostseal",
+          "count": 2
+        },
+        {
+          "id": "w_sealord",
+          "count": 1
+        },
+        {
+          "id": "w_sharkpup",
+          "count": 3
+        },
+        {
+          "id": "w_megashark",
+          "count": 2
+        },
+        {
+          "id": "w_jellyglow",
+          "count": 2
+        },
+        {
+          "id": "w106_solo",
+          "count": 2
+        },
+        {
+          "id": "w107_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "water_frost",
+      "title": "こおりのうみ",
+      "flavor": "氷で眠らせるデッキ",
+      "leader": "🐧",
+      "cards": [
+        {
+          "id": "w_pengling",
+          "count": 4
+        },
+        {
+          "id": "w_pengblade",
+          "count": 2
+        },
+        {
+          "id": "w_emperorpeng",
+          "count": 1
+        },
+        {
+          "id": "w_otterpup",
+          "count": 3
+        },
+        {
+          "id": "w_riverotter",
+          "count": 2
+        },
+        {
+          "id": "w_seaotterking",
+          "count": 1
+        },
+        {
+          "id": "w_sealpup",
+          "count": 3
+        },
+        {
+          "id": "w_frostseal",
+          "count": 2
+        },
+        {
+          "id": "w_sealord",
+          "count": 1
+        },
+        {
+          "id": "w_sharkpup",
+          "count": 3
+        },
+        {
+          "id": "w_megashark",
+          "count": 2
+        },
+        {
+          "id": "w_jellyglow",
+          "count": 2
+        },
+        {
+          "id": "w106_solo",
+          "count": 2
+        },
+        {
+          "id": "w107_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "lightning_storm",
+      "title": "いかずちの群れ",
+      "flavor": "高速でんきデッキ",
+      "leader": "⚡",
+      "cards": [
+        {
+          "id": "l_sparkmouse",
+          "count": 4
+        },
+        {
+          "id": "l_thundermouse",
+          "count": 2
+        },
+        {
+          "id": "l_stormrat",
+          "count": 1
+        },
+        {
+          "id": "l_boltbunny",
+          "count": 3
+        },
+        {
+          "id": "l_voltrabbit",
+          "count": 2
+        },
+        {
+          "id": "l_tempestbun",
+          "count": 1
+        },
+        {
+          "id": "l_voltbug",
+          "count": 3
+        },
+        {
+          "id": "l_boltbeetle",
+          "count": 2
+        },
+        {
+          "id": "l1_b",
+          "count": 3
+        },
+        {
+          "id": "l1_s1",
+          "count": 2
+        },
+        {
+          "id": "l1_s2",
+          "count": 1
+        },
+        {
+          "id": "l_voltliz",
+          "count": 2
+        },
+        {
+          "id": "l109_solo",
+          "count": 2
+        },
+        {
+          "id": "l110_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "lightning_volt",
+      "title": "プラズマの嵐",
+      "flavor": "麻痺で縛るデッキ",
+      "leader": "🐭",
+      "cards": [
+        {
+          "id": "l_sparkmouse",
+          "count": 4
+        },
+        {
+          "id": "l_thundermouse",
+          "count": 2
+        },
+        {
+          "id": "l_stormrat",
+          "count": 1
+        },
+        {
+          "id": "l_boltbunny",
+          "count": 3
+        },
+        {
+          "id": "l_voltrabbit",
+          "count": 2
+        },
+        {
+          "id": "l_tempestbun",
+          "count": 1
+        },
+        {
+          "id": "l_voltbug",
+          "count": 3
+        },
+        {
+          "id": "l_boltbeetle",
+          "count": 2
+        },
+        {
+          "id": "l1_b",
+          "count": 3
+        },
+        {
+          "id": "l1_s1",
+          "count": 2
+        },
+        {
+          "id": "l1_s2",
+          "count": 1
+        },
+        {
+          "id": "l_voltliz",
+          "count": 2
+        },
+        {
+          "id": "l109_solo",
+          "count": 2
+        },
+        {
+          "id": "l110_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "psychic_mind",
+      "title": "こころのちから",
+      "flavor": "幻惑エスパーデッキ",
+      "leader": "✨",
+      "cards": [
+        {
+          "id": "p_mysticat",
+          "count": 4
+        },
+        {
+          "id": "p_spiritcat",
+          "count": 2
+        },
+        {
+          "id": "p_cosmocat",
+          "count": 1
+        },
+        {
+          "id": "p_owlet",
+          "count": 3
+        },
+        {
+          "id": "p_wiseowl",
+          "count": 2
+        },
+        {
+          "id": "p_cosmowl",
+          "count": 1
+        },
+        {
+          "id": "p_petbat",
+          "count": 3
+        },
+        {
+          "id": "p_voidbat",
+          "count": 2
+        },
+        {
+          "id": "p1_b",
+          "count": 3
+        },
+        {
+          "id": "p1_s1",
+          "count": 2
+        },
+        {
+          "id": "p1_s2",
+          "count": 1
+        },
+        {
+          "id": "p_octomind",
+          "count": 2
+        },
+        {
+          "id": "p112_solo",
+          "count": 2
+        },
+        {
+          "id": "p113_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "psychic_dream",
+      "title": "ゆめのくに",
+      "flavor": "眠りと混乱のデッキ",
+      "leader": "🌙",
+      "cards": [
+        {
+          "id": "p_mysticat",
+          "count": 4
+        },
+        {
+          "id": "p_spiritcat",
+          "count": 2
+        },
+        {
+          "id": "p_cosmocat",
+          "count": 1
+        },
+        {
+          "id": "p_owlet",
+          "count": 3
+        },
+        {
+          "id": "p_wiseowl",
+          "count": 2
+        },
+        {
+          "id": "p_cosmowl",
+          "count": 1
+        },
+        {
+          "id": "p_petbat",
+          "count": 3
+        },
+        {
+          "id": "p_voidbat",
+          "count": 2
+        },
+        {
+          "id": "p1_b",
+          "count": 3
+        },
+        {
+          "id": "p1_s1",
+          "count": 2
+        },
+        {
+          "id": "p1_s2",
+          "count": 1
+        },
+        {
+          "id": "p_octomind",
+          "count": 2
+        },
+        {
+          "id": "p112_solo",
+          "count": 2
+        },
+        {
+          "id": "p113_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "fighting_dojo",
+      "title": "こぶしの道場",
+      "flavor": "怪力かくとうデッキ",
+      "leader": "👊",
+      "cards": [
+        {
+          "id": "fi_joeyfist",
+          "count": 4
+        },
+        {
+          "id": "fi_boxroo",
+          "count": 2
+        },
+        {
+          "id": "fi_heavyroo",
+          "count": 1
+        },
+        {
+          "id": "fi_bearcub",
+          "count": 3
+        },
+        {
+          "id": "fi_brownbear",
+          "count": 2
+        },
+        {
+          "id": "fi_grizzking",
+          "count": 1
+        },
+        {
+          "id": "fi_karatecrab",
+          "count": 3
+        },
+        {
+          "id": "fi_lordcrab",
+          "count": 2
+        },
+        {
+          "id": "fi1_b",
+          "count": 3
+        },
+        {
+          "id": "fi1_s1",
+          "count": 2
+        },
+        {
+          "id": "fi1_s2",
+          "count": 1
+        },
+        {
+          "id": "fi_charger",
+          "count": 2
+        },
+        {
+          "id": "fi115_solo",
+          "count": 2
+        },
+        {
+          "id": "fi116_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "fighting_arena",
+      "title": "とうぎじょう",
+      "flavor": "ひるませて連打デッキ",
+      "leader": "🥊",
+      "cards": [
+        {
+          "id": "fi_joeyfist",
+          "count": 4
+        },
+        {
+          "id": "fi_boxroo",
+          "count": 2
+        },
+        {
+          "id": "fi_heavyroo",
+          "count": 1
+        },
+        {
+          "id": "fi_bearcub",
+          "count": 3
+        },
+        {
+          "id": "fi_brownbear",
+          "count": 2
+        },
+        {
+          "id": "fi_grizzking",
+          "count": 1
+        },
+        {
+          "id": "fi_karatecrab",
+          "count": 3
+        },
+        {
+          "id": "fi_lordcrab",
+          "count": 2
+        },
+        {
+          "id": "fi1_b",
+          "count": 3
+        },
+        {
+          "id": "fi1_s1",
+          "count": 2
+        },
+        {
+          "id": "fi1_s2",
+          "count": 1
+        },
+        {
+          "id": "fi_charger",
+          "count": 2
+        },
+        {
+          "id": "fi115_solo",
+          "count": 2
+        },
+        {
+          "id": "fi116_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "darkness_shade",
+      "title": "やみのとばり",
+      "flavor": "毒と影のデッキ",
+      "leader": "🌑",
+      "cards": [
+        {
+          "id": "d_lonepup",
+          "count": 4
+        },
+        {
+          "id": "d_nightwolf",
+          "count": 2
+        },
+        {
+          "id": "d_shadowfang",
+          "count": 1
+        },
+        {
+          "id": "d_crowling",
+          "count": 3
+        },
+        {
+          "id": "d_ravenshade",
+          "count": 2
+        },
+        {
+          "id": "d_dreadcrow",
+          "count": 1
+        },
+        {
+          "id": "d_hatchsnake",
+          "count": 3
+        },
+        {
+          "id": "d_cobraking",
+          "count": 2
+        },
+        {
+          "id": "d1_b",
+          "count": 3
+        },
+        {
+          "id": "d1_s1",
+          "count": 2
+        },
+        {
+          "id": "d1_s2",
+          "count": 1
+        },
+        {
+          "id": "d_sandscorp",
+          "count": 2
+        },
+        {
+          "id": "d118_solo",
+          "count": 2
+        },
+        {
+          "id": "d119_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "darkness_abyss",
+      "title": "しんえんのやみ",
+      "flavor": "吸血と混乱のデッキ",
+      "leader": "🦇",
+      "cards": [
+        {
+          "id": "d_lonepup",
+          "count": 4
+        },
+        {
+          "id": "d_nightwolf",
+          "count": 2
+        },
+        {
+          "id": "d_shadowfang",
+          "count": 1
+        },
+        {
+          "id": "d_crowling",
+          "count": 3
+        },
+        {
+          "id": "d_ravenshade",
+          "count": 2
+        },
+        {
+          "id": "d_dreadcrow",
+          "count": 1
+        },
+        {
+          "id": "d_hatchsnake",
+          "count": 3
+        },
+        {
+          "id": "d_cobraking",
+          "count": 2
+        },
+        {
+          "id": "d1_b",
+          "count": 3
+        },
+        {
+          "id": "d1_s1",
+          "count": 2
+        },
+        {
+          "id": "d1_s2",
+          "count": 1
+        },
+        {
+          "id": "d_sandscorp",
+          "count": 2
+        },
+        {
+          "id": "d118_solo",
+          "count": 2
+        },
+        {
+          "id": "d119_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "metal_fortress",
+      "title": "はがねの城塞",
+      "flavor": "鉄壁シールドデッキ",
+      "leader": "⚙️",
+      "cards": [
+        {
+          "id": "m_ironbug",
+          "count": 4
+        },
+        {
+          "id": "m_steelbeetle",
+          "count": 2
+        },
+        {
+          "id": "m_titanbeetle",
+          "count": 1
+        },
+        {
+          "id": "m_steelhog",
+          "count": 3
+        },
+        {
+          "id": "m_tankhog",
+          "count": 2
+        },
+        {
+          "id": "m1_b",
+          "count": 3
+        },
+        {
+          "id": "m1_s1",
+          "count": 2
+        },
+        {
+          "id": "m1_s2",
+          "count": 1
+        },
+        {
+          "id": "m2_b",
+          "count": 3
+        },
+        {
+          "id": "m2_s1",
+          "count": 2
+        },
+        {
+          "id": "m2_s2",
+          "count": 1
+        },
+        {
+          "id": "m_steelraptor",
+          "count": 2
+        },
+        {
+          "id": "m121_solo",
+          "count": 2
+        },
+        {
+          "id": "m122_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "metal_gear",
+      "title": "きこうへいだん",
+      "flavor": "機械じかけのデッキ",
+      "leader": "🤖",
+      "cards": [
+        {
+          "id": "m_ironbug",
+          "count": 4
+        },
+        {
+          "id": "m_steelbeetle",
+          "count": 2
+        },
+        {
+          "id": "m_titanbeetle",
+          "count": 1
+        },
+        {
+          "id": "m_steelhog",
+          "count": 3
+        },
+        {
+          "id": "m_tankhog",
+          "count": 2
+        },
+        {
+          "id": "m1_b",
+          "count": 3
+        },
+        {
+          "id": "m1_s1",
+          "count": 2
+        },
+        {
+          "id": "m1_s2",
+          "count": 1
+        },
+        {
+          "id": "m2_b",
+          "count": 3
+        },
+        {
+          "id": "m2_s1",
+          "count": 2
+        },
+        {
+          "id": "m2_s2",
+          "count": 1
+        },
+        {
+          "id": "m_steelraptor",
+          "count": 2
+        },
+        {
+          "id": "m121_solo",
+          "count": 2
+        },
+        {
+          "id": "m122_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "dragon_wyrm",
+      "title": "りゅうのいぶき",
+      "flavor": "圧倒的ドラゴンデッキ",
+      "leader": "🐉",
+      "cards": [
+        {
+          "id": "dr_hatchling",
+          "count": 4
+        },
+        {
+          "id": "dr_wyrm",
+          "count": 2
+        },
+        {
+          "id": "dr_ancient",
+          "count": 1
+        },
+        {
+          "id": "dr_seawyrmling",
+          "count": 3
+        },
+        {
+          "id": "dr_leviathan",
+          "count": 2
+        },
+        {
+          "id": "dr1_b",
+          "count": 3
+        },
+        {
+          "id": "dr1_s1",
+          "count": 2
+        },
+        {
+          "id": "dr1_s2",
+          "count": 1
+        },
+        {
+          "id": "dr2_b",
+          "count": 3
+        },
+        {
+          "id": "dr2_s1",
+          "count": 2
+        },
+        {
+          "id": "dr2_s2",
+          "count": 1
+        },
+        {
+          "id": "dr_skywyvern",
+          "count": 2
+        },
+        {
+          "id": "dr124_solo",
+          "count": 2
+        },
+        {
+          "id": "dr125_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "dragon_scale",
+      "title": "こりゅうのたに",
+      "flavor": "若竜の成長デッキ",
+      "leader": "🐲",
+      "cards": [
+        {
+          "id": "dr_hatchling",
+          "count": 4
+        },
+        {
+          "id": "dr_wyrm",
+          "count": 2
+        },
+        {
+          "id": "dr_ancient",
+          "count": 1
+        },
+        {
+          "id": "dr_seawyrmling",
+          "count": 3
+        },
+        {
+          "id": "dr_leviathan",
+          "count": 2
+        },
+        {
+          "id": "dr1_b",
+          "count": 3
+        },
+        {
+          "id": "dr1_s1",
+          "count": 2
+        },
+        {
+          "id": "dr1_s2",
+          "count": 1
+        },
+        {
+          "id": "dr2_b",
+          "count": 3
+        },
+        {
+          "id": "dr2_s1",
+          "count": 2
+        },
+        {
+          "id": "dr2_s2",
+          "count": 1
+        },
+        {
+          "id": "dr_skywyvern",
+          "count": 2
+        },
+        {
+          "id": "dr124_solo",
+          "count": 2
+        },
+        {
+          "id": "dr125_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "colorless_wind",
+      "title": "かぜのなかま",
+      "flavor": "バランスノーマルデッキ",
+      "leader": "⚪",
+      "cards": [
+        {
+          "id": "c_bunkid",
+          "count": 4
+        },
+        {
+          "id": "c_hare",
+          "count": 2
+        },
+        {
+          "id": "c_royalhare",
+          "count": 1
+        },
+        {
+          "id": "c_squirreling",
+          "count": 3
+        },
+        {
+          "id": "c_tailmaster",
+          "count": 2
+        },
+        {
+          "id": "c_dovelet",
+          "count": 3
+        },
+        {
+          "id": "c_hawk",
+          "count": 2
+        },
+        {
+          "id": "c_eagleking",
+          "count": 1
+        },
+        {
+          "id": "c1_b",
+          "count": 3
+        },
+        {
+          "id": "c1_s1",
+          "count": 2
+        },
+        {
+          "id": "c1_s2",
+          "count": 1
+        },
+        {
+          "id": "c126_solo",
+          "count": 2
+        },
+        {
+          "id": "c127_solo",
+          "count": 2
+        },
+        {
+          "id": "c128_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "colorless_sky",
+      "title": "おおぞらのたび",
+      "flavor": "空を駆ける鳥デッキ",
+      "leader": "🦅",
+      "cards": [
+        {
+          "id": "c_bunkid",
+          "count": 4
+        },
+        {
+          "id": "c_hare",
+          "count": 2
+        },
+        {
+          "id": "c_royalhare",
+          "count": 1
+        },
+        {
+          "id": "c_squirreling",
+          "count": 3
+        },
+        {
+          "id": "c_tailmaster",
+          "count": 2
+        },
+        {
+          "id": "c_dovelet",
+          "count": 3
+        },
+        {
+          "id": "c_hawk",
+          "count": 2
+        },
+        {
+          "id": "c_eagleking",
+          "count": 1
+        },
+        {
+          "id": "c1_b",
+          "count": 3
+        },
+        {
+          "id": "c1_s1",
+          "count": 2
+        },
+        {
+          "id": "c1_s2",
+          "count": 1
+        },
+        {
+          "id": "c126_solo",
+          "count": 2
+        },
+        {
+          "id": "c127_solo",
+          "count": 2
+        },
+        {
+          "id": "c128_solo",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "mix_garden",
+      "title": "みずべのにわ",
+      "flavor": "くさとみずの自然デッキ",
+      "leader": "🌿",
+      "cards": [
+        {
+          "id": "g_caterpup",
+          "count": 4
+        },
+        {
+          "id": "g_cocoon",
+          "count": 3
+        },
+        {
+          "id": "g_papilord",
+          "count": 2
+        },
+        {
+          "id": "g_bunseed",
+          "count": 4
+        },
+        {
+          "id": "g_leafstag",
+          "count": 3
+        },
+        {
+          "id": "g_stagforest",
+          "count": 2
+        },
+        {
+          "id": "w_pengling",
+          "count": 3
+        },
+        {
+          "id": "w_pengblade",
+          "count": 2
+        },
+        {
+          "id": "w_emperorpeng",
+          "count": 1
+        },
+        {
+          "id": "w_otterpup",
+          "count": 3
+        },
+        {
+          "id": "w_riverotter",
+          "count": 2
+        },
+        {
+          "id": "w_seaotterking",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "mix_warrior",
+      "title": "ほのおの闘士",
+      "flavor": "ほのおとかくとうの猛攻デッキ",
+      "leader": "🔥",
+      "cards": [
+        {
+          "id": "f_fyrkit",
+          "count": 4
+        },
+        {
+          "id": "f_pyrofox",
+          "count": 3
+        },
+        {
+          "id": "f_solarfox",
+          "count": 2
+        },
+        {
+          "id": "f_sparkchick",
+          "count": 4
+        },
+        {
+          "id": "f_phoenixblaze",
+          "count": 3
+        },
+        {
+          "id": "f_phoenixrise",
+          "count": 2
+        },
+        {
+          "id": "fi_joeyfist",
+          "count": 3
+        },
+        {
+          "id": "fi_boxroo",
+          "count": 2
+        },
+        {
+          "id": "fi_heavyroo",
+          "count": 1
+        },
+        {
+          "id": "fi_bearcub",
+          "count": 3
+        },
+        {
+          "id": "fi_brownbear",
+          "count": 2
+        },
+        {
+          "id": "fi_grizzking",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "mix_machine",
+      "title": "らいでんきこう",
+      "flavor": "でんきとはがねの機巧デッキ",
+      "leader": "⚡",
+      "cards": [
+        {
+          "id": "l_sparkmouse",
+          "count": 4
+        },
+        {
+          "id": "l_thundermouse",
+          "count": 3
+        },
+        {
+          "id": "l_stormrat",
+          "count": 2
+        },
+        {
+          "id": "l_boltbunny",
+          "count": 4
+        },
+        {
+          "id": "l_voltrabbit",
+          "count": 3
+        },
+        {
+          "id": "l_tempestbun",
+          "count": 2
+        },
+        {
+          "id": "m_ironbug",
+          "count": 4
+        },
+        {
+          "id": "m_steelbeetle",
+          "count": 2
+        },
+        {
+          "id": "m_titanbeetle",
+          "count": 1
+        },
+        {
+          "id": "m_steelhog",
+          "count": 3
+        },
+        {
+          "id": "m_tankhog",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "mix_occult",
+      "title": "ゆうげんのやみ",
+      "flavor": "エスパーとあくの怪奇デッキ",
+      "leader": "🌌",
+      "cards": [
+        {
+          "id": "p_mysticat",
+          "count": 4
+        },
+        {
+          "id": "p_spiritcat",
+          "count": 3
+        },
+        {
+          "id": "p_cosmocat",
+          "count": 2
+        },
+        {
+          "id": "p_owlet",
+          "count": 4
+        },
+        {
+          "id": "p_wiseowl",
+          "count": 3
+        },
+        {
+          "id": "p_cosmowl",
+          "count": 2
+        },
+        {
+          "id": "d_lonepup",
+          "count": 3
+        },
+        {
+          "id": "d_nightwolf",
+          "count": 2
+        },
+        {
+          "id": "d_shadowfang",
+          "count": 1
+        },
+        {
+          "id": "d_crowling",
+          "count": 3
+        },
+        {
+          "id": "d_ravenshade",
+          "count": 2
+        },
+        {
+          "id": "d_dreadcrow",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "mix_tempest",
+      "title": "あらしのうみ",
+      "flavor": "みずとでんきの嵐デッキ",
+      "leader": "🌊",
+      "cards": [
+        {
+          "id": "w_pengling",
+          "count": 4
+        },
+        {
+          "id": "w_pengblade",
+          "count": 3
+        },
+        {
+          "id": "w_emperorpeng",
+          "count": 2
+        },
+        {
+          "id": "w_otterpup",
+          "count": 4
+        },
+        {
+          "id": "w_riverotter",
+          "count": 3
+        },
+        {
+          "id": "w_seaotterking",
+          "count": 2
+        },
+        {
+          "id": "l_sparkmouse",
+          "count": 3
+        },
+        {
+          "id": "l_thundermouse",
+          "count": 2
+        },
+        {
+          "id": "l_stormrat",
+          "count": 1
+        },
+        {
+          "id": "l_boltbunny",
+          "count": 3
+        },
+        {
+          "id": "l_voltrabbit",
+          "count": 2
+        },
+        {
+          "id": "l_tempestbun",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "mix_infernodragon",
+      "title": "えんりゅうのほのお",
+      "flavor": "ほのおとドラゴンの灼熱デッキ",
+      "leader": "🐉",
+      "cards": [
+        {
+          "id": "f_fyrkit",
+          "count": 4
+        },
+        {
+          "id": "f_pyrofox",
+          "count": 3
+        },
+        {
+          "id": "f_solarfox",
+          "count": 2
+        },
+        {
+          "id": "f_sparkchick",
+          "count": 4
+        },
+        {
+          "id": "f_phoenixblaze",
+          "count": 3
+        },
+        {
+          "id": "f_phoenixrise",
+          "count": 2
+        },
+        {
+          "id": "dr_hatchling",
+          "count": 4
+        },
+        {
+          "id": "dr_wyrm",
+          "count": 2
+        },
+        {
+          "id": "dr_ancient",
+          "count": 1
+        },
+        {
+          "id": "dr_seawyrmling",
+          "count": 3
+        },
+        {
+          "id": "dr_leviathan",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "mix_jungle",
+      "title": "みつりんのつわもの",
+      "flavor": "くさとかくとうの密林デッキ",
+      "leader": "🦍",
+      "cards": [
+        {
+          "id": "g_caterpup",
+          "count": 4
+        },
+        {
+          "id": "g_cocoon",
+          "count": 3
+        },
+        {
+          "id": "g_papilord",
+          "count": 2
+        },
+        {
+          "id": "g_bunseed",
+          "count": 4
+        },
+        {
+          "id": "g_leafstag",
+          "count": 3
+        },
+        {
+          "id": "g_stagforest",
+          "count": 2
+        },
+        {
+          "id": "fi_joeyfist",
+          "count": 3
+        },
+        {
+          "id": "fi_boxroo",
+          "count": 2
+        },
+        {
+          "id": "fi_heavyroo",
+          "count": 1
+        },
+        {
+          "id": "fi_bearcub",
+          "count": 3
+        },
+        {
+          "id": "fi_brownbear",
+          "count": 2
+        },
+        {
+          "id": "fi_grizzking",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "mix_dread",
+      "title": "くろがねのやみ",
+      "flavor": "あくとはがねの暗黒デッキ",
+      "leader": "🌑",
+      "cards": [
+        {
+          "id": "d_lonepup",
+          "count": 4
+        },
+        {
+          "id": "d_nightwolf",
+          "count": 3
+        },
+        {
+          "id": "d_shadowfang",
+          "count": 2
+        },
+        {
+          "id": "d_crowling",
+          "count": 4
+        },
+        {
+          "id": "d_ravenshade",
+          "count": 3
+        },
+        {
+          "id": "d_dreadcrow",
+          "count": 2
+        },
+        {
+          "id": "m_ironbug",
+          "count": 4
+        },
+        {
+          "id": "m_steelbeetle",
+          "count": 2
+        },
+        {
+          "id": "m_titanbeetle",
+          "count": 1
+        },
+        {
+          "id": "m_steelhog",
+          "count": 3
+        },
+        {
+          "id": "m_tankhog",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "mix_mystic",
+      "title": "まぼろしのかぜ",
+      "flavor": "ノーマルとエスパーの幻デッキ",
+      "leader": "✨",
+      "cards": [
+        {
+          "id": "c_bunkid",
+          "count": 4
+        },
+        {
+          "id": "c_hare",
+          "count": 3
+        },
+        {
+          "id": "c_royalhare",
+          "count": 2
+        },
+        {
+          "id": "c_squirreling",
+          "count": 4
+        },
+        {
+          "id": "c_tailmaster",
+          "count": 3
+        },
+        {
+          "id": "p_mysticat",
+          "count": 4
+        },
+        {
+          "id": "p_spiritcat",
+          "count": 3
+        },
+        {
+          "id": "p_cosmocat",
+          "count": 1
+        },
+        {
+          "id": "p_owlet",
+          "count": 3
+        },
+        {
+          "id": "p_wiseowl",
+          "count": 2
+        },
+        {
+          "id": "p_cosmowl",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "mix_leviathan",
+      "title": "うみりゅうのうた",
+      "flavor": "みずとドラゴンの海竜デッキ",
+      "leader": "🐳",
+      "cards": [
+        {
+          "id": "w_pengling",
+          "count": 4
+        },
+        {
+          "id": "w_pengblade",
+          "count": 3
+        },
+        {
+          "id": "w_emperorpeng",
+          "count": 2
+        },
+        {
+          "id": "w_otterpup",
+          "count": 4
+        },
+        {
+          "id": "w_riverotter",
+          "count": 3
+        },
+        {
+          "id": "w_seaotterking",
+          "count": 2
+        },
+        {
+          "id": "dr_hatchling",
+          "count": 4
+        },
+        {
+          "id": "dr_wyrm",
+          "count": 2
+        },
+        {
+          "id": "dr_ancient",
+          "count": 1
+        },
+        {
+          "id": "dr_seawyrmling",
+          "count": 3
+        },
+        {
+          "id": "dr_leviathan",
+          "count": 2
+        }
+      ]
     }
   ]
 }
