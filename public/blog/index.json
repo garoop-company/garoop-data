@@ -2543,6 +2543,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-29-creation": {
+      "default": "2026-05-29-creation.md",
+      "locales": {
+        "ne": "2026-05-29-creation.ne.md",
+        "zh": "2026-05-29-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作の世界へようこそ！",
+          "date": "2026-05-29",
+          "description": "子供たちの創造性を引き出す創作の魅力",
+          "tags": [
+            "創作",
+            "子ども",
+            "創造性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जना: तपाईंको कल्पनाको शक्ति",
+          "date": "2026-05-29",
+          "description": "सिर्जना र बालबालिकाहरूको सम्भावना",
+          "tags": [
+            "सिर्जना",
+            "बालबालिका",
+            "उद्यमशीलता",
+            "सिकाई"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "发挥创造力，做最好的自己",
+          "date": "2026-05-29",
+          "description": "让孩子的创造力与行动力得到充分发挥，成为最好的自己。",
+          "tags": [
+            "创作",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
