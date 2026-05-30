@@ -2586,6 +2586,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-05-30-kangaroo": {
+      "default": "2026-05-30-kangaroo.md",
+      "locales": {
+        "ne": "2026-05-30-kangaroo.ne.md",
+        "zh": "2026-05-30-kangaroo.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "カンガルーと一緒に、未来の夢を掴もう！",
+          "date": "2026-05-30",
+          "description": "カンガルーに学ぶ、可能性を広げる力について",
+          "tags": [
+            "カンガルー",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "date": "2026-05-30",
+          "tags": [
+            "कंगारु",
+            "स्वाभिमान",
+            "जीवन प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "袋鼠的奇幻世界：发掘创造力和行动力",
+          "date": "2026-05-30",
+          "description": "一起探索袋鼠的奇幻世界，发现它们独特的特征和习性，激发孩子的创造力和行动力。",
+          "tags": [
+            "袋鼠",
+            "创造力",
+            "行动力",
+            "小学生教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
