@@ -2667,6 +2667,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-01-future-education": {
+      "default": "2026-06-01-future-education.md",
+      "locales": {
+        "ne": "2026-06-01-future-education.ne.md",
+        "zh": "2026-06-01-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-06-01",
+          "tags": [
+            "未来の教育",
+            "学び方",
+            "子供たち"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा",
+          "date": "2026-06-01",
+          "description": "भविष्यको शिक्षा बारेको जानकारी",
+          "tags": [
+            "शिक्षा",
+            "भविष्य",
+            "सिर्जनशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "未来教育：点燃孩子的创造力与行动力",
+          "date": "2026-06-01",
+          "description": "未来教育不仅仅是学习知识，还包括激发创造力与行动力。在这篇文章中，我们将探讨如何通过未来教育让孩子们变得更有创造力和行动力。",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "行动力",
+            "小学生教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
