@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "run_dir": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy",
+  "spritesheet": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/final/spritesheet.webp",
+  "validation": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/final/validation.json",
+  "contact_sheet": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/qa/contact-sheet.png",
+  "review": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/qa/review.json",
+  "package": "/Users/yamashitadaiki/.codex/pets/garuchan-spy"
+}

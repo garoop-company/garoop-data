@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19030,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 246
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19505,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 252
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19091,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 252
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19322,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 257
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19129,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 249
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19192,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 259
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16480,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 238
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15632,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16424,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 199
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15301,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17647,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 273
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15630,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 201
+        },
+        {
+          "index": 6,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17300,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 263
+        },
+        {
+          "index": 7,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15373,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 224
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15425,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14477,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 180
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17570,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 266
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16489,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 236
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17647,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 273
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15893,
+          "bbox": [
+            13,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        },
+        {
+          "index": 6,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17176,
+          "bbox": [
+            21,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 255
+        },
+        {
+          "index": 7,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15243,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18936,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19303,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19021,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18871,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 185
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21218,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 295
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16901,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19457,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 275
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18651,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 248
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18370,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 261
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17004,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 283
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20785,
+          "bbox": [
+            10,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 365
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21789,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 371
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21987,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 431
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21194,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 403
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21492,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 387
+        },
+        {
+          "index": 6,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20038,
+          "bbox": [
+            5,
+            21,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 361
+        },
+        {
+          "index": 7,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20381,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 383
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18379,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 185
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17541,
+          "bbox": [
+            27,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17811,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18151,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 193
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17470,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18383,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17270,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 304
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16800,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 267
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17055,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 326
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16984,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 302
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17394,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 292
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16926,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 281
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18915,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 262
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18966,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18447,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19006,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 248
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20194,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garuchan-spy/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18941,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 262
+        }
+      ]
+    }
+  ]
+}
