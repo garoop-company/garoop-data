@@ -2708,6 +2708,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-02-ai": {
+      "default": "2026-06-02-ai.md",
+      "locales": {
+        "ne": "2026-06-02-ai.ne.md",
+        "zh": "2026-06-02-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIと創造の冒険",
+          "date": "2026-06-02",
+          "description": "AIの世界で創造力を広げる",
+          "tags": [
+            "AI",
+            "創造力",
+            "教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI सँग सिर्जनशीलता",
+          "date": "2026-06-02",
+          "description": "AI को बारेमा जान्ने र सिर्जनशीलता बढाउने",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI 世界，创造无限可能",
+          "date": "2026-06-02",
+          "description": "一起探索 AI 的神奇世界，激发你的创造力与行动力",
+          "tags": [
+            "AI",
+            "创造力",
+            "小学生教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
