@@ -2793,6 +2793,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-04-entrepreneurship": {
+      "default": "2026-06-04-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-06-04-entrepreneurship.ne.md",
+        "zh": "2026-06-04-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "起業の世界へようこそ！夢中になる未来を作る",
+          "date": "2026-06-04",
+          "description": "起業の基礎知識と夢中になる方法を紹介します",
+          "tags": [
+            "起業",
+            "創造性",
+            "夢中になる"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता : बालबालिकाहरूको सिर्जनशीलता र संभावना",
+          "date": "2026-06-04",
+          "description": "बालबालिकाहरूलाई उद्यमशीलता सिकाउने गरी सिर्जनशीलता र संभावना बढाउने",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家的梦想",
+          "date": "2026-06-04",
+          "description": "让孩子们从小了解创业的魅力，激发他们的创造力和行动力，共同探索创业的奇妙世界。",
+          "tags": [
+            "创业",
+            "儿童教育",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
