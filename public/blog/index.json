@@ -2835,6 +2835,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-05-ai": {
+      "default": "2026-06-05-ai.md",
+      "locales": {
+        "ne": "2026-06-05-ai.ne.md",
+        "zh": "2026-06-05-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIと夢を広げる！子どもたちの無限の可能性",
+          "date": "2026-06-05",
+          "description": "AIで夢を広げよう！ガルちゃんと一緒に学ぼう",
+          "tags": [
+            "AI",
+            "子どもたち",
+            "夢",
+            "可能性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI को संसार: बालबालिकाहरूको सिर्जनशीलता",
+          "date": "2026-06-05",
+          "description": "AI को बारेमा जान्नु र सिर्जनशीलता विकसित गर्नु",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "उद्यमशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI时代，激发你的创造力",
+          "date": "2026-06-05",
+          "description": "AI是我们生活中的一部分，它能帮助我们创造、学习和解决问题。让我们一起探索AI的世界，激发你的创造力和行动力吧！",
+          "tags": [
+            "AI",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
