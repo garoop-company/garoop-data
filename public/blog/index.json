@@ -2879,6 +2879,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-06-startup": {
+      "default": "2026-06-06-startup.md",
+      "locales": {
+        "ne": "2026-06-06-startup.ne.md",
+        "zh": "2026-06-06-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "夢を叶えるスタートアップの世界!",
+          "date": "2026-06-06",
+          "description": "スタートアップとは?夢を叶えるための第一歩!",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "創業"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअप: तपाईंको सपनालाई वास्तविकतामा बदल्ने यात्रा",
+          "date": "2026-06-06",
+          "description": "स्टार्टअपको बारेमा जानिन्छ, सपनालाई वास्तविकतामा बदल्ने तरिका",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "创业的魔力：激发你的梦想",
+          "date": "2026-06-06",
+          "description": "让孩子们通过创业，激发创造力，锻炼实践能力，勇敢追梦。",
+          "tags": [
+            "创业教育",
+            "孩子创造力",
+            "实践能力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
