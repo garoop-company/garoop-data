@@ -2963,6 +2963,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-08-startup": {
+      "default": "2026-06-08-startup.md",
+      "locales": {
+        "ne": "2026-06-08-startup.ne.md",
+        "zh": "2026-06-08-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "夢を叶えるスタートアップの世界!",
+          "date": "2026-06-08",
+          "description": "子供たちの可能性を広げるスタートアップについて",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअप: तपाईंको सपनाको सुरुवात",
+          "date": "2026-06-08",
+          "description": "स्टार्टअप सिर्जनशीलता र उद्यमशीलताको माध्यम",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家，大大的梦想",
+          "date": "2026-06-08",
+          "description": "让孩子们了解创业的乐趣，激发他们的创造力与行动力。",
+          "tags": [
+            "创业",
+            "儿童教育",
+            "创造力",
+            "小学生"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
