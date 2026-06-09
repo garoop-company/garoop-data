@@ -3007,6 +3007,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-09-ai": {
+      "default": "2026-06-09-ai.md",
+      "locales": {
+        "ne": "2026-06-09-ai.ne.md",
+        "zh": "2026-06-09-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIの世界に飛び込もう!",
+          "date": "2026-06-09",
+          "description": "AIの魅力に触れて、未来を創る力を掴もう!",
+          "tags": [
+            "AI",
+            "教育",
+            "子ども"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI को संसार: बालबालिकाहरूको सिर्जनशीलता बढाउने",
+          "date": "2026-06-09",
+          "description": "AI सँग परिचित हुनुहोस् र आफ्नो सिर्जनशीलता बढाउनुहोस्",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "探索人工智能的奇妙世界",
+          "date": "2026-06-09",
+          "description": "卡鲁酱带你了解人工智能的基本概念，激发孩子的创造力和行动力。",
+          "tags": [
+            "人工智能",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
