@@ -2708,6 +2708,305 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-02-ai": {
+      "default": "2026-06-02-ai.md",
+      "locales": {
+        "ne": "2026-06-02-ai.ne.md",
+        "zh": "2026-06-02-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIと創造の冒険",
+          "date": "2026-06-02",
+          "description": "AIの世界で創造力を広げる",
+          "tags": [
+            "AI",
+            "創造力",
+            "教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI सँग सिर्जनशीलता",
+          "date": "2026-06-02",
+          "description": "AI को बारेमा जान्ने र सिर्जनशीलता बढाउने",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI 世界，创造无限可能",
+          "date": "2026-06-02",
+          "description": "一起探索 AI 的神奇世界，激发你的创造力与行动力",
+          "tags": [
+            "AI",
+            "创造力",
+            "小学生教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-06-03-elementary-school": {
+      "default": "2026-06-03-elementary-school.md",
+      "locales": {
+        "ne": "2026-06-03-elementary-school.ne.md",
+        "zh": "2026-06-03-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生のための夢創造ワークショップ",
+          "date": "2026-06-03",
+          "description": "小学生の可能性を広げるワクワクした体験",
+          "tags": [
+            "小学生",
+            "起業",
+            "創作",
+            "夢"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "प्राथमिक विद्यालयका बालबालिकाहरूको सिर्जनशीलता",
+          "date": "2026-06-03",
+          "description": "बालबालिकाहरूलाई सिर्जनशील बनाउने तरिकाहरू",
+          "tags": [
+            "सिर्जनशीलता",
+            "प्राथमिक विद्यालय",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "激发小学生的创造力与行动力",
+          "date": "2026-06-03",
+          "description": "让孩子们发挥想象力，激发创造力和行动力，成为未来的明星创作者！",
+          "tags": [
+            "小学生",
+            "创造力",
+            "行动力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-06-04-entrepreneurship": {
+      "default": "2026-06-04-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-06-04-entrepreneurship.ne.md",
+        "zh": "2026-06-04-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "起業の世界へようこそ！夢中になる未来を作る",
+          "date": "2026-06-04",
+          "description": "起業の基礎知識と夢中になる方法を紹介します",
+          "tags": [
+            "起業",
+            "創造性",
+            "夢中になる"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता : बालबालिकाहरूको सिर्जनशीलता र संभावना",
+          "date": "2026-06-04",
+          "description": "बालबालिकाहरूलाई उद्यमशीलता सिकाउने गरी सिर्जनशीलता र संभावना बढाउने",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家的梦想",
+          "date": "2026-06-04",
+          "description": "让孩子们从小了解创业的魅力，激发他们的创造力和行动力，共同探索创业的奇妙世界。",
+          "tags": [
+            "创业",
+            "儿童教育",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-06-05-ai": {
+      "default": "2026-06-05-ai.md",
+      "locales": {
+        "ne": "2026-06-05-ai.ne.md",
+        "zh": "2026-06-05-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIと夢を広げる！子どもたちの無限の可能性",
+          "date": "2026-06-05",
+          "description": "AIで夢を広げよう！ガルちゃんと一緒に学ぼう",
+          "tags": [
+            "AI",
+            "子どもたち",
+            "夢",
+            "可能性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI को संसार: बालबालिकाहरूको सिर्जनशीलता",
+          "date": "2026-06-05",
+          "description": "AI को बारेमा जान्नु र सिर्जनशीलता विकसित गर्नु",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "उद्यमशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI时代，激发你的创造力",
+          "date": "2026-06-05",
+          "description": "AI是我们生活中的一部分，它能帮助我们创造、学习和解决问题。让我们一起探索AI的世界，激发你的创造力和行动力吧！",
+          "tags": [
+            "AI",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-06-06-startup": {
+      "default": "2026-06-06-startup.md",
+      "locales": {
+        "ne": "2026-06-06-startup.ne.md",
+        "zh": "2026-06-06-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "夢を叶えるスタートアップの世界!",
+          "date": "2026-06-06",
+          "description": "スタートアップとは?夢を叶えるための第一歩!",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "創業"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअप: तपाईंको सपनालाई वास्तविकतामा बदल्ने यात्रा",
+          "date": "2026-06-06",
+          "description": "स्टार्टअपको बारेमा जानिन्छ, सपनालाई वास्तविकतामा बदल्ने तरिका",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "创业的魔力：激发你的梦想",
+          "date": "2026-06-06",
+          "description": "让孩子们通过创业，激发创造力，锻炼实践能力，勇敢追梦。",
+          "tags": [
+            "创业教育",
+            "孩子创造力",
+            "实践能力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-06-07-startup": {
+      "default": "2026-06-07-startup.md",
+      "locales": {
+        "ne": "2026-06-07-startup.ne.md",
+        "zh": "2026-06-07-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-06-07",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअप: बालबालिकाहरूको सपनाको सुरुवात",
+          "date": "2026-06-07",
+          "description": "बालबालिकाहरूलाई स्टार्टअप र उद्यमशीलता बारे सिकाउने",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनाशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "创业小英雄，改变世界的开始",
+          "date": "2026-06-07",
+          "description": "一起探索创业的世界，激发创造力和行动力，成为小小创业英雄",
+          "tags": [
+            "创业",
+            "儿童教育",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-06-08-startup": {
+      "default": "2026-06-08-startup.md",
+      "locales": {
+        "ne": "2026-06-08-startup.ne.md",
+        "zh": "2026-06-08-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "夢を叶えるスタートアップの世界!",
+          "date": "2026-06-08",
+          "description": "子供たちの可能性を広げるスタートアップについて",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअप: तपाईंको सपनाको सुरुवात",
+          "date": "2026-06-08",
+          "description": "स्टार्टअप सिर्जनशीलता र उद्यमशीलताको माध्यम",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家，大大的梦想",
+          "date": "2026-06-08",
+          "description": "让孩子们了解创业的乐趣，激发他们的创造力与行动力。",
+          "tags": [
+            "创业",
+            "儿童教育",
+            "创造力",
+            "小学生"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
