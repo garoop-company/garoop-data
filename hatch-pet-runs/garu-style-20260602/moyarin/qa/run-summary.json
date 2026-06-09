@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "run_dir": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin",
+  "spritesheet": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/final/spritesheet.webp",
+  "validation": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/final/validation.json",
+  "contact_sheet": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/qa/contact-sheet.webp",
+  "review": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/qa/review.json",
+  "package": "/Users/yamashitadaiki/.codex/pets/moyarin"
+}

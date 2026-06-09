@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/idle/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21803,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 249
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/idle/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21593,
+          "bbox": [
+            13,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 264
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/idle/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21747,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 243
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/idle/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21834,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 237
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/idle/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21747,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 234
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/idle/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21712,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 273
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-right/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23139,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 434
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-right/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21944,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 426
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-right/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22814,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 452
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-right/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20286,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 383
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-right/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21580,
+          "bbox": [
+            18,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 377
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-right/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21721,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 394
+        },
+        {
+          "index": 6,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-right/06.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20301,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 388
+        },
+        {
+          "index": 7,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-right/07.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20148,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 357
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-left/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21932,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 406
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-left/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21143,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 385
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-left/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21352,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 395
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-left/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21454,
+          "bbox": [
+            18,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 392
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-left/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21849,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 390
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-left/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21601,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 402
+        },
+        {
+          "index": 6,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-left/06.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19549,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 350
+        },
+        {
+          "index": 7,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running-left/07.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18634,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 358
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/waving/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21298,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/waving/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22018,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 168
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/waving/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21611,
+          "bbox": [
+            13,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 192
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/waving/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21287,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 192
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/jumping/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21778,
+          "bbox": [
+            5,
+            17,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 273
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/jumping/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22111,
+          "bbox": [
+            5,
+            5,
+            187,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 307
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/jumping/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22885,
+          "bbox": [
+            13,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 280
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/jumping/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21804,
+          "bbox": [
+            5,
+            7,
+            187,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/jumping/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20694,
+          "bbox": [
+            5,
+            21,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 245
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/failed/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24319,
+          "bbox": [
+            10,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 394
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/failed/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23539,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 397
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/failed/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20661,
+          "bbox": [
+            5,
+            26,
+            187,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 337
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/failed/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16476,
+          "bbox": [
+            5,
+            43,
+            187,
+            165
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 293
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/failed/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26020,
+          "bbox": [
+            5,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 421
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/failed/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24787,
+          "bbox": [
+            8,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 404
+        },
+        {
+          "index": 6,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/failed/06.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20558,
+          "bbox": [
+            18,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 375
+        },
+        {
+          "index": 7,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/failed/07.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20301,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 364
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/waiting/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21224,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/waiting/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20987,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 265
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/waiting/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21213,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 288
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/waiting/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21528,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 279
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/waiting/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21527,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 269
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/waiting/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21561,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 287
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21016,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 306
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21024,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 288
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20771,
+          "bbox": [
+            18,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 249
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20996,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20500,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 300
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/running/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21160,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 314
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/review/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21243,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 311
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/review/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20703,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 297
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/review/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21493,
+          "bbox": [
+            14,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 281
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/review/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20590,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 305
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/review/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21548,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 299
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/pochimaru/frames/review/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21868,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 340
+        }
+      ]
+    }
+  ]
+}

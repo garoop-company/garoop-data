@@ -1,0 +1,425 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-06-02T11:31:02.669255+00:00",
+  "run_dir": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/nyacoco",
+  "primary_generation_skill": "$imagegen",
+  "jobs": [
+    {
+      "id": "base",
+      "kind": "base-pet",
+      "status": "complete",
+      "prompt_file": "prompts/base-pet.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.webp",
+          "role": "pet reference"
+        }
+      ],
+      "output_path": "decoded/base.webp",
+      "depends_on": [],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "source_path": "/Users/yamashitadaiki/.codex/generated_images/019e92b2-5a13-72e2-af99-00227b5978ec/ig_029bb3a52f55d33c016a217578dec88191b74cd0eb70ecdce4.webp",
+      "completed_at": "2026-06-04T12:56:07Z"
+    },
+    {
+      "id": "idle",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/idle.md",
+      "retry_prompt_file": "prompts/row-retries/idle.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/idle.webp",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.webp",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/idle.webp",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.webp"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "no deterministic derivation is configured for this state"
+      },
+      "mirror_policy": {},
+      "source_path": "/Users/yamashitadaiki/.codex/generated_images/019e92b2-5a13-72e2-af99-00227b5978ec/ig_029bb3a52f55d33c016a2175f0e4348191a05304186a4876e6.webp",
+      "completed_at": "2026-06-04T13:00:33Z"
+    },
+    {
+      "id": "running-right",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running-right.md",
+      "retry_prompt_file": "prompts/row-retries/running-right.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running-right.webp",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.webp",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/running-right.webp",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.webp"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "no deterministic derivation is configured for this state"
+      },
+      "mirror_policy": {},
+      "source_path": "/Users/yamashitadaiki/.codex/generated_images/019e92b2-5a13-72e2-af99-00227b5978ec/ig_029bb3a52f55d33c016a21765ece948191b6c766417cf10095.webp",
+      "completed_at": "2026-06-04T13:00:33Z"
+    },
+    {
+      "id": "running-left",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running-left.md",
+      "retry_prompt_file": "prompts/row-retries/running-left.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running-left.webp",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.webp",
+          "role": "canonical identity reference"
+        },
+        {
+          "path": "decoded/running-right.webp",
+          "role": "rightward gait reference for leftward row decision"
+        }
+      ],
+      "output_path": "decoded/running-left.webp",
+      "depends_on": [
+        "base",
+        "running-right"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.webp"
+      ],
+      "parallelizable_after": [
+        "base",
+        "running-right"
+      ],
+      "derivation_policy": {
+        "may_derive": true,
+        "may_derive_from": "running-right",
+        "derivation": "framewise-horizontal-mirror-preserving-order",
+        "requires_explicit_approval": true,
+        "fallback_generation_skill": "$imagegen"
+      },
+      "mirror_policy": {
+        "may_derive": true,
+        "may_derive_from": "running-right",
+        "derivation": "framewise-horizontal-mirror-preserving-order",
+        "requires_explicit_approval": true,
+        "fallback_generation_skill": "$imagegen"
+      },
+      "source_path": "/Users/yamashitadaiki/.codex/generated_images/019e92b2-5a13-72e2-af99-00227b5978ec/ig_029bb3a52f55d33c016a217a66dcc4819189d5d2bada745de2.webp",
+      "derived_from": "running-right",
+      "completed_at": "2026-06-04T13:17:52Z",
+      "metadata": {
+        "width": 1731,
+        "height": 909,
+        "mode": "RGBA",
+        "format": "PNG"
+      },
+      "mirror_decision": {
+        "approved": true,
+        "approved_at": "2026-06-04T13:00:43.956311+00:00",
+        "note": "Nyacoco has no readable text, logo, side-specific markings, or direction-sensitive props; framewise mirroring preserves identity while producing the required leftward drag row.",
+        "transform": "framewise-horizontal-mirror-preserving-order"
+      },
+      "repair_note": "Generated normally after mirrored row showed clipped frame during visual QA."
+    },
+    {
+      "id": "waving",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/waving.md",
+      "retry_prompt_file": "prompts/row-retries/waving.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/waving.webp",
+          "role": "layout guide for 4 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.webp",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/waving.webp",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.webp"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/Users/yamashitadaiki/.codex/generated_images/019e92b2-5a13-72e2-af99-00227b5978ec/ig_029bb3a52f55d33c016a217701fe908191839d67a0ed0243df.webp",
+      "completed_at": "2026-06-04T13:12:31Z"
+    },
+    {
+      "id": "jumping",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/jumping.md",
+      "retry_prompt_file": "prompts/row-retries/jumping.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/jumping.webp",
+          "role": "layout guide for 5 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.webp",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/jumping.webp",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.webp"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/Users/yamashitadaiki/.codex/generated_images/019e92b2-5a13-72e2-af99-00227b5978ec/ig_029bb3a52f55d33c016a21777abcf48191af3e7fb312132222.webp",
+      "completed_at": "2026-06-04T13:12:31Z"
+    },
+    {
+      "id": "failed",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/failed.md",
+      "retry_prompt_file": "prompts/row-retries/failed.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/failed.webp",
+          "role": "layout guide for 8 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.webp",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/failed.webp",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.webp"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/Users/yamashitadaiki/.codex/generated_images/019e92b2-5a13-72e2-af99-00227b5978ec/ig_029bb3a52f55d33c016a2177ee1cf0819191f67a00e79d2d1e.webp",
+      "completed_at": "2026-06-04T13:12:31Z"
+    },
+    {
+      "id": "waiting",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/waiting.md",
+      "retry_prompt_file": "prompts/row-retries/waiting.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/waiting.webp",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.webp",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/waiting.webp",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.webp"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/Users/yamashitadaiki/.codex/generated_images/019e92b2-5a13-72e2-af99-00227b5978ec/ig_029bb3a52f55d33c016a21784dafc481918e354bed73a3e33b.webp",
+      "completed_at": "2026-06-04T13:12:31Z"
+    },
+    {
+      "id": "running",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/running.md",
+      "retry_prompt_file": "prompts/row-retries/running.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/running.webp",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.webp",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/running.webp",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.webp"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/Users/yamashitadaiki/.codex/generated_images/019e92b2-5a13-72e2-af99-00227b5978ec/ig_029bb3a52f55d33c016a2178a6f5308191b23a75cecdb22626.webp",
+      "completed_at": "2026-06-04T13:12:31Z"
+    },
+    {
+      "id": "review",
+      "kind": "row-strip",
+      "status": "complete",
+      "prompt_file": "prompts/rows/review.md",
+      "retry_prompt_file": "prompts/row-retries/review.md",
+      "input_images": [
+        {
+          "path": "references/reference-01.webp",
+          "role": "pet reference"
+        },
+        {
+          "path": "references/layout-guides/review.webp",
+          "role": "layout guide for 6 frame slots; use for spacing only, do not copy guide lines"
+        },
+        {
+          "path": "references/canonical-base.webp",
+          "role": "canonical identity reference"
+        }
+      ],
+      "output_path": "decoded/review.webp",
+      "depends_on": [
+        "base"
+      ],
+      "generation_skill": "$imagegen",
+      "requires_grounded_generation": true,
+      "allow_prompt_only_generation": false,
+      "identity_reference_paths": [
+        "references/canonical-base.webp"
+      ],
+      "parallelizable_after": [
+        "base"
+      ],
+      "derivation_policy": {
+        "may_derive": false,
+        "reason": "state requires its own generated animation semantics"
+      },
+      "mirror_policy": {},
+      "source_path": "/Users/yamashitadaiki/.codex/generated_images/019e92b2-5a13-72e2-af99-00227b5978ec/ig_029bb3a52f55d33c016a2178ec4f248191b187e065a5efbc40.webp",
+      "completed_at": "2026-06-04T13:12:31Z"
+    }
+  ]
+}

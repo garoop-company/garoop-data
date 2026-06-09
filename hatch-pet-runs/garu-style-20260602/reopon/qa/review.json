@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/idle/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21592,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/idle/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20704,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/idle/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20864,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 151
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/idle/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20857,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 166
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/idle/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20997,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/idle/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21047,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 151
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-right/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19438,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 374
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-right/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20202,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 377
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-right/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19431,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 317
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-right/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19522,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 378
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-right/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19700,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 347
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-right/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18480,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 364
+        },
+        {
+          "index": 6,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-right/06.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19905,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 389
+        },
+        {
+          "index": 7,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-right/07.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20274,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 399
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-left/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19438,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 374
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-left/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20202,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 377
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-left/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19431,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 317
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-left/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19522,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 378
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-left/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19700,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 347
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-left/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18480,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 364
+        },
+        {
+          "index": 6,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-left/06.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19783,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 388
+        },
+        {
+          "index": 7,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running-left/07.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20274,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 399
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/waving/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23987,
+          "bbox": [
+            16,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/waving/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23564,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/waving/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23782,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 43
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/waving/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23674,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/jumping/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20268,
+          "bbox": [
+            5,
+            26,
+            187,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 80
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/jumping/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24621,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 128
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/jumping/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25911,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/jumping/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25542,
+          "bbox": [
+            10,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 129
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/jumping/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25752,
+          "bbox": [
+            7,
+            5,
+            185,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 132
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/failed/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22830,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 322
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/failed/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23955,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 335
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/failed/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23331,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 341
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/failed/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23517,
+          "bbox": [
+            5,
+            12,
+            187,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 379
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/failed/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22870,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 342
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/failed/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22705,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 309
+        },
+        {
+          "index": 6,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/failed/06.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26373,
+          "bbox": [
+            6,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 380
+        },
+        {
+          "index": 7,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/failed/07.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19061,
+          "bbox": [
+            5,
+            31,
+            187,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 307
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/waiting/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21885,
+          "bbox": [
+            16,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 259
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/waiting/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21547,
+          "bbox": [
+            23,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 265
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/waiting/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21558,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/waiting/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21405,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 242
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/waiting/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21999,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/waiting/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21972,
+          "bbox": [
+            17,
+            5,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 258
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20745,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 237
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20333,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 228
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21078,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 225
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20800,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 224
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20483,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 236
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/running/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20804,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/review/00.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21276,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        },
+        {
+          "index": 1,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/review/01.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20602,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 238
+        },
+        {
+          "index": 2,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/review/02.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20913,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        },
+        {
+          "index": 3,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/review/03.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20797,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 205
+        },
+        {
+          "index": 4,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/review/04.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20550,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 5,
+          "file": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/reopon/frames/review/05.webp",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21182,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 229
+        }
+      ]
+    }
+  ]
+}

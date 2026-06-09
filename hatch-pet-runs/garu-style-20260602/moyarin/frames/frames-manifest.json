@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/idle/00.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/idle/01.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/idle/02.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/idle/03.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/idle/04.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/idle/05.webp"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-right/00.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-right/01.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-right/02.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-right/03.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-right/04.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-right/05.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-right/06.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-right/07.webp"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-left/00.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-left/01.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-left/02.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-left/03.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-left/04.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-left/05.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-left/06.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running-left/07.webp"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/waving/00.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/waving/01.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/waving/02.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/waving/03.webp"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/jumping/00.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/jumping/01.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/jumping/02.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/jumping/03.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/jumping/04.webp"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/failed/00.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/failed/01.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/failed/02.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/failed/03.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/failed/04.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/failed/05.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/failed/06.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/failed/07.webp"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/waiting/00.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/waiting/01.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/waiting/02.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/waiting/03.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/waiting/04.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/waiting/05.webp"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running/00.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running/01.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running/02.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running/03.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running/04.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/running/05.webp"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/review/00.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/review/01.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/review/02.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/review/03.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/review/04.webp",
+        "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/moyarin/frames/review/05.webp"
+      ],
+      "method": "components"
+    }
+  ]
+}

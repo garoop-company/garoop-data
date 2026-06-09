@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for Codex pet Pochimaru.
+
+Pet identity: pink puppy mascot with floppy ears, cream muzzle and belly, wagging short tail. Reference style lock: soft pastel pink base, deep rose thick rounded outlines, huge glossy round eyes with white star highlights, rosy cheeks, cream-white muzzle/chest/belly accents, plush baby proportions, cute front-facing mascot, clean whole-body sprite, no black background, no shadow.. Japanese display concept: ぽちまる: ころころした子犬。しっぽをふって作業を応援する、甘えんぼ番犬。.
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Reference style lock: soft pastel pink base, deep rose thick rounded outlines, huge glossy round eyes with white star highlights, rosy cheeks, cream-white muzzle/chest/belly accents, plush baby proportions, cute front-facing mascot, clean whole-body sprite, no black background, no shadow..
+
+
+Place a single centered pose on a perfectly flat pure green #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.

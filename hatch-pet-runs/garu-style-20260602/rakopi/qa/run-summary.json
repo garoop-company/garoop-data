@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "run_dir": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/rakopi",
+  "spritesheet": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/rakopi/final/spritesheet.webp",
+  "validation": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/rakopi/final/validation.json",
+  "contact_sheet": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/rakopi/qa/contact-sheet.webp",
+  "review": "/Users/yamashitadaiki/git_work/garoop-data/hatch-pet-runs/garu-style-20260602/rakopi/qa/review.json",
+  "package": "/Users/yamashitadaiki/.codex/pets/rakopi"
+}
