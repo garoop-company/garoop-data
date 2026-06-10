@@ -62,7 +62,7 @@
         },
         "taskPool": [
             {
-                "text": "会計処理",
+                "text": "会計設計",
                 "mood": "FOCUSED"
             },
             {
@@ -95,7 +95,7 @@
                 "mood": "CREATIVE"
             },
             {
-                "text": "法令遵守",
+                "text": "組織づくり",
                 "mood": "OFF"
             }
         ]
@@ -140,11 +140,11 @@
         "taskPool": [
             {
                 "text": "モデリング",
-                "mood": "CREATIVE"
+                "mood": "FOCUSED"
             },
             {
                 "text": "表現力",
-                "mood": "FOCUSED"
+                "mood": "CREATIVE"
             },
             {
                 "text": "ビジュアル表現",
@@ -424,12 +424,12 @@
         },
         "taskPool": [
             {
-                "text": "デザイン作業",
-                "mood": "CREATIVE"
+                "text": "デザインレビュー",
+                "mood": "FOCUSED"
             },
             {
                 "text": "ビジュアルデザイン",
-                "mood": "FOCUSED"
+                "mood": "CREATIVE"
             },
             {
                 "text": "ブランディング",
@@ -453,11 +453,11 @@
                 "mood": "FOCUSED"
             },
             {
-                "text": "アプリ開発",
+                "text": "AI/ML",
                 "mood": "CREATIVE"
             },
             {
-                "text": "テスト",
+                "text": "クラウドアーキテクチャ",
                 "mood": "OFF"
             }
         ]
@@ -474,15 +474,15 @@
         },
         "taskPool": [
             {
-                "text": "マーケティング戦略",
+                "text": "デジタルマーケティング",
                 "mood": "FOCUSED"
             },
             {
-                "text": "コンテンツ作成",
+                "text": "グロースハック",
                 "mood": "CREATIVE"
             },
             {
-                "text": "データ分析",
+                "text": "コンテンツ戦略",
                 "mood": "OFF"
             }
         ]
