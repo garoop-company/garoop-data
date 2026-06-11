@@ -1,0 +1,77 @@
+{
+  "id": "tsunomaru",
+  "displayName": "Tsunomaru",
+  "japaneseName": "つのまる",
+  "description": "つのまる: 小さな角の鬼っこ。怖がらせるより仲良くするのが好きで、豆まきの日は豆を配る係。",
+  "spritesheetPath": "spritesheet.webp",
+  "spritesheetUrl": "/hatch-pets/tsunomaru/spritesheet.webp",
+  "contactSheetPath": "contact-sheet.webp",
+  "contactSheetUrl": "/hatch-pets/tsunomaru/contact-sheet.webp",
+  "validationPath": "validation.json",
+  "validationUrl": "/hatch-pets/tsunomaru/validation.json",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "calm resting, breathing, and blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward drag movement loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward drag movement loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting or attention gesture"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "hover or playful jump"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "blocked, failed, or cancelled reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "waiting for approval, help, or user input"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "active task work or processing"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "ready or completed output review"
+    }
+  ],
+  "sourceRun": "hatch-pet-runs/garu-style-20260602/tsunomaru"
+}

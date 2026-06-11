@@ -1,0 +1,147 @@
+{
+  "count": 13,
+  "pets": [
+    {
+      "id": "chikurin",
+      "displayName": "Chikurin",
+      "japaneseName": "ちくりん",
+      "description": "ちくりん: 小さな背中の針までふわふわピンクなハリネズミ。森のおやつ探しが得意で、照れると針が花びらみたいに丸まる。",
+      "petUrl": "/hatch-pets/chikurin/pet.json",
+      "spritesheetUrl": "/hatch-pets/chikurin/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/chikurin/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/chikurin/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/chikurin"
+    },
+    {
+      "id": "coamo",
+      "displayName": "Coamo",
+      "japaneseName": "こあも",
+      "description": "こあも: 眠そうなコアラ。ふわふわ耳と白いお腹で、休憩のタイミングを教えてくれる。",
+      "petUrl": "/hatch-pets/coamo/pet.json",
+      "spritesheetUrl": "/hatch-pets/coamo/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/coamo/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/coamo/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/coamo"
+    },
+    {
+      "id": "garuchan-spy",
+      "displayName": "ガルちゃん",
+      "description": "お腹に赤ちゃんがいるピンクのかわいいガルちゃん。スパイ映画で使うCodex petモーション。",
+      "petUrl": "/hatch-pets/garuchan-spy/pet.json",
+      "spritesheetUrl": "/hatch-pets/garuchan-spy/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/garuchan-spy/contact-sheet.png",
+      "validationUrl": "/hatch-pets/garuchan-spy/validation.json",
+      "sourceRun": "hatch-pet-runs/garuchan-spy"
+    },
+    {
+      "id": "kawarun",
+      "displayName": "Kawarun",
+      "japaneseName": "かわるん",
+      "description": "かわるん: すばしっこいカワウソ。流れに合わせてくるっと方向転換する、元気な相棒。",
+      "petUrl": "/hatch-pets/kawarun/pet.json",
+      "spritesheetUrl": "/hatch-pets/kawarun/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/kawarun/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/kawarun/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/kawarun"
+    },
+    {
+      "id": "kooron",
+      "displayName": "Kooron",
+      "japaneseName": "こおろん",
+      "description": "こおろん: ちいさなコオロギ。音符のかわりにぴょんぴょん跳ねて、夜の作業を静かに応援する。",
+      "petUrl": "/hatch-pets/kooron/pet.json",
+      "spritesheetUrl": "/hatch-pets/kooron/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/kooron/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/kooron/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/kooron"
+    },
+    {
+      "id": "mimiru",
+      "displayName": "Mimiru",
+      "japaneseName": "みみる",
+      "description": "みみる: 長い耳に白いふわ毛を持つうさぎ。お願いごとを聞くのが好きな、のんびり屋。",
+      "petUrl": "/hatch-pets/mimiru/pet.json",
+      "spritesheetUrl": "/hatch-pets/mimiru/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/mimiru/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/mimiru/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/mimiru"
+    },
+    {
+      "id": "moyarin",
+      "displayName": "Moyarin",
+      "japaneseName": "もやりん",
+      "description": "もやりん: ふわっとした雲みたいな妖怪。困った気持ちを吸って、やさしい空気に変える。",
+      "petUrl": "/hatch-pets/moyarin/pet.json",
+      "spritesheetUrl": "/hatch-pets/moyarin/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/moyarin/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/moyarin/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/moyarin"
+    },
+    {
+      "id": "nyacoco",
+      "displayName": "Nyacoco",
+      "japaneseName": "にゃここ",
+      "description": "にゃここ: 星目が自慢の子猫。気になるものを前足でちょんと確認する、好奇心いっぱいの案内役。",
+      "petUrl": "/hatch-pets/nyacoco/pet.json",
+      "spritesheetUrl": "/hatch-pets/nyacoco/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/nyacoco/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/nyacoco/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/nyacoco"
+    },
+    {
+      "id": "pochimaru",
+      "displayName": "Pochimaru",
+      "japaneseName": "ぽちまる",
+      "description": "ぽちまる: ころころした子犬。しっぽをふって作業を応援する、甘えんぼ番犬。",
+      "petUrl": "/hatch-pets/pochimaru/pet.json",
+      "spritesheetUrl": "/hatch-pets/pochimaru/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/pochimaru/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/pochimaru/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/pochimaru"
+    },
+    {
+      "id": "rakopi",
+      "displayName": "Rakopi",
+      "japaneseName": "らこぴ",
+      "description": "らこぴ: 貝をだっこするラッコ。お気に入りを大切にしまう、ぷかぷか気分の癒し係。",
+      "petUrl": "/hatch-pets/rakopi/pet.json",
+      "spritesheetUrl": "/hatch-pets/rakopi/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/rakopi/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/rakopi/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/rakopi"
+    },
+    {
+      "id": "reopon",
+      "displayName": "Reopon",
+      "japaneseName": "れおぽん",
+      "description": "れおぽん: ふわふわのたてがみがハートみたいなライオン。勇気をくれるけれど声はとてもやさしい。",
+      "petUrl": "/hatch-pets/reopon/pet.json",
+      "spritesheetUrl": "/hatch-pets/reopon/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/reopon/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/reopon/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/reopon"
+    },
+    {
+      "id": "suzupi",
+      "displayName": "Suzupi",
+      "japaneseName": "すずぴ",
+      "description": "すずぴ: 桜色の羽を持つ雀。小さな羽で一生懸命あいさつする、朝の見守り係。",
+      "petUrl": "/hatch-pets/suzupi/pet.json",
+      "spritesheetUrl": "/hatch-pets/suzupi/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/suzupi/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/suzupi/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/suzupi"
+    },
+    {
+      "id": "tsunomaru",
+      "displayName": "Tsunomaru",
+      "japaneseName": "つのまる",
+      "description": "つのまる: 小さな角の鬼っこ。怖がらせるより仲良くするのが好きで、豆まきの日は豆を配る係。",
+      "petUrl": "/hatch-pets/tsunomaru/pet.json",
+      "spritesheetUrl": "/hatch-pets/tsunomaru/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/tsunomaru/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/tsunomaru/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20260602/tsunomaru"
+    }
+  ]
+}

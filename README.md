@@ -13,6 +13,19 @@
 
 `public/master/company.json` を置くと、`/master/company.json` で公開されます。
 
+## Hatch Pets
+
+`hatch-pet-runs/` の完成済みペットは、公開用に整形して `public/hatch-pets/` へ同期します。
+
+```bash
+npm run publish:hatch-pets
+```
+
+- 一覧: `/hatch-pets/index.json`
+- 各ペット: `/hatch-pets/<pet-id>/pet.json`
+- スプライト: `/hatch-pets/<pet-id>/spritesheet.webp`
+- 確認用シート: `/hatch-pets/<pet-id>/contact-sheet.webp`
+
 ## 開発
 
 ```bash
