@@ -2606,6 +2606,7 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         },
         "ne": {
+          "title": "कंगारु: स्वाभिमानी जीवनको प्रेरणा",
           "date": "2026-05-30",
           "tags": [
             "कंगारु",
@@ -3043,6 +3044,48 @@
           "description": "卡鲁酱带你了解人工智能的基本概念，激发孩子的创造力和行动力。",
           "tags": [
             "人工智能",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-06-10-ai": {
+      "default": "2026-06-10-ai.md",
+      "locales": {
+        "ne": "2026-06-10-ai.ne.md",
+        "zh": "2026-06-10-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIの世界で夢を探そう！",
+          "date": "2026-06-10",
+          "description": "AIの魅力と可能性を探る",
+          "tags": [
+            "AI",
+            "教育",
+            "子供向け"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI सँग सिर्जनशीलता",
+          "date": "2026-06-10",
+          "description": "AI को प्रयोग बालबालिकाहरूले कस्तो गर्न सक्छन्?",
+          "tags": [
+            "AI",
+            "सिर्जनशिलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI的奇妙世界",
+          "date": "2026-06-10",
+          "description": "一起探索AI的神奇世界，发现创造力与行动力的无限潜力",
+          "tags": [
+            "AI",
             "创造力",
             "儿童教育"
           ],
