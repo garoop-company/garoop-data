@@ -3305,6 +3305,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-16-elementary-school": {
+      "default": "2026-06-16-elementary-school.md",
+      "locales": {
+        "ne": "2026-06-16-elementary-school.ne.md",
+        "zh": "2026-06-16-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-06-16",
+          "tags": [
+            "小学生",
+            "創造性",
+            "起業"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "प्राथमिक विद्यालयका बालबालिकाहरूलाई सिर्जनशीलता बढाउने कुरा",
+          "date": "2026-06-16",
+          "description": "बालबालिकाहरूलाई सिर्जनशीलता बढाउने टिप्स",
+          "tags": [
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "प्राथमिक विद्यालय",
+            "सिकाई"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小学生的创造力大爆发",
+          "date": "2026-06-16",
+          "description": "激发小学生的创造力和行动力，从小做梦想家",
+          "tags": [
+            "小学生",
+            "创造力",
+            "行动力",
+            "梦想家"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
