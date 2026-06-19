@@ -3428,6 +3428,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-19-future-education": {
+      "default": "2026-06-19-future-education.md",
+      "locales": {
+        "ne": "2026-06-19-future-education.ne.md",
+        "zh": "2026-06-19-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-06-19",
+          "tags": [
+            "未来の教育",
+            "子供たち",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा",
+          "date": "2026-06-19",
+          "description": "भविष्यको शिक्षा सँग सम्बन्धित जानकारी",
+          "tags": [
+            "भविष्यको शिक्षा",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "解锁未来教育的钥匙：激发创造力与行动力",
+          "date": "2026-06-19",
+          "description": "未来的教育不仅仅是书本知识，还要激发孩子的创造力与行动力。一起探索未来教育的魅力吧！",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "行动力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
