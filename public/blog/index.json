@@ -3471,6 +3471,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-20-ai": {
+      "default": "2026-06-20-ai.md",
+      "locales": {
+        "ne": "2026-06-20-ai.ne.md",
+        "zh": "2026-06-20-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIの世界で夢をつかめ!",
+          "date": "2026-06-20",
+          "description": "AIの基礎から応用例まで、子供たちがワクワクするAIの魅力!",
+          "tags": [
+            "AI",
+            "子供たち",
+            "創造性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI को संसारमा स्वागत !",
+          "date": "2026-06-20",
+          "description": "AI को बारेमा जान्ने गरो !",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI的小助手：激发你的创造力与行动力",
+          "date": "2026-06-20",
+          "description": "了解AI的基本概念和应用，激发孩子的创造力与行动力，探索AI小助手的世界。",
+          "tags": [
+            "AI",
+            "创造力",
+            "小学生"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
