@@ -3513,6 +3513,51 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-21-elementary-school": {
+      "default": "2026-06-21-elementary-school.md",
+      "locales": {
+        "ne": "2026-06-21-elementary-school.ne.md",
+        "zh": "2026-06-21-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生の夢を広げる！ワクワクした取り組み",
+          "date": "2026-06-21",
+          "description": "小学生の可能性を広げるには、夢を追うことが大切です。",
+          "tags": [
+            "小学生",
+            "梦中友",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिकाहरूको सिर्जनशीलता र उद्यमशीलता",
+          "date": "2026-06-21",
+          "description": "प्राथमिक विद्यालयका बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलता सिकाउने",
+          "tags": [
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका",
+            "प्राथमिक विद्यालय"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "激发小学生的创造力与行动力",
+          "date": "2026-06-21",
+          "description": "让孩子们成为有创造力和行动力的未来领袖，通过实践和学习让他们展翅飞翔。",
+          "tags": [
+            "小学生",
+            "创造力",
+            "行动力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
