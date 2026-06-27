@@ -3773,6 +3773,46 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-27-single-mother": {
+      "default": "2026-06-27-single-mother.md",
+      "locales": {
+        "ne": "2026-06-27-single-mother.ne.md",
+        "zh": "2026-06-27-single-mother.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-06-27",
+          "tags": [
+            "シングルマザー",
+            "創業",
+            "起業",
+            "小学生"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "एकल आमा: साहस र सिम्रणशीलता",
+          "date": "2026-06-27",
+          "description": "एकल आमाहरूले बालबालिकाहरूलाई कसरी सिर्जनशील बनाउने?",
+          "tags": [
+            "एकल आमा",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "साहस"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "date": "2026-06-27",
+          "tags": [
+            "单亲妈妈",
+            "家庭关爱",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
