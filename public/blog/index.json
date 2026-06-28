@@ -3813,6 +3813,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-28-ai": {
+      "default": "2026-06-28-ai.md",
+      "locales": {
+        "ne": "2026-06-28-ai.ne.md",
+        "zh": "2026-06-28-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-06-28",
+          "tags": [
+            "AI",
+            "創造性",
+            "子どもたち",
+            "未来"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI को संसार: बालबालिकाहरूको सिर्जनशीलता र सम्भावना",
+          "date": "2026-06-28",
+          "description": "AI को बारेमा जानेर बालबालिकाहरू कस्ता लाभान्वित हुन्छन्?",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "संसार"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "解锁AI的神奇世界",
+          "date": "2026-06-28",
+          "description": "一起探索AI的奇妙世界，激发创造力和行动力",
+          "tags": [
+            "AI",
+            "儿童教育",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
