@@ -3855,6 +3855,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-29-kangaroo": {
+      "default": "2026-06-29-kangaroo.md",
+      "locales": {
+        "ne": "2026-06-29-kangaroo.ne.md",
+        "zh": "2026-06-29-kangaroo.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-06-29",
+          "tags": [
+            "カンガルー",
+            "可能性",
+            "夢追い",
+            "学習"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "कंगारु: सिर्जनशीलता र उद्यमशीलताको प्रेरणा",
+          "date": "2026-06-29",
+          "description": "कंगारु सँग सम्बन्धित रोचक कुरा र सिर्जनशीलता बढाउने प्रेरणा",
+          "tags": [
+            "कंगारु",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "प्राथमिक विद्यालय"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "袋鼠的奇妙世界",
+          "date": "2026-06-29",
+          "description": "今天我们将探索袋鼠的奇妙世界，了解它们的习性和特点，激发孩子们的创造力和行动力。",
+          "tags": [
+            "袋鼠",
+            "创造力",
+            "动物奇观"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
