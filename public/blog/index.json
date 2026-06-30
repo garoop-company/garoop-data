@@ -3897,6 +3897,45 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-06-30-future-education": {
+      "default": "2026-06-30-future-education.md",
+      "locales": {
+        "ne": "2026-06-30-future-education.ne.md",
+        "zh": "2026-06-30-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-06-30",
+          "tags": [
+            "未来の教育",
+            "教育",
+            "子供たち"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा",
+          "date": "2026-06-30",
+          "description": "भविष्यको शिक्षामा बालबालिकाहरूको सम्भावना र सिर्जनशीलता",
+          "tags": [
+            "भविष्यको शिक्षा",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "उद्यमशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "date": "2026-06-30",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "儿童发展"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
