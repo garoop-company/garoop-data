@@ -3936,6 +3936,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-01-children": {
+      "default": "2026-07-01-children.md",
+      "locales": {
+        "ne": "2026-07-01-children.ne.md",
+        "zh": "2026-07-01-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "子供の夢を叶える魔法",
+          "date": "2026-07-01",
+          "description": "子供の可能性を引き出す方法",
+          "tags": [
+            "子供",
+            "教育",
+            "夢",
+            "可能性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिका हुनु भनेको के हो?",
+          "date": "2026-07-01",
+          "description": "बालबालिकाहरूको सम्भावना र सिर्जनशीलता बढाउने प्रेरणादायी कुरा",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनशीलता",
+            "सम्भावना",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "date": "2026-07-01",
+          "tags": [
+            "孩子",
+            "创造力",
+            "教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
