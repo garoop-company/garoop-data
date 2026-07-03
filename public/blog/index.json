@@ -4019,6 +4019,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-03-creation": {
+      "default": "2026-07-03-creation.md",
+      "locales": {
+        "ne": "2026-07-03-creation.ne.md",
+        "zh": "2026-07-03-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作の世界で夢を追いこう！",
+          "date": "2026-07-03",
+          "description": "創作は何たりともできるかもしれない！子供たちの可能性を広げる創作の魅力について",
+          "tags": [
+            "創作",
+            "子供たち",
+            "起業",
+            "可能性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जना: बालबालिकाहरूको शक्ति",
+          "date": "2026-07-03",
+          "description": "बालबालिकाहरूलाई सिर्जना सिकाउने",
+          "tags": [
+            "सिर्जना",
+            "बालबालिका",
+            "सिकै",
+            "GaroopTV"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "点燃创造力的火花",
+          "date": "2026-07-03",
+          "description": "让孩子们发掘自己的创造力，激发想象力和行动力，成就独特的创作之旅。",
+          "tags": [
+            "创作",
+            "孩子创造力",
+            "艺术教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
