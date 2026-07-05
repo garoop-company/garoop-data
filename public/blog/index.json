@@ -4105,6 +4105,45 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-05-kangaroo": {
+      "default": "2026-07-05-kangaroo.md",
+      "locales": {
+        "ne": "2026-07-05-kangaroo.ne.md",
+        "zh": "2026-07-05-kangaroo.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "カンガルーのすばらしさに会ってみよう！",
+          "date": "2026-07-05",
+          "description": "カンガルーは面白い動物です。この記事ではカンガルーについて紹介します。",
+          "tags": [
+            "カンガルー",
+            "動物",
+            "自然"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "date": "2026-07-05",
+          "tags": [
+            "कंगारु",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "date": "2026-07-05",
+          "tags": [
+            "袋鼠",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
