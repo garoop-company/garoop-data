@@ -4144,6 +4144,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-06-entrepreneurship": {
+      "default": "2026-07-06-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-07-06-entrepreneurship.ne.md",
+        "zh": "2026-07-06-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "子供の夢を起業でかなえる！ガルちゃんと一緒に挑戦しよう",
+          "date": "2026-07-06",
+          "description": "起業で子供の可能性を広げよう。ガルちゃんと一緒に夢をかなえる方法を学ぼう",
+          "tags": [
+            "起業",
+            "子供",
+            "夢"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता : बालबालिकाहरूको सिमरनशीलता",
+          "date": "2026-07-06",
+          "description": "उद्यमशीलता सँग सम्बन्धित बालबालिकाको सम्भावना र सिर्जनशीलता",
+          "tags": [
+            "उद्यमशीलता",
+            "बालबालिका",
+            "सिर्जनशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家，让梦想成真！",
+          "date": "2026-07-06",
+          "description": "让孩子们发现创业的乐趣，激发他们的创造力与行动力。",
+          "tags": [
+            "创业",
+            "创造力",
+            "小学生"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
