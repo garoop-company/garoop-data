@@ -4312,6 +4312,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-10-single-mother": {
+      "default": "2026-07-10-single-mother.md",
+      "locales": {
+        "ne": "2026-07-10-single-mother.ne.md",
+        "zh": "2026-07-10-single-mother.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "ガルちゃんのワクワク話！シングルマザーって何？",
+          "date": "2026-07-10",
+          "description": "ガルちゃんがシングルマザーについて話します。",
+          "tags": [
+            "シングルマザー",
+            "家族",
+            "子育て"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "एकल आमा र बालबालिकाको सिर्जनशीलता",
+          "date": "2026-07-10",
+          "description": "एकल आमा कस्ता छन् र के गर्छन्? आइदियूबाट जानौ।",
+          "tags": [
+            "एकल आमा",
+            "बालबालिका",
+            "सिर्जनशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "单亲妈妈的爱：激发孩子的创造力与行动力",
+          "date": "2026-07-10",
+          "description": "了解单亲妈妈的爱和奋斗，激发孩子的创造力和行动力，发现成长的力量和可能。",
+          "tags": [
+            "单亲妈妈",
+            "创造力",
+            "行动力",
+            "家庭教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
