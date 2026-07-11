@@ -4355,6 +4355,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-11-children": {
+      "default": "2026-07-11-children.md",
+      "locales": {
+        "ne": "2026-07-11-children.ne.md",
+        "zh": "2026-07-11-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "夢を叶えるための最初のステップ",
+          "date": "2026-07-11",
+          "description": "子供の可能性を広げるためのワクワクした話",
+          "tags": [
+            "子供",
+            "教育",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिकाहरू: उदयीमान सिर्जनशीलता",
+          "date": "2026-07-11",
+          "description": "बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलता सिकाउने",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "解锁孩子的创造力",
+          "date": "2026-07-11",
+          "description": "孩子的创造力是无限的，如何激发他们的创造力和行动力，是每个家长和教育者都关心的问题。",
+          "tags": [
+            "孩子",
+            "创造力",
+            "教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
