@@ -4439,6 +4439,45 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-13-single-mother": {
+      "default": "2026-07-13-single-mother.md",
+      "locales": {
+        "ne": "2026-07-13-single-mother.ne.md",
+        "zh": "2026-07-13-single-mother.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "シングルママのすごい力！夢をかなえるために",
+          "date": "2026-07-13",
+          "description": "シングルマザーが夢をかなえるために必要な力とは？一緒に探索しよう！",
+          "tags": [
+            "シングルマザー",
+            "夢",
+            "可能性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "date": "2026-07-13",
+          "tags": [
+            "एकल आमा",
+            "बालबालिका",
+            "सिर्जनशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "date": "2026-07-13",
+          "tags": [
+            "单亲妈妈",
+            "创造力",
+            "家庭"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
