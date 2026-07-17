@@ -4607,6 +4607,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-17-creation": {
+      "default": "2026-07-17-creation.md",
+      "locales": {
+        "ne": "2026-07-17-creation.ne.md",
+        "zh": "2026-07-17-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作の冒険にようこそ！",
+          "date": "2026-07-17",
+          "description": "創作の世界で夢を追っていきましょう",
+          "tags": [
+            "創作",
+            "起業",
+            "教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जना र बालबालिकाहरु",
+          "date": "2026-07-17",
+          "description": "बालबालिकाहरुमा सिर्जनशीलता बढाउने कुरा",
+          "tags": [
+            "सिर्जनशीलता",
+            "बालबालिकाहरु",
+            "उद्यमशीलता",
+            "स्टार्टअप"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "创作的魔力：解锁你的想象力",
+          "date": "2026-07-17",
+          "description": "创作是让想象力变成现实的途径，通过艺术、音乐、写作和探索，孩子们可以发展自己的创造力并获得成就感。",
+          "tags": [
+            "创作",
+            "想象力",
+            "儿童教育",
+            "自我表现"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
