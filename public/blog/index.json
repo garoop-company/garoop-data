@@ -4651,6 +4651,51 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-18-elementary-school": {
+      "default": "2026-07-18-elementary-school.md",
+      "locales": {
+        "ne": "2026-07-18-elementary-school.ne.md",
+        "zh": "2026-07-18-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生の可能性を広げる！夢に向かって一歩踏み出す",
+          "date": "2026-07-18",
+          "description": "小学生のためのスタートアップや創作について学ぶ",
+          "tags": [
+            "小学生",
+            "スタートアップ",
+            "創作",
+            "起業"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जनशीलता र उद्यमशीलताको संसारमा स्वागत",
+          "date": "2026-07-18",
+          "description": "बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलता सिकाउने",
+          "tags": [
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "解锁小学生的创造力和行动力",
+          "date": "2026-07-18",
+          "description": "如何激发小学生的创造力和行动力？通过简单而有趣的方式，孩子们可以发展自己的想象力和实践能力，成为更加自信和积极的自己。",
+          "tags": [
+            "小学生",
+            "创造力",
+            "行动力",
+            "教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
