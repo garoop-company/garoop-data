@@ -4696,6 +4696,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-19-entrepreneurship": {
+      "default": "2026-07-19-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-07-19-entrepreneurship.ne.md",
+        "zh": "2026-07-19-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生起業家への道!",
+          "date": "2026-07-19",
+          "description": "起業の魅力を孩子たちに伝える",
+          "tags": [
+            "起業",
+            "小学生",
+            "創造性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता : बालबालिकाको सपना साकार",
+          "date": "2026-07-19",
+          "description": "उद्यमशीलता सिखौं, सपना साकार गरौ",
+          "tags": [
+            "उद्यमशीलता",
+            "बालबालिका",
+            "सिर्जनशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家，展翅高飞",
+          "date": "2026-07-19",
+          "description": "激发孩子的创造力与行动力，创业从小做起!",
+          "tags": [
+            "创业",
+            "小学生",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
