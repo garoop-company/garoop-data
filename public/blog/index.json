@@ -4780,6 +4780,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-21-entrepreneurship": {
+      "default": "2026-07-21-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-07-21-entrepreneurship.ne.md",
+        "zh": "2026-07-21-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "梦を持って大きなステップを踏み出そう！起業とは何だろう？",
+          "date": "2026-07-21",
+          "description": "起業家になりたいと思ったことはありませんか？自分で事業を開くという夢は、多くの人にとってカッコいいと思われています。",
+          "tags": [
+            "起業",
+            "夢",
+            "挑戦"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता र तपाईंको सपना",
+          "date": "2026-07-21",
+          "description": "बालबालिकाहरूलाई उद्यमशीलता सिकाउने गरी प्रेरणादायी कुरा",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "创业小英雄，改变世界从这里开始",
+          "date": "2026-07-21",
+          "description": "在GaroopTV，创业不仅仅是大人的事儿。我们相信，每个孩子都有成为创业小英雄的潜力。通过激发创造力和行动力，孩子们可以把自己的想法变成现实，改变世界。",
+          "tags": [
+            "创业",
+            "儿童教育",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
