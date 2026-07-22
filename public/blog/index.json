@@ -4822,6 +4822,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-22-future-education": {
+      "default": "2026-07-22-future-education.md",
+      "locales": {
+        "ne": "2026-07-22-future-education.ne.md",
+        "zh": "2026-07-22-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-07-22",
+          "tags": [
+            "未来の教育",
+            "起業",
+            "創作",
+            "小学生"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा",
+          "date": "2026-07-22",
+          "description": "भविष्यको शिक्षा म्यांग निर्माण गर्दै",
+          "tags": [
+            "भविष्यको शिक्षा",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "未来教育：释放孩子的创造力与行动力",
+          "date": "2026-07-22",
+          "description": "未来教育不仅仅是学习知识，它更是关于激发孩子的创造力和行动力。让我们一起探索如何通过教育释放孩子的潜能，帮助他们成为未来的创造者和领导者。",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "行动力",
+            "孩子教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
