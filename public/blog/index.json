@@ -4865,6 +4865,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-23-future-education": {
+      "default": "2026-07-23-future-education.md",
+      "locales": {
+        "ne": "2026-07-23-future-education.ne.md",
+        "zh": "2026-07-23-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-07-23",
+          "tags": [
+            "未来の教育",
+            "創造性",
+            "起業",
+            "学習"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा",
+          "date": "2026-07-23",
+          "description": "भविष्यको शिक्षा कस्तो हुने छ?",
+          "tags": [
+            "भविष्यको शिक्षा",
+            "सिर्जनशीलता",
+            "उद्यमशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "未来教育：点燃孩子的创造力和行动力",
+          "date": "2026-07-23",
+          "description": "未来教育是指利用现代技术和创新方法提升孩子的学习体验。它可以点燃孩子的创造力和行动力，让他们更好地适应不断变化的世界。",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "行动力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
