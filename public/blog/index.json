@@ -4907,6 +4907,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-24-startup": {
+      "default": "2026-07-24-startup.md",
+      "locales": {
+        "ne": "2026-07-24-startup.ne.md",
+        "zh": "2026-07-24-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "夢の中のビジネスを始める! スタートアップの世界へようこそ",
+          "date": "2026-07-24",
+          "description": "スタートアップとは? 夢の中のビジネスを始めるために必要なこと",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "ビジネス"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "date": "2026-07-24",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "गारु-चान"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "创业的小冒险：点燃你的梦想火花",
+          "date": "2026-07-24",
+          "description": "创业不是只有大人才能做的事，孩子们也可以开始自己的小创业项目。让我们一起探索创业的世界，点燃你心中的梦想火花！",
+          "tags": [
+            "创业",
+            "小学生",
+            "创新"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
