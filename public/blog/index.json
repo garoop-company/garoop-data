@@ -4948,6 +4948,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-25-creation": {
+      "default": "2026-07-25-creation.md",
+      "locales": {
+        "ne": "2026-07-25-creation.ne.md",
+        "zh": "2026-07-25-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作で夢を広げよう！キッズの可能性は無限大",
+          "date": "2026-07-25",
+          "description": "創作で夢を広げるキッズの可能性を紹介します。",
+          "tags": [
+            "創作",
+            "キッズ",
+            "可能性",
+            "夢"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जना र बालबालिकाहरु",
+          "date": "2026-07-25",
+          "description": "सिर्जना र बालबालिकाहरुको सम्भावना",
+          "tags": [
+            "सिर्जना",
+            "बालबालिका",
+            "उद्यमशीलता",
+            "सिर्जनशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "激发创造力的火花：让想象力绽放",
+          "date": "2026-07-25",
+          "description": "在GaroopTV，相信每个孩子都拥有绽放创造力的潜力。通过各种趣味活动和指导，帮助孩子们激发创造力，培养自信心，实现梦想。",
+          "tags": [
+            "创作",
+            "儿童教育",
+            "自信心"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
