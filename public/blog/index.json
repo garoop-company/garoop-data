@@ -4992,6 +4992,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-26-startup": {
+      "default": "2026-07-26-startup.md",
+      "locales": {
+        "ne": "2026-07-26-startup.ne.md",
+        "zh": "2026-07-26-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-07-26",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअपको रोमांचक यात्रा",
+          "date": "2026-07-26",
+          "description": "बालबालिकाहरूलाई स्टार्टअप सिकाउने गरoopTV का गारु-चानले स्टार्टअपको बारेमा बताउनुहुन्छ",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "गारु-चान"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家：点燃梦想的火花",
+          "date": "2026-07-26",
+          "description": "创业不是只有大人才能做，小朋友们也可以从小开始做自己的小创业家。通过创业，不仅可以锻炼自己的独立能力，还可以学习到团队合作、问题解决等宝贵的经验。",
+          "tags": [
+            "创业",
+            "小学生",
+            "自主学习"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
