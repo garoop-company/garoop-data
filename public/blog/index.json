@@ -5033,6 +5033,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-27-single-mother": {
+      "default": "2026-07-27-single-mother.md",
+      "locales": {
+        "ne": "2026-07-27-single-mother.ne.md",
+        "zh": "2026-07-27-single-mother.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-07-27",
+          "tags": [
+            "シングルママ",
+            "子供の可能性",
+            "夢中"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "एकल आमा : सिर्जनशीलता र सम्भावना",
+          "date": "2026-07-27",
+          "description": "एकल आमा सँग सम्बन्धित प्रेरणादायी कुरा",
+          "tags": [
+            "एकल आमा",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "उद्यमशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "让我们一起支持单亲妈妈",
+          "date": "2026-07-27",
+          "description": "了解单亲妈妈的挑战和勇气，激发孩子的创造力和行动力，帮助他们成长为有爱心和责任感的社会成员。",
+          "tags": [
+            "单亲妈妈",
+            "家庭教育",
+            "孩子创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
