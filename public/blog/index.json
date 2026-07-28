@@ -5074,6 +5074,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-28-creation": {
+      "default": "2026-07-28-creation.md",
+      "locales": {
+        "ne": "2026-07-28-creation.ne.md",
+        "zh": "2026-07-28-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作の世界で夢をつかめ!",
+          "date": "2026-07-28",
+          "description": "創作は新しいアイデアや作品を生み出すこと。小学生の君たちにも夢中になる創作の世界がある!",
+          "tags": [
+            "創作",
+            "起業",
+            "小学生"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जना र बालबालिकाहरू",
+          "date": "2026-07-28",
+          "description": "बालबालिकाहरूमा सिर्जनशीलता बढाउने कुरा",
+          "tags": [
+            "सिर्जना",
+            "बालबालिका",
+            "सिर्जनशीलता",
+            "उद्यमशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小创客的创作奇旅",
+          "date": "2026-07-28",
+          "description": "一起探索创作的世界，激发孩子的创造力和行动力",
+          "tags": [
+            "创作",
+            "创造力",
+            "小学生"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
