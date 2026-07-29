@@ -5117,6 +5117,50 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-07-29-ai": {
+      "default": "2026-07-29-ai.md",
+      "locales": {
+        "ne": "2026-07-29-ai.ne.md",
+        "zh": "2026-07-29-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIの世界に梦中！未来の創造者になるための第一歩",
+          "date": "2026-07-29",
+          "description": "AIって何？未来の創造者になるための第一歩を学ぼう",
+          "tags": [
+            "AI",
+            "kids",
+            "創造力",
+            "未来"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI को संसार: बालबालिकाहरुको सिर्जनशीलता मार्ग",
+          "date": "2026-07-29",
+          "description": "AI को संसारमा बालबालिकाहरुको सिर्जनशीलता वृद्धि",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "उद्यमशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI 的魔幻世界：解锁你的创造力",
+          "date": "2026-07-29",
+          "description": "了解 AI 的基本概念和应用，让孩子们进入一个充满创造力和想象力的世界。",
+          "tags": [
+            "AI",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
