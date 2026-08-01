@@ -5248,6 +5248,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-08-01-ai": {
+      "default": "2026-08-01-ai.md",
+      "locales": {
+        "ne": "2026-08-01-ai.ne.md",
+        "zh": "2026-08-01-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIの世界で夢を広げよう!",
+          "date": "2026-08-01",
+          "description": "AIの世界で小学生たちができること!",
+          "tags": [
+            "AI",
+            "エンジニア",
+            "起業"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI: तपाईंको सिर्जनशीलताको साथी",
+          "date": "2026-08-01",
+          "description": "AI के हो र यसको उपयोग कसरी गर्ने?",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "प्रौद्योगिकी"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI来了！小朋友们，让我们一起探索人工智能的神奇世界",
+          "date": "2026-08-01",
+          "description": "让小朋友们理解和应用AI，激发他们的创造力和行动力，探索人工智能的神奇世界",
+          "tags": [
+            "AI",
+            "创造力",
+            "儿童教育"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
