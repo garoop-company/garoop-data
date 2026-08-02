@@ -5291,6 +5291,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-08-02-children": {
+      "default": "2026-08-02-children.md",
+      "locales": {
+        "ne": "2026-08-02-children.ne.md",
+        "zh": "2026-08-02-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "子供の可能性を広げるワクワクした世界",
+          "date": "2026-08-02",
+          "description": "子供の可能性を広げるためのワクワクした話",
+          "tags": [
+            "子供",
+            "可能性",
+            "学習",
+            "創造性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "date": "2026-08-02",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "孩子的创造力无限",
+          "date": "2026-08-02",
+          "description": "激发孩子的创造力与行动力是最重要的教育。让我们一起探索孩子的想象力世界。",
+          "tags": [
+            "孩子",
+            "创造力",
+            "教育",
+            "激发潜能"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
