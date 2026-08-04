@@ -5376,6 +5376,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-08-04-startup": {
+      "default": "2026-08-04-startup.md",
+      "locales": {
+        "ne": "2026-08-04-startup.ne.md",
+        "zh": "2026-08-04-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "date": "2026-08-04",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअप: तपाईंको सपना साकार पाउने मार्ग",
+          "date": "2026-08-04",
+          "description": "स्टार्टअपले तपाईंलाई तपाईंको सपना साकार पाउने मार्ग दिखाउन्छ",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家，大大梦想",
+          "date": "2026-08-04",
+          "description": "创业不仅仅是大人的事，孩子也可以有自己的小创业梦想。让我们一起探索小小创业家的世界，激发创造力和行动力。",
+          "tags": [
+            "创业",
+            "小学生",
+            "自主学习"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
