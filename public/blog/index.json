@@ -5499,6 +5499,51 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-08-08-children": {
+      "default": "2026-08-08-children.md",
+      "locales": {
+        "ne": "2026-08-08-children.ne.md",
+        "zh": "2026-08-08-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "子供の夢を叶えるためのステップ",
+          "date": "2026-08-08",
+          "description": "子供たちが未来を築くためのステップを学ぼう",
+          "tags": [
+            "子供",
+            "教育",
+            "夢",
+            "将来"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिका र सिर्जनशीलता",
+          "date": "2026-08-08",
+          "description": "बालबालिकाहरूलाई सिर्जनशील बनाउने तरिका",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "激发孩子的创造力与行动力",
+          "date": "2026-08-08",
+          "description": "孩子的创造力和行动力是他们成长的重要动力。通过鼓励和引导，孩子可以发展出卓越的能力。",
+          "tags": [
+            "儿童创业",
+            "创造力",
+            "行动力",
+            "小学生"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
