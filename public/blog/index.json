@@ -5626,6 +5626,47 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-08-11-kangaroo": {
+      "default": "2026-08-11-kangaroo.md",
+      "locales": {
+        "ne": "2026-08-11-kangaroo.ne.md",
+        "zh": "2026-08-11-kangaroo.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "カンガルーと一緒に夢の大冒険!",
+          "date": "2026-08-11",
+          "description": "カンガルーを紹介して、子供たちの可能性を広げよう!",
+          "tags": [
+            "カンガルー",
+            "起業",
+            "創作"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "कंगारु: सिर्जनशीलता र उद्यमशीलताको प्रेरणा",
+          "date": "2026-08-11",
+          "description": "कंगारु देखि सिर्जनशीलता र उद्यमशीलता सिक्ने",
+          "tags": [
+            "कंगारु",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "date": "2026-08-11",
+          "tags": [
+            "袋鼠",
+            "动物探索",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
