@@ -453,11 +453,11 @@
                 "mood": "FOCUSED"
             },
             {
-                "text": "アプリ開発",
+                "text": "AI/ML",
                 "mood": "CREATIVE"
             },
             {
-                "text": "テスト",
+                "text": "クラウドアーキテクチャ",
                 "mood": "OFF"
             }
         ]
@@ -478,11 +478,11 @@
                 "mood": "FOCUSED"
             },
             {
-                "text": "コンテンツ戦略",
+                "text": "グロースハック",
                 "mood": "CREATIVE"
             },
             {
-                "text": "データ分析",
+                "text": "コンテンツ戦略",
                 "mood": "OFF"
             }
         ]
