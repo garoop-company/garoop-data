@@ -5667,6 +5667,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-08-12-entrepreneurship": {
+      "default": "2026-08-12-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-08-12-entrepreneurship.ne.md",
+        "zh": "2026-08-12-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "起業の世界で夢を追いこう!",
+          "date": "2026-08-12",
+          "description": "起業の基本と可能性を紹介します。小学生が起業の世界に興味を持つためのガイド",
+          "tags": [
+            "起業",
+            "小学生",
+            "夢を追う"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता: बालबालिकाहरूको सिर्जनशीलता",
+          "date": "2026-08-12",
+          "description": "बालबालिकाहरूलाई उद्यमशीलता सिकाउने गरी सिर्जनशीलता बढाउने",
+          "tags": [
+            "उद्यमशीलता",
+            "बालबालिका",
+            "सिर्जनशीलता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "启发孩子的创业梦想",
+          "date": "2026-08-12",
+          "description": "创业不是 Adults 的专利！让我们一起探索如何激发孩子的创造力和行动力，实现他们的创业梦想。",
+          "tags": [
+            "创业",
+            "儿童教育",
+            "创新思维"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
