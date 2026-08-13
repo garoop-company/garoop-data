@@ -5709,6 +5709,48 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-08-13-startup": {
+      "default": "2026-08-13-startup.md",
+      "locales": {
+        "ne": "2026-08-13-startup.ne.md",
+        "zh": "2026-08-13-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "夢の中の起業家になろう！スタートアップの楽しさ",
+          "date": "2026-08-13",
+          "description": "スタートアップとは何か、起業家になることで何ができるのかを紹介します。",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "創業",
+            "夢"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "date": "2026-08-13",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "创业小冒险：激发你我的创造力",
+          "date": "2026-08-13",
+          "description": "一起探索创业的世界，发现创造力的乐趣，迈出实践的第一步。",
+          "tags": [
+            "创业",
+            "小学生",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
