@@ -5751,6 +5751,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-08-14-entrepreneurship": {
+      "default": "2026-08-14-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-08-14-entrepreneurship.ne.md",
+        "zh": "2026-08-14-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "起業の世界に飛び込んでみよう！",
+          "date": "2026-08-14",
+          "description": "起業について学んで、自分の可能性を広げよう！",
+          "tags": [
+            "起業",
+            "子供",
+            "創造性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता - तपाईंको सपना साकार गर्ने कुँज",
+          "date": "2026-08-14",
+          "description": "उद्यमशीलता र सिर्जनशीलता बालबालिकाहरूको सम्भावना बढाउने प्रेरणा",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "सम्भावना"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "点燃创业梦想，成为下一个小小创业家",
+          "date": "2026-08-14",
+          "description": "创业不仅是大人们的事儿！今天，卡鲁酱要告诉你，创业可以很简单，也可以很有趣。让我们一起探索创业的世界，激发你的想象力和创造力。",
+          "tags": [
+            "创业",
+            "小学生",
+            "创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
