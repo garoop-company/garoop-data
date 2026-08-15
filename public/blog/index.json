@@ -5794,6 +5794,49 @@
           "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-08-15-single-mother": {
+      "default": "2026-08-15-single-mother.md",
+      "locales": {
+        "ne": "2026-08-15-single-mother.ne.md",
+        "zh": "2026-08-15-single-mother.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "シングルマザーの子どもって、特別だ!",
+          "date": "2026-08-15",
+          "description": "シングルマザーに関連する、子供たちの可能性を広げる話",
+          "tags": [
+            "シングルマザー",
+            "子ども",
+            "可能性"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "एकल आमा र बालबालिकाको सिर्जनशीलता",
+          "date": "2026-08-15",
+          "description": "एकल आमाहरूले आफ्नो बालबालिकालाई कस्तो सिर्जनशील बनाउन सक्छन्?",
+          "tags": [
+            "एकल आमा",
+            "बालबालिकाको सिर्जनशीलता",
+            "मातृ स्नेह",
+            "सिर्जनात्मकता"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "单亲妈妈：创造力和勇气的典范",
+          "date": "2026-08-15",
+          "description": "了解单亲妈妈的坚强和勇气，激发孩子的创造力和行动力。",
+          "tags": [
+            "单亲家庭",
+            "家庭教育",
+            "儿童创造力"
+          ],
+          "thumbnail": "https://garoop-data.vercel.app/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
