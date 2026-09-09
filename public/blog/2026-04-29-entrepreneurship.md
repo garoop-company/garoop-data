@@ -3,7 +3,7 @@ title: "自分だけのビジネスを始める魔法"
 date: 2026-04-29
 description: "起業の世界で子供たちが輝く"
 tags: ["起業", "創造性", "ビジネス"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業って何?
 起業という言葉を聞いたことありますか？ 起業とは、新しい事業やビジネスを始めることを意味します。大人だけでなく、子供たちも起業することができますよ！

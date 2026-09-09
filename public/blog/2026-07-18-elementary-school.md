@@ -3,7 +3,7 @@ title: "小学生の可能性を広げる！夢に向かって一歩踏み出す
 date: 2026-07-18
 description: "小学生のためのスタートアップや創作について学ぶ"
 tags: ["小学生", "スタートアップ", "創作", "起業"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小学生の可能性を広げる！
 小学生のあなたは、梦中です！夢を叶えるために何から始めたらいいのかわからないときがあるよね。でも、大丈夫！ガルちゃんがあなたの夢を実現する手助けをするよ！

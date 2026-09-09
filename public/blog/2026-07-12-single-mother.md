@@ -3,7 +3,7 @@ title: シングルママのすごい力を知ろう！
 date: 2026-07-12
 description: シングルママの可能性を広げるワクワクした話
 tags: ["シングルマザー", "起業", "創作"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # シングルママのすごい力を知ろう！
 こんにちは、ガルちゃんです！今日は、すごい力を持ったシングルママたちの話を紹介します。シングルママとは、一人で子供を育てているママのことです。彼らは、働きながら子供を育てていなくてはならないので、非常に忙しいです。しかし、彼らはとても強い心を持っています。

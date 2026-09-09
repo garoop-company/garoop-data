@@ -1,11 +1,11 @@
 ---
 name: garoop-novel-content
-description: garoop-data リポジトリ内で Garoop Novel 用の文庫小説コンテンツ（章ファイルとインデックス）を新規作成・更新するためのスキル。「Garoop Novel に○○の小説書いて」「文庫に新刊追加」「人物列伝の続編」などの依頼で起動する。public/novel/ 配下の JSON を直接編集し、検証してコミットするまでの一貫フローを提供する。garoop_novel（消費側）はビルド時に https://garoop-data.vercel.app/novel/ を fetch するため、ここで作って push すれば自動的に小説サイトに反映される。
+description: garoop-data リポジトリ内で Garoop Novel 用の文庫小説コンテンツ（章ファイルとインデックス）を新規作成・更新するためのスキル。「Garoop Novel に○○の小説書いて」「文庫に新刊追加」「人物列伝の続編」などの依頼で起動する。public/novel/ 配下の JSON を直接編集し、検証してコミットするまでの一貫フローを提供する。garoop_novel（消費側）はビルド時に https://data.garoop.jp/novel/ を fetch するため、ここで作って push すれば自動的に小説サイトに反映される。
 ---
 
 # Garoop Novel コンテンツ ― garoop-data 側からの執筆と公開
 
-このスキルは、**Garoop Novel に表示される小説コンテンツの実体は garoop-data リポジトリにある**という事実が前提。`garoop_novel` 側は `https://garoop-data.vercel.app/novel/...` を fetch するだけ。だから新刊を出すには、こちら（garoop-data）で書いて push すれば足りる。
+このスキルは、**Garoop Novel に表示される小説コンテンツの実体は garoop-data リポジトリにある**という事実が前提。`garoop_novel` 側は `https://data.garoop.jp/novel/...` を fetch するだけ。だから新刊を出すには、こちら（garoop-data）で書いて push すれば足りる。
 
 ## 起動条件
 - 「Garoop Novel に○○の小説を書いて／追加して」
@@ -23,7 +23,7 @@ description: garoop-data リポジトリ内で Garoop Novel 用の文庫小説�
 | 章本体 | `public/novel/chapters/<id>.json` |
 | 動画一覧（参考） | `public/novel/videos.json` |
 
-公開 URL: `https://garoop-data.vercel.app/novel/novels.json`、`https://garoop-data.vercel.app/novel/chapters/<id>.json`
+公開 URL: `https://data.garoop.jp/novel/novels.json`、`https://data.garoop.jp/novel/chapters/<id>.json`
 
 ## 章ファイル スキーマ
 
@@ -143,7 +143,7 @@ git commit -m "novel: add <id> ..."  # 後述のコミット規約
 git push origin main         # Vercel が自動デプロイ
 ```
 
-数分後、`https://garoop-data.vercel.app/novel/novels.json` に新エントリが反映される。これで `garoop_novel` 側は次回ビルド時に新刊を取り込む。
+数分後、`https://data.garoop.jp/novel/novels.json` に新エントリが反映される。これで `garoop_novel` 側は次回ビルド時に新刊を取り込む。
 
 ### コミットメッセージの形
 
@@ -154,7 +154,7 @@ git push origin main         # Vercel が自動デプロイ
 
 ## 消費側（garoop_novel）との関係
 
-- `garoop_novel` リポジトリ内のコードは `src/lib/data-source.ts` 経由で `https://garoop-data.vercel.app/novel/` を fetch する。
+- `garoop_novel` リポジトリ内のコードは `src/lib/data-source.ts` 経由で `https://data.garoop.jp/novel/` を fetch する。
 - `garoop_novel` の章 ID と garoop-data の章ファイル名は完全一致が必要。
 - `garoop_novel` 側に **同じ題材で章ファイルや手書きの control を作らない**。古い `garoop_novel/src/data/chapters/` は移行済みで参照されない（残っていても無視される）。
 
@@ -175,4 +175,4 @@ git push origin main         # Vercel が自動デプロイ
 6. `public/novel/novels.json` に新エントリを追加（同 seriesKey の末尾、`episodeNumber` 連番）
 7. `npm run validate:public` で検証
 8. コミット & push
-9. ユーザーに、追加した巻のファイルパス（リンク）と、リサーチで使った主要ソース URL（マークダウン）を簡潔に報告。`https://garoop-data.vercel.app/novel/...` の反映確認を促す
+9. ユーザーに、追加した巻のファイルパス（リンク）と、リサーチで使った主要ソース URL（マークダウン）を簡潔に報告。`https://data.garoop.jp/novel/...` の反映確認を促す

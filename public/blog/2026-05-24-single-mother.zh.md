@@ -3,7 +3,7 @@ title: "单亲妈妈：坚强的女性，伟大的榜样"
 date: 2026-05-24
 description: "了解单亲妈妈的勇气和智慧，激发孩子的创造力和行动力。"
 tags: ["单亲妈妈", "家庭教育", "孩子成长"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 单亲妈妈：坚强的女性，伟大的榜样

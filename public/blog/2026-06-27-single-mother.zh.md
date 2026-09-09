@@ -3,7 +3,7 @@ title: 庆祝单亲妈妈的坚强和爱
 date: 2026-06-27
 description: 了解单亲妈妈的不易和坚韧，激发孩子的创造力和行动力，探索单亲家庭的温暖和关爱。
 tags: ["单亲妈妈", "家庭关爱", "创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 庆祝单亲妈妈的坚强和爱
 

@@ -3,7 +3,7 @@ title: "बालबालिकाहरूको सिर्जनशील�
 date: 2026-04-19
 description: "बालबालिकाहरूको सिर्जनशीलता र उद्यमशीलता विकास"
 tags: ["बालबालिका", "सिर्जनशीलता", "उद्यमशीलता", "प्राथमिक विद्यालय"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # बालबालिकाहरूको सिर्जनशीलता र उद्यमशीलता
 

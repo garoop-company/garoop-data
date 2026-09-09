@@ -3,7 +3,7 @@ title: "小学生の夢を叶える秘密!"
 date: 2026-07-15
 description: "小学生の可能性を引き出す方法とは？"
 tags: ["小学生", "起業", "創作"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小学生の夢を叶える秘密!
 あなたは何が好きですか？アニメ？ゲーム？絵を描くこと？それとも料理？夢の中には、実現することができるものもありますよ！

@@ -3,7 +3,7 @@ title: 未来の教育で夢は広がる！
 date: 2026-07-20
 description: 未来の教育とは？子供たちが将来に役立つスキルや知識を学ぶ方法を紹介します。
 tags: ["教育", "未来", "小学生", "学習"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 未来の教育の魅力

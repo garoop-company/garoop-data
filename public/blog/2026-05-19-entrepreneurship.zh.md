@@ -3,7 +3,7 @@ title: "小小创业家，梦想起飞"
 date: 2026-05-19
 description: "创业不仅仅是大人的事，孩子们也可以拥有自己的创业梦想。通过创业，孩子们可以培养创造力、实践能力和自信心。让我们一起探索创业的世界，激发孩子们的潜能。"
 tags: ["创业", "创造力", "小学生", "自信心"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小小创业家，梦想起飞
 

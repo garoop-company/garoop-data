@@ -3,7 +3,7 @@ title: "बालबालिका हरूको लागि उद्यम
 date: 2026-04-29
 description: "बालबालिकाहरूलाई उद्यमशीलता सिकाउने"
 tags: ["उद्यमशीलता", "बालबालिका", "सिर्जनशीलता"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # बालबालिका हरूको लागि उद्यमशीलता
 नमस्कार बालबालिका हरू, म गारु-चान हूँ। आज म तिमिहरुलाई उद्यमशीलता बारे सिकाउने छु।

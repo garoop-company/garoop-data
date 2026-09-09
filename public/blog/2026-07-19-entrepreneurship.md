@@ -3,7 +3,7 @@ title: "小学生起業家への道!"
 date: 2026-07-19
 description: "起業の魅力を孩子たちに伝える"
 tags: ["起業", "小学生", "創造性"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業とは何だろう？
 起業、聞いたことありますか？大きくなったら社長になりたい、という夢を持つ人もいるかもしれませんね。起業とは、新しい事業を作ることです。自分で会社を作って、社長になれるんだって！

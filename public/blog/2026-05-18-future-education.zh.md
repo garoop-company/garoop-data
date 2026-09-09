@@ -3,7 +3,7 @@ title: 未来教育：释放孩子的创造力
 date: 2026-05-18
 description: 未来教育不仅仅是书本知识，更多的是激发孩子的创造力和行动力。一起探索未来教育的魅力！
 tags: ["未来教育", "创造力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来教育：释放孩子的创造力
 大家好！我是卡鲁酱，今天我们要聊一个非常有趣的话题——未来教育。未来教育不仅仅是关于书本知识，更是关于如何激发孩子的创造力和行动力。未来教育的目标是让孩子们能够在快速变化的世界中保持好奇心、创造力和批判性思维能力。

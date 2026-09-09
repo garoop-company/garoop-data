@@ -3,7 +3,7 @@ title: 未来の教育があなたをワクワクさせる！
 date: 2026-05-11
 description: 未来の教育はこんなに楽しい！小学生たちが創造性を引き出して、未来を変える準備をしよう！
 tags: ["未来の教育", "創造性", "小学生", "トレーニング"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育があなたをワクワクさせる！
 未来の教育は、ただ勉強をするだけではなく、自分の夢や興味を叶えるためのステップです。小学生のみなさんは、今から未来のために、創造性や問題解決能力を身に付けていきましょう。

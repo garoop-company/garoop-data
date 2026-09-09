@@ -3,7 +3,7 @@ title: "起業の世界へようこそ！夢中になる未来を作る"
 date: 2026-06-04
 description: "起業の基礎知識と夢中になる方法を紹介します"
 tags: ["起業", "創造性", "夢中になる"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業の世界へようこそ！ 
 こんにちは、ガルちゃんです！今回は「起業」についてお話します。起業とは、自分で事業を始めることです。新しいアイデアを実現させたり、問題を解決するためのサービスや製品を作ったりします。起業家は、自分の夢やアイデアを形にしたり、社会に貢献したりすることができます。

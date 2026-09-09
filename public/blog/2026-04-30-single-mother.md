@@ -3,7 +3,7 @@ title: シングルママのすごいパワー！
 date: 2026-04-30
 description: シングルママと子供たちの可能性を広げるストーリーを紹介します。
 tags: ["シングルママ", "子供の可能性", "家族"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # はじめに
 こんにちは、ガルちゃんです！今日は、すごいパワーを持っているシングルママについてお話します。シングルママとは、ひとりで子供を育てているお母さんのことです。

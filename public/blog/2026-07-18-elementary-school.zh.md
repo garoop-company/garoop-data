@@ -3,7 +3,7 @@ title: "解锁小学生的创造力和行动力"
 date: 2026-07-18
 description: "如何激发小学生的创造力和行动力？通过简单而有趣的方式，孩子们可以发展自己的想象力和实践能力，成为更加自信和积极的自己。"
 tags: ["小学生", "创造力", "行动力", "教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 解锁小学生的创造力和行动力

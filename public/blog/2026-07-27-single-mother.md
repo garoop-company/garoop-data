@@ -3,7 +3,7 @@ title: シングルママのすごい力！梦中で可能性を広げよう！
 date: 2026-07-27
 description: シングルママが梦中で子供たちを応援する力について学ぼう！
 tags: ["シングルママ", "子供の可能性", "夢中"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # シングルママのすごい力！
 こんにちは、ガルちゃんです！ сегодняは「シングルママ」というテーマを取り上げます。シングルママというのは、ひとりで子供を育てているママたちのことです。彼女たちは、働きながら子供を育てるという、双方の責任をひとりで負っています。

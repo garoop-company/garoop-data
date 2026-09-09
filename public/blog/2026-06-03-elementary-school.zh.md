@@ -3,7 +3,7 @@ title: "激发小学生的创造力与行动力"
 date: 2026-06-03
 description: "让孩子们发挥想象力，激发创造力和行动力，成为未来的明星创作者！"
 tags: ["小学生", "创造力", "行动力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 激发小学生的创造力与行动力
 嘿，小朋友们！我是卡鲁酱，今天我要和你们聊聊如何成为一个超棒的创作者！作为小学生，你们处于一个非常棒的年龄段，可以开始探索自己的兴趣和天赋。

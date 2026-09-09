@@ -3,7 +3,7 @@ title: 未来の教育で夢を拓く
 date: 2026-06-22
 description: 未来の教育とは？小学生たちが新しい世界を学び、創造するためのヒントを紹介します。
 tags: ["未来の教育", "小学生", "起業", "創作"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育で夢を拓く
 未来の教育は、単に勉強することだけではなく、自分自身を発見し、世界を変える力を持つことです。次の世代を担う小学生たちにとって、教育では何ができるのか、そしてどうやって夢を実現することができるのかを見つけていきましょう。

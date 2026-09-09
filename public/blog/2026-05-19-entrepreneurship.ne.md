@@ -3,7 +3,7 @@ title: "उद्यमशीलता : तपाईंको सपना स�
 date: 2026-05-19
 description: "उद्यमशीलता सिकेर बालबालिकाहरू आफ्नो सपना साकार गर्न सिक्नुहोस्"
 tags: ["उद्यमशीलता", "सिर्जनशीलता", "बालबालिका"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # उद्यमशीलता : तपाईंको सपना साकार गर्ने एक कदम
 

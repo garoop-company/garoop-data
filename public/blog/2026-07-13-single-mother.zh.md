@@ -3,7 +3,7 @@ title: 认识单亲妈妈，发掘自己的创造力
 date: 2026-07-13
 description: 单亲妈妈们如何通过自己的努力和创造力，将家庭支撑得稳稳当当。通过了解她们的故事，你也可以找到自己的创造力和行动力！
 tags: ["单亲妈妈", "创造力", "家庭"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 认识单亲妈妈，发掘自己的创造力
 

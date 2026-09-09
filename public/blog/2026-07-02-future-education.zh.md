@@ -3,7 +3,7 @@ title: "解锁未来教育的秘密：激发你的创造力与行动力"
 date: 2026-07-02
 description: "未来教育不仅仅是学习知识，还要激发孩子的创造力与行动力。让我们一起探索，如何通过有趣的方式培养孩子的创造力和自主学习能力。"
 tags: ["未来教育", "创造力", "儿童教育", "自主学习"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 解锁未来教育的秘密：激发你的创造力与行动力

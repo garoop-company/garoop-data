@@ -3,7 +3,7 @@ title: "启发孩子的创业梦想"
 date: 2026-08-12
 description: "创业不是 Adults 的专利！让我们一起探索如何激发孩子的创造力和行动力，实现他们的创业梦想。"
 tags: ["创业", "儿童教育", "创新思维"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 启发孩子的创业梦想

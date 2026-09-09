@@ -3,7 +3,7 @@ title: "起業の世界へようこそ！夢を実現する最初のステップ
 date: 2026-07-09
 description: "起業の基礎知識と子供たちの可能性を広げる"
 tags: ["起業", "創造性", "小学生"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業の世界へようこそ！
 こんにちは、ガルちゃんです！今日は、起業の魅力について話そうと思います。起業とは、自分のビジネスや会社を作るということです。夢を実現するための最初のステップと言えるでしょう。

@@ -3,7 +3,7 @@ title: "未来教育：点燃孩子的创造力和行动力"
 date: 2026-07-23
 description: "未来教育是指利用现代技术和创新方法提升孩子的学习体验。它可以点燃孩子的创造力和行动力，让他们更好地适应不断变化的世界。"
 tags: ["未来教育", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 未来教育：点燃孩子的创造力和行动力

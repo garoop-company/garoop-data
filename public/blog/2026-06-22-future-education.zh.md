@@ -3,7 +3,7 @@ title: 未来教育：让孩子的创造力绽放
 date: 2026-06-22
 description: 未来教育不仅仅是知识的传授，更是培养孩子的创造力和行动力。让我们一起探索未来教育的魅力！
 tags: ["未来教育", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来教育：让孩子的创造力绽放
 未来是一个充满可能性的世界，科技、艺术和创新将无处不在。而作为父母和教育者，我们最大的希望是让孩子们能够顺利地融入这个未来世界，并展现出他们的独特才华。

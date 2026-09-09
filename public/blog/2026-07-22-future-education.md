@@ -3,7 +3,7 @@ title: 未来の教育が君をスーパースターにする！
 date: 2026-07-22
 description: 未来の教育が子供たちの可能性を広げる
 tags: ["未来の教育", "起業", "創作", "小学生"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育が君をスーパースターにする！
 未来の教育は、子供たちの可能性を広げるためには非常に重要です。未来の教育では、子供たちはさまざまなスキルや知識を習得できます。例えば、プログラミングやロボット工学は、今後必要になる重要なスキルです。

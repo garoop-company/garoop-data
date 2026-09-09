@@ -3,7 +3,7 @@ title: "小小创业家，创造属于自己的梦想"
 date: 2026-05-22
 description: "创业不仅仅是大人才能做的事情，孩子们也可以通过自己的想法和创造力创造出惊人的成就。让我们一起探索创业的世界，激发孩子们的创造力和行动力。"
 tags: ["创业", "小学生", "创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小小创业家，创造属于自己的梦想
 你是一个喜欢发明和创造新东西的小小创业家吗？你有没有想过自己可以创造出一个属于自己的业务或项目？今天，我们要谈论创业和如何让你的梦想成真。

@@ -3,7 +3,7 @@ title: "梦を叶える起業の世界へようこそ！"
 date: 2026-05-27
 description: "起業家になる夢を叶えるための初歩"
 tags: ["起業", "創作", "スタートアップ"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業って何？
 起業という言葉를聞いたことはありませんか？大人になって会社を作ること、または新しいサービスを作ることを起業と言います。

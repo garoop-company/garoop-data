@@ -3,7 +3,7 @@ title: "激发小学生的创造力与行动力"
 date: 2026-05-26
 description: "本文探讨如何激发小学生的创造力与行动力，帮助他们成长为独立、自信的个体。"
 tags: ["小学生", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 激发小学生的创造力与行动力
 作为小学生，你们正处于一个充满好奇和探索的年龄阶段。在这个阶段，创造力和行动力对于你们的成长和发展至关重要。

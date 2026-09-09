@@ -3,7 +3,7 @@ title: 未来の教育が切り拓く、夢の広がり
 date: 2026-06-14
 description: 未来の教育が子供たちの可能性をどのように広げるのかを紹介します
 tags: ["未来の教育", "起業", "創作", "子供たち"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育の魅力
 未来の教育は、現在の教育とは違った、より自由でクリエイティブな学習方法を提供します。例えば、AIやロボティクス、プログラミングなどの最新技術を活用した教育が期待されます。

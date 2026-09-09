@@ -3,7 +3,7 @@ title: "创业小英雄，梦想起航"
 date: 2026-05-27
 description: "创业不仅是大人才能做的事情，孩子们也可以成为创业小英雄。让我们一起探索创业的世界，激发创造力和行动力。"
 tags: ["创业", "儿童教育", "自主学习"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 创业小英雄，梦想起航
 你好，小朋友！我是卡鲁酱，欢迎来到GaroopTV的官方博客。今天，我们要谈论一个非常酷的话题——创业！

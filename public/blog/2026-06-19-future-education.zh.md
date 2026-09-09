@@ -3,7 +3,7 @@ title: "解锁未来教育的钥匙：激发创造力与行动力"
 date: 2026-06-19
 description: "未来的教育不仅仅是书本知识，还要激发孩子的创造力与行动力。一起探索未来教育的魅力吧！"
 tags: ["未来教育", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 解锁未来教育的钥匙：激发创造力与行动力
 作为 GaroopTV 的卡鲁酱，我非常高兴与大家讨论一个非常重要的话题——未来教育。在这个快速变化的世界里，仅仅依靠书本知识已经不能满足孩子们的成长需求。未来的教育应该更加注重激发孩子的创造力与行动力。

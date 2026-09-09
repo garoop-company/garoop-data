@@ -3,7 +3,7 @@ title: "激发小学生的创造力与行动力"
 date: 2026-07-15
 description: "让小学生们通过创造和行动力找到自己的闪光点，释放无限潜能。"
 tags: ["小学生", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 激发小学生的创造力与行动力
 

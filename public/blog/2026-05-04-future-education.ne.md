@@ -3,7 +3,7 @@ title: "भविष्यको शिक्षा"
 date: 2026-05-04
 description: "भविष्यको शिक्षा बारे सिक्ने सिकाई"
 tags: ["शिक्षा", "भविष्य", "सिर्जनशीलता"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # भविष्यको शिक्षा: सिर्जनशीलता र सम्भावनाको दुनिया
 नमस्कार बालबालिकाहरू, गारु-चान यहाँ। आज हमी भविष्यको शिक्षा बारे के जान्ने? 

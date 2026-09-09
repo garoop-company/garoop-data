@@ -3,7 +3,7 @@ title: "创业就像建造自己的乐园"
 date: 2026-08-03
 description: "想创造属于自己的梦想世界吗？一起探索创业的魅力吧！"
 tags: ["创业", "小学生", "梦想"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 创业就像建造自己的乐园

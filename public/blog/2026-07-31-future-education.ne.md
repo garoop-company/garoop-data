@@ -3,7 +3,7 @@ title: "भविष्यको शिक्षा"
 date: 2026-07-31
 description: "भविष्यको शिक्षामा सिर्जनशीलता र उद्यमशीलता"
 tags: ["भविष्यको शिक्षा", "सिर्जनशीलता", "उद्यमशीलता", "बालबालिका"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # भविष्यको शिक्षा: बालबालिकाको सिर्जनशीलता र उद्यमशीलता
 नमस्कार गारुपटिभी परिवार !

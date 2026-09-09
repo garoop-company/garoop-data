@@ -3,7 +3,7 @@ title: "प्राथमिक विद्यालयका बालबा�
 date: 2026-05-28
 description: "प्राथमिक विद्यालयका बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलता सिकाउने"
 tags: ["सिर्जनशीलता", "उद्यमशीलता", "बालबालिका", "प्राथमिक विद्यालय"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # प्रathamिक विद्यालयका बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलता सिकाउने
 

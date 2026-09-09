@@ -3,7 +3,7 @@ title: "创业小英雄，改变世界从这里开始"
 date: 2026-07-21
 description: "在GaroopTV，创业不仅仅是大人的事儿。我们相信，每个孩子都有成为创业小英雄的潜力。通过激发创造力和行动力，孩子们可以把自己的想法变成现实，改变世界。"
 tags: ["创业", "儿童教育", "创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 创业小英雄，改变世界从这里开始
 

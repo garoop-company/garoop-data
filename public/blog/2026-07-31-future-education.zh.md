@@ -3,7 +3,7 @@ title: "一起探索未来教育，点燃孩子的创造力与行动力"
 date: 2026-07-31
 description: "未来教育不仅仅是知识的传递，更是关于激发孩子的创造力和行动力。今天，我们一起探索如何通过创造性教育方法点燃孩子的内在动力。"
 tags: ["未来教育", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来教育：点燃孩子的创造力与行动力
 
@@ -23,4 +23,4 @@ thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
 
 ## 加入 GaroopTV 的训练计划
 
-如果你和你的家人想要一起探索未来教育的世界，GaroopTV 为你提供了许多有趣的训练计划和课程。从创意编程到机器人制作，我们的计划旨在激发孩子们的创造力和行动力。现在，就来 [训练页面](https://garoop-data.vercel.app/train) 浏览我们的课程吧，让我们一起点燃孩子们的内在动力！
+如果你和你的家人想要一起探索未来教育的世界，GaroopTV 为你提供了许多有趣的训练计划和课程。从创意编程到机器人制作，我们的计划旨在激发孩子们的创造力和行动力。现在，就来 [训练页面](https://data.garoop.jp/train) 浏览我们的课程吧，让我们一起点燃孩子们的内在动力！

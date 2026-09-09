@@ -3,7 +3,7 @@ title: "シングルマザーの子どもって、こんなにすごい！"
 date: 2026-05-24
 description: "シングルマザーの子どもは、特に強い可能性を持っていることが分かっています。"
 tags: ["シングルマザー", "子どもの可能性", "家族"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # シングルマザーの子どもは、すごい！
 あなたの家族は、いくら人ですか？みんなで仲良く過ごしてるよね。でも、今日はちょっと特別な家族について話そう。シングルマザーの子どもについてだよ！

@@ -4,7 +4,7 @@ title: "夢のスタートライン！小学生の可能性を広げる！
 date: 2026-05-26
 description: "小学生の可能性を広げるワクワクした話題を紹介します。"
 tags: ["小学生", "起業", "創作", "学習"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 夢のスタートライン！小学生の可能性を広げる！
 小学生の時代は、夢や目標を探求する絶好の機会です。この時代は、さまざまな経験や学習を通じて、自らを発見し、成長していくことが重要です。

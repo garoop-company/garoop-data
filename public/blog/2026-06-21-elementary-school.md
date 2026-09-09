@@ -3,7 +3,7 @@ title: "小学生の夢を広げる！ワクワクした取り組み"
 date: 2026-06-21
 description: "小学生の可能性を広げるには、夢を追うことが大切です。"
 tags: ["小学生", "梦中友", "起業", "創作"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小学生の可能性を広げる
 小学生の時代は、夢を追うために何よりも大切な時期です。あなたも、将来どうなりたいか考えましたか？宇宙飛行士？科学者？アーティスト？夢は無限大です！

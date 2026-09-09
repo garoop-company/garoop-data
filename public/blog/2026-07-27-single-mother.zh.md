@@ -3,7 +3,7 @@ title: "让我们一起支持单亲妈妈"
 date: 2026-07-27
 description: "了解单亲妈妈的挑战和勇气，激发孩子的创造力和行动力，帮助他们成长为有爱心和责任感的社会成员。"
 tags: ["单亲妈妈", "家庭教育", "孩子创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 让我们一起支持单亲妈妈

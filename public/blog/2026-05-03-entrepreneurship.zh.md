@@ -3,7 +3,7 @@ title: "小小创业家：点燃你的创造力火焰"
 date: 2026-05-03
 description: "创业不仅是大人的事，小朋友也可以拥有自己的创业梦想。让我们一起探索创业的世界，激发你的创造力和行动力。"
 tags: ["创业", "创造力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小小创业家：点燃你的创造力火焰
 你是否曾经有过一个奇妙的想法，想要开一家自己的小店或者创造一个新鲜的玩具？创业不仅是大人的事，小朋友也可以拥有自己的创业梦想。今天，我们要一起探索创业的世界，激发你的创造力和行动力。

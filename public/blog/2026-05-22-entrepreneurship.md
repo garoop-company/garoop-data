@@ -3,7 +3,7 @@ title: "起業の夢を叶える！子供たちにもできるアイデア"
 date: 2026-05-22
 description: "起業は大人のもの？そんなことはありません！子供たちも起業の夢を叶えることができます。"
 tags: ["起業", "子供たち", "ビジネス", "アイデア"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業の魅力
 こんにちは、ガルちゃんです！今日は起業について話します。起業は、自分の好きなことを仕事にすることです。新しいビジネスを作ったり、商品を作ったり、アートを作ったり...梦中でできることってありますよね。

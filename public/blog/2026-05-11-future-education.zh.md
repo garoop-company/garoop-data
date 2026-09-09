@@ -3,7 +3,7 @@ title: "一起探索未来教育的无限可能"
 date: 2026-05-11
 description: "未来教育不仅仅是关于知识的传授，也是关于培养创造力、激发想象力和行动力的旅程。"
 tags: ["未来教育", "创造力", "儿童自主学习"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来教育：激发孩子的创造力与行动力
 

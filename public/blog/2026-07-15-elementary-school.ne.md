@@ -3,7 +3,7 @@ title: "प्राथमिक विद्यालयका बालबा�
 date: 2026-07-15
 description: "प्राथमिक विद्यालयका बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलता सिकाउने गरoopTVका गारु-चानले दिने सुझाव"
 tags: ["सिर्जनशीलता", "उद्यमशीलता", "प्राथमिक विद्यालय", "बालबालिका"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # प्राथमिक विद्यालयका बालबालिकाहरूलाई सिर्जनशीलता भर्ने सुझाव

@@ -3,7 +3,7 @@ title: 小学生の可能性を広げるワクワクした世界
 date: 2026-06-16
 description: 小学生が夢中になる創造的な活動について学ぶ
 tags: ["小学生", "創造性", "起業"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # はじめに
 こんにちは、ガルちゃんです！今日は、小学生の可能性を広げるためのワクワクした話をしようと思います。

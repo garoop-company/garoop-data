@@ -3,7 +3,7 @@ title: "シングルママのすごい力！夢を叶えるために"
 date: 2026-05-16
 description: "シングルママの活躍を紹介して、子供たちの可能性を広げるためのワクワクした話"
 tags: ["シングルママ", "起業", "創作", "夢を叶える"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # シングルママのすごい力！

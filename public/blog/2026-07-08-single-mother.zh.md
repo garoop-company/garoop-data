@@ -3,7 +3,7 @@ title: "勇敢的单亲妈妈：激励你的创造力和行动力"
 date: 2026-07-08
 description: "让我们一起了解单亲妈妈的故事，激发孩子的创造力和行动力，学习如何支持和帮助身边的人。"
 tags: ["单亲妈妈", "创造力", "行动力", "家庭关系"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 勇敢的单亲妈妈：激励你的创造力和行动力

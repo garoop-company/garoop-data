@@ -3,7 +3,7 @@ title: "未来の教育があなたを超凄い才能に！"
 date: 2026-04-22
 description: "未来の教育について学ぶ"
 tags: ["未来の教育", "小学生", "学習"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育があなたを超凄い才能に！
 未来の教育は、AIやテクノロジーを使って、誰でも何でも学べる時代になります。小学生は、将来どんな大人になりたいか、夢を見つけることが大切です。

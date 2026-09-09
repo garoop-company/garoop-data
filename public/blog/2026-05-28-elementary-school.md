@@ -3,7 +3,7 @@ title: "小学生の可能性を広げる！夢中にできること"
 date: 2026-05-28
 description: "小学生が新しいことにチャレンジするためのヒント"
 tags: ["小学生", "創造力", "起業"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小学生の可能性を広げる！
 小学生の時代に、さまざまな経験をすることで、将来の夢に近づくことができます。ここでは、創造力や起業についての楽しい話題を紹介します。

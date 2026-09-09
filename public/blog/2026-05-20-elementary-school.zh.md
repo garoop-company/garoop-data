@@ -3,7 +3,7 @@ title: "激发小学生的创造力与行动力"
 date: 2026-05-20
 description: "本文将探讨激发小学生创造力与行动力的方法，帮助孩子们发掘潜能，成为更自信、更有抱负的未来人。"
 tags: ["小学生", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 激发小学生的创造力与行动力

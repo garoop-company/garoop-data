@@ -3,7 +3,7 @@ title: "小小创业家，展翅高飞"
 date: 2026-07-19
 description: "激发孩子的创造力与行动力，创业从小做起!"
 tags: ["创业", "小学生", "创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小小创业家，展翅高飞
 作为一个好奇且爱探索的孩子，你是否曾经有过一个想法，想要创造出一些特别的东西？也许是一个手工艺品，或者是一个小型的企业？创业不仅仅是大人们的事情，孩子们也可以成为小小创业家！

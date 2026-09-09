@@ -3,7 +3,7 @@ title: "起業の世界に飛び込んでみよう！"
 date: 2026-08-14
 description: "起業について学んで、自分の可能性を広げよう！"
 tags: ["起業", "子供", "創造性"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業ってなんですか？
 起業という言葉を聞いたことがあるけれど、具体的に何を意味するのかわからないよね。起業とは、自分で新しいビジネスやサービスを作ることを意味します。例えば、好きなものを作って売ったり、サービスを提供したりすることで、自分でお金を稼ぐことができるようになります。

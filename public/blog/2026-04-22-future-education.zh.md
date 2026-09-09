@@ -3,7 +3,7 @@ title: "未来教育：点燃孩子的创造力与行动力"
 date: 2026-04-22
 description: "让孩子在未来教育中找回乐趣和成就感，点燃他们的创造力与行动力，成为未来的创造者和领导者。"
 tags: ["未来教育", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 未来教育：点燃孩子的创造力与行动力

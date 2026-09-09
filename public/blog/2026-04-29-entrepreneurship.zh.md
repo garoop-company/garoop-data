@@ -3,7 +3,7 @@ title: "小小创业家，梦想就在眼前"
 date: 2026-04-29
 description: "一起探索创业的世界，激发创造力和行动力，让梦想变成现实"
 tags: ["创业", "儿童教育", "创造力", "自主学习"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 创业的世界，属于每一个小小梦想家
 

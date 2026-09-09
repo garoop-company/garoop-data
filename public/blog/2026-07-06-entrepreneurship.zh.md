@@ -3,7 +3,7 @@ title: "小小创业家，让梦想成真！"
 date: 2026-07-06
 description: "让孩子们发现创业的乐趣，激发他们的创造力与行动力。"
 tags: ["创业", "创造力", "小学生"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小小创业家，让梦想成真！
 你好，小朋友们！我是卡鲁酱，今天我们要谈论一个非常有趣的话题——创业！你想成为自己的老板，创造出独特的东西，实现自己的梦想吗？创业就是让你的想法变成现实的过程。

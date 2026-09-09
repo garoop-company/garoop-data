@@ -3,7 +3,7 @@ title: "ガルちゃんのシングルママ応援団!"
 date: 2026-06-24
 description: "シングルマザーと子供たちの可能性を広げるワクワクした話"
 tags: ["シングルマザー", " 起業", "創作"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # はじめに
 ガルちゃんの블로그にようこそ！今日は「シングルマザー」というテーマでお話します。シングルマザーとは、一人で子供を育てている奥さんたちのことです。仕事と家事と子供の世話を一人で抱えることはとても大変です。不过、シングルママにも夢があって、子供に夢 Middleton を見つけられますよ！

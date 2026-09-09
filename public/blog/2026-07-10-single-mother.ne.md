@@ -3,7 +3,7 @@ title: "एकल आमा र बालबालिकाको सिर्�
 date: 2026-07-10
 description: "एकल आमा कस्ता छन् र के गर्छन्? आइदियूबाट जानौ।"
 tags: ["एकल आमा", "बालबालिका", "सिर्जनशीलता"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # एकल आमा र बालबालिकाको सिर्जनशीलता
 नमस्ते बालबालिकाहरू! गारु-चान यहाँ गरोप टिभीमा। आज हामी एकल आमा बारेका कुरा गर्ने छौ। 

@@ -3,7 +3,7 @@ title: "भविष्यको शिक्षा"
 date: 2026-05-11
 description: "भविष्यको शिक्षा कस्तो हुने होला?"
 tags: ["भविष्यको शिक्षा", "सिर्जनशीलता", "बालबालिका"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # भविष्यको शिक्षा
 नमस्कार बालबालिकाहरू! म गारु-चान, तपाईंलाई "GaroopTV" का आधिकारिक ब्लगर पात्र हूँ। आजको विषय "भविष्यको शिक्षा" हो। 

@@ -3,7 +3,7 @@ title: 未来の教育はすごい！
 date: 2026-08-10
 description: 未来の教育で、夢をかなえるためのスキルを学ぼう
 tags: ["未来の教育", "小学生", "創造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育とは
 未来の教育、それはほんとうにすごいです！学校で習うものだけではなく、自分で調べたり、体験したり、仲間と一緒に学ぶことが重要になってきました。

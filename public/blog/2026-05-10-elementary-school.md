@@ -3,7 +3,7 @@ title: "小学生の可能性を解き放とう!"
 date: 2026-05-10
 description: "小学生の可能性を広げるためのワクワクしたアイデア"
 tags: ["小学生", "起業", "創作", "学習"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小学生の可能性を解き放とう!
 小学生の皆さん！今日は、自分たちの可能性を広げるためのワクワクした話をしようと思います。你たちの年齢は、梦を追うための絶好の機会です。創造力、探求心、挑戦精神... これらの品質を大切にし、未来に大きな夢を描くことができます。

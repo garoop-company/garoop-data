@@ -3,7 +3,7 @@ title: "एकल आमाको साहस"
 date: 2026-07-12
 description: "एकल आमाले आफ्ना बालबालिकाहरूलाई कस्तो साहस दिन सक्छन्?"
 tags: ["एकल आमा", "साहस", "बालबालिका"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # एकل आमाको साहस
 

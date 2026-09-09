@@ -3,7 +3,7 @@ title: "激发小学生的创造力与行动力"
 date: 2026-06-21
 description: "让孩子们成为有创造力和行动力的未来领袖，通过实践和学习让他们展翅飞翔。"
 tags: ["小学生", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 激发小学生的创造力与行动力
 作为卡鲁酱，我很高兴与大家分享如何让小学生充满创造力和行动力。这些年轻的朋友们，是未来的希望和力量，他们的成长和发展对我们的社会和世界至关重要。

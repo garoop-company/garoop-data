@@ -3,7 +3,7 @@ title: "小学生のための夢創造ワークショップ"
 date: 2026-06-03
 description: "小学生の可能性を広げるワクワクした体験"
 tags: ["小学生", "起業", "創作", "夢"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小学生の可能性を広げるワクワクした世界
 小学生の時代は、夢や希望が広がる歳頃です。一人ひとりに特別な才能や興味があって、それを大きなものにすることができます。今天度、起業や創作の体験が、小学生の可能性を広げる鍵になると考えています。

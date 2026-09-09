@@ -3,7 +3,7 @@ title: "シングルマザーの子どもって、特別だ!"
 date: 2026-08-15
 description: "シングルマザーに関連する、子供たちの可能性を広げる話"
 tags: ["シングルマザー", "子ども", "可能性"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # はじめに
 こんにちは！ガルちゃんです！今日はとてもワクワクする話をします。シングルマザーということで、どんな人がいるのか興味があるよね？

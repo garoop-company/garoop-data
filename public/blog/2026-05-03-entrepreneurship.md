@@ -3,7 +3,7 @@ title: "夢を創造する起業の世界へようこそ！"
 date: 2026-05-03
 description: "起業とは何か？自分の夢を叶えるために、起業の基礎知識を学ぼう！"
 tags: ["起業", "創造性", "チャレンジ"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業の世界への招待
 こんにちは、ガルちゃんです！今日は「起業」という魅力的でワクワクしたテーマについてお話したいと思います。起業することで、自分だけのユニークなアイデアを実現し、夢を創造することができます。你の想像力を広げ、自分の可能性を信じていきましょう！

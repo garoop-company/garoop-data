@@ -3,7 +3,7 @@ title: "小学生の可能性を広げる"
 date: 2026-05-20
 description: "小学生のためのワクワクした学習法"
 tags: ["小学生", "学習", "起業"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小学生の可能性を広げる
 こんにちは、ガルちゃんです！今回は、小学生のためのワクワクした話をしましょう！

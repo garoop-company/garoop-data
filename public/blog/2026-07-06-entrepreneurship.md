@@ -3,7 +3,7 @@ title: "子供の夢を起業でかなえる！ガルちゃんと一緒に挑戦
 date: 2026-07-06
 description: "起業で子供の可能性を広げよう。ガルちゃんと一緒に夢をかなえる方法を学ぼう"
 tags: ["起業", "子供", "夢"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業って何？
 起業は、新しいビジネスやサービスを作ることです。新しいアイデアや工夫が必要で、そしてとてもワクワクすることが多いです。

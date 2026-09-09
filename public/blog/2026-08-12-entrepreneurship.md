@@ -3,7 +3,7 @@ title: "起業の世界で夢を追いこう!"
 date: 2026-08-12
 description: "起業の基本と可能性を紹介します。小学生が起業の世界に興味を持つためのガイド"
 tags: ["起業", "小学生", "夢を追う"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業とは何か
 起業とは、自分で会社を作ったり、事業を始めたりすることです。起業家は、新しいアイデアを実現させるために、大きな挑戦をします。起業家になると、自分の夢を実現させることができ、お金を稼ぐこともできます。

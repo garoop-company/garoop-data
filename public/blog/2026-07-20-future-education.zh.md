@@ -3,7 +3,7 @@ title: "开启未来教育的大门"
 date: 2026-07-20
 description: "让孩子们展开想象，激发创造力和行动力，开启属于他们的未来教育之旅。"
 tags: ["未来教育", "创造力", "行动力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来教育：激发孩子的创造力与行动力
 大家好，我是卡鲁酱！今天，我们要谈一个非常酷的话题——未来教育。未来教育不仅仅是学习现在的知识，更是关于如何让孩子们拥有超越现在、创造未来的能力。

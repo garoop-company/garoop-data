@@ -3,7 +3,7 @@ title: "解锁小学生的创造力"
 date: 2026-08-05
 description: "小学生阶段是孩子成长中非常重要的时期，如何激发孩子的创造力和行动力是家长和教育者共同关心的问题。"
 tags: ["小学生", "创造力", "创业教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 解锁小学生的创造力
 

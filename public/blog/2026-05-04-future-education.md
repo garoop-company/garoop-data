@@ -3,7 +3,7 @@ title: 未来の教育がもしも夢を叶える魔法だったら
 date: 2026-05-04
 description: 未来の教育について、子供たちの可能性を広げるワクワクした話
 tags: ["未来の教育", "子ども", "学習"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育がもしも夢を叶える魔法だったら
 未来は、どんな夢も叶えることができる魔法のような世界です。私たちが今学ぶ内容は、将来の自分を大きく決めるものなので、夢を叶えるための重要な鍵になっています。

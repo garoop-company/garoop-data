@@ -3,7 +3,7 @@ title: 未来教育：激发孩子的创造力和行动力
 date: 2026-06-30
 description: 未来教育不仅仅是学习知识，还包括激发孩子的创造力和行动力。通过探索新科技和创意项目，孩子们可以发展出解决问题的能力和创新思维。
 tags: ["未来教育", "创造力", "儿童发展"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来教育：激发孩子的创造力和行动力
 你好，小朋友和家长们！我是卡鲁酱，今天我们要谈论一个非常有趣的话题——未来教育。在未来，教育不再只是坐在课堂上听老师讲课，而是要激发孩子们的创造力和行动力。

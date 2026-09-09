@@ -3,7 +3,7 @@ title: Unlock 小学生的创造力和行动力
 date: 2026-05-10
 description: 本文将探讨如何激发小学生的创造力和行动力，帮助他们成为更自信和创新的个人。
 tags: ["小学生", "创造力", "行动力", "儿童教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # Unlock 小学生的创造力和行动力
 

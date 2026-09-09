@@ -3,7 +3,7 @@ title: "单亲妈妈的爱：激发孩子的创造力与行动力"
 date: 2026-07-10
 description: "了解单亲妈妈的爱和奋斗，激发孩子的创造力和行动力，发现成长的力量和可能。"
 tags: ["单亲妈妈", "创造力", "行动力", "家庭教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 单亲妈妈的爱：激发孩子的创造力与行动力
 你好，小伙伴们！我是卡鲁酱，今天我们要谈一个很重要的主题——单亲妈妈。可能你们中有些人的家庭就是这样的，妈妈独自一人抚养着你们。也许你们会想，单亲妈妈的生活会很辛苦吗？他们如何平衡工作和家庭？让我们一起去了解和学习。

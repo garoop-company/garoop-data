@@ -3,7 +3,7 @@ title: "小学生の可能性を広げる！梦中の未来への道"
 date: 2026-08-05
 description: "小学生の可能性を広げる為のTipsやアイデアを紹介します。"
 tags: ["小学生", "起業", "創作", "可能性"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # はじめに
 こんにちは！ガルちゃんです！今日は、小学生の皆さんへ夢中の未来への道について話していきます！

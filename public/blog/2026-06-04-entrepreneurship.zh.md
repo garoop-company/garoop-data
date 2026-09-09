@@ -3,7 +3,7 @@ title: "小小创业家的梦想"
 date: 2026-06-04
 description: "让孩子们从小了解创业的魅力，激发他们的创造力和行动力，共同探索创业的奇妙世界。"
 tags: ["创业", "儿童教育", "创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 创意十足的小小创业家
 

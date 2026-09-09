@@ -8,7 +8,7 @@ const groq = new Groq({
 
 const outputDirectory = path.join(process.cwd(), "public", "blog");
 const thumbnailTemplatePath = path.join(process.cwd(), "public", "garoopTVcolor.webp");
-const BLOG_BASE_URL = "https://garoop-data.vercel.app/blog";
+const BLOG_BASE_URL = "https://data.garoop.jp/blog";
 const defaultLocale = "ja";
 const LOCALIZED_POST_PATTERN = /^(.*)\.([a-z]{2})\.md$/i;
 

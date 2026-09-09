@@ -3,7 +3,7 @@ title: "小学生的创造力大爆发"
 date: 2026-06-16
 description: "激发小学生的创造力和行动力，从小做梦想家"
 tags: ["小学生", "创造力", "行动力", "梦想家"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 小学生的创造力大爆发
 

@@ -3,7 +3,7 @@ title: प्राथमिक विद्यालयका बालबा�
 date: 2026-08-05
 description: बालबालिकाहरूलाई सिर्जनशीलता र उद्यमशीलता सिकौं
 tags: ["प्राथमिक विद्यालय", "सिर्जनशीलता", "उद्यमशीलता", "बालबालिका"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # प्राथमिक विद्यालयका बालबालिकाहरूको सिर्जनशीलता र उद्यमशीलता
 

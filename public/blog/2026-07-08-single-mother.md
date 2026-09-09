@@ -3,7 +3,7 @@ title: シングルママのすごい力！梦中で自分を表現しよう
 date: 2026-07-08
 description: シングルマザーを支援する多くの取り組みや、子どもの夢を応援する活動について、GaroopTVのガルちゃんがお伝えします。
 tags: ["シングルマザー", "夢中", "支援", "子どもの夢"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # はじめに

@@ -3,7 +3,7 @@ title: "シングルママのすごい力！夢をかなえるために"
 date: 2026-07-13
 description: "シングルマザーが夢をかなえるために必要な力とは？一緒に探索しよう！"
 tags: ["シングルマザー", "夢", "可能性"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # シングルママのすごい力！
 こんにちは、ガルちゃんです！今日は「シングルマザー」をテーマにして、子供たちが夢をかなえるためのすごい力を探索しましょう！

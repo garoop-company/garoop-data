@@ -3,7 +3,7 @@ title: 未来の教育が子供たちの可能性を広げる！
 date: 2026-07-04
 description: 未来の教育が子供たちにどのような影響を与えるのかを探りましょう。
 tags: ["未来の教育", "子供たちの可能性", "創造性", "技術"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育が子供たちの可能性を広げる！
 未来の教育は、伝統的な授業스타イルから離れ、創造性や技術を重視しています。子供たちは、自分の興味や才能に応じて、さまざまな分野で学び、成長します。

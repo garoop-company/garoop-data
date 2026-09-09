@@ -3,7 +3,7 @@ title: 未来の教育で夢を広げよう！
 date: 2026-06-30
 description: 未来の教育で子供たちの可能性を広げるワクワクした話を紹介します。
 tags: ["未来の教育", "教育", "子供たち"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育とは
 未来の教育とは、現在の教育から一歩先を行く、新しい学習方法や技術を用いた教育のことです。例えば、AIやロボティクス、バーチャルリアリティなどの技術を利用して、より実践的で楽しい学習体験を提供することができます。

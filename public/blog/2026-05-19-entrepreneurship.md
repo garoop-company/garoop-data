@@ -3,7 +3,7 @@ title: "起業ってなんだろう？夢をかなえるために始めよう！
 date: 2026-05-19
 description: "起業について子供たちが知っておくべきこと"
 tags: ["起業", "創業", "小学生"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業って何？
 起業とは、自分のビジネスやプロジェクトを立ち上げることです。例えば、友達と一緒にペットシッターのサービスを始めたり、作った作品をオンラインで販売したりすることが起業の一例です。

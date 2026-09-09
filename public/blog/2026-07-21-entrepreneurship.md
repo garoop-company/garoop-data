@@ -3,7 +3,7 @@ title: "梦を持って大きなステップを踏み出そう！起業とは何
 date: 2026-07-21
 description: "起業家になりたいと思ったことはありませんか？自分で事業を開くという夢は、多くの人にとってカッコいいと思われています。"
 tags: ["起業", "夢", "挑戦"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業とは
 起業家になると、自由に仕事ができるし、多くの人に夢を見せることができます。起業家は、新しいアイディアやプロダクトを作成し、それを世の中に広める人です。

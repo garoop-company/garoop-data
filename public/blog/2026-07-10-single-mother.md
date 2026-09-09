@@ -3,7 +3,7 @@ title: "ガルちゃんのワクワク話！シングルマザーって何？"
 date: 2026-07-10
 description: "ガルちゃんがシングルマザーについて話します。"
 tags: ["シングルマザー", "家族", "子育て"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # はじめに
 おはよう！ガルちゃんだよ！今日は「シングルマザー」というテーマについて話そうと思ったんだ。

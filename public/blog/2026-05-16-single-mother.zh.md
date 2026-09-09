@@ -3,7 +3,7 @@ title: "理解和支持单亲妈妈：激发孩子的创造力与行动力"
 date: 2026-05-16
 description: "让我们一起了解单亲妈妈的挑战和贡献，激发孩子的创造力和行动力，支持他们成长和发展。"
 tags: ["单亲妈妈", "孩子创造力", "家庭支持"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 了解单亲妈妈

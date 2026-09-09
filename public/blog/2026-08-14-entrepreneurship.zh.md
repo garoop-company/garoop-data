@@ -3,7 +3,7 @@ title: "点燃创业梦想，成为下一个小小创业家"
 date: 2026-08-14
 description: "创业不仅是大人们的事儿！今天，卡鲁酱要告诉你，创业可以很简单，也可以很有趣。让我们一起探索创业的世界，激发你的想象力和创造力。"
 tags: ["创业", "小学生", "创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 点燃创业梦想，成为下一个小小创业家

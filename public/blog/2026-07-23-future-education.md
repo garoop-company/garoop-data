@@ -3,7 +3,7 @@ title: 未来の教育で夢を広げよう！
 date: 2026-07-23
 description: 未来の教育とは？子供たちが新しいアイデアを生み出すためのヒントを紹介します。
 tags: ["未来の教育", "創造性", "起業", "学習"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育で夢を広げよう！
 未来の教育には、いろいろ なりたいというあなたの夢を叶えるための新しい学びの方法がたくさんあります。例えば、プログラミング、デザイン、起業など、多くの分野で創造性を培うことができます。

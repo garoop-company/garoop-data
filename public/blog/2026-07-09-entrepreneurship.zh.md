@@ -3,7 +3,7 @@ title: "一起创业吧！"
 date: 2026-07-09
 description: "创业不仅仅是大人们的事情，孩子们也可以开始自己的创业之旅。从小事开始，找到自己的热情和兴趣，创造出属于自己的产品或服务。"
 tags: ["创业", "小学生创业", "儿童创业"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 一起创业吧！
 你好，小朋友们！我是卡鲁酱，来自GaroopTV。这次，我们要谈论一个非常有趣的话题——创业！

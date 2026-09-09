@@ -3,7 +3,7 @@ title: 未来の教育があなたをスーパースターにする！
 date: 2026-07-02
 description: 未来の教育のワクワクした話を紹介します。
 tags: ["未来の教育", "学習", " 子供たち"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育の時代がやってくる！
 未来の教育は、子供たちの可能性を広げるための新しい学習スタイルです。ここでは、未来の教育がどのようにあなたをスーパースターにするのかを紹介します。

@@ -3,7 +3,7 @@ title: "单亲妈妈：勇敢的力量"
 date: 2026-04-30
 description: "单亲妈妈面临许多挑战，但她们的勇气和决心激励着我们。让我们探索单亲妈妈的世界，发现她们的故事，并激发我们的创造力和行动力。"
 tags: ["单亲妈妈", "家庭", "创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 单亲妈妈：勇敢的力量

@@ -3,7 +3,7 @@ title: 未来の教育があなたを超能力者に変える！
 date: 2026-07-31
 description: 未来の教育がもたらす可能性とは何か？
 tags: ["教育", "未来", "子供たち"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 未来の教育がもたらす可能性
 未来の教育は、ただ伝統的な方法で教えるところではなく、子供たちの可能性を広げるためのものです。新しいテクノロジーや創造的な考え方を学ぶことで、子供たちは自分の夢を実現させることができます。

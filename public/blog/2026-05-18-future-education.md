@@ -3,7 +3,7 @@ title: 未来の教育で夢を描こう！
 date: 2026-05-18
 description: 未来の教育について学ぶ
 tags: ["教育", "未来", "夢"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # はじめに
 こんにちは、ガルちゃんです！今回は未来の教育について話しましょう。未来の教育について学ぶことで、子供たちの可能性を広げることができますよ。

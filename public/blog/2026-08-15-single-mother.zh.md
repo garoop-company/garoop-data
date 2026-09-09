@@ -3,7 +3,7 @@ title: "单亲妈妈：创造力和勇气的典范"
 date: 2026-08-15
 description: "了解单亲妈妈的坚强和勇气，激发孩子的创造力和行动力。"
 tags: ["单亲家庭", "家庭教育", "儿童创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 单亲妈妈：创造力和勇气的典范
 大家好！我是卡鲁酱，今天我们要谈论一个非常重要的话题：单亲妈妈。单亲妈妈是家里唯一的照顾者，她们需要同时扮演妈妈和爸爸的角色。想象一下，你的妈妈不仅要做饭、打扫卫生，还要去工作和陪伴你。这不是很厉害吗？

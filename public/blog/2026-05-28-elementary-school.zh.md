@@ -3,7 +3,7 @@ title: "激发小学生的创造力与行动力"
 date: 2026-05-28
 description: "卡鲁酱带你探索如何激发小学生的创造力与行动力，鼓励他们勇敢尝试和创造。"
 tags: ["小学生", "创造力", "行动力", "教育"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 激发小学生的创造力与行动力

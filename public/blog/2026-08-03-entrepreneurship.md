@@ -3,7 +3,7 @@ title: "夢を実現する起業の世界へ"
 date: 2026-08-03
 description: "起業について学ぶことで、子供たちの可能性を広げよう"
 tags: ["起業", "小学生", "創造性"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 起業の世界への冒険
 こんにちは、ガルちゃんです！今日は、夢を実現するための起業について話そうと思います。起業って何かわからない？それは、自分のアイデアを形にして、世の中に元気に届けることだよ！新しいサービスを始めたり、自分で商品を作ったり、できることできることやってみるんだ。

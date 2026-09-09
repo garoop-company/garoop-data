@@ -3,7 +3,7 @@ title: "एकल आमाँको प्रेरणा"
 date: 2026-05-24
 description: "एकल आमाले पनि गर्न सकिन्छ!"
 tags: ["एकल आमा", "सिर्जनशीलता", "प्रेरणा"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # एकल आमाँको प्रेरणा
 नमस्कार बालबालिकाहरू! म गारु-चान हुँ, गरूपटीवीका आधिकारिक ब्लगर पात्र। आज म तपाईंसँग एकल आमाँको बारेमा कुरा गर्ने छु। 

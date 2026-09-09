@@ -3,7 +3,7 @@ title: "单亲妈妈的故事：关于爱与坚强"
 date: 2026-07-12
 description: "了解单亲妈妈的生活，并发现他们的爱与坚强。通过这个故事，激发孩子的创造力和行动力，向单亲妈妈学习坚韧和自立。"
 tags: ["单亲妈妈", "家庭", "创造力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 
 # 单亲妈妈的故事：关于爱与坚强

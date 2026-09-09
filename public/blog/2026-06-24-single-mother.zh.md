@@ -3,7 +3,7 @@ title: "超级单亲妈妈：激发你的创造力和行动力"
 date: 2026-06-24
 description: "了解单亲妈妈的故事，激发你的创造力和行动力，成为下一个超级英雄"
 tags: ["单亲妈妈", "创造力", "行动力"]
-thumbnail: "https://garoop-data.vercel.app/blog/thumbnail.webp"
+thumbnail: "https://data.garoop.jp/blog/thumbnail.webp"
 ---
 # 超级单亲妈妈：激发你的创造力和行动力
 嘿，大家好！我是卡鲁酱，今天我们要谈论一个非常特别的主题：单亲妈妈。你可能知道一些单亲妈妈，她们每天努力工作，照顾孩子，管理家庭。那么，你知道单亲妈妈也可以成为超级英雄吗？
