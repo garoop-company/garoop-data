@@ -52,7 +52,7 @@ npm run dev
 ```bash
 chmod +x scripts/codex/run-daily-plan.sh
 export GROQ_API_KEY='your-groq-api-key'
-export GROQ_MODEL='llama-3.1-8b-instant'
-export GROQ_MODEL_CANDIDATES='llama-3.1-8b-instant,llama-3.3-70b-versatile,gemma2-9b-it'
+export GROQ_MODEL='openai/gpt-oss-20b'
+export GROQ_MODEL_CANDIDATES='openai/gpt-oss-20b,openai/gpt-oss-120b,qwen/qwen3.8-27b'
 ./scripts/codex/run-daily-plan.sh 2026-02-20
 ```

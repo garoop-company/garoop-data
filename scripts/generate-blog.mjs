@@ -244,7 +244,7 @@ async function generateLocalizedPost(theme, locale, date) {
         content: localeConfig.prompt({ theme, date, thumbnail }),
       },
     ],
-    model: "llama-3.3-70b-versatile",
+    model: "openai/gpt-oss-120b",
   });
 
   const content = chatCompletion.choices[0]?.message?.content;

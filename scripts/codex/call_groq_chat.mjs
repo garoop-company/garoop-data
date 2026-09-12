@@ -26,7 +26,7 @@ if (!outputPath) {
 }
 
 const apiKey = process.env.GROQ_API_KEY;
-const model = process.env.GROQ_MODEL || "llama-3.1-8b-instant";
+const model = process.env.GROQ_MODEL || "openai/gpt-oss-20b";
 const modelCandidates = [...new Set((process.env.GROQ_MODEL_CANDIDATES || model).split(",").map((value) => value.trim()).filter(Boolean))];
 const endpoint = process.env.GROQ_API_BASE || "https://api.groq.com/openai/v1/chat/completions";
 const prompt = fs.readFileSync(promptPath, "utf8");
