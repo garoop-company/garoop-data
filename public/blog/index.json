@@ -5881,6 +5881,51 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-12-creation": {
+      "default": "2026-09-12-creation.md",
+      "locales": {
+        "ne": "2026-09-12-creation.ne.md",
+        "zh": "2026-09-12-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作でひらめきを育てよう！ワクワク冒険のはじまり",
+          "date": "2026-09-12",
+          "description": "子どもの創造力を刺激し、夢を形にするヒントを紹介。楽しい創作活動で可能性が広がります。",
+          "tags": [
+            "創作",
+            "アイデア発想",
+            "子ども向け学び",
+            "スタートアップ"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जनाको जादु: सानो सोचले ठूलो सम्भावना",
+          "date": "2026-09-12",
+          "description": "सिर्जनात्मक सोचले बच्चाहरुको भविष्य उज्यालो बनाउँछ। खेल्दै सिक्ने तरिका यहाँ छ!",
+          "tags": [
+            "सिर्जना",
+            "उद्यमशीलता",
+            "बालबालिकाको सम्भावना",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "让创意起飞！孩子的创作小技巧",
+          "date": "2026-09-12",
+          "description": "帮助小朋友发现创作的乐趣，提供实用方法点燃创造力，让行动更有力量。",
+          "tags": [
+            "创作",
+            "创造力",
+            "儿童教育",
+            "动手实践"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
