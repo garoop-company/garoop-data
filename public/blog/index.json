@@ -5926,6 +5926,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-13-children": {
+      "default": "2026-09-13-children.md",
+      "locales": {
+        "ne": "2026-09-13-children.ne.md",
+        "zh": "2026-09-13-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "キラキラ光る子どもの未来！可能性を広げるワクワク冒険",
+          "date": "2026-09-13",
+          "description": "子どもの好奇心と創造力を引き出すヒントを紹介。遊び感覚で学び、未来の起業家やクリエイターになる第一歩を踏み出そう！",
+          "tags": [
+            "子ども",
+            "可能性",
+            "起業",
+            "創作",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिकाको अनन्त सम्भावना: साँचो सिर्जनात्मकता कसरी उजागर गर्ने?",
+          "date": "2026-09-13",
+          "description": "बालबालिकाको अद्भुत क्षमता र सिर्जनात्मकता बृद्धि गर्न सजिलो उपायहरू, खेल र विचारहरू।",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनात्मकता",
+            "उद्यमशीलता",
+            "शिक्षा",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "让孩子的想象力起飞——创意行动指南",
+          "date": "2026-09-13",
+          "description": "用有趣的小游戏、动手实验和小项目，帮助小朋友激发创造力、培养行动力，让学习变成一次次精彩冒险。",
+          "tags": [
+            "创意",
+            "行动力",
+            "亲子活动",
+            "学习乐趣"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
