@@ -6147,6 +6147,54 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-15-creation": {
+      "default": "2026-09-15-creation.md",
+      "locales": {
+        "ne": "2026-09-15-creation.ne.md",
+        "zh": "2026-09-15-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "はじめよう！みんなの創作ワクワク大冒険",
+          "date": "2026-09-15",
+          "description": "創作の楽しさとアイデアの広げ方を、子どもたちと保護者が一緒に体験できるワクワクガイドです。",
+          "tags": [
+            "創作",
+            "子ども",
+            "アイデア",
+            "学び",
+            "スタートアップ"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जनाको जादु: सानो हातले ठूलो सपना कसरी बुन्छ?",
+          "date": "2026-09-15",
+          "description": "सिर्जनात्मक सोचलाई उजागर गर्ने, बालबालिकाको कल्पनाशक्ति र आत्मविश्वास बढाउने सरल टिप्स।",
+          "tags": [
+            "सिर्जना",
+            "उद्यमशीलता",
+            "बालशिक्षा",
+            "प्रेरणा",
+            "स्टार्टअप"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "点燃创意火花：让孩子爱上创作的10个小技巧",
+          "date": "2026-09-15",
+          "description": "用简单有趣的方式帮助小朋友发现创作的乐趣，培养创造力和行动力，让学习变成一次奇妙的冒险。",
+          "tags": [
+            "创作",
+            "创造力",
+            "亲子互动",
+            "行动力",
+            "学习"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
