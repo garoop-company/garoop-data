@@ -1,10 +1,9 @@
 import fs from "fs";
 import path from "path";
-import Groq from "groq-sdk";
+import { pathToFileURL } from "url";
 
-const groq = new Groq({
-  apiKey: process.env.GROQ_API_KEY,
-});
+// 記事を生成するときだけ groq-sdk を読み込む（修復などで関数だけ import しても API キーや依存を必要としないように）
+let groq = null;
 
 const outputDirectory = path.join(process.cwd(), "public", "blog");
 const thumbnailTemplatePath = path.join(process.cwd(), "public", "garoopTVcolor.webp");
@@ -173,31 +172,64 @@ function ensureThumbnailAsset() {
   return `${BLOG_BASE_URL}/thumbnail.webp`;
 }
 
+// 1 行の文字列項目。AI が `title: बालबालिका : हाम्रो भविष्य` のように引用符なしで返すと、
+// 値の中の ": " で YAML が壊れ、サイト（gray-matter）で記事が読み込めなくなる。
+const STRING_KEYS = ["title", "description", "thumbnail"];
+
+function unquoteYamlScalar(raw) {
+  const value = raw.trim();
+  if (value.length >= 2 && value.startsWith('"') && value.endsWith('"')) {
+    try {
+      return JSON.parse(value);
+    } catch {
+      return value.slice(1, -1);
+    }
+  }
+  if (value.length >= 2 && value.startsWith("'") && value.endsWith("'")) {
+    return value.slice(1, -1).replace(/''/g, "'");
+  }
+  return value;
+}
+
+/** front matter の文字列項目を、かならずダブルクォートで囲み直す（JSON の文字列表記は YAML の二重引用符としても正しい） */
+export function normalizeFrontMatter(content) {
+  const match = content.match(/^---\s*\n([\s\S]*?)\n---/);
+  if (!match) return content;
+  const lines = match[1].split("\n").map((line) => {
+    const m = line.match(/^(\w+):\s*(.*)$/);
+    if (!m || !STRING_KEYS.includes(m[1])) return line;
+    return `${m[1]}: ${JSON.stringify(unquoteYamlScalar(m[2]))}`;
+  });
+  return content.replace(match[0], () => `---\n${lines.join("\n")}\n---`);
+}
+
 function parseFrontMatter(content) {
   const match = content.match(/^---\s*\n([\s\S]*?)\n---/);
   if (!match) return {};
   const yaml = match[1];
   const result = {};
+  // 引用符の有無にかかわらず読む。キーの順は index.json の差分が出ないよう従来どおりにする
+  const readString = (key) => {
+    const m = yaml.match(new RegExp(`^${key}:\\s*(.+)$`, "m"));
+    if (m) result[key] = unquoteYamlScalar(m[1]);
+  };
 
-  const titleM = yaml.match(/^title:\s*"([^"]*)"$/m);
-  if (titleM) result.title = titleM[1];
+  readString("title");
 
   const dateM = yaml.match(/^date:\s*(\S+)$/m);
   if (dateM) result.date = String(dateM[1]).replace(/^["']|["']$/g, "");
 
-  const descM = yaml.match(/^description:\s*"([^"]*)"$/m);
-  if (descM) result.description = descM[1];
+  readString("description");
 
   const tagsM = yaml.match(/^tags:\s*\[([^\]]*)\]$/m);
   if (tagsM) result.tags = tagsM[1].split(",").map((t) => t.trim().replace(/^["']|["']$/g, ""));
 
-  const thumbM = yaml.match(/^thumbnail:\s*"([^"]*)"$/m);
-  if (thumbM) result.thumbnail = thumbM[1];
+  readString("thumbnail");
 
   return result;
 }
 
-function regenerateIndex() {
+export function regenerateIndex() {
   const fileNames = fs.readdirSync(outputDirectory).filter((f) => f.endsWith(".md"));
   const entries = {};
 
@@ -258,7 +290,7 @@ async function generateLocalizedPost(theme, locale, date) {
     .replace(/\s*```$/, "");
 
   const filePath = getOutputPath(baseSlug, locale);
-  fs.writeFileSync(filePath, cleanContent);
+  fs.writeFileSync(filePath, normalizeFrontMatter(cleanContent));
   console.log(`Generated: ${filePath}`);
 }
 
@@ -266,6 +298,8 @@ async function generateBlogPost() {
   if (!process.env.GROQ_API_KEY) {
     throw new Error("GROQ_API_KEY is not set");
   }
+  const { default: Groq } = await import("groq-sdk");
+  groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
   fs.mkdirSync(outputDirectory, { recursive: true });
 
@@ -280,7 +314,10 @@ async function generateBlogPost() {
   regenerateIndex();
 }
 
-generateBlogPost().catch((error) => {
-  console.error("Error generating blog post:", error);
-  process.exit(1);
-});
+// node scripts/generate-blog.mjs で直接実行したときだけ記事を生成する
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  generateBlogPost().catch((error) => {
+    console.error("Error generating blog post:", error);
+    process.exit(1);
+  });
+}
