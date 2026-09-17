@@ -6243,6 +6243,52 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-17-entrepreneurship": {
+      "default": "2026-09-17-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-09-17-entrepreneurship.ne.md",
+        "zh": "2026-09-17-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "起業は冒険だ！ガルちゃんと学ぶワクワク起業ストーリー",
+          "date": "2026-09-17",
+          "description": "起業の楽しさや子どもの可能性を広げる方法を、ガルちゃんが元気にわかりやすく紹介！小学生と保護者にぴったりのヒントが満載です。",
+          "tags": [
+            "起業",
+            "子ども",
+            "スタートアップ",
+            "創作",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता: सानो विचार, ठूलो सम्भावना",
+          "date": "2026-09-17",
+          "description": "उद्यमशीलताको मजा र सम्भावनालाई बालबालिकाका लागि सरल र उत्साहजनक ढंगले बुझाउने गाइड",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जना",
+            "बालबालिका",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家：从创意到行动的奇妙旅程",
+          "date": "2026-09-17",
+          "description": "帮助孩子用小创意开启大梦想，学会从想法到行动的创业步骤。",
+          "tags": [
+            "创业",
+            "创造力",
+            "儿童教育",
+            "行动力"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
