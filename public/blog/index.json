@@ -6147,6 +6147,290 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-15-creation": {
+      "default": "2026-09-15-creation.md",
+      "locales": {
+        "ne": "2026-09-15-creation.ne.md",
+        "zh": "2026-09-15-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "はじめよう！みんなの創作ワクワク大冒険",
+          "date": "2026-09-15",
+          "description": "創作の楽しさとアイデアの広げ方を、子どもたちと保護者が一緒に体験できるワクワクガイドです。",
+          "tags": [
+            "創作",
+            "子ども",
+            "アイデア",
+            "学び",
+            "スタートアップ"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जनाको जादु: सानो हातले ठूलो सपना कसरी बुन्छ?",
+          "date": "2026-09-15",
+          "description": "सिर्जनात्मक सोचलाई उजागर गर्ने, बालबालिकाको कल्पनाशक्ति र आत्मविश्वास बढाउने सरल टिप्स।",
+          "tags": [
+            "सिर्जना",
+            "उद्यमशीलता",
+            "बालशिक्षा",
+            "प्रेरणा",
+            "स्टार्टअप"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "点燃创意火花：让孩子爱上创作的10个小技巧",
+          "date": "2026-09-15",
+          "description": "用简单有趣的方式帮助小朋友发现创作的乐趣，培养创造力和行动力，让学习变成一次奇妙的冒险。",
+          "tags": [
+            "创作",
+            "创造力",
+            "亲子互动",
+            "行动力",
+            "学习"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-09-16-children": {
+      "default": "2026-09-16-children.md",
+      "locales": {
+        "ne": "2026-09-16-children.ne.md",
+        "zh": "2026-09-16-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "子どもの可能性を広げよう！ワクワク冒険のはじまり",
+          "date": "2026-09-16",
+          "description": "子どもの好奇心と創造力を刺激し、スタートアップや創作の世界へ導くワクワク体験を紹介します。",
+          "tags": [
+            "子ども",
+            "可能性",
+            "創作",
+            "起業",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिकाको अद्भुत क्षमता: सृजनात्मकता र उद्यमशीलताको यात्रा",
+          "date": "2026-09-16",
+          "description": "बालबालिकामा लुकेका सम्भावनालाई उजागर गर्ने, सृजनशीलता र आत्मविश्वास बढाउने प्रेरणादायक लेख।",
+          "tags": [
+            "बालबालिका",
+            "सृजनात्मकता",
+            "उद्यमशीलता",
+            "शिक्षा",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "点燃孩子的创造力，让小小行动者起航",
+          "date": "2026-09-16",
+          "description": "用有趣的方式帮助孩子发现兴趣、培养创意、迈出行动第一步，让学习变成玩乐的冒险。",
+          "tags": [
+            "创意",
+            "行动力",
+            "亲子",
+            "学习",
+            "玩乐"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-09-17-entrepreneurship": {
+      "default": "2026-09-17-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-09-17-entrepreneurship.ne.md",
+        "zh": "2026-09-17-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "起業は冒険だ！ガルちゃんと学ぶワクワク起業ストーリー",
+          "date": "2026-09-17",
+          "description": "起業の楽しさや子どもの可能性を広げる方法を、ガルちゃんが元気にわかりやすく紹介！小学生と保護者にぴったりのヒントが満載です。",
+          "tags": [
+            "起業",
+            "子ども",
+            "スタートアップ",
+            "創作",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता: सानो विचार, ठूलो सम्भावना",
+          "date": "2026-09-17",
+          "description": "उद्यमशीलताको मजा र सम्भावनालाई बालबालिकाका लागि सरल र उत्साहजनक ढंगले बुझाउने गाइड",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जना",
+            "बालबालिका",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家：从创意到行动的奇妙旅程",
+          "date": "2026-09-17",
+          "description": "帮助孩子用小创意开启大梦想，学会从想法到行动的创业步骤。",
+          "tags": [
+            "创业",
+            "创造力",
+            "儿童教育",
+            "行动力"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-09-18-ai": {
+      "default": "2026-09-18-ai.md",
+      "locales": {
+        "ne": "2026-09-18-ai.ne.md",
+        "zh": "2026-09-18-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIで未来をひらく！ガルちゃんと一緒にワクワク探検",
+          "date": "2026-09-18",
+          "description": "AIの仕組みや活用例を楽しく学び、子どもたちの創造力と起業マインドを広げるヒントを紹介。ガルちゃんと一緒に未来の可能性を探検しよう！",
+          "tags": [
+            "AI",
+            "子供向け",
+            "スタートアップ",
+            "創作",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI सँग खेलौँ: भविष्यको जादू!",
+          "date": "2026-09-18",
+          "description": "AI को रमाइलो संसार, बालबालिकाको कल्पना र सिर्जनशीलता उजागर गर्ने तरिकाहरू",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI 小探险：让创意飞起来的神奇伙伴",
+          "date": "2026-09-18",
+          "description": "用生动有趣的方式向小朋友和家长介绍 AI，激发孩子的想象力与动手能力，开启创意之旅。",
+          "tags": [
+            "AI",
+            "创意",
+            "儿童教育",
+            "动手实验"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-09-19-future-education": {
+      "default": "2026-09-19-future-education.md",
+      "locales": {
+        "ne": "2026-09-19-future-education.ne.md",
+        "zh": "2026-09-19-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "未来の教育で広がるキミの可能性！ワクワク体験ガイド",
+          "date": "2026-09-19",
+          "description": "AIやVR、プロジェクト学習で未来の教室がどんなにワクワクするかを子どもと保護者にわかりやすく紹介し、可能性を広げる新しい学びのカタチをお届けします。",
+          "tags": [
+            "未来教育",
+            "子どもの可能性",
+            "創作",
+            "スタートアップ",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा: हाम्रो सानो सितारा कसरी चम्काउने?",
+          "date": "2026-09-19",
+          "description": "भविष्यको कक्षामा रचनात्मकता, प्रविधि, र सहयोगले बालबालिकाको सम्भावना कसरी खोल्छ भन्ने कथा।",
+          "tags": [
+            "भविष्यकोशिक्षा",
+            "रचनात्मकता",
+            "उद्यमशीलता",
+            "बालविकास",
+            "प्रविधि"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "探索未来教育：让孩子的创造力飞起来",
+          "date": "2026-09-19",
+          "description": "一起了解未来教育的趋势，分享激发孩子创造力与行动力的实用方法，让学习变得有趣又有意义。",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "行动力",
+            "亲子共学",
+            "STEM"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
+    },
+    "2026-09-20-entrepreneurship": {
+      "default": "2026-09-20-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-09-20-entrepreneurship.ne.md",
+        "zh": "2026-09-20-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "ワクワク起業探検隊！子どもと一緒に未来のビジネスをつくろう",
+          "date": "2026-09-20",
+          "description": "子どもたちが起業の楽しさを体感し、創造力と行動力を育むヒントや実例をわかりやすく紹介し、未来の可能性を広げます。",
+          "tags": [
+            "起業",
+            "子ども",
+            "創造力",
+            "スタートアップ"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलताको जादू: साना कल्पनाहरु ठूलो सफलता बनाउने यात्रा",
+          "date": "2026-09-20",
+          "description": "साना बच्चाहरूलाई उद्यमशीलताको जादू सिकाउने प्रेरणादायक कथा र टिप्स।",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "प्रेरणा",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家：让创意飞起来！",
+          "date": "2026-09-20",
+          "description": "卡鲁酱带你一起发现创业的乐趣，教孩子把兴趣变成小项目，培养创造力和行动力，让每个小小梦想都有实现的可能。",
+          "tags": [
+            "创业",
+            "创造力",
+            "小学生",
+            "亲子",
+            "行动力"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
