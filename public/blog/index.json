@@ -6431,6 +6431,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-21-children": {
+      "default": "2026-09-21-children.md",
+      "locales": {
+        "ne": "2026-09-21-children.ne.md",
+        "zh": "2026-09-21-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "子どもの無限大パワー！未来をつくるヒント",
+          "date": "2026-09-21",
+          "description": "子どもの可能性を広げる楽しいアイディアと実践法をご紹介。好奇心を冒険に変えて、創造力と起業心を育むコツが満載です！",
+          "tags": [
+            "子ども",
+            "可能性",
+            "創造力",
+            "起業",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिकाको सम्भावना उजागर गर्ने सरल उपायहरू",
+          "date": "2026-09-21",
+          "description": "बालबालिकाको सम्भावना खोल्ने, सिर्जनशीलता बढाउने सरल र रमाइलो टिप्सहरू।",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनात्मकता",
+            "उद्यमशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "点燃创意的火花：让孩子动手做、动脑想",
+          "date": "2026-09-21",
+          "description": "用简单有趣的方式，帮助小朋友和家长一起发现创意潜能，培养行动力，让每一天都充满探索与成长。",
+          "tags": [
+            "孩子",
+            "创造力",
+            "行动力",
+            "亲子活动",
+            "GaroopTV"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
