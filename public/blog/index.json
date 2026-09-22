@@ -6478,6 +6478,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-22-elementary-school": {
+      "default": "2026-09-22-elementary-school.md",
+      "locales": {
+        "ne": "2026-09-22-elementary-school.ne.md",
+        "zh": "2026-09-22-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生のキミへ！未来をひらくワクワク探検",
+          "date": "2026-09-22",
+          "description": "小学生でもできる！アイディアを形にする楽しさやチームで創作するワクワク体験をご紹介。未来の起業家への第一歩を一緒に踏み出そう！",
+          "tags": [
+            "小学生",
+            "起業体験",
+            "創作活動",
+            "可能性",
+            "トレーニング"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सपना देख, सोच, र बनाउ: प्राथमिक विद्यालयका बालबालिकाका लागि सिर्जनात्मक यात्रा",
+          "date": "2026-09-22",
+          "description": "बालबालिकाको सम्भावना खोल्ने, सिर्जनात्मक सोच बढाउने रमाइलो कथा",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जनात्मकता",
+            "बालशिक्षा",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "点燃小学生的创造力：从想法到行动的有趣指南",
+          "date": "2026-09-22",
+          "description": "帮助小学生和家长一起发现创意火花，用简单步骤把点子变成实际作品，激发孩子的行动力与自信。",
+          "tags": [
+            "小学生",
+            "创造力",
+            "行动力",
+            "亲子教育",
+            "GaroopTV"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
