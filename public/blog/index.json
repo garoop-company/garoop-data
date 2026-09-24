@@ -6573,6 +6573,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-24-elementary-school": {
+      "default": "2026-09-24-elementary-school.md",
+      "locales": {
+        "ne": "2026-09-24-elementary-school.ne.md",
+        "zh": "2026-09-24-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生でもできる！未来をひらくワクワクアイデア10選",
+          "date": "2026-09-24",
+          "description": "小学生が楽しみながら学べる起業や創作のヒントを紹介！可能性を広げるワクワク体験が満載です。",
+          "tags": [
+            "小学生",
+            "起業",
+            "創作",
+            "可能性",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सपना साकार गर्ने: प्राथमिक बालबालिकाका लागि सृजनशीलता र उद्यमशीलताको यात्रा",
+          "date": "2026-09-24",
+          "description": "प्राथमिक बालबालिकाको क्षमता उजागर गर्ने र सिर्जनात्मक सोच विकास गर्ने प्रेरणादायी लेख।",
+          "tags": [
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालशिक्षा",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "激发小学生创造力的5个小技巧",
+          "date": "2026-09-24",
+          "description": "用有趣的方式帮助小学生点燃想象火花，培养动手能力，让创意和行动一起飞扬。",
+          "tags": [
+            "小学生",
+            "创造力",
+            "行动力",
+            "亲子教育",
+            "GaroopTV"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
