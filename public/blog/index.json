@@ -6620,6 +6620,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-25-children": {
+      "default": "2026-09-25-children.md",
+      "locales": {
+        "ne": "2026-09-25-children.ne.md",
+        "zh": "2026-09-25-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "子どもの無限大パワー！未来をつくるワクワク体験",
+          "date": "2026-09-25",
+          "description": "子どもの可能性を広げるヒントと楽しいアクティビティを紹介。未来の起業家やクリエイターへの第一歩を応援します。みんなで一緒にワクワクしながら学ぼう！",
+          "tags": [
+            "子ども",
+            "可能性",
+            "起業",
+            "創作",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिकाको सृजनात्मक सम्भावना कसरी उजागर गर्ने",
+          "date": "2026-09-25",
+          "description": "बालबालिकाको सम्भावना खोल्न, सृजनशीलता बढाउन सरल तरिकाहरू",
+          "tags": [
+            "बालबालिका",
+            "सृजनशीलता",
+            "उद्यमशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "让孩子的创意飞起来——激发小小冒险家的行动力",
+          "date": "2026-09-25",
+          "description": "分享有趣的方式，帮助孩子在游戏、手作和日常生活中点燃创造力，培养行动力，让他们勇敢探索、动手实践。",
+          "tags": [
+            "孩子创意",
+            "行动力",
+            "亲子教育",
+            "DIY",
+            "探索"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
