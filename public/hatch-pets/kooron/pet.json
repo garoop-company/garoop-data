@@ -73,5 +73,7 @@
       "purpose": "ready or completed output review"
     }
   ],
+  "spritesheetMiniPath": "spritesheet-mini.webp",
+  "spritesheetMiniUrl": "/hatch-pets/kooron/spritesheet-mini.webp",
   "sourceRun": "hatch-pet-runs/garu-style-20260602/kooron"
 }

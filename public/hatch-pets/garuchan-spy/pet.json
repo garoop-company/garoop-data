@@ -72,5 +72,7 @@
       "purpose": "ready or completed output review"
     }
   ],
+  "spritesheetMiniPath": "spritesheet-mini.webp",
+  "spritesheetMiniUrl": "/hatch-pets/garuchan-spy/spritesheet-mini.webp",
   "sourceRun": "hatch-pet-runs/garuchan-spy"
 }

@@ -1,5 +1,6 @@
 import { cp, mkdir, readFile, readdir, rm, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
+import sharp from "sharp";
 
 const root = process.cwd();
 const runsRoot = path.join(root, "hatch-pet-runs");
@@ -25,6 +26,22 @@ const rowPurposes = {
   running: "active task work or processing",
   review: "ready or completed output review",
 };
+
+// 小さく表示する用途（グラフのアイコンなど）の軽量スプライト。
+// 元のセル 192x208 を 128x139 に縮める（64px 表示なら Retina でもくっきり）。
+// 並びは元と同じなので、pet.json の atlas・rows をそのまま使え、CSS の background-size も元の寸法で指定すればよい。
+// 元の約 2MB → 約 300KB。
+const miniCell = { width: 128, height: 139 };
+const miniFileName = "spritesheet-mini.webp";
+
+async function writeMiniSpritesheet(source, destination, petAtlas) {
+  const width = petAtlas.columns * miniCell.width;
+  const height = petAtlas.rows * miniCell.height;
+  await sharp(source)
+    .resize(width, height, { fit: "fill", kernel: "lanczos3" })
+    .webp({ quality: 75, alphaQuality: 100, effort: 6, smartSubsample: true })
+    .toFile(destination);
+}
 
 function toPublicPath(...parts) {
   return `/${path.posix.join("hatch-pets", ...parts)}`;
@@ -212,6 +229,7 @@ async function main() {
     await mkdir(destination, { recursive: true });
 
     await cp(item.spritesheetPath, path.join(destination, "spritesheet.webp"));
+    await writeMiniSpritesheet(item.spritesheetPath, path.join(destination, miniFileName), item.pet.atlas);
     await cp(item.validationPath, path.join(destination, "validation.json"));
 
     if (item.contactSheetPath) {
@@ -220,6 +238,8 @@ async function main() {
 
     const publicPet = {
       ...item.pet,
+      spritesheetMiniPath: miniFileName,
+      spritesheetMiniUrl: toPublicPath(item.id, miniFileName),
       sourceRun: item.sourceDirectory,
     };
 
@@ -232,6 +252,7 @@ async function main() {
       description: publicPet.description,
       petUrl: toPublicPath(item.id, "pet.json"),
       spritesheetUrl: publicPet.spritesheetUrl,
+      spritesheetMiniUrl: publicPet.spritesheetMiniUrl,
       contactSheetUrl: publicPet.contactSheetUrl,
       validationUrl: publicPet.validationUrl,
       sourceRun: item.sourceDirectory,
