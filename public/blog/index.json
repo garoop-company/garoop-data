@@ -6714,6 +6714,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-27-future-education": {
+      "default": "2026-09-27-future-education.md",
+      "locales": {
+        "ne": "2026-09-27-future-education.ne.md",
+        "zh": "2026-09-27-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "未来の教育がワクワク！子どもの可能性を広げる新しい学びのカタチ",
+          "date": "2026-09-27",
+          "description": "未来の教育はAIやロボット、バーチャル体験で子どもの可能性を無限に広げます。楽しく創造しながら学べる新しい学びのカタチを、ガルちゃんがわかりやすくお届けします！",
+          "tags": [
+            "未来教育",
+            "子ども向け",
+            "テクノロジー",
+            "創造力",
+            "GaroopTV"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा: तपाईंको साना हातहरूमा अनन्त सम्भावना",
+          "date": "2026-09-27",
+          "description": "भविष्यको विद्यालय कस्तो हुन्छ? बालबालिकाका सपनाहरूलाई पोष्ने तरिकाहरू यहाँ सिकौँ।",
+          "tags": [
+            "भविष्यकोशिक्षा",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालविकास"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "未来教育：点燃创意，行动从这里起航",
+          "date": "2026-09-27",
+          "description": "在快速变化的时代，如何让孩子在玩乐中学会创造、合作与行动？本篇为小学生和家长揭示未来教育的关键要素，让学习变成探险。",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "行动力",
+            "亲子教育",
+            "STEM"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
