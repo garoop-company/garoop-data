@@ -6761,6 +6761,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-28-elementary-school": {
+      "default": "2026-09-28-elementary-school.md",
+      "locales": {
+        "ne": "2026-09-28-elementary-school.ne.md",
+        "zh": "2026-09-28-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生でもできる！未来をひらくワクワク起業ストーリー",
+          "date": "2026-09-28",
+          "description": "小学生が自分の可能性を広げるヒントを、楽しい例と一緒に紹介。身近なアイデアでチーム作りや挑戦を始めよう！",
+          "tags": [
+            "小学生",
+            "起業",
+            "創作",
+            "アイデア",
+            "トレーニング"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सपना देख, बन, र चम्क! प्राथमिक बालबालिका लागि सर्जनात्मक यात्रा",
+          "date": "2026-09-28",
+          "description": "प्राथमिक बालबालिकाहरूको सम्भावना र सिर्जनशीलता बढाउन प्रेरणादायी टिप्स र खेलहरू",
+          "tags": [
+            "प्राथमिकशाला",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "点燃小学生的创意火花，让行动力爆棚！",
+          "date": "2026-09-28",
+          "description": "通过有趣的游戏、手工和小实验，帮助小学生在学习和生活中培养动手能力与创新思维，让孩子们在玩乐中发现、设计、实现自己的创意。",
+          "tags": [
+            "小学生",
+            "创意",
+            "行动力",
+            "亲子",
+            "成长"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
