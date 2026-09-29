@@ -6808,6 +6808,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-29-future-education": {
+      "default": "2026-09-29-future-education.md",
+      "locales": {
+        "ne": "2026-09-29-future-education.ne.md",
+        "zh": "2026-09-29-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "未来の教室は冒険のステージ！子どもの可能性が無限に広がるワクワク教育",
+          "date": "2026-09-29",
+          "description": "子どもたちの好奇心を刺激する未来の教育を紹介。AIやVR、実践型プロジェクトで学びが冒険に変わります！",
+          "tags": [
+            "未来教育",
+            "子ども学び",
+            "スタートアップ",
+            "創作",
+            "ガロップTV"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा: तपाईंको सृजनात्मक क्षमता कसरी चम्काउने?",
+          "date": "2026-09-29",
+          "description": "भविष्यको शिक्षामा बालबालिकाको सम्भावना उजागर गर्ने, सृजनात्मकता र उद्यमशीलता विकास गर्ने सरल टिप्स।",
+          "tags": [
+            "भविष्यको_शिक्षा",
+            "सृजनात्मकता",
+            "उद्यमशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "探索未来教育：让孩子的创意飞起来",
+          "date": "2026-09-29",
+          "description": "未来教育不只是课堂上的知识，更是激发孩子创意与行动力的冒险旅程。本文用活泼的语言，告诉小学生和家长如何在日常中培养创新思维、动手能力和自我驱动力。",
+          "tags": [
+            "未来教育",
+            "创意",
+            "行动力",
+            "亲子学习",
+            "STEAM"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
