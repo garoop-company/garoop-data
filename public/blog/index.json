@@ -6855,6 +6855,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-09-30-ai": {
+      "default": "2026-09-30-ai.md",
+      "locales": {
+        "ne": "2026-09-30-ai.ne.md",
+        "zh": "2026-09-30-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIで未来を冒険しよう！ガルちゃんと学ぶワクワク創造力",
+          "date": "2026-09-30",
+          "description": "AIが子どもたちの創造力と可能性を広げるヒミツを、ガルちゃんが楽しく解説！小学生と保護者が一緒に学べるワクワク情報満載です。",
+          "tags": [
+            "AI",
+            "子ども向け",
+            "創作",
+            "スタートアップ",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI: हाम्रो साथी, भविष्यको जादु",
+          "date": "2026-09-30",
+          "description": "AI के हो, कसरी खेल‑शिक्षा र सिर्जनात्मक विचारमा मद्दत गर्छ, बालबालिकालाई प्रेरित गर्ने सरल कथा।",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "उद्यमशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI 小小创客：让想象力飞起来",
+          "date": "2026-09-30",
+          "description": "用有趣的 AI 例子，让小朋友了解人工智能，激发创意，动手做项目，和家长一起探索未来科技。",
+          "tags": [
+            "AI",
+            "创意",
+            "儿童学习",
+            "编程"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
