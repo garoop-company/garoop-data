@@ -6902,6 +6902,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-01-kangaroo": {
+      "default": "2026-10-01-kangaroo.md",
+      "locales": {
+        "ne": "2026-10-01-kangaroo.ne.md",
+        "zh": "2026-10-01-kangaroo.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "ジャンプで広がる未来！カンガルーから学ぶワクワク可能性",
+          "date": "2026-10-01",
+          "description": "カンガルーの跳躍力やポケット、仲間づくりから、子どもたちの挑戦心と創造力を伸ばすヒントをご紹介。未来の可能性を一緒に広げよう！",
+          "tags": [
+            "カンガルー",
+            "起業",
+            "創作",
+            "子どもの可能性",
+            "トレーニング"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "कंगारुको रमाइलो यात्रा: सपनाको उडान",
+          "date": "2026-10-01",
+          "description": "कंगारुको रमाइलो यात्रा, सिर्जनशीलता र उद्यमशीलता सिखाउने प्रेरणादायक कथा।",
+          "tags": [
+            "कंगारु",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालविकास"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "跳跃的创意——袋鼠带来的灵感",
+          "date": "2026-10-01",
+          "description": "通过有趣的袋鼠故事，帮助小朋友了解袋鼠的生活习性，激发想象力、动手能力和团队合作精神，让创意像袋鼠一样跳得更远！",
+          "tags": [
+            "袋鼠",
+            "创意",
+            "动手",
+            "科学",
+            "自然"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
