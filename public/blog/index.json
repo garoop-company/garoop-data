@@ -6997,6 +6997,54 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-03-elementary-school": {
+      "default": "2026-10-03-elementary-school.md",
+      "locales": {
+        "ne": "2026-10-03-elementary-school.ne.md",
+        "zh": "2026-10-03-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生の可能性を広げよう！ワクワク創造体験ガイド",
+          "date": "2026-10-03",
+          "description": "小学生でもできるスタートアップ体験や創作アイディアを紹介し、未来の可能性をひらく楽しいヒントが満載です。親子で楽しめるステップバイステップもご紹介！",
+          "tags": [
+            "小学生",
+            "起業",
+            "創作",
+            "可能性",
+            "ガロップTV"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जनात्मक सोचको जादु: प्राथमिक बच्चाहरूका लागि प्रेरणा",
+          "date": "2026-10-03",
+          "description": "प्राथमिक विद्यार्थीहरूलाई सृजनशीलता, आत्मविश्वास र उद्यमशीलताको यात्रा सुरु गर्न प्रेरणादायी सुझावहरू।",
+          "tags": [
+            "सृजनशीलता",
+            "उद्यमशीलता",
+            "प्राथमिकशिक्षा",
+            "प्रेरणा",
+            "बालविकास"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小学生的创意冒险指南",
+          "date": "2026-10-03",
+          "description": "用有趣的点子点燃小学生的创造力与行动力，提供实操活动、亲子互动技巧，让孩子在玩乐中学会发现、设计、实现自己的小项目。",
+          "tags": [
+            "小学生",
+            "创造力",
+            "行动力",
+            "亲子互动",
+            "GaroopTV"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
