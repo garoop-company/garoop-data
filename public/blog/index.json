@@ -7045,6 +7045,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-04-creation": {
+      "default": "2026-10-04-creation.md",
+      "locales": {
+        "ne": "2026-10-04-creation.ne.md",
+        "zh": "2026-10-04-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "ガルちゃんとひらめく創作ワールド！子どもの可能性を広げよう",
+          "date": "2026-10-04",
+          "description": "創作の楽しさを体感し、アイデアが形になるワクワク体験を通して、子どもたちの可能性をぐんぐん広げるヒントをご紹介！ガルちゃんが元気に案内します。",
+          "tags": [
+            "創作",
+            "子ども",
+            "アイデア",
+            "スタートアップ",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जनाको जादु: हरेक बच्चामा लुकेको प्रतिभा",
+          "date": "2026-10-04",
+          "description": "सिर्जनात्मक सोचलाई विकास गर्ने उपायहरू र खेलमैत्री अभ्यासहरू, बच्चाहरूलाई प्रोत्साहित गर्छ।",
+          "tags": [
+            "सिर्जना",
+            "बालबालिका",
+            "उद्यमशीलता",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "创作的魔法：让小手变出大点子",
+          "date": "2026-10-04",
+          "description": "用有趣的方式激发孩子的创造力，教会小朋友从生活中发现灵感，动手做出自己的作品！",
+          "tags": [
+            "创作",
+            "创造力",
+            "儿童",
+            "动手实践",
+            "成长"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
