@@ -7092,6 +7092,54 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-05-children": {
+      "default": "2026-10-05-children.md",
+      "locales": {
+        "ne": "2026-10-05-children.ne.md",
+        "zh": "2026-10-05-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "子どもの可能性は無限大！ワクワク未来へ一緒に踏み出そう",
+          "date": "2026-10-05",
+          "description": "子どもの創造力や挑戦心を育むヒントを紹介。小学生と保護者が楽しめる、未来を広げるアイデアが満載です。一緒にワクワク体験で夢を形にする方法もお届けします。",
+          "tags": [
+            "子供",
+            "可能性",
+            "創造力",
+            "起業",
+            "トレーニング"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिकाको जादू: सम्भावना र सिर्जनात्मकता",
+          "date": "2026-10-05",
+          "description": "बालबालिकाको क्षमता उजागर गर्ने, सिर्जनात्मक सोच बढाउने प्रेरणादायक मार्गदर्शन।",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनात्मकता",
+            "उद्यमशीलता",
+            "शिक्षा",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "让孩子的创意像火箭一样起飞！",
+          "date": "2026-10-05",
+          "description": "用趣味活动、日常小技巧和亲子互动，帮助小朋友激发创造力与行动力，让他们在玩乐中学会动手、动脑、敢尝试。",
+          "tags": [
+            "孩子",
+            "创造力",
+            "行动力",
+            "亲子",
+            "学习"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
