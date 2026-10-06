@@ -7140,6 +7140,52 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-06-creation": {
+      "default": "2026-10-06-creation.md",
+      "locales": {
+        "ne": "2026-10-06-creation.ne.md",
+        "zh": "2026-10-06-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作のワクワク冒険！ガルちゃんと始める夢のかたち",
+          "date": "2026-10-06",
+          "description": "子どもたちの想像力を伸ばす創作の楽しさを、ガルちゃんが元気に紹介。さあ、一緒に作品を作って可能性を広げよう！",
+          "tags": [
+            "創作",
+            "子ども",
+            "学び",
+            "アイデア",
+            "スタートアップ"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जनाको जादू: कल्पनालाई पंख लगाऔं!",
+          "date": "2026-10-06",
+          "description": "बालबालिकाको कल्पनाशक्ति कसरी उजागर गर्ने, सिर्जनात्मक सोचलाई व्यवहारमा कसरी ल्याउने भन्ने प्रेरणादायी यात्रा।",
+          "tags": [
+            "सिर्जना",
+            "उद्यमशीलता",
+            "बालबालिका",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "点燃创意的火花——和卡鲁酱一起动手创作",
+          "date": "2026-10-06",
+          "description": "卡鲁酱带你用简单有趣的方式，激发孩子的创造力和行动力，让每一次动手都变成一次奇妙的探险。",
+          "tags": [
+            "创作",
+            "创造力",
+            "儿童教育",
+            "动手实践"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
