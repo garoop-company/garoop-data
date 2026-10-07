@@ -7186,6 +7186,52 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-07-entrepreneurship": {
+      "default": "2026-10-07-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-10-07-entrepreneurship.ne.md",
+        "zh": "2026-10-07-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "ぼくもできる！はじめての起業ワクワクストーリー",
+          "date": "2026-10-07",
+          "description": "子どもでもできる起業のヒントを楽しく紹介！アイデアの見つけ方から実際に小さなプロジェクトを始めるステップまで、未来の可能性を広げる具体的な方法をわかりやすく解説します。",
+          "tags": [
+            "起業",
+            "子ども",
+            "スタートアップ",
+            "創作",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता: साना सिपाहीहरूका लागि साहसिक यात्रा",
+          "date": "2026-10-07",
+          "description": "बालबालिकाहरूलाई उद्यमशीलताका विचार र सर्जनशीलता बढाउने प्रेरणादायक कथा।",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जना",
+            "बालविकास",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创客的奇妙冒险：一起玩转创业！",
+          "date": "2026-10-07",
+          "description": "用有趣的故事和实用小技巧，帮助小学生和家长发现创业的乐趣，激发孩子的创造力与行动力。",
+          "tags": [
+            "创业",
+            "创造力",
+            "孩子成长",
+            "亲子教育"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
