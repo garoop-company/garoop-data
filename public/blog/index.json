@@ -7232,6 +7232,52 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-08-ai": {
+      "default": "2026-10-08-ai.md",
+      "locales": {
+        "ne": "2026-10-08-ai.ne.md",
+        "zh": "2026-10-08-ai.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "AIで広がる未来！ガルちゃんと学ぶワクワク体験",
+          "date": "2026-10-08",
+          "description": "AIの仕組みや活用例を楽しく紹介し、子どもたちの創造力と可能性を広げるワクワク情報をお届けします。",
+          "tags": [
+            "AI",
+            "子ども向け",
+            "創作",
+            "スタートアップ",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "AI सँग मिलेर साँचो सपनाहरू बुन्ने",
+          "date": "2026-10-08",
+          "description": "AI के हो, कसरी खेल‑रचनामा मद्दत गर्छ, बालबालिकाको भविष्य उज्यालो बनाउँछ।",
+          "tags": [
+            "AI",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "AI 小小探索家：让创意飞起来！",
+          "date": "2026-10-08",
+          "description": "了解 AI 是什么，怎么玩转 AI，激发孩子的创造力与动手能力，开启未来无限可能。",
+          "tags": [
+            "AI",
+            "创意",
+            "儿童学习",
+            "编程入门"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
