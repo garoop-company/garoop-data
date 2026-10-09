@@ -7278,6 +7278,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-09-future-education": {
+      "default": "2026-10-09-future-education.md",
+      "locales": {
+        "ne": "2026-10-09-future-education.ne.md",
+        "zh": "2026-10-09-future-education.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "未来の教育で広がるワクワク☆子どもの可能性",
+          "date": "2026-10-09",
+          "description": "子どもたちの未来をひらく、最新テクノロジーと創造力が交差する教育の姿を楽しく紹介します。",
+          "tags": [
+            "未来教育",
+            "STEM",
+            "創造学習",
+            "子どもと学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "भविष्यको शिक्षा: सृजनशीलता र सम्भावना उजागर गर्ने यात्रा",
+          "date": "2026-10-09",
+          "description": "भविष्यको शिक्षाले बालबालिकाको सृजनशीलता र सम्भावना कसरी उजागर गर्छ?",
+          "tags": [
+            "भविष्यकोशिक्षा",
+            "सृजनशीलता",
+            "उद्यमशीलता",
+            "बालविकास",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "未来教育大冒险：点燃孩子的创造力与行动力",
+          "date": "2026-10-09",
+          "description": "探索未来教育的样子，教你如何让孩子在玩乐中培养创造力和行动力。",
+          "tags": [
+            "未来教育",
+            "创造力",
+            "行动力",
+            "亲子共学",
+            "STEAM"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
