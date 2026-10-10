@@ -7325,6 +7325,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-10-children": {
+      "default": "2026-10-10-children.md",
+      "locales": {
+        "ne": "2026-10-10-children.ne.md",
+        "zh": "2026-10-10-children.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "子どもの無限の可能性をひらく！未来のヒーローになるヒント",
+          "date": "2026-10-10",
+          "description": "子どもが持つ創造力と行動力を育てる楽しいアイデアを紹介。親子で学び、未来の起業家やクリエイターへの第一歩を踏み出そう！子どもらしい好奇心を大切にし、実践的なトレーニングでスキルを伸ばす方法もご紹介します。",
+          "tags": [
+            "子ども",
+            "可能性",
+            "起業",
+            "創作",
+            "学び"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "बालबालिकाको उज्ज्वल भविष्य: सिर्जनशीलता र सम्भावना कसरी बढाउने?",
+          "date": "2026-10-10",
+          "description": "बालबालिकाको सृजनात्मक क्षमता विकासका टिप्स, खेल र उत्साहजनक विचारहरू।",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनशीलता",
+            "उद्यमशीलता",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "让孩子的创意飞起来：开启行动力的五大妙招",
+          "date": "2026-10-10",
+          "description": "用简单有趣的方式激发孩子的创造力和行动力，帮助他们在玩乐中学会思考、动手、实现梦想。适合小学生与家长一起阅读。",
+          "tags": [
+            "孩子",
+            "创造力",
+            "行动力",
+            "亲子教育",
+            "GaroopTV"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
