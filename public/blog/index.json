@@ -7372,6 +7372,54 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-11-creation": {
+      "default": "2026-10-11-creation.md",
+      "locales": {
+        "ne": "2026-10-11-creation.ne.md",
+        "zh": "2026-10-11-creation.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "創作で広がる冒険！みんなのひらめきが未来を作る",
+          "date": "2026-10-11",
+          "description": "子どもたちの創作力を引き出す楽しいヒントと実践例を紹介。自分だけの作品でワクワクしながら、可能性を広げよう！",
+          "tags": [
+            "創作",
+            "子ども",
+            "学び",
+            "アイデア",
+            "スタートアップ"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "सिर्जनाको जादु: साना हातले बनाउने ठूलो सपना",
+          "date": "2026-10-11",
+          "description": "सिर्जनाको शक्ति खोजौं, बालबालिकाका विचारलाई चम्किलो बनाइयो!",
+          "tags": [
+            "सिर्जना",
+            "उद्यमशीलता",
+            "बालबालिका",
+            "प्रेरणा",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "点燃创意的火花——让孩子爱上创作",
+          "date": "2026-10-11",
+          "description": "用有趣的方式帮助小朋友和家长一起激发创造力，提供实用的创作技巧，让孩子在玩中学习、在做中成长。",
+          "tags": [
+            "创作",
+            "创造力",
+            "行动力",
+            "亲子",
+            "学习"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
