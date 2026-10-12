@@ -7420,6 +7420,54 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-12-startup": {
+      "default": "2026-10-12-startup.md",
+      "locales": {
+        "ne": "2026-10-12-startup.ne.md",
+        "zh": "2026-10-12-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "ワクワク！スタートアップで広がる子どもの未来",
+          "date": "2026-10-12",
+          "description": "スタートアップって何？子どもでもできるアイデア発想や挑戦の楽しさを、ガルちゃんが元気に解説します。",
+          "tags": [
+            "スタートアップ",
+            "起業",
+            "子ども",
+            "学び",
+            "創作"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअप साहसिक यात्रा: साना विचारहरूलाई ठूलो बनाउने तरिका",
+          "date": "2026-10-12",
+          "description": "बालबालिकालाई स्टार्टअपको संसारमा प्रवेश गराई, सृजनशीलता र साहसिक सोच विकास गर्ने प्रेरणादायक गाइड",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जना",
+            "बालबालिका",
+            "प्रेरणा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家，点燃创意的火花",
+          "date": "2026-10-12",
+          "description": "帮助小学生和家长一起了解创业的基本概念，提供激发创造力的有趣点子和实操步骤，让孩子在玩乐中培养行动力与自信。",
+          "tags": [
+            "创业",
+            "创意",
+            "亲子",
+            "学习",
+            "行动"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
