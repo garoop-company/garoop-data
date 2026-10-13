@@ -7468,6 +7468,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-13-startup": {
+      "default": "2026-10-13-startup.md",
+      "locales": {
+        "ne": "2026-10-13-startup.ne.md",
+        "zh": "2026-10-13-startup.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "スタートアップで広がる！子どもたちのワクワク未来",
+          "date": "2026-10-13",
+          "description": "スタートアップの世界を楽しく学び、子どもたちの創造力と挑戦心を伸ばすヒントと、未来の起業家への第一歩を踏み出すアイディアを紹介します。保護者の方にも役立つサポート情報を掲載しています。",
+          "tags": [
+            "スタートアップ",
+            "子ども起業",
+            "創造力",
+            "学び",
+            "ガルちゃん"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "स्टार्टअपको जादू: सानातिना आइडियाबाट ठूलो सपना",
+          "date": "2026-10-13",
+          "description": "बालबालिकालाई स्टार्टअपको संसारमा परिचय, सिर्जनात्मक सोचलाई प्रोत्साहन।",
+          "tags": [
+            "स्टार्टअप",
+            "उद्यमशीलता",
+            "सिर्जनात्मकता",
+            "बालबालिका"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创客的创业冒险——从点子到行动",
+          "date": "2026-10-13",
+          "description": "用有趣的方式让小学生了解创业，激发创造力与行动力，家长也能轻松陪伴一起玩转创客世界。",
+          "tags": [
+            "创业",
+            "创意",
+            "小学生",
+            "亲子",
+            "行动力"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
