@@ -7515,6 +7515,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-14-kangaroo": {
+      "default": "2026-10-14-kangaroo.md",
+      "locales": {
+        "ne": "2026-10-14-kangaroo.ne.md",
+        "zh": "2026-10-14-kangaroo.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "ジャンプで広がる！カンガルーから学ぶ可能性のヒント",
+          "date": "2026-10-14",
+          "description": "カンガルーの跳躍力とポケットの秘密を通して、子どもの創造力と挑戦心を育む楽しいストーリーです。",
+          "tags": [
+            "カンガルー",
+            "起業",
+            "創造力",
+            "子どもの可能性",
+            "トレーニング"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "कंगारुको उछाल, तपाईंको सपनाको उडान",
+          "date": "2026-10-14",
+          "description": "कंगारुको उछाल जस्तै, बालबालिकाको कल्पना र सम्भावनालाई कसरी तेज बनाउने?",
+          "tags": [
+            "कंगारु",
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालविकास"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "袋鼠跳跳大冒险：激发创意与行动力的奇妙旅程",
+          "date": "2026-10-14",
+          "description": "通过袋鼠的跳跃、口袋和社交行为，帮助小朋友发现创意灵感，学会动手做项目，并把想法变成行动，适合亲子共读。",
+          "tags": [
+            "袋鼠",
+            "创意",
+            "运动",
+            "自然",
+            "儿童创业"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
