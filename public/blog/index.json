@@ -7562,6 +7562,52 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-15-entrepreneurship": {
+      "default": "2026-10-15-entrepreneurship.md",
+      "locales": {
+        "ne": "2026-10-15-entrepreneurship.ne.md",
+        "zh": "2026-10-15-entrepreneurship.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "起業ってワクワク！ガルちゃんとひらく未来の冒険",
+          "date": "2026-10-15",
+          "description": "子どもでもできる起業の第一歩を楽しく紹介。アイデアの出し方からチーム作り、失敗を楽しむコツまで、ガルちゃんが明るく解説します。",
+          "tags": [
+            "起業",
+            "子ども",
+            "学び",
+            "スタートアップ"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "उद्यमशीलता: सानो विचार, ठूलो भविष्य",
+          "date": "2026-10-15",
+          "description": "सिर्जनशील सोच र साहसले बालबालिकामा उद्यमी आत्मा कसरी जागृत हुन्छ, रमाइलो उदाहरणसँग सिकौँ।",
+          "tags": [
+            "उद्यमशीलता",
+            "सिर्जनशीलता",
+            "बालबालिका",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "小小创业家：让创意飞起来！",
+          "date": "2026-10-15",
+          "description": "用有趣的故事和实用的步骤，帮助小学生和家长一起发现创业的乐趣，培养创造力、计划力和行动力。",
+          "tags": [
+            "创业",
+            "创意",
+            "学习",
+            "亲子",
+            "实践"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
