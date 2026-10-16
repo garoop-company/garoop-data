@@ -1,0 +1,250 @@
+{
+  "status": "stopped_after_current_animals_completed",
+  "count": 15,
+  "reference": "reference.webp",
+  "pets": [
+    {
+      "id": "fenemimi",
+      "japaneseName": "ふぇねみみ",
+      "species": "フェネック",
+      "visual": "baby fennec fox, very large triangular ears, short pointed cream muzzle, fluffy cream-tipped tail",
+      "status": "complete_local_catalog",
+      "run": "fenemimi",
+      "completedJobs": [
+        "base",
+        "idle",
+        "running-right",
+        "running-left",
+        "waving",
+        "jumping",
+        "failed",
+        "waiting",
+        "running",
+        "review"
+      ]
+    },
+    {
+      "id": "uparuru",
+      "japaneseName": "うぱるる",
+      "species": "ウーパールーパー",
+      "visual": "baby axolotl, rounded head, three thick attached rounded external gill branches on each side, four tiny legs, broad continuous tail fin",
+      "status": "complete_local_catalog",
+      "run": "uparuru",
+      "completedJobs": [
+        "base",
+        "idle",
+        "running-right",
+        "running-left",
+        "waving",
+        "jumping",
+        "failed",
+        "waiting",
+        "running",
+        "review"
+      ]
+    },
+    {
+      "id": "senmaru",
+      "japaneseName": "せんまる",
+      "species": "センザンコウ",
+      "visual": "baby pangolin, rounded overlapping rose-pink scales, small tapered muzzle, thick curled scaly tail, tiny soft claws",
+      "status": "complete_local_catalog",
+      "run": "senmaru",
+      "completedJobs": [
+        "base",
+        "idle",
+        "running-right",
+        "running-left",
+        "waving",
+        "jumping",
+        "failed",
+        "waiting",
+        "running",
+        "review"
+      ]
+    },
+    {
+      "id": "okapipi",
+      "japaneseName": "おかぴぴ",
+      "species": "オカピ",
+      "visual": "baby okapi, tall rounded ears, short neck, pink body, cream and rose horizontal stripes on legs and rump, no horns",
+      "status": "complete_local_catalog",
+      "run": "okapipi",
+      "completedJobs": [
+        "base",
+        "idle",
+        "running-right",
+        "running-left",
+        "waving",
+        "jumping",
+        "failed",
+        "waiting",
+        "running",
+        "review"
+      ]
+    },
+    {
+      "id": "bintoro",
+      "japaneseName": "びんとろ",
+      "species": "ビントロング",
+      "visual": "baby binturong, round fluffy ears, round muzzle, very long thick prehensile tail curled close to body, rose-pink shaggy fur",
+      "status": "complete_local_catalog",
+      "run": "bintoro",
+      "completedJobs": [
+        "base",
+        "idle",
+        "running-right",
+        "running-left",
+        "waving",
+        "jumping",
+        "failed",
+        "waiting",
+        "running",
+        "review"
+      ]
+    },
+    {
+      "id": "quokoro",
+      "japaneseName": "くおころ",
+      "species": "クオッカ",
+      "visual": "baby quokka, rounded ears, short broad muzzle with gentle smile, round pink body, short tapered tail, no pouch",
+      "status": "complete_local_catalog",
+      "run": "quokoro",
+      "completedJobs": [
+        "base",
+        "idle",
+        "running-right",
+        "running-left",
+        "waving",
+        "jumping",
+        "failed",
+        "waiting",
+        "running",
+        "review"
+      ]
+    },
+    {
+      "id": "womochi",
+      "japaneseName": "うぉもち",
+      "species": "ウォンバット",
+      "visual": "baby wombat, squat barrel-shaped body, broad rounded square nose, tiny rounded ears, short sturdy legs, no visible long tail",
+      "status": "base_saved_animation_not_started",
+      "run": "womochi",
+      "completedJobs": [
+        "base"
+      ]
+    },
+    {
+      "id": "kamopuni",
+      "japaneseName": "かもぷに",
+      "species": "カモノハシ",
+      "visual": "baby platypus, broad soft peach duck bill, flat rounded paddle tail, small webbed feet, compact pink body",
+      "status": "base_saved_animation_not_started",
+      "run": "kamopuni",
+      "completedJobs": [
+        "base"
+      ]
+    },
+    {
+      "id": "aikuru",
+      "japaneseName": "あいくる",
+      "species": "アイアイ",
+      "visual": "baby aye-aye, oversized round ears, huge glossy eyes, fluffy tail, hands with one visibly longer slender middle finger, friendly soft appearance",
+      "status": "base_saved_animation_not_started",
+      "run": "aikuru",
+      "completedJobs": [
+        "base"
+      ]
+    },
+    {
+      "id": "hashupipi",
+      "japaneseName": "はしゅぴぴ",
+      "species": "ハシビロコウ",
+      "visual": "baby shoebill bird, broad rounded shoe-shaped peach bill, tiny crest, compact pink wings, short sturdy legs",
+      "status": "base_saved_animation_not_started",
+      "run": "hashupipi",
+      "completedJobs": [
+        "base"
+      ]
+    },
+    {
+      "id": "saipoyo",
+      "japaneseName": "さいぽよ",
+      "species": "サイガ",
+      "visual": "baby saiga antelope, short plump drooping bulbous nose, rounded ears, tiny hooves, no horns",
+      "status": "base_saved_animation_not_started",
+      "run": "saipoyo",
+      "completedJobs": [
+        "base"
+      ]
+    },
+    {
+      "id": "jerupyon",
+      "japaneseName": "じぇるぴょん",
+      "species": "トビネズミ",
+      "visual": "baby jerboa, long rabbitlike ears, very long hind feet, tiny forepaws, long thin tail with attached fluffy tip curled close",
+      "status": "base_saved_animation_not_started",
+      "run": "jerupyon",
+      "completedJobs": [
+        "base"
+      ]
+    },
+    {
+      "id": "bakumochi",
+      "japaneseName": "ばくもち",
+      "species": "バク",
+      "visual": "baby tapir, short flexible snout, small rounded ears, rounded pink body with simple cream baby stripes and spots, tiny hooves",
+      "status": "base_saved_animation_not_started",
+      "run": "bakumochi",
+      "completedJobs": [
+        "base"
+      ]
+    },
+    {
+      "id": "narupuni",
+      "japaneseName": "なるぷに",
+      "species": "イッカク",
+      "visual": "baby narwhal, rounded pink whale body, two small flippers, joined tail flukes, one short rounded cream spiral tusk, no legs",
+      "status": "base_saved_animation_not_started",
+      "run": "narupuni",
+      "completedJobs": [
+        "base"
+      ]
+    },
+    {
+      "id": "arukoro",
+      "japaneseName": "あるころ",
+      "species": "アルマジロ",
+      "visual": "baby armadillo, round rose-pink banded shell, small upright ears, short tapered muzzle, thick short tapered tail, tiny rounded feet",
+      "status": "base_saved_animation_not_started",
+      "run": "arukoro",
+      "completedJobs": [
+        "base"
+      ]
+    }
+  ],
+  "completedJobs": 69,
+  "scopeUpdate": {
+    "date": "2026-10-16",
+    "instruction": "Finish currently in-progress animals, then stop generation.",
+    "finishOnly": [
+      "okapipi",
+      "bintoro",
+      "quokoro"
+    ],
+    "doNotStart": [
+      "womochi",
+      "kamopuni",
+      "aikuru",
+      "hashupipi",
+      "saipoyo",
+      "jerupyon",
+      "bakumochi",
+      "narupuni",
+      "arukoro"
+    ]
+  },
+  "stopReason": "User requested finishing current animals and then stopping generation",
+  "completedAnimatedPets": 6,
+  "baseOnlyPets": 9
+}

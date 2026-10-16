@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "reviewer": "fennec_final_qa",
+  "note": "All nine GIF sequences pass identity, complete silhouettes, no fragments/fringe, gait and vertical jump.",
+  "extraction": "stable-slots",
+  "keyThreshold": 220,
+  "reviewedAt": "2026-10-15T00:31:51.632811+00:00"
+}

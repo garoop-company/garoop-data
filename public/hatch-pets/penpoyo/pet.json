@@ -1,0 +1,76 @@
+{
+  "id": "penpoyo",
+  "displayName": "Penpoyo",
+  "japaneseName": "ぺんぽよ",
+  "description": "ぺんぽよ: ちいさなつばさであいさつするペンギンのあかちゃん。よちよちあるいてみんなについていくよ。",
+  "spritesheetPath": "spritesheet.webp",
+  "spritesheetUrl": "/hatch-pets/penpoyo/spritesheet.webp",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "calm resting, breathing, and blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward drag movement loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward drag movement loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting or attention gesture"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "hover or playful jump"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "blocked, failed, or cancelled reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "waiting for approval, help, or user input"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "active task work or processing"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "ready or completed output review"
+    }
+  ],
+  "contactSheetPath": "contact-sheet.webp",
+  "contactSheetUrl": "/hatch-pets/penpoyo/contact-sheet.webp",
+  "validationUrl": "/hatch-pets/penpoyo/validation.json",
+  "sourceRun": "hatch-pet-runs/garu-style-20261014/penpoyo"
+}

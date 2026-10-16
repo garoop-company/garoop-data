@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "reviewer": "panda_final_qa",
+  "note": "All GIF sequences visually checked: identity, waiting separation, directional gait, vertical jump and alpha pass.",
+  "extraction": "stable-slots",
+  "keyThreshold": 160,
+  "reviewedAt": "2026-10-14T01:37:43.193976+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "reviewer": "quokka_final_qa",
+  "note": "All nine sequences pass identity, anatomy, complete silhouettes, blink/gait/jump and stable scale.",
+  "extraction": "stable-slots",
+  "keyThreshold": 220,
+  "reviewedAt": "2026-10-16T08:17:21.408629+00:00"
+}

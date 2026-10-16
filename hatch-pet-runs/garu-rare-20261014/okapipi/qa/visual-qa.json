@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "reviewer": "okapi_final_qa",
+  "note": "All nine sequences pass; four-limb anatomy, stripes, extremities, gait and jumping verified, no fragments or fringe.",
+  "extraction": "stable-slots",
+  "keyThreshold": 220,
+  "reviewedAt": "2026-10-16T00:21:06.689189+00:00"
+}

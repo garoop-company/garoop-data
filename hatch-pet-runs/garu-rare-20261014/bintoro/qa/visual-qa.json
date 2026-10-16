@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "reviewer": "binturong_final_qa",
+  "note": "All nine sequences pass identity, intact thick tails/fur, clean alpha, blink, gait, jump, distinct states and stable scale.",
+  "extraction": "stable-slots",
+  "keyThreshold": 220,
+  "reviewedAt": "2026-10-16T08:18:11.684897+00:00"
+}

@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "reviewer": "elephant_final_qa",
+  "note": "All nine GIF sequences pass identity, clean silhouettes, no fragments, gait and vertical jump.",
+  "extraction": "stable-slots",
+  "keyThreshold": 220,
+  "reviewedAt": "2026-10-14T06:47:12.116752+00:00"
+}

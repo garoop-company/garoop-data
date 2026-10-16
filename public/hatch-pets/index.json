@@ -1,6 +1,17 @@
 {
-  "count": 13,
+  "count": 22,
   "pets": [
+    {
+      "id": "bintoro",
+      "displayName": "びんとろ",
+      "japaneseName": "びんとろ",
+      "description": "びんとろ: ガルちゃんににたピンクのビントロングのあかちゃん。みんなとあそぶのがだいすき。",
+      "spritesheetUrl": "/hatch-pets/bintoro/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/bintoro/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/bintoro/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/bintoro",
+      "petUrl": "/hatch-pets/bintoro/pet.json"
+    },
     {
       "id": "chikurin",
       "displayName": "Chikurin",
@@ -24,6 +35,17 @@
       "contactSheetUrl": "/hatch-pets/coamo/contact-sheet.webp",
       "validationUrl": "/hatch-pets/coamo/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/coamo"
+    },
+    {
+      "id": "fenemimi",
+      "displayName": "ふぇねみみ",
+      "japaneseName": "ふぇねみみ",
+      "description": "ふぇねみみ: ガルちゃんににたピンクのフェネックのあかちゃん。みんなとあそぶのがだいすき。",
+      "spritesheetUrl": "/hatch-pets/fenemimi/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/fenemimi/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/fenemimi/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/fenemimi",
+      "petUrl": "/hatch-pets/fenemimi/pet.json"
     },
     {
       "id": "garuchan-spy",
@@ -97,6 +119,39 @@
       "sourceRun": "hatch-pet-runs/garu-style-20260602/nyacoco"
     },
     {
+      "id": "okapipi",
+      "displayName": "おかぴぴ",
+      "japaneseName": "おかぴぴ",
+      "description": "おかぴぴ: ガルちゃんににたピンクのオカピのあかちゃん。みんなとあそぶのがだいすき。",
+      "spritesheetUrl": "/hatch-pets/okapipi/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/okapipi/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/okapipi/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/okapipi",
+      "petUrl": "/hatch-pets/okapipi/pet.json"
+    },
+    {
+      "id": "panmaru",
+      "displayName": "Panmaru",
+      "japaneseName": "ぱんまる",
+      "description": "ぱんまる: まあるい耳とピンクの目もようがかわいいパンダのあかちゃん。だっことおひるねがだいすき。",
+      "spritesheetUrl": "/hatch-pets/panmaru/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/panmaru/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/panmaru/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20261014/panmaru",
+      "petUrl": "/hatch-pets/panmaru/pet.json"
+    },
+    {
+      "id": "penpoyo",
+      "displayName": "Penpoyo",
+      "japaneseName": "ぺんぽよ",
+      "description": "ぺんぽよ: ちいさなつばさであいさつするペンギンのあかちゃん。よちよちあるいてみんなについていくよ。",
+      "spritesheetUrl": "/hatch-pets/penpoyo/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/penpoyo/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/penpoyo/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20261014/penpoyo",
+      "petUrl": "/hatch-pets/penpoyo/pet.json"
+    },
+    {
       "id": "pochimaru",
       "displayName": "Pochimaru",
       "japaneseName": "ぽちまる",
@@ -107,6 +162,17 @@
       "contactSheetUrl": "/hatch-pets/pochimaru/contact-sheet.webp",
       "validationUrl": "/hatch-pets/pochimaru/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/pochimaru"
+    },
+    {
+      "id": "quokoro",
+      "displayName": "くおころ",
+      "japaneseName": "くおころ",
+      "description": "くおころ: ガルちゃんににたピンクのクオッカのあかちゃん。みんなとあそぶのがだいすき。",
+      "spritesheetUrl": "/hatch-pets/quokoro/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/quokoro/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/quokoro/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/quokoro",
+      "petUrl": "/hatch-pets/quokoro/pet.json"
     },
     {
       "id": "rakopi",
@@ -133,6 +199,17 @@
       "sourceRun": "hatch-pet-runs/garu-style-20260602/reopon"
     },
     {
+      "id": "senmaru",
+      "displayName": "せんまる",
+      "japaneseName": "せんまる",
+      "description": "せんまる: ガルちゃんににたピンクのセンザンコウのあかちゃん。みんなとあそぶのがだいすき。",
+      "spritesheetUrl": "/hatch-pets/senmaru/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/senmaru/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/senmaru/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/senmaru",
+      "petUrl": "/hatch-pets/senmaru/pet.json"
+    },
+    {
       "id": "suzupi",
       "displayName": "Suzupi",
       "japaneseName": "すずぴ",
@@ -155,6 +232,28 @@
       "contactSheetUrl": "/hatch-pets/tsunomaru/contact-sheet.webp",
       "validationUrl": "/hatch-pets/tsunomaru/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/tsunomaru"
+    },
+    {
+      "id": "uparuru",
+      "displayName": "うぱるる",
+      "japaneseName": "うぱるる",
+      "description": "うぱるる: ガルちゃんににたピンクのウーパールーパーのあかちゃん。みんなとあそぶのがだいすき。",
+      "spritesheetUrl": "/hatch-pets/uparuru/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/uparuru/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/uparuru/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/uparuru",
+      "petUrl": "/hatch-pets/uparuru/pet.json"
+    },
+    {
+      "id": "zomochi",
+      "displayName": "Zomochi",
+      "japaneseName": "ぞうもち",
+      "description": "ぞうもち: ちいさなおはなとおおきな耳をもつゾウのあかちゃん。やさしくおてつだいするのがだいすき。",
+      "spritesheetUrl": "/hatch-pets/zomochi/spritesheet.webp",
+      "contactSheetUrl": "/hatch-pets/zomochi/contact-sheet.webp",
+      "validationUrl": "/hatch-pets/zomochi/validation.json",
+      "sourceRun": "hatch-pet-runs/garu-style-20261014/zomochi",
+      "petUrl": "/hatch-pets/zomochi/pet.json"
     }
   ]
 }
