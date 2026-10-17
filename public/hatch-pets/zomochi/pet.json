@@ -72,5 +72,7 @@
   "contactSheetPath": "contact-sheet.webp",
   "contactSheetUrl": "/hatch-pets/zomochi/contact-sheet.webp",
   "validationUrl": "/hatch-pets/zomochi/validation.json",
+  "spritesheetMiniPath": "spritesheet-mini.webp",
+  "spritesheetMiniUrl": "/hatch-pets/zomochi/spritesheet-mini.webp",
   "sourceRun": "hatch-pet-runs/garu-style-20261014/zomochi"
 }

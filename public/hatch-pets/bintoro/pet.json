@@ -72,5 +72,7 @@
   "contactSheetPath": "contact-sheet.webp",
   "contactSheetUrl": "/hatch-pets/bintoro/contact-sheet.webp",
   "validationUrl": "/hatch-pets/bintoro/validation.json",
+  "spritesheetMiniPath": "spritesheet-mini.webp",
+  "spritesheetMiniUrl": "/hatch-pets/bintoro/spritesheet-mini.webp",
   "sourceRun": "hatch-pet-runs/garu-rare-20261014/bintoro"
 }

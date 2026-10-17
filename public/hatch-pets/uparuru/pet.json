@@ -72,5 +72,7 @@
   "contactSheetPath": "contact-sheet.webp",
   "contactSheetUrl": "/hatch-pets/uparuru/contact-sheet.webp",
   "validationUrl": "/hatch-pets/uparuru/validation.json",
+  "spritesheetMiniPath": "spritesheet-mini.webp",
+  "spritesheetMiniUrl": "/hatch-pets/uparuru/spritesheet-mini.webp",
   "sourceRun": "hatch-pet-runs/garu-rare-20261014/uparuru"
 }

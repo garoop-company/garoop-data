@@ -72,5 +72,7 @@
   "contactSheetPath": "contact-sheet.webp",
   "contactSheetUrl": "/hatch-pets/penpoyo/contact-sheet.webp",
   "validationUrl": "/hatch-pets/penpoyo/validation.json",
+  "spritesheetMiniPath": "spritesheet-mini.webp",
+  "spritesheetMiniUrl": "/hatch-pets/penpoyo/spritesheet-mini.webp",
   "sourceRun": "hatch-pet-runs/garu-style-20261014/penpoyo"
 }

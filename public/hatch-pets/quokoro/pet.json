@@ -72,5 +72,7 @@
   "contactSheetPath": "contact-sheet.webp",
   "contactSheetUrl": "/hatch-pets/quokoro/contact-sheet.webp",
   "validationUrl": "/hatch-pets/quokoro/validation.json",
+  "spritesheetMiniPath": "spritesheet-mini.webp",
+  "spritesheetMiniUrl": "/hatch-pets/quokoro/spritesheet-mini.webp",
   "sourceRun": "hatch-pet-runs/garu-rare-20261014/quokoro"
 }

@@ -72,5 +72,7 @@
   "contactSheetPath": "contact-sheet.webp",
   "contactSheetUrl": "/hatch-pets/panmaru/contact-sheet.webp",
   "validationUrl": "/hatch-pets/panmaru/validation.json",
+  "spritesheetMiniPath": "spritesheet-mini.webp",
+  "spritesheetMiniUrl": "/hatch-pets/panmaru/spritesheet-mini.webp",
   "sourceRun": "hatch-pet-runs/garu-style-20261014/panmaru"
 }

@@ -72,5 +72,7 @@
   "contactSheetPath": "contact-sheet.webp",
   "contactSheetUrl": "/hatch-pets/senmaru/contact-sheet.webp",
   "validationUrl": "/hatch-pets/senmaru/validation.json",
+  "spritesheetMiniPath": "spritesheet-mini.webp",
+  "spritesheetMiniUrl": "/hatch-pets/senmaru/spritesheet-mini.webp",
   "sourceRun": "hatch-pet-runs/garu-rare-20261014/senmaru"
 }

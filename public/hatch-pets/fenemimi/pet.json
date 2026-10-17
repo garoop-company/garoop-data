@@ -72,5 +72,7 @@
   "contactSheetPath": "contact-sheet.webp",
   "contactSheetUrl": "/hatch-pets/fenemimi/contact-sheet.webp",
   "validationUrl": "/hatch-pets/fenemimi/validation.json",
+  "spritesheetMiniPath": "spritesheet-mini.webp",
+  "spritesheetMiniUrl": "/hatch-pets/fenemimi/spritesheet-mini.webp",
   "sourceRun": "hatch-pet-runs/garu-rare-20261014/fenemimi"
 }
