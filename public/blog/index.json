@@ -7702,6 +7702,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-18-elementary-school": {
+      "default": "2026-10-18-elementary-school.md",
+      "locales": {
+        "ne": "2026-10-18-elementary-school.ne.md",
+        "zh": "2026-10-18-elementary-school.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "小学生からはじめる！未来をつくるワクワクアイデア大冒険",
+          "date": "2026-10-18",
+          "description": "小学生でもできる、起業や創作のヒントを楽しく紹介！自分の可能性を広げる具体的なステップと、保護者と一緒に挑戦できるアイデア満載のブログです。",
+          "tags": [
+            "小学生",
+            "起業",
+            "創作",
+            "学び",
+            "可能性"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "प्राथमिक विद्यालयका बालबालिका: सम्भावना र सिर्जनात्मकताको पथ",
+          "date": "2026-10-18",
+          "description": "बालबालिकाको प्रतिभा उजागर गर्ने, सिर्जनशीलता र उद्यमशीलता विकासका सरल तरिकाहरूका बारेमा प्रेरणादायक गाइड।",
+          "tags": [
+            "बालबालिका",
+            "सिर्जनात्मकता",
+            "उद्यमशीलता",
+            "शिक्षा"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "让小学生的创意飞起来！— 卡鲁酱的创作小课堂",
+          "date": "2026-10-18",
+          "description": "卡鲁酱带你一起发现生活中的创意种子，用简单有趣的方式点燃小学生的创造力和行动力，让学习变成玩乐！",
+          "tags": [
+            "小学生",
+            "创意",
+            "行动力",
+            "亲子",
+            "GaroopTV"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
