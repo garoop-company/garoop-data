@@ -7749,6 +7749,53 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-19-single-mother": {
+      "default": "2026-10-19-single-mother.md",
+      "locales": {
+        "ne": "2026-10-19-single-mother.ne.md",
+        "zh": "2026-10-19-single-mother.zh.md"
+      },
+      "meta": {
+        "ja": {
+          "title": "シングルマザーと一緒に夢を広げよう！ワクワク冒険ストーリー",
+          "date": "2026-10-19",
+          "description": "シングルマザーが頑張る姿と子どもの可能性を楽しく紹介。起業や創作のヒントがいっぱいで、家族みんながハッピーになるヒントをお届けします。",
+          "tags": [
+            "シングルマザー",
+            "子どもの可能性",
+            "起業",
+            "スタートアップ",
+            "家族"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "ne": {
+          "title": "एकल आमा: सम्भावना र सिर्जनात्मकता",
+          "date": "2026-10-19",
+          "description": "एकल आमा र उनका सन्तानको सम्भावना उजागर गर्दै, सिर्जनात्मकता विकासको प्रेरणा।",
+          "tags": [
+            "एकलआमा",
+            "सिर्जनात्मकता",
+            "बालविकास",
+            "उद्यमशीलता"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        },
+        "zh": {
+          "title": "单亲妈妈的超能故事：一起发现创意与行动的魔法",
+          "date": "2026-10-19",
+          "description": "通过温暖的故事和有趣的活动，帮助小朋友了解单亲妈妈的辛勤，激发孩子的创造力和行动力，让全家一起成长、一起玩创意。",
+          "tags": [
+            "单亲妈妈",
+            "创意",
+            "亲子成长",
+            "行动力",
+            "儿童创业"
+          ],
+          "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
+        }
+      }
     }
   }
 }
