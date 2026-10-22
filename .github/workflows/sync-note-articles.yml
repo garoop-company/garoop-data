@@ -16,8 +16,6 @@ on:
         required: false
         default: "openai/gpt-oss-20b"
         type: string
-  schedule:
-    - cron: "0 18 * * *"
 
 permissions:
   contents: write
