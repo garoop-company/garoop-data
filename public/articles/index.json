@@ -10,6 +10,261 @@
   ],
   "items": [
     {
+      "slug": "kids-startup-ai-mentality",
+      "title": "「AIを下に見るな」：AI時代の子どもに必要なのは、志とぶれないメンタリティ",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "description": "AIはすぐに人を追い抜く。だからこそ子どもに必要なのは、AIを使いこなす発想と、微動だにしない志です。小学生起業連載の最終回として、Garoop代表・山下大貴が考えをまとめます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "生成AI",
+        "メンタリティ",
+        "AI時代",
+        "10歳起業"
+      ]
+    },
+    {
+      "slug": "kids-startup-studio-company",
+      "title": "Garoop Studioで会社をつくる：小学生のバーチャル社長体験",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "description": "子どもの生成AIトレーニングスタジオ「Garoop Studio」の会社スタジオでは、小学生が社長になって会社の名前・売るもの・お客さんを決めます。その内容を代表・山下大貴が紹介します。小学生起業連載の第16回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "GaroopStudio",
+        "会社づくり",
+        "生成AI",
+        "起業体験"
+      ]
+    },
+    {
+      "slug": "kids-startup-tanko-evaluation",
+      "title": "点数は出さない、物語を残す：鍛校の評価制度「行動・継続・失敗・影響」",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-13T00:00:00.000Z",
+      "description": "Garoop 鍛校では、テストの点数ではなく「行動・継続・失敗・影響」の4つで子どもを評価します。失敗の回数まで数える理由を、代表・山下大貴が解説します。小学生起業連載の第15回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "Garoop鍛校",
+        "評価制度",
+        "失敗",
+        "非認知能力"
+      ]
+    },
+    {
+      "slug": "kids-startup-tanko-four-trainings",
+      "title": "鍛校の4つの鍛錬：ChatGPT・Gemini・Codexで毎週1アウトプット",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "description": "Garoop 鍛校のカリキュラム「4つの鍛錬」を紹介します。生成AI道場、商い鍛校、開発鍛校、メンタリティ鍛錬で、小学生が何をどう鍛えるのかを代表・山下大貴が解説します。小学生起業連載の第14回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "Garoop鍛校",
+        "ChatGPT",
+        "Gemini",
+        "Codex"
+      ]
+    },
+    {
+      "slug": "kids-startup-tanko",
+      "title": "Garoop 鍛校とは：教えない、鍛える。10歳からの修行場",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "description": "長崎・福岡を拠点に、子どもたちが生成AIを武器に商いと人格を鍛える「Garoop 鍛校」。教えずに鍛える理由と、入門から事業化までの3つのフェーズを代表・山下大貴が紹介します。小学生起業連載の第13回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "Garoop鍛校",
+        "生成AI",
+        "10歳起業",
+        "長崎"
+      ]
+    },
+    {
+      "slug": "kids-startup-future-fund",
+      "title": "子ども投資ファンド構想：大村の競艇マネーから「子供若者未来ファンド」へ",
+      "sourceUrl": "https://note.com/garoop/n/n0c78aa91c2c4",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "description": "子どもの事業にシード資金を届ける「子ども投資ファンド」。大村市の競艇収益を活用する案から、子供若者未来ファンドの構想まで、Garoop代表・山下大貴が語ります。小学生起業連載の第12回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "子供投資ファンド",
+        "地方創生",
+        "長崎",
+        "シード投資"
+      ]
+    },
+    {
+      "slug": "kids-startup-ipo-own-shares",
+      "title": "赤ちゃんでも起業、小学生でもIPO：NISAより自社株で挑戦するという選択",
+      "sourceUrl": "https://note.com/garoop/n/n2e618ce13ba5",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "description": "「赤ちゃんでも起業、小学生でもIPO」。Garoopが掲げる未来ビジョンの意味と、自社株を持つことで子どもが得られる当事者意識について、代表・山下大貴が語ります。小学生起業連載の第11回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "IPO",
+        "自社株",
+        "NISA",
+        "起業教育"
+      ]
+    },
+    {
+      "slug": "kids-startup-equity-finance",
+      "title": "エクイティファイナンスは10歳でも理解できる：子どもに伝える「出資」のしくみ",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "description": "出資を受けて事業を大きくする「エクイティファイナンス」は、実は10歳でも理解できます。小学生向けにどう伝えるかを、Garoop代表・山下大貴が解説します。小学生起業連載の第10回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "エクイティファイナンス",
+        "出資",
+        "金融教育",
+        "株式会社"
+      ]
+    },
+    {
+      "slug": "kids-startup-parents-wall",
+      "title": "小学生起業の最大の壁は「親」：塾と偏差値の外にある学び",
+      "sourceUrl": "https://note.com/garoop/n/n7be76cc4a46a",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "description": "小学生起業を阻む最大の壁は、子どもではなく親の教育観かもしれません。AI時代に偏差値より大切になる力について、Garoop代表・山下大貴が考えます。小学生起業連載の第9回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "子育て",
+        "AI教育",
+        "習い事",
+        "保護者"
+      ]
+    },
+    {
+      "slug": "kids-startup-japan-advantage",
+      "title": "日本だからこそ、小学生起業は世界で戦える：規制と治安から考える",
+      "sourceUrl": "https://note.com/garoop/n/n7be76cc4a46a",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "description": "欧米では未成年のSNSやAI利用に厳しい規制がある一方、日本はまだ柔軟で治安も良い。小学生起業に日本が向いている理由をGaroop代表・山下大貴が解説します。小学生起業連載の第8回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "子供起業",
+        "生成AI",
+        "日本の強み",
+        "スタートアップ教育"
+      ]
+    },
+    {
+      "slug": "kids-startup-fukuoka-lesson-support",
+      "title": "福岡市の子ども習い事応援事業に、生成AIのキッズスクールが採択された話",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "description": "Garoopの生成AIキッズスクールが、福岡市子ども習い事応援事業に採択されました。生成AIの習い事は初めてのようです。対象や意義を代表・山下大貴が紹介します。小学生起業連載の第7回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "福岡市",
+        "習い事",
+        "生成AI",
+        "AIキッズスクール"
+      ]
+    },
+    {
+      "slug": "kids-startup-ai-kids-school",
+      "title": "スマホ1台、月300円から：生成AIキッズスクールを始めた話",
+      "sourceUrl": "https://note.com/garoop/n/n1db5efba2c79",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "description": "Garoopが始めた生成AIのオンラインキッズスクール。スマホやiPadだけで、アニメ・音楽・漫才の創作を体験できます。始めた理由と内容を代表・山下大貴が紹介します。小学生起業連載の第6回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "生成AI",
+        "キッズスクール",
+        "オンライン習い事",
+        "AI教育"
+      ]
+    },
+    {
+      "slug": "kids-startup-small-business-ideas",
+      "title": "1曲100円の作曲家社長：小学生が生成AIで始められる小さなビジネス3選",
+      "sourceUrl": "https://note.com/garoop/n/nb9b1a6a4af26",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "description": "絵本、オリジナルソング、Tシャツ。小学生が生成AIを使って始められる小さなビジネスを、具体的な手順つきで紹介します。Garoop代表・山下大貴による小学生起業連載の第5回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "生成AI",
+        "子どもビジネス",
+        "絵本",
+        "オリジナルソング"
+      ]
+    },
+    {
+      "slug": "kids-startup-ai-magic-tools",
+      "title": "生成AIは子どもの「魔法の道具」：ChatGPT・Suno・画像生成AIでできること",
+      "sourceUrl": "https://note.com/garoop/n/nb9b1a6a4af26",
+      "publishedAt": "2026-09-04T00:00:00.000Z",
+      "description": "小学生が起業に使える生成AIを、ChatGPT・Suno AI・画像生成AIの3つに分けて紹介します。Garoop代表・山下大貴による小学生起業連載の第4回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "生成AI",
+        "ChatGPT",
+        "Suno",
+        "画像生成AI"
+      ]
+    },
+    {
+      "slug": "kids-startup-first-loan-interview",
+      "title": "初めての融資面談で聞かれたこと：日本政策金融公庫で学んだ起業のリアル",
+      "sourceUrl": "https://note.com/garoop/n/n09ad9a556e0d",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "description": "Garoop代表・山下大貴が創業直後に受けた日本政策金融公庫の融資面談。実際に聞かれた質問と、準備で大事だと感じたことをまとめます。小学生起業連載の第3回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "融資",
+        "日本政策金融公庫",
+        "起業準備",
+        "Garoop"
+      ]
+    },
+    {
+      "slug": "kids-startup-company-purpose",
+      "title": "会社をつくった本当の目的は「子どもでもものづくりができる社会」",
+      "sourceUrl": "https://note.com/garoop/n/n2b2124a28af4",
+      "publishedAt": "2026-08-28T00:00:00.000Z",
+      "description": "株式会社Garoopを創業した目的は、子どもたちがエンタメのようにものづくりを体験できる社会をつくること。代表・山下大貴が創業当時の考えを振り返ります。小学生起業連載の第2回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "ものづくり",
+        "創業",
+        "Garoop",
+        "子ども"
+      ]
+    },
+    {
+      "slug": "kids-startup-why-age-10",
+      "title": "小学生でも起業できる？ Garoopが「10歳からスタートアップ」を掲げる理由",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "長崎の株式会社Garoop代表・山下大貴が、小学生から生成AIを使って起業に挑戦することを推進する理由を、実体験をもとに解説します。小学生起業連載の第1回です。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "小学生起業",
+        "10歳起業",
+        "生成AI",
+        "スタートアップ",
+        "Garoop"
+      ]
+    },
+    {
       "slug": "ne4367334a6cb",
       "title": "ガループ（Garoop）とは",
       "sourceUrl": "https://note.com/garoop_company/n/ne4367334a6cb",
