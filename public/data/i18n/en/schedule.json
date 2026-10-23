@@ -7,18 +7,12 @@
                 "task_id": "morning_sync",
                 "assignees": [
                     "representative",
-                    "engineer",
-                    "marketing",
-                    "designer",
                     "ambassador_yui"
                 ],
                 "meeting": {
                     "title": "All Hands Morning Sync",
                     "attendees": [
                         "representative",
-                        "engineer",
-                        "marketing",
-                        "designer",
                         "ambassador_yui"
                     ]
                 }
@@ -28,8 +22,6 @@
                 "end": "12:00",
                 "task_id": "product_dev",
                 "assignees": [
-                    "engineer",
-                    "designer",
                     "ai_garuchan"
                 ]
             },
@@ -46,7 +38,6 @@
                 "end": "14:30",
                 "task_id": "sns_op",
                 "assignees": [
-                    "marketing",
                     "ambassador_yui",
                     "ai_garuchan"
                 ]
@@ -56,16 +47,12 @@
                 "end": "16:00",
                 "task_id": "design_review",
                 "assignees": [
-                    "representative",
-                    "designer",
-                    "marketing"
+                    "representative"
                 ],
                 "meeting": {
                     "title": "Landing Page Design Review",
                     "attendees": [
-                        "representative",
-                        "designer",
-                        "marketing"
+                        "representative"
                     ]
                 }
             },
@@ -74,7 +61,6 @@
                 "end": "18:30",
                 "task_id": "release",
                 "assignees": [
-                    "engineer",
                     "ai_garuchan"
                 ]
             }
@@ -93,9 +79,6 @@
                     "title": "Morning Sync",
                     "attendees": [
                         "representative",
-                        "designer",
-                        "engineer",
-                        "marketing",
                         "tax_accountant",
                         "labor_consultant"
                     ]
@@ -105,18 +88,14 @@
                 "start": "10:00",
                 "end": "11:00",
                 "task_id": "product_dev",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "11:00",
                 "end": "12:00",
                 "task_id": "sns_op",
-                "assignees": [
-                    "marketing"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -125,9 +104,6 @@
                 "task_id": "break",
                 "assignees": [
                     "representative",
-                    "designer",
-                    "engineer",
-                    "marketing",
                     "tax_accountant",
                     "labor_consultant"
                 ],
@@ -137,18 +113,14 @@
                 "start": "13:00",
                 "end": "14:00",
                 "task_id": "design_review",
-                "assignees": [
-                    "designer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "14:00",
                 "end": "15:00",
                 "task_id": "release",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -165,7 +137,6 @@
                 "end": "17:00",
                 "task_id": "video_production",
                 "assignees": [
-                    "designer",
                     "ambassador_yui",
                     "talent_uka"
                 ],
@@ -204,9 +175,6 @@
                     "title": "Morning Sync",
                     "attendees": [
                         "representative",
-                        "designer",
-                        "engineer",
-                        "marketing",
                         "tax_accountant",
                         "labor_consultant",
                         "ambassador_yui",
@@ -218,18 +186,14 @@
                 "start": "10:00",
                 "end": "11:00",
                 "task_id": "product_dev",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "11:00",
                 "end": "12:00",
                 "task_id": "sns_op",
-                "assignees": [
-                    "marketing"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -238,9 +202,6 @@
                 "task_id": "break",
                 "assignees": [
                     "representative",
-                    "designer",
-                    "engineer",
-                    "marketing",
                     "tax_accountant",
                     "labor_consultant",
                     "ambassador_yui",
@@ -252,18 +213,14 @@
                 "start": "13:00",
                 "end": "14:00",
                 "task_id": "design_review",
-                "assignees": [
-                    "designer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "14:00",
                 "end": "15:00",
                 "task_id": "release",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -280,7 +237,6 @@
                 "end": "17:00",
                 "task_id": "video_production",
                 "assignees": [
-                    "designer",
                     "ambassador_yui",
                     "talent_uka"
                 ],
@@ -319,9 +275,6 @@
                     "title": "Morning Sync",
                     "attendees": [
                         "representative",
-                        "designer",
-                        "engineer",
-                        "marketing",
                         "tax_accountant",
                         "labor_consultant"
                     ]
@@ -331,18 +284,14 @@
                 "start": "10:00",
                 "end": "11:00",
                 "task_id": "product_dev",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "11:00",
                 "end": "12:00",
                 "task_id": "sns_op",
-                "assignees": [
-                    "marketing"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -351,9 +300,6 @@
                 "task_id": "break",
                 "assignees": [
                     "representative",
-                    "designer",
-                    "engineer",
-                    "marketing",
                     "tax_accountant",
                     "labor_consultant"
                 ],
@@ -363,18 +309,14 @@
                 "start": "13:00",
                 "end": "14:00",
                 "task_id": "design_review",
-                "assignees": [
-                    "designer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "14:00",
                 "end": "15:00",
                 "task_id": "release",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -391,7 +333,6 @@
                 "end": "17:00",
                 "task_id": "video_production",
                 "assignees": [
-                    "designer",
                     "ambassador_yui",
                     "talent_uka"
                 ],
@@ -430,9 +371,6 @@
                     "title": "Morning Sync",
                     "attendees": [
                         "representative",
-                        "designer",
-                        "engineer",
-                        "marketing",
                         "tax_accountant",
                         "labor_consultant",
                         "ambassador_yui",
@@ -444,27 +382,21 @@
                 "start": "09:30",
                 "end": "10:30",
                 "task_id": "product_dev",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "10:30",
                 "end": "11:30",
                 "task_id": "sns_op",
-                "assignees": [
-                    "marketing"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "11:30",
                 "end": "12:30",
                 "task_id": "design_review",
-                "assignees": [
-                    "designer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -473,9 +405,6 @@
                 "task_id": "break",
                 "assignees": [
                     "representative",
-                    "designer",
-                    "engineer",
-                    "marketing",
                     "tax_accountant",
                     "labor_consultant",
                     "ambassador_yui",
@@ -497,9 +426,6 @@
                 "end": "15:30",
                 "task_id": "video_production",
                 "assignees": [
-                    "designer",
-                    "engineer",
-                    "marketing",
                     "ambassador_yui",
                     "talent_uka"
                 ],
@@ -527,11 +453,7 @@
                 "start": "17:30",
                 "end": "18:30",
                 "task_id": "market_research",
-                "assignees": [
-                    "investigator",
-                    "coordinator",
-                    "negotiator"
-                ],
+                "assignees": [],
                 "meeting": null
             }
         ]
@@ -549,9 +471,6 @@
                     "title": "Morning Sync",
                     "attendees": [
                         "representative",
-                        "designer",
-                        "engineer",
-                        "marketing",
                         "tax_accountant",
                         "labor_consultant"
                     ]
@@ -561,18 +480,14 @@
                 "start": "10:00",
                 "end": "11:00",
                 "task_id": "product_dev",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "11:00",
                 "end": "12:00",
                 "task_id": "sns_op",
-                "assignees": [
-                    "marketing"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -581,9 +496,6 @@
                 "task_id": "break",
                 "assignees": [
                     "representative",
-                    "designer",
-                    "engineer",
-                    "marketing",
                     "tax_accountant",
                     "labor_consultant"
                 ],
@@ -593,18 +505,14 @@
                 "start": "13:00",
                 "end": "14:00",
                 "task_id": "design_review",
-                "assignees": [
-                    "designer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "14:00",
                 "end": "15:00",
                 "task_id": "release",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -612,7 +520,6 @@
                 "end": "16:00",
                 "task_id": "video_production",
                 "assignees": [
-                    "designer",
                     "ambassador_yui",
                     "talent_uka"
                 ],
@@ -660,9 +567,6 @@
                     "title": "Morning Sync",
                     "attendees": [
                         "representative",
-                        "designer",
-                        "engineer",
-                        "marketing",
                         "tax_accountant",
                         "labor_consultant"
                     ]
@@ -672,18 +576,14 @@
                 "start": "10:00",
                 "end": "11:00",
                 "task_id": "product_dev",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "11:00",
                 "end": "12:00",
                 "task_id": "sns_op",
-                "assignees": [
-                    "marketing"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -692,9 +592,6 @@
                 "task_id": "break",
                 "assignees": [
                     "representative",
-                    "designer",
-                    "engineer",
-                    "marketing",
                     "tax_accountant",
                     "labor_consultant"
                 ],
@@ -704,18 +601,14 @@
                 "start": "13:00",
                 "end": "14:00",
                 "task_id": "design_review",
-                "assignees": [
-                    "designer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
                 "start": "14:00",
                 "end": "15:00",
                 "task_id": "release",
-                "assignees": [
-                    "engineer"
-                ],
+                "assignees": [],
                 "meeting": null
             },
             {
@@ -732,8 +625,6 @@
                 "end": "17:00",
                 "task_id": "video_production",
                 "assignees": [
-                    "designer",
-                    "engineer",
                     "ambassador_yui",
                     "talent_uka"
                 ],
