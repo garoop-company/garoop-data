@@ -1,0 +1,334 @@
+{
+  "sourceTopUrl": "https://note.com/garoop_company",
+  "generatedAt": "2026-04-12T18:28:47.394Z",
+  "feedHash": "b053905fe5504b65edd76a92eead2a5fc653fddd1f4b4a62f4e2433d33efbb6e",
+  "model": "llama-3.1-8b-instant",
+  "modelCandidates": [
+    "llama-3.1-8b-instant",
+    "llama-3.3-70b-versatile",
+    "gemma2-9b-it"
+  ],
+  "locale": "en",
+  "items": [
+    {
+      "slug": "ne4367334a6cb",
+      "title": "What Is Garoop?",
+      "sourceUrl": "https://note.com/garoop_company/n/ne4367334a6cb",
+      "publishedAt": "2026-04-12T14:12:15.000Z",
+      "description": "Hello. We are Garoop Inc. Garoop is a kangaroo company. We use AI to learn, create, and think in fun ways.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/266956285/rectangle_large_type_2_2f5cc8df72209e87e346891b10440907.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Kangaroo",
+        "AI",
+        "Education",
+        "Creative",
+        "Technology"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n3f1e7804da10",
+      "title": "Startups and the Potential of Children",
+      "sourceUrl": "https://note.com/garoop_company/n/n3f1e7804da10",
+      "publishedAt": "2026-04-11T14:50:24.000Z",
+      "description": "Children have new ideas and creativity for the future, and they take on all kinds of challenges.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/266688929/rectangle_large_type_2_4b91fb3849e5eba421796f32abccfd22.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Startups",
+        "Children",
+        "Creativity",
+        "Entrepreneurship",
+        "Potential"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "nc9170f9508c2",
+      "title": "Starting a Business at 10. Starting a Business at 10. Starting a Business at 10. japan only",
+      "sourceUrl": "https://note.com/garoop_company/n/nc9170f9508c2",
+      "publishedAt": "2026-04-01T04:09:05.000Z",
+      "description": "Daiki Yamashita, CEO of Garoop Inc., talks about the strengths of starting a business at age 10 and how to overcome the obstacles.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/263859099/rectangle_large_type_2_506985e2fda9d12a74d100414fbff3c6.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Starting a business at 10",
+        "Entrepreneurship",
+        "Business",
+        "Garoop",
+        "Daiki Yamashita"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n4ecb9b33cba0",
+      "title": "Claude Code Is Trending, but Here's Why I Use Codex",
+      "sourceUrl": "https://note.com/garoop_company/n/n4ecb9b33cba0",
+      "publishedAt": "2026-03-29T13:29:38.000Z",
+      "description": "Daiki Yamashita of Garoop Inc. talks about the buzz around Claude Code and how he uses Codex.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/263168678/rectangle_large_type_2_8034ecf3f779aec489cba73cfb4423b4.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Codex",
+        "Claude Code",
+        "AI",
+        "ChatGPT",
+        "Code generation",
+        "Organizing thoughts",
+        "Writing"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n5d2d6213493c",
+      "title": "“Starting a Business at 10” Means Gaining the Strongest Mind and Body",
+      "sourceUrl": "https://note.com/garoop_company/n/n5d2d6213493c",
+      "publishedAt": "2026-03-19T14:56:09.000Z",
+      "description": "An article about the “10-Year-Old Entrepreneur Training School (Garoop School),” run by Daiki Yamashita, CEO of Garoop Inc.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/260474498/rectangle_large_type_2_1306f21eeb28df78f75837a89f01ecfb.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Garoop",
+        "10-Year-Old Entrepreneur Training School",
+        "Generative AI",
+        "Business",
+        "Character"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "nb97117a2d729",
+      "title": "[CEO's note] From a “Handy Tool” to a “Family Who Connects Hearts”: The Thinking Behind Garu-chan AI, the Interactive AI from Nagasaki",
+      "sourceUrl": "https://note.com/garoop_company/n/nb97117a2d729",
+      "publishedAt": "2026-03-16T13:42:40.000Z",
+      "description": "Yamashita, CEO of Garoop Inc., talks about the thinking and purpose behind Garu-chan AI, the interactive AI from Nagasaki",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/259675600/rectangle_large_type_2_d28a9b1b43d2a9296c8e23914d2a0713.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "AI",
+        "Nagasaki",
+        "Interactive AI",
+        "Garu-chan AI",
+        "Startup",
+        "Artificial Intelligence"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "nbdb927058a7b",
+      "title": "Installing an LLM Is Like Giving Birth to a Baby",
+      "sourceUrl": "https://note.com/garoop_company/n/nbdb927058a7b",
+      "publishedAt": "2026-03-13T13:41:37.000Z",
+      "description": "Installing an LLM is like giving birth to a baby. Putting an LLM on your own machine, running it, raising it, and weaving it into your work and life is more than just installing software.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/258873691/rectangle_large_type_2_556bd3d35e69ae47604cfb830d14beef.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "LLM",
+        "Garoop",
+        "AI",
+        "Service"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "n8c9c99ae64b4",
+      "title": "“Logic” Is an Instinct for Protecting the Heart from Breaking | AI, Depression, and How to Grow a Business",
+      "sourceUrl": "https://note.com/garoop_company/n/n8c9c99ae64b4",
+      "publishedAt": "2026-03-06T15:55:52.000Z",
+      "description": "Daiki Yamashita, CEO of Garoop Inc., talks about his hypotheses on “AI and depression” and “logical thinking”",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/257089537/rectangle_large_type_2_4880a1fecd8a1f11932bbbddd6054445.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "AI",
+        "Depression",
+        "Logical Thinking",
+        "Business",
+        "Kangaroo"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "n4311ebdcbeca",
+      "title": "The Generative AI We Use a Lot at Garoop",
+      "sourceUrl": "https://note.com/garoop_company/n/n4311ebdcbeca",
+      "publishedAt": "2026-03-04T15:11:23.000Z",
+      "description": "At Garoop, we create AI-powered content and services together with Garu-chan, the pink kangaroo.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/256538311/rectangle_large_type_2_801be6f8daead45c2bd7a22702cc7086.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Garoop",
+        "AI",
+        "ChatGPT",
+        "Generative"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "n21825700369a",
+      "title": "Kangaroo Trademarks “Garoop”",
+      "sourceUrl": "https://note.com/garoop_company/n/n21825700369a",
+      "publishedAt": "2026-02-25T00:45:05.000Z",
+      "description": "This text explains the work of “Garoop.” About the work of Kangaroo Trademarks, it connects to the boy's fat and to the grown-up.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/254449124/rectangle_large_type_2_603ccbbe464d71399b81e87f01ae7d5c.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Garoop",
+        "AI",
+        "Company",
+        "Boy's Fat",
+        "Grown-up"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "n2eefb68d4c0a",
+      "title": "Garoop's Tech Stack",
+      "sourceUrl": "https://note.com/garoop_company/n/n2eefb68d4c0a",
+      "publishedAt": "2026-02-14T09:24:45.000Z",
+      "description": "An introduction to Garoop's tech stack, with details on the backend and infrastructure.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/251692190/rectangle_large_type_2_096b80ca8b8d36dda95be5788944938a.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Garoop",
+        "TechStack",
+        "Backend",
+        "Infrastructure",
+        "GraphQL"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "nb7f317930dff",
+      "title": "In the AI Era, It's Best That I Don't Understand It",
+      "sourceUrl": "https://note.com/garoop_company/n/nb7f317930dff",
+      "publishedAt": "2026-02-05T14:47:14.000Z",
+      "description": "The evolution of AI is healthy, and it's best when it goes beyond the understanding of adults like me. We now live in an era where AI delivers output in an instant.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/249452738/rectangle_large_type_2_022fd9cb9843865f2d7332e73eee4635.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "AI",
+        "Garoop",
+        "DaikiYamashita",
+        "Creators"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "n9bd1dd74b7ac",
+      "title": "Today's VW News (PR)",
+      "sourceUrl": "https://note.com/garoop_company/n/n9bd1dd74b7ac",
+      "publishedAt": "2026-01-28T15:25:42.000Z",
+      "description": "News from 54base, a Volkswagen specialty shop. With over 35 years of maintenance experience and dedicated diagnostic equipment, it offers VW maintenance, repair, vehicle inspections, and used car sales.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/247387080/rectangle_large_type_2_a62f8b77e668062c6b569eb039f08de2.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Volkswagen",
+        "54base",
+        "VW",
+        "Maintenance",
+        "Repair",
+        "VehicleInspection",
+        "UsedCarSales"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n1ed280c17445",
+      "title": "1/23 Today's VW News (PR)",
+      "sourceUrl": "https://note.com/garoop_company/n/n1ed280c17445",
+      "publishedAt": "2026-01-23T13:28:33.000Z",
+      "description": "54base Inc. is a Volkswagen specialty shop in Nishi Ward, Fukuoka City. With over 35 years of maintenance experience and dedicated diagnostic equipment, it handles VW maintenance, repair, vehicle inspections, and used car sales.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/246097181/rectangle_large_type_2_e2b985da640473e228e89ac296e42363.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "VW",
+        "Volkswagen",
+        "Maintenance",
+        "VehicleInspection",
+        "UsedCars"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "n9f927c63c179",
+      "title": "Grow the Company Big to Pay Lots of Taxes to the Country. And Feel Great.",
+      "sourceUrl": "https://note.com/garoop_company/n/n9f927c63c179",
+      "publishedAt": "2026-01-21T12:56:09.000Z",
+      "description": "Garoop Inc. supports people in launching generative AI startups from age 10 and growing their businesses.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/245601884/rectangle_large_type_2_70ff705f31abb8599b5155b07298a0be.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Garoop",
+        "Entrepreneurship",
+        "RegionalRevitalization",
+        "GenerativeAI"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "nc52b31e30ac9",
+      "title": "Trouble Free List: Entering Notions",
+      "sourceUrl": "https://note.com/garoop_company/n/nc52b31e30ac9",
+      "publishedAt": "2026-01-18T14:04:37.000Z",
+      "description": "About entering notions: see the Trouble Free List",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/244884579/rectangle_large_type_2_0fecc783083381d9a596e68081968769.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Startup",
+        "Garoop",
+        "Business",
+        "Entrepreneur"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "nfe460f0ddd2d",
+      "title": "1/18 Today's VW News (PR)",
+      "sourceUrl": "https://note.com/garoop_company/n/nfe460f0ddd2d",
+      "publishedAt": "2026-01-18T13:55:40.000Z",
+      "description": "54base, a Volkswagen specialist shop. With over 35 years of service experience and a dedicated diagnostic tool, we handle VW maintenance, repairs, vehicle inspections, and used car sales",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/244882031/rectangle_large_type_2_382b619da3b5977190d6e7d214e675db.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Volkswagen",
+        "54base",
+        "VW",
+        "UsedCars",
+        "VehicleInspection"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "n3d77ca6a2730",
+      "title": "Today's VW News (PR)",
+      "sourceUrl": "https://note.com/garoop_company/n/n3d77ca6a2730",
+      "publishedAt": "2026-01-15T13:57:43.000Z",
+      "description": "Introducing today's VW news from 54base, a Volkswagen specialist shop.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/244120401/rectangle_large_type_2_2a7d2a91665b479229324dc085e122db.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Volkswagen",
+        "54base",
+        "VWSpecialist",
+        "Automobiles",
+        "VehicleInspection",
+        "UsedCarSales"
+      ],
+      "model": "llama-3.1-8b-instant"
+    },
+    {
+      "slug": "n2d129144ac64",
+      "title": "Episode 3: Doubt and Choice - Garu-chan's Power to Believe Is Put to the Test",
+      "sourceUrl": "https://note.com/garoop_company/n/n2d129144ac64",
+      "publishedAt": "2026-01-14T16:08:06.000Z",
+      "description": "Garu-chan earned money for the first time. It wasn't enough to change daily life, but it was proof enough to change Garu-chan's world.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/243909162/rectangle_large_type_2_dc3f9d79d88dc7a3a07c6ffdb71a78a3.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Garoop",
+        "AI",
+        "Work",
+        "PowerToBelieve"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    },
+    {
+      "slug": "ne7305ea9a0f5",
+      "title": "What Is Mentality? You Don't Act Because You Feel Motivated. You Become Motivated Because You Acted.",
+      "sourceUrl": "https://note.com/garoop_company/n/ne7305ea9a0f5",
+      "publishedAt": "2026-01-13T10:33:25.000Z",
+      "description": "Action decides everything. Many people think, “I'll start once I feel motivated,” but the order is actually reversed. People can only get serious through action, then emotion, then thought.",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/243591626/rectangle_large_type_2_872ba9534aaa9fede124c029ddb539ea.png?fit=bounds&quality=85&width=1280",
+      "hashtags": [
+        "Mentality",
+        "Action",
+        "Emotion",
+        "LogicalThinking",
+        "GoalAchievement"
+      ],
+      "model": "llama-3.3-70b-versatile"
+    }
+  ]
+}
