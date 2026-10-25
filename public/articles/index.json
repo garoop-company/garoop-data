@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-fewer-tools-ai",
+      "title": "道具を減らしてAIに寄せたら、会社が速くなった：2026年の代表の仕事道具",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "description": "2026年、Garoopは契約しているツールを減らし、仕事をAIに寄せました。勧めている道具はCodex／Claude Code・GitHub・Vercel・NotebookLMの4つだけ。社内の仕事を手順書にしてAIに任せるやり方を、代表・山下大貴が紹介します。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "生成AI",
+        "ClaudeCode",
+        "NotebookLM",
+        "業務効率化",
+        "スタートアップ"
+      ]
+    },
+    {
       "slug": "kids-startup-ai-mentality",
       "title": "「AIを下に見るな」：AI時代の子どもに必要なのは、志とぶれないメンタリティ",
       "sourceUrl": "https://note.com/garoop_company",

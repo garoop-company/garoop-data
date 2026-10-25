@@ -7891,6 +7891,25 @@
           "thumbnail": "https://data.garoop.jp/blog/thumbnail.webp"
         }
       }
+    },
+    "2026-10-26-ceo-make-with-ai": {
+      "default": "2026-10-26-ceo-make-with-ai.md",
+      "locales": {},
+      "meta": {
+        "ja": {
+          "title": "好きなことを、AIで作品にする。保護者の方に知ってほしい「決める・試す・直す・発表する」",
+          "date": "2026-10-26",
+          "description": "Garoop Studioのトップに書いている「決める。試す。直す。発表する。」の意味を、代表・山下大貴が保護者の方向けに紹介します。AIツール図鑑・トレーニング・会社スタジオの使い方と、おうちでできる声かけのコツも。",
+          "tags": [
+            "保護者向け",
+            "生成AI",
+            "子ども",
+            "起業",
+            "Garoop Studio"
+          ],
+          "thumbnail": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png"
+        }
+      }
     }
   }
 }
