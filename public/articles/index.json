@@ -10,6 +10,51 @@
   ],
   "items": [
     {
+      "slug": "ceo-security-small-company",
+      "title": "日本への攻撃報告が3か月で48%増えた：小さな会社でもできる、Garoopの4つの守り",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-26T06:00:00.000Z",
+      "description": "日本の組織を狙う攻撃の報告は、2026年4〜6月の621件から7〜9月は918件に増えました。パスワードのArgon2id化、reCAPTCHA、依存パッケージの更新など、Garoopが10月に実際にやった4つの対策を代表・山下大貴が紹介します。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "サイバーセキュリティ",
+        "中小企業",
+        "パスワード",
+        "Argon2id",
+        "AI活用"
+      ]
+    },
+    {
+      "slug": "ceo-security-php-update-speed",
+      "title": "PHPの重大な脆弱性でたくさんのサイトが止まった週に、GaroopがGoとNext.jsでやっていたこと",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-26T03:00:00.000Z",
+      "description": "2026年10月21日、PHPに認証なしでプログラムを動かされる重大な脆弱性が見つかり、国内でも多くの組織がサービスを止めて更新しました。「すぐ更新できる体制」の大切さと、同じ週にGaroopが回していた更新を代表・山下大貴が紹介します。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "PHP",
+        "脆弱性",
+        "セキュリティ",
+        "Go",
+        "Next.js"
+      ]
+    },
+    {
+      "slug": "ceo-security-gmo-credentials",
+      "title": "サーバーに「鍵」を置かない：GMOの不正アクセスのお知らせを読んで、代表が大事だと思ったこと",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-26T00:00:00.000Z",
+      "description": "GMOインターネットグループの「お名前.com デスクトップクラウド」不正アクセスの公式発表をもとに、ログイン情報の置き場所と二要素認証の大切さを、Garoopの普段の守り方とあわせて代表・山下大貴が紹介します。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "セキュリティ",
+        "不正アクセス",
+        "二要素認証",
+        "パスワード管理",
+        "エンジニア"
+      ]
+    },
+    {
       "slug": "ceo-fewer-tools-ai",
       "title": "道具を減らしてAIに寄せたら、会社が速くなった：2026年の代表の仕事道具",
       "sourceUrl": "https://note.com/garoop_company",
