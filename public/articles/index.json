@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-security-cloud-engineers",
+      "title": "情報流出が昨年の2.6倍に。PHPを使わず、AWSやVercelに土台を任せ、残りはエンジニアが見る：Garoopの守り方",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-28T03:00:00.000Z",
+      "description": "サイト経由の攻撃が急増し、情報流出の公表は今年すでに昨年1年間の2.6倍。GaroopはPHPを使わず、サーバーはAWSやVercelなどのクラウドに任せ、アプリ・設定・アカウントはエンジニアが自分たちで見ています。その分担の考え方を代表・山下大貴が紹介します。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "セキュリティ",
+        "AWS",
+        "Vercel",
+        "責任共有モデル",
+        "エンジニア"
+      ]
+    },
+    {
       "slug": "ceo-security-small-company",
       "title": "日本への攻撃報告が3か月で48%増えた：小さな会社でもできる、Garoopの4つの守り",
       "sourceUrl": "https://note.com/garoop_company",
