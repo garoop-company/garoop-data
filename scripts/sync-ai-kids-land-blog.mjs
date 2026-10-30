@@ -313,9 +313,16 @@ async function main() {
     }
   }
 
+  // 代表の寄稿記事（slug が ceo- で始まる）は RSS に無いので、既存の index.json から引き継ぐ
+  const manual = await fs
+    .readFile(INDEX_PATH, "utf8")
+    .then((raw) => (JSON.parse(raw).items ?? []).filter((item) => String(item.slug).startsWith("ceo-")))
+    .catch(() => []);
+  const merged = [...manual, ...generated].sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
+
   await fs.writeFile(
     INDEX_PATH,
-    `${JSON.stringify({ generatedAt: new Date().toISOString(), sourceUrl: RSS_URL, items: generated }, null, 2)}\n`,
+    `${JSON.stringify({ generatedAt: new Date().toISOString(), sourceUrl: RSS_URL, items: merged }, null, 2)}\n`,
     "utf8",
   );
   await fs.writeFile(

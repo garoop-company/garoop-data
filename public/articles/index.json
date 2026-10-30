@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-boj-2percent-small-company",
+      "title": "日銀が「物価2%」到達を表明。金利のある世界で、小さな会社の経営者が前向きにやること",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "description": "2026年10月30日、日銀は政策金利を1.25%で据え置き、基調的な物価上昇率が2%目標と「おおむね整合的な水準」に達したと表明しました。インフレとAIをセットで見てきた代表・山下大貴が、金利のある世界でGaroopがやっていることを紹介します。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "金融",
+        "日銀",
+        "インフレ",
+        "経営",
+        "生成AI"
+      ]
+    },
+    {
       "slug": "ceo-security-cloud-engineers",
       "title": "情報流出が昨年の2.6倍に。PHPを使わず、AWSやVercelに土台を任せ、残りはエンジニアが見る：Garoopの守り方",
       "sourceUrl": "https://note.com/garoop_company",
