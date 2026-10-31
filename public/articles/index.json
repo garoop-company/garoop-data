@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-ai-rules-what-to-put-in",
+      "title": "AIを禁止するより、「入れていい情報」を決める。生成AIに社内情報が入ってしまったニュースから考える、Garoopのルール",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-10-31T00:00:00.000Z",
+      "description": "大手メーカーで、利用を禁止していた外部の生成AIに約33万4千人分の個人情報がアップロードされたと公表されました。AIを毎日の仕事の中心に置いているGaroopが、禁止ではなく「使う道具」と「入れていい情報」を決めて動いている理由を、代表・山下大貴が紹介します。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "生成AI",
+        "情報管理",
+        "セキュリティ",
+        "AI活用",
+        "経営"
+      ]
+    },
+    {
       "slug": "ceo-boj-2percent-small-company",
       "title": "日銀が「物価2%」到達を表明。金利のある世界で、小さな会社の経営者が前向きにやること",
       "sourceUrl": "https://note.com/garoop_company",
