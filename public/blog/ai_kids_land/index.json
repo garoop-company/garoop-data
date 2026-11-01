@@ -4,6 +4,22 @@
   "items": [
     {
       "locale": "ja",
+      "datePath": "2026-11-02",
+      "slug": "ceo-make-your-own-original",
+      "title": "AIは「まね」より「自分のアイデア」が得意になっていく。子どもに伝えたい、オリジナルで作る楽しさ｜代表・山下大貴",
+      "sourceUrl": "https://www.gamebusiness.jp/article/2026/10/31/28522.html",
+      "publishedAt": "2026-11-02T01:00:00.000Z",
+      "description": "AIでプログラムを作る道具「Claude Code」が、既存の特定のゲームをそのまま再現しないように調整されたと報じられました。オリジナルのゲームや、自分のデザインで作るゲームは引き続き作れます。子どもがAIでものづくりをするときに大切にしたい「自分のアイデアで作る」ことを、Garoop探校の代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "Garoop探校",
+        "生成AI",
+        "オリジナル",
+        "子ども教育"
+      ]
+    },
+    {
+      "locale": "ja",
       "datePath": "2026-10-31",
       "slug": "ceo-gemini-slides-fix-and-present",
       "title": "AIが作ったスライドを、その場で「直せる」ようになった。発表までの近道は、作るより直すこと｜代表・山下大貴",

@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-defense-with-ai",
+      "title": "攻撃にAIが使われる時代は、守りもAIで速く回す。小さな会社のGaroopがやっている3つのこと",
+      "sourceUrl": "https://note.com/garoop_company",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "description": "日本経済新聞の集計では、9月以降の約1カ月で延べ3億人超の個人情報の漏洩が公表され、攻撃へのAIの関与が疑われる事例もありました。攻撃が速くなるなら、守りも速くする。AIを毎日の仕事に使うGaroopが守りでやっていることを、代表・山下大貴が紹介します。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "セキュリティ",
+        "生成AI",
+        "サイバー攻撃",
+        "エンジニア",
+        "経営"
+      ]
+    },
+    {
       "slug": "ceo-ai-rules-what-to-put-in",
       "title": "AIを禁止するより、「入れていい情報」を決める。生成AIに社内情報が入ってしまったニュースから考える、Garoopのルール",
       "sourceUrl": "https://note.com/garoop_company",
