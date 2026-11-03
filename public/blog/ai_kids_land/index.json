@@ -4,6 +4,23 @@
   "items": [
     {
       "locale": "ja",
+      "datePath": "2026-11-03",
+      "slug": "ceo-talk-about-what-you-love",
+      "title": "好きな曲の話を、AIとできる時代に。子どもに育てたい「好きを言葉にする力」｜代表・山下大貴",
+      "sourceUrl": "https://ai.watch.impress.co.jp/docs/news/2152562.html",
+      "publishedAt": "2026-11-03T01:00:00.000Z",
+      "description": "音楽を聴きながら、AIのキャラクターと曲の話ができるアプリ「Shubiduba」が登場しました。AIは、好きなものについておしゃべりできる相手にもなりつつあります。子どもが「好き」を言葉にする力をどう育てるかを、Garoop探校の代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "Garoop探校",
+        "生成AI",
+        "音楽",
+        "言葉にする力",
+        "子ども教育"
+      ]
+    },
+    {
+      "locale": "ja",
       "datePath": "2026-11-02",
       "slug": "ceo-make-your-own-original",
       "title": "AIは「まね」より「自分のアイデア」が得意になっていく。子どもに伝えたい、オリジナルで作る楽しさ｜代表・山下大貴",

@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-hold-less-data",
+      "title": "預からない情報は、漏れない。約700万件の漏えいのニュースから考える、Garoopのサービスづくりの決まりごと",
+      "sourceUrl": "https://news.web.nhk/newsweb/na/nd-20261102de69780",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "description": "大手の家電量販店の通販サイトで、約700万件の個人情報の漏えいが発表されました。カード情報は、そのサイトでは持っていなかったため含まれていないとされています。「持たない情報は漏れない」という考え方を、AIでサービスを作る株式会社Garoopの代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "セキュリティ",
+        "個人情報",
+        "サービス設計",
+        "エンジニア",
+        "経営"
+      ]
+    },
+    {
       "slug": "ceo-defense-with-ai",
       "title": "攻撃にAIが使われる時代は、守りもAIで速く回す。小さな会社のGaroopがやっている3つのこと",
       "sourceUrl": "https://note.com/garoop_company",
