@@ -4,6 +4,23 @@
   "items": [
     {
       "locale": "ja",
+      "datePath": "2026-11-04",
+      "slug": "ceo-ask-where-it-is-written",
+      "title": "AIが教科書を読んで、答えの「出どころ」まで教えてくれる時代に。子どもに身につけてほしい「どこに書いてある？」の習慣｜代表・山下大貴",
+      "sourceUrl": "https://www.watch.impress.co.jp/docs/news/2152548.html",
+      "publishedAt": "2026-11-04T01:00:00.000Z",
+      "description": "GoogleのGemini Notebookで、数百冊の教科書を無料で追加できるようになりました。AIの答えには出典が示され、教科書の該当箇所にすぐ飛べます。AIで学ぶ時代に子どもに身につけてほしい「どこに書いてある？」と確かめる習慣を、Garoop探校の代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "Garoop探校",
+        "生成AI",
+        "学び",
+        "調べ学習",
+        "子ども教育"
+      ]
+    },
+    {
+      "locale": "ja",
       "datePath": "2026-11-03",
       "slug": "ceo-talk-about-what-you-love",
       "title": "好きな曲の話を、AIとできる時代に。子どもに育てたい「好きを言葉にする力」｜代表・山下大貴",
