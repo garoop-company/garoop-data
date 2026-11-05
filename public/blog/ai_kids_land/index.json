@@ -4,6 +4,23 @@
   "items": [
     {
       "locale": "ja",
+      "datePath": "2026-11-05",
+      "slug": "ceo-where-did-this-image-come-from",
+      "title": "AIで作った画像を見分ける道具が登場。子どもと一緒に身につけたい「この画像、どこから来た？」の習慣｜代表・山下大貴",
+      "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/",
+      "publishedAt": "2026-11-05T01:00:00.000Z",
+      "description": "AIで作られた画像を高い精度で見分けるという道具が、米国のスタートアップから発表されました。AIで画像を作るのも、見分けるのも、どんどん簡単になっています。子どもと一緒に身につけたい「どこから来た画像か」を考える習慣を、Garoop探校の代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "Garoop探校",
+        "生成AI",
+        "画像",
+        "ネットの安全",
+        "子ども教育"
+      ]
+    },
+    {
+      "locale": "ja",
       "datePath": "2026-11-04",
       "slug": "ceo-ask-where-it-is-written",
       "title": "AIが教科書を読んで、答えの「出どころ」まで教えてくれる時代に。子どもに身につけてほしい「どこに書いてある？」の習慣｜代表・山下大貴",

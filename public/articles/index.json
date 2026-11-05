@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-fix-docs-with-ai",
+      "title": "資料は「作る」より「直す」に時間がかかる。GeminiがチャットでGoogleスライドや文書を作って直せるようになった今、Garoopの資料づくり",
+      "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "description": "Googleが、Geminiのチャット画面でGoogleスライドやドキュメントなどを作り、そのまま直せる機能を発表しました。スライド全体をまとめて直す機能も加わります。道具をGoogleに寄せてきた株式会社Garoopの代表・山下大貴が、AI時代の資料づくりの考え方を書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "生成AI",
+        "Gemini",
+        "資料作成",
+        "働き方",
+        "経営"
+      ]
+    },
+    {
       "slug": "ceo-say-made-with-ai",
       "title": "AIの文章に「見えない印」がつく時代。Garoopは、AIと作ったことを隠さずに、中身で選ばれる会社を目指します",
       "sourceUrl": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
