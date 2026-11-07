@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-labor-cost-and-ai",
+      "title": "人件費を理由にした値上げが、過去最高の51.5％に。人の時間が高くなる時代に、Garoopが小さなチームのままAIで伸ばす理由",
+      "sourceUrl": "https://www.tdb.co.jp/report/economic/20261030-neage26y11/",
+      "publishedAt": "2026-11-07T00:00:00.000Z",
+      "description": "帝国データバンクの調べで、2026年の飲食料品の値上げのうち、人件費を理由にしたものが51.5％と過去最高になりました。人の時間の価値が上がる時代に、会社はどう伸ばすか。AIを毎日の仕事の真ん中に置く株式会社Garoopの代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "生成AI",
+        "人件費",
+        "物価",
+        "生産性",
+        "経営"
+      ]
+    },
+    {
       "slug": "ceo-fix-docs-with-ai",
       "title": "資料は「作る」より「直す」に時間がかかる。GeminiがチャットでGoogleスライドや文書を作って直せるようになった今、Garoopの資料づくり",
       "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",

@@ -4,6 +4,23 @@
   "items": [
     {
       "locale": "ja",
+      "datePath": "2026-11-07",
+      "slug": "ceo-15-second-video-story",
+      "title": "AIで作れる動画が15秒に。子どもと一緒に作りたい「15秒の物語」と、話しかけて直す楽しさ｜代表・山下大貴",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "publishedAt": "2026-11-07T01:00:00.000Z",
+      "description": "Googleが、AIで作れる動画の長さを10秒から15秒に延ばし、話しかけるように何度も直せる新しいモデルを公開しました。15秒あれば、始まり・まんなか・おわりのある小さな物語が作れます。子どもと一緒に楽しみたい動画づくりを、Garoop探校の代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "Garoop探校",
+        "生成AI",
+        "動画",
+        "物語づくり",
+        "子ども教育"
+      ]
+    },
+    {
+      "locale": "ja",
       "datePath": "2026-11-05",
       "slug": "ceo-where-did-this-image-come-from",
       "title": "AIで作った画像を見分ける道具が登場。子どもと一緒に身につけたい「この画像、どこから来た？」の習慣｜代表・山下大貴",
