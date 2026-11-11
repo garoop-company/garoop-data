@@ -4,6 +4,23 @@
   "items": [
     {
       "locale": "ja",
+      "datePath": "2026-11-11",
+      "slug": "ceo-two-percent-prices",
+      "title": "「物価が2％上がる」ってどういうこと？ 日銀のニュースを、親子でおやつの値段から考えてみよう｜代表・山下大貴",
+      "sourceUrl": "https://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
+      "publishedAt": "2026-11-11T01:00:00.000Z",
+      "description": "日本銀行が、物価の上がり方が目標の「2％」くらいになってきたと判断した会議の主な意見を公表しました。2％ってどれくらい？ お給料とどう関係するの？ 親子でおやつの値段から考えるお金の学びを、Garoop探校の代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "Garoop探校",
+        "お金の学び",
+        "物価",
+        "日本銀行",
+        "子ども教育"
+      ]
+    },
+    {
+      "locale": "ja",
       "datePath": "2026-11-07",
       "slug": "ceo-15-second-video-story",
       "title": "AIで作れる動画が15秒に。子どもと一緒に作りたい「15秒の物語」と、話しかけて直す楽しさ｜代表・山下大貴",

@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-pick-ai-by-the-job",
+      "title": "いちばん新しいAIを、いつも使うわけではない。Claudeの新しいモデルと「選び方」の発表から考える、Garoopの道具の使い分け",
+      "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "description": "AnthropicがClaudeの最上位モデル「Claude Fable 5.2」を発表し、あわせてモデルの選び方も解説しました。まずは標準のモデルで試し、仕事の大きさに合わせて切り替える。AIを毎日の仕事に使う株式会社Garoopの代表・山下大貴が、道具の使い分けについて書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "生成AI",
+        "Claude",
+        "AI活用",
+        "生産性",
+        "経営"
+      ]
+    },
+    {
       "slug": "ceo-labor-cost-and-ai",
       "title": "人件費を理由にした値上げが、過去最高の51.5％に。人の時間が高くなる時代に、Garoopが小さなチームのままAIで伸ばす理由",
       "sourceUrl": "https://www.tdb.co.jp/report/economic/20261030-neage26y11/",
