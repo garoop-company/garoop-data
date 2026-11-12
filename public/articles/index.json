@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-costs-up-quote-fast",
+      "title": "企業どうしの取引の値段が、1年で7.1％上がった。仕入れが動く時代に、Garoopが「見積もりを速く、こまめに見直す」理由",
+      "sourceUrl": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "description": "日本銀行の調べで、2026年10月の国内企業物価指数は前年より7.1％上がり、輸入物価は円で見て24.8％上がりました。仕入れや外注の値段が動きやすい時代に、会社はどう備えるか。AIで見積もりと値段の見直しを速くしている株式会社Garoopの代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "企業物価",
+        "物価",
+        "見積もり",
+        "生成AI",
+        "経営"
+      ]
+    },
+    {
       "slug": "ceo-pick-ai-by-the-job",
       "title": "いちばん新しいAIを、いつも使うわけではない。Claudeの新しいモデルと「選び方」の発表から考える、Garoopの道具の使い分け",
       "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
