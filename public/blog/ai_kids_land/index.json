@@ -4,6 +4,23 @@
   "items": [
     {
       "locale": "ja",
+      "datePath": "2026-11-13",
+      "slug": "ceo-make-your-own-character",
+      "title": "名前を言わなくても、AIは有名なキャラクターに似た絵を作ることがある。だから親子で作りたい「自分だけのキャラクター」｜代表・山下大貴",
+      "sourceUrl": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+      "publishedAt": "2026-11-13T01:00:00.000Z",
+      "description": "ソニーAIなどの研究者が、14の画像生成AIを調べた結果、名前を出さずに見た目の特徴だけを伝えても、すでにあるキャラクターだと分かる絵ができることがあると報告しました。AIで絵を作るときに親子で知っておきたいことと、自分だけのキャラクターの作り方を、Garoop探校の代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-studio-1200x630.png",
+      "hashtags": [
+        "Garoop探校",
+        "生成AI",
+        "キャラクター",
+        "著作権",
+        "子ども教育"
+      ]
+    },
+    {
+      "locale": "ja",
       "datePath": "2026-11-12",
       "slug": "ceo-ai-guards-teen-accounts",
       "title": "InstagramがAIで「本当は10代かも」を見分けて守る仕組みを日本でも開始。親子で決めたい、SNSを使うときの3つの約束｜代表・山下大貴",

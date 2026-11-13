@@ -10,6 +10,21 @@
   ],
   "items": [
     {
+      "slug": "ceo-non-engineers-build-with-ai",
+      "title": "エンジニアがいない部門が、AIで業務アプリを2〜3か月で作った。JR九州の内製の話から考える、Garoopが「作れる人」を増やす理由",
+      "sourceUrl": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "description": "JR九州の運輸部門や営業部門が、Geminiを使って業務アプリやページを自分たちで作り、外に頼めば半年から1年かかる開発を2〜3か月で終えたと紹介されました。だれもがAIで作れる時代に、会社はどう育つか。株式会社Garoopの代表・山下大貴が書きます。",
+      "imageUrl": "https://data.garoop.jp/garoop-asset/resized/1200x630/garoop-training-1200x630.png",
+      "hashtags": [
+        "生成AI",
+        "内製化",
+        "Gemini",
+        "DX",
+        "経営"
+      ]
+    },
+    {
       "slug": "ceo-costs-up-quote-fast",
       "title": "企業どうしの取引の値段が、1年で7.1％上がった。仕入れが動く時代に、Garoopが「見積もりを速く、こまめに見直す」理由",
       "sourceUrl": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
