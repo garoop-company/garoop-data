@@ -75,5 +75,7 @@
   ],
   "spritesheetMiniPath": "spritesheet-mini.webp",
   "spritesheetMiniUrl": "/hatch-pets/kawarun/spritesheet-mini.webp",
+  "iconPath": "icon.webp",
+  "iconUrl": "/hatch-pets/kawarun/icon.webp",
   "sourceRun": "hatch-pet-runs/garu-style-20260602/kawarun"
 }

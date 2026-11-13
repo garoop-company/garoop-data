@@ -5,6 +5,10 @@
   "description": "ふぇねみみ: ガルちゃんににたピンクのフェネックのあかちゃん。みんなとあそぶのがだいすき。",
   "spritesheetPath": "spritesheet.webp",
   "spritesheetUrl": "/hatch-pets/fenemimi/spritesheet.webp",
+  "contactSheetPath": "contact-sheet.webp",
+  "contactSheetUrl": "/hatch-pets/fenemimi/contact-sheet.webp",
+  "validationPath": "validation.json",
+  "validationUrl": "/hatch-pets/fenemimi/validation.json",
   "atlas": {
     "columns": 8,
     "rows": 9,
@@ -69,10 +73,9 @@
       "purpose": "ready or completed output review"
     }
   ],
-  "contactSheetPath": "contact-sheet.webp",
-  "contactSheetUrl": "/hatch-pets/fenemimi/contact-sheet.webp",
-  "validationUrl": "/hatch-pets/fenemimi/validation.json",
   "spritesheetMiniPath": "spritesheet-mini.webp",
   "spritesheetMiniUrl": "/hatch-pets/fenemimi/spritesheet-mini.webp",
+  "iconPath": "icon.webp",
+  "iconUrl": "/hatch-pets/fenemimi/icon.webp",
   "sourceRun": "hatch-pet-runs/garu-rare-20261014/fenemimi"
 }

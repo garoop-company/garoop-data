@@ -74,5 +74,7 @@
   ],
   "spritesheetMiniPath": "spritesheet-mini.webp",
   "spritesheetMiniUrl": "/hatch-pets/garuchan-spy/spritesheet-mini.webp",
+  "iconPath": "icon.webp",
+  "iconUrl": "/hatch-pets/garuchan-spy/icon.webp",
   "sourceRun": "hatch-pet-runs/garuchan-spy"
 }

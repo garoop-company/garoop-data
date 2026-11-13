@@ -5,6 +5,10 @@
   "description": "くおころ: ガルちゃんににたピンクのクオッカのあかちゃん。みんなとあそぶのがだいすき。",
   "spritesheetPath": "spritesheet.webp",
   "spritesheetUrl": "/hatch-pets/quokoro/spritesheet.webp",
+  "contactSheetPath": "contact-sheet.webp",
+  "contactSheetUrl": "/hatch-pets/quokoro/contact-sheet.webp",
+  "validationPath": "validation.json",
+  "validationUrl": "/hatch-pets/quokoro/validation.json",
   "atlas": {
     "columns": 8,
     "rows": 9,
@@ -69,10 +73,9 @@
       "purpose": "ready or completed output review"
     }
   ],
-  "contactSheetPath": "contact-sheet.webp",
-  "contactSheetUrl": "/hatch-pets/quokoro/contact-sheet.webp",
-  "validationUrl": "/hatch-pets/quokoro/validation.json",
   "spritesheetMiniPath": "spritesheet-mini.webp",
   "spritesheetMiniUrl": "/hatch-pets/quokoro/spritesheet-mini.webp",
+  "iconPath": "icon.webp",
+  "iconUrl": "/hatch-pets/quokoro/icon.webp",
   "sourceRun": "hatch-pet-runs/garu-rare-20261014/quokoro"
 }

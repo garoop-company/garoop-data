@@ -5,6 +5,10 @@
   "description": "ぞうもち: ちいさなおはなとおおきな耳をもつゾウのあかちゃん。やさしくおてつだいするのがだいすき。",
   "spritesheetPath": "spritesheet.webp",
   "spritesheetUrl": "/hatch-pets/zomochi/spritesheet.webp",
+  "contactSheetPath": "contact-sheet.webp",
+  "contactSheetUrl": "/hatch-pets/zomochi/contact-sheet.webp",
+  "validationPath": "validation.json",
+  "validationUrl": "/hatch-pets/zomochi/validation.json",
   "atlas": {
     "columns": 8,
     "rows": 9,
@@ -69,10 +73,9 @@
       "purpose": "ready or completed output review"
     }
   ],
-  "contactSheetPath": "contact-sheet.webp",
-  "contactSheetUrl": "/hatch-pets/zomochi/contact-sheet.webp",
-  "validationUrl": "/hatch-pets/zomochi/validation.json",
   "spritesheetMiniPath": "spritesheet-mini.webp",
   "spritesheetMiniUrl": "/hatch-pets/zomochi/spritesheet-mini.webp",
+  "iconPath": "icon.webp",
+  "iconUrl": "/hatch-pets/zomochi/icon.webp",
   "sourceRun": "hatch-pet-runs/garu-style-20261014/zomochi"
 }

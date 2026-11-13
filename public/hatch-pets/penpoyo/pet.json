@@ -5,6 +5,10 @@
   "description": "ぺんぽよ: ちいさなつばさであいさつするペンギンのあかちゃん。よちよちあるいてみんなについていくよ。",
   "spritesheetPath": "spritesheet.webp",
   "spritesheetUrl": "/hatch-pets/penpoyo/spritesheet.webp",
+  "contactSheetPath": "contact-sheet.webp",
+  "contactSheetUrl": "/hatch-pets/penpoyo/contact-sheet.webp",
+  "validationPath": "validation.json",
+  "validationUrl": "/hatch-pets/penpoyo/validation.json",
   "atlas": {
     "columns": 8,
     "rows": 9,
@@ -69,10 +73,9 @@
       "purpose": "ready or completed output review"
     }
   ],
-  "contactSheetPath": "contact-sheet.webp",
-  "contactSheetUrl": "/hatch-pets/penpoyo/contact-sheet.webp",
-  "validationUrl": "/hatch-pets/penpoyo/validation.json",
   "spritesheetMiniPath": "spritesheet-mini.webp",
   "spritesheetMiniUrl": "/hatch-pets/penpoyo/spritesheet-mini.webp",
+  "iconPath": "icon.webp",
+  "iconUrl": "/hatch-pets/penpoyo/icon.webp",
   "sourceRun": "hatch-pet-runs/garu-style-20261014/penpoyo"
 }

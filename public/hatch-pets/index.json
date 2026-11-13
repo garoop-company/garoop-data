@@ -6,12 +6,13 @@
       "displayName": "びんとろ",
       "japaneseName": "びんとろ",
       "description": "びんとろ: ガルちゃんににたピンクのビントロングのあかちゃん。みんなとあそぶのがだいすき。",
+      "petUrl": "/hatch-pets/bintoro/pet.json",
       "spritesheetUrl": "/hatch-pets/bintoro/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/bintoro/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/bintoro/icon.webp",
       "contactSheetUrl": "/hatch-pets/bintoro/contact-sheet.webp",
       "validationUrl": "/hatch-pets/bintoro/validation.json",
-      "sourceRun": "hatch-pet-runs/garu-rare-20261014/bintoro",
-      "petUrl": "/hatch-pets/bintoro/pet.json"
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/bintoro"
     },
     {
       "id": "chikurin",
@@ -21,6 +22,7 @@
       "petUrl": "/hatch-pets/chikurin/pet.json",
       "spritesheetUrl": "/hatch-pets/chikurin/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/chikurin/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/chikurin/icon.webp",
       "contactSheetUrl": "/hatch-pets/chikurin/contact-sheet.webp",
       "validationUrl": "/hatch-pets/chikurin/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/chikurin"
@@ -33,6 +35,7 @@
       "petUrl": "/hatch-pets/coamo/pet.json",
       "spritesheetUrl": "/hatch-pets/coamo/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/coamo/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/coamo/icon.webp",
       "contactSheetUrl": "/hatch-pets/coamo/contact-sheet.webp",
       "validationUrl": "/hatch-pets/coamo/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/coamo"
@@ -42,12 +45,13 @@
       "displayName": "ふぇねみみ",
       "japaneseName": "ふぇねみみ",
       "description": "ふぇねみみ: ガルちゃんににたピンクのフェネックのあかちゃん。みんなとあそぶのがだいすき。",
+      "petUrl": "/hatch-pets/fenemimi/pet.json",
       "spritesheetUrl": "/hatch-pets/fenemimi/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/fenemimi/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/fenemimi/icon.webp",
       "contactSheetUrl": "/hatch-pets/fenemimi/contact-sheet.webp",
       "validationUrl": "/hatch-pets/fenemimi/validation.json",
-      "sourceRun": "hatch-pet-runs/garu-rare-20261014/fenemimi",
-      "petUrl": "/hatch-pets/fenemimi/pet.json"
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/fenemimi"
     },
     {
       "id": "garuchan-spy",
@@ -56,6 +60,7 @@
       "petUrl": "/hatch-pets/garuchan-spy/pet.json",
       "spritesheetUrl": "/hatch-pets/garuchan-spy/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/garuchan-spy/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/garuchan-spy/icon.webp",
       "contactSheetUrl": "/hatch-pets/garuchan-spy/contact-sheet.png",
       "validationUrl": "/hatch-pets/garuchan-spy/validation.json",
       "sourceRun": "hatch-pet-runs/garuchan-spy"
@@ -68,6 +73,7 @@
       "petUrl": "/hatch-pets/kawarun/pet.json",
       "spritesheetUrl": "/hatch-pets/kawarun/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/kawarun/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/kawarun/icon.webp",
       "contactSheetUrl": "/hatch-pets/kawarun/contact-sheet.webp",
       "validationUrl": "/hatch-pets/kawarun/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/kawarun"
@@ -80,6 +86,7 @@
       "petUrl": "/hatch-pets/kooron/pet.json",
       "spritesheetUrl": "/hatch-pets/kooron/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/kooron/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/kooron/icon.webp",
       "contactSheetUrl": "/hatch-pets/kooron/contact-sheet.webp",
       "validationUrl": "/hatch-pets/kooron/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/kooron"
@@ -92,6 +99,7 @@
       "petUrl": "/hatch-pets/mimiru/pet.json",
       "spritesheetUrl": "/hatch-pets/mimiru/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/mimiru/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/mimiru/icon.webp",
       "contactSheetUrl": "/hatch-pets/mimiru/contact-sheet.webp",
       "validationUrl": "/hatch-pets/mimiru/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/mimiru"
@@ -104,6 +112,7 @@
       "petUrl": "/hatch-pets/moyarin/pet.json",
       "spritesheetUrl": "/hatch-pets/moyarin/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/moyarin/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/moyarin/icon.webp",
       "contactSheetUrl": "/hatch-pets/moyarin/contact-sheet.webp",
       "validationUrl": "/hatch-pets/moyarin/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/moyarin"
@@ -116,6 +125,7 @@
       "petUrl": "/hatch-pets/nyacoco/pet.json",
       "spritesheetUrl": "/hatch-pets/nyacoco/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/nyacoco/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/nyacoco/icon.webp",
       "contactSheetUrl": "/hatch-pets/nyacoco/contact-sheet.webp",
       "validationUrl": "/hatch-pets/nyacoco/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/nyacoco"
@@ -125,36 +135,39 @@
       "displayName": "おかぴぴ",
       "japaneseName": "おかぴぴ",
       "description": "おかぴぴ: ガルちゃんににたピンクのオカピのあかちゃん。みんなとあそぶのがだいすき。",
+      "petUrl": "/hatch-pets/okapipi/pet.json",
       "spritesheetUrl": "/hatch-pets/okapipi/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/okapipi/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/okapipi/icon.webp",
       "contactSheetUrl": "/hatch-pets/okapipi/contact-sheet.webp",
       "validationUrl": "/hatch-pets/okapipi/validation.json",
-      "sourceRun": "hatch-pet-runs/garu-rare-20261014/okapipi",
-      "petUrl": "/hatch-pets/okapipi/pet.json"
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/okapipi"
     },
     {
       "id": "panmaru",
       "displayName": "Panmaru",
       "japaneseName": "ぱんまる",
       "description": "ぱんまる: まあるい耳とピンクの目もようがかわいいパンダのあかちゃん。だっことおひるねがだいすき。",
+      "petUrl": "/hatch-pets/panmaru/pet.json",
       "spritesheetUrl": "/hatch-pets/panmaru/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/panmaru/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/panmaru/icon.webp",
       "contactSheetUrl": "/hatch-pets/panmaru/contact-sheet.webp",
       "validationUrl": "/hatch-pets/panmaru/validation.json",
-      "sourceRun": "hatch-pet-runs/garu-style-20261014/panmaru",
-      "petUrl": "/hatch-pets/panmaru/pet.json"
+      "sourceRun": "hatch-pet-runs/garu-style-20261014/panmaru"
     },
     {
       "id": "penpoyo",
       "displayName": "Penpoyo",
       "japaneseName": "ぺんぽよ",
       "description": "ぺんぽよ: ちいさなつばさであいさつするペンギンのあかちゃん。よちよちあるいてみんなについていくよ。",
+      "petUrl": "/hatch-pets/penpoyo/pet.json",
       "spritesheetUrl": "/hatch-pets/penpoyo/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/penpoyo/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/penpoyo/icon.webp",
       "contactSheetUrl": "/hatch-pets/penpoyo/contact-sheet.webp",
       "validationUrl": "/hatch-pets/penpoyo/validation.json",
-      "sourceRun": "hatch-pet-runs/garu-style-20261014/penpoyo",
-      "petUrl": "/hatch-pets/penpoyo/pet.json"
+      "sourceRun": "hatch-pet-runs/garu-style-20261014/penpoyo"
     },
     {
       "id": "pochimaru",
@@ -164,6 +177,7 @@
       "petUrl": "/hatch-pets/pochimaru/pet.json",
       "spritesheetUrl": "/hatch-pets/pochimaru/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/pochimaru/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/pochimaru/icon.webp",
       "contactSheetUrl": "/hatch-pets/pochimaru/contact-sheet.webp",
       "validationUrl": "/hatch-pets/pochimaru/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/pochimaru"
@@ -173,12 +187,13 @@
       "displayName": "くおころ",
       "japaneseName": "くおころ",
       "description": "くおころ: ガルちゃんににたピンクのクオッカのあかちゃん。みんなとあそぶのがだいすき。",
+      "petUrl": "/hatch-pets/quokoro/pet.json",
       "spritesheetUrl": "/hatch-pets/quokoro/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/quokoro/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/quokoro/icon.webp",
       "contactSheetUrl": "/hatch-pets/quokoro/contact-sheet.webp",
       "validationUrl": "/hatch-pets/quokoro/validation.json",
-      "sourceRun": "hatch-pet-runs/garu-rare-20261014/quokoro",
-      "petUrl": "/hatch-pets/quokoro/pet.json"
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/quokoro"
     },
     {
       "id": "rakopi",
@@ -188,6 +203,7 @@
       "petUrl": "/hatch-pets/rakopi/pet.json",
       "spritesheetUrl": "/hatch-pets/rakopi/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/rakopi/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/rakopi/icon.webp",
       "contactSheetUrl": "/hatch-pets/rakopi/contact-sheet.webp",
       "validationUrl": "/hatch-pets/rakopi/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/rakopi"
@@ -200,6 +216,7 @@
       "petUrl": "/hatch-pets/reopon/pet.json",
       "spritesheetUrl": "/hatch-pets/reopon/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/reopon/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/reopon/icon.webp",
       "contactSheetUrl": "/hatch-pets/reopon/contact-sheet.webp",
       "validationUrl": "/hatch-pets/reopon/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/reopon"
@@ -209,12 +226,13 @@
       "displayName": "せんまる",
       "japaneseName": "せんまる",
       "description": "せんまる: ガルちゃんににたピンクのセンザンコウのあかちゃん。みんなとあそぶのがだいすき。",
+      "petUrl": "/hatch-pets/senmaru/pet.json",
       "spritesheetUrl": "/hatch-pets/senmaru/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/senmaru/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/senmaru/icon.webp",
       "contactSheetUrl": "/hatch-pets/senmaru/contact-sheet.webp",
       "validationUrl": "/hatch-pets/senmaru/validation.json",
-      "sourceRun": "hatch-pet-runs/garu-rare-20261014/senmaru",
-      "petUrl": "/hatch-pets/senmaru/pet.json"
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/senmaru"
     },
     {
       "id": "suzupi",
@@ -224,6 +242,7 @@
       "petUrl": "/hatch-pets/suzupi/pet.json",
       "spritesheetUrl": "/hatch-pets/suzupi/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/suzupi/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/suzupi/icon.webp",
       "contactSheetUrl": "/hatch-pets/suzupi/contact-sheet.webp",
       "validationUrl": "/hatch-pets/suzupi/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/suzupi"
@@ -236,6 +255,7 @@
       "petUrl": "/hatch-pets/tsunomaru/pet.json",
       "spritesheetUrl": "/hatch-pets/tsunomaru/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/tsunomaru/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/tsunomaru/icon.webp",
       "contactSheetUrl": "/hatch-pets/tsunomaru/contact-sheet.webp",
       "validationUrl": "/hatch-pets/tsunomaru/validation.json",
       "sourceRun": "hatch-pet-runs/garu-style-20260602/tsunomaru"
@@ -245,24 +265,26 @@
       "displayName": "うぱるる",
       "japaneseName": "うぱるる",
       "description": "うぱるる: ガルちゃんににたピンクのウーパールーパーのあかちゃん。みんなとあそぶのがだいすき。",
+      "petUrl": "/hatch-pets/uparuru/pet.json",
       "spritesheetUrl": "/hatch-pets/uparuru/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/uparuru/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/uparuru/icon.webp",
       "contactSheetUrl": "/hatch-pets/uparuru/contact-sheet.webp",
       "validationUrl": "/hatch-pets/uparuru/validation.json",
-      "sourceRun": "hatch-pet-runs/garu-rare-20261014/uparuru",
-      "petUrl": "/hatch-pets/uparuru/pet.json"
+      "sourceRun": "hatch-pet-runs/garu-rare-20261014/uparuru"
     },
     {
       "id": "zomochi",
       "displayName": "Zomochi",
       "japaneseName": "ぞうもち",
       "description": "ぞうもち: ちいさなおはなとおおきな耳をもつゾウのあかちゃん。やさしくおてつだいするのがだいすき。",
+      "petUrl": "/hatch-pets/zomochi/pet.json",
       "spritesheetUrl": "/hatch-pets/zomochi/spritesheet.webp",
       "spritesheetMiniUrl": "/hatch-pets/zomochi/spritesheet-mini.webp",
+      "iconUrl": "/hatch-pets/zomochi/icon.webp",
       "contactSheetUrl": "/hatch-pets/zomochi/contact-sheet.webp",
       "validationUrl": "/hatch-pets/zomochi/validation.json",
-      "sourceRun": "hatch-pet-runs/garu-style-20261014/zomochi",
-      "petUrl": "/hatch-pets/zomochi/pet.json"
+      "sourceRun": "hatch-pet-runs/garu-style-20261014/zomochi"
     }
   ]
 }

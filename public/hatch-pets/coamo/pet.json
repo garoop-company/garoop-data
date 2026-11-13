@@ -75,5 +75,7 @@
   ],
   "spritesheetMiniPath": "spritesheet-mini.webp",
   "spritesheetMiniUrl": "/hatch-pets/coamo/spritesheet-mini.webp",
+  "iconPath": "icon.webp",
+  "iconUrl": "/hatch-pets/coamo/icon.webp",
   "sourceRun": "hatch-pet-runs/garu-style-20260602/coamo"
 }

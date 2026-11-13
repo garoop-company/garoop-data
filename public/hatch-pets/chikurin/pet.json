@@ -75,5 +75,7 @@
   ],
   "spritesheetMiniPath": "spritesheet-mini.webp",
   "spritesheetMiniUrl": "/hatch-pets/chikurin/spritesheet-mini.webp",
+  "iconPath": "icon.webp",
+  "iconUrl": "/hatch-pets/chikurin/icon.webp",
   "sourceRun": "hatch-pet-runs/garu-style-20260602/chikurin"
 }

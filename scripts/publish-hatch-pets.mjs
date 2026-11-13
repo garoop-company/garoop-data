@@ -43,6 +43,36 @@ async function writeMiniSpritesheet(source, destination, petAtlas) {
     .toFile(destination);
 }
 
+// プロフィールのアイコン用の静止画（kids_web・garoop_integration のマイページで選ぶ）。
+// idle の 1 コマ目を切り出し、余白を詰めて正方形の透明キャンバスの真ん中に置く。
+const iconSize = 256;
+const iconFileName = "icon.webp";
+
+async function writeIcon(source, destination, petAtlas, rows) {
+  const idle = rows.find((row) => row.state === "idle") ?? rows[0];
+  const cell = await sharp(source)
+    .extract({
+      left: 0,
+      top: (idle?.row ?? 0) * petAtlas.cellHeight,
+      width: petAtlas.cellWidth,
+      height: petAtlas.cellHeight,
+    })
+    .png()
+    .toBuffer();
+  const trimmed = await sharp(cell).trim({ threshold: 1 }).png().toBuffer();
+  const inner = Math.round(iconSize * 0.9);
+  const fitted = await sharp(trimmed)
+    .resize(inner, inner, { fit: "inside", kernel: "lanczos3" })
+    .png()
+    .toBuffer();
+  await sharp({
+    create: { width: iconSize, height: iconSize, channels: 4, background: { r: 0, g: 0, b: 0, alpha: 0 } },
+  })
+    .composite([{ input: fitted, gravity: "center" }])
+    .webp({ quality: 85, alphaQuality: 100, effort: 6 })
+    .toFile(destination);
+}
+
 function toPublicPath(...parts) {
   return `/${path.posix.join("hatch-pets", ...parts)}`;
 }
@@ -230,6 +260,7 @@ async function main() {
 
     await cp(item.spritesheetPath, path.join(destination, "spritesheet.webp"));
     await writeMiniSpritesheet(item.spritesheetPath, path.join(destination, miniFileName), item.pet.atlas);
+    await writeIcon(item.spritesheetPath, path.join(destination, iconFileName), item.pet.atlas, item.pet.rows);
     await cp(item.validationPath, path.join(destination, "validation.json"));
 
     if (item.contactSheetPath) {
@@ -240,6 +271,8 @@ async function main() {
       ...item.pet,
       spritesheetMiniPath: miniFileName,
       spritesheetMiniUrl: toPublicPath(item.id, miniFileName),
+      iconPath: iconFileName,
+      iconUrl: toPublicPath(item.id, iconFileName),
       sourceRun: item.sourceDirectory,
     };
 
@@ -253,6 +286,7 @@ async function main() {
       petUrl: toPublicPath(item.id, "pet.json"),
       spritesheetUrl: publicPet.spritesheetUrl,
       spritesheetMiniUrl: publicPet.spritesheetMiniUrl,
+      iconUrl: publicPet.iconUrl,
       contactSheetUrl: publicPet.contactSheetUrl,
       validationUrl: publicPet.validationUrl,
       sourceRun: item.sourceDirectory,
